@@ -16,6 +16,7 @@ get '/:code' do
     status 404
     json "Not Found"
   rescue Exception => e
+    puts e
     status 404
     json "Not Found"
   end
