@@ -3,7 +3,8 @@ require "sinatra/json"
 require 'json'
 
 get '/' do
-  redirect 'http://ifsc.razorpay.com'
+  readme = File.read 'README.md'
+  erb :index, :locals => { :text => markdown(readme) }
 end
 
 get '/:code' do

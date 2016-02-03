@@ -8,6 +8,7 @@ GEM
       rack
     rack-test (0.6.3)
       rack (>= 1.0)
+    rdiscount (2.1.8)
     sinatra (1.4.7)
       rack (~> 1.5)
       rack-protection (~> 1.4)
@@ -25,6 +26,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  rdiscount
   sinatra
   sinatra-contrib
 
