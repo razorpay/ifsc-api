@@ -11,8 +11,9 @@ get '/:code' do
     code = params['code']
     bank = code[0...4]
     data = JSON.parse File.read "data/#{bank}.json"
-    data = data[params['code']]
-    json data if data
+    data = data[code]
+    puts data
+    return json data if data
     status 404
     json "Not Found"
   rescue Exception => e
