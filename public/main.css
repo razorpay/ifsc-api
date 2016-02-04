@@ -104,12 +104,19 @@ section{
 }
 pre {
   font-family: 'Source Code Pro', 'Courier New', 'consolas', 'Ubuntu Mono', monospace;
+  font-size: 15px;
+  line-height: 180%;
+  margin: 0;
+}
+.hint--bottom{
+  color: #fff;
+  font-size: 32px;
+  margin: 10px 14px;
 }
 .api-response{
   background: #232733;
   padding: 20px;
   width: auto;
-  font-size: 15px;
 }
 
 footer {
