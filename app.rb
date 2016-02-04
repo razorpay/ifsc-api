@@ -2,6 +2,11 @@ require 'sinatra'
 require "sinatra/json"
 require 'json'
 
+configure do
+  set :bind, '0.0.0.0'
+  set :protection, :except => [:json_csrf]
+end
+
 get '/' do
   readme = File.read 'README.md'
   erb :index, :locals => { :text => markdown(readme) }

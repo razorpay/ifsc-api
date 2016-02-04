@@ -1,24 +1,66 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <link href='https://yegor256.github.io/tacit/tacit.min.css' rel='stylesheet' type='text/css'>
-    <title>Razorpay IFSC API</title>
+    <title>Razorpay IFSC Toolkit</title>
+    <link href='/main.css' rel='stylesheet' type='text/css'>
+    <link href='/hint.css' rel='stylesheet' type='text/css'>
   </head>
-  <body>
-    <section>
-      <header>
-        <h1>Razorpay IFSC API</h1>
-      </header>
-    </section>
-    <section>
-      <article>
-        <%= text %>
-      </article>
-    </section>
-    <section>
-      <footer>
-        <a href='http://github.com/razorpay/ifsc-api'>Source</a>
-      </footer>
-    </section>
-  </body>
+  <body class="home-template">
+    <header class="main-header">
+    <ul id="nav">
+      <div class="container">
+        <li><a id="logo-link" href="https://razorpay.com/?ref=ifsc"></a></li>
+        <li><a href="https://razorpay.com/blog/">Blog</a></li>
+        <li><a href="https://razorpay.com/features/?ref=ifsc">Features</a></li>
+        <li><a href="https://razorpay.com/demo/?ref=ifsc">Demo</a></li>
+        <li><a href="https://docs.razorpay.com" target="_blank">Docs</a></li>
+        <div class="float-right">
+          <li><a href="https://dashboard.razorpay.com/#/access/signin" class="login-link">Log In</a></li>
+          <li><a href="https://dashboard.razorpay.com/#/access/signup?ref=ifsc" class="btn login-link">Sign Up</a></li>
+        </div>
+      </div>
+    </ul>
+    </header>
+    <div class='container'>
+      <section class='desc'>
+        <div class='section-inner'>
+          <header>
+            <h1>Razorpay IFSC Toolkit</h1>
+            <span>Process IFSC codes via our toolkit. Fire up your tools and process our API for the IFSC codes.</span>
+          </header>
+
+          <ul>
+            <li>An API to query IFSC codes</li>
+            <li>IFSC dataset available for download</li>
+            <li>Code to generate the dataset</li>
+          </ul>
+
+          <nav class="buttons">
+            <a class="hint--bottom" data-hint="API Documentation" title="API Documentation" href="https://github.com/razorpay/ifsc/wiki/API"><i class="icon-book"></i></a>
+            <a class="hint--bottom" data-hint="Dataset Download" title="Dataset Download" href="https://github.com/razorpay/ifsc/releases"><i class="icon-drive"></i></a>
+            <a class="hint--bottom" data-hint="Source Code" title="Source Code" href="https://github.com/razorpay/ifsc"><i class="icon-github-circled"></i></a>
+          </nav>
+        </div>
+      </section><section>
+        <div class='api-response'><table><tr><td></td><td><pre style="margin: 0; line-height: 125%"><span style="color: #D56C43">{</span>
+    <span style="color: #299F6C">&quot;BANK&quot;</span><span style="color: #D56C43">:</span> <span style="color: #2F7190">&quot;HDFC BANK&quot;</span><span style="color: #D56C43">,</span>
+    <span style="color: #299F6C">&quot;IFSC&quot;</span><span style="color: #D56C43">:</span> <span style="color: #2F7190">&quot;HDFC0CAGSBK&quot;</span><span style="color: #D56C43">,</span>
+    <span style="color: #299F6C">&quot;MICR&quot;</span><span style="color: #D56C43">:</span> <span style="color: #2F7190">&quot;560226263.0&quot;</span><span style="color: #D56C43">,</span>
+    <span style="color: #299F6C">&quot;BRANCH&quot;</span><span style="color: #D56C43">:</span> <span style="color: #2F7190">&quot;THE AGS EMPLOYEES' CO-OP BANK LTD&quot;</span><span style="color: #D56C43">,</span>
+    <span style="color: #299F6C">&quot;ADDRESS&quot;</span><span style="color: #D56C43">:</span> <span style="color: #2F7190">2265658</span><span style="color: #D56C43">,</span>
+    <span style="color: #299F6C">&quot;CONTACT&quot;</span><span style="color: #D56C43">:</span> <span style="color: #2F7190">&quot;PARK HOUSE ROAD, BANGALORE 560001&quot;</span><span style="color: #D56C43">,</span>
+    <span style="color: #299F6C">&quot;CITY&quot;</span><span style="color: #D56C43">:</span> <span style="color: #2F7190">&quot;BANGALORE&quot;</span><span style="color: #D56C43">,</span>
+    <span style="color: #299F6C">&quot;DISTRICT&quot;</span><span style="color: #D56C43">:</span> <span style="color: #2F7190">&quot;BANGALORE URBAN&quot;</span><span style="color: #D56C43">,</span>
+    <span style="color: #299F6C">&quot;STATE&quot;</span><span style="color: #D56C43">:</span> <span style="color: #2F7190">&quot;KARNATAKA&quot;</span><span style="color: #D56C43">
+}</span></pre></td></tr></table>
+        </div>
+      </section>
+    </div>
+    <footer>
+      <a href="https://razorpay.com/about/" title="Link to Razorpay About Page">Made with ♥ by folks at Razorpay</a>
+    </footer>
+
+<link href='https://fonts.googleapis.com/css?family=Actor' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Source+Code+Pro' rel='stylesheet' type='text/css'>
+</body>
 </html>
