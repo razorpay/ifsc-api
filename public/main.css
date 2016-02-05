@@ -71,6 +71,15 @@ h1{
   padding: 0 20px;
   white-space: nowrap;
 }
+.container a, footer a {
+  color: white;
+}
+
+.main-content a {
+  padding-bottom: 2px;
+  border-bottom: 1px solid white;
+  text-decoration: none;
+}
 .desc{
   width: 50%;
 }
@@ -160,7 +169,6 @@ footer {
 }
 
 footer a {
-  color: white;
   border-radius: 4px;
   font-family: inherit;
   font-family: inherit;
@@ -169,7 +177,15 @@ footer a {
   text-decoration: none;
   border-radius: 2px;
   transition: 0.2s;
-  opacity: 0.3;
+  color: #546f7f;
+}
+
+footer a .heart {
+  transition: all 0.2s ease-in !important;
+}
+
+footer a:hover .heart {
+  color: #e74c3c;
 }
 
 /** Fontello Copy-paste follows */
