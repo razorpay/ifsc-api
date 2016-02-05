@@ -61,7 +61,7 @@ body{
   overflow-x: hidden;
 }
 h1{
-  font-size: 42px;
+  font-size: 40px;
   font-weight: normal;
   text-shadow: 0 1px 2px rgba(0,0,0,0.2)
 }
@@ -123,14 +123,33 @@ pre {
   margin: 0;
 }
 .buttons{
-  margin-left: 60px;
+  
 }
-.hint--bottom{
+
+.buttons a{
+  padding: 0 12px;
+  color: white;
+  border: 1px solid white;
+  white-space: nowrap;
+  letter-spacing: .25px;
+  cursor: pointer;
+  height: 42px;
+  line-height: 43px;
+  border-radius: 24px;
+  display: inline-block;
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: normal;
+  text-decoration: none;
+  margin-left: 10px;
+}
+
+.buttons a:hover {
+  background: #2493ff;
   color: #fff;
-  font-size: 32px;
-  margin: 10px 6px;
-  padding-bottom: 6px;
+  border-color: #2493ff;
 }
+
 .api-response{
   background: #232733;
   padding: 20px;
@@ -176,7 +195,6 @@ footer a {
   }
 }
 
- 
 [class^="icon-"]:before, [class*=" icon-"]:before {
   font-family: "fontello";
   font-style: normal;
@@ -212,12 +230,6 @@ footer a {
   text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3);
 }
 
-i[class^="icon-"] {
-  opacity: 0.6;
-}
-i[class^="icon-"]:hover {
-  opacity: 1.0;
-}
 .icon-book:before { content: '\e800'; } /* '' */
 .icon-drive:before { content: '\e801'; } /* '' */
 .icon-github-circled:before { content: '\e802'; } /* '' */
