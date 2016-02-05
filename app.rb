@@ -1,10 +1,16 @@
 require 'sinatra'
 require "sinatra/json"
 require 'json'
+require 'thin'
 
 configure do
   set :bind, '0.0.0.0'
   set :protection, :except => [:json_csrf]
+  if production?
+    require 'rack/ssl-enforcer'
+    use Rack::SslEnforcer
+  end
+  set :server, "thin"
 end
 
 get '/' do
