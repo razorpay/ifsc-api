@@ -54,8 +54,8 @@ html,body{
 body{
   background: linear-gradient(to right, #1B2E4D, #326A78);
   color: #fff;
-  font-family: 'Actor', sans-serif;
-  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
   line-height: 34px;
   padding-top: 250px;
   overflow-x: hidden;
@@ -63,6 +63,7 @@ body{
 h1{
   font-size: 42px;
   font-weight: normal;
+  text-shadow: 0 1px 2px rgba(0,0,0,0.2)
 }
 .container{
   max-width: 1060px;
@@ -138,7 +139,7 @@ pre {
 
 footer {
   width:350px;
-  margin: 150px auto;
+  margin: 180px auto;
 }
 
 footer a {
@@ -148,18 +149,10 @@ footer a {
   font-family: inherit;
   font-size: 100%;
   padding: .5em 1em;
-  color: #444;
-  color: rgba(0,0,0,.8);
-  border: 1px solid #999;
-  border: 0 rgba(0,0,0,0);
-  background-color: #E6E6E6;
   text-decoration: none;
   border-radius: 2px;
   transition: 0.2s;
-}
-
-footer a:hover{
-  background: #fff;
+  opacity: 0.3;
 }
 
 /** Fontello Copy-paste follows */
@@ -184,7 +177,7 @@ footer a:hover{
 }
 
  
- [class^="icon-"]:before, [class*=" icon-"]:before {
+[class^="icon-"]:before, [class*=" icon-"]:before {
   font-family: "fontello";
   font-style: normal;
   font-weight: normal;
@@ -195,7 +188,7 @@ footer a:hover{
   width: 1em;
   margin-right: .2em;
   text-align: center;
-  /* opacity: .8; */
+  
  
   /* For safety - reset parent styles, that can break glyph codes*/
   font-variant: normal;
@@ -216,10 +209,16 @@ footer a:hover{
   -moz-osx-font-smoothing: grayscale;
  
   /* Uncomment for 3D effect */
-  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+  text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3);
 }
- 
+
+i[class^="icon-"] {
+  opacity: 0.6;
+}
+i[class^="icon-"]:hover {
+  opacity: 1.0;
+}
 .icon-book:before { content: '\e800'; } /* '' */
 .icon-drive:before { content: '\e801'; } /* '' */
 .icon-github-circled:before { content: '\e802'; } /* '' */
-.icon-bank:before { content: '\e803'; } /* '' */
+.icon-bank:before { content: '\e803'; } /* '' */ 
