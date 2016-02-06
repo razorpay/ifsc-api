@@ -20,7 +20,7 @@ end
 
 get '/:code' do
   begin
-    code = params['code']
+    code = params['code'].upcase
     bank = code[0...4]
     data = JSON.parse File.read "data/#{bank}.json"
     data = data[code]
