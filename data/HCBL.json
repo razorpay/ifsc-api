@@ -6,7 +6,7 @@
     "ADDRESS": "HASTI SAHAKAR DEEP STATION AREA DONDAICHA DIST DHULE Pin 425408",
     "CONTACT": 8888891644.0,
     "CITY": "DONDAICHA",
-    "DISTRICT": "DONDAICHA",
+    "DISTRICT": "DHULE",
     "STATE": "MH"
   },
   "HCBL0000102": {
@@ -16,7 +16,7 @@
     "ADDRESS": "Near S.T. Stand, Shindkheda,   Dist   Dhule  Pin  425408",
     "CONTACT": 8888891646.0,
     "CITY": "SHINDKHEDA",
-    "DISTRICT": "SHINDKHEDA",
+    "DISTRICT": "DHULE",
     "STATE": "MH"
   },
   "HCBL0000103": {
@@ -26,7 +26,7 @@
     "ADDRESS": "Bazar Peth, Songir,   Dist   Dhule   Pin  424309",
     "CONTACT": 8888891647.0,
     "CITY": "SONGIR",
-    "DISTRICT": "SONGIR",
+    "DISTRICT": "DHULE",
     "STATE": "MH"
   },
   "HCBL0000104": {
@@ -46,7 +46,7 @@
     "ADDRESS": "Satana Road, Pimpalner, Tal.Sakri,  Dist   Dhule  Pin  424306",
     "CONTACT": 8888891649.0,
     "CITY": "PIMPALNER",
-    "DISTRICT": "PIMPALNER",
+    "DISTRICT": "DHULE",
     "STATE": "MH"
   },
   "HCBL0000106": {
@@ -56,7 +56,7 @@
     "ADDRESS": "3,Panzara Colony, Sakri,  Dist   Dhule  Pin  424308",
     "CONTACT": 8888891640.0,
     "CITY": "SAKRI",
-    "DISTRICT": "SAKRI",
+    "DISTRICT": "DHULE",
     "STATE": "MH"
   },
   "HCBL0000107": {
@@ -76,7 +76,7 @@
     "ADDRESS": "Main Road, Akkalkuwa,  Dist   Nandurbar  Pin  425415",
     "CONTACT": 8888891652.0,
     "CITY": "AKKALKUWA",
-    "DISTRICT": "AKKALKUWA",
+    "DISTRICT": "NANDURBAR",
     "STATE": "MH"
   },
   "HCBL0000109": {
@@ -86,7 +86,7 @@
     "ADDRESS": "Bohari Market, Near Bus Stand, Tal.Shahada  Dist  Nandurbar  Pin  425409",
     "CONTACT": 8888891653.0,
     "CITY": "SHAHADA",
-    "DISTRICT": "SHAHADA",
+    "DISTRICT": "NANDURBAR",
     "STATE": "MH"
   },
   "HCBL0000111": {
@@ -106,7 +106,7 @@
     "ADDRESS": "237,Aadarsh Nagar,Near Gayatri Mandir, Shirpur  Dist   Dhule  Pin  425405",
     "CONTACT": 8888891655.0,
     "CITY": "SHIRPUR",
-    "DISTRICT": "SHIRPUR",
+    "DISTRICT": "DHULE",
     "STATE": "MH"
   },
   "HCBL0000113": {
@@ -116,7 +116,7 @@
     "ADDRESS": "Limdiwadi, Navapur pin",
     "CONTACT": 8888891656.0,
     "CITY": "NAVAPUR",
-    "DISTRICT": "NAVAPUR",
+    "DISTRICT": "NANDURBAR",
     "STATE": "MH"
   },
   "HCBL0000114": {
@@ -126,7 +126,7 @@
     "ADDRESS": "Ghat Road, Chalisgaon",
     "CONTACT": 8888843755.0,
     "CITY": "CHALISGAON",
-    "DISTRICT": "CHALISGAON",
+    "DISTRICT": "JALGAON",
     "STATE": "MH"
   },
   "HCBL0000115": {
@@ -136,7 +136,7 @@
     "ADDRESS": "New Plot, Bank Street , AMALNER Dist Jalgaon",
     "CONTACT": 8888843715.0,
     "CITY": "AMALNER",
-    "DISTRICT": "AMALNER",
+    "DISTRICT": "JALGAON",
     "STATE": "MH"
   },
   "HCBL0000116": {
@@ -146,7 +146,7 @@
     "ADDRESS": "Near Uma Hospital SATANA dist Nasik",
     "CONTACT": 8888843722.0,
     "CITY": "SATANA",
-    "DISTRICT": "SATANA",
+    "DISTRICT": "NASIK",
     "STATE": "MH"
   },
   "HCBL0000117": {
@@ -156,7 +156,17 @@
     "ADDRESS": "MAIN ROAD TALODA DIST NANDURBAR MH PIN 425413",
     "CONTACT": 233002.0,
     "CITY": "TALODA",
-    "DISTRICT": "TALODA",
+    "DISTRICT": "NANDURBAR",
+    "STATE": "MAHARASHTRA"
+  },
+  "HCBL0000118": {
+    "BANK": "THE HASTI COOP BANK LTD",
+    "IFSC": "HCBL0000118",
+    "BRANCH": "GIRIVIHAR NANDURBAR",
+    "ADDRESS": "GIRIVIHAR GATE NANDURBAR 425412",
+    "CONTACT": 233118.0,
+    "CITY": "NANDURBAR",
+    "DISTRICT": "NANDURBAR",
     "STATE": "MAHARASHTRA"
   }
 }
