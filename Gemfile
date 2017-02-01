@@ -6,3 +6,4 @@ gem "sinatra-contrib"
 gem "rdiscount"
 gem 'rack-ssl-enforcer'
 gem 'thin'
+gem 'secure_headers'
