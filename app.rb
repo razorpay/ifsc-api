@@ -2,12 +2,31 @@ require 'sinatra'
 require "sinatra/json"
 require 'json'
 require 'thin'
+require 'secure_headers'
 
 configure do
+  use SecureHeaders::Middleware
+
+  SecureHeaders::Configuration.default do |config|
+    # 20 seconds
+    config.hsts = "max-age=#{630720000}; includeSubdomains"
+    config.x_frame_options = "DENY"
+    config.csp = {
+     default_src: %w('self' https://razorpay.com),
+     script_src: %w('none'),
+     object_src: %w('none'),
+     font_src: %w('self' https://fonts.gstatic.com),
+     style_src: %w('self' 'unsafe-inline' https://fonts.googleapis.com)
+   }
+  end
+
+
   set :bind, '0.0.0.0'
   set :protection, :except => [:json_csrf]
   if production?
+    require 'secure_headers'
     require 'rack/ssl-enforcer'
+    use SecureHeaders::Middleware
     use Rack::SslEnforcer
   end
   set :server, "thin"
