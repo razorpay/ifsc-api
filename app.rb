@@ -8,7 +8,8 @@ configure do
   use SecureHeaders::Middleware
 
   SecureHeaders::Configuration.default do |config|
-    config.hsts = "max-age=#{20.years.to_i}; includeSubdomains"
+    # 20 seconds
+    config.hsts = "max-age=#{630720000}; includeSubdomains"
     config.x_frame_options = "DENY"
     config.csp = {
      default_src: %w('self' https://razorpay.com),
