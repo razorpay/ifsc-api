@@ -17,9 +17,8 @@ configure do
      object_src: %w('none'),
      font_src: %w('self' https://fonts.gstatic.com),
      style_src: %w('self' 'unsafe-inline' https://fonts.googleapis.com)
-   }
-  end
-
+   } 
+ end
 
   set :bind, '0.0.0.0'
   set :protection, :except => [:json_csrf]
@@ -30,6 +29,22 @@ configure do
     use Rack::SslEnforcer
   end
   set :server, "thin"
+  set :ifsc_codes, {}
+end
+
+helpers do
+  def ifsc_data(code)
+    return nil if !code
+    code = code.upcase
+    bank = code[0...4]
+    if settings.ifsc_codes[bank].nil?
+      bank_data = JSON.parse File.read "data/#{bank}.json"
+      settings.ifsc_codes[bank] = bank_data if bank_data
+     end
+    bank_data = settings.ifsc_codes[bank]
+    data = bank_data[code] if bank_data
+    data
+  end
 end
 
 get '/' do
@@ -39,10 +54,7 @@ end
 
 get '/:code' do
   begin
-    code = params['code'].upcase
-    bank = code[0...4]
-    data = JSON.parse File.read "data/#{bank}.json"
-    data = data[code]
+    data = ifsc_data(params['code'])
     puts data
     return json data if data
     status 404
