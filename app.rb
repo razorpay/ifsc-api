@@ -3,6 +3,7 @@ require "sinatra/json"
 require 'json'
 require 'thin'
 require 'secure_headers'
+require 'lru_redux'
 
 configure do
   use SecureHeaders::Middleware
@@ -29,7 +30,7 @@ configure do
     use Rack::SslEnforcer
   end
   set :server, "thin"
-  set :ifsc_codes, {}
+  set :ifsc_codes, LruRedux::TTL::Cache.new(50, 20 * 60)
 end
 
 helpers do
@@ -37,7 +38,7 @@ helpers do
     return nil if !code
     code = code.upcase
     bank = code[0...4]
-    if settings.ifsc_codes[bank].nil?
+    unless settings.ifsc_codes.key?(bank)
       bank_data = JSON.parse File.read "data/#{bank}.json"
       settings.ifsc_codes[bank] = bank_data if bank_data
      end
