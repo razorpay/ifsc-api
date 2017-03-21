@@ -30,7 +30,7 @@ configure do
     use Rack::SslEnforcer
   end
   set :server, "thin"
-  set :ifsc_codes, LruRedux::TTL::Cache.new(50, 20 * 60)
+  set :ifsc_codes, LruRedux::TTL::Cache.new(25, 20 * 60)
 end
 
 helpers do
