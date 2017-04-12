@@ -31,9 +31,23 @@ configure do
   end
   set :server, "thin"
   set :ifsc_codes, LruRedux::TTL::Cache.new(25, 20 * 60)
+  set :bank_names, JSON.parse(File.read 'data/banknames.json')
+  set :sublet_list, JSON.parse(File.read 'data/sublet.json')
 end
 
 helpers do
+
+  def bank_name(branch)
+    bank_code = nil
+    if settings.sublet_list.key? branch
+      bank_code = settings.sublet_list[branch]
+    else
+      bank_code = branch[0...4]
+    end
+
+    settings.bank_names[bank_code]
+  end
+
   def ifsc_data(code)
     return nil if !code
     code = code.upcase
@@ -41,9 +55,12 @@ helpers do
     unless settings.ifsc_codes.key?(bank)
       bank_data = JSON.parse File.read "data/#{bank}.json"
       settings.ifsc_codes[bank] = bank_data if bank_data
-     end
+    end
     bank_data = settings.ifsc_codes[bank]
     data = bank_data[code] if bank_data
+
+    data['BANK'] = bank_name(code)
+
     data
   end
 end
@@ -65,8 +82,4 @@ get '/:code' do
     status 404
     json "Not Found"
   end
-end
-
-get '/.well-known/acme-challenge/T5AjpABdcHcA89HCbaGVuoD50UEnwYbcXCITQoUFFpk' do
-  return 'T5AjpABdcHcA89HCbaGVuoD50UEnwYbcXCITQoUFFpk.KE2Tu85zyb88P7GUnGf_JARVNRc9BtLFJQttAao908U'
 end
