@@ -3,10 +3,20 @@
     "BANK": "PAYTM PAYMENTS BANK LTD",
     "IFSC": "PYTM0000001",
     "BRANCH": "NOIDA BRANCH",
-    "ADDRESS": "B-121, SECTOR-5",
+    "ADDRESS": "B-121,Sector-5,Noida-201301",
     "CONTACT": "8800742626",
     "CITY": "NOIDA",
-    "DISTRICT": "NOIDA",
+    "DISTRICT": "Gautam Buddh Nagar",
+    "STATE": "UTTAR PRADESH"
+  },
+  "PYTM0123456": {
+    "BANK": "PAYTM PAYMENTS BANK LTD",
+    "IFSC": "PYTM0123456",
+    "BRANCH": "Noida Branch",
+    "ADDRESS": "B-121, Sector-5,Noida-201301",
+    "CONTACT": "8800742626",
+    "CITY": "NOIDA",
+    "DISTRICT": "Gautam Buddh Nagar",
     "STATE": "UTTAR PRADESH"
   }
 }
