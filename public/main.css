@@ -1,4 +1,4 @@
-#nav{
+#nav {
   position: absolute;
   width: 100%;
   color: rgba(255, 255, 255, 0.8);
@@ -7,32 +7,32 @@
   padding: 0;
   font-size: 14px;
 }
-#logo-link{
-  background: url('/logo.png') no-repeat center;
+#logo-link {
+  background: url('https://cdn.razorpay.com/logo-white.png') no-repeat center;
   background-size: contain;
   width: 120px;
   display: block;
   position: relative;
   top: -6px;
 }
-.btn.login-link{
-  border: 1px solid rgba(255,255,255,0.4);
+.btn.login-link {
+  border: 1px solid rgba(255, 255, 255, 0.4);
   border-radius: 20px;
 }
-#nav .btn.login-link:hover{
+#nav .btn.login-link:hover {
   background: rgba(255, 255, 255, 0.6);
   color: #333;
 }
-a:active{
-  box-shadow: 0 3px 5px rgba(0,0,0,0.3) inset;
+a:active {
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3) inset;
 }
-.float-right{
+.float-right {
   float: right;
 }
-#more-menu{
+#more-menu {
   display: none;
 }
-#nav a{
+#nav a {
   transition: 0.2s;
   color: inherit;
   text-decoration: none;
@@ -41,18 +41,19 @@ a:active{
   display: block;
   padding: 0 16px;
 }
-#nav a:hover{
+#nav a:hover {
   color: #fff;
 }
-#nav li{
+#nav li {
   margin: 0 2px;
   float: left;
 }
-html,body{
+html,
+body {
   min-height: 100%;
 }
-body{
-  background: linear-gradient(to right, #1B2E4D, #326A78);
+body {
+  background: linear-gradient(to right, #1b2e4d, #326a78);
   color: #fff;
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
@@ -60,18 +61,19 @@ body{
   padding-top: 200px;
   overflow-x: hidden;
 }
-h1{
+h1 {
   font-size: 40px;
   font-weight: normal;
-  text-shadow: 0 1px 2px rgba(0,0,0,0.2)
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
 }
-.container{
+.container {
   max-width: 1060px;
   margin: 0 auto;
   padding: 0 20px;
   white-space: nowrap;
 }
-.container a, footer a {
+.container a,
+footer a {
   color: white;
 }
 
@@ -80,66 +82,66 @@ h1{
   border-bottom: 1px solid white;
   text-decoration: none;
 }
-.desc{
+.desc {
   width: 50%;
 }
-section{
+section {
   min-width: 50%;
   display: inline-block;
   vertical-align: middle;
   white-space: normal;
 }
-.section-inner{
+.section-inner {
   float: right;
   max-width: 440px;
   padding-right: 60px;
 }
-@media(max-width: 1000px){
-  body{
+@media (max-width: 1000px) {
+  body {
     padding-top: 120px;
     font-size: 16px;
   }
-  .middle-links{
+  .middle-links {
     display: none;
   }
-  .container{
+  .container {
     white-space: normal;
   }
-  section{
-    width: 100%!important;
+  section {
+    width: 100% !important;
   }
-  .section-inner{
+  .section-inner {
     text-align: center;
     padding: 0;
     width: auto;
     float: none;
     margin: 0 auto;
   }
-  .section-inner ul{
+  .section-inner ul {
     padding: 0;
   }
-  .section-inner li{
+  .section-inner li {
     list-style: inside;
   }
-  .buttons{
-    margin: 0 0 60px 0!important;
+  .buttons {
+    margin: 0 0 60px 0 !important;
   }
 }
 pre {
-  font-family: 'Source Code Pro', 'Courier New', 'consolas', 'Ubuntu Mono', monospace;
+  font-family: 'Source Code Pro', 'Courier New', 'consolas', 'Ubuntu Mono',
+    monospace;
   font-size: 15px;
   line-height: 180%;
   margin: 0;
 }
-.buttons{
-  
+.buttons {
 }
 
-.buttons a{
+.buttons a {
   padding: 0 12px;
   color: white;
   white-space: nowrap;
-  letter-spacing: .25px;
+  letter-spacing: 0.25px;
   cursor: pointer;
   height: 42px;
   line-height: 43px;
@@ -157,14 +159,14 @@ pre {
   border-radius: 20px;
 }
 
-.api-response{
+.api-response {
   background: #232733;
   padding: 20px;
   width: auto;
 }
 
 footer {
-  width:350px;
+  width: 350px;
   margin: 150px auto 100px;
 }
 
@@ -173,7 +175,7 @@ footer a {
   font-family: inherit;
   font-family: inherit;
   font-size: 100%;
-  padding: .5em 1em;
+  padding: 0.5em 1em;
   text-decoration: none;
   border-radius: 2px;
   transition: 0.2s;
@@ -192,54 +194,55 @@ footer a:hover .heart {
 @font-face {
   font-family: 'fontello';
   src: url('./fontello/font/fontello.eot?81018508');
-  src: url('./fontello/font/fontello.eot?81018508#iefix') format('embedded-opentype'),
-       url('./fontello/font/fontello.woff?81018508') format('woff'),
-       url('./fontello/font/fontello.ttf?81018508') format('truetype'),
-       url('./fontello/font/fontello.svg?81018508#fontello') format('svg');
+  src: url('./fontello/font/fontello.eot?81018508#iefix')
+      format('embedded-opentype'),
+    url('./fontello/font/fontello.woff?81018508') format('woff'),
+    url('./fontello/font/fontello.ttf?81018508') format('truetype'),
+    url('./fontello/font/fontello.svg?81018508#fontello') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 /* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
 /* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
 
-@media screen and (-webkit-min-device-pixel-ratio:0) {
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
   @font-face {
     font-family: 'fontello';
     src: url('../font/fontello.svg?35823544#fontello') format('svg');
   }
 }
 
-[class^="icon-"]:before, [class*=" icon-"]:before {
-  font-family: "fontello";
+[class^='icon-']:before,
+[class*=' icon-']:before {
+  font-family: 'fontello';
   font-style: normal;
   font-weight: normal;
   speak: none;
- 
+
   display: inline-block;
   text-decoration: inherit;
   width: 1em;
-  margin-right: .2em;
+  margin-right: 0.2em;
   text-align: center;
-  
- 
+
   /* For safety - reset parent styles, that can break glyph codes*/
   font-variant: normal;
   text-transform: none;
- 
+
   /* fix buttons height, for twitter bootstrap */
   line-height: 1em;
- 
+
   /* Animation center compensation - margins should be symmetric */
   /* remove if not needed */
-  margin-left: .2em;
- 
+  margin-left: 0.2em;
+
   /* you can be more comfortable with increased icons size */
   /* font-size: 120%; */
- 
+
   /* Font smoothing. That was taken from TWBS */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
- 
+
   /* Uncomment for 3D effect */
   text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3);
 }
@@ -248,7 +251,15 @@ footer a:hover .heart {
   padding-right: 3px;
 }
 
-.icon-book:before { content: '\e800'; } /* '' */
-.icon-drive:before { content: '\e801'; } /* '' */
-.icon-github-circled:before { content: '\e802'; } /* '' */
-.icon-bank:before { content: '\e803'; } /* '' */ 
+.icon-book:before {
+  content: '\e800';
+} /* '' */
+.icon-drive:before {
+  content: '\e801';
+} /* '' */
+.icon-github-circled:before {
+  content: '\e802';
+} /* '' */
+.icon-bank:before {
+  content: '\e803';
+} /* '' */
