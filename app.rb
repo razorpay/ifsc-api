@@ -74,7 +74,9 @@ end
 get '/:code' do
   begin
     data = ifsc_data(params['code'])
-    puts data
+    headers({
+      'Access-Control-Allow-Origin' => '*'
+    })
     return json data if data
     status 404
     json "Not Found"
