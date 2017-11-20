@@ -4,13 +4,13 @@ GEM
     backports (3.10.3)
     daemons (1.2.5)
     eventmachine (1.2.5)
+    kramdown (1.15.0)
     multi_json (1.12.2)
     mustermann (1.0.1)
     rack (2.0.3)
     rack-protection (2.0.0)
       rack
     rack-ssl-enforcer (0.2.9)
-    rdiscount (2.2.0.1)
     redis (4.0.1)
     secure_headers (5.0.2)
       useragent (>= 0.15.0)
@@ -37,8 +37,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  kramdown
   rack-ssl-enforcer
-  rdiscount
   redis
   secure_headers
   sinatra

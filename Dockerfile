@@ -1,13 +1,13 @@
 FROM redis:alpine
 
-RUN apk --no-cache --update add \
+RUN apk --no-cache  add \
     ca-certificates \
-    build-base \
     dumb-init \
     ruby \
     ruby-bundler \
-    ruby-dev \
     ruby-json \
+    ruby-dev \
+    && apk --no-cache add --virtual .eventmachine-builddeps g++ make \
     && rm -rf /var/cache/apk/* /tmp/*
 
 RUN mkdir /app
@@ -18,8 +18,12 @@ WORKDIR /app
 
 RUN bundle install
 
+COPY entrypoint.sh build.sh /app/
+
+RUN /app/build.sh
+
 EXPOSE 3000
 
-COPY entrypoint.sh /app
+RUN apk del .eventmachine-builddeps
 
 ENTRYPOINT ["/app/entrypoint.sh"]

@@ -3,6 +3,8 @@ require "redis"
 
 redis = Redis.new
 
+puts "[+] Reading all JSON data"
+
 Dir.glob("data/*.json") do |file|
   bank = File.basename file, ".json"
   if Regexp.new("[A-Z]{4}").match(bank)
@@ -12,5 +14,10 @@ Dir.glob("data/*.json") do |file|
       data.delete_if { |key| ['BANK', 'IFSC'].include? key }
       redis.hmset ifsc, *data
     end
+    puts "[+] Deleting #{file}"
+    File.delete file
   end
 end
+
+puts "[+] Dumping data to RDB file"
+redis.save

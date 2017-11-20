@@ -3,7 +3,7 @@ source "https://rubygems.org"
 
 gem "sinatra"
 gem "sinatra-contrib"
-gem "rdiscount"
+gem "kramdown"
 gem "rack-ssl-enforcer"
 gem "thin"
 gem "secure_headers"
