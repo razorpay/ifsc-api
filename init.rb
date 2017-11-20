@@ -14,7 +14,3 @@ Dir.glob("data/*.json") do |file|
     end
   end
 end
-
-ifsc = 'EBIL0000001'
-
-puts redis.hgetall ifsc

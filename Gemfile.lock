@@ -4,7 +4,6 @@ GEM
     backports (3.10.3)
     daemons (1.2.5)
     eventmachine (1.2.5)
-    lru_redux (1.1.0)
     multi_json (1.12.2)
     mustermann (1.0.1)
     rack (2.0.3)
@@ -38,7 +37,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  lru_redux
   rack-ssl-enforcer
   rdiscount
   redis
