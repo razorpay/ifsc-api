@@ -12,6 +12,7 @@ GEM
       rack
     rack-ssl-enforcer (0.2.9)
     rdiscount (2.2.0.1)
+    redis (4.0.1)
     secure_headers (5.0.2)
       useragent (>= 0.15.0)
     sinatra (2.0.0)
@@ -40,6 +41,7 @@ DEPENDENCIES
   lru_redux
   rack-ssl-enforcer
   rdiscount
+  redis
   secure_headers
   sinatra
   sinatra-contrib

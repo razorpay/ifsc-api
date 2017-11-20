@@ -1,13 +1,14 @@
-FROM alpine:3.4
+FROM redis:alpine
 
-RUN apk update \
-    && apk add ca-certificates \
-	ruby \
-	ruby-bundler \
-	build-base \
-	ruby-dev \
-	ruby-json \
-	&& rm -rf /var/cache/apk/*
+RUN apk --no-cache --update add \
+    ca-certificates \
+    build-base \
+    dumb-init \
+    ruby \
+    ruby-bundler \
+    ruby-dev \
+    ruby-json \
+    && rm -rf /var/cache/apk/* /tmp/*
 
 RUN mkdir /app
 
@@ -19,4 +20,6 @@ RUN bundle install
 
 EXPOSE 3000
 
-ENTRYPOINT ["bundle","exec","thin","start"]
+COPY entrypoint.sh /app
+
+ENTRYPOINT ["/app/entrypoint.sh"]
