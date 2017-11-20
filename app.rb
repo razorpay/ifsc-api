@@ -13,7 +13,7 @@ configure do
     config.hsts = "max-age=#{630720000}; includeSubdomains"
     config.x_frame_options = "DENY"
     config.csp = {
-     img_src: %w(https://cdn.razorpay.com),
+     img_src: %w(https://cdn.razorpay.com https://razorpay.com),
      default_src: %w('self' https://razorpay.com),
      script_src: %w('none'),
      object_src: %w('none'),
