@@ -1,13 +1,14 @@
-FROM alpine:3.4
+FROM redis:alpine
 
-RUN apk update \
-    && apk add ca-certificates \
-	ruby \
-	ruby-bundler \
-	build-base \
-	ruby-dev \
-	ruby-json \
-	&& rm -rf /var/cache/apk/*
+RUN apk --no-cache  add \
+    ca-certificates \
+    dumb-init \
+    ruby \
+    ruby-bundler \
+    ruby-json \
+    ruby-dev \
+    && apk --no-cache add --virtual .eventmachine-builddeps g++ make \
+    && rm -rf /var/cache/apk/* /tmp/*
 
 RUN mkdir /app
 
@@ -17,6 +18,12 @@ WORKDIR /app
 
 RUN bundle install
 
+COPY entrypoint.sh build.sh /app/
+
+RUN /app/build.sh
+
 EXPOSE 3000
 
-ENTRYPOINT ["bundle","exec","thin","start"]
+RUN apk del .eventmachine-builddeps
+
+ENTRYPOINT ["/app/entrypoint.sh"]
