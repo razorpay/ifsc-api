@@ -27,7 +27,8 @@
     "CONTACT": "41796600",
     "CITY": "DELHI",
     "DISTRICT": "DELHI",
-    "STATE": "DELHI"
+    "STATE": "DELHI",
+    "RTGS": true
   },
   "BNPA0009067": {
     "BANK": "B N P PARIBAS",
@@ -37,7 +38,8 @@
     "CONTACT": "66076200",
     "CITY": "BANGALORE",
     "DISTRICT": "BANGALORE URBAN",
-    "STATE": "KARNATAKA"
+    "STATE": "KARNATAKA",
+    "RTGS": true
   },
   "BNPA0009069": {
     "BANK": "B N P PARIBAS",
@@ -57,7 +59,8 @@
     "CONTACT": "25581347",
     "CITY": "AHMEDABAD",
     "DISTRICT": "AHMEDABAD",
-    "STATE": "GUJARAT"
+    "STATE": "GUJARAT",
+    "RTGS": true
   },
   "BNPA0009088": {
     "BANK": "B N P PARIBAS",
@@ -77,6 +80,7 @@
     "CONTACT": "66216500",
     "CITY": "HYDERABAD",
     "DISTRICT": "HYDERABAD",
-    "STATE": "ANDHRA PRADESH"
+    "STATE": "ANDHRA PRADESH",
+    "RTGS": true
   }
 }
