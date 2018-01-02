@@ -9,6 +9,17 @@
     "DISTRICT": "MUMBAI",
     "STATE": "MAHARASHTRA"
   },
+  "BBKM0000002": {
+    "BANK": "BANK OF BAHRAIN AND KUWAIT",
+    "IFSC": "BBKM0000002",
+    "BRANCH": "Hyderabad",
+    "ADDRESS": "6-3-550 Akashganga, Opp Medinova, Somajiguda, Hyderabad 500 482",
+    "CONTACT": "04023398220",
+    "CITY": "HYDERABAD",
+    "DISTRICT": "HYDERABAD",
+    "STATE": "ANDHRA PRADESH",
+    "RTGS": true
+  },
   "BBKM0000003": {
     "BANK": "BANK OF BAHARAIN AND KUWAIT BSC",
     "IFSC": "BBKM0000003",
@@ -27,7 +38,8 @@
     "CONTACT": "4037437",
     "CITY": "ERNAKULAM",
     "DISTRICT": "ERNAKULAM",
-    "STATE": "KERALA"
+    "STATE": "KERALA",
+    "RTGS": true
   },
   "BBKM0000005": {
     "BANK": "BANK OF BAHARAIN AND KUWAIT BSC",

@@ -267,7 +267,19 @@
     "CONTACT": "2364905",
     "CITY": "SURAT",
     "DISTRICT": "SURAT",
-    "STATE": "GUJARAT"
+    "STATE": "GUJARAT",
+    "RTGS": true
+  },
+  "NICB0000103": {
+    "BANK": "NEW INDIA CO-OP BANK",
+    "IFSC": "NICB0000103",
+    "BRANCH": "GHOD DHOD",
+    "ADDRESS": "UNION SQUAR, UNION PARK, GHOD DOD ROAD, SURAT -395 007",
+    "CONTACT": null,
+    "CITY": "SURAT",
+    "DISTRICT": "SURAT",
+    "STATE": "GUJARAT",
+    "RTGS": true
   },
   "NICB0000104": {
     "BANK": "NEW INDIA COOPERATIVE BANK LIMITED",
@@ -277,7 +289,8 @@
     "CONTACT": "6555061",
     "CITY": "SURAT",
     "DISTRICT": "SURAT",
-    "STATE": "GUJARAT"
+    "STATE": "GUJARAT",
+    "RTGS": true
   },
   "NICB0000251": {
     "BANK": "NEW INDIA COOPERATIVE BANK LIMITED",

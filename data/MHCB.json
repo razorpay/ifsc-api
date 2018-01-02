@@ -27,7 +27,8 @@
     "CONTACT": "30807304",
     "CITY": "BANGALORE",
     "DISTRICT": "BANGALORE RURAL",
-    "STATE": "KARNATAKA"
+    "STATE": "KARNATAKA",
+    "RTGS": true
   },
   "MHCB0000717": {
     "BANK": "MIZUHO BANK LTD",
@@ -47,7 +48,8 @@
     "CONTACT": "49112047",
     "CITY": "AHMEDABAD",
     "DISTRICT": "AHMEDABAD",
-    "STATE": "GUJARAT"
+    "STATE": "GUJARAT",
+    "RTGS": true
   },
   "MHCB0000793": {
     "BANK": "MIZUHO BANK LTD",
@@ -57,6 +59,7 @@
     "CONTACT": "30410900",
     "CITY": "NEW DELHI",
     "DISTRICT": "DELHI",
-    "STATE": "DELHI"
+    "STATE": "DELHI",
+    "RTGS": true
   }
 }

@@ -27,7 +27,8 @@
     "CONTACT": "45004800",
     "CITY": "NEW DELHI",
     "DISTRICT": "DELHI",
-    "STATE": "DELHI"
+    "STATE": "DELHI",
+    "RTGS": true
   },
   "SHBK0000005": {
     "BANK": "SHINHAN BANK",
@@ -67,6 +68,7 @@
     "CONTACT": "71170400",
     "CITY": "AHMEDABAD",
     "DISTRICT": "AHMEDABAD",
-    "STATE": "GUJARAT"
+    "STATE": "GUJARAT",
+    "RTGS": true
   }
 }
