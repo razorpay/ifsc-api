@@ -26,7 +26,25 @@ A sample response is:
 URL: <https://ifsc.razorpay.com/KARB0000001>
 You can see a permalink version of the request [here](http://hurl.eu/hurls/e1d4d8d04d804d72a7506009d19cab583b6549e6/192c7eda180f9537d47e0abe8f7b7c7fa4b419db)
 
-For an invalid IFSC code a 404 is returned.
+For an invalid IFSC code a 404 is returned. If the branch has been allocated a new IFSC code (the recent SBI merger for instance), the we return the data for the old branch (if it is still valid), along with a redirect to the new IFSC code. A sample response:
+
+```
+Server: ifsc.razorpay.com
+Content-Type: application/json
+Location: https://ifsc.razorpay.com/CTCB0000003
+
+{
+  "BANK": "KARNATAKA BANK LIMITED",
+  "IFSC": "KARB0000001",
+  "BRANCH": "RTGS-HO",
+  "CONTACT": 2228222,
+  "ADDRESS": "REGD. & HEAD OFFICE, P.B.NO.599, MAHAVEER CIRCLE, KANKANADY, MANGALORE - 575002",
+  "CITY": "MANGALORE",
+  "DISTRICT": "DAKSHINA KANNADA",
+  "STATE": "KARNATAKA",
+  "RTGS": true
+}
+```
 
 ### Running the Docker Image
 

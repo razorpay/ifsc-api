@@ -2,6 +2,7 @@ require 'sinatra'
 require 'redis'
 require 'thin'
 require 'json'
+require 'yaml'
 require 'sinatra/json'
 require 'secure_headers'
 
@@ -34,6 +35,7 @@ configure do
   set :server, "thin"
   set :bank_names, JSON.parse(File.read 'data/banknames.json')
   set :sublet_list, JSON.parse(File.read 'data/sublet.json')
+  set :redirect_list, YAML.load('data/redirects.yml')
 end
 
 helpers do
@@ -72,13 +74,26 @@ get '/' do
 end
 
 get '/:code' do
+  code = params['code']
   begin
-    data = ifsc_data(params['code'])
-    headers({
+    data = ifsc_data()
+
+    # Check if there is a redirect available
+    headers = {
       'Access-Control-Allow-Origin' => '*'
-    })
+    }
+
+    status = 404
+
+    if settings.redirect_list.key? code
+      headers['Location'] = settings.redirect_list[code]
+      status = 302
+    end
+    
+    headers()
     return json data if data
-    status 404
+
+    status status
     json "Not Found"
   rescue Exception => e
     puts e
