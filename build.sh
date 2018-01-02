@@ -8,3 +8,4 @@ ls -la /
 echo "[+] Removing extra files"
 rm -rf /usr/lib/ruby/gems/2.4.0/cache
 rm -rf /root/.bundle/cache/
+rm -rf /app/.git
