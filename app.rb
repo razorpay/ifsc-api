@@ -2,8 +2,6 @@ require 'sinatra'
 require 'redis'
 require 'thin'
 require 'json'
-require 'yaml'
-require 'pp'
 require 'sinatra/json'
 require 'secure_headers'
 
@@ -36,7 +34,7 @@ configure do
   set :server, "thin"
   set :bank_names, JSON.parse(File.read 'data/banknames.json')
   set :sublet_list, JSON.parse(File.read 'data/sublet.json')
-  set :redirect_list, YAML.load_file('data/redirects.yml')
+  set :redirect_list, settings.redis.hgetall('redirects')
 end
 
 helpers do
