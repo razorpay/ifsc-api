@@ -75,25 +75,23 @@ end
 get '/:code' do
   code = params['code']
   begin
-    data = ifsc_data(params['code'])
+    status = 404
+    data = ifsc_data(params['code']) || "Not found"
 
-    # Check if there is a redirect available
     headers = {
       'Access-Control-Allow-Origin' => '*'
     }
 
-    status = 404
 
+    # Check if there is a redirect available
     if settings.redirect_list.key? code
       headers['Location'] = settings.redirect_list[code]
       status = 302
     end
     
     headers(headers)
-    return json data if data
-
     status status
-    json "Not Found"
+    json data
   rescue Exception => e
     puts e
     status 404
