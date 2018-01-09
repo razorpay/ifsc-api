@@ -38,7 +38,7 @@ end
 
 helpers do
 
-  def bank_name(branch)
+  def bank_details(branch)
     bank_code = nil
     if settings.sublet_list.key? branch
       bank_code = settings.sublet_list[branch]
@@ -46,7 +46,7 @@ helpers do
       bank_code = branch[0...4]
     end
 
-    settings.bank_names[bank_code]
+    [settings.bank_names[bank_code],bank_code]
   end
 
   def ifsc_data(code)
@@ -57,8 +57,9 @@ helpers do
     data = settings.redis.hgetall code
 
     if data.size > 0
-      data['BANK'] = bank_name(code)
+      data['BANK'],data['BANKCODE'] = bank_details(code)
       data['IFSC'] = code
+      data['RTGS'] = true if data.key? "RTGS"
     else
       data = nil
     end
