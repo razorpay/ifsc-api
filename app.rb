@@ -34,6 +34,7 @@ configure do
   set :server, "thin"
   set :bank_names, JSON.parse(File.read 'data/banknames.json')
   set :sublet_list, JSON.parse(File.read 'data/sublet.json')
+  set :redirect_list, settings.redis.hgetall('redirects')
 end
 
 helpers do
@@ -73,14 +74,25 @@ get '/' do
 end
 
 get '/:code' do
+  code = params['code']
   begin
-    data = ifsc_data(params['code'])
-    headers({
+    status = 404
+    data = ifsc_data(params['code']) || "Not found"
+
+    headers = {
       'Access-Control-Allow-Origin' => '*'
-    })
-    return json data if data
-    status 404
-    json "Not Found"
+    }
+
+
+    # Check if there is a redirect available
+    if settings.redirect_list.key? code
+      headers['Location'] = settings.redirect_list[code]
+      status = 302
+    end
+    
+    headers(headers)
+    status status
+    json data
   rescue Exception => e
     puts e
     status 404
