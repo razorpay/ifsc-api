@@ -16,7 +16,7 @@ COPY . /app
 
 WORKDIR /app
 
-RUN bundle install --no-ri --no-rdoc
+RUN bundle install
 
 COPY entrypoint.sh build.sh /app/
 
