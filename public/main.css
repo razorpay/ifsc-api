@@ -119,12 +119,20 @@ section {
   }
   .section-inner ul {
     padding: 0;
+    display: inline-block;
   }
   .section-inner li {
+    text-align: left;
     list-style: inside;
+  }
+  .section-inner h1 {
+    line-height: 1.4em;
   }
   .buttons {
     margin: 0 0 60px 0 !important;
+  }
+  .float-right {
+    float: none;
   }
 }
 pre {
