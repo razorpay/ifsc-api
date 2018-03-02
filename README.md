@@ -33,3 +33,16 @@ For an invalid IFSC code a 404 is returned.
 You can pull the image from `razorpay/ifsc:latest`
 
 Run it with `docker run -d -p 3000:3000 razorpay:ifsc:latest`
+
+
+## Development
+
+```
+bundle install
+# Make sure redis is running and available at localhost:6379
+# This initializes the redis server
+bundle exec ruby init.rb
+bundle exec rackup
+```
+
+Your server should now be accessible at localhost:9292
