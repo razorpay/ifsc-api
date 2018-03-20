@@ -1,4 +1,7 @@
+# ifsc-api
+
 API server that serves Razorpay's IFSC API.
+
 Current API Root is <https://ifsc.razorpay.com/>
 
 ## Routes:
@@ -32,8 +35,9 @@ For an invalid IFSC code a 404 is returned.
 
 You can pull the image from `razorpay/ifsc:latest`
 
-Run it with `docker run -d -p 3000:3000 razorpay:ifsc:latest`
+Run it with `docker run -d -p 3000:3000 razorpay/ifsc:latest`
 
+This repo has the same tags as the parent IFSC repo.
 
 ## Development
 
