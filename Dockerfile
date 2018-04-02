@@ -1,29 +1,26 @@
 FROM redis:alpine
 
-RUN apk --no-cache  add \
+RUN mkdir /app
+WORKDIR /app
+COPY . /app
+
+RUN echo "** installing deps **" && \
+    apk --no-cache add \
     ca-certificates \
     dumb-init \
     ruby \
     ruby-bundler \
     ruby-json \
-    ruby-dev \
-    && apk --no-cache add --virtual .eventmachine-builddeps g++ make \
-    && rm -rf /var/cache/apk/* /tmp/*
-
-RUN mkdir /app
-
-COPY . /app
-
-WORKDIR /app
-
-RUN bundle install
-
-COPY entrypoint.sh build.sh /app/
-
-RUN /app/build.sh
+    ruby-dev && \
+    echo "** installing eventmachine-build-deps **" && \
+    apk --no-cache add --virtual .eventmachine-builddeps g++ make && \
+    echo "** installing ruby gems **" && \
+    bundle install && \
+    echo "** running build script **" && \
+    /app/build.sh && \
+    echo "** removing eventmachine-build deps **" && \
+    apk del .eventmachine-builddeps
 
 EXPOSE 3000
-
-RUN apk del .eventmachine-builddeps
 
 ENTRYPOINT ["/app/entrypoint.sh"]
