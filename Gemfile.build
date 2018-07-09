@@ -1,0 +1,4 @@
+# Gemfile used in the build docker container
+source "https://rubygems.org"
+
+gem "redis"

@@ -14,8 +14,6 @@ Dir.glob("data/*.json") do |file|
       data.delete_if { |key| ['BANK', 'IFSC'].include? key }
       redis.hmset ifsc, *data
     end
-    puts "[+] Deleting #{file}"
-    File.delete file
   end
 end
 
