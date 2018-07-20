@@ -2,6 +2,7 @@ require 'sinatra'
 require 'redis'
 require 'thin'
 require 'json'
+require './metrics'
 require 'sinatra/json'
 require 'secure_headers'
 
@@ -34,6 +35,7 @@ configure do
   set :server, 'thin'
   set :bank_names, JSON.parse(File.read('data/banknames.json'))
   set :sublet_list, JSON.parse(File.read('data/sublet.json'))
+  set :metrics, Metrics.new
 end
 
 helpers do
@@ -56,6 +58,7 @@ helpers do
       data['BANK'], data['BANKCODE'] = bank_details(code)
       data['IFSC'] = code
       data['RTGS'] = true if data.key? 'RTGS'
+      settings.metrics.increment code
     else
       data = nil
     end
@@ -66,6 +69,10 @@ end
 get '/' do
   readme = File.read 'README.md'
   erb :index, locals: { text: markdown(readme) }
+end
+
+get '/metrics' do
+  settings.metrics.format
 end
 
 get '/:code' do
