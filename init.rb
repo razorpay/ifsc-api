@@ -1,21 +1,29 @@
 require 'json'
-require "redis"
+require 'redis'
+require 'benchmark'
 
 redis = Redis.new
 
-puts "[+] Reading all JSON data"
-
-Dir.glob("data/*.json") do |file|
-  bank = File.basename file, ".json"
-  if Regexp.new("[A-Z]{4}").match(bank)
-    data = JSON.parse File.read file
-    data.each do |ifsc, data|
-      # Remove the extra keys from the JSON files
-      data.delete_if { |key| ['BANK', 'IFSC'].include? key }
-      redis.hmset ifsc, *data
-    end
-  end
+def log(msg)
+  puts "[+] (#{Time.now.strftime('%r')}) #{msg}"
 end
 
-puts "[+] Dumping data to RDB file"
-redis.save
+Benchmark.bm(18) do |bm|
+  bm.report('Ingest:') do
+    Dir.glob('data/*.json') do |file|
+      bank = File.basename file, '.json'
+      if Regexp.new('[A-Z]{4}').match(bank)
+        data = JSON.parse File.read file
+        data.each do |ifsc, d|
+          # Remove the extra keys from the JSON files
+          d.delete_if { |key| %w[BANK IFSC].include? key }
+          redis.hmset ifsc, *d
+        end
+      end
+    end
+  end
+  bm.report('Dump:') do
+    redis.save
+  end
+end
+log('Data saved to Redis')
