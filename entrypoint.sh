@@ -1,4 +1,4 @@
 #!/usr/bin/dumb-init /bin/sh
 cd /app
 redis-server --daemonize yes
-bundle exec rackup --port 3000
+bundle exec rackup --host 0.0.0.0 --port 3000
