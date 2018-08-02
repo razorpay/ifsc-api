@@ -15,7 +15,7 @@ RUN echo "** installing deps **" && \
     echo "** running build script **" && \
     bundle exec ruby init.rb
 
-FROM ruby:alpine
+FROM alpine:3.8
 
 WORKDIR /app
 # Being explicit here, not needed
@@ -25,9 +25,9 @@ ENV BUNDLE_GEMFILE=Gemfile
 COPY Gemfile Gemfile.lock /app/
 
 RUN echo "** installing deps **" && \
-    apk --no-cache add dumb-init redis libstdc++ && \
+    apk --no-cache add ruby ruby-bundler dumb-init redis libstdc++ && \
     echo "** installing eventmachine-build-deps **" && \
-    apk --no-cache add --virtual .eventmachine-builddeps g++ make && \
+    apk --no-cache add --virtual .eventmachine-builddeps ruby-dev g++ make && \
     echo "** installing ruby gems **" && \
     bundle install && \
     echo "** removing eventmachine-build deps **" && \
