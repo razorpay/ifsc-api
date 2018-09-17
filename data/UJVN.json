@@ -182,7 +182,8 @@
     "CONTACT": null,
     "CITY": "CHIKKABALLAPUR",
     "DISTRICT": "CHIKKABALLAPUR",
-    "STATE": "KARNATAKA"
+    "STATE": "KARNATAKA",
+    "RTGS": true
   },
   "UJVN0001122": {
     "BANK": "Ujjivan Small Finance Bank Limited",
@@ -256,7 +257,8 @@
     "CONTACT": null,
     "CITY": "HAVERI",
     "DISTRICT": "HAVERI",
-    "STATE": "KARNATAKA"
+    "STATE": "KARNATAKA",
+    "RTGS": true
   },
   "UJVN0001132": {
     "BANK": "Ujjivan Small Finance Bank Limited",
@@ -352,7 +354,8 @@
     "CONTACT": null,
     "CITY": "CHALLAKERE",
     "DISTRICT": "HTAUA",
-    "STATE": "KARNATAKA"
+    "STATE": "KARNATAKA",
+    "RTGS": true
   },
   "UJVN0001152": {
     "BANK": "Ujjivan Small Finance Bank Limited",
@@ -474,7 +477,8 @@
     "CONTACT": null,
     "CITY": "BANGALORE",
     "DISTRICT": "BANGALORE",
-    "STATE": "KARNATAKA"
+    "STATE": "KARNATAKA",
+    "RTGS": true
   },
   "UJVN0001174": {
     "BANK": "Ujjivan Small Finance Bank Limited",
@@ -710,7 +714,8 @@
     "CONTACT": null,
     "CITY": "ALLEPPEY",
     "DISTRICT": "ALAPPUZHA",
-    "STATE": "KERALA"
+    "STATE": "KERALA",
+    "RTGS": true
   },
   "UJVN0001623": {
     "BANK": "Ujjivan Small Finance Bank Limited",
@@ -731,7 +736,8 @@
     "CONTACT": null,
     "CITY": "TRIPRAYAR",
     "DISTRICT": "THRISSUR",
-    "STATE": "KERALA"
+    "STATE": "KERALA",
+    "RTGS": true
   },
   "UJVN0001625": {
     "BANK": "Ujjivan Small Finance Bank Limited",
@@ -1874,7 +1880,8 @@
     "CONTACT": null,
     "CITY": "BILASPUR",
     "DISTRICT": "BILASPUR",
-    "STATE": "CHHATTISGARH"
+    "STATE": "CHHATTISGARH",
+    "RTGS": true
   },
   "UJVN0002344": {
     "BANK": "Ujjivan Small Finance Bank Limited",
@@ -1884,7 +1891,8 @@
     "CONTACT": null,
     "CITY": "RAJNANDGAON",
     "DISTRICT": "RAJNANDGAON",
-    "STATE": "CHHATTISGARH"
+    "STATE": "CHHATTISGARH",
+    "RTGS": true
   },
   "UJVN0003301": {
     "BANK": "Ujjivan Small Finance Bank Limited",
@@ -2085,7 +2093,8 @@
     "CONTACT": null,
     "CITY": "JAMSHEDPUR",
     "DISTRICT": "JAMSHEDPUR",
-    "STATE": "JHARKHAND"
+    "STATE": "JHARKHAND",
+    "RTGS": true
   },
   "UJVN0003330": {
     "BANK": "Ujjivan Small Finance Bank Limited",
@@ -2136,7 +2145,8 @@
     "CONTACT": null,
     "CITY": "DHANBAD",
     "DISTRICT": "KATRAS",
-    "STATE": "JHARKHAND"
+    "STATE": "JHARKHAND",
+    "RTGS": true
   },
   "UJVN0003339": {
     "BANK": "Ujjivan Small Finance Bank Limited",
@@ -2198,6 +2208,17 @@
     "CITY": "PANSKURA",
     "DISTRICT": "PANSKURA",
     "STATE": "WEST BENGAL"
+  },
+  "UJVN0003349": {
+    "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
+    "IFSC": "UJVN0003349",
+    "BRANCH": "LALPUR",
+    "ADDRESS": "GROUND& LOWER GROUND FLOOR,NARSARIA TOWER LALPUR,OPP - LALPUR THANA RANCHI 834001 JHARKHAND",
+    "CONTACT": null,
+    "CITY": "RANCHI",
+    "DISTRICT": "RANCHI",
+    "STATE": "JHARKHAND",
+    "RTGS": true
   },
   "UJVN0003350": {
     "BANK": "Ujjivan Small Finance Bank Limited",
@@ -2313,7 +2334,8 @@
     "CONTACT": null,
     "CITY": "HAZARIBAGH",
     "DISTRICT": "HAZARIBAGH",
-    "STATE": "JHARKHAND"
+    "STATE": "JHARKHAND",
+    "RTGS": true
   },
   "UJVN0003367": {
     "BANK": "Ujjivan Small Finance Bank Limited",
@@ -2826,7 +2848,8 @@
     "CONTACT": null,
     "CITY": "SAMASTIPUR",
     "DISTRICT": "SAMASTIPUR",
-    "STATE": "BIHAR"
+    "STATE": "BIHAR",
+    "RTGS": true
   },
   "UJVN0003558": {
     "BANK": "Ujjivan Small Finance Bank Limited",
@@ -3467,7 +3490,8 @@
     "CONTACT": null,
     "CITY": "BARDOLI",
     "DISTRICT": "BARDOLI",
-    "STATE": "GUJARAT"
+    "STATE": "GUJARAT",
+    "RTGS": true
   },
   "UJVN0004473": {
     "BANK": "Ujjivan Small Finance Bank Limited",
@@ -3539,7 +3563,8 @@
     "CONTACT": null,
     "CITY": "BHAVNAGAR",
     "DISTRICT": "BHAVNAGAR",
-    "STATE": "GUJARAT"
+    "STATE": "GUJARAT",
+    "RTGS": true
   },
   "UJVN0099999": {
     "BANK": "Ujjivan Small Finance Bank Limited",

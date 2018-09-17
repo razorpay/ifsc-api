@@ -12342,7 +12342,8 @@
     "CONTACT": "2822244216",
     "CITY": "MORBI",
     "DISTRICT": "MORBI",
-    "STATE": "GUJARAT"
+    "STATE": "GUJARAT",
+    "RTGS": true
   },
   "INDB0001434": {
     "BANK": "INDUSIND BANK",
@@ -12509,7 +12510,8 @@
     "CONTACT": "8027932331",
     "CITY": "BENGALURU",
     "DISTRICT": "BENGALURU",
-    "STATE": "KARNATAKA"
+    "STATE": "KARNATAKA",
+    "RTGS": true
   },
   "INDB0001451": {
     "BANK": "INDUSIND BANK",
@@ -12652,7 +12654,8 @@
     "CONTACT": "280533",
     "CITY": "ROHTAK",
     "DISTRICT": "ROHTAK",
-    "STATE": "HARYANA"
+    "STATE": "HARYANA",
+    "RTGS": true
   },
   "INDB0001465": {
     "BANK": "INDUSIND BANK",
@@ -12682,7 +12685,8 @@
     "CONTACT": "9033001024",
     "CITY": "AHMEDABAD",
     "DISTRICT": "AHMEDABAD",
-    "STATE": "GUJARAT"
+    "STATE": "GUJARAT",
+    "RTGS": true
   },
   "INDB0001468": {
     "BANK": "INDUSIND BANK",
@@ -12736,6 +12740,17 @@
     "DISTRICT": "NASHIK",
     "STATE": "MAHARASHTRA"
   },
+  "INDB0001473": {
+    "BANK": "INDUSIND BANK LTD.",
+    "IFSC": "INDB0001473",
+    "BRANCH": "PANCHKULA",
+    "ADDRESS": "INDUSIND BANK LTD S C O 6 SECTOR 16 PANCHKULA ",
+    "CONTACT": "1722583950",
+    "CITY": "PANCHKULA",
+    "DISTRICT": "PANCHKULA",
+    "STATE": "HARYANA",
+    "RTGS": true
+  },
   "INDB0001474": {
     "BANK": "INDUSIND BANK",
     "IFSC": "INDB0001474",
@@ -12764,7 +12779,8 @@
     "CONTACT": "2470248",
     "CITY": "JAMMU",
     "DISTRICT": "JAMMU",
-    "STATE": "JAMMU AND KASHMIR"
+    "STATE": "JAMMU AND KASHMIR",
+    "RTGS": true
   },
   "INDB0001477": {
     "BANK": "INDUSIND BANK",
@@ -12784,7 +12800,8 @@
     "CONTACT": "8395250015",
     "CITY": "TORANGALLU",
     "DISTRICT": "BELLARY",
-    "STATE": "KARNATAKA"
+    "STATE": "KARNATAKA",
+    "RTGS": true
   },
   "INDB0001479": {
     "BANK": "INDUSIND BANK",
@@ -12816,7 +12833,8 @@
     "CONTACT": "2814",
     "CITY": "RAJKOT",
     "DISTRICT": "RAJKOT",
-    "STATE": "GUJARAT"
+    "STATE": "GUJARAT",
+    "RTGS": true
   },
   "INDB0001484": {
     "BANK": "INDUSIND BANK",
@@ -12826,7 +12844,8 @@
     "CONTACT": "2612634007",
     "CITY": "SURAT",
     "DISTRICT": "SURAT",
-    "STATE": "GUJARAT"
+    "STATE": "GUJARAT",
+    "RTGS": true
   },
   "INDB0005018": {
     "BANK": "INDUSIND BANK",

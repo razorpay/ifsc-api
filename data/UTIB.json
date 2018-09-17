@@ -33487,8 +33487,7 @@
     "CONTACT": "23817153",
     "CITY": "HYDERABAD",
     "DISTRICT": "HYDERABAD",
-    "STATE": "TELANGANA",
-    "RTGS": true
+    "STATE": "TELANGANA"
   },
   "UTIB0003365": {
     "BANK": "AXIS BANK",
@@ -37832,7 +37831,8 @@
     "CONTACT": "222319",
     "CITY": "AALO",
     "DISTRICT": "WEST SIANG",
-    "STATE": "ANDHRA PRADESH"
+    "STATE": "ANDHRA PRADESH",
+    "RTGS": true
   },
   "UTIB0003782": {
     "BANK": "AXIS BANK",
@@ -38594,7 +38594,8 @@
     "CONTACT": "232853",
     "CITY": "SULLIA",
     "DISTRICT": "DAKSHINA KANNADA",
-    "STATE": "KARNATAKA"
+    "STATE": "KARNATAKA",
+    "RTGS": true
   },
   "UTIB0003855": {
     "BANK": "AXIS BANK",
@@ -38955,7 +38956,8 @@
     "CONTACT": "2707991",
     "CITY": "SURAT",
     "DISTRICT": "SURAT",
-    "STATE": "GUJARAT"
+    "STATE": "GUJARAT",
+    "RTGS": true
   },
   "UTIB0003891": {
     "BANK": "AXIS BANK",
@@ -39096,7 +39098,8 @@
     "CONTACT": "232723",
     "CITY": "BHANVAD",
     "DISTRICT": "DEVBHOOMI DWARKA",
-    "STATE": "GUJARAT"
+    "STATE": "GUJARAT",
+    "RTGS": true
   },
   "UTIB0003905": {
     "BANK": "AXIS BANK",
@@ -39199,7 +39202,8 @@
     "CONTACT": "714231470",
     "CITY": "BAVLA",
     "DISTRICT": "AHMEDABAD",
-    "STATE": "GUJARAT"
+    "STATE": "GUJARAT",
+    "RTGS": true
   },
   "UTIB0003915": {
     "BANK": "AXIS BANK",
@@ -39239,6 +39243,17 @@
     "CONTACT": "8095639181",
     "CITY": "BILAGI",
     "DISTRICT": "BAGALKOT",
+    "STATE": "KARNATAKA",
+    "RTGS": true
+  },
+  "UTIB0003919": {
+    "BANK": "AXIS BANK LTD",
+    "IFSC": "UTIB0003919",
+    "BRANCH": "YESHWANTNAGAR",
+    "ADDRESS": "D NO 50, OPP SIDDARAMESHWARA TEMPLE, MAIN ROAD, YESHWANTNAGAR 583124",
+    "CONTACT": "08395276055",
+    "CITY": "YESHWANTNAGAR",
+    "DISTRICT": "BELLARY",
     "STATE": "KARNATAKA",
     "RTGS": true
   },
@@ -39389,6 +39404,17 @@
     "STATE": "GUJARAT",
     "RTGS": true
   },
+  "UTIB0003938": {
+    "BANK": "AXIS BANK LTD",
+    "IFSC": "UTIB0003938",
+    "BRANCH": "MALLAPPALLY",
+    "ADDRESS": "PONPUZHA TOWERS, MARKET ROAD, MALLAPPALLY, PIN 689585",
+    "CONTACT": "04692780200",
+    "CITY": "MALLAPPALLY",
+    "DISTRICT": "PATHANAMTHITTA",
+    "STATE": "KERALA",
+    "RTGS": true
+  },
   "UTIB0003939": {
     "BANK": "AXIS BANK",
     "IFSC": "UTIB0003939",
@@ -39397,7 +39423,8 @@
     "CONTACT": "22524650",
     "CITY": "DELHI",
     "DISTRICT": "DELHI",
-    "STATE": "DELHI"
+    "STATE": "DELHI",
+    "RTGS": true
   },
   "UTIB0003940": {
     "BANK": "AXIS BANK",
@@ -39407,7 +39434,8 @@
     "CONTACT": "2731322",
     "CITY": "JAMNAGAR",
     "DISTRICT": "JAMNAGAR",
-    "STATE": "GUJARAT"
+    "STATE": "GUJARAT",
+    "RTGS": true
   },
   "UTIB0003941": {
     "BANK": "AXIS BANK",
@@ -39492,6 +39520,39 @@
     "DISTRICT": "DEHRADUN",
     "STATE": "UTTARAKHAND"
   },
+  "UTIB0003949": {
+    "BANK": "AXIS BANK LTD",
+    "IFSC": "UTIB0003949",
+    "BRANCH": "CHIKWANKALKUNTA",
+    "ADDRESS": "MAIN ROAD, CHIKWANKALKUNTA, TEMPLE COMPLEX, MNEXT TO MARUTI TEMPLE, YALBURGA, KOPPLA DIST, KARNATAKA",
+    "CONTACT": null,
+    "CITY": "YALBURGA",
+    "DISTRICT": "KOPPAL",
+    "STATE": "KARNATAKA",
+    "RTGS": true
+  },
+  "UTIB0003950": {
+    "BANK": "AXIS BANK LTD",
+    "IFSC": "UTIB0003950",
+    "BRANCH": "WAZIRPUR",
+    "ADDRESS": "GROUND FLOOR, KHEWAT NO. 102 KHATONI NO. 113 RECT. NO.6, VILLAGE WAZIRPUR, TEHSIL-BERI DISTRICT-JHAJJAR-124201",
+    "CONTACT": "12519996909040",
+    "CITY": "BERI",
+    "DISTRICT": "JHAJJAR",
+    "STATE": "HARYANA",
+    "RTGS": true
+  },
+  "UTIB0003951": {
+    "BANK": "AXIS BANK LTD",
+    "IFSC": "UTIB0003951",
+    "BRANCH": "SUTHANI",
+    "ADDRESS": "GR FLR, KHEWAT NO, 3 KHATONI, NO 3, RECT NO 33, KILA NO 8 (8-18), VIL SUTHANI, TEHSIL BAWAL, DIST REWARI 123501",
+    "CONTACT": "12848053843555",
+    "CITY": "BAWAL",
+    "DISTRICT": "REWARI",
+    "STATE": "HARYANA",
+    "RTGS": true
+  },
   "UTIB0003953": {
     "BANK": "AXIS BANK",
     "IFSC": "UTIB0003953",
@@ -39500,7 +39561,8 @@
     "CONTACT": "9622220881",
     "CITY": "KARGIL",
     "DISTRICT": "KARGIL",
-    "STATE": "JAMMU AND KASHMIR"
+    "STATE": "JAMMU AND KASHMIR",
+    "RTGS": true
   },
   "UTIB0003954": {
     "BANK": "AXIS BANK",
@@ -39520,7 +39582,8 @@
     "CONTACT": "232329",
     "CITY": "THRISSUR",
     "DISTRICT": "THRISSUR",
-    "STATE": "KARNATAKA"
+    "STATE": "KARNATAKA",
+    "RTGS": true
   },
   "UTIB0003956": {
     "BANK": "AXIS BANK",
@@ -39644,7 +39707,8 @@
     "CONTACT": "2229980",
     "CITY": "GUWAHATI",
     "DISTRICT": "KAMRUP",
-    "STATE": "ASSAM"
+    "STATE": "ASSAM",
+    "RTGS": true
   },
   "UTIB0003980": {
     "BANK": "AXIS BANK",
@@ -39685,7 +39749,8 @@
     "CONTACT": "8469318",
     "CITY": "TEKKALI",
     "DISTRICT": "SRIKAKULAM",
-    "STATE": "ANDHRA PRADESH"
+    "STATE": "ANDHRA PRADESH",
+    "RTGS": true
   },
   "UTIB0003986": {
     "BANK": "AXIS BANK",
@@ -39727,7 +39792,19 @@
     "CONTACT": null,
     "CITY": "ERNAKULAM",
     "DISTRICT": "ERNAKULAM",
-    "STATE": "KERALA"
+    "STATE": "KERALA",
+    "RTGS": true
+  },
+  "UTIB0003992": {
+    "BANK": "AXIS BANK LTD",
+    "IFSC": "UTIB0003992",
+    "BRANCH": "GAJERA ROAD",
+    "ADDRESS": "GF, SHOP NO 1 4 5, ZIRCON PLUS, NEAR SAMASTH PATIDAR WAD,I KATARGAM, GAJERA ROAD - SURAT",
+    "CONTACT": null,
+    "CITY": "SURAT",
+    "DISTRICT": "SURAT",
+    "STATE": "GUJARAT",
+    "RTGS": true
   },
   "UTIB0003993": {
     "BANK": "AXIS BANK",
@@ -39737,7 +39814,8 @@
     "CONTACT": "7543034009",
     "CITY": "PATNA",
     "DISTRICT": "PATNA",
-    "STATE": "BIHAR"
+    "STATE": "BIHAR",
+    "RTGS": true
   },
   "UTIB0003994": {
     "BANK": "AXIS BANK",
@@ -39758,7 +39836,8 @@
     "CONTACT": "9431221432",
     "CITY": "BARBIGHA",
     "DISTRICT": "SHEIKHPURA",
-    "STATE": "BIHAR"
+    "STATE": "BIHAR",
+    "RTGS": true
   },
   "UTIB0003996": {
     "BANK": "AXIS BANK",
@@ -39768,7 +39847,8 @@
     "CONTACT": "9934010137",
     "CITY": "SONEPUR",
     "DISTRICT": "SARAN",
-    "STATE": "BIHAR"
+    "STATE": "BIHAR",
+    "RTGS": true
   },
   "UTIB0003997": {
     "BANK": "AXIS BANK",
@@ -39798,7 +39878,19 @@
     "CONTACT": "2893155",
     "CITY": "THRISSUR",
     "DISTRICT": "THRISSUR",
-    "STATE": "KARNATAKA"
+    "STATE": "KARNATAKA",
+    "RTGS": true
+  },
+  "UTIB0004004": {
+    "BANK": "AXIS BANK LTD",
+    "IFSC": "UTIB0004004",
+    "BRANCH": "SAMALKHA",
+    "ADDRESS": "GROUND FLOOR KHEWAT NO. 1164, KITA NO. 216 ,G.T ROAD, SAMALKHA- 132101",
+    "CONTACT": "18001035577",
+    "CITY": "SAMALKHA",
+    "DISTRICT": "PANIPAT",
+    "STATE": "HARYANA",
+    "RTGS": true
   },
   "UTIB0004005": {
     "BANK": "AXIS BANK",
@@ -39818,7 +39910,8 @@
     "CONTACT": null,
     "CITY": "GURGAON",
     "DISTRICT": "GURGAON",
-    "STATE": "HARYANA"
+    "STATE": "HARYANA",
+    "RTGS": true
   },
   "UTIB0004007": {
     "BANK": "AXIS BANK",
@@ -39828,7 +39921,8 @@
     "CONTACT": null,
     "CITY": "GURGAON",
     "DISTRICT": "GURGAON",
-    "STATE": "HARYANA"
+    "STATE": "HARYANA",
+    "RTGS": true
   },
   "UTIB0004008": {
     "BANK": "AXIS BANK",
@@ -39891,6 +39985,17 @@
     "CITY": "HOOGHLY",
     "DISTRICT": "HOOGHLY",
     "STATE": "WEST BENGAL"
+  },
+  "UTIB0004043": {
+    "BANK": "AXIS BANK LTD",
+    "IFSC": "UTIB0004043",
+    "BRANCH": "BARPETA TOWN",
+    "ADDRESS": "B.B ROAD OPP-SYNDICATE BANK,BARPETA TOWN PIN 781301 DIST-BARPETA ASSAM",
+    "CONTACT": "36657035345169",
+    "CITY": "BARPETA",
+    "DISTRICT": "BARPETA",
+    "STATE": "ASSAM",
+    "RTGS": true
   },
   "UTIB0ACCB01": {
     "BANK": "AXIS BANK",
@@ -40414,7 +40519,8 @@
     "CONTACT": "2385905",
     "CITY": "ALNAWAR",
     "DISTRICT": "DHARWAD",
-    "STATE": "KARNATAKA"
+    "STATE": "KARNATAKA",
+    "RTGS": true
   },
   "UTIB0SAMB01": {
     "BANK": "AXIS BANK",
@@ -42951,7 +43057,8 @@
     "CONTACT": "22582668",
     "CITY": "PIJ",
     "DISTRICT": "KHEDA",
-    "STATE": "GUJARAT"
+    "STATE": "GUJARAT",
+    "RTGS": true
   },
   "UTIB0SPKD21": {
     "BANK": "AXIS BANK",
@@ -43077,7 +43184,8 @@
     "CONTACT": "24053232",
     "CITY": "HYDERABAD",
     "DISTRICT": "HYDERABAD",
-    "STATE": "ANDHRA PRADESH"
+    "STATE": "ANDHRA PRADESH",
+    "RTGS": true
   },
   "UTIB0SRSBL1": {
     "BANK": "AXIS BANK",
@@ -43108,6 +43216,17 @@
     "CITY": "JAIPUR",
     "DISTRICT": "JAIPUR",
     "STATE": "RAJASTHAN"
+  },
+  "UTIB0SRUCOB": {
+    "BANK": "AXIS BANK LTD",
+    "IFSC": "UTIB0SRUCOB",
+    "BRANCH": "RAMANAGRAM URBAN COOPERATIVE BANK",
+    "ADDRESS": "MAIN ROAD , RAMANARAM- 562159",
+    "CONTACT": "80814711325",
+    "CITY": "RAMANAGARAM",
+    "DISTRICT": "BANGALORE RURAL",
+    "STATE": "KARNATAKA",
+    "RTGS": true
   },
   "UTIB0SSAUBL": {
     "BANK": "AXIS BANK",
@@ -43260,7 +43379,8 @@
     "CONTACT": "273169",
     "CITY": "CHIKODI",
     "DISTRICT": "BELGAUM├╜",
-    "STATE": "KARNATAKA"
+    "STATE": "KARNATAKA",
+    "RTGS": true
   },
   "UTIB0SSNS01": {
     "BANK": "AXIS BANK",
@@ -43604,7 +43724,8 @@
     "CONTACT": "2520564",
     "CITY": "UDUPI",
     "DISTRICT": "UDUPI",
-    "STATE": "KARNATAKA"
+    "STATE": "KARNATAKA",
+    "RTGS": true
   },
   "UTIB0STDCCB": {
     "BANK": "AXIS BANK",
@@ -43761,7 +43882,8 @@
     "CONTACT": "223030",
     "CITY": "BELUR",
     "DISTRICT": "HASSAN",
-    "STATE": "KARNATAKA"
+    "STATE": "KARNATAKA",
+    "RTGS": true
   },
   "UTIB0SUBHVR": {
     "BANK": "AXIS BANK",

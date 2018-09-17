@@ -181,7 +181,8 @@
     "CONTACT": null,
     "CITY": "DIPHU",
     "DISTRICT": "KARBI ANGLONG",
-    "STATE": "ASSAM"
+    "STATE": "ASSAM",
+    "RTGS": true
   },
   "NESF0000018": {
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
@@ -202,7 +203,8 @@
     "CONTACT": null,
     "CITY": "BOKAKHAT",
     "DISTRICT": "GOLAGHAT",
-    "STATE": "ASSAM"
+    "STATE": "ASSAM",
+    "RTGS": true
   },
   "NESF0000022": {
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
@@ -212,7 +214,8 @@
     "CONTACT": null,
     "CITY": "BANDERDEWA",
     "DISTRICT": "LAKHIMPUR",
-    "STATE": "ASSAM"
+    "STATE": "ASSAM",
+    "RTGS": true
   },
   "NESF0000024": {
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
@@ -222,7 +225,8 @@
     "CONTACT": null,
     "CITY": "CHAPAR",
     "DISTRICT": "DHUBRI",
-    "STATE": "ASSAM"
+    "STATE": "ASSAM",
+    "RTGS": true
   },
   "NESF0000025": {
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
@@ -329,7 +333,8 @@
     "CONTACT": null,
     "CITY": "GAURIPUR",
     "DISTRICT": "DHUBURI",
-    "STATE": "ASSAM"
+    "STATE": "ASSAM",
+    "RTGS": true
   },
   "NESF0000055": {
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
@@ -339,6 +344,17 @@
     "CONTACT": null,
     "CITY": "MORIGAON",
     "DISTRICT": "MORIGAON",
+    "STATE": "ASSAM",
+    "RTGS": true
+  },
+  "NESF0000056": {
+    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "IFSC": "NESF0000056",
+    "BRANCH": "PANITAMA",
+    "ADDRESS": "BORKA,PO.PUB BORKA,PS.KAMALPUR,PIN-781101",
+    "CONTACT": null,
+    "CITY": "KAMRUP",
+    "DISTRICT": "KAMRUP",
     "STATE": "ASSAM",
     "RTGS": true
   },
@@ -372,7 +388,8 @@
     "CONTACT": null,
     "CITY": "PASIGHAT",
     "DISTRICT": "EAST SIANG",
-    "STATE": "ARUNACHAL PRADESH"
+    "STATE": "ARUNACHAL PRADESH",
+    "RTGS": true
   },
   "NESF0000077": {
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
@@ -382,7 +399,8 @@
     "CONTACT": null,
     "CITY": "AHATGURI",
     "DISTRICT": "MORIGAON",
-    "STATE": "ASSAM"
+    "STATE": "ASSAM",
+    "RTGS": true
   },
   "NESF0000999": {
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",

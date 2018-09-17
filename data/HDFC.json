@@ -50116,7 +50116,8 @@
     "CONTACT": "2676161",
     "CITY": "MYSORE",
     "DISTRICT": "MYSORE",
-    "STATE": "KARNATAKA"
+    "STATE": "KARNATAKA",
+    "RTGS": true
   },
   "HDFC0009284": {
     "BANK": "HDFC BANK",
@@ -50147,7 +50148,8 @@
     "CONTACT": "61606161",
     "CITY": "BANGALORE",
     "DISTRICT": "BANGALORE URBAN",
-    "STATE": "KARNATAKA"
+    "STATE": "KARNATAKA",
+    "RTGS": true
   },
   "HDFC0009287": {
     "BANK": "HDFC BANK",
@@ -50230,7 +50232,8 @@
     "CONTACT": "2676161",
     "CITY": "LAKHIPUR",
     "DISTRICT": "GOALPARA",
-    "STATE": "ASSAM"
+    "STATE": "ASSAM",
+    "RTGS": true
   },
   "HDFC0009296": {
     "BANK": "HDFC BANK",
@@ -50294,7 +50297,8 @@
     "CONTACT": "2676161",
     "CITY": "SRIHARIKOTA",
     "DISTRICT": "NELLORE",
-    "STATE": "ANDHRA PRADESH"
+    "STATE": "ANDHRA PRADESH",
+    "RTGS": true
   },
   "HDFC0009302": {
     "BANK": "HDFC BANK",
@@ -50379,6 +50383,17 @@
     "CITY": "DAUDNAGAR",
     "DISTRICT": "AURANGABAD",
     "STATE": "BIHAR",
+    "RTGS": true
+  },
+  "HDFC0009310": {
+    "BANK": "HDFC BANK LTD.",
+    "IFSC": "HDFC0009310",
+    "BRANCH": "ADABARI",
+    "ADDRESS": "HDFC BANK LTD, UN ENCALVE,AT ROAD,ADABARI TINALI, PS JALUKBARI,GUWAHATI ASSAM 781012",
+    "CONTACT": "18602676161",
+    "CITY": "ADABARI",
+    "DISTRICT": "NALBARI",
+    "STATE": "ASSAM",
     "RTGS": true
   },
   "HDFC0009311": {
@@ -50557,7 +50572,8 @@
     "CONTACT": "2676161",
     "CITY": "BELANDUR",
     "DISTRICT": "BANGALORE URBAN",
-    "STATE": "KARNATAKA"
+    "STATE": "KARNATAKA",
+    "RTGS": true
   },
   "HDFC0009330": {
     "BANK": "HDFC BANK",
