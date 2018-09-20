@@ -11,6 +11,7 @@ end
 Benchmark.bm(18) do |bm|
   bm.report('Ingest:') do
     Dir.glob('data/*.json') do |file|
+      log "Processing #{file}"
       bank = File.basename file, '.json'
       if Regexp.new('[A-Z]{4}').match(bank)
         data = JSON.parse File.read file
@@ -19,6 +20,7 @@ Benchmark.bm(18) do |bm|
           d.delete_if { |key| %w[BANK IFSC].include? key }
           redis.hmset ifsc, *d
         end
+        log "Processed #{data.size} entries"
       end
     end
   end
