@@ -2,7 +2,7 @@
 
 API server that serves Razorpay's IFSC API.
 
-[![](https://images.microbadger.com/badges/image/razorpay/ifsc:1.2.0.svg)](https://microbadger.com/images/razorpay/ifsc:1.2.0) [![](https://images.microbadger.com/badges/version/razorpay/ifsc:1.2.0.svg)](https://microbadger.com/images/razorpay/ifsc:1.2.0)
+[![](https://images.microbadger.com/badges/image/razorpay/ifsc:1.2.2.svg)](https://microbadger.com/images/razorpay/ifsc:1.2.2) [![](https://images.microbadger.com/badges/version/razorpay/ifsc:1.2.2.svg)](https://microbadger.com/images/razorpay/ifsc:1.2.2)
 
 Current API Root is <https://ifsc.razorpay.com/>
 
