@@ -7,7 +7,8 @@
     "CONTACT": "25850059",
     "CITY": "DELHI",
     "DISTRICT": "DELHI",
-    "STATE": "DELHI"
+    "STATE": "DELHI",
+    "RTGS": true
   },
   "PSIB0000002": {
     "BANK": "PUNJAB AND SIND BANK",
@@ -13396,7 +13397,8 @@
     "CONTACT": "8088871451",
     "CITY": "HUBLI DHARWAD",
     "DISTRICT": "DHARWAD",
-    "STATE": "KARNATAKA"
+    "STATE": "KARNATAKA",
+    "RTGS": true
   },
   "PSIB0021325": {
     "BANK": "PUNJAB AND SIND BANK",
@@ -13938,7 +13940,8 @@
     "CONTACT": "9864077040",
     "CITY": "TEZPUR",
     "DISTRICT": "SONITPUR",
-    "STATE": "ASSAM"
+    "STATE": "ASSAM",
+    "RTGS": true
   },
   "PSIB0021379": {
     "BANK": "PUNJAB AND SIND BANK",
@@ -13948,7 +13951,8 @@
     "CONTACT": "9435103378",
     "CITY": "NAGAON",
     "DISTRICT": "NAGAON",
-    "STATE": "ASSAM"
+    "STATE": "ASSAM",
+    "RTGS": true
   },
   "PSIB0021380": {
     "BANK": "PUNJAB AND SIND BANK",
@@ -14083,7 +14087,8 @@
     "CONTACT": "9582924736",
     "CITY": "DELHI",
     "DISTRICT": "DELHI",
-    "STATE": "DELHI"
+    "STATE": "DELHI",
+    "RTGS": true
   },
   "PSIB0021393": {
     "BANK": "PUNJAB AND SIND BANK",
@@ -14467,7 +14472,8 @@
     "CONTACT": "9470376857",
     "CITY": "CHAIBASA",
     "DISTRICT": "PASCHIMI SINGHBHUM",
-    "STATE": "JHARKHAND"
+    "STATE": "JHARKHAND",
+    "RTGS": true
   },
   "PSIB0021432": {
     "BANK": "PUNJAB AND SIND BANK",
@@ -14527,7 +14533,8 @@
     "CONTACT": "9812759975",
     "CITY": "KALANWALI",
     "DISTRICT": "SIRSA",
-    "STATE": "HARYANA"
+    "STATE": "HARYANA",
+    "RTGS": true
   },
   "PSIB0021438": {
     "BANK": "PUNJAB AND SIND BANK",
@@ -14608,7 +14615,8 @@
     "CONTACT": "9993969954",
     "CITY": "MASTURI",
     "DISTRICT": "BILASPUR",
-    "STATE": "CHHATTISGARH"
+    "STATE": "CHHATTISGARH",
+    "RTGS": true
   },
   "PSIB0021446": {
     "BANK": "PUNJAB AND SIND BANK",
@@ -14618,7 +14626,8 @@
     "CONTACT": "7745981923",
     "CITY": "MASTURI",
     "DISTRICT": "BILASPUR",
-    "STATE": "CHHATTISGARH"
+    "STATE": "CHHATTISGARH",
+    "RTGS": true
   },
   "PSIB0021447": {
     "BANK": "PUNJAB AND SIND BANK",
@@ -14639,7 +14648,8 @@
     "CONTACT": "9878299118",
     "CITY": "PUNDRI",
     "DISTRICT": "KAITHAL",
-    "STATE": "HARYANA"
+    "STATE": "HARYANA",
+    "RTGS": true
   },
   "PSIB0021449": {
     "BANK": "PUNJAB AND SIND BANK",
@@ -14741,7 +14751,8 @@
     "CONTACT": "8223092530",
     "CITY": "CHETMA",
     "DISTRICT": "KORBA",
-    "STATE": "CHHATTISGARH"
+    "STATE": "CHHATTISGARH",
+    "RTGS": true
   },
   "PSIB0021461": {
     "BANK": "PUNJAB AND SIND BANK",
@@ -15641,6 +15652,16 @@
     "CITY": "SIKRAI",
     "DISTRICT": "DAUSA",
     "STATE": "RAJASTHAN"
+  },
+  "PSIB0021555": {
+    "BANK": "PUNJAB AND SIND BANK",
+    "IFSC": "PSIB0021555",
+    "BRANCH": "LANDA",
+    "ADDRESS": "VPO LANDA NEAR BUS STAND SAMALSAR ROAD TEH - BAGHAPURNA DIST - MOGA PUNJAB PIN CODE 142049",
+    "CONTACT": "7877160942",
+    "CITY": "LANDA",
+    "DISTRICT": "MOGA",
+    "STATE": "PUNJAB"
   },
   "PSIB0021556": {
     "BANK": "PUNJAB AND SIND BANK",

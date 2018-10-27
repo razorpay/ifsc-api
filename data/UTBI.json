@@ -60,7 +60,8 @@
     "CONTACT": null,
     "CITY": "BONGAIGAON",
     "DISTRICT": "BONGAIGAON",
-    "STATE": "ASSAM"
+    "STATE": "ASSAM",
+    "RTGS": true
   },
   "UTBI0ABL572": {
     "BANK": "UNITED BANK OF INDIA",
@@ -488,8 +489,7 @@
     "CONTACT": null,
     "CITY": "AMBALA CANTONMENT",
     "DISTRICT": "AMBALA",
-    "STATE": "PUNJAB",
-    "RTGS": true
+    "STATE": "PUNJAB"
   },
   "UTBI0AMD954": {
     "BANK": "UNITED BANK OF INDIA",
@@ -896,6 +896,16 @@
     "CITY": "ARSHA",
     "DISTRICT": "PURULIYA",
     "STATE": "WEST BENGAL"
+  },
+  "UTBI0ARTP33": {
+    "BANK": "UNITED BANK OF INDIA",
+    "IFSC": "UTBI0ARTP33",
+    "BRANCH": "SAMB CHENNAI",
+    "ADDRESS": "ARULMANAI BUILDING NO 27 WHITES ROAD",
+    "CONTACT": "9962046378",
+    "CITY": "CHENNAI",
+    "DISTRICT": "SOUTHERN",
+    "STATE": "TAMIL NADU"
   },
   "UTBI0ASA704": {
     "BANK": "UNITED BANK OF INDIA",
@@ -1684,8 +1694,7 @@
     "CONTACT": null,
     "CITY": "RAIPUR",
     "DISTRICT": "RAIPUR",
-    "STATE": "RAJASTHAN",
-    "RTGS": true
+    "STATE": "RAJASTHAN"
   },
   "UTBI0BEAE78": {
     "BANK": "UNITED BANK OF INDIA",
@@ -2940,8 +2949,7 @@
     "CONTACT": null,
     "CITY": "CHANDIGARH",
     "DISTRICT": "MOHALI",
-    "STATE": "PUNJAB",
-    "RTGS": true
+    "STATE": "PUNJAB"
   },
   "UTBI0BMAD79": {
     "BANK": "UNITED BANK OF INDIA",
@@ -6077,8 +6085,7 @@
     "CONTACT": null,
     "CITY": "DHARMADA",
     "DISTRICT": "NADIA",
-    "STATE": "WEST BENGAL",
-    "RTGS": true
+    "STATE": "WEST BENGAL"
   },
   "UTBI0DMGR51": {
     "BANK": "UNITED BANK OF INDIA",
@@ -6358,8 +6365,7 @@
     "CONTACT": null,
     "CITY": "DUBRA",
     "DISTRICT": "PURULIA",
-    "STATE": "WEST BENGAL",
-    "RTGS": true
+    "STATE": "WEST BENGAL"
   },
   "UTBI0DUC395": {
     "BANK": "UNITED BANK OF INDIA",
@@ -8900,8 +8906,7 @@
     "CONTACT": null,
     "CITY": "SHILLONG",
     "DISTRICT": "EAST KHASI HILL",
-    "STATE": "MEGHALAYA",
-    "RTGS": true
+    "STATE": "MEGHALAYA"
   },
   "UTBI0ILKP08": {
     "BANK": "UNITED BANK OF INDIA",
@@ -9500,8 +9505,7 @@
     "CONTACT": null,
     "CITY": "RAIPUR",
     "DISTRICT": "RAIPUR",
-    "STATE": "RAJASTHAN",
-    "RTGS": true
+    "STATE": "RAJASTHAN"
   },
   "UTBI0JJPK69": {
     "BANK": "UNITED BANK OF INDIA",
@@ -10965,7 +10969,8 @@
     "CONTACT": null,
     "CITY": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
-    "STATE": "KERALA"
+    "STATE": "KERALA",
+    "RTGS": true
   },
   "UTBI0KMA886": {
     "BANK": "UNITED BANK OF INDIA",
@@ -11553,8 +11558,7 @@
     "CONTACT": null,
     "CITY": "MEERUT",
     "DISTRICT": "KASGANJ",
-    "STATE": "UTTAR PRADESH",
-    "RTGS": true
+    "STATE": "UTTAR PRADESH"
   },
   "UTBI0KSKE26": {
     "BANK": "UNITED BANK OF INDIA",
@@ -12929,7 +12933,8 @@
     "CONTACT": null,
     "CITY": "CHANDIGARH",
     "DISTRICT": "FATEHGARH SAHIB",
-    "STATE": "CHANDIGARH"
+    "STATE": "CHANDIGARH",
+    "RTGS": true
   },
   "UTBI0MGG650": {
     "BANK": "UNITED BANK OF INDIA",
@@ -13991,7 +13996,8 @@
     "CONTACT": null,
     "CITY": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
-    "STATE": "KERALA"
+    "STATE": "KERALA",
+    "RTGS": true
   },
   "UTBI0MUA506": {
     "BANK": "UNITED BANK OF INDIA",
@@ -14248,8 +14254,7 @@
     "CONTACT": null,
     "CITY": "NANDAKUMAR",
     "DISTRICT": "NAGAON",
-    "STATE": "WEST BENGAL",
-    "RTGS": true
+    "STATE": "WEST BENGAL"
   },
   "UTBI0NAO307": {
     "BANK": "UNITED BANK OF INDIA",
@@ -14393,8 +14398,7 @@
     "CONTACT": null,
     "CITY": "NORTH BOWALI",
     "DISTRICT": "SOUTH 24 PARGANAS",
-    "STATE": "WEST BENGAL",
-    "RTGS": true
+    "STATE": "WEST BENGAL"
   },
   "UTBI0NBZ391": {
     "BANK": "UNITED BANK OF INDIA",
@@ -14538,8 +14542,7 @@
     "CONTACT": null,
     "CITY": "CHENNAI ( MADRAS )",
     "DISTRICT": "CHENNAI ( MADRAS )",
-    "STATE": "TAMIL NADU",
-    "RTGS": true
+    "STATE": "TAMIL NADU"
   },
   "UTBI0NGO889": {
     "BANK": "UNITED BANK OF INDIA",
@@ -14549,7 +14552,8 @@
     "CONTACT": "82247763",
     "CITY": "NALGONDA",
     "DISTRICT": "NALGONDA",
-    "STATE": "ANDHRA PRADESH"
+    "STATE": "ANDHRA PRADESH",
+    "RTGS": true
   },
   "UTBI0NGP616": {
     "BANK": "UNITED BANK OF INDIA",
@@ -15164,8 +15168,7 @@
     "CONTACT": null,
     "CITY": "BAREILLY",
     "DISTRICT": "BAREILLY",
-    "STATE": "UTTAR PRADESH",
-    "RTGS": true
+    "STATE": "UTTAR PRADESH"
   },
   "UTBI0NWGJ68": {
     "BANK": "UNITED BANK OF INDIA",
@@ -15206,7 +15209,8 @@
     "CONTACT": null,
     "CITY": "CHANDIGARH",
     "DISTRICT": "NAWANSHAHAR",
-    "STATE": "CHANDIGARH"
+    "STATE": "CHANDIGARH",
+    "RTGS": true
   },
   "UTBI0NWT472": {
     "BANK": "UNITED BANK OF INDIA",
@@ -16808,16 +16812,6 @@
     "DISTRICT": "SOUTH 24 PARGANAS",
     "STATE": "WEST BENGAL"
   },
-  "UTBI0RDHW97": {
-    "BANK": "UNITED BANK OF INDIA",
-    "IFSC": "UTBI0RDHW97",
-    "BRANCH": "RAIDIHI",
-    "ADDRESS": "RAIDIHI,",
-    "CONTACT": null,
-    "CITY": "PURULIA",
-    "DISTRICT": "BANKURA",
-    "STATE": "WEST BENGAL"
-  },
   "UTBI0RDPJ09": {
     "BANK": "UNITED BANK OF INDIA",
     "IFSC": "UTBI0RDPJ09",
@@ -17598,7 +17592,8 @@
     "CONTACT": null,
     "CITY": "CHANDIGARH",
     "DISTRICT": "SANGRUR",
-    "STATE": "HARYANA"
+    "STATE": "HARYANA",
+    "RTGS": true
   },
   "UTBI0SAHC76": {
     "BANK": "UNITED BANK OF INDIA",
@@ -17830,8 +17825,7 @@
     "CONTACT": null,
     "CITY": "CHENNAI ( MADRAS )",
     "DISTRICT": "CHENNAI ( MADRAS )",
-    "STATE": "TAMIL NADU",
-    "RTGS": true
+    "STATE": "TAMIL NADU"
   },
   "UTBI0SBZD16": {
     "BANK": "UNITED BANK OF INDIA",
@@ -18571,8 +18565,7 @@
     "CONTACT": null,
     "CITY": "SALBONI",
     "DISTRICT": "WEST MEDINIPUR",
-    "STATE": "WEST BENGAL",
-    "RTGS": true
+    "STATE": "WEST BENGAL"
   },
   "UTBI0SLC309": {
     "BANK": "UNITED BANK OF INDIA",
@@ -18678,6 +18671,16 @@
     "STATE": "JHARKHAND",
     "RTGS": true
   },
+  "UTBI0SMCQ40": {
+    "BANK": "UNITED BANK OF INDIA",
+    "IFSC": "UTBI0SMCQ40",
+    "BRANCH": "SAMB CUTTACK",
+    "ADDRESS": "C-10,SECTOR-6,MARKAT NAGAR,ABHINAV BIDANASI,CDA,CUTTACK",
+    "CONTACT": "2503255",
+    "CITY": "CUTTACK",
+    "DISTRICT": "CUTTACK",
+    "STATE": "ODISHA"
+  },
   "UTBI0SMGP02": {
     "BANK": "UNITED BANK OF INDIA",
     "IFSC": "UTBI0SMGP02",
@@ -18736,7 +18739,7 @@
     "IFSC": "UTBI0SMNQ39",
     "BRANCH": "SAMB RANCHI",
     "ADDRESS": "UBI BUILDING,4TH FLORR,SALUJA BUILDING,PEE PEE COMPOUND,MAIN ROAD,RANCHI",
-    "CONTACT": "06512330583",
+    "CONTACT": "2330583",
     "CITY": "RANCHI",
     "DISTRICT": "RANCHI",
     "STATE": "JHARKHAND",
@@ -18762,12 +18765,22 @@
     "DISTRICT": "KOLKATA",
     "STATE": "WEST BENGAL"
   },
+  "UTBI0SMUY37": {
+    "BANK": "UNITED BANK OF INDIA",
+    "IFSC": "UTBI0SMUY37",
+    "BRANCH": "SAMB SILIGURI",
+    "ADDRESS": "UNITED BANK OF INDIA,2ND FLOOR,HILL CART ROAD,SILIGURI",
+    "CONTACT": "2432663",
+    "CITY": "SILIGURI",
+    "DISTRICT": "DARJEELING",
+    "STATE": "WEST BENGAL"
+  },
   "UTBI0SMWR57": {
     "BANK": "UNITED BANK OF INDIA",
     "IFSC": "UTBI0SMWR57",
     "BRANCH": "SAMB GUWAHATI",
     "ADDRESS": "UNITED BANK OF INDIA,GUWAHATI REGIONAL OFFICE,2ND FLOOR,HEM BARUA ROAD,PANBAZAR,GUWAHATI",
-    "CONTACT": "03618472903105",
+    "CONTACT": "8472903105",
     "CITY": "GUWAHATI",
     "DISTRICT": "KAMRUP",
     "STATE": "ASSAM",
@@ -20926,7 +20939,8 @@
     "CONTACT": null,
     "CITY": "AHMEDABAD",
     "DISTRICT": "AHMEDABAD",
-    "STATE": "GUJARAT"
+    "STATE": "GUJARAT",
+    "RTGS": true
   },
   "UTBI0XBD099": {
     "BANK": "UNITED BANK OF INDIA",
@@ -21186,7 +21200,8 @@
     "CONTACT": null,
     "CITY": "RAIPUR",
     "DISTRICT": "DEHRA DUN",
-    "STATE": "CHANDIGARH"
+    "STATE": "CHANDIGARH",
+    "RTGS": true
   },
   "UTBI0XSGG60": {
     "BANK": "UNITED BANK OF INDIA",
