@@ -343,7 +343,8 @@
     "CONTACT": null,
     "CITY": "TITABOR",
     "DISTRICT": "JORHAT",
-    "STATE": "ASSAM"
+    "STATE": "ASSAM",
+    "RTGS": true
   },
   "NESF0000034": {
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
@@ -408,7 +409,8 @@
     "CONTACT": null,
     "CITY": "TEOK",
     "DISTRICT": "JORHAT",
-    "STATE": "ASSAM"
+    "STATE": "ASSAM",
+    "RTGS": true
   },
   "NESF0000041": {
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
@@ -418,7 +420,8 @@
     "CONTACT": null,
     "CITY": "NAZIRA",
     "DISTRICT": "SIVASAGAR",
-    "STATE": "ASSAM"
+    "STATE": "ASSAM",
+    "RTGS": true
   },
   "NESF0000042": {
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
@@ -504,7 +507,8 @@
     "CONTACT": null,
     "CITY": "BORGANG",
     "DISTRICT": "BISWANATH CHARIALI",
-    "STATE": "ASSAM"
+    "STATE": "ASSAM",
+    "RTGS": true
   },
   "NESF0000054": {
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
@@ -557,7 +561,8 @@
     "CONTACT": null,
     "CITY": "KOTHIATOLI",
     "DISTRICT": "NAGAON",
-    "STATE": "ASSAM"
+    "STATE": "ASSAM",
+    "RTGS": true
   },
   "NESF0000059": {
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
@@ -633,7 +638,8 @@
     "CONTACT": null,
     "CITY": "GOGAMUKH",
     "DISTRICT": "DHEMAJI",
-    "STATE": "ASSAM"
+    "STATE": "ASSAM",
+    "RTGS": true
   },
   "NESF0000067": {
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
@@ -676,7 +682,8 @@
     "CONTACT": null,
     "CITY": "NAKACHARI",
     "DISTRICT": "JORHAT",
-    "STATE": "ASSAM"
+    "STATE": "ASSAM",
+    "RTGS": true
   },
   "NESF0000074": {
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
@@ -697,7 +704,8 @@
     "CONTACT": null,
     "CITY": "SONITPUR",
     "DISTRICT": "SONITPUR",
-    "STATE": "ASSAM"
+    "STATE": "ASSAM",
+    "RTGS": true
   },
   "NESF0000076": {
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
@@ -775,6 +783,17 @@
     "DISTRICT": "WEST KHASI HILLS",
     "STATE": "MEGHALAYA"
   },
+  "NESF0000153": {
+    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "IFSC": "NESF0000153",
+    "BRANCH": "HAILAKANDI",
+    "ADDRESS": "WARD NO - 2,PO& PS HAILAKANDI",
+    "CONTACT": null,
+    "CITY": "HAILAKANDI",
+    "DISTRICT": "CACHAR",
+    "STATE": "ASSAM",
+    "RTGS": true
+  },
   "NESF0000157": {
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "IFSC": "NESF0000157",
@@ -783,6 +802,17 @@
     "CONTACT": null,
     "CITY": "SAHPUR",
     "DISTRICT": "NALBARI",
+    "STATE": "ASSAM",
+    "RTGS": true
+  },
+  "NESF0000160": {
+    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "IFSC": "NESF0000160",
+    "BRANCH": "KARIMGANJ",
+    "ADDRESS": "WARD NO-19,PO& PS KARIMGANJ",
+    "CONTACT": null,
+    "CITY": "KARIMGANJ",
+    "DISTRICT": "KARIMGANJ",
     "STATE": "ASSAM",
     "RTGS": true
   },

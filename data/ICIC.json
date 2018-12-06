@@ -48907,7 +48907,8 @@
     "CONTACT": null,
     "CITY": "JAIPUR",
     "DISTRICT": "ADILABAD",
-    "STATE": "ANDHRA PRADESH"
+    "STATE": "ANDHRA PRADESH",
+    "RTGS": true
   },
   "ICIC0006760": {
     "BANK": "ICICI BANK LIMITED",
@@ -51959,7 +51960,8 @@
     "CONTACT": "2558864",
     "CITY": "THRISSUR",
     "DISTRICT": "THRISSUR",
-    "STATE": "KERALA"
+    "STATE": "KERALA",
+    "RTGS": true
   },
   "ICIC00GDMCB": {
     "BANK": "ICICI BANK LIMITED",
@@ -52703,8 +52705,7 @@
     "CONTACT": "9415555777",
     "CITY": "GHAZIPUR",
     "DISTRICT": "GHAZIPUR",
-    "STATE": "UTTAR PRADESH",
-    "RTGS": true
+    "STATE": "UTTAR PRADESH"
   },
   "ICIC00RAMPR": {
     "BANK": "ICICI BANK LIMITED",
