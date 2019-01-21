@@ -9,6 +9,8 @@ COPY data /app/data/
 RUN echo "** installing deps **" && \
     apk --no-cache add redis && \
     echo "** installing ruby gems **" && \
+    gem install bundler && \
+    echo "** updating bundler **" && \
     bundle install && \
     echo "** starting redis-server **" && \
     redis-server --daemonize yes && \
