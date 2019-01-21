@@ -82,7 +82,6 @@ helpers do
 end
 
 get '/' do
-  readme = File.read 'README.md'
   erb :index
 end
 
@@ -91,17 +90,6 @@ get '/metrics' do
 end
 
 get '/:code.html', %r{/\w+/\w+/(?<code>[A-Z0-9]{11})} do
-  begin
-    data = ifsc_data(params['code'])
-    erb :ifsc, locals: { data: data }
-  rescue StandardError => e
-    puts e
-    status 404
-    json 'Not Found'
-  end
-end
-
-get '/.html' do
   begin
     data = ifsc_data(params['code'])
     erb :ifsc, locals: { data: data }
