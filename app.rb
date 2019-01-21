@@ -80,12 +80,27 @@ helpers do
     data = settings.redis.hgetall code
 
     if !data.empty?
+
+      encoding_options = {
+        :invalid           => :replace,  # Replace invalid byte sequences
+        :undef             => :replace,  # Replace anything not defined in ASCII
+        :replace           => '',        # Use a blank for those replacements
+        :universal_newline => true       # Always break lines with \n
+      }
+
+      data['PINCODE'] = nil
+      data['ADDRESS'] = data['ADDRESS'].encode(Encoding.find('ASCII'), encoding_options)
       data['BANK'], data['BANKCODE'] = bank_details(code)
       data['IFSC'] = code
       data['RTGS'] = strtobool data['RTGS']
       data['NEFT'] = strtobool data['NEFT']
       data['IMPS'] = strtobool data['IMPS']
       data['UPI'] = strtobool data['UPI']
+
+      if data['ADDRESS'] =~ /(\d{6})/
+        data['PINCODE'] = data['ADDRESS'].match /(\d{6})/
+      end
+
       settings.metrics.increment code
     else
       data = nil
@@ -96,11 +111,22 @@ end
 
 get '/' do
   readme = File.read 'README.md'
-  erb :index, locals: { text: markdown(readme) }
+  erb :index
 end
 
 get '/metrics' do
   settings.metrics.format
+end
+
+get '/:code.html' do
+  begin
+    data = ifsc_data(params['code'])
+    erb :ifsc, locals: { data: data }
+  rescue StandardError => e
+    puts e
+    status 404
+    json 'Not Found'
+  end
 end
 
 get '/:code' do
