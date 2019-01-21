@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Razorpay IFSC Toolkit</title>
+    <link href='/main.css' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Source+Code+Pro' rel='stylesheet' type='text/css'>
+    <link rel="shortcut icon" href="https://razorpay.com/favicon.png" type="image/png">
+  </head>
+  <body class="home-template">
+    <header class="main-header">
+    <ul id="nav">
+      <div class="container">
+        <li><a id="logo-link" href="https://razorpay.com/?ref=ifsc"></a></li>
+        <li><a href="https://razorpay.com/blog/">Blog</a></li>
+        <div class="middle-links">
+          <li><a href="https://razorpay.com/features/?ref=ifsc">Features</a></li>
+          <li><a href="https://razorpay.com/demo/?ref=ifsc">Demo</a></li>
+          <li><a href="https://docs.razorpay.com" target="_blank">Docs</a></li>
+        </div>
+        <div class="float-right">
+          <li><a href="https://dashboard.razorpay.com/#/access/signin" class="login-link">Log In</a></li>
+          <li><a href="https://dashboard.razorpay.com/#/access/signup?ref=ifsc" class="btn login-link">Sign Up</a></li>
+        </div>
+      </div>
+    </ul>
+    </header>
+    <div class='container'>
+      <table class="ifsc-table">
+        <tr>
+          <th>IFSC</th>
+          <td><%= data['IFSC']%></td>
+        </tr>
+        <tr>
+          <th>Address</th>
+          <td><%= data['ADDRESS']%></td>
+        </tr>
+        <tr>
+          <th>Contact</th>
+          <td><%= data['CONTACT']%></td>
+        </tr>
+        <tr>
+          <th>City</th>
+          <td><%= data['CITY']%></td>
+        </tr>
+        <tr>
+          <th>District</th>
+          <td><%= data['DISTRICT']%></td>
+        </tr>
+        <tr>
+          <th>State</th>
+          <td><%= data['STATE']%></td>
+        </tr>
+        <tr>
+          <th>RTGS Supported</th>
+          <td><%= data['RTGS'] ? "Yes" : "No" %></td>
+        </tr>
+        <tr>
+          <th>Bank</th>
+          <td><%= data['BANK']%> <code>(<%=data['BANKCODE']%>)</code></td>
+        </tr>
+      </table>
+    </div>
+  </body>
+</html>
