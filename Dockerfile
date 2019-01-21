@@ -9,6 +9,8 @@ COPY data /app/data/
 RUN echo "** installing deps **" && \
     apk --no-cache add redis && \
     echo "** installing ruby gems **" && \
+    gem install bundler && \
+    echo "** updating bundler **" && \
     bundle install && \
     echo "** starting redis-server **" && \
     redis-server --daemonize yes && \
@@ -28,6 +30,8 @@ RUN echo "** installing deps **" && \
     apk --no-cache add dumb-init redis libstdc++ && \
     echo "** installing eventmachine-build-deps **" && \
     apk --no-cache add --virtual .eventmachine-builddeps g++ make && \
+    echo "** updating bundler **" && \
+    gem install bundler && \
     echo "** installing ruby gems **" && \
     bundle install && \
     echo "** removing eventmachine-build deps **" && \
