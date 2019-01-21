@@ -2,3 +2,5 @@
 source "https://rubygems.org"
 
 gem "redis"
+gem "sitemap_generator"
+gem 'to_slug', '~> 1.0', '>= 1.0.8'

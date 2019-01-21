@@ -1,13 +1,19 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    redis (4.0.1)
+    builder (3.2.3)
+    redis (4.1.0)
+    sitemap_generator (6.0.2)
+      builder (~> 3.0)
+    to_slug (1.0.8)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   redis
+  sitemap_generator
+  to_slug (~> 1.0, >= 1.0.8)
 
 BUNDLED WITH
-   1.16.2
+   2.0.1
