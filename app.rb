@@ -4,6 +4,7 @@ require 'thin'
 require 'json'
 require './metrics'
 require 'sinatra/json'
+require "sinatra/multi_route"
 require 'secure_headers'
 
 configure do
@@ -89,7 +90,18 @@ get '/metrics' do
   settings.metrics.format
 end
 
-get '/:code.html' do
+get '/:code.html', %r{/\w+/\w+/(?<code>[A-Z0-9]{11})} do
+  begin
+    data = ifsc_data(params['code'])
+    erb :ifsc, locals: { data: data }
+  rescue StandardError => e
+    puts e
+    status 404
+    json 'Not Found'
+  end
+end
+
+get '/.html' do
   begin
     data = ifsc_data(params['code'])
     erb :ifsc, locals: { data: data }
