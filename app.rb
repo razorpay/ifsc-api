@@ -118,7 +118,7 @@ get '/metrics' do
   settings.metrics.format
 end
 
-get '/:code.html', %r{/\w+/\w+/(?<code>[A-Z0-9]{11})} do
+get '/:code.html', %r{/[\w-]+/[\w-]+/(?<code>[A-Z0-9]{11})} do
   begin
     data = ifsc_data(params['code'])
     erb :ifsc, locals: { data: data }
