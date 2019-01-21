@@ -23,7 +23,8 @@ end
 
 Benchmark.bm(18) do |bm|
   bm.report('Ingest:') do
-    SitemapGenerator::Sitemap.default_host = 'https://ifsc.razorpay.com'
+    # CHANGE TO .com before merging
+    SitemapGenerator::Sitemap.default_host = 'https://ifsc.stage.razorpay.in'
     SitemapGenerator::Sitemap.create_index = true
 
     SitemapGenerator::Sitemap.create do |s|
