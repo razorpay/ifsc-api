@@ -16,8 +16,8 @@
     "BRANCH": "G.S. Road, Dispur",
     "ADDRESS": "Arunudai Path, Chistian Basti, G.S.Road, Guwahati-781007",
     "CONTACT": null,
-    "CITY": "Guwahati",
-    "DISTRICT": "Kamrup Metropolitan",
+    "CITY": "Kamrup Metropolitan",
+    "DISTRICT": "Guwahati",
     "STATE": "ASSAM",
     "RTGS": true
   },
@@ -27,8 +27,8 @@
     "BRANCH": "Fancy Bazar",
     "ADDRESS": "Dugar Building, 1st Floor, TR Phookan Road, P.O. Fancy Bazar, P. S. Pan Bazar Guwahati, PIN - 781001",
     "CONTACT": null,
-    "CITY": "Guwahati",
-    "DISTRICT": "Kamrup Metropolitan",
+    "CITY": "Kamrup Metropolitan",
+    "DISTRICT": "Guwahati",
     "STATE": "ASSAM",
     "RTGS": true
   },
@@ -93,8 +93,8 @@
     "BRANCH": "Bhilai",
     "ADDRESS": "Ground Floor, Plot no. 28, Shivnath Complex, Beside Bhilai Nagar Nigam, GE Road, Supela, Bhilai, Dist. Durg, Chhattisgarh- 490023",
     "CONTACT": null,
-    "CITY": "Bhilai",
-    "DISTRICT": "Durg",
+    "CITY": "Durg",
+    "DISTRICT": "Bhilai",
     "STATE": "CHHATTISGARH",
     "RTGS": true
   },
@@ -115,8 +115,8 @@
     "BRANCH": "Raigarh",
     "ADDRESS": "Indian School Building, Opp Camel Girls High School, Near IDBI Bank,  Jagatpura Road, Raigarh-496110",
     "CONTACT": null,
-    "CITY": "RAIGARH",
-    "DISTRICT": "Raigarh",
+    "CITY": "Raigarh",
+    "DISTRICT": "RAIGARH",
     "STATE": "CHHATTISGARH",
     "RTGS": true
   },
@@ -175,6 +175,17 @@
     "STATE": "DELHI",
     "RTGS": true
   },
+  "JSFB0004516": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0004516",
+    "BRANCH": "CHANDKHEDA",
+    "ADDRESS": "ROOM NO 101 1ST FLOOR SIGMA ARCADE,SERVEY NO 224A-B T P NO 21,FINAL PLOT NO 141/04,BODAKDEV",
+    "CONTACT": "00",
+    "CITY": "AMEDABAD",
+    "DISTRICT": "CHANDKHEDA",
+    "STATE": "GUJARAT",
+    "RTGS": true
+  },
   "JSFB0004517": {
     "BANK": "JANA SMALL FINANCE BANK LTD",
     "IFSC": "JSFB0004517",
@@ -206,6 +217,28 @@
     "CITY": "Bhavnagar",
     "DISTRICT": "Bhavnagar",
     "STATE": "GUJARAT",
+    "RTGS": true
+  },
+  "JSFB0004520": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0004520",
+    "BRANCH": "NAGAON",
+    "ADDRESS": "1ST FLOOR,NO.176(F),NAGAON MUNICIPALITY,WARD NO.11,ADP ROAD,NEAR RELAX HOTEL,OPP.UTI OFFICE,NAGAON,ASSAM 782001",
+    "CONTACT": "00",
+    "CITY": "NAGAON",
+    "DISTRICT": "NAGAON",
+    "STATE": "ASSAM",
+    "RTGS": true
+  },
+  "JSFB0004521": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0004521",
+    "BRANCH": "CHAPRA",
+    "ADDRESS": "RAMLILA MATHIA,PARAGANA - MAJHI,P.S-BHAGWAN BAZAR,CHAPRA PO,SARAN DISTRICT,CHAPRA,841301,INDIA",
+    "CONTACT": "00",
+    "CITY": "CHAPRA",
+    "DISTRICT": "CHAPRA",
+    "STATE": "BIHAR",
     "RTGS": true
   },
   "JSFB0004522": {
@@ -301,8 +334,8 @@
     "BRANCH": "Jamshedpur",
     "ADDRESS": "SWAMY Building, Ground Floor, Bistupur Main Road,Opposite Ram Mandir Jamshedpur, PIN- 831001",
     "CONTACT": null,
-    "CITY": "Jamshedpur",
-    "DISTRICT": "Purbi Singhbum",
+    "CITY": "Purbi Singhbum",
+    "DISTRICT": "Jamshedpur",
     "STATE": "JHARKHAND",
     "RTGS": true
   },
@@ -394,6 +427,17 @@
     "STATE": "KARNATAKA",
     "RTGS": true
   },
+  "JSFB0004541": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0004541",
+    "BRANCH": "MOTIHARI",
+    "ADDRESS": "1ST FLOOR BUILDING NAME PRIYA COMPLEX,RAJA BAZAR KHAYHA NO 2 KHESARA NO 241,MOTIHARI,845401,INDIA",
+    "CONTACT": "00",
+    "CITY": "MOTIHARI",
+    "DISTRICT": "MOTIHARI",
+    "STATE": "BIHAR",
+    "RTGS": true
+  },
   "JSFB0004542": {
     "BANK": "JANA SMALL FINANCE BANK LTD",
     "IFSC": "JSFB0004542",
@@ -411,8 +455,8 @@
     "BRANCH": "Davangere",
     "ADDRESS": "#3365/5B, Near to Lakshmi floor mill, Shamanur road, Davanagere",
     "CONTACT": null,
-    "CITY": "Davanagere",
-    "DISTRICT": "Davangere",
+    "CITY": "Davangere",
+    "DISTRICT": "Davanagere",
     "STATE": "KARNATAKA",
     "RTGS": true
   },
@@ -422,8 +466,8 @@
     "BRANCH": "Hubli",
     "ADDRESS": "Upper Ground Floor, Vidya Nagar,unkal village, Opp BVB Engg College, Hubli taluk,Dharwad -580021, Karnataka",
     "CONTACT": null,
-    "CITY": "Hubli",
-    "DISTRICT": "Dharwad",
+    "CITY": "Dharwad",
+    "DISTRICT": "Hubli",
     "STATE": "KARNATAKA",
     "RTGS": true
   },
@@ -500,6 +544,28 @@
     "DISTRICT": "Indore",
     "STATE": "MADHYAPRADESH"
   },
+  "JSFB0004555": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0004555",
+    "BRANCH": "ARRAH",
+    "ADDRESS": "APPORVA TOWER,MAHAJAN TOLI,NEAR SADAR HOSPITAL ROAD,ARRAH,802301,INDIA",
+    "CONTACT": "00",
+    "CITY": "ARRAH",
+    "DISTRICT": "ARRAH",
+    "STATE": "BIHAR",
+    "RTGS": true
+  },
+  "JSFB0004556": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0004556",
+    "BRANCH": "BIHAR SHARIF",
+    "ADDRESS": "1ST FLOOR CITY CENTRE MOH BHAROPAR,PATNA - RANCHI ROAD ANCHAL BIHARSARIF,NALANDA,803101,INDIA",
+    "CONTACT": "00",
+    "CITY": "BIHAR SHARIF",
+    "DISTRICT": "BIHAR SHARIF",
+    "STATE": "BIHAR",
+    "RTGS": true
+  },
   "JSFB0004557": {
     "BANK": "JANA SMALL FINANCE BANK LTD",
     "IFSC": "JSFB0004557",
@@ -556,8 +622,8 @@
     "BRANCH": "Mormugao",
     "ADDRESS": "UNIT NO. 12 13, GROUND AND MEZZANINE FLOOR, KURTARKAR PLAZA, KURTARKAR LANDMARK, MARGOA, GOA- 403601",
     "CONTACT": null,
-    "CITY": "Margao",
-    "DISTRICT": "South Goa",
+    "CITY": "South Goa",
+    "DISTRICT": "Margao",
     "STATE": "GOA",
     "RTGS": true
   },
@@ -577,8 +643,8 @@
     "BRANCH": "Thane",
     "ADDRESS": "Shop NO. 4 and 5, ground floor, India bulls mint Near Hiranandani Meadows, Gladys road, Pokhran road no. Thane west Mumbai-400610",
     "CONTACT": null,
-    "CITY": "Navi Mumbai",
-    "DISTRICT": "Thane",
+    "CITY": "Thane",
+    "DISTRICT": "Navi Mumbai",
     "STATE": "MAHARASHTRA"
   },
   "JSFB0004568": {
@@ -647,8 +713,8 @@
     "BRANCH": "Vashi",
     "ADDRESS": "Unit No. 17 (A), Ground Floor, Ganesh Tower, Sector ┬û 1, Plot No.9, Vashi (W), Mumbai ┬û 400 703",
     "CONTACT": null,
-    "CITY": "Navi Mumbai",
-    "DISTRICT": "Thane",
+    "CITY": "Thane",
+    "DISTRICT": "Navi Mumbai",
     "STATE": "MAHARASHTRA"
   },
   "JSFB0004577": {
@@ -687,8 +753,8 @@
     "BRANCH": "Bapujinagar",
     "ADDRESS": "Plot No: 3-Bapuji Nagar, Janpath, Bhubaneswar, Pin- 751009",
     "CONTACT": null,
-    "CITY": "Bhubaneshwar",
-    "DISTRICT": "Khurda",
+    "CITY": "Khurda",
+    "DISTRICT": "Bhubaneshwar",
     "STATE": "ODISHA"
   },
   "JSFB0004581": {
@@ -697,8 +763,8 @@
     "BRANCH": "Raurkela",
     "ADDRESS": "H-1, Civil Township,Panposh,  Rourkela, Pin- 769004",
     "CONTACT": null,
-    "CITY": "Raurkela",
-    "DISTRICT": "Sundargarh",
+    "CITY": "Sundargarh",
+    "DISTRICT": "Raurkela",
     "STATE": "ODISHA"
   },
   "JSFB0004582": {
@@ -727,8 +793,8 @@
     "BRANCH": "Bathinda",
     "ADDRESS": "G.F, 2907/A/1, Swadesh Complex, G. T. Road, Bathinda,┬á Near Zila Parishad, Bathinda Punjab┬á - 151005",
     "CONTACT": null,
-    "CITY": "Bathinda",
-    "DISTRICT": "Bhatinda",
+    "CITY": "Bhatinda",
+    "DISTRICT": "Bathinda",
     "STATE": "PUNJAB"
   },
   "JSFB0004585": {
@@ -931,14 +997,24 @@
     "DISTRICT": "Tiruchirappalli",
     "STATE": "TAMILNADU"
   },
+  "JSFB0004605": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0004605",
+    "BRANCH": "SANJAY PLACE, AGRA",
+    "ADDRESS": "B-7,B-8& G-7,G-8,BASEMENT& GROUND FLOOR OF UP TOWER,SANJAY PLACE,AGRA,UTTAR PRADESH -121001,INDIA",
+    "CONTACT": null,
+    "CITY": "AGRA",
+    "DISTRICT": "AGRA",
+    "STATE": "UTTAR PRADESH"
+  },
   "JSFB0004606": {
     "BANK": "JANA SMALL FINANCE BANK LTD",
     "IFSC": "JSFB0004606",
     "BRANCH": "Kanpur",
     "ADDRESS": "Ground Floor, First Floor, Second Floor, Property no. 14/121-A, Parade, Kanpur, UP-208001",
     "CONTACT": null,
-    "CITY": "Kanpur",
-    "DISTRICT": "Kanpur Nagar",
+    "CITY": "Kanpur Nagar",
+    "DISTRICT": "Kanpur",
     "STATE": "UTTAR PRADESH"
   },
   "JSFB0004607": {
@@ -981,6 +1057,36 @@
     "DISTRICT": "Meerut",
     "STATE": "UTTAR PRADESH"
   },
+  "JSFB0004614": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0004614",
+    "BRANCH": "SIGRA, VARANASI",
+    "ADDRESS": "D64/98-A1,NEAR BSNL OFFICE,MADHOPUR SIGRA,VARANASI -221002",
+    "CONTACT": null,
+    "CITY": "VARANASI",
+    "DISTRICT": "VARANASI",
+    "STATE": "UTTAR PRADESH"
+  },
+  "JSFB0004616": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0004616",
+    "BRANCH": "RAJPUR ROAD DEHRADUN",
+    "ADDRESS": "GROUND FLOOR,NO.74,RAJPUR ROAD,SHRI RAM ARCADE,DEHRADUN,248001,INDIA",
+    "CONTACT": null,
+    "CITY": "DEHRADUN",
+    "DISTRICT": "DEHRADUN",
+    "STATE": "UTTARAKHAND"
+  },
+  "JSFB0004617": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0004617",
+    "BRANCH": "THAKURPUKUR",
+    "ADDRESS": "RIDDHI-SIDDHI SREE,GROUND& FIRST FLOOR,203,M.G.ROAD,KOLKATA,PIN - 700063",
+    "CONTACT": null,
+    "CITY": "KOLKATA",
+    "DISTRICT": "THAKURPUKUR",
+    "STATE": "WEST BENGAL"
+  },
   "JSFB0004618": {
     "BANK": "JANA SMALL FINANCE BANK LTD",
     "IFSC": "JSFB0004618",
@@ -1011,6 +1117,26 @@
     "DISTRICT": "Kolkata",
     "STATE": "WEST BENGAL"
   },
+  "JSFB0004621": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0004621",
+    "BRANCH": "VIP ROAD",
+    "ADDRESS": "UNIT NO.6 ( PART )& UNIT NO.7/ ( FULL),GROUND FLOOR,SITUATED AT ALCOVE GLORIA MALL,VIP ROAD,KOLKATA,PIN - 700048",
+    "CONTACT": null,
+    "CITY": "KOLKATA",
+    "DISTRICT": "KOLKATA",
+    "STATE": "WEST BENGAL"
+  },
+  "JSFB0004622": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0004622",
+    "BRANCH": "SALT LAKE",
+    "ADDRESS": "ANDROMEDA,FIRST FLOOR,DD-30,SECTOR -L,SALT LAKE,KOLKATA - 700 064",
+    "CONTACT": null,
+    "CITY": "KOLKATA",
+    "DISTRICT": "KOLKATA",
+    "STATE": "WEST BENGAL"
+  },
   "JSFB0004623": {
     "BANK": "JANA SMALL FINANCE BANK LTD",
     "IFSC": "JSFB0004623",
@@ -1027,8 +1153,8 @@
     "BRANCH": "Howrah Maidan",
     "ADDRESS": "GROUND FLOOR, 23/2, MAULANA ABUL KALAM AZAD ROAD,P.S. GOLABARI HOWRAH - 711101, WEST BENGAL",
     "CONTACT": null,
-    "CITY": "KOLKATA",
-    "DISTRICT": "Howrah┬á",
+    "CITY": "Howrah┬á",
+    "DISTRICT": "KOLKATA",
     "STATE": "WEST BENGAL"
   },
   "JSFB0004625": {
@@ -1037,8 +1163,8 @@
     "BRANCH": "Siliguri",
     "ADDRESS": "M-Square, Lower Ground Floor, Opp Sachitra Hotel, Sevoke Road, Siliguri, PIN-734003",
     "CONTACT": null,
-    "CITY": "Siliguri",
-    "DISTRICT": "Darjiling",
+    "CITY": "Darjiling",
+    "DISTRICT": "Siliguri",
     "STATE": "WEST BENGAL"
   },
   "JSFB0004627": {
@@ -1058,8 +1184,8 @@
     "BRANCH": "Sivasagar",
     "ADDRESS": "Lohit Tower, Kanak Nagar A.T. Road, Sibsagar, PIN-785640",
     "CONTACT": null,
-    "CITY": "Sivasagar",
-    "DISTRICT": "Sibsagar",
+    "CITY": "Sibsagar",
+    "DISTRICT": "Sivasagar",
     "STATE": "ASSAM",
     "RTGS": true
   },
@@ -1080,8 +1206,8 @@
     "BRANCH": "Bhatapara",
     "ADDRESS": "Ground Floor ,City Center Main Road Bhatapara- 493118",
     "CONTACT": null,
-    "CITY": "Bhatapara",
-    "DISTRICT": "Raipur",
+    "CITY": "Raipur",
+    "DISTRICT": "Bhatapara",
     "STATE": "CHHATTISGARH",
     "RTGS": true
   },
@@ -1091,8 +1217,8 @@
     "BRANCH": "Mahasamund Municipality",
     "ADDRESS": "Opposite Railway Station Beside Vijaya Bank Mahasumund 493445",
     "CONTACT": null,
-    "CITY": "MAHASAMUND",
-    "DISTRICT": "Mahasamund",
+    "CITY": "Mahasamund",
+    "DISTRICT": "MAHASAMUND",
     "STATE": "CHHATTISGARH",
     "RTGS": true
   },
@@ -1113,8 +1239,8 @@
     "BRANCH": "Champa Muncipality",
     "ADDRESS": "Ground Floor, Didwania Complex, Sadar Bazar Road, Beside Bank of Baroda, Champa, Chhattisgarh. Pin- 495671",
     "CONTACT": null,
-    "CITY": "JANJGIR CHAMPA",
-    "DISTRICT": "Janjgir Champa",
+    "CITY": "Janjgir Champa",
+    "DISTRICT": "JANJGIR CHAMPA",
     "STATE": "CHHATTISGARH",
     "RTGS": true
   },
@@ -1135,8 +1261,8 @@
     "BRANCH": "Bardoli muncipality",
     "ADDRESS": "UG1,2,3 and LG 1,2,3, Ground  First Floor, Shreeji Complex, National Highway No. 6, Surat - Dhulla Road, Opp. Manik Moti Complex, Bardoli ┬û 394601",
     "CONTACT": null,
-    "CITY": "Bardoli",
-    "DISTRICT": "Surat",
+    "CITY": "Surat",
+    "DISTRICT": "Bardoli",
     "STATE": "GUJARAT",
     "RTGS": true
   },
@@ -1167,8 +1293,8 @@
     "BRANCH": "Hosakote",
     "ADDRESS": "# 2, Haneshumari No. 2434/2, S.A Complex,Ramakrishna Road,,M.v Extension,Hoskote: 562114",
     "CONTACT": null,
-    "CITY": "Hosakote",
-    "DISTRICT": "Bangalore Rural",
+    "CITY": "Bangalore Rural",
+    "DISTRICT": "Hosakote",
     "STATE": "KARNATAKA",
     "RTGS": true
   },
@@ -1218,8 +1344,8 @@
     "BRANCH": "Khordha",
     "ADDRESS": "Laxmi Narayan Kalayn Mandap, Plot No: 997/4237 and 34/4363, Uparsahi, 1st Floor, Khordha, Pin-752055, Odisha",
     "CONTACT": null,
-    "CITY": "Khordha",
-    "DISTRICT": "Khurda",
+    "CITY": "Khurda",
+    "DISTRICT": "Khordha",
     "STATE": "ODISHA"
   },
   "JSFB0004654": {
@@ -1248,8 +1374,8 @@
     "BRANCH": "Chengalpattu",
     "ADDRESS": "Plot No -23, Ward no. 3, GST Road, Alagesan nagar Extention,Chengalpattu, Kancheepuram District ,Pin : 603001.",
     "CONTACT": null,
-    "CITY": "Chengalpattu",
-    "DISTRICT": "Kancheepuram",
+    "CITY": "Kancheepuram",
+    "DISTRICT": "Chengalpattu",
     "STATE": "TAMIL NADU"
   },
   "JSFB0004657": {
@@ -1268,8 +1394,8 @@
     "BRANCH": "Tiruchengode",
     "ADDRESS": "No: 29, Sankagiri Main Road, Selvam Sadan, Opp To Government Higher Secondary Girls School,Thiruchengode,Namakkal Dist, Tamilnadu-637211.",
     "CONTACT": null,
-    "CITY": "Tiruchengode",
-    "DISTRICT": "Namakkal",
+    "CITY": "Namakkal",
+    "DISTRICT": "Tiruchengode",
     "STATE": "TAMIL NADU"
   },
   "JSFB0004660": {
@@ -1278,8 +1404,8 @@
     "BRANCH": "Gobichettipalayam",
     "ADDRESS": "No. 235, Door no. 47 D5, Jawaharlal Nehru Street, Veerapandi Village, Muthuvelappan Street,Gobichettipalayam-638452",
     "CONTACT": null,
-    "CITY": "Gobichettipalayam",
-    "DISTRICT": "Erode",
+    "CITY": "Erode",
+    "DISTRICT": "Gobichettipalayam",
     "STATE": "TAMIL NADU"
   },
   "JSFB0004661": {
@@ -1288,9 +1414,19 @@
     "BRANCH": "Punjaipuliampatti",
     "ADDRESS": "#607,Jawahar Main road,Opposite Vishnu Tvs, Punjaipuliampatti-638459.",
     "CONTACT": null,
-    "CITY": "ERODE",
-    "DISTRICT": "Erode",
+    "CITY": "Erode",
+    "DISTRICT": "ERODE",
     "STATE": "TAMIL NADU"
+  },
+  "JSFB0004662": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0004662",
+    "BRANCH": "PADRAUNA",
+    "ADDRESS": "GROUND FLOOR,LARI MANZIL,CHHAWANI KASIA ROAD,PANDRAUNA,274304,INDIA",
+    "CONTACT": null,
+    "CITY": "PADRAUNA",
+    "DISTRICT": "PADRAUNA",
+    "STATE": "UTTAR PRADESH"
   },
   "JSFB0004667": {
     "BANK": "JANA SMALL FINANCE BANK LTD",
@@ -1298,8 +1434,8 @@
     "BRANCH": "Rampurhat",
     "ADDRESS": "Plot No. 314, Lotus Press More, Ward No. 9, opp. Relax Hotel, Rampurhat, PIN- 731224.",
     "CONTACT": null,
-    "CITY": "Rampurhat",
-    "DISTRICT": "Birbhum",
+    "CITY": "Birbhum",
+    "DISTRICT": "Rampurhat",
     "STATE": "WEST BENGAL"
   },
   "JSFB0004668": {
@@ -1308,8 +1444,8 @@
     "BRANCH": "Baduria muncipality",
     "ADDRESS": "Baduria Chowmatha, Near SBI, P.O. Baduria, First Floor, Dist. 24 Parganas (N), West Bengal, PIN- 743437",
     "CONTACT": null,
-    "CITY": "Baduria muncipality",
-    "DISTRICT": "North 24 Parganas",
+    "CITY": "North 24 Parganas",
+    "DISTRICT": "Baduria muncipality",
     "STATE": "WEST BENGAL"
   },
   "JSFB0004670": {
@@ -1318,8 +1454,8 @@
     "BRANCH": "Katwa",
     "ADDRESS": "Mira Plaza, Nazrul Sarani, Circus Maidan, Katwa, Pin- 713130",
     "CONTACT": null,
-    "CITY": "Katwa",
-    "DISTRICT": "Barddhaman",
+    "CITY": "Barddhaman",
+    "DISTRICT": "Katwa",
     "STATE": "WEST BENGAL"
   },
   "JSFB0004671": {
@@ -1328,8 +1464,8 @@
     "BRANCH": "Memari",
     "ADDRESS": "Nabapally More, Opposite PWD Office, Near New Bus Stand, Memari, Pin - 713146",
     "CONTACT": null,
-    "CITY": "Memari",
-    "DISTRICT": "Barddhaman",
+    "CITY": "Barddhaman",
+    "DISTRICT": "Memari",
     "STATE": "WEST BENGAL"
   },
   "JSFB0004672": {
@@ -1338,8 +1474,8 @@
     "BRANCH": "Diamond Harbour",
     "ADDRESS": "Abirami Plot No ┬û 225/422 Vill- Madhabpur PO- Diamond Harbour. Dist- South 24 Pgs . WB ┬û 743331",
     "CONTACT": null,
-    "CITY": "Diamond Harbour",
-    "DISTRICT": "South 24 Parganas",
+    "CITY": "South 24 Parganas",
+    "DISTRICT": "Diamond Harbour",
     "STATE": "WEST BENGAL"
   },
   "JSFB0004675": {
@@ -1518,8 +1654,8 @@
     "BRANCH": "Bandarapalli",
     "ADDRESS": "Bandarapalli, 11/2;Billanakuppm Po; Krishnagiri Dt-635115",
     "CONTACT": null,
-    "CITY": "Bandarapalli",
-    "DISTRICT": "Krishnagiri",
+    "CITY": "Krishnagiri",
+    "DISTRICT": "Bandarapalli",
     "STATE": "TAMIL NADU"
   },
   "JSFB0004695": {
@@ -1528,8 +1664,8 @@
     "BRANCH": "Addakurakki",
     "ADDRESS": "#2/89/2,AVK Complex,Addakurrakki,Main village,Krishnagiri dist.",
     "CONTACT": null,
-    "CITY": "Addakurakki",
-    "DISTRICT": "Krishnagiri",
+    "CITY": "Krishnagiri",
+    "DISTRICT": "Addakurakki",
     "STATE": "TAMIL NADU"
   },
   "JSFB0004696": {
@@ -1538,8 +1674,8 @@
     "BRANCH": "Ghodari",
     "ADDRESS": "Nadi Mod, Main Sq, Ghodari, Dist - Mahasamund, Ghodari- 493445",
     "CONTACT": null,
-    "CITY": "Ghodari",
-    "DISTRICT": "Mahasamund",
+    "CITY": "Mahasamund",
+    "DISTRICT": "Ghodari",
     "STATE": "CHHATTISGARH",
     "RTGS": true
   },
@@ -1549,8 +1685,8 @@
     "BRANCH": "Guddapatti",
     "ADDRESS": "Panchayath Office,Guddapatti, Krishnagiri",
     "CONTACT": null,
-    "CITY": "Guddapatti",
-    "DISTRICT": "Krishnagiri",
+    "CITY": "Krishnagiri",
+    "DISTRICT": "Guddapatti",
     "STATE": "TAMIL NADU"
   },
   "JSFB0004698": {
@@ -1559,8 +1695,8 @@
     "BRANCH": "Dod Ballapur",
     "ADDRESS": "#66, Khatha No :865/66, Rojipura Village, Kasaba Hobli, Doddaballapura Taluk, Bangalore -561203",
     "CONTACT": null,
-    "CITY": "Dod Ballapur",
-    "DISTRICT": "Bangalore Rural",
+    "CITY": "Bangalore Rural",
+    "DISTRICT": "Dod Ballapur",
     "STATE": "KARNATAKA",
     "RTGS": true
   },
@@ -1570,8 +1706,8 @@
     "BRANCH": "Thalikothanur",
     "ADDRESS": "88/2, Nagarathnamma; W/O Lingappa; Thali Kothanooru; Denkanikottai Tq;Krishnagiri Dt.",
     "CONTACT": null,
-    "CITY": "Thalikothanur",
-    "DISTRICT": "Krishnagiri",
+    "CITY": "Krishnagiri",
+    "DISTRICT": "Thalikothanur",
     "STATE": "TAMIL NADU"
   },
   "JSFB0004700": {
@@ -1580,8 +1716,8 @@
     "BRANCH": "Arasakuppam",
     "ADDRESS": "Reddy Building 2/3A; , Kalligopasandra Village; Kelamangala Main Road; Opp To Govt High School, NGR building, Dankanikottai Taluk, Krishnagiri Dt; Pin: 635107",
     "CONTACT": null,
-    "CITY": "Arasakuppam",
-    "DISTRICT": "Krishnagiri",
+    "CITY": "Krishnagiri",
+    "DISTRICT": "Arasakuppam",
     "STATE": "TAMIL NADU"
   },
   "JSFB0004701": {
@@ -1590,8 +1726,8 @@
     "BRANCH": "K. Sathyavara",
     "ADDRESS": "Survey no.58/51,Site No.49, K Sathyvara, Nandagudi Hobli Hoskote Talluk, Bangalore Rural District. Pin-562122",
     "CONTACT": null,
-    "CITY": "K. Sathyavara",
-    "DISTRICT": "Bangalore Rural",
+    "CITY": "Bangalore Rural",
+    "DISTRICT": "K. Sathyavara",
     "STATE": "KARNATAKA",
     "RTGS": true
   },
@@ -1601,8 +1737,8 @@
     "BRANCH": "Maralakunte",
     "ADDRESS": "No.116, Ground Floor, Maralakunte Village, Somapura Hobli, Nelamangala Taluk, Bengaluru Rural - 562111, Karnataka",
     "CONTACT": null,
-    "CITY": "Maralakunte",
-    "DISTRICT": "Bangalore Rural",
+    "CITY": "Bangalore Rural",
+    "DISTRICT": "Maralakunte",
     "STATE": "KARNATAKA",
     "RTGS": true
   },
@@ -1634,8 +1770,8 @@
     "BRANCH": "Gujra",
     "ADDRESS": "Gram Panchayat Bhawan, Old Dhamtari Road, Gujra Village, Dist. Dhamtari, Chhattisgarh, Pin- 493773",
     "CONTACT": null,
-    "CITY": "DHAMTARI",
-    "DISTRICT": "Dhamtari",
+    "CITY": "Dhamtari",
+    "DISTRICT": "DHAMTARI",
     "STATE": "CHHATTISGARH",
     "RTGS": true
   },
@@ -1645,8 +1781,8 @@
     "BRANCH": "Mangala",
     "ADDRESS": "Khata No:423,First Floor,Kollegala-Mangala Main Road,Near Mangala Grampanchayat Office,Mangala Village, Kollegala Talluk.Dist; Chamaraj Nagara.- 571126",
     "CONTACT": null,
-    "CITY": "Mangala",
-    "DISTRICT": "Chamarajanagar",
+    "CITY": "Chamarajanagar",
+    "DISTRICT": "Mangala",
     "STATE": "KARNATAKA",
     "RTGS": true
   },
@@ -1773,8 +1909,8 @@
     "BRANCH": "Udan",
     "ADDRESS": "Unit No. 393, Ground Floor, Nr.Primary School, At Post:- Udan, Taluka- Dahegam, Pin:- 382315",
     "CONTACT": null,
-    "CITY": "Udan",
-    "DISTRICT": "Gandhinagar",
+    "CITY": "Gandhinagar",
+    "DISTRICT": "Udan",
     "STATE": "GUJARAT",
     "RTGS": true
   },
@@ -1908,13 +2044,13 @@
     "STATE": "MAHARASHTRA"
   },
   "JSFB0004753": {
-    "BANK": "JANA SMALL FINANCE BANK LTD.",
+    "BANK": "JANA SMALL FINANCE BANK LTD",
     "IFSC": "JSFB0004753",
     "BRANCH": "RAJOURI GARDEN",
     "ADDRESS": "PROPERTY BEARING NO.A-61,GROUND FLOOR,SITUATED AT RAJOURI GARDEN NEW DELHI-110027",
     "CONTACT": null,
-    "CITY": "NEW DELHI",
-    "DISTRICT": "DELHI",
+    "CITY": "DELHI",
+    "DISTRICT": "NEW DELHI",
     "STATE": "DELHI",
     "RTGS": true
   },
@@ -2005,8 +2141,8 @@
     "BRANCH": "Labhara Kalan",
     "ADDRESS": "House of Digendra Kumar Giri, Labhra Kala, P.O. Tusada, Dist. Mahasamund, Chhattisgarh, Pin- 493445",
     "CONTACT": null,
-    "CITY": "DHAMTARI",
-    "DISTRICT": "Mahasamund",
+    "CITY": "Mahasamund",
+    "DISTRICT": "DHAMTARI",
     "STATE": "CHHATTISGARH",
     "RTGS": true
   },
@@ -2026,8 +2162,8 @@
     "BRANCH": "Bagnan",
     "ADDRESS": "COSMO BAZAR, Bagnan Station Road, Bagnan, West Bengal, PIN- 711303",
     "CONTACT": null,
-    "CITY": "Howrah",
-    "DISTRICT": "Haora",
+    "CITY": "Haora",
+    "DISTRICT": "Howrah",
     "STATE": "WEST BENGAL"
   },
   "JSFB0004782": {
@@ -2036,8 +2172,8 @@
     "BRANCH": "Tamluk",
     "ADDRESS": "Holding No. 474, Vill. Salgechia, P.O. and P.S. Tamluk, Dist. Purba Midnapore, West Bengal, PIN- 721636",
     "CONTACT": null,
-    "CITY": "Tamluk",
-    "DISTRICT": "Purba Medinipur",
+    "CITY": "Purba Medinipur",
+    "DISTRICT": "Tamluk",
     "STATE": "WEST BENGAL"
   },
   "JSFB0004783": {
@@ -2046,9 +2182,31 @@
     "BRANCH": "Jaynagar Mazilpur",
     "ADDRESS": "Jaynagar Mazilpur Municipality, Jaynagar Mazilpur, West Bengal, PIN- 743337",
     "CONTACT": null,
-    "CITY": "Joynagar",
-    "DISTRICT": "South 24 Parganas",
+    "CITY": "South 24 Parganas",
+    "DISTRICT": "Joynagar",
     "STATE": "WEST BENGAL"
+  },
+  "JSFB0004784": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0004784",
+    "BRANCH": "JORHAT",
+    "ADDRESS": "CRYSTAL S.R.PLAZA,1ST FLOOR,NEAR ELEYE CINEMA HALL,GAR-ALI ROAD,JORHAT,ASSAM,PIN - 785001",
+    "CONTACT": "00",
+    "CITY": "JORHAT",
+    "DISTRICT": "JORHAT",
+    "STATE": "ASSAM",
+    "RTGS": true
+  },
+  "JSFB0004785": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0004785",
+    "BRANCH": "RANCHI",
+    "ADDRESS": "TDGSFVASMSGDKDC-3(JD)",
+    "CONTACT": "00",
+    "CITY": "RANCHI",
+    "DISTRICT": "ACI",
+    "STATE": "JHARKHAND",
+    "RTGS": true
   },
   "JSFB0004786": {
     "BANK": "JANA SMALL FINANCE BANK LTD",
@@ -2061,14 +2219,25 @@
     "STATE": "BIHAR",
     "RTGS": true
   },
+  "JSFB0004787": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0004787",
+    "BRANCH": "DANAPUR",
+    "ADDRESS": "1ST FLOOR,MOTHERS BUILDING,OPP.UNION BANK,MACHUATOLI,PATNA - 800004,INDIA",
+    "CONTACT": "00",
+    "CITY": "DANAPUR",
+    "DISTRICT": "PATNA",
+    "STATE": "BIHAR",
+    "RTGS": true
+  },
   "JSFB0004793": {
-    "BANK": "JANA SMALL FINANCE BANK LTD.",
+    "BANK": "JANA SMALL FINANCE BANK LTD",
     "IFSC": "JSFB0004793",
     "BRANCH": "UTTAM NAGAR",
     "ADDRESS": "FIRST FLOOR,PROPERTY NO.C-3,HASTSAL VILLAGE,MILAP NAGAR COLONY,NEW DELHI,110059,INDIA",
     "CONTACT": null,
-    "CITY": "NEW DELHI",
-    "DISTRICT": "DELHI",
+    "CITY": "DELHI",
+    "DISTRICT": "NEW DELHI",
     "STATE": "DELHI",
     "RTGS": true
   },
@@ -2100,8 +2269,8 @@
     "BRANCH": "Kamalpur",
     "ADDRESS": "House No. 56, Village: Kamalpur, PO. Mundanwas, Tehsil: Bawal and District: Rewari, Haryana. 123501",
     "CONTACT": null,
-    "CITY": "Rohtak",
-    "DISTRICT": "Rewari",
+    "CITY": "Rewari",
+    "DISTRICT": "Rohtak",
     "STATE": "HARYANA",
     "RTGS": true
   },
@@ -2158,14 +2327,36 @@
     "DISTRICT": "Coimbatore",
     "STATE": "TAMIL NADU"
   },
+  "JSFB0004807": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0004807",
+    "BRANCH": "SHAHIBAUG",
+    "ADDRESS": "1ST FLOOR SHOP NO 115&116,NEAR NAMASKAR CIRCLE OPP SWAMI NARAYAN TEMPLE,SHAHIBAUG",
+    "CONTACT": "00",
+    "CITY": "AHMADABAD",
+    "DISTRICT": "SHAHIBAUG",
+    "STATE": "GUJARAT",
+    "RTGS": true
+  },
+  "JSFB0004808": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0004808",
+    "BRANCH": "MANJALPUR",
+    "ADDRESS": "1ST FLOOR NO 101,102,103 SHIV SUNDRAM COMPLEX,OPP AXIS BANK,DEEP CHAMBERS CROSS ROAD MANJALPUR",
+    "CONTACT": "00",
+    "CITY": "VADODARA",
+    "DISTRICT": "MANJALPUR",
+    "STATE": "GUJARAT",
+    "RTGS": true
+  },
   "JSFB00TR001": {
     "BANK": "JANA SMALL FINANCE BANK LTD",
     "IFSC": "JSFB00TR001",
     "BRANCH": "TREASURY",
     "ADDRESS": "5TH FLOOR, CEEJAY HOUSE, DR.ANNIE BESANT ROAD,MARKANDESHWAR NAGAR,SHIV SAGAR ESTATE,WORLI, MUMBAI-400018",
     "CONTACT": null,
-    "CITY": "MUMBAI",
-    "DISTRICT": "UBI",
+    "CITY": "UBI",
+    "DISTRICT": "MUMBAI",
     "STATE": "MAHARASHTRA"
   },
   "JSFB0CPC002": {

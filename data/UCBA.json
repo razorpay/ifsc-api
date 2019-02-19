@@ -13191,7 +13191,8 @@
     "CONTACT": "236698",
     "CITY": "CHHATARPUR",
     "DISTRICT": "NOWGONG",
-    "STATE": "MADHYA PRADESH"
+    "STATE": "MADHYA PRADESH",
+    "RTGS": true
   },
   "UCBA0001337": {
     "BANK": "UCO BANK",
@@ -17115,8 +17116,7 @@
     "CONTACT": "6578223",
     "CITY": "AHMEDABAD",
     "DISTRICT": "AHMEDABAD",
-    "STATE": "GUJARAT",
-    "RTGS": true
+    "STATE": "GUJARAT"
   },
   "UCBA0001783": {
     "BANK": "UCO BANK",
@@ -17513,8 +17513,7 @@
     "CONTACT": "22876952",
     "CITY": "BANGALORE",
     "DISTRICT": "BANGALORE",
-    "STATE": "KARNATAKA",
-    "RTGS": true
+    "STATE": "KARNATAKA"
   },
   "UCBA0001828": {
     "BANK": "UCO BANK",
@@ -20325,8 +20324,7 @@
     "CONTACT": "24744024",
     "CITY": "HYDERABAD",
     "DISTRICT": "HYDERABAD",
-    "STATE": "ANDHRA PRADESH",
-    "RTGS": true
+    "STATE": "ANDHRA PRADESH"
   },
   "UCBA0002114": {
     "BANK": "UCO BANK",
@@ -20336,8 +20334,7 @@
     "CONTACT": "2706643",
     "CITY": "CHANDIGARH",
     "DISTRICT": "CHANDIGARH",
-    "STATE": "CHANDIGARH",
-    "RTGS": true
+    "STATE": "CHANDIGARH"
   },
   "UCBA0002115": {
     "BANK": "UCO BANK",
@@ -20420,8 +20417,7 @@
     "CONTACT": "2735430",
     "CITY": "KAMRUP",
     "DISTRICT": "GUWAHATI",
-    "STATE": "ASSAM",
-    "RTGS": true
+    "STATE": "ASSAM"
   },
   "UCBA0002123": {
     "BANK": "UCO BANK",
@@ -21720,8 +21716,7 @@
     "CONTACT": "2222305",
     "CITY": "PATNA",
     "DISTRICT": "PATNA",
-    "STATE": "BIHAR",
-    "RTGS": true
+    "STATE": "BIHAR"
   },
   "UCBA0002249": {
     "BANK": "UCO BANK",
@@ -23112,8 +23107,7 @@
     "CONTACT": "9816080221",
     "CITY": "SIMLA",
     "DISTRICT": "SIMLA",
-    "STATE": "HIMACHAL PRADESH",
-    "RTGS": true
+    "STATE": "HIMACHAL PRADESH"
   },
   "UCBA0002387": {
     "BANK": "UCO BANK",
@@ -28338,7 +28332,7 @@
     "IFSC": "UCBA0002994",
     "BRANCH": "ALIRAJPUR",
     "ADDRESS": "29,TILAK MARG,AMLA LINE,ALIRAJPUR,TAH DISTT ALIRAJPUR",
-    "CONTACT": null,
+    "CONTACT": "8878028055",
     "CITY": "JHABUA",
     "DISTRICT": "ALIRAJPUR",
     "STATE": "MADHYA PRADESH"
@@ -32069,6 +32063,17 @@
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
     "STATE": "TAMIL NADU"
+  },
+  "UCBA0003361": {
+    "BANK": "UCO BANK",
+    "IFSC": "UCBA0003361",
+    "BRANCH": "MANINAGAR EAST",
+    "ADDRESS": "NO1,SHRI RANG HEIGHTS, NEAR CHEHAR MATA MANDIR, MANINAGAR EAST, AHMEDABAD GUJARAT 380008",
+    "CONTACT": "00",
+    "CITY": "AHMEDABAD",
+    "DISTRICT": "AHMEDABAD",
+    "STATE": "GUJARAT",
+    "RTGS": true
   },
   "UCBA0009003": {
     "BANK": "UCO BANK",
