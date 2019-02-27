@@ -54,6 +54,9 @@ configure do
   end
   set :redis, Redis.new
   set :server, 'thin'
+  set :bank_names, JSON.parse(File.read('data/banknames.json'))
+  set :sublet_list, JSON.parse(File.read('data/sublet.json'))
+  set :banks_list, JSON.parse(File.read('data/banks.json'))
   set :metrics, Metrics.new
 end
 
@@ -118,11 +121,25 @@ get '/metrics' do
   settings.metrics.format
 end
 
+
 get '/:code.html', %r{/[\w-]+/[\w-]+/(?<code>[A-Z0-9]{11})} do
   begin
     data = ifsc_data(params['code'])
     erb :ifsc, locals: { data: data }
   rescue StandardError => e
+    puts e
+    status 404
+    json 'Not Found'
+  end
+end
+
+get '/banks/:code' do
+  begin
+    bank = settings.banks_list[params['code']]
+    bank['bank_code'] = bank['micr'][3..5]
+    bank['name'] = settings.bank_names[params['code']]
+    return json bank
+  rescue Exception => e
     puts e
     status 404
     json 'Not Found'
