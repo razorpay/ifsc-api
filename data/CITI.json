@@ -7,7 +7,8 @@
     "CONTACT": "22881878",
     "CITY": "KOLKATA",
     "DISTRICT": "KOLKATA",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "CITI0000002": {
     "BANK": "CITI BANK",
@@ -28,7 +29,8 @@
     "CONTACT": "28460014",
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "CITI0000004": {
     "BANK": "CITI BANK",
@@ -49,7 +51,8 @@
     "CONTACT": "5606356",
     "CITY": "PUNE",
     "DISTRICT": "PUNE",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "CITI0000006": {
     "BANK": "CITI BANK",
@@ -92,7 +95,8 @@
     "CONTACT": "5118144",
     "CITY": "JAIPUR",
     "DISTRICT": "JAIPUR",
-    "STATE": "RAJASTHAN"
+    "STATE": "RAJASTHAN",
+    "RTGS": true
   },
   "CITI0000011": {
     "BANK": "CITI BANK",
@@ -102,7 +106,8 @@
     "CONTACT": "2217979",
     "CITY": "COIMBATORE",
     "DISTRICT": "COIMBOTORE",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "CITI0000012": {
     "BANK": "CITI BANK",
@@ -156,7 +161,8 @@
     "CONTACT": "2231661",
     "CITY": "LUCKNOW",
     "DISTRICT": "LUCKNOW",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "CITI0000017": {
     "BANK": "CITI BANK",
@@ -166,7 +172,8 @@
     "CONTACT": "4396501",
     "CITY": "NOIDA",
     "DISTRICT": "GAUTAM BODDA NAGAR",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "CITI0000019": {
     "BANK": "CITI BANK",
@@ -176,7 +183,8 @@
     "CONTACT": "5627041",
     "CITY": "AURANGABAD",
     "DISTRICT": "AURANGABAD",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "CITI0000022": {
     "BANK": "CITI BANK",
@@ -186,7 +194,8 @@
     "CONTACT": "2309100",
     "CITY": "NASHIK",
     "DISTRICT": "NASHIK",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "CITI0000027": {
     "BANK": "CITI BANK",
@@ -207,7 +216,8 @@
     "CONTACT": "9830201311",
     "CITY": "KOLKATA",
     "DISTRICT": "KOLKATA",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "CITI0000029": {
     "BANK": "CITI BANK",
@@ -261,7 +271,8 @@
     "CONTACT": "9899971810",
     "CITY": "NOIDA",
     "DISTRICT": "GAUTAM BUDDHA NAGAR",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "CITI0000036": {
     "BANK": "CITI BANK",
@@ -271,7 +282,8 @@
     "CONTACT": "9821227132",
     "CITY": "MUMBAI",
     "DISTRICT": "GREATER MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "CITI0000037": {
     "BANK": "CITI BANK",
@@ -281,7 +293,8 @@
     "CONTACT": "9967659169",
     "CITY": "MUMBAI",
     "DISTRICT": "GREATER MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "CITI0000038": {
     "BANK": "CITI BANK",
@@ -291,7 +304,8 @@
     "CONTACT": "982018847",
     "CITY": "NEW MUMBAI",
     "DISTRICT": "THANE",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "CITI0000039": {
     "BANK": "CITI BANK",
@@ -301,7 +315,8 @@
     "CONTACT": "9820594168",
     "CITY": "MUMBAI",
     "DISTRICT": "GREATER MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "CITI0000040": {
     "BANK": "CITI BANK",
@@ -311,7 +326,8 @@
     "CONTACT": "9820507303",
     "CITY": "MUMBAI",
     "DISTRICT": "GREATER MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "CITI0000042": {
     "BANK": "CITI BANK",
@@ -332,7 +348,8 @@
     "CONTACT": "6623123",
     "CITY": "NAGPUR",
     "DISTRICT": "NAGPUR",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "CITI0000047": {
     "BANK": "CITI BANK",
@@ -352,7 +369,63 @@
     "CONTACT": "25981401",
     "CITY": "THANE",
     "DISTRICT": "THANE",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
+  },
+  "CITI00000CF": {
+    "BANK": "CITI BANK N A",
+    "IFSC": "CITI00000CF",
+    "BRANCH": "Mumbai (Corr Bank Funding Division)",
+    "ADDRESS": "Citigroup Centre, C-61, Bandra Kurla Complex, Bandra E, Mumbai - 51",
+    "CONTACT": null,
+    "CITY": "MUMBAI",
+    "DISTRICT": "GREATER BOMBAY",
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
+  },
+  "CITI00000DX": {
+    "BANK": "CITI BANK N A",
+    "IFSC": "CITI00000DX",
+    "BRANCH": "Mumbai (Derivatives Division)",
+    "ADDRESS": "Citigroup Centre, C-61, Bandra Kurla Complex, Bandra E, Mumbai - 51",
+    "CONTACT": null,
+    "CITY": "MUMBAI",
+    "DISTRICT": "GREATER BOMBAY",
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
+  },
+  "CITI00000FT": {
+    "BANK": "CITI BANK N A",
+    "IFSC": "CITI00000FT",
+    "BRANCH": "Mumbai (Funds Transfer Division)",
+    "ADDRESS": "Citigroup Centre, C-61, Bandra Kurla Complex, Bandra E, Mumbai - 51",
+    "CONTACT": null,
+    "CITY": "MUMBAI",
+    "DISTRICT": "GREATER BOMBAY",
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
+  },
+  "CITI00000FX": {
+    "BANK": "CITI BANK N A",
+    "IFSC": "CITI00000FX",
+    "BRANCH": "Mumbai (Forex Division)",
+    "ADDRESS": "Citigroup Centre, C-61, Bandra Kurla Complex, Bandra E, Mumbai - 51",
+    "CONTACT": null,
+    "CITY": "MUMBAI",
+    "DISTRICT": "GREATER BOMBAY",
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
+  },
+  "CITI00000MM": {
+    "BANK": "CITI BANK N A",
+    "IFSC": "CITI00000MM",
+    "BRANCH": "Mumbai (Money Market Division)",
+    "ADDRESS": "Citigroup Centre, C-61, Bandra Kurla Complex, Bandra E, Mumbai - 51",
+    "CONTACT": null,
+    "CITY": "MUMBAI",
+    "DISTRICT": "GREATER BOMBAY",
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "CITI0100000": {
     "BANK": "CITI BANK",
@@ -362,7 +435,8 @@
     "CONTACT": "40005706",
     "CITY": "MUMBAI",
     "DISTRICT": "GREATER MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "CITI0RTGSMI": {
     "BANK": "CITI BANK",
@@ -372,6 +446,7 @@
     "CONTACT": "40005706",
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   }
 }

@@ -2,31 +2,33 @@
   "DOHB0000001": {
     "BANK": "DOHA BANK QSC",
     "IFSC": "DOHB0000001",
-    "BRANCH": "RTGS-HO",
+    "BRANCH": null,
     "ADDRESS": "GR.FLOOR, SAKHAR BHAVAN, NARIMAN POINT,40021",
-    "CONTACT": "33941133",
-    "CITY": "MUMBAI",
-    "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "CONTACT": null,
+    "CITY": null,
+    "DISTRICT": null,
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "DOHB0000002": {
     "BANK": "DOHA BANK",
     "IFSC": "DOHB0000002",
-    "BRANCH": "RAHEJA CENTER",
+    "BRANCH": null,
     "ADDRESS": "201,RAHEJA CENTER, FREE PRESS MARG, NARIMAN POINT,MUMBAI 400021",
-    "CONTACT": "33941120",
-    "CITY": "MUMBAI",
-    "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "CONTACT": null,
+    "CITY": null,
+    "DISTRICT": null,
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "DOHB0000003": {
     "BANK": "DOHA BANK",
     "IFSC": "DOHB0000003",
-    "BRANCH": "KOCHI",
+    "BRANCH": null,
     "ADDRESS": "1ST FLOOR, GOLDEN PLAZA, CHITTOOR ROAD, OPP MYMOON THEATER, ERNAKULAM, KOCHI 682018",
-    "CONTACT": "2370507",
-    "CITY": "KOCHI",
-    "DISTRICT": "KOCHI",
+    "CONTACT": null,
+    "CITY": null,
+    "DISTRICT": null,
     "STATE": "KERALA",
     "RTGS": true
   },
@@ -38,6 +40,7 @@
     "CONTACT": null,
     "CITY": null,
     "DISTRICT": null,
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   }
 }

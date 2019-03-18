@@ -292,7 +292,8 @@
     "CONTACT": "2228597",
     "CITY": "AMRITSAR",
     "DISTRICT": "PUNJAB",
-    "STATE": "PUNJAB"
+    "STATE": "PUNJAB",
+    "RTGS": true
   },
   "KARB0000028": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -313,7 +314,8 @@
     "CONTACT": "2427501",
     "CITY": "ALLAHABAD",
     "DISTRICT": "ALLAHABAD",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "KARB0000030": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -323,7 +325,8 @@
     "CONTACT": "2525087",
     "CITY": "AGRA",
     "DISTRICT": "AGRA",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "KARB0000031": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -333,7 +336,8 @@
     "CONTACT": "2341585",
     "CITY": "AURANGABAD",
     "DISTRICT": "AURANGABAD",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000032": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -343,7 +347,8 @@
     "CONTACT": "24809848",
     "CITY": "SOUTH 24 PARGANAS",
     "DISTRICT": "AMTALA",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "KARB0000033": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -353,7 +358,8 @@
     "CONTACT": "231938",
     "CITY": "ANGUL",
     "DISTRICT": "ANGUL",
-    "STATE": "ODISHA"
+    "STATE": "ODISHA",
+    "RTGS": true
   },
   "KARB0000034": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -374,7 +380,8 @@
     "CONTACT": "8001005400",
     "CITY": "BURDWAN",
     "DISTRICT": "ASANSOL",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "KARB0000036": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -472,7 +479,8 @@
     "CONTACT": null,
     "CITY": "THANE",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000045": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -801,7 +809,8 @@
     "CONTACT": "22632715",
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000080": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -822,7 +831,8 @@
     "CONTACT": "28906696",
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000082": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -865,7 +875,8 @@
     "CONTACT": "24097928",
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000086": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -875,7 +886,8 @@
     "CONTACT": "26042400",
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000087": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -929,7 +941,8 @@
     "CONTACT": "26371819",
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000092": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -950,7 +963,8 @@
     "CONTACT": "28080950",
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000094": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -1037,7 +1051,19 @@
     "CONTACT": "22049856",
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
+  },
+  "KARB0000102": {
+    "BANK": "KARNATAKA BANK LTD.",
+    "IFSC": "KARB0000102",
+    "BRANCH": "Service Br-Mumbai",
+    "ADDRESS": "5TH FLOOR,501-4,VARDHAMAN CHAMBERS,17-G,CAWASJI PATEL STREET,FORT,MUMBAI., PIN=400001",
+    "CONTACT": "02222823032",
+    "CITY": "MUMBAI",
+    "DISTRICT": "GREATER BOMBAY",
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000104": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -1069,7 +1095,8 @@
     "CONTACT": "28160880",
     "CITY": "THANE",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000107": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -1090,7 +1117,8 @@
     "CONTACT": "2546674",
     "CITY": "BANGALORE",
     "DISTRICT": "BANGALORE",
-    "STATE": "ODISHA"
+    "STATE": "ODISHA",
+    "RTGS": true
   },
   "KARB0000109": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -1298,7 +1326,8 @@
     "CONTACT": "2576298",
     "CITY": "BANGALORE",
     "DISTRICT": "BANGALORE",
-    "STATE": "MADHYA PRADESH"
+    "STATE": "MADHYA PRADESH",
+    "RTGS": true
   },
   "KARB0000128": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -1429,7 +1458,8 @@
     "CONTACT": "2391025",
     "CITY": "COIMBATORE",
     "DISTRICT": "COIMBATORE",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000140": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -1516,7 +1546,8 @@
     "CONTACT": "22837903",
     "CITY": "KOLKOTA",
     "DISTRICT": "KOLKOTA",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "KARB0000148": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -1526,7 +1557,8 @@
     "CONTACT": "2472403",
     "CITY": "COIMBATORE",
     "DISTRICT": "COIMBATORE",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000149": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -1547,7 +1579,8 @@
     "CONTACT": "23453247",
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000151": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -1568,7 +1601,8 @@
     "CONTACT": "24827050",
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000153": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -1578,7 +1612,8 @@
     "CONTACT": "2315116",
     "CITY": "COIMBATORE",
     "DISTRICT": "COIMBATORE",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000154": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -1588,7 +1623,8 @@
     "CONTACT": "2206444",
     "CITY": "NILGIRIS",
     "DISTRICT": "COONOOR",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000155": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -1598,7 +1634,8 @@
     "CONTACT": "23453257",
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000156": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -1608,7 +1645,8 @@
     "CONTACT": "24353260",
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000157": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -1618,7 +1656,8 @@
     "CONTACT": "23453240",
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000158": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -1628,7 +1667,8 @@
     "CONTACT": "23453255",
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000159": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -1638,7 +1678,8 @@
     "CONTACT": "23453256",
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000160": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -1648,7 +1689,8 @@
     "CONTACT": "2322330",
     "CITY": "CUTTACK",
     "DISTRICT": "CUTTACK",
-    "STATE": "ODISHA"
+    "STATE": "ODISHA",
+    "RTGS": true
   },
   "KARB0000161": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -1658,7 +1700,8 @@
     "CONTACT": "23453258",
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000162": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -1668,7 +1711,8 @@
     "CONTACT": "23453262",
     "CITY": "CHENNAI",
     "DISTRICT": "ANNANAGAR",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000163": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -1678,7 +1722,8 @@
     "CONTACT": "22593600",
     "CITY": "CHENNAI",
     "DISTRICT": "VELACHERY",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000164": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -1710,7 +1755,8 @@
     "CONTACT": "24790547",
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000167": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -1742,7 +1788,8 @@
     "CONTACT": "9043699229",
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000170": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -1752,7 +1799,8 @@
     "CONTACT": "9952829942",
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000171": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -1795,7 +1843,8 @@
     "CONTACT": null,
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000175": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -1805,7 +1854,8 @@
     "CONTACT": null,
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000176": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -1848,7 +1898,8 @@
     "CONTACT": "7358790179",
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000180": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -2001,7 +2052,8 @@
     "CONTACT": "2438578",
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000194": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -2033,7 +2085,8 @@
     "CONTACT": "2741773",
     "CITY": "DEHRADUN",
     "DISTRICT": "DEHRADUN",
-    "STATE": "UTTARAKHAND"
+    "STATE": "UTTARAKHAND",
+    "RTGS": true
   },
   "KARB0000197": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -2076,7 +2129,8 @@
     "CONTACT": "22881643",
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000201": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -2097,7 +2151,8 @@
     "CONTACT": "2251747",
     "CITY": "ERODE",
     "DISTRICT": "ERODE",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000203": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -2107,7 +2162,8 @@
     "CONTACT": "2271027",
     "CITY": "ERODE",
     "DISTRICT": "ERODE",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000204": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -2183,7 +2239,8 @@
     "CONTACT": null,
     "CITY": "BURDWAN",
     "DISTRICT": "DURGAPUR",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "KARB0000212": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -2501,7 +2558,8 @@
     "CONTACT": "2605484",
     "CITY": "GHAZIABAD",
     "DISTRICT": "GHAZIABAD",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "KARB0000267": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -2511,7 +2569,8 @@
     "CONTACT": "2631860",
     "CITY": "GWALIOR",
     "DISTRICT": "GWALIOR",
-    "STATE": "MADHYA PRADESH"
+    "STATE": "MADHYA PRADESH",
+    "RTGS": true
   },
   "KARB0000268": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -2609,7 +2668,8 @@
     "CONTACT": "9962297740",
     "CITY": "KANCHEEPURAM",
     "DISTRICT": "GERUGAMBAKKAM",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000278": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -2663,7 +2723,8 @@
     "CONTACT": "8001191887",
     "CITY": "EAST SIKKIM",
     "DISTRICT": "GANGTOK",
-    "STATE": "SIKKIM"
+    "STATE": "SIKKIM",
+    "RTGS": true
   },
   "KARB0000283": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -2706,7 +2767,8 @@
     "CONTACT": null,
     "CITY": "HYDERABAD",
     "DISTRICT": "HYDERABAD",
-    "STATE": "TELANGANA"
+    "STATE": "TELANGANA",
+    "RTGS": true
   },
   "KARB0000290": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -2760,7 +2822,8 @@
     "CONTACT": "26660020",
     "CITY": "HOWRAH",
     "DISTRICT": "HOWRAH",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "KARB0000295": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -3199,7 +3262,8 @@
     "CONTACT": "251863",
     "CITY": "UTTARAKHAND",
     "DISTRICT": "HARIDWAR",
-    "STATE": "UTTARAKHAND"
+    "STATE": "UTTARAKHAND",
+    "RTGS": true
   },
   "KARB0000336": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -3341,7 +3405,8 @@
     "CONTACT": "9677888752",
     "CITY": "KRISHNAGIRI",
     "DISTRICT": "HOSUR",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000349": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -3384,7 +3449,8 @@
     "CONTACT": "2560325",
     "CITY": "INDORE",
     "DISTRICT": "INDORE",
-    "STATE": "MADHYA PRADESH"
+    "STATE": "MADHYA PRADESH",
+    "RTGS": true
   },
   "KARB0000353": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -3416,7 +3482,8 @@
     "CONTACT": null,
     "CITY": "INDORE",
     "DISTRICT": "INDORE",
-    "STATE": "MADHYA PRADESH"
+    "STATE": "MADHYA PRADESH",
+    "RTGS": true
   },
   "KARB0000356": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -3514,7 +3581,8 @@
     "CONTACT": "2378642",
     "CITY": "JAIPUR",
     "DISTRICT": "JAIPUR",
-    "STATE": "RAJASTHAN"
+    "STATE": "RAJASTHAN",
+    "RTGS": true
   },
   "KARB0000365": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -3524,7 +3592,8 @@
     "CONTACT": "2220872",
     "CITY": "JALANDHAR",
     "DISTRICT": "JALANDHAR",
-    "STATE": "PUNJAB"
+    "STATE": "PUNJAB",
+    "RTGS": true
   },
   "KARB0000366": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -3534,7 +3603,8 @@
     "CONTACT": "2628908",
     "CITY": "JODHPUR",
     "DISTRICT": "JODHPUR",
-    "STATE": "RAJASTHAN"
+    "STATE": "RAJASTHAN",
+    "RTGS": true
   },
   "KARB0000367": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -3544,7 +3614,8 @@
     "CONTACT": "224221",
     "CITY": "JAJPUR",
     "DISTRICT": "JAJPUR",
-    "STATE": "ODISHA"
+    "STATE": "ODISHA",
+    "RTGS": true
   },
   "KARB0000368": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -3565,7 +3636,8 @@
     "CONTACT": "2411444",
     "CITY": "JABALPUR",
     "DISTRICT": "JABALPUR",
-    "STATE": "MADHYA PRADESH"
+    "STATE": "MADHYA PRADESH",
+    "RTGS": true
   },
   "KARB0000370": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -3586,7 +3658,8 @@
     "CONTACT": "9982055226",
     "CITY": "JAIPUR",
     "DISTRICT": "JAIPUR",
-    "STATE": "RAJASTHAN"
+    "STATE": "RAJASTHAN",
+    "RTGS": true
   },
   "KARB0000372": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -3684,7 +3757,8 @@
     "CONTACT": "7603093889",
     "CITY": "KOLKATA",
     "DISTRICT": "KOLKATA",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "KARB0000381": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -3716,7 +3790,8 @@
     "CONTACT": "23632399",
     "CITY": "KOLKATA",
     "DISTRICT": "KOLKATA",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "KARB0000384": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -3803,7 +3878,8 @@
     "CONTACT": "2400391",
     "CITY": "THANJAVUR",
     "DISTRICT": "KUMBAKONAM",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000392": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -4154,7 +4230,8 @@
     "CONTACT": "2522017",
     "CITY": "KOLHAPUR",
     "DISTRICT": "KOLHAPUR",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000424": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -4197,7 +4274,8 @@
     "CONTACT": "2207664",
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000428": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -4229,7 +4307,8 @@
     "CONTACT": "234766",
     "CITY": "KARUR",
     "DISTRICT": "KARUR",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000431": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -4261,7 +4340,8 @@
     "CONTACT": "2522887",
     "CITY": "KOLHAPUR",
     "DISTRICT": "KOLHAPUR",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000434": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -4271,7 +4351,8 @@
     "CONTACT": "22117215",
     "CITY": "KOLKOTA",
     "DISTRICT": "KOLKOTA",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "KARB0000435": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -4281,7 +4362,8 @@
     "CONTACT": "23376956",
     "CITY": "KOLKOTA",
     "DISTRICT": "KOLKOTA",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "KARB0000436": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -4291,7 +4373,8 @@
     "CONTACT": "24657842",
     "CITY": "KOLKOTA",
     "DISTRICT": "KOLKOTA",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "KARB0000437": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -4301,7 +4384,8 @@
     "CONTACT": "2365216",
     "CITY": "KANPUR",
     "DISTRICT": "KANPUR",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "KARB0000438": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -4311,7 +4395,8 @@
     "CONTACT": "23632399",
     "CITY": "KOLKATA",
     "DISTRICT": "KOLKATA",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "KARB0000439": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -4321,7 +4406,8 @@
     "CONTACT": "24191739",
     "CITY": "KOLKATA",
     "DISTRICT": "KOLKATA",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "KARB0000440": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -4342,7 +4428,8 @@
     "CONTACT": "23453265",
     "CITY": "KANCHEEPURAM",
     "DISTRICT": "KANCHEEPURAM",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000442": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -4440,7 +4527,8 @@
     "CONTACT": "22268583",
     "CITY": "KOLKATA",
     "DISTRICT": "KOLKATA",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "KARB0000451": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -4461,7 +4549,8 @@
     "CONTACT": "2539943",
     "CITY": "LUDHIANA",
     "DISTRICT": "LUDHIANA",
-    "STATE": "PUNJAB"
+    "STATE": "PUNJAB",
+    "RTGS": true
   },
   "KARB0000453": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -4471,7 +4560,8 @@
     "CONTACT": "2201938",
     "CITY": "LUCKNOW",
     "DISTRICT": "LUCKNOW",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "KARB0000454": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -4536,7 +4626,8 @@
     "CONTACT": "9454749821",
     "CITY": "KOTA",
     "DISTRICT": "KOTA",
-    "STATE": "RAJASTHAN"
+    "STATE": "RAJASTHAN",
+    "RTGS": true
   },
   "KARB0000460": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -4546,7 +4637,8 @@
     "CONTACT": "242261",
     "CITY": "WEST MIDNAPUR",
     "DISTRICT": "KHARAGPUR",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "KARB0000461": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -4567,7 +4659,8 @@
     "CONTACT": "23453236",
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000463": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -4577,7 +4670,8 @@
     "CONTACT": "23453244",
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000464": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -4587,7 +4681,8 @@
     "CONTACT": "23453231",
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000465": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -4828,7 +4923,8 @@
     "CONTACT": "2343578",
     "CITY": "MADURAI",
     "DISTRICT": "MADURAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000487": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -4849,7 +4945,8 @@
     "CONTACT": "23453249",
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000489": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -4881,7 +4978,8 @@
     "CONTACT": "23453227",
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000492": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -4913,7 +5011,8 @@
     "CONTACT": "23453242",
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000495": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -4934,7 +5033,8 @@
     "CONTACT": "23453239",
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000497": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -4977,7 +5077,8 @@
     "CONTACT": "23453221",
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000501": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -5009,7 +5110,8 @@
     "CONTACT": "2264884",
     "CITY": "ROOPNAGAR",
     "DISTRICT": "MOHALI",
-    "STATE": "PUNJAB"
+    "STATE": "PUNJAB",
+    "RTGS": true
   },
   "KARB0000504": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -5074,7 +5176,8 @@
     "CONTACT": "28339847",
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000510": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -5084,7 +5187,8 @@
     "CONTACT": "28540969",
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000511": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -5105,7 +5209,8 @@
     "CONTACT": "25708873",
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000513": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -5126,7 +5231,8 @@
     "CONTACT": "26301935",
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000515": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -5136,7 +5242,8 @@
     "CONTACT": "27549200",
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000516": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -5146,7 +5253,8 @@
     "CONTACT": "28464597",
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000517": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -5156,7 +5264,8 @@
     "CONTACT": "27702004",
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000518": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -5166,7 +5275,8 @@
     "CONTACT": "26052226",
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000519": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -5187,7 +5297,8 @@
     "CONTACT": "25905406",
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000521": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -5208,7 +5319,8 @@
     "CONTACT": "27580888",
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000523": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -5218,7 +5330,8 @@
     "CONTACT": "28552767",
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000524": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -5228,7 +5341,8 @@
     "CONTACT": "2452019",
     "CITY": "THANE",
     "DISTRICT": "MUMBAI",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "KARB0000525": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -5238,7 +5352,8 @@
     "CONTACT": "26122767",
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000526": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -5259,7 +5374,8 @@
     "CONTACT": "24219432",
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000528": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -5291,7 +5407,8 @@
     "CONTACT": "2250554",
     "CITY": "BARDHAMAN",
     "DISTRICT": "MEMARI",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "KARB0000531": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -5411,7 +5528,8 @@
     "CONTACT": "2242003",
     "CITY": "NAGPUR",
     "DISTRICT": "NAGPUR",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000542": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -5454,7 +5572,8 @@
     "CONTACT": "6406431",
     "CITY": "GAUTAMBUDHNAGAR",
     "DISTRICT": "NOIDA",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "KARB0000546": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -5530,7 +5649,8 @@
     "CONTACT": "2572383",
     "CITY": "NASHIK",
     "DISTRICT": "NASHIK",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000553": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -5705,7 +5825,8 @@
     "CONTACT": "236553",
     "CITY": "NIZAMABAD",
     "DISTRICT": "NIZAMABAD",
-    "STATE": "ANDHRA PRADESH"
+    "STATE": "ANDHRA PRADESH",
+    "RTGS": true
   },
   "KARB0000569": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -5726,7 +5847,8 @@
     "CONTACT": "220570",
     "CITY": "NAMAKKAL",
     "DISTRICT": "NAMAKKAL",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000571": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -5824,7 +5946,8 @@
     "CONTACT": "9769914766",
     "CITY": "NANDED",
     "DISTRICT": "NANDED",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000580": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -5856,7 +5979,8 @@
     "CONTACT": "7598465294",
     "CITY": "KANYAKUMARI",
     "DISTRICT": "NAGERCOIL",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000583": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -5932,7 +6056,8 @@
     "CONTACT": null,
     "CITY": "RAIGAD",
     "DISTRICT": "KHARGHAR",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000590": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -5986,7 +6111,8 @@
     "CONTACT": "9918907638",
     "CITY": "LUCKNOW",
     "DISTRICT": "LUCKNOW",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "KARB0000595": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -5996,7 +6122,8 @@
     "CONTACT": "7680881118",
     "CITY": "MAHBUBNAGAR",
     "DISTRICT": "MAHBUBNAGAR",
-    "STATE": "TELANGANA"
+    "STATE": "TELANGANA",
+    "RTGS": true
   },
   "KARB0000596": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -6006,7 +6133,8 @@
     "CONTACT": null,
     "CITY": "RAIGAD",
     "DISTRICT": "NAVI MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000597": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -6027,7 +6155,8 @@
     "CONTACT": null,
     "CITY": "SOUTH PARAGANAS",
     "DISTRICT": "NARENDRAPUR",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "KARB0000599": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -6114,7 +6243,8 @@
     "CONTACT": "2349637",
     "CITY": "PONDICHERRY",
     "DISTRICT": "PONDICHERRY",
-    "STATE": "PUDUCHERRY"
+    "STATE": "PUDUCHERRY",
+    "RTGS": true
   },
   "KARB0000607": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -6124,7 +6254,8 @@
     "CONTACT": "24463147",
     "CITY": "PUNE",
     "DISTRICT": "PUNE",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000608": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -6145,7 +6276,8 @@
     "CONTACT": "26821790",
     "CITY": "PUNE",
     "DISTRICT": "PUNE",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000610": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -6177,7 +6309,8 @@
     "CONTACT": "24363708",
     "CITY": "PUNE",
     "DISTRICT": "PUNE",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000613": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -6198,7 +6331,8 @@
     "CONTACT": "27420244",
     "CITY": "PUNE",
     "DISTRICT": "PIMPRI-CHINCHWAD",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000615": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -6208,7 +6342,8 @@
     "CONTACT": "24762014",
     "CITY": "RAIGAD",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000616": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -6229,7 +6364,8 @@
     "CONTACT": "9464526799",
     "CITY": "PATIALA",
     "DISTRICT": "PATIALA",
-    "STATE": "PUNJAB"
+    "STATE": "PUNJAB",
+    "RTGS": true
   },
   "KARB0000618": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -6316,7 +6452,8 @@
     "CONTACT": "8903501780",
     "CITY": "KANYAKUMARI",
     "DISTRICT": "MARTHANDAM",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000626": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -6326,7 +6463,8 @@
     "CONTACT": null,
     "CITY": "GAUTHAM BUDDH NAGAR DISTRICT",
     "DISTRICT": "NOIDA",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "KARB0000627": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -6336,7 +6474,8 @@
     "CONTACT": "9920056636",
     "CITY": "PALGHAR",
     "DISTRICT": "PALGHAR",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000628": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -6346,7 +6485,8 @@
     "CONTACT": "9850069753",
     "CITY": "PUNE",
     "DISTRICT": "PUNE",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000629": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -6411,7 +6551,8 @@
     "CONTACT": "2539943",
     "CITY": "LUDHIANA",
     "DISTRICT": "LUDHIANA",
-    "STATE": "PUNJAB"
+    "STATE": "PUNJAB",
+    "RTGS": true
   },
   "KARB0000635": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -6421,7 +6562,8 @@
     "CONTACT": "8291974192",
     "CITY": "THANE",
     "DISTRICT": "NAVI MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000636": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -6442,7 +6584,8 @@
     "CONTACT": null,
     "CITY": "NAVI MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000638": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -6452,7 +6595,8 @@
     "CONTACT": null,
     "CITY": "RAIGAD",
     "DISTRICT": "NAVI MUMBAI- KARANJADE",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000639": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -6495,7 +6639,8 @@
     "CONTACT": null,
     "CITY": "PUNE",
     "DISTRICT": "LONI KALBHOR",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000643": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -6505,7 +6650,8 @@
     "CONTACT": "9168626833",
     "CITY": "NASIK",
     "DISTRICT": "NASIK",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000644": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -6537,7 +6683,8 @@
     "CONTACT": null,
     "CITY": "NAGPUR",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000647": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -6558,7 +6705,8 @@
     "CONTACT": null,
     "CITY": "JAIPUR",
     "DISTRICT": "JAIPUR",
-    "STATE": "RAJASTHAN"
+    "STATE": "RAJASTHAN",
+    "RTGS": true
   },
   "KARB0000649": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -6711,7 +6859,8 @@
     "CONTACT": "25709602",
     "CITY": "KOLKATA",
     "DISTRICT": "RAJARHAT",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "KARB0000663": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -6721,7 +6870,8 @@
     "CONTACT": "2500257",
     "CITY": "ROURKELA",
     "DISTRICT": "ROURKELA",
-    "STATE": "ODISHA"
+    "STATE": "ODISHA",
+    "RTGS": true
   },
   "KARB0000664": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -6764,7 +6914,8 @@
     "CONTACT": "275667",
     "CITY": "HARIDWAR",
     "DISTRICT": "HARIDWAR",
-    "STATE": "UTTARAKHAND"
+    "STATE": "UTTARAKHAND",
+    "RTGS": true
   },
   "KARB0000668": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -6774,7 +6925,8 @@
     "CONTACT": "7830304846",
     "CITY": "UDHAM SINGH NAGAR",
     "DISTRICT": "RUDRAPUR",
-    "STATE": "UTTARAKHAND"
+    "STATE": "UTTARAKHAND",
+    "RTGS": true
   },
   "KARB0000669": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -6795,7 +6947,8 @@
     "CONTACT": null,
     "CITY": "TIRUPUR",
     "DISTRICT": "TIRUPUR",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000671": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -6893,7 +7046,8 @@
     "CONTACT": null,
     "CITY": "RANGAREDDY",
     "DISTRICT": "HYDERABAD",
-    "STATE": "TELANGANA"
+    "STATE": "TELANGANA",
+    "RTGS": true
   },
   "KARB0000680": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -6903,7 +7057,8 @@
     "CONTACT": null,
     "CITY": "HYDERABAD",
     "DISTRICT": "HYDERABAD",
-    "STATE": "TELANGANA"
+    "STATE": "TELANGANA",
+    "RTGS": true
   },
   "KARB0000681": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -6927,6 +7082,28 @@
     "STATE": "KARNATAKA",
     "RTGS": true
   },
+  "KARB0000683": {
+    "BANK": "KARNATAKA BANK LIMITED",
+    "IFSC": "KARB0000683",
+    "BRANCH": "MYSURU-RAMANUJA ROAD",
+    "ADDRESS": "D.NO.353,353/1,GROUND FLOOR, JSS DOCTOR QUARTERS COMPLEX, RAMANUJA ROAD, MYSURU- 570004",
+    "CONTACT": null,
+    "CITY": "MYSURU",
+    "DISTRICT": "MYSURU",
+    "STATE": "KARNATAKA",
+    "RTGS": true
+  },
+  "KARB0000684": {
+    "BANK": "KARNATAKA BANK LIMITED",
+    "IFSC": "KARB0000684",
+    "BRANCH": "MORBI",
+    "ADDRESS": "SHOP NO. G-5,G-6 & G-7,PLOT NO 2, GROUND FLOOR, B WING, ISHAN CERAMIC ZONE, OPP.SHAKTHI CHAMBERS,LALPAR ROAD, MORBI-363642",
+    "CONTACT": "00",
+    "CITY": "MORBI",
+    "DISTRICT": "RAJKOT",
+    "STATE": "RAJASTHAN",
+    "RTGS": true
+  },
   "KARB0000693": {
     "BANK": "KARNATAKA BANK LIMITED",
     "IFSC": "KARB0000693",
@@ -6935,7 +7112,8 @@
     "CONTACT": null,
     "CITY": "MEDCHAL",
     "DISTRICT": "SECUNDERABAD",
-    "STATE": "TELANGANA"
+    "STATE": "TELANGANA",
+    "RTGS": true
   },
   "KARB0000694": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -6978,7 +7156,8 @@
     "CONTACT": "7699996678",
     "CITY": "DARJEELING",
     "DISTRICT": "SILIGURI",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "KARB0000698": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -7175,7 +7354,8 @@
     "CONTACT": "2322681",
     "CITY": "SOLAPUR",
     "DISTRICT": "SOLAPUR",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000716": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -7185,7 +7365,8 @@
     "CONTACT": "2211412",
     "CITY": "SALEM",
     "DISTRICT": "SALEM",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000717": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -7228,7 +7409,8 @@
     "CONTACT": "221585",
     "CITY": "SATARA",
     "DISTRICT": "SATARA",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000721": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -7315,7 +7497,8 @@
     "CONTACT": "2320546",
     "CITY": "SANGLI",
     "DISTRICT": "SANGLI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000730": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -7325,7 +7508,8 @@
     "CONTACT": "2447765",
     "CITY": "SALEM",
     "DISTRICT": "SALEM",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000731": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -7379,7 +7563,8 @@
     "CONTACT": "2544984",
     "CITY": "JALPAIGURI",
     "DISTRICT": "SILIGURI",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "KARB0000736": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -7510,7 +7695,8 @@
     "CONTACT": "9438493125",
     "CITY": "SAMBALPUR",
     "DISTRICT": "SAMBALPUR",
-    "STATE": "ODISHA"
+    "STATE": "ODISHA",
+    "RTGS": true
   },
   "KARB0000748": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -7663,7 +7849,8 @@
     "CONTACT": "2740838",
     "CITY": "TRICHY",
     "DISTRICT": "TRICHY",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000762": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -7695,7 +7882,8 @@
     "CONTACT": "2232730",
     "CITY": "COIMBATORE",
     "DISTRICT": "TIRUPUR",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000765": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -7716,7 +7904,8 @@
     "CONTACT": "2481666",
     "CITY": "COIMBATORE",
     "DISTRICT": "TIRUPUR",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000767": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -7759,7 +7948,8 @@
     "CONTACT": "25444009",
     "CITY": "THANE",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000771": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -7769,7 +7959,8 @@
     "CONTACT": "23453259",
     "CITY": "KANCHEEPURAM",
     "DISTRICT": "TAMBARAM",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000772": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -7834,7 +8025,8 @@
     "CONTACT": "7598138637",
     "CITY": "TIRUNELVELI",
     "DISTRICT": "TIRUNELVELI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000778": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -7866,7 +8058,8 @@
     "CONTACT": null,
     "CITY": "THANJAVUR",
     "DISTRICT": "THANJAVUR",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000781": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -7876,7 +8069,8 @@
     "CONTACT": null,
     "CITY": "TUTICORN",
     "DISTRICT": "TUTICORIN",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000782": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -7897,7 +8091,8 @@
     "CONTACT": null,
     "CITY": "THIRUVALLUR",
     "DISTRICT": "THIRUVALLUR",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000784": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -7918,7 +8113,8 @@
     "CONTACT": "8291860746",
     "CITY": "THANE",
     "DISTRICT": "THANE",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000786": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -7928,7 +8124,8 @@
     "CONTACT": "9487405086",
     "CITY": "TIRUPUR",
     "DISTRICT": "TIRUPUR",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000787": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -7938,7 +8135,8 @@
     "CONTACT": "2740828",
     "CITY": "TIRUCHIRAPALLI",
     "DISTRICT": "TIRUCHIRAPALLI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000788": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -8014,7 +8212,8 @@
     "CONTACT": "262689",
     "CITY": "ERODE",
     "DISTRICT": "VELLAKOVIL",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000795": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -8068,7 +8267,8 @@
     "CONTACT": "2404042",
     "CITY": "VARNASI",
     "DISTRICT": "VARNASI",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "KARB0000800": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -8078,7 +8278,8 @@
     "CONTACT": "26572746",
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000801": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -8121,7 +8322,8 @@
     "CONTACT": "2416348",
     "CITY": "UDAIPUR",
     "DISTRICT": "UDAIPUR",
-    "STATE": "RAJASTHAN"
+    "STATE": "RAJASTHAN",
+    "RTGS": true
   },
   "KARB0000805": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -8142,7 +8344,8 @@
     "CONTACT": "2255132",
     "CITY": "VELLORE",
     "DISTRICT": "VELLORE",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "KARB0000807": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -8152,7 +8355,8 @@
     "CONTACT": "2520864",
     "CITY": "UJJAIN",
     "DISTRICT": "UJJAIN",
-    "STATE": "MADHYA PRADESH"
+    "STATE": "MADHYA PRADESH",
+    "RTGS": true
   },
   "KARB0000808": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -8283,7 +8487,8 @@
     "CONTACT": null,
     "CITY": "UDAIPUR",
     "DISTRICT": "UDAIPUR",
-    "STATE": "RAJASTHAN"
+    "STATE": "RAJASTHAN",
+    "RTGS": true
   },
   "KARB0000826": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -8348,7 +8553,8 @@
     "CONTACT": null,
     "CITY": "MOHALI",
     "DISTRICT": "ZIRAKPUR",
-    "STATE": "PUNJAB"
+    "STATE": "PUNJAB",
+    "RTGS": true
   },
   "KARB0000901": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -8380,7 +8586,8 @@
     "CONTACT": "2511263",
     "CITY": "BAREILLY",
     "DISTRICT": "BAREILLY",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "KARB0000904": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -8467,7 +8674,8 @@
     "CONTACT": "2220034",
     "CITY": "GANJAM",
     "DISTRICT": "BRAHMAPUR",
-    "STATE": "ODISHA"
+    "STATE": "ODISHA",
+    "RTGS": true
   },
   "KARB0000912": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -8510,7 +8718,8 @@
     "CONTACT": "24230522",
     "CITY": "SOUTH - 24 PARAGANAS",
     "DISTRICT": "BARUIPUR",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "KARB0000916": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -8531,7 +8740,8 @@
     "CONTACT": "2360174",
     "CITY": "BHUBANESHWAR",
     "DISTRICT": "BHUBANESHWAR",
-    "STATE": "ODISHA"
+    "STATE": "ODISHA",
+    "RTGS": true
   },
   "KARB0000918": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -8695,7 +8905,8 @@
     "CONTACT": "9654995423",
     "CITY": "ALWAR",
     "DISTRICT": "ALWAR",
-    "STATE": "RAJASTHAN"
+    "STATE": "RAJASTHAN",
+    "RTGS": true
   },
   "KARB0000933": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -8705,7 +8916,8 @@
     "CONTACT": "9075001799",
     "CITY": "PUNE",
     "DISTRICT": "PUNE",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "KARB0000934": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -8858,7 +9070,8 @@
     "CONTACT": "7583890980",
     "CITY": "BHOPAL",
     "DISTRICT": "BHOPAL",
-    "STATE": "MADHYA PRADESH"
+    "STATE": "MADHYA PRADESH",
+    "RTGS": true
   },
   "KARB0000948": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -9088,7 +9301,8 @@
     "CONTACT": null,
     "CITY": "NORTH 24 PARGANAS",
     "DISTRICT": "BARASAT",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "KARB0000970": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -9164,7 +9378,8 @@
     "CONTACT": null,
     "CITY": "HYDERABAD",
     "DISTRICT": "HYDERABAD",
-    "STATE": "TELANGANA"
+    "STATE": "TELANGANA",
+    "RTGS": true
   },
   "KARB0000978": {
     "BANK": "KARNATAKA BANK LIMITED",
@@ -9174,7 +9389,8 @@
     "CONTACT": null,
     "CITY": "RANGAREDDY",
     "DISTRICT": "HYDERABAD",
-    "STATE": "TELANGANA"
+    "STATE": "TELANGANA",
+    "RTGS": true
   },
   "KARB0000979": {
     "BANK": "KARNATAKA BANK LIMITED",

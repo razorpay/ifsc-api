@@ -7,7 +7,19 @@
     "CONTACT": "33996699",
     "CITY": "Gautam Buddh Nagar",
     "DISTRICT": "NOIDA",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
+  },
+  "PYTM00000SC": {
+    "BANK": "PAYTM PAYMENTS BANK LIMITED",
+    "IFSC": "PYTM00000SC",
+    "BRANCH": "NOIDA BRANCH",
+    "ADDRESS": "B-121, SECTOR-5",
+    "CONTACT": "01133996699",
+    "CITY": "NOIDA",
+    "DISTRICT": "NOIDA",
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "PYTM0123456": {
     "BANK": "PAYTM PAYMENTS BANK LTD",
@@ -17,6 +29,7 @@
     "CONTACT": "33996699",
     "CITY": "Gautam Buddh Nagar",
     "DISTRICT": "NOIDA",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   }
 }

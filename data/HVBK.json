@@ -7,7 +7,8 @@
     "CONTACT": "33466900",
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "HVBK0000002": {
     "BANK": "WOORI BANK",
@@ -28,7 +29,8 @@
     "CONTACT": "62638100",
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "HVBK0999999": {
     "BANK": "WOORI BANK",
@@ -38,6 +40,18 @@
     "CONTACT": "62638100",
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
+  },
+  "HVBK0NEFTSC": {
+    "BANK": "WOORI BANK",
+    "IFSC": "HVBK0NEFTSC",
+    "BRANCH": "RTGS-HO",
+    "ADDRESS": "2nd Floor, Lotte India, No 4/169, Rajiv Gandhi Salai, Kandhanchavadi, Perungudi Taluk, Chennai - 600096",
+    "CONTACT": "04433466900",
+    "CITY": "CHENNAI",
+    "DISTRICT": "CHENNAI",
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   }
 }

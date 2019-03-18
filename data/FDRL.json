@@ -9,6 +9,17 @@
     "DISTRICT": "ALUVA",
     "STATE": "KERALA"
   },
+  "FDRL0000016": {
+    "BANK": "FEDERAL BANK",
+    "IFSC": "FDRL0000016",
+    "BRANCH": "TREASURY DEPT",
+    "ADDRESS": "TREASURY DEPARTMENT THE FEDERAL BANK LTD LAXMI TOWERS BKC MUMBAI",
+    "CONTACT": "0222525161",
+    "CITY": "MUMBAI",
+    "DISTRICT": "MUMBAI",
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
+  },
   "FDRL0000035": {
     "BANK": "FEDERAL BANK",
     "IFSC": "FDRL0000035",
@@ -59,7 +70,8 @@
     "CONTACT": "22830840",
     "CITY": "KOLKATA",
     "DISTRICT": "KOLKATA",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "FDRL0000141": {
     "BANK": "FEDERAL BANK",
@@ -91,7 +103,8 @@
     "CONTACT": null,
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0000181": {
     "BANK": "FEDERAL BANK",
@@ -153,7 +166,8 @@
     "CONTACT": "2657973",
     "CITY": "KOLHAPUR",
     "DISTRICT": "KOLHAPUR",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0000314": {
     "BANK": "FEDERAL BANK",
@@ -163,7 +177,8 @@
     "CONTACT": "2305988",
     "CITY": "COIMBATORE",
     "DISTRICT": "COIMBATORE",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0000315": {
     "BANK": "FEDERAL BANK",
@@ -183,7 +198,8 @@
     "CONTACT": null,
     "CITY": "PUNE",
     "DISTRICT": "PUNE",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0000319": {
     "BANK": "FEDERAL BANK",
@@ -193,7 +209,8 @@
     "CONTACT": "28351141",
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0000320": {
     "BANK": "FEDERAL BANK",
@@ -203,7 +220,8 @@
     "CONTACT": "61748727",
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0000401": {
     "BANK": "FEDERAL BANK",
@@ -234,7 +252,8 @@
     "CONTACT": null,
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0000503": {
     "BANK": "FEDERAL BANK",
@@ -255,7 +274,8 @@
     "CONTACT": null,
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0000505": {
     "BANK": "FEDERAL BANK",
@@ -265,7 +285,8 @@
     "CONTACT": "22171743",
     "CITY": "KOLKATA",
     "DISTRICT": "KOLKATA",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "FDRL0000506": {
     "BANK": "FEDERAL BANK",
@@ -396,7 +417,8 @@
     "CONTACT": "26566644",
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0000TSY": {
     "BANK": "FEDERAL BANK",
@@ -406,7 +428,8 @@
     "CONTACT": "26566632",
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001001": {
     "BANK": "FEDERAL BANK",
@@ -1417,7 +1440,8 @@
     "CONTACT": null,
     "CITY": "COIMBATORE",
     "DISTRICT": "COIMBATORE",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001093": {
     "BANK": "FEDERAL BANK",
@@ -1493,7 +1517,8 @@
     "CONTACT": "22680011",
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001100": {
     "BANK": "FEDERAL BANK",
@@ -1503,7 +1528,8 @@
     "CONTACT": "28549280",
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001101": {
     "BANK": "FEDERAL BANK",
@@ -1535,7 +1561,8 @@
     "CONTACT": "22126352",
     "CITY": "KOLKATA",
     "DISTRICT": "KOLKATA",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "FDRL0001104": {
     "BANK": "FEDERAL BANK",
@@ -1589,7 +1616,8 @@
     "CONTACT": "232760",
     "CITY": "NAGERCOIL",
     "DISTRICT": "NAGERCOIL",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001109": {
     "BANK": "FEDERAL BANK",
@@ -1929,7 +1957,8 @@
     "CONTACT": null,
     "CITY": "TIRUNELVELI",
     "DISTRICT": "TIRUNELVELI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001140": {
     "BANK": "FEDERAL BANK",
@@ -2038,7 +2067,8 @@
     "CONTACT": null,
     "CITY": "LUCKNOW",
     "DISTRICT": "LUCKNOW",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "FDRL0001150": {
     "BANK": "FEDERAL BANK",
@@ -2048,7 +2078,8 @@
     "CONTACT": null,
     "CITY": "MADURAI",
     "DISTRICT": "MADURAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001151": {
     "BANK": "FEDERAL BANK",
@@ -2058,7 +2089,8 @@
     "CONTACT": null,
     "CITY": "TIRUCHIRAPALLY",
     "DISTRICT": "TIRUCHIRAPALLY",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001152": {
     "BANK": "FEDERAL BANK",
@@ -2112,7 +2144,8 @@
     "CONTACT": "22715091",
     "CITY": "KOLKATA",
     "DISTRICT": "KOLKATA",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "FDRL0001158": {
     "BANK": "FEDERAL BANK",
@@ -2320,7 +2353,8 @@
     "CONTACT": "26288115",
     "CITY": "MUMBAI SUBURBAN",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001177": {
     "BANK": "FEDERAL BANK",
@@ -2330,7 +2364,8 @@
     "CONTACT": "2253298",
     "CITY": "ERODE",
     "DISTRICT": "ERODE",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001179": {
     "BANK": "FEDERAL BANK",
@@ -2340,7 +2375,8 @@
     "CONTACT": "221753",
     "CITY": "POLLACHI",
     "DISTRICT": "POLLACHI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001180": {
     "BANK": "FEDERAL BANK",
@@ -2361,7 +2397,8 @@
     "CONTACT": "25342327",
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001182": {
     "BANK": "FEDERAL BANK",
@@ -2437,7 +2474,8 @@
     "CONTACT": "225725",
     "CITY": "DIMAPUR",
     "DISTRICT": "DIMAPUR",
-    "STATE": "NAGALAND"
+    "STATE": "NAGALAND",
+    "RTGS": true
   },
   "FDRL0001189": {
     "BANK": "FEDERAL BANK",
@@ -2458,7 +2496,8 @@
     "CONTACT": "2225339",
     "CITY": "EAST KHASI HILLS",
     "DISTRICT": "SHILLONG",
-    "STATE": "MEGHALAYA"
+    "STATE": "MEGHALAYA",
+    "RTGS": true
   },
   "FDRL0001191": {
     "BANK": "FEDERAL BANK",
@@ -2468,7 +2507,8 @@
     "CONTACT": null,
     "CITY": "TOOTHUKUDI",
     "DISTRICT": "TUTICORIN",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001192": {
     "BANK": "FEDERAL BANK",
@@ -2478,7 +2518,8 @@
     "CONTACT": "2222963",
     "CITY": "VELLORE",
     "DISTRICT": "VELLORE",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001193": {
     "BANK": "FEDERAL BANK",
@@ -2510,7 +2551,8 @@
     "CONTACT": "231312",
     "CITY": "THANJAVUR",
     "DISTRICT": "THANJAVUR",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001196": {
     "BANK": "FEDERAL BANK",
@@ -2520,7 +2562,8 @@
     "CONTACT": null,
     "CITY": "HAORA",
     "DISTRICT": "KOLKATA",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "FDRL0001197": {
     "BANK": "FEDERAL BANK",
@@ -2552,7 +2595,8 @@
     "CONTACT": null,
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001200": {
     "BANK": "FEDERAL BANK",
@@ -2562,7 +2606,8 @@
     "CONTACT": null,
     "CITY": "KOLKATA",
     "DISTRICT": "KOLKATA",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "FDRL0001201": {
     "BANK": "FEDERAL BANK",
@@ -2693,7 +2738,8 @@
     "CONTACT": "2523303",
     "CITY": "AGRA",
     "DISTRICT": "AGRA",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "FDRL0001213": {
     "BANK": "FEDERAL BANK",
@@ -2747,7 +2793,8 @@
     "CONTACT": "2428545",
     "CITY": "KOTTAYAM",
     "DISTRICT": "PERUMATHURA",
-    "STATE": "KERALA"
+    "STATE": "KERALA",
+    "RTGS": true
   },
   "FDRL0001218": {
     "BANK": "FEDERAL BANK",
@@ -2889,7 +2936,8 @@
     "CONTACT": "2317045",
     "CITY": "KANPUR",
     "DISTRICT": "KANPUR",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "FDRL0001231": {
     "BANK": "FEDERAL BANK",
@@ -2910,7 +2958,8 @@
     "CONTACT": null,
     "CITY": "BHUBANESWAR",
     "DISTRICT": "BHUBANESWAR",
-    "STATE": "ODISHA"
+    "STATE": "ODISHA",
+    "RTGS": true
   },
   "FDRL0001233": {
     "BANK": "FEDERAL BANK",
@@ -2920,7 +2969,8 @@
     "CONTACT": null,
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001234": {
     "BANK": "FEDERAL BANK",
@@ -2930,7 +2980,8 @@
     "CONTACT": null,
     "CITY": "INDORE",
     "DISTRICT": "INDORE",
-    "STATE": "MADHYA PRADESH"
+    "STATE": "MADHYA PRADESH",
+    "RTGS": true
   },
   "FDRL0001235": {
     "BANK": "FEDERAL BANK",
@@ -2962,7 +3013,8 @@
     "CONTACT": null,
     "CITY": "KOLKATA",
     "DISTRICT": "KOLKATA",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "FDRL0001238": {
     "BANK": "FEDERAL BANK",
@@ -3346,7 +3398,8 @@
     "CONTACT": "2420169",
     "CITY": "THRISSUR",
     "DISTRICT": "THRISSUR",
-    "STATE": "KERALA"
+    "STATE": "KERALA",
+    "RTGS": true
   },
   "FDRL0001273": {
     "BANK": "FEDERAL BANK",
@@ -3455,7 +3508,8 @@
     "CONTACT": "24993441",
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001283": {
     "BANK": "FEDERAL BANK",
@@ -3476,7 +3530,8 @@
     "CONTACT": "24407978",
     "CITY": "KOLKATA",
     "DISTRICT": "KOLKATA",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "FDRL0001285": {
     "BANK": "FEDERAL BANK",
@@ -3486,7 +3541,8 @@
     "CONTACT": "23453204",
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001286": {
     "BANK": "FEDERAL BANK",
@@ -3496,7 +3552,8 @@
     "CONTACT": "2592727",
     "CITY": "NASIK",
     "DISTRICT": "NASIK",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001287": {
     "BANK": "FEDERAL BANK",
@@ -3506,7 +3563,8 @@
     "CONTACT": null,
     "CITY": "SALEM",
     "DISTRICT": "SALEM",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001288": {
     "BANK": "FEDERAL BANK",
@@ -3659,7 +3717,8 @@
     "CONTACT": "231148",
     "CITY": "NAMAKKAL",
     "DISTRICT": "ILLUPILI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001302": {
     "BANK": "FEDERAL BANK",
@@ -3691,7 +3750,8 @@
     "CONTACT": "22832452",
     "CITY": "KOLKATA",
     "DISTRICT": "KOLKATA",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "FDRL0001305": {
     "BANK": "FEDERAL BANK",
@@ -3789,7 +3849,8 @@
     "CONTACT": "3322529272",
     "CITY": "KOLKATA",
     "DISTRICT": "KOLKATA",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "FDRL0001314": {
     "BANK": "FEDERAL BANK",
@@ -3799,7 +3860,8 @@
     "CONTACT": null,
     "CITY": "KOLKATA",
     "DISTRICT": "KOLKATA",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "FDRL0001315": {
     "BANK": "FEDERAL BANK",
@@ -3908,7 +3970,8 @@
     "CONTACT": "26283610",
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001325": {
     "BANK": "FEDERAL BANK",
@@ -4050,7 +4113,8 @@
     "CONTACT": null,
     "CITY": "NAGPUR",
     "DISTRICT": "NAGPUR",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001340": {
     "BANK": "FEDERAL BANK",
@@ -4060,7 +4124,8 @@
     "CONTACT": null,
     "CITY": "GAUTAM BUDDHA NAGAR",
     "DISTRICT": "NOIDA",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "FDRL0001341": {
     "BANK": "FEDERAL BANK",
@@ -4103,7 +4168,8 @@
     "CONTACT": "2360925",
     "CITY": "JAIPUR",
     "DISTRICT": "JAIPUR",
-    "STATE": "RAJASTHAN"
+    "STATE": "RAJASTHAN",
+    "RTGS": true
   },
   "FDRL0001345": {
     "BANK": "FEDERAL BANK",
@@ -4135,7 +4201,8 @@
     "CONTACT": null,
     "CITY": "COIMBATORE",
     "DISTRICT": "COIMBATORE",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001348": {
     "BANK": "FEDERAL BANK",
@@ -4145,7 +4212,8 @@
     "CONTACT": null,
     "CITY": "PUNE",
     "DISTRICT": "PUNE",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001349": {
     "BANK": "FEDERAL BANK",
@@ -4166,7 +4234,8 @@
     "CONTACT": "2769364",
     "CITY": "BHOPAL",
     "DISTRICT": "BHOPAL",
-    "STATE": "MADHYA PRADESH"
+    "STATE": "MADHYA PRADESH",
+    "RTGS": true
   },
   "FDRL0001351": {
     "BANK": "FEDERAL BANK",
@@ -4242,7 +4311,8 @@
     "CONTACT": "2440922",
     "CITY": "COIMBATORE",
     "DISTRICT": "COIMBATORE",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001358": {
     "BANK": "FEDERAL BANK",
@@ -4252,7 +4322,8 @@
     "CONTACT": "2862177",
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001359": {
     "BANK": "FEDERAL BANK",
@@ -4262,7 +4333,8 @@
     "CONTACT": "2200563",
     "CITY": "TIRUPUR",
     "DISTRICT": "TIRUPUR",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001360": {
     "BANK": "FEDERAL BANK",
@@ -4283,7 +4355,8 @@
     "CONTACT": "246789",
     "CITY": "KRISHNAGIRI",
     "DISTRICT": "HOSUR",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001363": {
     "BANK": "FEDERAL BANK",
@@ -4326,7 +4399,8 @@
     "CONTACT": null,
     "CITY": "RATNAGIRI",
     "DISTRICT": "RATNAGIRI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001368": {
     "BANK": "FEDERAL BANK",
@@ -4347,7 +4421,8 @@
     "CONTACT": null,
     "CITY": "THANE",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001370": {
     "BANK": "FEDERAL BANK",
@@ -4379,7 +4454,8 @@
     "CONTACT": "2404249",
     "CITY": "LUDHIANA",
     "DISTRICT": "LUDHIANA",
-    "STATE": "PUNJAB"
+    "STATE": "PUNJAB",
+    "RTGS": true
   },
   "FDRL0001373": {
     "BANK": "FEDERAL BANK",
@@ -4433,7 +4509,8 @@
     "CONTACT": "2312038",
     "CITY": "CUTTACK",
     "DISTRICT": "CUTTACK",
-    "STATE": "ODISHA"
+    "STATE": "ODISHA",
+    "RTGS": true
   },
   "FDRL0001378": {
     "BANK": "FEDERAL BANK",
@@ -4443,7 +4520,8 @@
     "CONTACT": "22826674",
     "CITY": "KOLKATA",
     "DISTRICT": "KOLKATA",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "FDRL0001380": {
     "BANK": "FEDERAL BANK",
@@ -4486,7 +4564,8 @@
     "CONTACT": "25339373",
     "CITY": "THANE",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001385": {
     "BANK": "FEDERAL BANK",
@@ -4496,7 +4575,8 @@
     "CONTACT": null,
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001386": {
     "BANK": "FEDERAL BANK",
@@ -4506,7 +4586,8 @@
     "CONTACT": null,
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001387": {
     "BANK": "FEDERAL BANK",
@@ -4560,7 +4641,8 @@
     "CONTACT": null,
     "CITY": "MUMBAI SUBURBAN",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001392": {
     "BANK": "FEDERAL BANK",
@@ -4570,7 +4652,8 @@
     "CONTACT": "2560019",
     "CITY": "ALLAHABAD",
     "DISTRICT": "ALLAHABAD",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "FDRL0001393": {
     "BANK": "FEDERAL BANK",
@@ -4580,7 +4663,8 @@
     "CONTACT": "26154635",
     "CITY": "MUMBAI SUBURBAN",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001394": {
     "BANK": "FEDERAL BANK",
@@ -4590,7 +4674,8 @@
     "CONTACT": "2200235",
     "CITY": "PONDICHERRY",
     "DISTRICT": "PONDICHERRY",
-    "STATE": "PUDUCHERRY"
+    "STATE": "PUDUCHERRY",
+    "RTGS": true
   },
   "FDRL0001395": {
     "BANK": "FEDERAL BANK",
@@ -4633,7 +4718,8 @@
     "CONTACT": null,
     "CITY": "MUMBAI SUBURBAN",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001399": {
     "BANK": "FEDERAL BANK",
@@ -4643,7 +4729,8 @@
     "CONTACT": "25298105",
     "CITY": "MUMBAI SUBURBAN",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001400": {
     "BANK": "FEDERAL BANK",
@@ -4653,7 +4740,8 @@
     "CONTACT": "22828292",
     "CITY": "KOLKATA",
     "DISTRICT": "KOLKATA",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "FDRL0001401": {
     "BANK": "FEDERAL BANK",
@@ -4685,7 +4773,8 @@
     "CONTACT": "22846676",
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001407": {
     "BANK": "FEDERAL BANK",
@@ -4706,7 +4795,8 @@
     "CONTACT": "28130988",
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001409": {
     "BANK": "FEDERAL BANK",
@@ -4804,7 +4894,8 @@
     "CONTACT": "2302992",
     "CITY": "COIMBATORE",
     "DISTRICT": "COIMBATORE",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001421": {
     "BANK": "FEDERAL BANK",
@@ -4968,7 +5059,8 @@
     "CONTACT": null,
     "CITY": "DARJILING",
     "DISTRICT": "SILIGURI",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "FDRL0001439": {
     "BANK": "FEDERAL BANK",
@@ -5000,7 +5092,8 @@
     "CONTACT": "24404058",
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001442": {
     "BANK": "FEDERAL BANK",
@@ -5032,7 +5125,8 @@
     "CONTACT": null,
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001445": {
     "BANK": "FEDERAL BANK",
@@ -5086,7 +5180,8 @@
     "CONTACT": null,
     "CITY": "DEHRADUN",
     "DISTRICT": "DEHRADUN",
-    "STATE": "UTTARAKHAND"
+    "STATE": "UTTARAKHAND",
+    "RTGS": true
   },
   "FDRL0001451": {
     "BANK": "FEDERAL BANK",
@@ -5107,7 +5202,8 @@
     "CONTACT": "28510645",
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001453": {
     "BANK": "FEDERAL BANK",
@@ -5139,7 +5235,8 @@
     "CONTACT": "2642692",
     "CITY": "KOLHAPUR",
     "DISTRICT": "KOLHAPUR",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001456": {
     "BANK": "FEDERAL BANK",
@@ -5149,7 +5246,8 @@
     "CONTACT": "2356434",
     "CITY": "AURANGABAD",
     "DISTRICT": "AURANGABAD",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001457": {
     "BANK": "FEDERAL BANK",
@@ -5159,7 +5257,8 @@
     "CONTACT": "26651129",
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001458": {
     "BANK": "FEDERAL BANK",
@@ -5213,7 +5312,8 @@
     "CONTACT": "255666",
     "CITY": "THENI",
     "DISTRICT": "THENI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001463": {
     "BANK": "FEDERAL BANK",
@@ -5355,7 +5455,8 @@
     "CONTACT": "27453610",
     "CITY": "RAIGAD",
     "DISTRICT": "PANVEL",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001476": {
     "BANK": "FEDERAL BANK",
@@ -5398,7 +5499,8 @@
     "CONTACT": null,
     "CITY": "KOLHAPUR",
     "DISTRICT": "KURUNDWAD",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001480": {
     "BANK": "FEDERAL BANK",
@@ -5419,7 +5521,8 @@
     "CONTACT": null,
     "CITY": "KOLHAPUR",
     "DISTRICT": "ICHALKARANJI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001482": {
     "BANK": "FEDERAL BANK",
@@ -5429,7 +5532,8 @@
     "CONTACT": null,
     "CITY": "KOLHAPUR",
     "DISTRICT": "NARSOBAWADI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001483": {
     "BANK": "FEDERAL BANK",
@@ -5439,7 +5543,8 @@
     "CONTACT": null,
     "CITY": "KOLHAPUR",
     "DISTRICT": "GANESHWADI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001484": {
     "BANK": "FEDERAL BANK",
@@ -5449,7 +5554,8 @@
     "CONTACT": null,
     "CITY": "KOLHAPUR",
     "DISTRICT": "KOTHALI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001485": {
     "BANK": "FEDERAL BANK",
@@ -5459,7 +5565,8 @@
     "CONTACT": null,
     "CITY": "KOLHAPUR",
     "DISTRICT": "SHIROL",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001490": {
     "BANK": "FEDERAL BANK",
@@ -5469,7 +5576,8 @@
     "CONTACT": null,
     "CITY": "KOLHAPUR",
     "DISTRICT": "TOAP",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001491": {
     "BANK": "FEDERAL BANK",
@@ -5479,7 +5587,8 @@
     "CONTACT": null,
     "CITY": "KOLHAPUR",
     "DISTRICT": "JAYASINGPUR",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001492": {
     "BANK": "FEDERAL BANK",
@@ -5489,7 +5598,8 @@
     "CONTACT": null,
     "CITY": "KOLHAPUR",
     "DISTRICT": "KOLHAPUR",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001493": {
     "BANK": "FEDERAL BANK",
@@ -5499,7 +5609,8 @@
     "CONTACT": null,
     "CITY": "SANGLI",
     "DISTRICT": "MIRAJ",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001494": {
     "BANK": "FEDERAL BANK",
@@ -5509,7 +5620,8 @@
     "CONTACT": null,
     "CITY": "SANGLI",
     "DISTRICT": "SANGLI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001495": {
     "BANK": "FEDERAL BANK",
@@ -5530,7 +5642,8 @@
     "CONTACT": null,
     "CITY": "KOLHAPUR",
     "DISTRICT": "KOLHAPUR",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001497": {
     "BANK": "FEDERAL BANK",
@@ -5551,7 +5664,8 @@
     "CONTACT": null,
     "CITY": "SATARA",
     "DISTRICT": "KARAD",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001499": {
     "BANK": "FEDERAL BANK",
@@ -5572,7 +5686,8 @@
     "CONTACT": null,
     "CITY": "PUNE",
     "DISTRICT": "PUNE",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001501": {
     "BANK": "FEDERAL BANK",
@@ -5582,7 +5697,8 @@
     "CONTACT": null,
     "CITY": "SANGLI",
     "DISTRICT": "PUNE",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001502": {
     "BANK": "FEDERAL BANK",
@@ -5592,7 +5708,8 @@
     "CONTACT": null,
     "CITY": "PUNE",
     "DISTRICT": "PUNE",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001503": {
     "BANK": "FEDERAL BANK",
@@ -5602,7 +5719,8 @@
     "CONTACT": null,
     "CITY": "SANGLI",
     "DISTRICT": "SANGLI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001505": {
     "BANK": "FEDERAL BANK",
@@ -5612,7 +5730,8 @@
     "CONTACT": null,
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001506": {
     "BANK": "FEDERAL BANK",
@@ -5622,7 +5741,8 @@
     "CONTACT": null,
     "CITY": "PUNE",
     "DISTRICT": "PUNE",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001507": {
     "BANK": "FEDERAL BANK",
@@ -5665,7 +5785,8 @@
     "CONTACT": null,
     "CITY": "PUNE",
     "DISTRICT": "PUNE",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001511": {
     "BANK": "FEDERAL BANK",
@@ -5697,7 +5818,8 @@
     "CONTACT": null,
     "CITY": "BHUBANESWAR",
     "DISTRICT": "BHUBANESWAR",
-    "STATE": "ODISHA"
+    "STATE": "ODISHA",
+    "RTGS": true
   },
   "FDRL0001514": {
     "BANK": "FEDERAL BANK",
@@ -5707,7 +5829,8 @@
     "CONTACT": null,
     "CITY": "KOLKATA",
     "DISTRICT": "KOLKATA",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "FDRL0001515": {
     "BANK": "FEDERAL BANK",
@@ -5772,7 +5895,8 @@
     "CONTACT": null,
     "CITY": "LUDHIANA",
     "DISTRICT": "LUDHIANA",
-    "STATE": "PUNJAB"
+    "STATE": "PUNJAB",
+    "RTGS": true
   },
   "FDRL0001521": {
     "BANK": "FEDERAL BANK",
@@ -5782,7 +5906,8 @@
     "CONTACT": null,
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001522": {
     "BANK": "FEDERAL BANK",
@@ -5836,7 +5961,8 @@
     "CONTACT": null,
     "CITY": "SALEM",
     "DISTRICT": "SALEM",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001528": {
     "BANK": "FEDERAL BANK",
@@ -5901,7 +6027,8 @@
     "CONTACT": null,
     "CITY": "AMRITSAR",
     "DISTRICT": "AMRITSAR",
-    "STATE": "PUNJAB"
+    "STATE": "PUNJAB",
+    "RTGS": true
   },
   "FDRL0001534": {
     "BANK": "FEDERAL BANK",
@@ -5933,7 +6060,8 @@
     "CONTACT": null,
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001537": {
     "BANK": "FEDERAL BANK",
@@ -5954,7 +6082,8 @@
     "CONTACT": null,
     "CITY": "MUMBAI SUBURBAN",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001539": {
     "BANK": "FEDERAL BANK",
@@ -5964,7 +6093,8 @@
     "CONTACT": null,
     "CITY": "MUMBAI SUBURBAN",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001540": {
     "BANK": "FEDERAL BANK",
@@ -5974,7 +6104,8 @@
     "CONTACT": null,
     "CITY": "JALGAON",
     "DISTRICT": "JALGAON",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001541": {
     "BANK": "FEDERAL BANK",
@@ -5995,7 +6126,8 @@
     "CONTACT": null,
     "CITY": "THANE",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001543": {
     "BANK": "FEDERAL BANK",
@@ -6016,7 +6148,8 @@
     "CONTACT": null,
     "CITY": "THANE",
     "DISTRICT": "VASAI ROAD",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001545": {
     "BANK": "FEDERAL BANK",
@@ -6081,7 +6214,8 @@
     "CONTACT": null,
     "CITY": "KARUR",
     "DISTRICT": "KARUR",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001551": {
     "BANK": "FEDERAL BANK",
@@ -6091,7 +6225,8 @@
     "CONTACT": null,
     "CITY": "THANE",
     "DISTRICT": "VIRAR",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001552": {
     "BANK": "FEDERAL BANK",
@@ -6101,7 +6236,8 @@
     "CONTACT": null,
     "CITY": "UDAIPUR",
     "DISTRICT": "UDAIPUR",
-    "STATE": "RAJASTHAN"
+    "STATE": "RAJASTHAN",
+    "RTGS": true
   },
   "FDRL0001553": {
     "BANK": "FEDERAL BANK",
@@ -6122,7 +6258,8 @@
     "CONTACT": null,
     "CITY": "JODHPUR",
     "DISTRICT": "JODHPUR",
-    "STATE": "RAJASTHAN"
+    "STATE": "RAJASTHAN",
+    "RTGS": true
   },
   "FDRL0001555": {
     "BANK": "FEDERAL BANK",
@@ -6209,7 +6346,8 @@
     "CONTACT": null,
     "CITY": "THIRUVALLUR",
     "DISTRICT": "AVADI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001563": {
     "BANK": "FEDERAL BANK",
@@ -6219,7 +6357,8 @@
     "CONTACT": null,
     "CITY": "THIRUVALLUR",
     "DISTRICT": "POONAMALLEE",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001564": {
     "BANK": "FEDERAL BANK",
@@ -6229,7 +6368,8 @@
     "CONTACT": null,
     "CITY": "THIRUVALLUR",
     "DISTRICT": "PORUR",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001565": {
     "BANK": "FEDERAL BANK",
@@ -6250,7 +6390,8 @@
     "CONTACT": null,
     "CITY": "THIRUVALLUR",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001567": {
     "BANK": "FEDERAL BANK",
@@ -6348,7 +6489,8 @@
     "CONTACT": null,
     "CITY": "THANE",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001576": {
     "BANK": "FEDERAL BANK",
@@ -6413,7 +6555,8 @@
     "CONTACT": null,
     "CITY": "PUNE",
     "DISTRICT": "PIMPRI-CHINCHWAD",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001582": {
     "BANK": "FEDERAL BANK",
@@ -6445,7 +6588,8 @@
     "CONTACT": null,
     "CITY": "SATARA",
     "DISTRICT": "SATARA",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001585": {
     "BANK": "FEDERAL BANK",
@@ -6488,7 +6632,8 @@
     "CONTACT": null,
     "CITY": "AHMEDNAGAR",
     "DISTRICT": "AHMEDNAGAR",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001589": {
     "BANK": "FEDERAL BANK",
@@ -6520,7 +6665,8 @@
     "CONTACT": null,
     "CITY": "MEERUT",
     "DISTRICT": "MEERUT",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "FDRL0001592": {
     "BANK": "FEDERAL BANK",
@@ -6541,7 +6687,8 @@
     "CONTACT": null,
     "CITY": "SOLAPUR",
     "DISTRICT": "SOLAPUR",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001594": {
     "BANK": "FEDERAL BANK",
@@ -6562,7 +6709,8 @@
     "CONTACT": null,
     "CITY": "VARANASI",
     "DISTRICT": "VARANASI",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "FDRL0001596": {
     "BANK": "FEDERAL BANK",
@@ -6682,7 +6830,8 @@
     "CONTACT": null,
     "CITY": "BARDDHAMAN",
     "DISTRICT": "ASANSOL",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "FDRL0001607": {
     "BANK": "FEDERAL BANK",
@@ -6692,7 +6841,8 @@
     "CONTACT": null,
     "CITY": "SOUTH 24 PARGANAS",
     "DISTRICT": "GARIA",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "FDRL0001608": {
     "BANK": "FEDERAL BANK",
@@ -6713,7 +6863,8 @@
     "CONTACT": null,
     "CITY": "VIRUDHUNAGAR",
     "DISTRICT": "RAJAPALAYAM",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001610": {
     "BANK": "FEDERAL BANK",
@@ -6723,7 +6874,8 @@
     "CONTACT": null,
     "CITY": "KANCHEEPURAM",
     "DISTRICT": "SRIPERUMBUDUR",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001611": {
     "BANK": "FEDERAL BANK",
@@ -6733,7 +6885,8 @@
     "CONTACT": null,
     "CITY": "KANCHEEPURAM",
     "DISTRICT": "THIRUPORUR",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001612": {
     "BANK": "FEDERAL BANK",
@@ -6743,7 +6896,8 @@
     "CONTACT": null,
     "CITY": "KANCHEEPURAM",
     "DISTRICT": "PERUNGUDI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001613": {
     "BANK": "FEDERAL BANK",
@@ -6753,7 +6907,8 @@
     "CONTACT": null,
     "CITY": "DEWAS",
     "DISTRICT": "DEWAS",
-    "STATE": "MADHYA PRADESH"
+    "STATE": "MADHYA PRADESH",
+    "RTGS": true
   },
   "FDRL0001614": {
     "BANK": "FEDERAL BANK",
@@ -6763,7 +6918,8 @@
     "CONTACT": null,
     "CITY": "GHAZIABAD",
     "DISTRICT": "GHAZIABAD",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "FDRL0001615": {
     "BANK": "FEDERAL BANK",
@@ -6773,7 +6929,8 @@
     "CONTACT": null,
     "CITY": "JALANDHAR",
     "DISTRICT": "JALANDHAR",
-    "STATE": "PUNJAB"
+    "STATE": "PUNJAB",
+    "RTGS": true
   },
   "FDRL0001616": {
     "BANK": "FEDERAL BANK",
@@ -6783,7 +6940,8 @@
     "CONTACT": null,
     "CITY": "THANE",
     "DISTRICT": "ULHASNAGAR",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001617": {
     "BANK": "FEDERAL BANK",
@@ -6815,7 +6973,8 @@
     "CONTACT": null,
     "CITY": "MUMBAI SUBURBAN",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001620": {
     "BANK": "FEDERAL BANK",
@@ -6825,7 +6984,8 @@
     "CONTACT": null,
     "CITY": "SINDHUDURG",
     "DISTRICT": "KANKAVLI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001621": {
     "BANK": "FEDERAL BANK",
@@ -6835,7 +6995,8 @@
     "CONTACT": null,
     "CITY": "KANCHEEPURAM",
     "DISTRICT": "SHOLINGANALLUR",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001622": {
     "BANK": "FEDERAL BANK",
@@ -6845,7 +7006,8 @@
     "CONTACT": null,
     "CITY": "MUMBAI SUBURBAN",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001623": {
     "BANK": "FEDERAL BANK",
@@ -6855,7 +7017,8 @@
     "CONTACT": null,
     "CITY": "KOLKATA",
     "DISTRICT": "KOLKATA",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "FDRL0001624": {
     "BANK": "FEDERAL BANK",
@@ -6876,7 +7039,8 @@
     "CONTACT": null,
     "CITY": "MORADABAD",
     "DISTRICT": "MORADABAD",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "FDRL0001626": {
     "BANK": "FEDERAL BANK",
@@ -6996,7 +7160,8 @@
     "CONTACT": null,
     "CITY": "SOLAPUR",
     "DISTRICT": "BARSHI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001637": {
     "BANK": "FEDERAL BANK",
@@ -7039,7 +7204,8 @@
     "CONTACT": null,
     "CITY": "KANYAKUMARI",
     "DISTRICT": "ERANIEL",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001641": {
     "BANK": "FEDERAL BANK",
@@ -7049,7 +7215,8 @@
     "CONTACT": null,
     "CITY": "KANYAKUMARI",
     "DISTRICT": "KULASEKHARAM",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001642": {
     "BANK": "FEDERAL BANK",
@@ -7059,7 +7226,8 @@
     "CONTACT": null,
     "CITY": "KANCHEEPURAM",
     "DISTRICT": "KANCHEEPURAM",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001643": {
     "BANK": "FEDERAL BANK",
@@ -7157,7 +7325,8 @@
     "CONTACT": null,
     "CITY": "KOLHAPUR",
     "DISTRICT": "GANDHINAGAR(KOLHAPUR)",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001652": {
     "BANK": "FEDERAL BANK",
@@ -7167,7 +7336,8 @@
     "CONTACT": null,
     "CITY": "MAHE",
     "DISTRICT": "MAHE",
-    "STATE": "PUDUCHERRY"
+    "STATE": "PUDUCHERRY",
+    "RTGS": true
   },
   "FDRL0001653": {
     "BANK": "FEDERAL BANK",
@@ -7199,7 +7369,8 @@
     "CONTACT": null,
     "CITY": "SINDHUDURG",
     "DISTRICT": "SAWANTWADI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001656": {
     "BANK": "FEDERAL BANK",
@@ -7209,7 +7380,8 @@
     "CONTACT": null,
     "CITY": "KOLHAPUR",
     "DISTRICT": "GADHINGLAJ",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001657": {
     "BANK": "FEDERAL BANK",
@@ -7219,7 +7391,8 @@
     "CONTACT": null,
     "CITY": "KANCHEEPURAM",
     "DISTRICT": "CHENGALPATTU",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001658": {
     "BANK": "FEDERAL BANK",
@@ -7262,7 +7435,8 @@
     "CONTACT": null,
     "CITY": "PATIALA",
     "DISTRICT": "PATIALA",
-    "STATE": "PUNJAB"
+    "STATE": "PUNJAB",
+    "RTGS": true
   },
   "FDRL0001662": {
     "BANK": "FEDERAL BANK",
@@ -7283,7 +7457,8 @@
     "CONTACT": null,
     "CITY": "PUNE",
     "DISTRICT": "PUNE",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001664": {
     "BANK": "FEDERAL BANK",
@@ -7414,7 +7589,8 @@
     "CONTACT": null,
     "CITY": "MANSA",
     "DISTRICT": "MANSA",
-    "STATE": "PUNJAB"
+    "STATE": "PUNJAB",
+    "RTGS": true
   },
   "FDRL0001676": {
     "BANK": "FEDERAL BANK",
@@ -7424,7 +7600,8 @@
     "CONTACT": null,
     "CITY": "RUPNAGAR",
     "DISTRICT": "MOHALI",
-    "STATE": "PUNJAB"
+    "STATE": "PUNJAB",
+    "RTGS": true
   },
   "FDRL0001677": {
     "BANK": "FEDERAL BANK",
@@ -7456,7 +7633,8 @@
     "CONTACT": null,
     "CITY": "LUCKNOW",
     "DISTRICT": "LUCKNOW",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "FDRL0001680": {
     "BANK": "FEDERAL BANK",
@@ -7477,7 +7655,8 @@
     "CONTACT": null,
     "CITY": "THANE",
     "DISTRICT": "MANPADA",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001682": {
     "BANK": "FEDERAL BANK",
@@ -7487,7 +7666,8 @@
     "CONTACT": null,
     "CITY": "MUMBAI SUBURBAN",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001683": {
     "BANK": "FEDERAL BANK",
@@ -7508,7 +7688,8 @@
     "CONTACT": null,
     "CITY": "KANYAKUMARI",
     "DISTRICT": "MARTHANDAM",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001685": {
     "BANK": "FEDERAL BANK",
@@ -8134,7 +8315,8 @@
     "CONTACT": null,
     "CITY": "VIRUDHUNAGAR",
     "DISTRICT": "SATTUR",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001742": {
     "BANK": "FEDERAL BANK",
@@ -8144,7 +8326,8 @@
     "CONTACT": null,
     "CITY": "THENI",
     "DISTRICT": "PERIAKULAM",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001743": {
     "BANK": "FEDERAL BANK",
@@ -8198,7 +8381,8 @@
     "CONTACT": null,
     "CITY": "TIRUNELVELI",
     "DISTRICT": "SENGOTTAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001748": {
     "BANK": "FEDERAL BANK",
@@ -8208,7 +8392,8 @@
     "CONTACT": null,
     "CITY": "TIRUNELVALI",
     "DISTRICT": "SURANDAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001749": {
     "BANK": "FEDERAL BANK",
@@ -8229,7 +8414,8 @@
     "CONTACT": null,
     "CITY": "RAIGAD",
     "DISTRICT": "KHARGHAR",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001751": {
     "BANK": "FEDERAL BANK",
@@ -8283,7 +8469,8 @@
     "CONTACT": null,
     "CITY": "THANE",
     "DISTRICT": "BADLAPUR",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001756": {
     "BANK": "FEDERAL BANK",
@@ -8304,7 +8491,8 @@
     "CONTACT": null,
     "CITY": "THANE",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001758": {
     "BANK": "FEDERAL BANK",
@@ -8314,7 +8502,8 @@
     "CONTACT": null,
     "CITY": "THANE",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001759": {
     "BANK": "FEDERAL BANK",
@@ -8324,7 +8513,8 @@
     "CONTACT": null,
     "CITY": "UDAIPUR",
     "DISTRICT": "UDAIPUR",
-    "STATE": "RAJASTHAN"
+    "STATE": "RAJASTHAN",
+    "RTGS": true
   },
   "FDRL0001760": {
     "BANK": "FEDERAL BANK",
@@ -8411,7 +8601,8 @@
     "CONTACT": null,
     "CITY": "PUNE",
     "DISTRICT": "PUNE",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001768": {
     "BANK": "FEDERAL BANK",
@@ -8487,7 +8678,8 @@
     "CONTACT": null,
     "CITY": "AIZAWL",
     "DISTRICT": "AIZAWL",
-    "STATE": "MIZORAM"
+    "STATE": "MIZORAM",
+    "RTGS": true
   },
   "FDRL0001775": {
     "BANK": "FEDERAL BANK",
@@ -8497,7 +8689,8 @@
     "CONTACT": null,
     "CITY": "THANE",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001776": {
     "BANK": "FEDERAL BANK",
@@ -8540,7 +8733,8 @@
     "CONTACT": null,
     "CITY": "EAST KHASI HILLS",
     "DISTRICT": "SHILLONG",
-    "STATE": "MEGHALAYA"
+    "STATE": "MEGHALAYA",
+    "RTGS": true
   },
   "FDRL0001780": {
     "BANK": "FEDERAL BANK",
@@ -8605,7 +8799,8 @@
     "CONTACT": null,
     "CITY": "PUNE",
     "DISTRICT": "PUNE",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001786": {
     "BANK": "FEDERAL BANK",
@@ -8615,7 +8810,8 @@
     "CONTACT": null,
     "CITY": "PUNE",
     "DISTRICT": "PUNE",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001787": {
     "BANK": "FEDERAL BANK",
@@ -8625,7 +8821,8 @@
     "CONTACT": null,
     "CITY": "ERODE",
     "DISTRICT": "ERODE",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001788": {
     "BANK": "FEDERAL BANK",
@@ -8635,7 +8832,8 @@
     "CONTACT": null,
     "CITY": "TIRUNELVELI",
     "DISTRICT": "THISAYANVILAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001789": {
     "BANK": "FEDERAL BANK",
@@ -8645,7 +8843,8 @@
     "CONTACT": null,
     "CITY": "TIRUPUR",
     "DISTRICT": "PALLADAM",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001790": {
     "BANK": "FEDERAL BANK",
@@ -8655,7 +8854,8 @@
     "CONTACT": null,
     "CITY": "COIMBATORE",
     "DISTRICT": "SARAVANAMPATTI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001791": {
     "BANK": "FEDERAL BANK",
@@ -8665,7 +8865,8 @@
     "CONTACT": null,
     "CITY": "COIMBATORE",
     "DISTRICT": "VADAVALLI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001792": {
     "BANK": "FEDERAL BANK",
@@ -8675,7 +8876,8 @@
     "CONTACT": null,
     "CITY": "TIRUPUR",
     "DISTRICT": "KANGEYAM",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001793": {
     "BANK": "FEDERAL BANK",
@@ -8685,7 +8887,8 @@
     "CONTACT": null,
     "CITY": "NAMAKKAL",
     "DISTRICT": "KARUVEPPAMPATTI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001794": {
     "BANK": "FEDERAL BANK",
@@ -8695,7 +8898,8 @@
     "CONTACT": null,
     "CITY": "SALEM",
     "DISTRICT": "ATTIYAM PATTI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001795": {
     "BANK": "FEDERAL BANK",
@@ -8727,7 +8931,8 @@
     "CONTACT": null,
     "CITY": "NAMAKKAL",
     "DISTRICT": "NAMAKKAL",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001798": {
     "BANK": "FEDERAL BANK",
@@ -8781,7 +8986,8 @@
     "CONTACT": null,
     "CITY": "COIMBATORE",
     "DISTRICT": "COIMBATORE",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001803": {
     "BANK": "FEDERAL BANK",
@@ -8791,7 +8997,8 @@
     "CONTACT": null,
     "CITY": "ERODE",
     "DISTRICT": "PERUNDURAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001804": {
     "BANK": "FEDERAL BANK",
@@ -8801,7 +9008,8 @@
     "CONTACT": null,
     "CITY": "ERODE",
     "DISTRICT": "VELLAKOVIL",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001805": {
     "BANK": "FEDERAL BANK",
@@ -8811,7 +9019,8 @@
     "CONTACT": null,
     "CITY": "MUMBAI SUBURBAN",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001806": {
     "BANK": "FEDERAL BANK",
@@ -8876,7 +9085,8 @@
     "CONTACT": null,
     "CITY": "ERODE",
     "DISTRICT": "SATHYAMANGALAM",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001812": {
     "BANK": "FEDERAL BANK",
@@ -8897,7 +9107,8 @@
     "CONTACT": null,
     "CITY": "SALEM",
     "DISTRICT": "SALEM",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001814": {
     "BANK": "FEDERAL BANK",
@@ -8907,7 +9118,8 @@
     "CONTACT": null,
     "CITY": "TIRUPUR",
     "DISTRICT": "TIRUPUR",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001815": {
     "BANK": "FEDERAL BANK",
@@ -8917,7 +9129,8 @@
     "CONTACT": null,
     "CITY": "COIMBATORE",
     "DISTRICT": "COIMBATORE",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001816": {
     "BANK": "FEDERAL BANK",
@@ -8927,7 +9140,8 @@
     "CONTACT": null,
     "CITY": "SALEM",
     "DISTRICT": "SALEM",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001817": {
     "BANK": "FEDERAL BANK",
@@ -8937,7 +9151,8 @@
     "CONTACT": null,
     "CITY": "KANCHEEPURAM",
     "DISTRICT": "ORAGADAM",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001818": {
     "BANK": "FEDERAL BANK",
@@ -8947,7 +9162,8 @@
     "CONTACT": null,
     "CITY": "PUNE",
     "DISTRICT": "PUNE",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001819": {
     "BANK": "FEDERAL BANK",
@@ -8957,7 +9173,8 @@
     "CONTACT": null,
     "CITY": "PUNE",
     "DISTRICT": "PUNE",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001820": {
     "BANK": "FEDERAL BANK",
@@ -9066,7 +9283,8 @@
     "CONTACT": null,
     "CITY": "MUMBAI SUBURBAN",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001830": {
     "BANK": "FEDERAL BANK",
@@ -9087,7 +9305,8 @@
     "CONTACT": null,
     "CITY": "JAIPUR",
     "DISTRICT": "JAIPUR",
-    "STATE": "RAJASTHAN"
+    "STATE": "RAJASTHAN",
+    "RTGS": true
   },
   "FDRL0001832": {
     "BANK": "FEDERAL BANK",
@@ -9097,7 +9316,8 @@
     "CONTACT": null,
     "CITY": "JAIPUR",
     "DISTRICT": "JAIPUR",
-    "STATE": "RAJASTHAN"
+    "STATE": "RAJASTHAN",
+    "RTGS": true
   },
   "FDRL0001833": {
     "BANK": "FEDERAL BANK",
@@ -9107,7 +9327,8 @@
     "CONTACT": null,
     "CITY": "VELLORE",
     "DISTRICT": "RANIPET",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001834": {
     "BANK": "FEDERAL BANK",
@@ -9117,7 +9338,8 @@
     "CONTACT": null,
     "CITY": "TIRUCHIRAPALLY",
     "DISTRICT": "TIRUCHIRAPALLY",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001835": {
     "BANK": "FEDERAL BANK",
@@ -9138,7 +9360,8 @@
     "CONTACT": null,
     "CITY": "MUMBAI SUBURBAN",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001837": {
     "BANK": "FEDERAL BANK",
@@ -9159,7 +9382,8 @@
     "CONTACT": null,
     "CITY": "THIRUVALLUR",
     "DISTRICT": "THIRUVALLUR",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001839": {
     "BANK": "FEDERAL BANK",
@@ -9268,7 +9492,8 @@
     "CONTACT": null,
     "CITY": "NAGPUR",
     "DISTRICT": "NAGPUR",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001849": {
     "BANK": "FEDERAL BANK",
@@ -9311,7 +9536,8 @@
     "CONTACT": null,
     "CITY": "BALESHWAR",
     "DISTRICT": "SORO",
-    "STATE": "ODISHA"
+    "STATE": "ODISHA",
+    "RTGS": true
   },
   "FDRL0001853": {
     "BANK": "FEDERAL BANK",
@@ -9321,7 +9547,8 @@
     "CONTACT": null,
     "CITY": "BALESHWAR",
     "DISTRICT": "REMUNA",
-    "STATE": "ODISHA"
+    "STATE": "ODISHA",
+    "RTGS": true
   },
   "FDRL0001854": {
     "BANK": "FEDERAL BANK",
@@ -9331,7 +9558,8 @@
     "CONTACT": null,
     "CITY": "CHANDIGARH",
     "DISTRICT": "MOHALI",
-    "STATE": "PUNJAB"
+    "STATE": "PUNJAB",
+    "RTGS": true
   },
   "FDRL0001855": {
     "BANK": "FEDERAL BANK",
@@ -9341,7 +9569,8 @@
     "CONTACT": null,
     "CITY": "RUPNAGAR",
     "DISTRICT": "ROOPNAGAR",
-    "STATE": "PUNJAB"
+    "STATE": "PUNJAB",
+    "RTGS": true
   },
   "FDRL0001856": {
     "BANK": "FEDERAL BANK",
@@ -9373,7 +9602,8 @@
     "CONTACT": null,
     "CITY": "LUDHIANA",
     "DISTRICT": "LUDHIANA",
-    "STATE": "PUNJAB"
+    "STATE": "PUNJAB",
+    "RTGS": true
   },
   "FDRL0001859": {
     "BANK": "FEDERAL BANK",
@@ -9383,7 +9613,8 @@
     "CONTACT": null,
     "CITY": "MOGA",
     "DISTRICT": "MOHALI",
-    "STATE": "PUNJAB"
+    "STATE": "PUNJAB",
+    "RTGS": true
   },
   "FDRL0001860": {
     "BANK": "FEDERAL BANK",
@@ -9536,7 +9767,8 @@
     "CONTACT": null,
     "CITY": "KRISHNAGIRI",
     "DISTRICT": "KRISHNAGIRI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001874": {
     "BANK": "FEDERAL BANK",
@@ -9546,7 +9778,8 @@
     "CONTACT": null,
     "CITY": "ERODE",
     "DISTRICT": "NAMBIYUR",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001875": {
     "BANK": "FEDERAL BANK",
@@ -9556,7 +9789,8 @@
     "CONTACT": null,
     "CITY": "ERODE",
     "DISTRICT": "ERODE",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001876": {
     "BANK": "FEDERAL BANK",
@@ -9566,7 +9800,8 @@
     "CONTACT": null,
     "CITY": "NILGRIS",
     "DISTRICT": "KOTAGIRI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001877": {
     "BANK": "FEDERAL BANK",
@@ -9587,7 +9822,8 @@
     "CONTACT": null,
     "CITY": "THANE",
     "DISTRICT": "SHAHAPUR",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001879": {
     "BANK": "FEDERAL BANK",
@@ -9806,7 +10042,8 @@
     "CONTACT": null,
     "CITY": "NAGPUR",
     "DISTRICT": "NAGPUR",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001899": {
     "BANK": "FEDERAL BANK",
@@ -9860,7 +10097,8 @@
     "CONTACT": null,
     "CITY": "CHENNAI",
     "DISTRICT": "ANAKAPUTHUR",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001904": {
     "BANK": "FEDERAL BANK",
@@ -9870,7 +10108,8 @@
     "CONTACT": null,
     "CITY": "DHARMAPURI",
     "DISTRICT": "HARUR",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001905": {
     "BANK": "FEDERAL BANK",
@@ -9880,7 +10119,8 @@
     "CONTACT": null,
     "CITY": "VILLUPURAM",
     "DISTRICT": "KALLAKURICHI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001906": {
     "BANK": "FEDERAL BANK",
@@ -9890,7 +10130,8 @@
     "CONTACT": null,
     "CITY": "KANYAKUMARI",
     "DISTRICT": "KOLLENCODE",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001907": {
     "BANK": "FEDERAL BANK",
@@ -9900,7 +10141,8 @@
     "CONTACT": null,
     "CITY": "MADURAI",
     "DISTRICT": "MADURAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001908": {
     "BANK": "FEDERAL BANK",
@@ -9921,7 +10163,8 @@
     "CONTACT": null,
     "CITY": "COIMBATORE",
     "DISTRICT": "ANNUR",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001910": {
     "BANK": "FEDERAL BANK",
@@ -9986,7 +10229,8 @@
     "CONTACT": null,
     "CITY": "ROOPNAGAR",
     "DISTRICT": "ROOPNAGAR",
-    "STATE": "PUNJAB"
+    "STATE": "PUNJAB",
+    "RTGS": true
   },
   "FDRL0001916": {
     "BANK": "FEDERAL BANK",
@@ -9996,7 +10240,8 @@
     "CONTACT": null,
     "CITY": "LUDHIANA",
     "DISTRICT": "LUDHIANA",
-    "STATE": "PUNJAB"
+    "STATE": "PUNJAB",
+    "RTGS": true
   },
   "FDRL0001917": {
     "BANK": "FEDERAL BANK",
@@ -10006,7 +10251,8 @@
     "CONTACT": null,
     "CITY": "GAUTAM BUDDHA NAGAR",
     "DISTRICT": "NOIDA",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "FDRL0001918": {
     "BANK": "FEDERAL BANK",
@@ -10016,7 +10262,8 @@
     "CONTACT": null,
     "CITY": "MOHALI",
     "DISTRICT": "MOHALI",
-    "STATE": "PUNJAB"
+    "STATE": "PUNJAB",
+    "RTGS": true
   },
   "FDRL0001919": {
     "BANK": "FEDERAL BANK",
@@ -10026,7 +10273,8 @@
     "CONTACT": null,
     "CITY": "LUDHIANA",
     "DISTRICT": "LUDHIANA",
-    "STATE": "PUNJAB"
+    "STATE": "PUNJAB",
+    "RTGS": true
   },
   "FDRL0001920": {
     "BANK": "FEDERAL BANK",
@@ -10036,7 +10284,8 @@
     "CONTACT": null,
     "CITY": "NAMAKKAL",
     "DISTRICT": "RASIPURAM",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001921": {
     "BANK": "FEDERAL BANK",
@@ -10046,7 +10295,8 @@
     "CONTACT": null,
     "CITY": "THENI",
     "DISTRICT": "CHINNAMANNUR",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001922": {
     "BANK": "FEDERAL BANK",
@@ -10133,7 +10383,8 @@
     "CONTACT": null,
     "CITY": "JAIPUR",
     "DISTRICT": "JAJPUR ROAD",
-    "STATE": "ODISHA"
+    "STATE": "ODISHA",
+    "RTGS": true
   },
   "FDRL0001930": {
     "BANK": "FEDERAL BANK",
@@ -10143,7 +10394,8 @@
     "CONTACT": null,
     "CITY": "ANGUL",
     "DISTRICT": "TALCHER",
-    "STATE": "ODISHA"
+    "STATE": "ODISHA",
+    "RTGS": true
   },
   "FDRL0001931": {
     "BANK": "FEDERAL BANK",
@@ -10175,7 +10427,8 @@
     "CONTACT": null,
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001934": {
     "BANK": "FEDERAL BANK",
@@ -10229,7 +10482,8 @@
     "CONTACT": null,
     "CITY": "KOLKATA",
     "DISTRICT": "KOLKATA",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "FDRL0001939": {
     "BANK": "FEDERAL BANK",
@@ -10316,7 +10570,8 @@
     "CONTACT": null,
     "CITY": "PUNE",
     "DISTRICT": "PUNE",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001947": {
     "BANK": "FEDERAL BANK",
@@ -10425,7 +10680,8 @@
     "CONTACT": null,
     "CITY": "VILLUPURAM",
     "DISTRICT": "VILLUPURAM",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001957": {
     "BANK": "FEDERAL BANK",
@@ -10435,7 +10691,8 @@
     "CONTACT": null,
     "CITY": "COIMBATORE",
     "DISTRICT": "KINATHUKADAVU",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001958": {
     "BANK": "FEDERAL BANK",
@@ -10445,7 +10702,8 @@
     "CONTACT": null,
     "CITY": "ALWAR",
     "DISTRICT": "BHIWADI",
-    "STATE": "RAJASTHAN"
+    "STATE": "RAJASTHAN",
+    "RTGS": true
   },
   "FDRL0001959": {
     "BANK": "FEDERAL BANK",
@@ -10455,7 +10713,8 @@
     "CONTACT": null,
     "CITY": "RATNAGIRI",
     "DISTRICT": "CHIPLUN",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001960": {
     "BANK": "FEDERAL BANK",
@@ -10520,7 +10779,8 @@
     "CONTACT": null,
     "CITY": "WEST TRIPURA",
     "DISTRICT": "AGARTALA",
-    "STATE": "TRIPURA"
+    "STATE": "TRIPURA",
+    "RTGS": true
   },
   "FDRL0001966": {
     "BANK": "FEDERAL BANK",
@@ -10541,7 +10801,8 @@
     "CONTACT": null,
     "CITY": "ADILABAD",
     "DISTRICT": "KOHIMA",
-    "STATE": "NAGALAND"
+    "STATE": "NAGALAND",
+    "RTGS": true
   },
   "FDRL0001968": {
     "BANK": "FEDERAL BANK",
@@ -10551,7 +10812,8 @@
     "CONTACT": null,
     "CITY": "CUDDALORE",
     "DISTRICT": "PANRUTI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001969": {
     "BANK": "FEDERAL BANK",
@@ -10561,7 +10823,8 @@
     "CONTACT": null,
     "CITY": "VIRUDHUNAGAR",
     "DISTRICT": "ARUPPUKOTTAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001970": {
     "BANK": "FEDERAL BANK",
@@ -10615,7 +10878,8 @@
     "CONTACT": "230307",
     "CITY": "KAPURTHALA",
     "DISTRICT": "KAPURTHALA",
-    "STATE": "PUNJAB"
+    "STATE": "PUNJAB",
+    "RTGS": true
   },
   "FDRL0001975": {
     "BANK": "FEDERAL BANK",
@@ -10625,7 +10889,8 @@
     "CONTACT": null,
     "CITY": "SANGRUR",
     "DISTRICT": "SUNAM",
-    "STATE": "PUNJAB"
+    "STATE": "PUNJAB",
+    "RTGS": true
   },
   "FDRL0001976": {
     "BANK": "FEDERAL BANK",
@@ -10635,7 +10900,8 @@
     "CONTACT": null,
     "CITY": "SANGRUR",
     "DISTRICT": "SANGRUR",
-    "STATE": "PUNJAB"
+    "STATE": "PUNJAB",
+    "RTGS": true
   },
   "FDRL0001977": {
     "BANK": "FEDERAL BANK",
@@ -10645,7 +10911,8 @@
     "CONTACT": null,
     "CITY": "BARABANKI",
     "DISTRICT": "BARABANKI",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "FDRL0001978": {
     "BANK": "FEDERAL BANK",
@@ -10655,7 +10922,8 @@
     "CONTACT": null,
     "CITY": "GHAZIABAD",
     "DISTRICT": "MURADNAGAR",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "FDRL0001979": {
     "BANK": "FEDERAL BANK",
@@ -10665,7 +10933,8 @@
     "CONTACT": null,
     "CITY": "MUMBAI SUBURBAN",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0001980": {
     "BANK": "FEDERAL BANK",
@@ -10686,7 +10955,8 @@
     "CONTACT": null,
     "CITY": "LUCKNOW",
     "DISTRICT": "LUCKNOW",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "FDRL0001982": {
     "BANK": "FEDERAL BANK",
@@ -10696,7 +10966,8 @@
     "CONTACT": null,
     "CITY": "COIMBATORE",
     "DISTRICT": "COIMBATORE",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001983": {
     "BANK": "FEDERAL BANK",
@@ -10706,7 +10977,8 @@
     "CONTACT": null,
     "CITY": "MANDI",
     "DISTRICT": "MANDI GOBIND GARH",
-    "STATE": "PUNJAB"
+    "STATE": "PUNJAB",
+    "RTGS": true
   },
   "FDRL0001984": {
     "BANK": "FEDERAL BANK",
@@ -10727,7 +10999,8 @@
     "CONTACT": null,
     "CITY": "KOLKATA",
     "DISTRICT": "KOLKATA",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "FDRL0001986": {
     "BANK": "FEDERAL BANK",
@@ -10792,7 +11065,8 @@
     "CONTACT": null,
     "CITY": "TIRUPUR",
     "DISTRICT": "DHARAPURAM",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001992": {
     "BANK": "FEDERAL BANK",
@@ -10813,7 +11087,8 @@
     "CONTACT": null,
     "CITY": "KRISHNAGIRI",
     "DISTRICT": "KRISHNAGIRI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0001994": {
     "BANK": "FEDERAL BANK",
@@ -10823,7 +11098,8 @@
     "CONTACT": null,
     "CITY": "NAWANSHAHR",
     "DISTRICT": "NAWANSHAHR",
-    "STATE": "PUNJAB"
+    "STATE": "PUNJAB",
+    "RTGS": true
   },
   "FDRL0001995": {
     "BANK": "FEDERAL BANK",
@@ -10888,7 +11164,8 @@
     "CONTACT": null,
     "CITY": "ADILABAD",
     "DISTRICT": "PARADIP",
-    "STATE": "ODISHA"
+    "STATE": "ODISHA",
+    "RTGS": true
   },
   "FDRL0002001": {
     "BANK": "FEDERAL BANK",
@@ -10898,7 +11175,8 @@
     "CONTACT": null,
     "CITY": "KHURDA",
     "DISTRICT": "JATANI",
-    "STATE": "ODISHA"
+    "STATE": "ODISHA",
+    "RTGS": true
   },
   "FDRL0002002": {
     "BANK": "FEDERAL BANK",
@@ -10974,7 +11252,8 @@
     "CONTACT": null,
     "CITY": "VELLORE",
     "DISTRICT": "GUDIYATHAM",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002009": {
     "BANK": "FEDERAL BANK",
@@ -10984,7 +11263,8 @@
     "CONTACT": null,
     "CITY": "VELLORE",
     "DISTRICT": "AMBUR",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002010": {
     "BANK": "FEDERAL BANK",
@@ -10994,7 +11274,8 @@
     "CONTACT": null,
     "CITY": "VIRUDHUNAGAR",
     "DISTRICT": "VIRUDHUNAGAR",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002011": {
     "BANK": "FEDERAL BANK",
@@ -11004,7 +11285,8 @@
     "CONTACT": null,
     "CITY": "TOOTHUKUDI",
     "DISTRICT": "TUTICORIN",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002012": {
     "BANK": "FEDERAL BANK",
@@ -11047,7 +11329,8 @@
     "CONTACT": null,
     "CITY": "BARDDHAMAN",
     "DISTRICT": "MEMARI",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "FDRL0002016": {
     "BANK": "FEDERAL BANK",
@@ -11057,7 +11340,8 @@
     "CONTACT": null,
     "CITY": "DHARMAPURI",
     "DISTRICT": "DHARMAPURI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002017": {
     "BANK": "FEDERAL BANK",
@@ -11089,7 +11373,8 @@
     "CONTACT": "221111",
     "CITY": "ARIYALUR",
     "DISTRICT": "ARIYALUR",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002020": {
     "BANK": "FEDERAL BANK",
@@ -11099,7 +11384,8 @@
     "CONTACT": null,
     "CITY": "VILLUPURAM",
     "DISTRICT": "VILLUPURAM",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002021": {
     "BANK": "FEDERAL BANK",
@@ -11120,7 +11406,8 @@
     "CONTACT": null,
     "CITY": "ANGUL",
     "DISTRICT": "ANGUL",
-    "STATE": "ODISHA"
+    "STATE": "ODISHA",
+    "RTGS": true
   },
   "FDRL0002023": {
     "BANK": "FEDERAL BANK",
@@ -11130,7 +11417,8 @@
     "CONTACT": null,
     "CITY": "BHADRAKH",
     "DISTRICT": "BHADRAKH",
-    "STATE": "ODISHA"
+    "STATE": "ODISHA",
+    "RTGS": true
   },
   "FDRL0002024": {
     "BANK": "FEDERAL BANK",
@@ -11140,7 +11428,8 @@
     "CONTACT": null,
     "CITY": "BARDDHAMAN",
     "DISTRICT": "GHOR DOUR CHATI",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "FDRL0002025": {
     "BANK": "FEDERAL BANK",
@@ -11326,7 +11615,8 @@
     "CONTACT": "2527388",
     "CITY": "NAGPUR",
     "DISTRICT": "NAGPUR",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0002042": {
     "BANK": "FEDERAL BANK",
@@ -11358,7 +11648,8 @@
     "CONTACT": null,
     "CITY": "MOGA",
     "DISTRICT": "KURALI",
-    "STATE": "PUNJAB"
+    "STATE": "PUNJAB",
+    "RTGS": true
   },
   "FDRL0002045": {
     "BANK": "FEDERAL BANK",
@@ -11422,7 +11713,8 @@
     "CONTACT": null,
     "CITY": "BARNALA",
     "DISTRICT": "BARNALA",
-    "STATE": "PUNJAB"
+    "STATE": "PUNJAB",
+    "RTGS": true
   },
   "FDRL0002052": {
     "BANK": "FEDERAL BANK",
@@ -11454,7 +11746,8 @@
     "CONTACT": null,
     "CITY": "KOLHAPUR",
     "DISTRICT": "NANDANI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0002055": {
     "BANK": "FEDERAL BANK",
@@ -11497,7 +11790,8 @@
     "CONTACT": null,
     "CITY": "LUDHIANA",
     "DISTRICT": "LUDHIANA",
-    "STATE": "PUNJAB"
+    "STATE": "PUNJAB",
+    "RTGS": true
   },
   "FDRL0002059": {
     "BANK": "FEDERAL BANK",
@@ -11507,7 +11801,8 @@
     "CONTACT": null,
     "CITY": "JALANDHAR",
     "DISTRICT": "NAKODAR",
-    "STATE": "PUNJAB"
+    "STATE": "PUNJAB",
+    "RTGS": true
   },
   "FDRL0002060": {
     "BANK": "FEDERAL BANK",
@@ -11517,7 +11812,8 @@
     "CONTACT": null,
     "CITY": "FATEHGARH SAHIB",
     "DISTRICT": "SIRHIND",
-    "STATE": "PUNJAB"
+    "STATE": "PUNJAB",
+    "RTGS": true
   },
   "FDRL0002061": {
     "BANK": "FEDERAL BANK",
@@ -11527,7 +11823,8 @@
     "CONTACT": null,
     "CITY": "FEROZPUR",
     "DISTRICT": "FEROZPUR",
-    "STATE": "PUNJAB"
+    "STATE": "PUNJAB",
+    "RTGS": true
   },
   "FDRL0002062": {
     "BANK": "FEDERAL BANK",
@@ -11559,7 +11856,8 @@
     "CONTACT": null,
     "CITY": "KOLHAPUR",
     "DISTRICT": "KOLHAPUR",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0002065": {
     "BANK": "FEDERAL BANK",
@@ -11569,7 +11867,8 @@
     "CONTACT": null,
     "CITY": "RATNAGIRI",
     "DISTRICT": "KHED",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0002066": {
     "BANK": "FEDERAL BANK",
@@ -11612,7 +11911,8 @@
     "CONTACT": null,
     "CITY": "VELLORE",
     "DISTRICT": "TIRUPATTUR",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002070": {
     "BANK": "FEDERAL BANK",
@@ -11820,7 +12120,8 @@
     "CONTACT": "2270375",
     "CITY": "COIMBATORE",
     "DISTRICT": "PATTANAM",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002090": {
     "BANK": "FEDERAL BANK",
@@ -11830,7 +12131,8 @@
     "CONTACT": null,
     "CITY": "THENI",
     "DISTRICT": "PULI KUTHI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002091": {
     "BANK": "FEDERAL BANK",
@@ -11840,7 +12142,8 @@
     "CONTACT": null,
     "CITY": "THENI",
     "DISTRICT": "CHINNAOVULAPURAM",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002092": {
     "BANK": "FEDERAL BANK",
@@ -11850,7 +12153,8 @@
     "CONTACT": null,
     "CITY": "THENI",
     "DISTRICT": "ALAGAPURI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002093": {
     "BANK": "FEDERAL BANK",
@@ -11860,7 +12164,8 @@
     "CONTACT": null,
     "CITY": "THENI",
     "DISTRICT": "GOKILAPURAM",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002094": {
     "BANK": "FEDERAL BANK",
@@ -11870,7 +12175,8 @@
     "CONTACT": null,
     "CITY": "MADURAI",
     "DISTRICT": "MADURAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002095": {
     "BANK": "FEDERAL BANK",
@@ -11880,7 +12186,8 @@
     "CONTACT": null,
     "CITY": "SALEM",
     "DISTRICT": "SALEM",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002096": {
     "BANK": "FEDERAL BANK",
@@ -11890,7 +12197,8 @@
     "CONTACT": null,
     "CITY": "SALEM",
     "DISTRICT": "NILAVARAPATTI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002097": {
     "BANK": "FEDERAL BANK",
@@ -11900,7 +12208,8 @@
     "CONTACT": null,
     "CITY": "COIMBATORE",
     "DISTRICT": "SOLAPALAYAM",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002098": {
     "BANK": "FEDERAL BANK",
@@ -11910,7 +12219,8 @@
     "CONTACT": null,
     "CITY": "COIMBATORE",
     "DISTRICT": "COIMBATORE",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002099": {
     "BANK": "FEDERAL BANK",
@@ -11920,7 +12230,8 @@
     "CONTACT": null,
     "CITY": "MADURAI",
     "DISTRICT": "KIDARIPATTI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002100": {
     "BANK": "FEDERAL BANK",
@@ -11930,7 +12241,8 @@
     "CONTACT": null,
     "CITY": "MADURAI",
     "DISTRICT": "MELAKKAL",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002101": {
     "BANK": "FEDERAL BANK",
@@ -11940,7 +12252,8 @@
     "CONTACT": "2622303",
     "CITY": "COIMBATORE",
     "DISTRICT": "PALATHURAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002102": {
     "BANK": "FEDERAL BANK",
@@ -11950,7 +12263,8 @@
     "CONTACT": null,
     "CITY": "COIMBATORE",
     "DISTRICT": "ACHIPATTI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002103": {
     "BANK": "FEDERAL BANK",
@@ -11960,7 +12274,8 @@
     "CONTACT": null,
     "CITY": "KANYAKUMARI",
     "DISTRICT": "ESANTHIMANGALAM",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002104": {
     "BANK": "FEDERAL BANK",
@@ -11970,7 +12285,8 @@
     "CONTACT": null,
     "CITY": "KANYAKUMARI",
     "DISTRICT": "SWAMITHOPE",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002105": {
     "BANK": "FEDERAL BANK",
@@ -11980,7 +12296,8 @@
     "CONTACT": null,
     "CITY": "KANYAKUMARI",
     "DISTRICT": "THIRUPATHISARAM",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002106": {
     "BANK": "FEDERAL BANK",
@@ -11990,7 +12307,8 @@
     "CONTACT": null,
     "CITY": "COIMBATORE",
     "DISTRICT": "DEVANAMPALAYAM",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002107": {
     "BANK": "FEDERAL BANK",
@@ -12000,7 +12318,8 @@
     "CONTACT": null,
     "CITY": "COIMBATORE",
     "DISTRICT": "KANNARPALAYAM",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002108": {
     "BANK": "FEDERAL BANK",
@@ -12010,7 +12329,8 @@
     "CONTACT": null,
     "CITY": "COIMBATORE",
     "DISTRICT": "COIMBATORE",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002109": {
     "BANK": "FEDERAL BANK",
@@ -12020,7 +12340,8 @@
     "CONTACT": null,
     "CITY": "KANYAKUMARI",
     "DISTRICT": "RAMAPURAM",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002110": {
     "BANK": "FEDERAL BANK",
@@ -12030,7 +12351,8 @@
     "CONTACT": "241020",
     "CITY": "MADURAI",
     "DISTRICT": "MADURAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002111": {
     "BANK": "FEDERAL BANK",
@@ -12062,7 +12384,8 @@
     "CONTACT": null,
     "CITY": "KANYAKUMARI",
     "DISTRICT": "PALOOR",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002114": {
     "BANK": "FEDERAL BANK",
@@ -12160,7 +12483,8 @@
     "CONTACT": "2360279",
     "CITY": "JAIPUR",
     "DISTRICT": "JAIPUR",
-    "STATE": "RAJASTHAN"
+    "STATE": "RAJASTHAN",
+    "RTGS": true
   },
   "FDRL0002123": {
     "BANK": "FEDERAL BANK",
@@ -12170,7 +12494,8 @@
     "CONTACT": null,
     "CITY": "THANA",
     "DISTRICT": "THANA",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0002124": {
     "BANK": "FEDERAL BANK",
@@ -12180,7 +12505,8 @@
     "CONTACT": null,
     "CITY": "THANE",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0002125": {
     "BANK": "FEDERAL BANK",
@@ -12190,7 +12516,8 @@
     "CONTACT": null,
     "CITY": "KANYAKUMARI",
     "DISTRICT": "YETTACODE",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002126": {
     "BANK": "FEDERAL BANK",
@@ -12233,7 +12560,8 @@
     "CONTACT": null,
     "CITY": "RAIGAD",
     "DISTRICT": "KAMOTHE",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0002130": {
     "BANK": "FEDERAL BANK",
@@ -12243,7 +12571,8 @@
     "CONTACT": null,
     "CITY": "PUNE",
     "DISTRICT": "PUNE",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0002131": {
     "BANK": "FEDERAL BANK",
@@ -12253,7 +12582,8 @@
     "CONTACT": null,
     "CITY": "COIMBATORE",
     "DISTRICT": "ERIPATTI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002132": {
     "BANK": "FEDERAL BANK",
@@ -12263,7 +12593,8 @@
     "CONTACT": "4963835",
     "CITY": "VELLORE",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002133": {
     "BANK": "FEDERAL BANK",
@@ -12273,7 +12604,8 @@
     "CONTACT": null,
     "CITY": "BHATHINDA",
     "DISTRICT": "BHATHINDA",
-    "STATE": "PUNJAB"
+    "STATE": "PUNJAB",
+    "RTGS": true
   },
   "FDRL0002134": {
     "BANK": "FEDERAL BANK",
@@ -12283,7 +12615,8 @@
     "CONTACT": null,
     "CITY": "LUDHIANA",
     "DISTRICT": "KHANNA",
-    "STATE": "PUNJAB"
+    "STATE": "PUNJAB",
+    "RTGS": true
   },
   "FDRL0002135": {
     "BANK": "FEDERAL BANK",
@@ -12293,7 +12626,8 @@
     "CONTACT": null,
     "CITY": "MUKTSAR",
     "DISTRICT": "MUKTSAR",
-    "STATE": "PUNJAB"
+    "STATE": "PUNJAB",
+    "RTGS": true
   },
   "FDRL0002136": {
     "BANK": "FEDERAL BANK",
@@ -12347,7 +12681,8 @@
     "CONTACT": null,
     "CITY": "INDORE",
     "DISTRICT": "INDORE",
-    "STATE": "MADHYA PRADESH"
+    "STATE": "MADHYA PRADESH",
+    "RTGS": true
   },
   "FDRL0002141": {
     "BANK": "FEDERAL BANK",
@@ -12368,7 +12703,8 @@
     "CONTACT": null,
     "CITY": "INDORE",
     "DISTRICT": "INDORE",
-    "STATE": "MADHYA PRADESH"
+    "STATE": "MADHYA PRADESH",
+    "RTGS": true
   },
   "FDRL0002143": {
     "BANK": "FEDERAL BANK",
@@ -12378,7 +12714,8 @@
     "CONTACT": null,
     "CITY": "UJJAIN",
     "DISTRICT": "UJJAIN",
-    "STATE": "MADHYA PRADESH"
+    "STATE": "MADHYA PRADESH",
+    "RTGS": true
   },
   "FDRL0002144": {
     "BANK": "FEDERAL BANK",
@@ -12432,7 +12769,8 @@
     "CONTACT": null,
     "CITY": "KOLKATA",
     "DISTRICT": "KOLKATA",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "FDRL0002149": {
     "BANK": "FEDERAL BANK",
@@ -12442,7 +12780,8 @@
     "CONTACT": null,
     "CITY": "DURGAPUR",
     "DISTRICT": "KOLKATA",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "FDRL0002150": {
     "BANK": "FEDERAL BANK",
@@ -12452,7 +12791,8 @@
     "CONTACT": null,
     "CITY": "GHAZIABAD",
     "DISTRICT": "GHAZIABAD",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "FDRL0002151": {
     "BANK": "FEDERAL BANK",
@@ -12462,7 +12802,8 @@
     "CONTACT": "5885486",
     "CITY": "GHAZIABAD",
     "DISTRICT": "SAHIBABAD",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "FDRL0002152": {
     "BANK": "FEDERAL BANK",
@@ -12483,7 +12824,8 @@
     "CONTACT": "2223076",
     "CITY": "KOLKATA",
     "DISTRICT": "KOLKATA",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "FDRL0002154": {
     "BANK": "FEDERAL BANK",
@@ -12493,7 +12835,8 @@
     "CONTACT": "2522955",
     "CITY": "AGRA",
     "DISTRICT": "DAYAL BAGH",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "FDRL0002155": {
     "BANK": "FEDERAL BANK",
@@ -12503,7 +12846,8 @@
     "CONTACT": null,
     "CITY": "BALASORE",
     "DISTRICT": "BALASORE",
-    "STATE": "ODISHA"
+    "STATE": "ODISHA",
+    "RTGS": true
   },
   "FDRL0002156": {
     "BANK": "FEDERAL BANK",
@@ -12546,7 +12890,8 @@
     "CONTACT": null,
     "CITY": "KENDRAPARA",
     "DISTRICT": "PATTAMUNDAI",
-    "STATE": "ODISHA"
+    "STATE": "ODISHA",
+    "RTGS": true
   },
   "FDRL0002160": {
     "BANK": "FEDERAL BANK",
@@ -12556,7 +12901,8 @@
     "CONTACT": null,
     "CITY": "DHENKANAL",
     "DISTRICT": "DHENKANAL",
-    "STATE": "ODISHA"
+    "STATE": "ODISHA",
+    "RTGS": true
   },
   "FDRL0002161": {
     "BANK": "FEDERAL BANK",
@@ -12577,7 +12923,8 @@
     "CONTACT": "23990235",
     "CITY": "KOLKATA",
     "DISTRICT": "KOLKATA",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "FDRL0002163": {
     "BANK": "FEDERAL BANK",
@@ -12697,7 +13044,8 @@
     "CONTACT": null,
     "CITY": "LUCKNOW",
     "DISTRICT": "LUCKNOW",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "FDRL0002174": {
     "BANK": "FEDERAL BANK",
@@ -12718,7 +13066,8 @@
     "CONTACT": "2300972",
     "CITY": "PATIALA",
     "DISTRICT": "NABHA",
-    "STATE": "PUNJAB"
+    "STATE": "PUNJAB",
+    "RTGS": true
   },
   "FDRL0002176": {
     "BANK": "FEDERAL BANK",
@@ -12728,7 +13077,8 @@
     "CONTACT": null,
     "CITY": "KOLHAPUR",
     "DISTRICT": "KOLHAPUR",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0002177": {
     "BANK": "FEDERAL BANK",
@@ -12738,7 +13088,8 @@
     "CONTACT": null,
     "CITY": "SUNDARGARH",
     "DISTRICT": "PANPOSH",
-    "STATE": "ODISHA"
+    "STATE": "ODISHA",
+    "RTGS": true
   },
   "FDRL0002178": {
     "BANK": "FEDERAL BANK",
@@ -12814,7 +13165,8 @@
     "CONTACT": null,
     "CITY": "BHOPAL",
     "DISTRICT": "BHOPAL",
-    "STATE": "MADHYA PRADESH"
+    "STATE": "MADHYA PRADESH",
+    "RTGS": true
   },
   "FDRL0002185": {
     "BANK": "FEDERAL BANK",
@@ -12824,7 +13176,8 @@
     "CONTACT": null,
     "CITY": "NADIA",
     "DISTRICT": "KALYANI",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "FDRL0002186": {
     "BANK": "FEDERAL BANK",
@@ -12834,7 +13187,8 @@
     "CONTACT": "422140",
     "CITY": "BARDHAMAN",
     "DISTRICT": "BARDHAMAN",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "FDRL0002187": {
     "BANK": "FEDERAL BANK",
@@ -12844,7 +13198,8 @@
     "CONTACT": null,
     "CITY": "BALESHWAR",
     "DISTRICT": "JALESWAR",
-    "STATE": "ODISHA"
+    "STATE": "ODISHA",
+    "RTGS": true
   },
   "FDRL0002188": {
     "BANK": "FEDERAL BANK",
@@ -12854,7 +13209,8 @@
     "CONTACT": "2525161",
     "CITY": "MADURAI",
     "DISTRICT": "MADURAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002189": {
     "BANK": "FEDERAL BANK",
@@ -12864,7 +13220,8 @@
     "CONTACT": "22384800",
     "CITY": "PA",
     "DISTRICT": "PATNA",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "FDRL0002190": {
     "BANK": "FEDERAL BANK",
@@ -12874,7 +13231,8 @@
     "CONTACT": "222853",
     "CITY": "HOSHIARPUR",
     "DISTRICT": "HOSHIARPUR",
-    "STATE": "PUNJAB"
+    "STATE": "PUNJAB",
+    "RTGS": true
   },
   "FDRL0002191": {
     "BANK": "FEDERAL BANK",
@@ -12884,7 +13242,8 @@
     "CONTACT": "2314445",
     "CITY": "BALANGIR",
     "DISTRICT": "KANTABANJI",
-    "STATE": "ODISHA"
+    "STATE": "ODISHA",
+    "RTGS": true
   },
   "FDRL0002192": {
     "BANK": "FEDERAL BANK",
@@ -12894,7 +13253,8 @@
     "CONTACT": "242111",
     "CITY": "KALAHANDI",
     "DISTRICT": "BHAWANIPATNA",
-    "STATE": "ODISHA"
+    "STATE": "ODISHA",
+    "RTGS": true
   },
   "FDRL0002193": {
     "BANK": "FEDERAL BANK",
@@ -12904,7 +13264,8 @@
     "CONTACT": null,
     "CITY": "KOLHAPUR",
     "DISTRICT": "KOLHAPUR",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0002194": {
     "BANK": "FEDERAL BANK",
@@ -12946,7 +13307,8 @@
     "CONTACT": "2391868",
     "CITY": "MAHOBA",
     "DISTRICT": "BHARWARA",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "FDRL0002198": {
     "BANK": "FEDERAL BANK",
@@ -12978,7 +13340,8 @@
     "CONTACT": "2588170",
     "CITY": "BARGARH",
     "DISTRICT": "BARGARH",
-    "STATE": "ODISHA"
+    "STATE": "ODISHA",
+    "RTGS": true
   },
   "FDRL0002201": {
     "BANK": "FEDERAL BANK",
@@ -13032,7 +13395,8 @@
     "CONTACT": "3260222",
     "CITY": "TIRUNELVALI",
     "DISTRICT": "KADAYANALLUR",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002208": {
     "BANK": "FEDERAL BANK",
@@ -13042,7 +13406,8 @@
     "CONTACT": "227407",
     "CITY": "KOLHAPUR",
     "DISTRICT": "GANDHINAGAR",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0002209": {
     "BANK": "FEDERAL BANK",
@@ -13052,7 +13417,8 @@
     "CONTACT": "1222076",
     "CITY": "VILLUPURAM",
     "DISTRICT": "THIYAGADURGAM",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002210": {
     "BANK": "FEDERAL BANK",
@@ -13062,7 +13428,8 @@
     "CONTACT": "2704217",
     "CITY": "SEHORE",
     "DISTRICT": "SEHORE",
-    "STATE": "MADHYA PRADESH"
+    "STATE": "MADHYA PRADESH",
+    "RTGS": true
   },
   "FDRL0002211": {
     "BANK": "FEDERAL BANK",
@@ -13082,7 +13449,8 @@
     "CONTACT": "22830842",
     "CITY": "HUGLI",
     "DISTRICT": "ARAMBAGH",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "FDRL0002213": {
     "BANK": "FEDERAL BANK",
@@ -13092,7 +13460,8 @@
     "CONTACT": "22830842",
     "CITY": "HUGLI",
     "DISTRICT": "ARAMBAGH",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "FDRL0002214": {
     "BANK": "FEDERAL BANK",
@@ -13102,7 +13471,8 @@
     "CONTACT": "226336",
     "CITY": "SALEM",
     "DISTRICT": "SANKARI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002215": {
     "BANK": "FEDERAL BANK",
@@ -13112,7 +13482,8 @@
     "CONTACT": "25512194",
     "CITY": "PUNE",
     "DISTRICT": "WARJE",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0002216": {
     "BANK": "FEDERAL BANK",
@@ -13122,7 +13493,8 @@
     "CONTACT": "25512194",
     "CITY": "PUNE",
     "DISTRICT": "WARJE",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0002217": {
     "BANK": "FEDERAL BANK",
@@ -13132,7 +13504,8 @@
     "CONTACT": "28587516",
     "CITY": "COIMBATORE",
     "DISTRICT": "POLLACHI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002218": {
     "BANK": "FEDERAL BANK",
@@ -13153,7 +13526,8 @@
     "CONTACT": "28587516",
     "CITY": "SALEM",
     "DISTRICT": "METTUR",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002220": {
     "BANK": "FEDERAL BANK",
@@ -13163,7 +13537,8 @@
     "CONTACT": "2532057",
     "CITY": "MAYURBHANJ",
     "DISTRICT": "BARIPADA",
-    "STATE": "ODISHA"
+    "STATE": "ODISHA",
+    "RTGS": true
   },
   "FDRL0002221": {
     "BANK": "FEDERAL BANK",
@@ -13173,7 +13548,8 @@
     "CONTACT": "2704217",
     "CITY": "HOSHANGABAD",
     "DISTRICT": "HOSHANGABAD",
-    "STATE": "MADHYA PRADESH"
+    "STATE": "MADHYA PRADESH",
+    "RTGS": true
   },
   "FDRL0002222": {
     "BANK": "FEDERAL BANK",
@@ -13183,7 +13559,8 @@
     "CONTACT": "25885485",
     "CITY": "HOSHANGABAD",
     "DISTRICT": "ITARSI",
-    "STATE": "MADHYA PRADESH"
+    "STATE": "MADHYA PRADESH",
+    "RTGS": true
   },
   "FDRL0002223": {
     "BANK": "FEDERAL BANK",
@@ -13193,7 +13570,8 @@
     "CONTACT": "25885485",
     "CITY": "VRINDAVAN",
     "DISTRICT": "VRINDAVAN",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "FDRL0002224": {
     "BANK": "FEDERAL BANK",
@@ -13203,7 +13581,8 @@
     "CONTACT": "2411255",
     "CITY": "BAJIDPUR",
     "DISTRICT": "UTTAR PRADESH",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "FDRL0002225": {
     "BANK": "FEDERAL BANK",
@@ -13213,7 +13592,8 @@
     "CONTACT": "225101",
     "CITY": "UJJAIN",
     "DISTRICT": "UJJAIN",
-    "STATE": "MADHYA PRADESH"
+    "STATE": "MADHYA PRADESH",
+    "RTGS": true
   },
   "FDRL0002227": {
     "BANK": "FEDERAL BANK",
@@ -13332,7 +13712,8 @@
     "CONTACT": "6975465",
     "CITY": "JAGATSINGHPUR",
     "DISTRICT": "TRILOCHANPUR",
-    "STATE": "ODISHA"
+    "STATE": "ODISHA",
+    "RTGS": true
   },
   "FDRL0002239": {
     "BANK": "FEDERAL BANK",
@@ -13342,7 +13723,8 @@
     "CONTACT": "222100",
     "CITY": "BALASORE",
     "DISTRICT": "BHUBANESWAR",
-    "STATE": "ODISHA"
+    "STATE": "ODISHA",
+    "RTGS": true
   },
   "FDRL0002240": {
     "BANK": "FEDERAL BANK",
@@ -13362,7 +13744,8 @@
     "CONTACT": "2223159",
     "CITY": "SANGLI",
     "DISTRICT": "SANGLI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0002242": {
     "BANK": "FEDERAL BANK",
@@ -13383,7 +13766,8 @@
     "CONTACT": "22428751",
     "CITY": "NAGPUR",
     "DISTRICT": "NAGPUR",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0002244": {
     "BANK": "FEDERAL BANK",
@@ -13393,7 +13777,8 @@
     "CONTACT": "26566715",
     "CITY": "PIPLA",
     "DISTRICT": "PIPLA",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0002245": {
     "BANK": "FEDERAL BANK",
@@ -13424,7 +13809,8 @@
     "CONTACT": "2454411",
     "CITY": "SANGLI",
     "DISTRICT": "SANGLI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0002248": {
     "BANK": "FEDERAL BANK",
@@ -13562,7 +13948,8 @@
     "CONTACT": "2618949",
     "CITY": "GAUTHAM BUDH NAGAR",
     "DISTRICT": "GAUTHAM BUDH NAGAR",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "FDRL0002261": {
     "BANK": "FEDERAL BANK",
@@ -13572,7 +13959,8 @@
     "CONTACT": "4233200",
     "CITY": "THANJAVUR",
     "DISTRICT": "THANJAVUR",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002262": {
     "BANK": "FEDERAL BANK",
@@ -13604,7 +13992,8 @@
     "CONTACT": "2411256",
     "CITY": "GAUTHAM BUDH NAGAR",
     "DISTRICT": "GAUTHAM BUDH NAGAR",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "FDRL0002265": {
     "BANK": "FEDERAL BANK",
@@ -13614,7 +14003,8 @@
     "CONTACT": "25236212",
     "CITY": "PUNE",
     "DISTRICT": "PUNE",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0002266": {
     "BANK": "FEDERAL BANK",
@@ -13624,7 +14014,8 @@
     "CONTACT": "261330",
     "CITY": "NAMAKKAL",
     "DISTRICT": "NAMAKKAL",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002267": {
     "BANK": "FEDERAL BANK",
@@ -13634,7 +14025,8 @@
     "CONTACT": "3043338",
     "CITY": "BUBANESHWAR",
     "DISTRICT": "BUBANESHWAR",
-    "STATE": "ODISHA"
+    "STATE": "ODISHA",
+    "RTGS": true
   },
   "FDRL0002269": {
     "BANK": "FEDERAL BANK",
@@ -13644,7 +14036,8 @@
     "CONTACT": "122187",
     "CITY": "ANGUL",
     "DISTRICT": "ANGUL",
-    "STATE": "ODISHA"
+    "STATE": "ODISHA",
+    "RTGS": true
   },
   "FDRL0002270": {
     "BANK": "FEDERAL BANK",
@@ -13654,7 +14047,8 @@
     "CONTACT": "4284200",
     "CITY": "ANGUL",
     "DISTRICT": "ANGUL",
-    "STATE": "ODISHA"
+    "STATE": "ODISHA",
+    "RTGS": true
   },
   "FDRL0002271": {
     "BANK": "FEDERAL BANK",
@@ -13664,7 +14058,8 @@
     "CONTACT": "2233388",
     "CITY": "DHARMAPURI",
     "DISTRICT": "SALEM",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "FDRL0002272": {
     "BANK": "FEDERAL BANK",
@@ -13696,7 +14091,8 @@
     "CONTACT": "222853",
     "CITY": "GURGAON",
     "DISTRICT": "GURGAON",
-    "STATE": "PUNJAB"
+    "STATE": "PUNJAB",
+    "RTGS": true
   },
   "FDRL0002275": {
     "BANK": "FEDERAL BANK",
@@ -13728,7 +14124,8 @@
     "CONTACT": "2437944",
     "CITY": "KOLHAPUR",
     "DISTRICT": "KOHLAPUR",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0002278": {
     "BANK": "FEDERAL BANK",
@@ -14109,7 +14506,8 @@
     "CONTACT": "2201715",
     "CITY": "SAWANTWADI",
     "DISTRICT": "SAWANTWADI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "FDRL0SME001": {
     "BANK": "FEDERAL BANK",

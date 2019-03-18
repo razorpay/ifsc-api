@@ -17,7 +17,8 @@
     "CONTACT": null,
     "CITY": null,
     "DISTRICT": null,
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "DEUT0274PBC": {
     "BANK": "DEUSTCHE BANK",
@@ -27,7 +28,8 @@
     "CONTACT": null,
     "CITY": null,
     "DISTRICT": null,
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "DEUT0278PBC": {
     "BANK": "DEUSTCHE BANK",
@@ -37,7 +39,8 @@
     "CONTACT": null,
     "CITY": null,
     "DISTRICT": null,
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "DEUT0279PBC": {
     "BANK": "DEUSTCHE BANK",
@@ -58,7 +61,8 @@
     "CONTACT": null,
     "CITY": null,
     "DISTRICT": null,
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "DEUT0402PBC": {
     "BANK": "DEUSTCHE BANK",
@@ -68,7 +72,8 @@
     "CONTACT": null,
     "CITY": null,
     "DISTRICT": null,
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "DEUT0403PBC": {
     "BANK": "DEUSTCHE BANK",
@@ -78,7 +83,8 @@
     "CONTACT": null,
     "CITY": null,
     "DISTRICT": null,
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "DEUT0404PBC": {
     "BANK": "DEUSTCHE BANK",
@@ -88,7 +94,8 @@
     "CONTACT": null,
     "CITY": null,
     "DISTRICT": null,
-    "STATE": "PUNJAB"
+    "STATE": "PUNJAB",
+    "RTGS": true
   },
   "DEUT0405PBC": {
     "BANK": "DEUSTCHE BANK",
@@ -129,7 +136,8 @@
     "CONTACT": null,
     "CITY": null,
     "DISTRICT": null,
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "DEUT0784BBY": {
     "BANK": "DEUSTCHE BANK",
@@ -139,7 +147,8 @@
     "CONTACT": null,
     "CITY": null,
     "DISTRICT": null,
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "DEUT0784DCO": {
     "BANK": "DEUSTCHE BANK",
@@ -149,7 +158,8 @@
     "CONTACT": null,
     "CITY": null,
     "DISTRICT": null,
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "DEUT0784DSO": {
     "BANK": "DEUSTCHE BANK",
@@ -199,7 +209,8 @@
     "CONTACT": null,
     "CITY": null,
     "DISTRICT": null,
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "DEUT0784TRS": {
     "BANK": "DEUSTCHE BANK",
@@ -209,7 +220,19 @@
     "CONTACT": null,
     "CITY": null,
     "DISTRICT": null,
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
+  },
+  "DEUT0784TRY": {
+    "BANK": "DEUTSCHE BANK LTD",
+    "IFSC": "DEUT0784TRY",
+    "BRANCH": "Mumbai - Treasury",
+    "ADDRESS": "222, Kodak House, Dr. D.N. Road, Fort, Mumbai - 400 001.",
+    "CONTACT": null,
+    "CITY": "MUMBAI",
+    "DISTRICT": "GREATER BOMBAY",
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "DEUT0796DEL": {
     "BANK": "DEUSTCHE BANK",
@@ -263,7 +286,8 @@
     "CONTACT": null,
     "CITY": null,
     "DISTRICT": null,
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "DEUT0916TRS": {
     "BANK": "DEUSTCHE BANK",
@@ -273,7 +297,8 @@
     "CONTACT": null,
     "CITY": null,
     "DISTRICT": null,
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "DEUT0917CAL": {
     "BANK": "DEUSTCHE BANK",
@@ -283,7 +308,8 @@
     "CONTACT": null,
     "CITY": null,
     "DISTRICT": null,
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "DEUT0917TRS": {
     "BANK": "DEUSTCHE BANK",
@@ -293,6 +319,7 @@
     "CONTACT": null,
     "CITY": null,
     "DISTRICT": null,
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   }
 }

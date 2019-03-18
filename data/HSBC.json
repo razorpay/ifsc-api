@@ -51,7 +51,8 @@
     "CONTACT": null,
     "CITY": "NOIDA",
     "DISTRICT": "GAUTAM BODDA NAGAR",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "RTGS": true
   },
   "HSBC0160002": {
     "BANK": "HSBC BANK",
@@ -72,7 +73,8 @@
     "CONTACT": null,
     "CITY": "MUMBAI",
     "DISTRICT": "GREATER MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "HSBC0302002": {
     "BANK": "HSBC BANK",
@@ -82,7 +84,8 @@
     "CONTACT": null,
     "CITY": "JAIPUR",
     "DISTRICT": "JAIPUR",
-    "STATE": "RAJASTHAN"
+    "STATE": "RAJASTHAN",
+    "RTGS": true
   },
   "HSBC0380002": {
     "BANK": "HSBC BANK",
@@ -103,7 +106,8 @@
     "CONTACT": null,
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "HSBC0400001": {
     "BANK": "HSBC BANK",
@@ -113,7 +117,8 @@
     "CONTACT": "61743100",
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "HSBC0400002": {
     "BANK": "HSBC BANK",
@@ -123,7 +128,8 @@
     "CONTACT": null,
     "CITY": "MUMBAI",
     "DISTRICT": "GREATER MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "HSBC0400003": {
     "BANK": "HSBC BANK",
@@ -133,7 +139,8 @@
     "CONTACT": null,
     "CITY": "MUMBAI",
     "DISTRICT": "GREATER MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "HSBC0400004": {
     "BANK": "HSBC BANK",
@@ -143,7 +150,8 @@
     "CONTACT": null,
     "CITY": "MUMBAI",
     "DISTRICT": "GREATER MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "HSBC0400005": {
     "BANK": "HSBC BANK",
@@ -153,7 +161,8 @@
     "CONTACT": null,
     "CITY": "MUMBAI",
     "DISTRICT": "GREATER MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "HSBC0400006": {
     "BANK": "HSBC BANK",
@@ -163,7 +172,8 @@
     "CONTACT": null,
     "CITY": "MUMBAI",
     "DISTRICT": "GREATER MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "HSBC0400007": {
     "BANK": "HSBC BANK",
@@ -173,7 +183,8 @@
     "CONTACT": null,
     "CITY": "MUMBAI",
     "DISTRICT": "GREATER MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "HSBC0400008": {
     "BANK": "HSBC BANK",
@@ -183,7 +194,8 @@
     "CONTACT": null,
     "CITY": "MUMBAI",
     "DISTRICT": "GREATER MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "HSBC0400010": {
     "BANK": "HSBC BANK",
@@ -193,7 +205,8 @@
     "CONTACT": null,
     "CITY": "MUMBAI",
     "DISTRICT": "GREATER MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "HSBC0400012": {
     "BANK": "HSBC BANK",
@@ -203,7 +216,8 @@
     "CONTACT": null,
     "CITY": "MUMBAI",
     "DISTRICT": "GREATER MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "HSBC0411002": {
     "BANK": "HSBC BANK",
@@ -213,7 +227,8 @@
     "CONTACT": null,
     "CITY": "PUNE",
     "DISTRICT": "PUNE",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "HSBC0500002": {
     "BANK": "HSBC BANK",
@@ -256,7 +271,8 @@
     "CONTACT": null,
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "HSBC0641002": {
     "BANK": "HSBC BANK",
@@ -266,7 +282,8 @@
     "CONTACT": null,
     "CITY": "COIMBATORE",
     "DISTRICT": "COIMBOTORE",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "HSBC0682002": {
     "BANK": "HSBC BANK",
@@ -287,7 +304,8 @@
     "CONTACT": null,
     "CITY": "KOLKATA",
     "DISTRICT": "KOLKATA",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "HSBC0700005": {
     "BANK": "HSBC BANK",
@@ -297,7 +315,8 @@
     "CONTACT": null,
     "CITY": "KOLKATA",
     "DISTRICT": "KOLKATA",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "RTGS": true
   },
   "HSBC0RTGSMI": {
     "BANK": "HSBC BANK",
@@ -307,6 +326,7 @@
     "CONTACT": null,
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   }
 }

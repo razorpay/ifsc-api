@@ -7,7 +7,19 @@
     "CONTACT": "61992000",
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
+  },
+  "SHBK0000002": {
+    "BANK": "SHINHAN BANK",
+    "IFSC": "SHBK0000002",
+    "BRANCH": "MUMBAI BRANCH",
+    "ADDRESS": "Peninsula Corporate Park, 701,702, Tower 1, Ganpatrao Kadam Marg, Lower Parel, Mumbai  400013",
+    "CONTACT": null,
+    "CITY": "MUMBAI",
+    "DISTRICT": "MUMBAI",
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "SHBK0000003": {
     "BANK": "SHINHAN BANK",
@@ -17,7 +29,8 @@
     "CONTACT": "61992000",
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "SHBK0000004": {
     "BANK": "SHINHAN BANK",
@@ -38,7 +51,8 @@
     "CONTACT": "278200",
     "CITY": "VELLORE",
     "DISTRICT": "VELLORE",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "RTGS": true
   },
   "SHBK0000006": {
     "BANK": "SHINHAN BANK",
@@ -48,7 +62,8 @@
     "CONTACT": null,
     "CITY": "PUNE",
     "DISTRICT": "PUNE",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "RTGS": true
   },
   "SHBK0000007": {
     "BANK": "SHINHAN BANK",
@@ -58,7 +73,8 @@
     "CONTACT": "66352000",
     "CITY": "RANGA REDDY",
     "DISTRICT": "RANGA REDDY",
-    "STATE": "TELANGANA"
+    "STATE": "TELANGANA",
+    "RTGS": true
   },
   "SHBK0000008": {
     "BANK": "SHINHAN BANK",
