@@ -5,9 +5,13 @@
     "BRANCH": "AGARTALA",
     "ADDRESS": "II FLOOR,JACKSON GATE BUILDING LENIN SARANI,AGARTALA",
     "CONTACT": "2381051",
-    "CITY": "TRIPURA",
-    "DISTRICT": "AGARTALA",
-    "STATE": "TRIPURA"
+    "CITY": "AGARTALA",
+    "DISTRICT": "TRIPURA",
+    "STATE": "TRIPURA",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0AHPA01": {
     "BANK": "RESERVE BANK OF INDIA, PAD",
@@ -17,7 +21,11 @@
     "CONTACT": null,
     "CITY": "AHMEDABAD",
     "DISTRICT": "AHMEDABAD",
-    "STATE": "GUJARAT"
+    "STATE": "GUJARAT",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0BBPA01": {
     "BANK": "RESERVE BANK OF INDIA, PAD",
@@ -25,9 +33,13 @@
     "BRANCH": "PAD BHUBANESWAR",
     "ADDRESS": "PAD BHUBANESWAR, BHUBANESWAR",
     "CONTACT": null,
-    "CITY": "BHUBANESWAR",
-    "DISTRICT": "KHURDA",
-    "STATE": "ODISHA"
+    "CITY": "KHURDA",
+    "DISTRICT": "BHUBANESWAR",
+    "STATE": "ODISHA",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0BGPA01": {
     "BANK": "RESERVE BANK OF INDIA, PAD",
@@ -37,7 +49,11 @@
     "CONTACT": null,
     "CITY": "BANGALORE",
     "DISTRICT": "BANGALORE",
-    "STATE": "KARNATAKA"
+    "STATE": "KARNATAKA",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0BLPA01": {
     "BANK": "RESERVE BANK OF INDIA, PAD",
@@ -47,7 +63,11 @@
     "CONTACT": null,
     "CITY": "BHOPAL",
     "DISTRICT": "BHOPAL",
-    "STATE": "MADHYA PRADESH"
+    "STATE": "MADHYA PRADESH",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0CGPA01": {
     "BANK": "RESERVE BANK OF INDIA, PAD",
@@ -57,7 +77,11 @@
     "CONTACT": null,
     "CITY": "CHANDIGARH",
     "DISTRICT": "CHANDIGARH",
-    "STATE": "CHANDIGARH"
+    "STATE": "CHANDIGARH",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0CNPA01": {
     "BANK": "RESERVE BANK OF INDIA, PAD",
@@ -67,17 +91,26 @@
     "CONTACT": null,
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0COD001": {
-    "BANK": "RBI PAD, AHMEDABAD",
     "IFSC": "RBIS0COD001",
     "BRANCH": "RBI CENTRAL OFFICE DEPARTMENTS",
+    "CENTRE": "MUMBAI",
+    "DISTRICT": "MUMBAI",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "CENTRAL ADMINISTRATION DIVISION, HUMAN RESOURCE MANAGEMENT DEPARTMENT, CENTRAL OFFICE, AMAR BUILDING, 3RD FLOOR, SIR P M ROAD, MUMBAI 400001",
     "CONTACT": "22661146",
+    "BANK": "RBI PAD, AHMEDABAD",
+    "RTGS": true,
     "CITY": "MUMBAI",
-    "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0DNPA01": {
     "BANK": "RESERVE BANK OF INDIA, PAD",
@@ -87,123 +120,190 @@
     "CONTACT": null,
     "CITY": "DEHRADUN",
     "DISTRICT": "DEHRADUN",
-    "STATE": "UTTARAKHAND"
+    "STATE": "UTTARAKHAND",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0GOAPEP": {
-    "BANK": "RBI PAD, AHMEDABAD",
     "IFSC": "RBIS0GOAPEP",
     "BRANCH": "RBI,HYDERABAD,GOVT OF AP",
+    "CENTRE": "HYDERABAD",
+    "DISTRICT": "HYDERABAD",
+    "STATE": "TELANGANA",
     "ADDRESS": "RESERVE BANK OF INDIA,6/1/56,SECRETARIAT ROAD,SAIFABAD,KHAIRATABAD,HYDERABAD,TELANGANA 500004",
     "CONTACT": "23230499",
+    "BANK": "RBI PAD, AHMEDABAD",
+    "RTGS": true,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
+  },
+  "RBIS0GOAPER": {
+    "BANK": "RBI PAD, AHMEDABAD",
+    "IFSC": "RBIS0GOAPER",
+    "BRANCH": "RBI HYDERABAD GOVT OF ANDHRA PRADESH",
+    "ADDRESS": "6-1-56, SECRETARIAT ROAD, SAIFABAD, HYDERABAD",
+    "CONTACT": "23230863",
     "CITY": "HYDERABAD",
     "DISTRICT": "HYDERABAD",
-    "STATE": "TELANGANA"
+    "STATE": "TELANGANA",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0GOCGEP": {
-    "BANK": "RESERVE BANK OF INDIA , PAD",
     "IFSC": "RBIS0GOCGEP",
     "BRANCH": "RBI, RAIPUR, GOVT OF CHATTISGARH",
-    "ADDRESS": "RESERVE BANK OF INDIA, SUBHASHISH PARISAR SATYA PREM VIHAR MAHADEV GHAT ROAD SUNDER NAGAR RAIPUR 492 013",
-    "CONTACT": "0771224231",
-    "CITY": "RAIPUR",
+    "CENTRE": "RAIPUR",
     "DISTRICT": "RAIPUR",
     "STATE": "CHHATTISGARH",
-    "RTGS": true
+    "ADDRESS": "RESERVE BANK OF INDIA, SUBHASHISH PARISAR SATYA PREM VIHAR MAHADEV GHAT ROAD SUNDER NAGAR RAIPUR 492 013",
+    "CONTACT": "224231",
+    "BANK": "RESERVE BANK OF INDIA",
+    "RTGS": true,
+    "CITY": "RAIPUR",
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0GOGJEP": {
-    "BANK": "RBI PAD, AHMEDABAD",
     "IFSC": "RBIS0GOGJEP",
     "BRANCH": "RBI,AHMEDABAD",
-    "ADDRESS": "RESERVE BANK OF INDIA, NEAR GANDHI BRIDGE, INCOME TAX CIRCLE, ASHRAM ROAD, AHMEDABAD - 380014",
-    "CONTACT": "27540193",
-    "CITY": "AHMEDABAD",
+    "CENTRE": "AHMEDABAD",
     "DISTRICT": "AHMEDABAD",
     "STATE": "GUJARAT",
-    "RTGS": true
+    "ADDRESS": "RESERVE BANK OF INDIA, NEAR GANDHI BRIDGE, INCOME TAX CIRCLE, ASHRAM ROAD, AHMEDABAD - 380014",
+    "CONTACT": "27540193",
+    "BANK": "RBI PAD, AHMEDABAD",
+    "RTGS": true,
+    "CITY": "AHMEDABAD",
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0GOJHER": {
-    "BANK": "RESERVE BANK OF INDIA , PAD",
     "IFSC": "RBIS0GOJHER",
     "BRANCH": "RBI,RANCHI,GOVT OF JHARKHAND",
-    "ADDRESS": "R.R.D.A.BUILDING,PRAGATI SADAN(4TH FLOOR),KUTCHERY ROAD,RANCHI-834001",
-    "CONTACT": "06512210509",
-    "CITY": "RANCHI",
+    "CENTRE": "RANCHI",
     "DISTRICT": "RANCHI",
     "STATE": "JHARKHAND",
-    "RTGS": true
+    "ADDRESS": "R.R.D.A.BUILDING,PRAGATI SADAN(4TH FLOOR),KUTCHERY ROAD,RANCHI-834001",
+    "CONTACT": "2210509",
+    "BANK": "RESERVE BANK OF INDIA",
+    "RTGS": true,
+    "CITY": "RANCHI",
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0GOKAER": {
-    "BANK": "RBI PAD, AHMEDABAD",
     "IFSC": "RBIS0GOKAER",
     "BRANCH": "RBI, BENGALURU, GOVT OF KARNATAKA",
+    "CENTRE": "BENGALURU",
+    "DISTRICT": "BENGALURU",
+    "STATE": "KARNATAKA",
     "ADDRESS": "RESERVE BANK OF INDIA, 10/3/8, NRUPTHUNGA ROAD, BENGALURU-560 001",
     "CONTACT": "22180510",
-    "CITY": "BENGALURU",
-    "DISTRICT": "BANGALORE URBAN",
-    "STATE": "KARNATAKA",
-    "RTGS": true
+    "BANK": "RBI PAD, AHMEDABAD",
+    "RTGS": true,
+    "CITY": "BANGALORE URBAN",
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0GOMHEP": {
-    "BANK": "RBI PAD, AHMEDABAD",
     "IFSC": "RBIS0GOMHEP",
     "BRANCH": "RBI, MUMBAI RO GOVT OF MAHARASHTRA",
+    "CENTRE": "MUMBAI",
+    "DISTRICT": "MUMBAI",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "RESERVE BANK OF INDIA,BANKING DEPT,MAIN BUILDING,MUMBAI REGIONAL OFFICE,FORT,MUMBAI,400 001",
     "CONTACT": "22610464",
+    "BANK": "RBI PAD, AHMEDABAD",
+    "RTGS": true,
     "CITY": "MUMBAI",
-    "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0GOPNEP": {
-    "BANK": "RBI PAD, AHMEDABAD",
     "IFSC": "RBIS0GOPNEP",
     "BRANCH": "RBI, CHANDIGARH, GOVT OF PUNJAB",
-    "ADDRESS": "RESERVE BANK OF INDIA, CENTRAL VISTA, SECTOR 17, CHANDIGARH - 160 017",
-    "CONTACT": "2721507",
-    "CITY": "CHANDIGARH",
+    "CENTRE": "CHANDIGARH",
     "DISTRICT": "CHANDIGARH",
     "STATE": "CHANDIGARH",
-    "RTGS": true
+    "ADDRESS": "RESERVE BANK OF INDIA, CENTRAL VISTA, SECTOR 17, CHANDIGARH - 160 017",
+    "CONTACT": "2721507",
+    "BANK": "RBI PAD, AHMEDABAD",
+    "RTGS": true,
+    "CITY": "CHANDIGARH",
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0GORJEP": {
-    "BANK": "RBI PAD, AHMEDABAD",
     "IFSC": "RBIS0GORJEP",
     "BRANCH": "RBI, JAIPUR, GOVT OF RAJASTHAN",
+    "CENTRE": "JAIPUR",
+    "DISTRICT": "JAIPUR",
+    "STATE": "RAJASTHAN",
     "ADDRESS": "RESERVE BANK OF INDIA, RAMBAGH CIRCLE, TONK ROAD, JAIPUR - 302 004",
     "CONTACT": "2571513",
+    "BANK": "RBI PAD, AHMEDABAD",
+    "RTGS": true,
     "CITY": "JAIPUR",
-    "DISTRICT": "JAIPUR",
-    "STATE": "RAJASTHAN"
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0GOTGEP": {
-    "BANK": "RBI PAD, AHMEDABAD",
     "IFSC": "RBIS0GOTGEP",
     "BRANCH": "RBI, HYDERABAD, GOVT OF TELENGANA",
-    "ADDRESS": "RESERVE BANK OF INDIA,6-1-56,SECRETARIAT ROAD,SAIFABAD,KHAIRATABAD,HYDERABAD,TELANGANA 500004",
-    "CONTACT": "23230499",
-    "CITY": "HYDERABAD",
+    "CENTRE": "HYDERABAD",
     "DISTRICT": "HYDERABAD",
     "STATE": "ANDHRA PRADESH",
-    "RTGS": true
+    "ADDRESS": "RESERVE BANK OF INDIA,6-1-56,SECRETARIAT ROAD,SAIFABAD,KHAIRATABAD,HYDERABAD,TELANGANA 500004",
+    "CONTACT": "23230499",
+    "BANK": "RBI PAD, AHMEDABAD",
+    "RTGS": true,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0GOUPEP": {
-    "BANK": "RBI PAD, AHMEDABAD",
     "IFSC": "RBIS0GOUPEP",
     "BRANCH": "RBI,KANPUR,GOVT OF U.P",
+    "CENTRE": "Kanpur",
+    "DISTRICT": "KANPUR",
+    "STATE": "UTTAR PRADESH",
     "ADDRESS": "Reserve Bank of India, Post Box No. 82/142, M.G. Road, Kanpur - 208 001",
     "CONTACT": "2305951",
+    "BANK": "RBI PAD, AHMEDABAD",
+    "RTGS": true,
     "CITY": "KANPUR",
-    "DISTRICT": "KANPUR",
-    "STATE": "UTTAR PRADESH"
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0GSTPMT": {
-    "BANK": "RESERVE BANK OF INDIA , PAD",
     "IFSC": "RBIS0GSTPMT",
     "BRANCH": "RBI NEFT RTGS GST COLLECTION",
+    "CENTRE": "MUMBAI",
+    "DISTRICT": "MUMBAI",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "ASST. GENERAL MANAGER,GST CELL,RESERVE BANK OF INDIA,MUMBAI REGIONAL OFFICE,FORT,MUMBAI - 400001",
     "CONTACT": "22642836",
+    "BANK": "RESERVE BANK OF INDIA , PAD",
+    "RTGS": true,
     "CITY": "MUMBAI",
-    "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0GTPA01": {
     "BANK": "RESERVE BANK OF INDIA , PAD",
@@ -211,9 +311,13 @@
     "BRANCH": "GANGTOK",
     "ADDRESS": "LRSYZALTK",
     "CONTACT": "281117",
-    "CITY": "SIKKIM",
-    "DISTRICT": "GANGTOK",
-    "STATE": "SIKKIM"
+    "CITY": "GANGTOK",
+    "DISTRICT": "SIKKIM",
+    "STATE": "SIKKIM",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0GWPA01": {
     "BANK": "RESERVE BANK OF INDIA, PAD",
@@ -223,7 +327,11 @@
     "CONTACT": null,
     "CITY": "GUWAHATI",
     "DISTRICT": "GUWAHATI",
-    "STATE": "ASSAM"
+    "STATE": "ASSAM",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0JMPA01": {
     "BANK": "RESERVE BANK OF INDIA, PAD",
@@ -233,7 +341,11 @@
     "CONTACT": null,
     "CITY": "JAMMU",
     "DISTRICT": "JAMMU",
-    "STATE": "JAMMU AND KASHMIR"
+    "STATE": "JAMMU AND KASHMIR",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0JPPA01": {
     "BANK": "RESERVE BANK OF INDIA, PAD",
@@ -243,7 +355,11 @@
     "CONTACT": null,
     "CITY": "JAIPUR",
     "DISTRICT": "JAIPUR",
-    "STATE": "RAJASTHAN"
+    "STATE": "RAJASTHAN",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0KCPA01": {
     "BANK": "RESERVE BANK OF INDIA, PAD",
@@ -251,9 +367,13 @@
     "BRANCH": "KOCHI",
     "ADDRESS": "FOREIGN EXCHANGE DEPARTMENT , RESERVE BANK OF INDIA, ERNAKULAM NORTH, KOCHI 682018",
     "CONTACT": null,
-    "CITY": "KOCHI",
-    "DISTRICT": "ERNAKULAM",
-    "STATE": "KERALA"
+    "CITY": "ERNAKULAM",
+    "DISTRICT": "KOCHI",
+    "STATE": "KERALA",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0KLPA01": {
     "BANK": "RESERVE BANK OF INDIA, PAD",
@@ -263,7 +383,11 @@
     "CONTACT": null,
     "CITY": "KOLKATA",
     "DISTRICT": "KOLKATA",
-    "STATE": "WEST BENGAL"
+    "STATE": "WEST BENGAL",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0KNPA01": {
     "BANK": "RESERVE BANK OF INDIA, PAD",
@@ -273,7 +397,11 @@
     "CONTACT": null,
     "CITY": "KANPUR",
     "DISTRICT": "KANPUR",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0LKPA01": {
     "BANK": "RESERVE BANK OF INDIA, PAD",
@@ -283,7 +411,11 @@
     "CONTACT": null,
     "CITY": "LUCKNOW",
     "DISTRICT": "LUCKNOW",
-    "STATE": "UTTAR PRADESH"
+    "STATE": "UTTAR PRADESH",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0MBPA04": {
     "BANK": "RESERVE BANK OF INDIA, PAD",
@@ -291,9 +423,13 @@
     "BRANCH": "PAD MUMBAI",
     "ADDRESS": "PAD ,GROUND FLOOR,MAIN BUILDING ,FORT MUMBAI- 400001",
     "CONTACT": null,
-    "CITY": "MUMBAI",
-    "DISTRICT": "GREATER BOMBAY",
-    "STATE": "MAHARASHTRA"
+    "CITY": "GREATER BOMBAY",
+    "DISTRICT": "MUMBAI",
+    "STATE": "MAHARASHTRA",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0NDPA01": {
     "BANK": "RESERVE BANK OF INDIA, PAD",
@@ -301,9 +437,13 @@
     "BRANCH": "PAD NEW DELHI",
     "ADDRESS": "6, SANSAD MARG , NEW DELHI 110001",
     "CONTACT": null,
-    "CITY": "NEW DELHI",
-    "DISTRICT": "DELHI",
-    "STATE": "DELHI"
+    "CITY": "DELHI",
+    "DISTRICT": "NEW DELHI",
+    "STATE": "DELHI",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0NEFTHY": {
     "BANK": "RESERVE BANK OF INDIA, PAD",
@@ -313,7 +453,11 @@
     "CONTACT": null,
     "CITY": "HYDERABAD",
     "DISTRICT": "HYDERABAD",
-    "STATE": "ANDHRA PRADESH"
+    "STATE": "ANDHRA PRADESH",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0NGPA01": {
     "BANK": "RESERVE BANK OF INDIA, PAD",
@@ -323,7 +467,11 @@
     "CONTACT": null,
     "CITY": "NAGPUR",
     "DISTRICT": "NAGPUR",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0NMPA01": {
     "BANK": "RESERVE BANK OF INDIA, PAD",
@@ -333,18 +481,26 @@
     "CONTACT": null,
     "CITY": "NAVI MUMBAI",
     "DISTRICT": "NAVI MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0PFMS01": {
-    "BANK": "RESERVE BANK OF INDIA",
     "IFSC": "RBIS0PFMS01",
     "BRANCH": "RBI, NEW DELHI, PFMS",
-    "ADDRESS": "RESERVE BANK OF INDIA, 6, SANSAD MARG, NEW DELHI - 110 001",
-    "CONTACT": "23318753",
-    "CITY": "NEW DELHI",
+    "CENTRE": "NEW DELHI",
     "DISTRICT": "NEW DELHI",
     "STATE": "DELHI",
-    "RTGS": true
+    "ADDRESS": "RESERVE BANK OF INDIA, 6, SANSAD MARG, NEW DELHI - 110 001",
+    "CONTACT": "23318753",
+    "BANK": "RESERVE BANK OF INDIA",
+    "RTGS": true,
+    "CITY": "NEW DELHI",
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0PJPA01": {
     "BANK": "RESERVE BANK OF INDIA, PAD",
@@ -354,7 +510,11 @@
     "CONTACT": null,
     "CITY": "PANAJI",
     "DISTRICT": "PANAJI",
-    "STATE": "GOA"
+    "STATE": "GOA",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0PTPA01": {
     "BANK": "RESERVE BANK OF INDIA, PAD",
@@ -364,7 +524,11 @@
     "CONTACT": null,
     "CITY": "PATNA",
     "DISTRICT": "PATNA",
-    "STATE": "BIHAR"
+    "STATE": "BIHAR",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0PUPA01": {
     "BANK": "RESERVE BANK OF INDIA , PAD",
@@ -374,7 +538,25 @@
     "CONTACT": null,
     "CITY": "PUNE",
     "DISTRICT": "PUNE",
-    "STATE": "MAHARASHTRA"
+    "STATE": "MAHARASHTRA",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "RBIS0RBIPI0": {
+    "BANK": "Reserve Bank Employees Co-operative Bank",
+    "IFSC": "RBIS0RBIPI0",
+    "BRANCH": "Reserve Bank Employees Co-operative Bank IMPS",
+    "CENTRE": "NA",
+    "DISTRICT": "NA",
+    "STATE": "NA",
+    "ADDRESS": "NA",
+    "CONTACT": null,
+    "IMPS": true,
+    "NEFT": false,
+    "RTGS": false,
+    "MICR": null
   },
   "RBIS0RNPA01": {
     "BANK": "RESERVE BANK OF INDIA, PAD",
@@ -384,17 +566,26 @@
     "CONTACT": null,
     "CITY": "RANCHI",
     "DISTRICT": "RANCHI",
-    "STATE": "JHARKHAND"
+    "STATE": "JHARKHAND",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0RPPA01": {
-    "BANK": "RESERVE BANK OF INDIA, PAD",
     "IFSC": "RBIS0RPPA01",
     "BRANCH": "RAIPUR",
+    "CENTRE": "RAIPUR",
+    "DISTRICT": "RAIPUR",
+    "STATE": "CHHATTISGARH",
     "ADDRESS": "54 BY 949,SUBHASHISH PARISAR,SATYA PREM VIHAR,MAHADEV GHAT ROAD,SUNDAR NAGAR,RAIPUR 492 013",
     "CONTACT": null,
+    "MICR": "490059002",
+    "BANK": "RESERVE BANK OF INDIA, PAD",
+    "RTGS": true,
     "CITY": "RAIPUR",
-    "DISTRICT": "RAIPUR",
-    "STATE": "CHANDIGARH"
+    "NEFT": true,
+    "IMPS": true
   },
   "RBIS0SAMADN": {
     "BANK": "RESERVE BANK OF INDIA , PAD",
@@ -404,7 +595,11 @@
     "CONTACT": "22180100",
     "CITY": "BENGALURU",
     "DISTRICT": "BENGALURU",
-    "STATE": "KARNATAKA"
+    "STATE": "KARNATAKA",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0SCPA01": {
     "BANK": "RESERVE BANK OF INDIA , PAD",
@@ -414,7 +609,11 @@
     "CONTACT": "24302700",
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0SLPA01": {
     "BANK": "RESERVE BANK OF INDIA , PAD",
@@ -422,9 +621,13 @@
     "BRANCH": "SHILLONG",
     "ADDRESS": "APPHIRA BUILDING,FRUIT GARDEN,SHILLONG JOWAI ROAD,SHILLONG",
     "CONTACT": "2501839",
-    "CITY": "MEGHALAYA",
-    "DISTRICT": "SHILLONG",
-    "STATE": "MEGHALAYA"
+    "CITY": "SHILLONG",
+    "DISTRICT": "MEGHALAYA",
+    "STATE": "MEGHALAYA",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0SMPA01": {
     "BANK": "RESERVE BANK OF INDIA, PAD",
@@ -432,9 +635,13 @@
     "BRANCH": "SHIMLA",
     "ADDRESS": "RURAL PLANNING AND CREDIT DEPARTMENT , B 478, SECTOR IV, NEW SHIMLA, SHIMLA 171009",
     "CONTACT": null,
-    "CITY": "NEW SHIMLA",
-    "DISTRICT": "SHIMLA",
-    "STATE": "HIMACHAL PRADESH"
+    "CITY": "SHIMLA",
+    "DISTRICT": "NEW SHIMLA",
+    "STATE": "HIMACHAL PRADESH",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "RBIS0THPA01": {
     "BANK": "RESERVE BANK OF INDIA, PAD",
@@ -442,8 +649,12 @@
     "BRANCH": "TRIVANDRUM",
     "ADDRESS": "RESERVE BANK OF INDIA,TRIVANDRUM",
     "CONTACT": null,
-    "CITY": "TRIVANDRUM",
-    "DISTRICT": "THIRUVANANTHAPURAM",
-    "STATE": "KERALA"
+    "CITY": "THIRUVANANTHAPURAM",
+    "DISTRICT": "TRIVANDRUM",
+    "STATE": "KERALA",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   }
 }

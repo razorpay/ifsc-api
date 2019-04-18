@@ -1,12 +1,17 @@
 {
   "KRTH0INBB01": {
-    "BANK": "KRUNG THAI BANK PCL",
     "IFSC": "KRTH0INBB01",
     "BRANCH": "RTGS-HO",
+    "CENTRE": "MUMBAI",
+    "DISTRICT": "MUMBAI",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "62 MAKER CHAMBERS VI, 6TH FLOOR, NARIMAN POINT, MUMBAI 400 021.",
     "CONTACT": null,
+    "BANK": "KRUNG THAI BANK PCL",
+    "RTGS": true,
     "CITY": "MUMBAI",
-    "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
   }
 }

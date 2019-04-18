@@ -1,43 +1,76 @@
 {
   "HVBK0000001": {
-    "BANK": "WOORI BANK",
     "IFSC": "HVBK0000001",
     "BRANCH": "CHENNAI BRANCH",
+    "CENTRE": "CHENNAI",
+    "DISTRICT": "CHENNAI",
+    "STATE": "TAMIL NADU",
     "ADDRESS": "2nd Floor, Lotte India, No 4/169, Rajiv Gandhi Salai, Kandhanchavadi, Perungudi Taluk, Chennai - 600096",
     "CONTACT": "33466900",
+    "MICR": "600240253",
+    "BANK": "WOORI BANK",
+    "RTGS": true,
     "CITY": "CHENNAI",
-    "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "NEFT": true,
+    "IMPS": true
   },
   "HVBK0000002": {
-    "BANK": "WOORI BANK",
     "IFSC": "HVBK0000002",
     "BRANCH": "GURGAON BRANCH",
-    "ADDRESS": "1ST FLOOR, A-BLOCK, SALCON PLATINA BUILDING, DLF PHASE 1, SIKANDERPUR, MG ROAD, SECTOR - 28, GURGAON",
-    "CONTACT": "3046700",
-    "CITY": "GURGAON",
+    "CENTRE": "GURGAON",
     "DISTRICT": "GURGAON",
     "STATE": "HARYANA",
-    "RTGS": true
+    "ADDRESS": "1ST FLOOR, A-BLOCK, SALCON PLATINA BUILDING, DLF PHASE 1, SIKANDERPUR, MG ROAD, SECTOR - 28, GURGAON",
+    "CONTACT": "3046700",
+    "MICR": "110240272",
+    "BANK": "WOORI BANK",
+    "RTGS": true,
+    "CITY": "GURGAON",
+    "NEFT": true,
+    "IMPS": true
   },
   "HVBK0000003": {
-    "BANK": "WOORI BANK",
     "IFSC": "HVBK0000003",
     "BRANCH": "MUMBAI BRANCH",
+    "CENTRE": "MUMBAI",
+    "DISTRICT": "MUMBAI",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "UNIT NO 601, 6TH FLOOR, BIRLA CENTURION, CENTURY MILLS COMPOUND, PANDURANG BUDHKAR MARG, WORLI, MUMBAI - 400030",
     "CONTACT": "62638100",
+    "MICR": "400240277",
+    "BANK": "WOORI BANK",
+    "RTGS": true,
     "CITY": "MUMBAI",
-    "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "NEFT": true,
+    "IMPS": true
   },
   "HVBK0999999": {
-    "BANK": "WOORI BANK",
     "IFSC": "HVBK0999999",
     "BRANCH": "HO TREASURY",
+    "CENTRE": "MUMBAI",
+    "DISTRICT": "MUMBAI",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "UNIT NO 601, 6TH FLOOR, BIRLA CENTURION, CENTURY MILLS COMPOUND, PANDURANG BUDHKAR MARG, WORLI, MUMBAI - 400030",
     "CONTACT": "62638100",
+    "BANK": "WOORI BANK",
+    "RTGS": true,
     "CITY": "MUMBAI",
-    "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
+  },
+  "HVBK0NEFTSC": {
+    "IFSC": "HVBK0NEFTSC",
+    "BRANCH": "RTGS-HO",
+    "CENTRE": "CHENNAI",
+    "DISTRICT": "CHENNAI",
+    "STATE": "TAMIL NADU",
+    "ADDRESS": "2nd Floor, Lotte India, No 4/169, Rajiv Gandhi Salai, Kandhanchavadi, Perungudi Taluk, Chennai - 600096",
+    "CONTACT": "04433466900",
+    "BANK": "WOORI BANK",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
   }
 }

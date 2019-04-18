@@ -3,11 +3,16 @@
     "BANK": "ABU DHABI COMMERCIAL BANK",
     "IFSC": "ADCB0000001",
     "BRANCH": "RTGS-HO",
+    "CENTRE": "MUMBAI",
+    "DISTRICT": "MUMBAI",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "75, REHMAT MANZIL, V. N. ROAD, CURCHGATE, MUMBAI - 400020",
     "CONTACT": "39534100",
-    "CITY": "MUMBAI",
-    "DISTRICT": "MUMBAI CITY",
-    "STATE": "MAHARASHTRA"
+    "IMPS": true,
+    "RTGS": true,
+    "CITY": "MUMBAI CITY",
+    "NEFT": true,
+    "MICR": null
   },
   "ADCB0000002": {
     "BANK": "ABU DHABI COMMERCIAL BANK",
@@ -15,8 +20,12 @@
     "BRANCH": "BANGALORE",
     "ADDRESS": "CITI CENTRE, 28, CHURCH STREET, OFF M. G. ROAD BANGALORE 560001",
     "CONTACT": "25582000",
-    "CITY": "BANGALORE",
-    "DISTRICT": "BANGALORE URBAN",
-    "STATE": "KARNATAKA"
+    "CITY": "BANGALORE URBAN",
+    "DISTRICT": "BANGALORE",
+    "STATE": "KARNATAKA",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   }
 }

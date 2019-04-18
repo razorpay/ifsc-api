@@ -3,22 +3,30 @@
     "BANK": "BANK OF BAHARAIN AND KUWAIT BSC",
     "IFSC": "BBKM0000001",
     "BRANCH": "RTGS-HO",
+    "CENTRE": "MUMBAI",
+    "DISTRICT": "MUMBAI",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "225,JOLLY MAKERS CHAMBERS II,NARIMAN POINT,MUMBAI",
     "CONTACT": "22823698",
+    "IMPS": true,
+    "RTGS": true,
     "CITY": "MUMBAI",
-    "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "NEFT": true,
+    "MICR": null
   },
   "BBKM0000002": {
-    "BANK": "BANK OF BAHRAIN AND KUWAIT",
     "IFSC": "BBKM0000002",
     "BRANCH": "Hyderabad",
-    "ADDRESS": "6-3-550 Akashganga, Opp Medinova, Somajiguda, Hyderabad 500 482",
-    "CONTACT": "04023398220",
-    "CITY": "HYDERABAD",
+    "CENTRE": "HYDERABAD",
     "DISTRICT": "HYDERABAD",
     "STATE": "ANDHRA PRADESH",
-    "RTGS": true
+    "ADDRESS": "6-3-550 Akashganga, Opp Medinova, Somajiguda, Hyderabad 500 482",
+    "CONTACT": "04023398220",
+    "BANK": "BANK OF BAHRAIN AND KUWAIT",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
   },
   "BBKM0000003": {
     "BANK": "BANK OF BAHARAIN AND KUWAIT BSC",
@@ -28,18 +36,26 @@
     "CONTACT": "23305859",
     "CITY": "HYDERABAD",
     "DISTRICT": "HYDERABAD",
-    "STATE": "ANDHRA PRADESH"
+    "STATE": "ANDHRA PRADESH",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "BBKM0000004": {
-    "BANK": "BANK OF BAHARAIN AND KUWAIT BSC",
     "IFSC": "BBKM0000004",
     "BRANCH": "ALUVA",
-    "ADDRESS": "HOTEL SUNNY S BUILDING NO 19 BY 1 2 RE S.N0 26 AND 81,NH 47,DIST ERNAKULAM,KERALA",
-    "CONTACT": "4037437",
-    "CITY": "ERNAKULAM",
+    "CENTRE": "ALUVA",
     "DISTRICT": "ERNAKULAM",
     "STATE": "KERALA",
-    "RTGS": true
+    "ADDRESS": "HOTEL SUNNY S BUILDING NO 19 BY 1 2 RE S.N0 26 AND 81,NH 47,DIST ERNAKULAM,KERALA",
+    "CONTACT": "4037437",
+    "MICR": "682150002",
+    "BANK": "BANK OF BAHARAIN AND KUWAIT BSC",
+    "RTGS": true,
+    "CITY": "ERNAKULAM",
+    "NEFT": true,
+    "IMPS": true
   },
   "BBKM0000005": {
     "BANK": "BANK OF BAHARAIN AND KUWAIT BSC",
@@ -49,6 +65,10 @@
     "CONTACT": "9322571002",
     "CITY": "NEW DELHI",
     "DISTRICT": "NEW DELHI",
-    "STATE": "DELHI"
+    "STATE": "DELHI",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   }
 }

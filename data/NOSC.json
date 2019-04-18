@@ -1,23 +1,32 @@
 {
   "NOSC0000DEL": {
-    "BANK": "THE BANK OF NOVA SCOTIA",
     "IFSC": "NOSC0000DEL",
     "BRANCH": "DELHI",
+    "CENTRE": "DELHI",
+    "DISTRICT": "DELHI",
+    "STATE": "DELHI",
     "ADDRESS": "GOPAL DAS BHAVAN, BARAKHAMABA RD, NEW DELHI",
     "CONTACT": "49199999",
-    "CITY": "DELHI",
-    "DISTRICT": "NEW DELHI",
-    "STATE": "DELHI",
-    "RTGS": true
+    "BANK": "THE BANK OF NOVA SCOTIA",
+    "RTGS": true,
+    "CITY": "NEW DELHI",
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
   },
   "NOSC0000MUM": {
     "BANK": "THE BANK OF NOVA SCOTIA",
     "IFSC": "NOSC0000MUM",
     "BRANCH": "RTGS-HO",
+    "CENTRE": "MUMBAI",
+    "DISTRICT": "MUMBAI",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "MITTAL TOWER , B WING NARIMAN",
     "CONTACT": "66364000",
+    "IMPS": true,
+    "RTGS": true,
     "CITY": "MUMBAI",
-    "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "NEFT": true,
+    "MICR": null
   }
 }

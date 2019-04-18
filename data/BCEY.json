@@ -7,16 +7,25 @@
     "CONTACT": null,
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "STATE": "TAMIL NADU",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "BCEY0CHEN01": {
     "BANK": "BANK OF CEYLON",
     "IFSC": "BCEY0CHEN01",
     "BRANCH": "RTGS-HO",
+    "CENTRE": "CHENNAI",
+    "DISTRICT": "CHENNAI",
+    "STATE": "TAMIL NADU",
     "ADDRESS": "NO 20/21 CASA MAJOR ROAD N.N0 2(O.NO.11)ZERAT GARDEN,2ND LANE,EGMORE CHENNAI 600 008",
     "CONTACT": null,
+    "IMPS": true,
+    "RTGS": true,
     "CITY": "CHENNAI",
-    "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU"
+    "NEFT": true,
+    "MICR": null
   }
 }
