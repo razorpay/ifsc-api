@@ -28,6 +28,8 @@ RUN echo "** installing deps **" && \
     apk --no-cache add dumb-init redis libstdc++ && \
     echo "** installing eventmachine-build-deps **" && \
     apk --no-cache add --virtual .eventmachine-builddeps g++ make && \
+    echo "** updating bundler **" && \
+    gem update bundler && \
     echo "** installing ruby gems **" && \
     bundle install && \
     echo "** removing eventmachine-build deps **" && \

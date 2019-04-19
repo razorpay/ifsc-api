@@ -1,13 +1,17 @@
 {
   "SABR0000001": {
-    "BANK": "SBER BANK",
     "IFSC": "SABR0000001",
     "BRANCH": "RTGS-HO",
+    "CENTRE": "NEW DELHI",
+    "DISTRICT": "NEW DELHI",
+    "STATE": "DELHI",
     "ADDRESS": "UGF, GOPAL DAS BHAWAN, 28 BARAKHAMBA ROAD, N DELHI",
     "CONTACT": "40048888",
-    "CITY": "NEW DELHI",
-    "DISTRICT": "DELHI",
-    "STATE": "DELHI",
-    "RTGS": true
+    "BANK": "SBER BANK",
+    "RTGS": true,
+    "CITY": "DELHI",
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
   }
 }

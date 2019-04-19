@@ -3,11 +3,15 @@
     "BANK": "RAJKOT NAGRIK SAHAKARI BANK LIMITED",
     "IFSC": "RNSB0000001",
     "BRANCH": "RTGS-HO",
-    "ADDRESS": "NAGARIK BHAVAN NO. 1, DHEBARBHAI ROAD, RAJKOT- 360 001",
-    "CONTACT": null,
-    "CITY": "RAJKOT",
+    "CENTRE": "RAJKOT",
     "DISTRICT": "RAJKOT",
     "STATE": "GUJARAT",
-    "RTGS": true
+    "ADDRESS": "NAGARIK BHAVAN NO. 1, DHEBARBHAI ROAD, RAJKOT- 360 001",
+    "CONTACT": null,
+    "IMPS": true,
+    "RTGS": true,
+    "CITY": "RAJKOT",
+    "NEFT": true,
+    "MICR": null
   }
 }

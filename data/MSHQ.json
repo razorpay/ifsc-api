@@ -2,11 +2,16 @@
   "MSHQ0000001": {
     "BANK": "MASHREQBANK PSC",
     "IFSC": "MSHQ0000001",
-    "BRANCH": null,
+    "BRANCH": "RTGS-HO",
+    "CENTRE": "MUMBAI",
+    "DISTRICT": "MUMBAI",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "1305, RAHEJA CENTRE,13TH FLOOR",
-    "CONTACT": null,
-    "CITY": null,
-    "DISTRICT": null,
-    "STATE": "MAHARASHTRA"
+    "CONTACT": "66327200",
+    "IMPS": true,
+    "RTGS": true,
+    "CITY": "NARIMAN POINT",
+    "NEFT": true,
+    "MICR": null
   }
 }
