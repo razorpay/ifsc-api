@@ -1,23 +1,46 @@
 {
+  "SOGE0INBB00": {
+    "BANK": "Societe Generale",
+    "IFSC": "SOGE0INBB00",
+    "BRANCH": "Societe Generale IMPS",
+    "CENTRE": "NA",
+    "DISTRICT": "NA",
+    "STATE": "NA",
+    "ADDRESS": "NA",
+    "CONTACT": null,
+    "IMPS": true,
+    "NEFT": false,
+    "RTGS": false,
+    "MICR": null
+  },
   "SOGE0INBB01": {
-    "BANK": "SOCIETE GENERALE",
     "IFSC": "SOGE0INBB01",
     "BRANCH": "SOCI├ëT├ë G├ëN├ëRALE",
+    "CENTRE": "MUMBAI",
+    "DISTRICT": "MUMBAI",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "19th Floor, Tower A, Peninsula Business Park,Ganpatrao Kadam marg,Lower Parel,Mumbai - 400013, India",
     "CONTACT": "400021",
+    "BANK": "SOCIETE GENERALE",
+    "RTGS": true,
     "CITY": "MUMBAI",
-    "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
   },
   "SOGE0INDL01": {
-    "BANK": "SOCIETE GENERALE",
     "IFSC": "SOGE0INDL01",
     "BRANCH": "SOCI├ëT├ë G├ëN├ëRALE",
+    "CENTRE": "DELHI",
+    "DISTRICT": "DELHI",
+    "STATE": "DELHI",
     "ADDRESS": "Upper Ground Floor, Ambadeep Building , 14, Kasturba Gandhi Marg, New Delhi - 110001, India",
     "CONTACT": "110001",
-    "CITY": "DELHI",
-    "DISTRICT": "NEW DELHI",
-    "STATE": "DELHI",
-    "RTGS": true
+    "BANK": "SOCIETE GENERALE",
+    "RTGS": true,
+    "CITY": "NEW DELHI",
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
   }
 }

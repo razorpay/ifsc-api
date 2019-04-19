@@ -1,12 +1,17 @@
 {
   "NATA0000001": {
-    "BANK": "NATIONAL AUSTRALIA BANK LIMITED",
     "IFSC": "NATA0000001",
-    "BRANCH": null,
+    "BRANCH": "RTGS-HO",
+    "CENTRE": "MUMBAI",
+    "DISTRICT": "MUMBAI",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "NO. 901, 9TH FLOOR NARIMAN BHAVAN, 227 BACKBAY RECLAMATION,  NARIMAN POINT, MUMBAI",
-    "CONTACT": null,
-    "CITY": null,
-    "DISTRICT": null,
-    "STATE": "MAHARASHTRA"
+    "CONTACT": "61988238",
+    "MICR": "400229257",
+    "BANK": "NATIONAL AUSTRALIA BANK LIMITED",
+    "RTGS": true,
+    "CITY": "MUMBAI",
+    "NEFT": true,
+    "IMPS": true
   }
 }

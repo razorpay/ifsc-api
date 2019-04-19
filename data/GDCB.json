@@ -2,11 +2,16 @@
   "GDCB0000001": {
     "BANK": "THE GADCHIROLI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
     "IFSC": "GDCB0000001",
-    "BRANCH": null,
+    "BRANCH": "RTGS-HO",
+    "CENTRE": "GADCHIROLI",
+    "DISTRICT": "GADCHIROLI",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "NEAR BUS STOP, DHANORA ROAD",
-    "CONTACT": null,
-    "CITY": null,
-    "DISTRICT": null,
-    "STATE": "MAHARASHTRA"
+    "CONTACT": "232965",
+    "IMPS": true,
+    "RTGS": true,
+    "CITY": "GADCHIROLI",
+    "NEFT": true,
+    "MICR": null
   }
 }
