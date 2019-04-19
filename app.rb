@@ -49,6 +49,17 @@ helpers do
     [settings.bank_names[bank_code], bank_code]
   end
 
+  def strtobool(str)
+    case str
+    when "true"
+      true
+    when "false"
+      false
+    else
+      false
+    end
+  end
+
   def ifsc_data(code)
     return nil unless code
     code = code.upcase
@@ -57,7 +68,9 @@ helpers do
     if !data.empty?
       data['BANK'], data['BANKCODE'] = bank_details(code)
       data['IFSC'] = code
-      data['RTGS'] = true if data.key? 'RTGS'
+      data['RTGS'] = strtobool data['RTGS']
+      data['NEFT'] = strtobool data['NEFT']
+      data['IMPS'] = strtobool data['IMPS']
       settings.metrics.increment code
     else
       data = nil
