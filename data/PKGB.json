@@ -1,5 +1,6 @@
 {
   "PKGB0000001": {
+    "BANK": "PRAGATHI KRISHNA GRAMIN BANK",
     "IFSC": "PKGB0000001",
     "BRANCH": "RTGS-HO",
     "CENTRE": "CHITRADURGA",
@@ -7,10 +8,9 @@
     "STATE": "KARNATAKA",
     "ADDRESS": "P B NO 70 , I.U.D.P. LAY-OUT, N.H-4,Chitradurga",
     "CONTACT": "234315",
-    "BANK": "PRAGATHI KRISHNA GRAMIN BANK",
+    "IMPS": true,
     "RTGS": true,
     "NEFT": false,
-    "IMPS": true,
     "MICR": null
   },
   "PKGB0010500": {

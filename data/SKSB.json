@@ -1,5 +1,6 @@
 {
   "SKSB0000001": {
+    "BANK": "SHIKSHAK SAHAKARI BANK LIMITED",
     "IFSC": "SKSB0000001",
     "BRANCH": "RTGS-HO",
     "CENTRE": "NAGPUR",
@@ -7,11 +8,10 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "NEAR GANDHISAGAR MAHAL, NAGPUR 440018",
     "CONTACT": "2774866",
-    "BANK": "SHIKSHAK SAHAKARI BANK LIMITED",
+    "IMPS": true,
     "RTGS": true,
     "CITY": "NAGPUR",
     "NEFT": true,
-    "IMPS": true,
     "MICR": null
   },
   "SKSB0000002": {

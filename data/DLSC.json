@@ -1,5 +1,6 @@
 {
   "DLSC0000001": {
+    "BANK": "THE DELHI STATE COOPERATIVE BANK LIMITED",
     "IFSC": "DLSC0000001",
     "BRANCH": "RTGS-HO",
     "CENTRE": "DELHI",
@@ -7,12 +8,11 @@
     "STATE": "DELHI",
     "ADDRESS": "31,NETAJI SUBHASH MARG,DARYAGANJ,NEW DELHI 110002",
     "CONTACT": null,
+    "IMPS": true,
     "MICR": "110094002",
-    "BANK": "THE DELHI STATE COOPERATIVE BANK LIMITED",
     "RTGS": true,
     "CITY": "DELHI",
-    "NEFT": true,
-    "IMPS": true
+    "NEFT": true
   },
   "DLSC0000002": {
     "IFSC": "DLSC0000002",

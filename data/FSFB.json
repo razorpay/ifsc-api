@@ -1,5 +1,6 @@
 {
   "FSFB0000001": {
+    "BANK": "FINCARE SMALL FINANCE BANK LTD",
     "IFSC": "FSFB0000001",
     "BRANCH": "RTGS-HO",
     "CENTRE": "BENGALURU",
@@ -7,11 +8,10 @@
     "STATE": "KARNATAKA",
     "ADDRESS": "5TH FLOOR BREN MERCURY, SARJAPUR ROAD, KAIKONDRAHALLI,BENGALURU",
     "CONTACT": "42504444",
+    "IMPS": true,
     "MICR": "560775002",
-    "BANK": "FINCARE SMALL FINANCE BANK LTD",
     "RTGS": true,
     "CITY": "BENGALURU",
-    "NEFT": true,
-    "IMPS": true
+    "NEFT": true
   }
 }

@@ -1,5 +1,6 @@
 {
   "AKJB0000001": {
+    "BANK": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
     "IFSC": "AKJB0000001",
     "BRANCH": "RTGS-HO",
     "CENTRE": "AKOLA",
@@ -7,12 +8,11 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "JANVAIBHAV,OLD COTTON MARKET,AKOLA,PIN 444001",
     "CONTACT": null,
+    "IMPS": true,
     "MICR": "444364001",
-    "BANK": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
     "RTGS": true,
     "CITY": "AKOLA",
-    "NEFT": true,
-    "IMPS": true
+    "NEFT": true
   },
   "AKJB0000002": {
     "IFSC": "AKJB0000002",

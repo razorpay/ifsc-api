@@ -1,5 +1,6 @@
 {
   "RSBL0000001": {
+    "BANK": "RAJGURUNAGAR SAHAKARI BANK LIMITED",
     "IFSC": "RSBL0000001",
     "BRANCH": "Head Office",
     "CENTRE": "RAJGURUNAGAR",
@@ -7,10 +8,9 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "319/320 Pune-Nashik Highway Rajgurunagar, Tal. Khed, Dist Pune 410505",
     "CONTACT": null,
-    "BANK": "RAJGURUNAGAR SAHAKARI BANK LIMITED",
+    "IMPS": true,
     "RTGS": true,
     "NEFT": false,
-    "IMPS": true,
     "MICR": null
   },
   "RSBL0000002": {

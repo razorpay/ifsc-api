@@ -1,5 +1,6 @@
 {
   "UJVN0000001": {
+    "BANK": "Ujjivan Small Finance Bank Limited",
     "IFSC": "UJVN0000001",
     "BRANCH": "RTGS-HO",
     "CENTRE": "BANGALORE",
@@ -7,11 +8,10 @@
     "STATE": "KARNATAKA",
     "ADDRESS": "GRAPE GARDEN, KORAMANGALA 6TH BLOCK, BENGALURU, KARNATAKA 560095",
     "CONTACT": "40712121",
-    "BANK": "Ujjivan Small Finance Bank Limited",
+    "IMPS": true,
     "RTGS": true,
     "CITY": "BANGALORE",
     "NEFT": true,
-    "IMPS": true,
     "MICR": null
   },
   "UJVN0001008": {

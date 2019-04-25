@@ -1,5 +1,6 @@
 {
   "SMCB0000001": {
+    "BANK": "SHIVALIK MERCANTILE CO-OPERATIVE BANK LTD.",
     "IFSC": "SMCB0000001",
     "BRANCH": "RTGS-HO",
     "CENTRE": "SAHARANPUR",
@@ -7,10 +8,9 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "KAKIKAT NAGAR, SAHARANPUR 247001",
     "CONTACT": "1322726125",
-    "BANK": "SHIVALIK MERCANTILE CO-OPERATIVE BANK LTD.",
+    "IMPS": true,
     "RTGS": true,
     "NEFT": false,
-    "IMPS": true,
     "MICR": null
   },
   "SMCB0001000": {
