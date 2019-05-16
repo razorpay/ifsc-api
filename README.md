@@ -2,7 +2,7 @@
 
 API server that serves Razorpay's IFSC API.
 
-[![](https://images.microbadger.com/badges/image/razorpay/ifsc:1.4.1.svg)](https://microbadger.com/images/razorpay/ifsc:1.4.1) [![](https://images.microbadger.com/badges/version/razorpay/ifsc:1.4.1.svg)](https://microbadger.com/images/razorpay/ifsc:1.4.1)
+[![](https://images.microbadger.com/badges/image/razorpay/ifsc:1.4.2.svg)](https://microbadger.com/images/razorpay/ifsc:1.4.2) [![](https://images.microbadger.com/badges/version/razorpay/ifsc:1.4.2.svg)](https://microbadger.com/images/razorpay/ifsc:1.4.2)
 
 Current API Root is <https://ifsc.razorpay.com/>
 
@@ -34,7 +34,7 @@ Your server should now be accessible at `http://localhost:9292`
 
 API server that serves Razorpay's IFSC API.
 
-[![](https://images.microbadger.com/badges/image/razorpay/ifsc:1.4.1.svg)](https://microbadger.com/images/razorpay/ifsc:1.4.1) [![](https://images.microbadger.com/badges/version/razorpay/ifsc:1.4.1.svg)](https://microbadger.com/images/razorpay/ifsc:1.4.1)
+[![](https://images.microbadger.com/badges/image/razorpay/ifsc:1.4.2.svg)](https://microbadger.com/images/razorpay/ifsc:1.4.2) [![](https://images.microbadger.com/badges/version/razorpay/ifsc:1.4.2.svg)](https://microbadger.com/images/razorpay/ifsc:1.4.2)
 
 Current API Root is <https://ifsc.razorpay.com/>
 
