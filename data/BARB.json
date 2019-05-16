@@ -17144,6 +17144,20 @@
     "IMPS": true,
     "MICR": null
   },
+  "BARB0CHUMUK": {
+    "IFSC": "BARB0CHUMUK",
+    "BRANCH": "CHUMUKEDIMA",
+    "CENTRE": "CHUMUKEDIMA",
+    "DISTRICT": "DIMAPUR",
+    "STATE": "NAGALAND",
+    "ADDRESS": "OKM BUILDING NH 39 4 A D LANE 5 WARD 6 CHUMUKEDIMA DIMAPUR NAGALAND 797103",
+    "CONTACT": "0221800223344",
+    "BANK": "BANK OF BARODA",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
+  },
   "BARB0CHUNAB": {
     "IFSC": "BARB0CHUNAB",
     "BRANCH": "CHUNABHATTI-MUMBAI",
@@ -21013,6 +21027,20 @@
     "NEFT": true,
     "IMPS": true
   },
+  "BARB0DHUPGU": {
+    "IFSC": "BARB0DHUPGU",
+    "BRANCH": "DHUPGURI",
+    "CENTRE": "DHUPGURI",
+    "DISTRICT": "JALPAIGURI",
+    "STATE": "WEST BENGAL",
+    "ADDRESS": "WARD 12 GHOSH PARA MORE DHUPGURI WEST BENGAL 735210",
+    "CONTACT": "0221800223344",
+    "BANK": "BANK OF BARODA",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
+  },
   "BARB0DHURIX": {
     "IFSC": "BARB0DHURIX",
     "BRANCH": "DHURI, PUNJAB",
@@ -23832,6 +23860,20 @@
     "CITY": "FEROZPUR",
     "NEFT": true,
     "IMPS": true
+  },
+  "BARB0FCSGOD": {
+    "IFSC": "BARB0FCSGOD",
+    "BRANCH": "FCS MANIPUR",
+    "CENTRE": "IMPHAL",
+    "DISTRICT": "IMPHAL",
+    "STATE": "MANIPUR",
+    "ADDRESS": "FCS GODOWN CAP AND PD DEPT SANGAIPRPU IMPHAL MANIPUR 795140",
+    "CONTACT": "0221800223344",
+    "BANK": "BANK OF BARODA",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
   },
   "BARB0FEROZP": {
     "IFSC": "BARB0FEROZP",
@@ -49256,17 +49298,16 @@
     "IMPS": true
   },
   "BARB0MIDKAN": {
+    "BANK": "BANK OF BARODA",
     "IFSC": "BARB0MIDKAN",
     "BRANCH": "MID CORPORATE , KANPUR, UP",
-    "CENTRE": "KANPUR",
-    "DISTRICT": "KANPUR",
-    "STATE": "UTTAR PRADESH",
     "ADDRESS": "7/119, SWAROOP NAGAR,NEAR ARYA NAGAR CHOWK,KANPUR,UP-208002.",
     "CONTACT": "1800223344",
-    "BANK": "BANK OF BARODA",
-    "RTGS": true,
     "CITY": "KANPUR CITY",
+    "DISTRICT": "KANPUR",
+    "STATE": "UTTAR PRADESH",
     "NEFT": true,
+    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
@@ -69610,6 +69651,20 @@
     "NEFT": true,
     "IMPS": true
   },
+  "BARB0SERBHO": {
+    "IFSC": "BARB0SERBHO",
+    "BRANCH": "CITY BACK OFFICE BHOPAL",
+    "CENTRE": "BHOPAL",
+    "DISTRICT": "BHOPAL",
+    "STATE": "MADHYA PRADESH",
+    "ADDRESS": "CITY BACK OFFICE BHOPAL PLOT NO 9 MP NAGAR ZONE 2 BHOPAL 462016",
+    "CONTACT": "0221800223344",
+    "BANK": "BANK OF BARODA",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
+  },
   "BARB0SERBOM": {
     "BANK": "BANK OF BARODA",
     "IFSC": "BARB0SERBOM",
@@ -80287,6 +80342,20 @@
     "IMPS": true,
     "MICR": null
   },
+  "BARB0VANUKU": {
+    "IFSC": "BARB0VANUKU",
+    "BRANCH": "VANUKURU",
+    "CENTRE": "VANUKURU",
+    "DISTRICT": "KRISHNA",
+    "STATE": "ANDHRA PRADESH",
+    "ADDRESS": "D NO 72 BESIDE PANCHAYAT OFFICE VANUKURU KRISHNA DISTRICT ANDHRA PRADESH 521151",
+    "CONTACT": "0221800223344",
+    "BANK": "BANK OF BARODA",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
+  },
   "BARB0VANVAL": {
     "IFSC": "BARB0VANVAL",
     "BRANCH": "VANKAL",
@@ -83106,6 +83175,20 @@
     "CITY": "EAST GODAVARI",
     "NEFT": true,
     "IMPS": true
+  },
+  "BARB0YESHWA": {
+    "IFSC": "BARB0YESHWA",
+    "BRANCH": "MARKET YARD APMC YESHWANTPUR",
+    "CENTRE": "BANGALORE",
+    "DISTRICT": "BANGALORE URBAN",
+    "STATE": "KARNATAKA",
+    "ADDRESS": "FIRST FLOOR MGB COMPLEX APMC YARD YASHWANTPUR TUMKUR ROAD BENGALURU KARNATAKA 560022",
+    "CONTACT": "0221800223344",
+    "BANK": "BANK OF BARODA",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
   },
   "BARB0YEWATX": {
     "IFSC": "BARB0YEWATX",

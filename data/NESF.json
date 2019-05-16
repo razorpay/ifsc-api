@@ -1122,6 +1122,20 @@
     "NEFT": true,
     "IMPS": true
   },
+  "NESF0000085": {
+    "IFSC": "NESF0000085",
+    "BRANCH": "TINSUKIA",
+    "CENTRE": "TINSUKIA",
+    "DISTRICT": "TINSUKIA",
+    "STATE": "ASSAM",
+    "ADDRESS": "CHIRWAPATTY,PO.TINSUKIA,PS.TINSUKIA,DIST.TINSUKIA,ASSAM-786125",
+    "CONTACT": "00",
+    "MICR": "786773202",
+    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true
+  },
   "NESF0000087": {
     "IFSC": "NESF0000087",
     "BRANCH": "SHILLONG",

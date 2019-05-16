@@ -27015,17 +27015,16 @@
     "IMPS": true
   },
   "SYNB0005092": {
+    "BANK": "SYNDICATE BANK",
     "IFSC": "SYNB0005092",
     "BRANCH": "GORASWADI MALLAD WEST",
-    "CENTRE": "MUMBAI",
-    "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA",
     "ADDRESS": "G BY 1 CANARA BANK STAFF HOUSING SOC ANAND,GORASWADI OFF SV ROAD,MALLAD WEST MUMBAI",
     "CONTACT": null,
-    "BANK": "SYNDICATE BANK",
-    "RTGS": true,
     "CITY": "MUMBAI",
+    "DISTRICT": "MUMBAI",
+    "STATE": "MAHARASHTRA",
     "NEFT": true,
+    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
@@ -35008,19 +35007,18 @@
     "IMPS": true
   },
   "SYNB0007039": {
+    "BANK": "SYNDICATE BANK",
     "IFSC": "SYNB0007039",
     "BRANCH": "MID CORPORATE BR AHMEDABAD",
-    "CENTRE": "AHMEDABAD",
-    "DISTRICT": "AHMEDABAD",
-    "STATE": "GUJARAT",
     "ADDRESS": "NEPTUNE TOWER,ASHRAM ROAD OPP NEHRU BRIDGE AHMEDABAD 380009",
     "CONTACT": "26589082",
-    "MICR": "390025007",
-    "BANK": "SYNDICATE BANK",
-    "RTGS": true,
     "CITY": "AHMADABAD",
+    "DISTRICT": "AHMEDABAD",
+    "STATE": "GUJARAT",
     "NEFT": true,
-    "IMPS": true
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "SYNB0007040": {
     "IFSC": "SYNB0007040",
@@ -56514,19 +56512,18 @@
     "IMPS": true
   },
   "SYNB0009197": {
+    "BANK": "SYNDICATE BANK",
     "IFSC": "SYNB0009197",
     "BRANCH": "MID CORPORATE DELHI",
-    "CENTRE": "MADHUBAN",
-    "DISTRICT": "MADHUBAN",
-    "STATE": "DELHI",
     "ADDRESS": "NETAJI SUBHASH PLACE NEW DELHI NEW DELHI NEW DELHI 110034",
     "CONTACT": "23384164",
-    "MICR": "110025359",
-    "BANK": "SYNDICATE BANK",
-    "RTGS": true,
     "CITY": "DELHI",
+    "DISTRICT": "MADHUBAN",
+    "STATE": "DELHI",
     "NEFT": true,
-    "IMPS": true
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "SYNB0009198": {
     "IFSC": "SYNB0009198",
@@ -60260,17 +60257,16 @@
     "MICR": null
   },
   "SYNB0009591": {
+    "BANK": "SYNDICATE BANK",
     "IFSC": "SYNB0009591",
     "BRANCH": "CAMAC ST",
-    "CENTRE": "KOLKATA",
-    "DISTRICT": "KOLKATA",
-    "STATE": "WEST BENGAL",
     "ADDRESS": "26 SHAKESPEARE SARANI CAMAC STREET WB 700017",
     "CONTACT": null,
-    "BANK": "SYNDICATE BANK",
-    "RTGS": true,
     "CITY": "KOLKATA",
+    "DISTRICT": "KOLKATA",
+    "STATE": "WEST BENGAL",
     "NEFT": true,
+    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },

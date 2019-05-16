@@ -12641,16 +12641,16 @@
     "BANK": "CORPORATION BANK",
     "IFSC": "CORP0000920",
     "BRANCH": "RTGS-HO",
-    "CENTRE": "NA",
+    "CENTRE": "MUMBAI",
     "DISTRICT": "MUMBAI",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "15, MITTAL CHAMBERS, NARIMAN POINT, MUMBAI - 400 021",
     "CONTACT": "26941563",
     "IMPS": true,
+    "MICR": "575017000",
+    "RTGS": true,
     "CITY": "MUMBAI",
-    "NEFT": true,
-    "RTGS": false,
-    "MICR": null
+    "NEFT": true
   },
   "CORP0000923": {
     "IFSC": "CORP0000923",
@@ -25110,6 +25110,20 @@
     "RTGS": true,
     "CITY": "SONIPAT",
     "NEFT": true,
+    "IMPS": true,
+    "MICR": null
+  },
+  "CORP0001895": {
+    "IFSC": "CORP0001895",
+    "BRANCH": "RLC BHUBANESWAR",
+    "CENTRE": "BHUBANESWAR",
+    "DISTRICT": "KHURDA",
+    "STATE": "ODISHA",
+    "ADDRESS": "1ST FLOOR BLOCK 4 WING 3 BMC BHAWANI ENACLAVE SAHEED NAGAR",
+    "CONTACT": "01263274028",
+    "BANK": "CORPORATION BANK",
+    "RTGS": true,
+    "NEFT": false,
     "IMPS": true,
     "MICR": null
   },

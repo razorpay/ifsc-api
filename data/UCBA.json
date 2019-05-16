@@ -46063,6 +46063,20 @@
     "NEFT": true,
     "IMPS": true
   },
+  "UCBA0003364": {
+    "IFSC": "UCBA0003364",
+    "BRANCH": "ROUSE AVENUE",
+    "CENTRE": "NEW DELHI",
+    "DISTRICT": "NEW DELHI",
+    "STATE": "DELHI",
+    "ADDRESS": "DISTRICT COURT DDU MARG CENTRAL DELHI 110002",
+    "CONTACT": "00",
+    "MICR": "110028094",
+    "BANK": "UCO BANK",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true
+  },
   "UCBA0009003": {
     "IFSC": "UCBA0009003",
     "BRANCH": "SRI AUROBINDO ASHRAM EXTENSION",
@@ -46097,15 +46111,15 @@
     "BANK": "UCO BANK",
     "IFSC": "UCBA0RRBBKG",
     "BRANCH": "BIHAR KSHETRIYA GRAMIN BANK-RRB",
-    "CENTRE": "BHAGALPUR",
+    "CENTRE": "NA",
     "DISTRICT": "MUNGHYR",
     "STATE": "BIHAR",
     "ADDRESS": "HEAD OFFICE,BHAGAT SINGH CHOWKMUNGER,BIHAR 811201",
     "CONTACT": "222055",
     "IMPS": true,
-    "RTGS": true,
     "CITY": "MUNGER",
     "NEFT": true,
+    "RTGS": false,
     "MICR": null
   },
   "UCBA0RRBPBG": {

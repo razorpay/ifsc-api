@@ -2842,12 +2842,12 @@
     "STATE": "GUJARAT",
     "ADDRESS": "ICICI BANK `AMRAPALI COMPLEX, WATER TANK ROAD, KARELIBAUG ┬á390018┬á",
     "CONTACT": null,
+    "MICR": "390229004",
     "BANK": "ICICI BANK LIMITED",
     "RTGS": true,
     "CITY": "VADODARA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ICIC0000249": {
     "IFSC": "ICIC0000249",
@@ -11947,12 +11947,12 @@
     "STATE": "HARYANA",
     "ADDRESS": "1065A/11, PROFESSOR COLONY, KURUKSHETRA ROAD, KAITHAL.136 087",
     "CONTACT": null,
+    "MICR": "136229302",
     "BANK": "ICICI BANK LIMITED",
     "RTGS": true,
     "CITY": "KAITHAL",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ICIC0000862": {
     "IFSC": "ICIC0000862",
@@ -13927,12 +13927,12 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "ICICI BANK LTD., NAHATA AGRICULTURAL FARM EQUIPMENTS, KUTCHERYCHOWK, JABALPUR ROAD, SEONI. 480661",
     "CONTACT": null,
+    "MICR": "480229101",
     "BANK": "ICICI BANK LIMITED",
     "RTGS": true,
     "CITY": "SEONI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ICIC0000994": {
     "IFSC": "ICIC0000994",
@@ -16687,12 +16687,12 @@
     "STATE": "KERALA",
     "ADDRESS": "ICICI BANK LTD., TC 20/2649, 2650, RAJALAKSHMI, KARAMANA, THIRUVANANTHAPURAM - 695002, THIRUVANANTHAPURAM DIST., KERALA.",
     "CONTACT": null,
+    "MICR": "695229007",
     "BANK": "ICICI BANK LIMITED",
     "RTGS": true,
     "CITY": "THIRUVANANTHAPURAM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ICIC0001179": {
     "IFSC": "ICIC0001179",
@@ -17077,12 +17077,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "ICICI BANK LTD., SHOP NO.1 & 2, C-WING, GREEN LAWNS APT., OPP. ST. PIUS COLLEGE, AAREY ROAD, GOREGAON EAST, MUMBAI - 400063, MAHARASHTRA",
     "CONTACT": null,
+    "MICR": "400229128",
     "BANK": "ICICI BANK LIMITED",
     "RTGS": true,
     "CITY": "GREATER BOMBAY",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ICIC0001207": {
     "IFSC": "ICIC0001207",
@@ -18847,12 +18847,12 @@
     "STATE": "BIHAR",
     "ADDRESS": "ICICI BANK LTD., VAIDYANATH COMPLEX, M.G.ROAD, NEAR SHAHID CHOWK, KATIHAR - 854105, KATIHAR DIST., BIHAR.",
     "CONTACT": null,
+    "MICR": "854229202",
     "BANK": "ICICI BANK LIMITED",
     "RTGS": true,
     "CITY": "KATIHAR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ICIC0001327": {
     "IFSC": "ICIC0001327",
@@ -20467,12 +20467,12 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "ICICI BANK LTD., SHREYANS SOGANI, STATION ROAD, ASHOK NAGAR - 473331, ASHOK NAGAR DIST., MADHYA PRADESH.",
     "CONTACT": null,
+    "MICR": "473229076",
     "BANK": "ICICI BANK LIMITED",
     "RTGS": true,
     "CITY": "ASHOK NAGAR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ICIC0001435": {
     "IFSC": "ICIC0001435",
@@ -22462,12 +22462,12 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "ICICI BANK LTD., PLOT NO. 11 ABC, KHASRA  943, MUNICIPAL NO. 18-A/8-D/15, MAUZA BASAI MUSTIQIL, SHYAM SUNDER BANSAL NAGAR, FATEHABAD ROAD, AGRA- 282001, UTTAR PRADESH",
     "CONTACT": null,
+    "MICR": "282229008",
     "BANK": "ICICI BANK LIMITED",
     "RTGS": true,
     "CITY": "AGRA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ICIC0001568": {
     "IFSC": "ICIC0001568",
@@ -48884,6 +48884,20 @@
     "NEFT": true,
     "IMPS": true
   },
+  "ICIC0003425": {
+    "IFSC": "ICIC0003425",
+    "BRANCH": "KATWA",
+    "CENTRE": "KATWA",
+    "DISTRICT": "BARDDHAMAN",
+    "STATE": "WEST BENGAL",
+    "ADDRESS": "WARD NO 18 PREMISES NO221 134D STATION BAZAR PS KATWA WB 713130",
+    "CONTACT": "00",
+    "MICR": "713229402",
+    "BANK": "ICICI BANK LIMITED",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true
+  },
   "ICIC0003426": {
     "IFSC": "ICIC0003426",
     "BRANCH": "TAIMUR NAGAR",
@@ -49406,6 +49420,20 @@
     "RTGS": true,
     "CITY": "AHMADABAD",
     "NEFT": true,
+    "IMPS": true
+  },
+  "ICIC0003464": {
+    "IFSC": "ICIC0003464",
+    "BRANCH": "ANTROLI",
+    "CENTRE": "SURAT",
+    "DISTRICT": "SURAT",
+    "STATE": "GUJARAT",
+    "ADDRESS": "ICICI BANK LTD OPP ANTROLI MANDALI TA PALSANA SURAT 394235",
+    "CONTACT": "08980027191",
+    "MICR": "395229035",
+    "BANK": "ICICI BANK LIMITED",
+    "RTGS": true,
+    "NEFT": false,
     "IMPS": true
   },
   "ICIC0003465": {
@@ -61977,6 +62005,34 @@
     "NEFT": true,
     "IMPS": true
   },
+  "ICIC0004362": {
+    "IFSC": "ICIC0004362",
+    "BRANCH": "AMTZ CAMPUS",
+    "CENTRE": "VISAKHAPATNAM",
+    "DISTRICT": "VISHAKHAPATNAM",
+    "STATE": "ANDHRA PRADESH",
+    "ADDRESS": "AMTZ CAMPUS PRAGATHI MAIDAN VM STEEL PROJECT SO VISAKHAPATNAM 530051",
+    "CONTACT": "00",
+    "MICR": "530229016",
+    "BANK": "ICICI BANK LIMITED",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true
+  },
+  "ICIC0004367": {
+    "IFSC": "ICIC0004367",
+    "BRANCH": "FEROZPORA",
+    "CENTRE": "TANGMARG",
+    "DISTRICT": "BARAMULLA",
+    "STATE": "JAMMU AND KASHMIR",
+    "ADDRESS": "FEROZPORA NEAR MASJID BILALIYA FEROZPORA TANGMARG BARAMULLA JAMMU AND KASHMIR 193402",
+    "CONTACT": "00",
+    "MICR": "193229001",
+    "BANK": "ICICI BANK LIMITED",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true
+  },
   "ICIC0004368": {
     "IFSC": "ICIC0004368",
     "BRANCH": "JEWAR",
@@ -64695,17 +64751,17 @@
   "ICIC0006252": {
     "IFSC": "ICIC0006252",
     "BRANCH": "BANGALORE - CANTONMENT┬á",
-    "CENTRE": "MYSORE",
+    "CENTRE": "BANGALORE",
     "DISTRICT": "BANGALORE",
     "STATE": "KARNATAKA",
     "ADDRESS": "125/1, DISPENSARY ROAD, CANTONMENT, BANGALORE.┬á560001┬á",
     "CONTACT": null,
+    "MICR": "560229011",
     "BANK": "ICICI BANK LIMITED",
     "RTGS": true,
     "CITY": "BANGALORE URBAN",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ICIC0006253": {
     "IFSC": "ICIC0006253",
@@ -67755,17 +67811,17 @@
   "ICIC0006560": {
     "IFSC": "ICIC0006560",
     "BRANCH": "BANGALORE K.G.",
-    "CENTRE": "RAIPUR",
+    "CENTRE": "BANGALORE",
     "DISTRICT": "BANGALORE",
     "STATE": "KARNATAKA",
     "ADDRESS": "11, RESHAM MAHAL, 2ND CROSS, K.G. ROAD, BANGALORE-560009 (KARNATAKA)",
     "CONTACT": null,
+    "MICR": "332229003",
     "BANK": "ICICI BANK LIMITED",
     "RTGS": true,
     "CITY": "BANGALORE",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ICIC0006561": {
     "IFSC": "ICIC0006561",
@@ -73545,17 +73601,17 @@
   "ICIC0006946": {
     "IFSC": "ICIC0006946",
     "BRANCH": "KOLKATA,G.C.AVENUE",
-    "CENTRE": "KOLKATA",
+    "CENTRE": " KOLKATA ",
     "DISTRICT": "KOLKATA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "6, GANESH CHANDRA AVENUE, GROUND FLOOR KOLKATA-700013 (WEST BENGAL)",
     "CONTACT": null,
+    "MICR": "700229079",
     "BANK": "ICICI BANK LIMITED",
     "RTGS": true,
     "CITY": "KOLKATA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ICIC0006947": {
     "IFSC": "ICIC0006947",
@@ -76434,6 +76490,20 @@
     "RTGS": true,
     "CITY": "PRATAPGARH",
     "NEFT": true
+  },
+  "ICIC00PSCBL": {
+    "IFSC": "ICIC00PSCBL",
+    "BRANCH": "PARASPAR SAHAYAK COOPERATIVE BANK LTD",
+    "CENTRE": "INDORE",
+    "DISTRICT": "INDORE",
+    "STATE": "MADHYA PRADESH",
+    "ADDRESS": "13 14 15 16 MTH PALIKA PLAZA II INDORE",
+    "CONTACT": "7312536762",
+    "BANK": "ICICI BANK LIMITED",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
   },
   "ICIC00PURDC": {
     "BANK": "ICICI BANK LIMITED",

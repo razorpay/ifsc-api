@@ -30472,12 +30472,12 @@
     "STATE": "PUNJAB",
     "ADDRESS": "PATIALA ROAD, OPPOSITE COURT COMPLEX, SUNAM (PUNAJB) PIN 148 028",
     "CONTACT": "222521",
+    "MICR": "148010254",
     "BANK": "ALLAHABAD BANK",
     "RTGS": true,
     "CITY": "SANGRUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ALLA0212207": {
     "IFSC": "ALLA0212207",
@@ -34516,17 +34516,17 @@
   "ALLA0212491": {
     "IFSC": "ALLA0212491",
     "BRANCH": "NICCOPARK & RESORTS BRANCH",
-    "CENTRE": "KOLKATA",
+    "CENTRE": " KOLKATA ",
     "DISTRICT": "KOLKATA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "JHEEL MEEL, HM BLOCK, SECTOR IV, KOLKATA 700016",
     "CONTACT": "40261928",
+    "MICR": "700010183",
     "BANK": "ALLAHABAD BANK",
     "RTGS": true,
     "CITY": "KOLKATA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ALLA0212492": {
     "IFSC": "ALLA0212492",
@@ -48611,6 +48611,34 @@
     "IMPS": true,
     "MICR": null
   },
+  "ALLA0213508": {
+    "IFSC": "ALLA0213508",
+    "BRANCH": "SAM LUDHIANA",
+    "CENTRE": "LUDHIANA",
+    "DISTRICT": "LUDHIANA",
+    "STATE": "PUNJAB",
+    "ADDRESS": "BXXIII, 98165, INDUSTRIAL AREA, NEAR- CHEEMA CHOWK, LUDHIANA",
+    "CONTACT": "01612224920",
+    "BANK": "ALLAHABAD BANK",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "ALLA0213509": {
+    "IFSC": "ALLA0213509",
+    "BRANCH": "SAM AHMEDABAD",
+    "CENTRE": "AHMEDABAD",
+    "DISTRICT": "AHMEDABAD",
+    "STATE": "GUJARAT",
+    "ADDRESS": "ACME CENTER, NEAR NAVRANGPURA POLICE STATION NAVRANGPURA AHMEDABAD",
+    "CONTACT": "07926464402",
+    "BANK": "ALLAHABAD BANK",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
+  },
   "ALLA0213510": {
     "IFSC": "ALLA0213510",
     "BRANCH": "STRESSED ASSET MANAGEMENT BRANCH",
@@ -48623,6 +48651,34 @@
     "RTGS": true,
     "CITY": "HYDERABAD",
     "NEFT": true,
+    "IMPS": true,
+    "MICR": null
+  },
+  "ALLA0213524": {
+    "IFSC": "ALLA0213524",
+    "BRANCH": "RMPC BHUBANESWAR",
+    "CENTRE": "BHUBANESWAR",
+    "DISTRICT": "KHURDA",
+    "STATE": "ODISHA",
+    "ADDRESS": "3/1 BIRC VILLAGE NAYAPALLI CIVIC CENTRE, BHUBANESWAR, 751015",
+    "CONTACT": "06742361123",
+    "BANK": "ALLAHABAD BANK",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "ALLA0213528": {
+    "IFSC": "ALLA0213528",
+    "BRANCH": "RMPC DEHRADUN",
+    "CENTRE": "DEHRADUN",
+    "DISTRICT": "DEHRADUN",
+    "STATE": "UTTARAKHAND",
+    "ADDRESS": "1, GANDHI ROAD, CLOCK TOWER, DEHRADUN-248001",
+    "CONTACT": "01352650575",
+    "BANK": "ALLAHABAD BANK",
+    "RTGS": true,
+    "NEFT": false,
     "IMPS": true,
     "MICR": null
   },

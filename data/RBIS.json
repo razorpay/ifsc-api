@@ -155,6 +155,20 @@
     "IMPS": true,
     "MICR": null
   },
+  "RBIS0GOBHEP": {
+    "IFSC": "RBIS0GOBHEP",
+    "BRANCH": "RBI, PATNA, GOVT OF BIHAR",
+    "CENTRE": "PATNA",
+    "DISTRICT": "PATNA",
+    "STATE": "BIHAR",
+    "ADDRESS": "RESERVE BANK OF INDIA, SOUTH GANDHI MAIDAN,\nPATNA - 800 001",
+    "CONTACT": "06122323291",
+    "BANK": "RESERVE BANK OF INDIA",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
+  },
   "RBIS0GOCGEP": {
     "IFSC": "RBIS0GOCGEP",
     "BRANCH": "RBI, RAIPUR, GOVT OF CHATTISGARH",
@@ -227,6 +241,20 @@
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
+    "IMPS": true,
+    "MICR": null
+  },
+  "RBIS0GOODEP": {
+    "IFSC": "RBIS0GOODEP",
+    "BRANCH": "RBI BHUBANESWAR GOVT OF ODHISHA",
+    "CENTRE": "BHUBANESWAR",
+    "DISTRICT": "BHUBANESHWAR",
+    "STATE": "ODISHA",
+    "ADDRESS": "RESERVE BANK OF INDIA,PT JAWAHARLAL NEHRU MARG,P.B.O.16,BHUBANESWAR 751001,ODISHA",
+    "CONTACT": "6742396702",
+    "BANK": "RBI PAD AHMEDABAD",
+    "RTGS": true,
+    "NEFT": false,
     "IMPS": true,
     "MICR": null
   },
