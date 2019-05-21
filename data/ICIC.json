@@ -3262,12 +3262,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "39, NELSON MANICKAM ROAD┬á600029┬á",
     "CONTACT": null,
+    "MICR": "600229023",
     "BANK": "ICICI BANK LIMITED",
     "RTGS": true,
     "CITY": "CHENNAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ICIC0000277": {
     "IFSC": "ICIC0000277",
@@ -7402,12 +7402,12 @@
     "STATE": "KARNATAKA",
     "ADDRESS": "ICICI BANK LTD., INFOSYS TECHNOLOGIES LTD., INFOSYS MANGALA, KULUR FERRY ROAD, KOTTARA, MANGALORE.  575006.",
     "CONTACT": null,
+    "MICR": "575229005",
     "BANK": "ICICI BANK LIMITED",
     "RTGS": true,
     "CITY": "DAKSHIN KANNAD",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ICIC0000558": {
     "IFSC": "ICIC0000558",
@@ -21422,17 +21422,17 @@
   "ICIC0001498": {
     "IFSC": "ICIC0001498",
     "BRANCH": "ASIKA, ORISSA",
-    "CENTRE": "ASKA",
+    "CENTRE": " ASKA ",
     "DISTRICT": "ASKA",
     "STATE": "ODISHA",
     "ADDRESS": "ICICI BANK LTD., SATYANARAYAN TEMPLE COMPLEX, LAXMI BAZAAR, ASIKA -761110, DISTRICT-GANJAM, ORISSA.",
     "CONTACT": null,
+    "MICR": "761229202",
     "BANK": "ICICI BANK LIMITED",
     "RTGS": true,
     "CITY": "GANJAM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ICIC0001499": {
     "IFSC": "ICIC0001499",
@@ -62019,6 +62019,20 @@
     "NEFT": false,
     "IMPS": true
   },
+  "ICIC0004365": {
+    "IFSC": "ICIC0004365",
+    "BRANCH": "NEW ALKAPURI",
+    "CENTRE": "VADODARA",
+    "DISTRICT": "VADODARA",
+    "STATE": "GUJARAT",
+    "ADDRESS": "33 34 LOTUS ELITE GOTRI SEVASI ROAD NEW ALKAPURI VADODARA.GUJARAT 390021",
+    "CONTACT": "919898013569",
+    "MICR": "390229022",
+    "BANK": "ICICI BANK LIMITED",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true
+  },
   "ICIC0004367": {
     "IFSC": "ICIC0004367",
     "BRANCH": "FEROZPORA",
@@ -62046,6 +62060,34 @@
     "RTGS": true,
     "CITY": "GAUTAM BUDDHA NAGAR",
     "NEFT": true,
+    "IMPS": true
+  },
+  "ICIC0004377": {
+    "IFSC": "ICIC0004377",
+    "BRANCH": "WAGHODIA",
+    "CENTRE": "VADODARA",
+    "DISTRICT": "VADODARA",
+    "STATE": "GUJARAT",
+    "ADDRESS": "GROUND FLOOR 34 UDAY NAGAR OPP RELIANCE PETROL PUMP VADODARA 390019",
+    "CONTACT": "919372737356",
+    "MICR": "390229023",
+    "BANK": "ICICI BANK LIMITED",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true
+  },
+  "ICIC0004385": {
+    "IFSC": "ICIC0004385",
+    "BRANCH": "CBIT GANDIPET",
+    "CENTRE": "HYDERABAD",
+    "DISTRICT": "HYDERABAD",
+    "STATE": "TELANGANA",
+    "ADDRESS": "ICICI BANK LTD SY NO 351 CBIT CAMPUS GANDIPET KOKAPET VLG HYDERABAD 500075",
+    "CONTACT": "91808503273",
+    "MICR": "500229104",
+    "BANK": "ICICI BANK LIMITED",
+    "RTGS": true,
+    "NEFT": false,
     "IMPS": true
   },
   "ICIC0006003": {
@@ -68516,17 +68558,17 @@
   "ICIC0006607": {
     "IFSC": "ICIC0006607",
     "BRANCH": "ERODE",
-    "CENTRE": "ERODE",
+    "CENTRE": " ERODE ",
     "DISTRICT": "ERODE",
     "STATE": "TAMIL NADU",
     "ADDRESS": "SRI SAI PLAZA, 89 RKV ROAD, ERODE-638003 (TN)",
     "CONTACT": null,
+    "MICR": "638229009",
     "BANK": "ICICI BANK LIMITED",
     "RTGS": true,
     "CITY": "ERODE",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ICIC0006608": {
     "IFSC": "ICIC0006608",

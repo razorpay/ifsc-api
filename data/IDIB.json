@@ -7909,6 +7909,48 @@
     "NEFT": false,
     "IMPS": true
   },
+  "IDIB000C188": {
+    "IFSC": "IDIB000C188",
+    "BRANCH": "CORPORATE BRANCH CHENNAI",
+    "CENTRE": "CHENNAI",
+    "DISTRICT": "CHENNAI",
+    "STATE": "TAMIL NADU",
+    "ADDRESS": "2ND FLOOR,NO.480,ANNA SALAI,NANDANAN CHENNAI-600035",
+    "CONTACT": "00",
+    "MICR": "600019281",
+    "BANK": "INDIAN BANK",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true
+  },
+  "IDIB000C189": {
+    "IFSC": "IDIB000C189",
+    "BRANCH": "CORPORATE BRANCH MUMBAI",
+    "CENTRE": "MUMBAI",
+    "DISTRICT": "MUMBAI",
+    "STATE": "MAHARASHTRA",
+    "ADDRESS": "210 MITTAL TOWER,B WING GROUND FLOOR,NARIMAN POINT,MUMBAI-400021",
+    "CONTACT": "00",
+    "BANK": "INDIAN BANK",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "IDIB000C190": {
+    "IFSC": "IDIB000C190",
+    "BRANCH": "CORPORATE BRANCH NEW DELHI",
+    "CENTRE": "DELHI",
+    "DISTRICT": "DELHI",
+    "STATE": "DELHI",
+    "ADDRESS": "2ST FLLOT G41,CANNUGHT CIRCUS CANNAUGHT PLACE EW DELHI-1210001",
+    "CONTACT": "00",
+    "MICR": "110019123",
+    "BANK": "INDIAN BANK",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true
+  },
   "IDIB000D001": {
     "IFSC": "IDIB000D001",
     "BRANCH": "DADAR",
@@ -25920,12 +25962,12 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "4/201-202 NAWABPET 524002",
     "CONTACT": null,
+    "MICR": "524019003",
     "BANK": "INDIAN BANK",
     "RTGS": true,
     "CITY": "NELLORE",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDIB000N084": {
     "IFSC": "IDIB000N084",
@@ -31789,12 +31831,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "31B EAST STREET RAJADHANI ANDIPATTI (TALUK) THENI 625512",
     "CONTACT": null,
+    "MICR": "625019040",
     "BANK": "INDIAN BANK",
     "RTGS": true,
     "CITY": "THENI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDIB000R043": {
     "IFSC": "IDIB000R043",
@@ -39632,6 +39674,20 @@
     "NEFT": false,
     "IMPS": true
   },
+  "IDIB000T203": {
+    "IFSC": "IDIB000T203",
+    "BRANCH": "TADIPATRI",
+    "CENTRE": "TADPATRI",
+    "DISTRICT": "ANANTHAPUR",
+    "STATE": "ANDHRA PRADESH",
+    "ADDRESS": "4 688 A KARINJAVAARI STREET OPP TOWN POLICE STATION TADIPATRI",
+    "CONTACT": "08558221630",
+    "MICR": "515019003",
+    "BANK": "INDIAN BANK",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true
+  },
   "IDIB000U001": {
     "IFSC": "IDIB000U001",
     "BRANCH": "UDAYENDRAM",
@@ -42329,6 +42385,20 @@
     "RTGS": true,
     "CITY": "MYSORE",
     "NEFT": true,
+    "IMPS": true
+  },
+  "IDIB000V156": {
+    "IFSC": "IDIB000V156",
+    "BRANCH": "VEDAYAPALEM",
+    "CENTRE": "VEDAYAPALEM",
+    "DISTRICT": "SPSR NELLORE",
+    "STATE": "ANDHRA PRADESH",
+    "ADDRESS": "D NO 2147/1 NEAR AYYAPPA TEMPLE VEDAYAPALEM AK NAGAR SPSR NELLORE",
+    "CONTACT": "08612300777",
+    "MICR": "524019006",
+    "BANK": "INDIAN BANK",
+    "RTGS": true,
+    "NEFT": false,
     "IMPS": true
   },
   "IDIB000V157": {
