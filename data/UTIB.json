@@ -61173,20 +61173,6 @@
     "NEFT": false,
     "IMPS": true
   },
-  "UTIB0004243": {
-    "IFSC": "UTIB0004243",
-    "BRANCH": "PUTTAPARTHI",
-    "CENTRE": "PUTTAPARTHI",
-    "DISTRICT": "ANANTAPUR",
-    "STATE": "ANDHRA PRADESH",
-    "ADDRESS": "SRI SATHYA SAI CENTRAL TRUST BLDG SNO 46 MAIN RD YENUMALAPALLY VIL PUTTAPARTHI ANANTAPUR DT 515134",
-    "CONTACT": "8668469318",
-    "MICR": "515211006",
-    "BANK": "AXIS BANK",
-    "RTGS": true,
-    "NEFT": false,
-    "IMPS": true
-  },
   "UTIB0004244": {
     "IFSC": "UTIB0004244",
     "BRANCH": "JP NAGAR",
@@ -61577,7 +61563,6 @@
     "NEFT": true
   },
   "UTIB0CCH274": {
-    "BANK": "AXIS BANK",
     "IFSC": "UTIB0CCH274",
     "BRANCH": "CENTRALISED COLLECTION HUB",
     "CENTRE": "MUMBAI",
@@ -61585,10 +61570,11 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "5TH FLOOR, GIGAPLEX, AIROLI KNOWLEDGE PARK,AIROLI",
     "CONTACT": null,
-    "IMPS": true,
+    "BANK": "AXIS BANK",
     "RTGS": true,
     "CITY": "GREATER MUMBAI",
     "NEFT": true,
+    "IMPS": true,
     "MICR": null
   },
   "UTIB0CSCB22": {

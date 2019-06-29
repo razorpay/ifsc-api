@@ -35414,17 +35414,16 @@
     "MICR": null
   },
   "CNRB0002577": {
+    "BANK": "CANARA BANK",
     "IFSC": "CNRB0002577",
     "BRANCH": "NATIONAL STOCK EXCHANGE,  NEW DELHI",
-    "CENTRE": "DELHI",
-    "DISTRICT": "DELHI",
-    "STATE": "DELHI",
     "ADDRESS": "H 54, CAUNNAUGHT CIRCUS, NEW DELHI - 110 001",
     "CONTACT": "23752036",
-    "BANK": "CANARA BANK",
-    "RTGS": true,
     "CITY": "DELHI",
+    "DISTRICT": "DELHI",
+    "STATE": "DELHI",
     "NEFT": true,
+    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },

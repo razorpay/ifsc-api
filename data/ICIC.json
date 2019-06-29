@@ -1552,12 +1552,12 @@
     "STATE": "CHANDIGARH",
     "ADDRESS": "ICICI Bank Ltd, Gore Parisar, Behind Raj Bhavan, Civil Lines, Raipur 492001",
     "CONTACT": null,
-    "MICR": "492229002",
     "BANK": "ICICI BANK LIMITED",
     "RTGS": true,
     "CITY": "RAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "MICR": null
   },
   "ICIC0000162": {
     "IFSC": "ICIC0000162",
@@ -1882,12 +1882,12 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "1-11-256, STREET NO 1, BEGUMPET, HYDERABAD.┬á500016┬á",
     "CONTACT": null,
-    "MICR": "500229012",
     "BANK": "ICICI BANK LIMITED",
     "RTGS": true,
     "CITY": "HYDERABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "MICR": null
   },
   "ICIC0000184": {
     "IFSC": "ICIC0000184",
@@ -3367,12 +3367,12 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "ICICI BANK LTD, , SHOP NO - 7, 8, 9 & 10, CENTRE POINT, NEW MARKET, BHOPAL - 462003, MADHYA PRADESH.",
     "CONTACT": null,
-    "MICR": "462229003",
     "BANK": "ICICI BANK LIMITED",
     "RTGS": true,
     "CITY": "BHOPAL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "MICR": null
   },
   "ICIC0000284": {
     "IFSC": "ICIC0000284",
