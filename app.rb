@@ -2,9 +2,31 @@ require 'sinatra'
 require 'redis'
 require 'thin'
 require 'json'
+require 'ifsc'
 require './metrics'
 require 'sinatra/json'
 require 'secure_headers'
+
+
+class IFSCPlus < Razorpay::IFSC::IFSC
+  # Returns a 4 character known code for a bank
+  # TODO: Move this method to the ifsc.rb script
+  # in next release
+  public
+  class << self
+    def get_bank_code(code)
+      sublet_code = sublet_data[code]
+      regular_code = code[0..3].upcase
+
+      custom_sublet_data.each do |prefix, value|
+        if prefix == code[0..prefix.length - 1] and value.length == 4
+          return value
+        end
+      end
+      sublet_code || regular_code
+    end
+  end
+end
 
 configure do
   use SecureHeaders::Middleware
@@ -33,20 +55,14 @@ configure do
   end
   set :redis, Redis.new
   set :server, 'thin'
-  set :bank_names, JSON.parse(File.read('data/banknames.json'))
-  set :sublet_list, JSON.parse(File.read('data/sublet.json'))
   set :metrics, Metrics.new
 end
 
 helpers do
   def bank_details(branch)
-    bank_code = if settings.sublet_list.key? branch
-                  settings.sublet_list[branch]
-                else
-                  branch[0...4]
-                end
+    bank_code = IFSCPlus.get_bank_code(branch)
 
-    [settings.bank_names[bank_code], bank_code]
+    [IFSCPlus.bank_name_for(branch), bank_code]
   end
 
   def strtobool(str)
