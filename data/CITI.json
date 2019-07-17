@@ -292,12 +292,12 @@
     "STATE": "WEST BENGAL",
     "ADDRESS": "CITIBANK NA  9, BRABOURNE ROAD, GROUND FLOOR, KOLKATA-700001",
     "CONTACT": "9830201311",
+    "MICR": "700037003",
     "BANK": "CITI BANK",
     "RTGS": true,
     "CITY": "KOLKATA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CITI0000029": {
     "IFSC": "CITI0000029",

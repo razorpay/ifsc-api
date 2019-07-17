@@ -69,6 +69,20 @@
     "IMPS": true,
     "MICR": null
   },
+  "RBIS0CBICER": {
+    "IFSC": "RBIS0CBICER",
+    "BRANCH": "RBI MUMBAI",
+    "CENTRE": "MUMBAI",
+    "DISTRICT": "MUMBAI",
+    "STATE": "MAHARASHTRA",
+    "ADDRESS": "MAIN BUILDING ,SHAHID BHAGAT SINGH MARG, MUMBAI 400001",
+    "CONTACT": "02222704715",
+    "BANK": "RESERVE BANK OF INDIA",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
+  },
   "RBIS0CGPA01": {
     "BANK": "RESERVE BANK OF INDIA, PAD",
     "IFSC": "RBIS0CGPA01",
@@ -318,6 +332,20 @@
     "IMPS": true,
     "MICR": null
   },
+  "RBIS0GOWBEP": {
+    "IFSC": "RBIS0GOWBEP",
+    "BRANCH": "RBI, KOLKATA, GOVT OF WEST BENGAL",
+    "CENTRE": "KOLKATA",
+    "DISTRICT": "KOLKATA",
+    "STATE": "WEST BENGAL",
+    "ADDRESS": "15, NETAJI SUBHAS ROAD, KOLKATA-700 001",
+    "CONTACT": "03322303299",
+    "BANK": "RBI PAD, AHMEDABAD",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
+  },
   "RBIS0GSTPMT": {
     "IFSC": "RBIS0GSTPMT",
     "BRANCH": "RBI NEFT RTGS GST COLLECTION",
@@ -512,6 +540,20 @@
     "STATE": "MAHARASHTRA",
     "NEFT": true,
     "RTGS": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "RBIS0NTRPER": {
+    "IFSC": "RBIS0NTRPER",
+    "BRANCH": "RBI MUMBAI",
+    "CENTRE": "MUMBAI",
+    "DISTRICT": "MUMBAI",
+    "STATE": "MAHARASHTRA",
+    "ADDRESS": "MAIN BUILDING ,SHAHID BHAGAT SINGH MARG, MUMBAI 400001",
+    "CONTACT": "02222704715",
+    "BANK": "RESERVE BANK OF INDIA",
+    "RTGS": true,
+    "NEFT": false,
     "IMPS": true,
     "MICR": null
   },

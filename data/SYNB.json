@@ -24720,6 +24720,20 @@
     "NEFT": true,
     "IMPS": true
   },
+  "SYNB0004337": {
+    "IFSC": "SYNB0004337",
+    "BRANCH": "ZO, ERNAKULAM",
+    "CENTRE": "ERNAKULAM",
+    "DISTRICT": "ERNAKULAM",
+    "STATE": "KERALA",
+    "ADDRESS": "MG ROAD METRO STATION METRO BUILDING,THIRD FLOOR MG ROAD,ERNAKULAM ERNAKULAM KERALA INDIA 682035",
+    "CONTACT": "04842360035",
+    "BANK": "SYNDICATE BANK",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
+  },
   "SYNB0004350": {
     "IFSC": "SYNB0004350",
     "BRANCH": "KOTTAYAM",
@@ -27313,6 +27327,20 @@
     "NEFT": true,
     "IMPS": true
   },
+  "SYNB0005138": {
+    "IFSC": "SYNB0005138",
+    "BRANCH": "RO AURANGABAD",
+    "CENTRE": "AURANGABAD",
+    "DISTRICT": "AURANGABAD",
+    "STATE": "MAHARASHTRA",
+    "ADDRESS": "SYNDICATE BANK REGIONAL OFFICE PLOT NO-4,NATHASHREE N-9M-SECTOR,CIDCO,AURANGABAD MAHARASHTRA",
+    "CONTACT": "02402383266",
+    "BANK": "SYNDICATE BANK",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
+  },
   "SYNB0005140": {
     "IFSC": "SYNB0005140",
     "BRANCH": "GONDIA",
@@ -28964,19 +28992,18 @@
     "IMPS": true
   },
   "SYNB0005383": {
+    "BANK": "SYNDICATE BANK",
     "IFSC": "SYNB0005383",
     "BRANCH": "ASOLI",
-    "CENTRE": "DIST SINDHUDURG",
-    "DISTRICT": "DIST SINDHUDURG",
-    "STATE": "MAHARASHTRA",
     "ADDRESS": "GHADIWADI ASOLI TAL VENGURLA DIST SINDHUDURG MAHARASHTRA 416518",
     "CONTACT": null,
-    "MICR": "416025508",
-    "BANK": "SYNDICATE BANK",
-    "RTGS": true,
     "CITY": "DIST SINDHUDURG",
+    "DISTRICT": "DIST SINDHUDURG",
+    "STATE": "MAHARASHTRA",
     "NEFT": true,
-    "IMPS": true
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "SYNB0005384": {
     "IFSC": "SYNB0005384",
@@ -43823,6 +43850,20 @@
     "IMPS": true,
     "MICR": null
   },
+  "SYNB0008166": {
+    "IFSC": "SYNB0008166",
+    "BRANCH": "BASTI DANISHMANDA JALANDHAR",
+    "CENTRE": "JALANDHAR",
+    "DISTRICT": "JALANDHAR",
+    "STATE": "PUNJAB",
+    "ADDRESS": "2 EKTA VIHAR,BASTI DANISHMANDA JALANDHAR,PUNJAB 144002 JALANDHAR PUNJAB INDIA 144002",
+    "CONTACT": "016124915000",
+    "BANK": "SYNDICATE BANK",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
+  },
   "SYNB0008167": {
     "IFSC": "SYNB0008167",
     "BRANCH": "JHANDE",
@@ -44030,6 +44071,20 @@
     "RTGS": true,
     "CITY": "YAMUNANAGAR",
     "NEFT": true,
+    "IMPS": true,
+    "MICR": null
+  },
+  "SYNB0008187": {
+    "IFSC": "SYNB0008187",
+    "BRANCH": "RO, PANIPAT",
+    "CENTRE": "PANIPAT",
+    "DISTRICT": "PANIPAT",
+    "STATE": "HARYANA",
+    "ADDRESS": "SYNDICATE BANK REGIONAL OFFICE SECTOR 13/17,NEAR MAHILA POLICE STN PANIPAT PANIPAT HARYANA INDIA 132103",
+    "CONTACT": "01802644101",
+    "BANK": "SYNDICATE BANK",
+    "RTGS": true,
+    "NEFT": false,
     "IMPS": true,
     "MICR": null
   },
@@ -53126,17 +53181,17 @@
   "SYNB0008903": {
     "IFSC": "SYNB0008903",
     "BRANCH": "UNA",
-    "CENTRE": "SUNDAR NAGAR",
+    "CENTRE": "UNA",
     "DISTRICT": "UNA",
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "PALIKA BAZAR PHASE 2 NANGAL ROAD NEAR INDIRA STADIUM UNA DIST UNA H P 174303",
     "CONTACT": null,
+    "MICR": "174025102",
     "BANK": "SYNDICATE BANK",
     "RTGS": true,
     "CITY": "UNA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SYNB0008904": {
     "IFSC": "SYNB0008904",
@@ -53156,17 +53211,17 @@
   "SYNB0008905": {
     "IFSC": "SYNB0008905",
     "BRANCH": "MANDI",
-    "CENTRE": "BADDI",
+    "CENTRE": "MANDI",
     "DISTRICT": "MANDI",
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "DOOR NO 2 BY 11,LAL BHAWAN WARD NO 11,MAIN BAZAR MANDI 175001",
     "CONTACT": null,
+    "MICR": "175025102",
     "BANK": "SYNDICATE BANK",
     "RTGS": true,
     "CITY": "MANDI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SYNB0008907": {
     "IFSC": "SYNB0008907",
@@ -53441,17 +53496,17 @@
   "SYNB0008931": {
     "IFSC": "SYNB0008931",
     "BRANCH": "DHARAMSHALA",
-    "CENTRE": "DELHI",
+    "CENTRE": "KANGRA",
     "DISTRICT": "KANGRA",
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "MAIN SQUARE KOTWALI BAZAR JAURA BLDG DIST KANGRA,DHARAMSHALA 176215",
     "CONTACT": null,
+    "MICR": "176025052",
     "BANK": "SYNDICATE BANK",
     "RTGS": true,
     "CITY": "KANGRA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SYNB0008932": {
     "IFSC": "SYNB0008932",
@@ -56582,6 +56637,20 @@
     "RTGS": true,
     "CITY": "DELHI",
     "NEFT": true,
+    "IMPS": true,
+    "MICR": null
+  },
+  "SYNB0009209": {
+    "IFSC": "SYNB0009209",
+    "BRANCH": "RO, DELHI III",
+    "CENTRE": "NEW DELHI",
+    "DISTRICT": "NEW DELHI",
+    "STATE": "DELHI",
+    "ADDRESS": "SYNDICATE BANK REGIONAL OFFICE SAROJINI HOUSE IIND FLLOR 6 BHAGWAN DAS ROAD,NEW DELHI INDIA 110002",
+    "CONTACT": "01123383140",
+    "BANK": "SYNDICATE BANK",
+    "RTGS": true,
+    "NEFT": false,
     "IMPS": true,
     "MICR": null
   },
@@ -60420,6 +60489,20 @@
     "IMPS": true,
     "MICR": null
   },
+  "SYNB0009610": {
+    "IFSC": "SYNB0009610",
+    "BRANCH": "ARNIKWALA SHEIKH SUBHAN",
+    "CENTRE": "FAZILKA",
+    "DISTRICT": "FEROZPUR",
+    "STATE": "PUNJAB",
+    "ADDRESS": "973,WARD NO 06,SHEIKH SUBHAN FAZILKA,PUNJAB 152124 FAZILKA PUNJAB INDIA 152124",
+    "CONTACT": "016124915000",
+    "BANK": "SYNDICATE BANK",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
+  },
   "SYNB0009613": {
     "IFSC": "SYNB0009613",
     "BRANCH": "ANAND NAGAR PATIALA",
@@ -60509,6 +60592,20 @@
     "CITY": "ALLAHABAD",
     "NEFT": true,
     "IMPS": true
+  },
+  "SYNB0009631": {
+    "IFSC": "SYNB0009631",
+    "BRANCH": "RO LUCKNOW II",
+    "CENTRE": "LUCKNOW",
+    "DISTRICT": "LUCKNOW",
+    "STATE": "UTTAR PRADESH",
+    "ADDRESS": "3RD FLOOR,HALWASIYA COURT,HAZRATGANJ,LUCKNOW,UP 226001",
+    "CONTACT": "05222201364",
+    "BANK": "SYNDICATE BANK",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
   },
   "SYNB0009641": {
     "IFSC": "SYNB0009641",

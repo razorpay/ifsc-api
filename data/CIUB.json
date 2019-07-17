@@ -7,12 +7,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "19,MAHALAKSHMI STREET,CHENNAI600017",
     "CONTACT": "24340010",
+    "MICR": "600054003",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "CHENNAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000002": {
     "IFSC": "CIUB0000002",
@@ -22,12 +22,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "16091611,SOUTH MAIN STREET,THANJAVUR613009",
     "CONTACT": "230943",
+    "MICR": "613054002",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "THANJAVUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000003": {
     "IFSC": "CIUB0000003",
@@ -52,12 +52,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "149 BIG STREET,KUMBAKONAM MAIN612001",
     "CONTACT": "2421058",
+    "MICR": "612054002",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "THANJAVUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000005": {
     "IFSC": "CIUB0000005",
@@ -112,12 +112,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "MUTHU SHOPPING COMPLEX, GROUND FLOOR, 84 MARKET ROAD, VIJAYPURAM - 610 001",
     "CONTACT": "223197",
+    "MICR": "610054002",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "TIRUVARUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000009": {
     "IFSC": "CIUB0000009",
@@ -377,17 +377,17 @@
   "CIUB0000026": {
     "IFSC": "CIUB0000026",
     "BRANCH": "MANAPPARAI",
-    "CENTRE": "Manapparai",
+    "CENTRE": "MANAPPARAI",
     "DISTRICT": "MANAPPARAI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "GROUND FLOOR, NO.115 NEW ST, MANAPPARAI- 612 306",
     "CONTACT": "260649",
+    "MICR": "620054006",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "TIRUCHIRAPALLI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000027": {
     "IFSC": "CIUB0000027",
@@ -397,12 +397,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "GR.FL,NO.70,TAMIL SANGAM ROAD,MADURAI625001",
     "CONTACT": "2348886",
+    "MICR": "625054002",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "MADURAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000028": {
     "IFSC": "CIUB0000028",
@@ -412,27 +412,27 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "22BY23,CHATRAM STREET UPSTAIRDINDIGUL624001",
     "CONTACT": "2434487",
+    "MICR": "625054005",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "DINDIGUL",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000029": {
     "IFSC": "CIUB0000029",
     "BRANCH": "KEELAPALUVUR",
-    "CENTRE": "KEELPULIYUR",
+    "CENTRE": "KEELAPALUVUR",
     "DISTRICT": "KEELAPALUVUR",
     "STATE": "TAMIL NADU",
     "ADDRESS": "TRICHY-CHIDAMBARAM MAIN ROAD, KEELAPALUR - 621 707",
     "CONTACT": "247221",
+    "MICR": "621054003",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "ARIYALUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000030": {
     "IFSC": "CIUB0000030",
@@ -542,17 +542,17 @@
   "CIUB0000037": {
     "IFSC": "CIUB0000037",
     "BRANCH": "PATTUKOTTAI",
-    "CENTRE": "Pattukottai",
+    "CENTRE": "PATTUKOTTAI",
     "DISTRICT": "PATTUKOTTAI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "42 BY A FIRST FLOOR, THALAYARI STREET, PATTUKOTTAI - 614 601",
     "CONTACT": "252293",
+    "MICR": "600054004",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "THANJAVUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000038": {
     "IFSC": "CIUB0000038",
@@ -577,12 +577,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "22,NETHAJI ROAD,CUDDALORE607001",
     "CONTACT": "230467",
+    "MICR": "622054002",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "CUDDALORE",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000040": {
     "IFSC": "CIUB0000040",
@@ -592,12 +592,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "T S NO 3182,NELLUMANDI STREET,PUDUKKOTTAI622001",
     "CONTACT": "267133",
+    "MICR": "605054005",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "PUDUKKOTTAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000041": {
     "IFSC": "CIUB0000041",
@@ -622,12 +622,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "96,98,100,ARUNACHALA ACHARI STREET,SALEM636001",
     "CONTACT": "260134",
+    "MICR": "600054006",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "SALEM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000043": {
     "IFSC": "CIUB0000043",
@@ -712,12 +712,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "I FLOOR,DOOR NO.10,NORTH CAR STREET,TIRUNELVELI627006",
     "CONTACT": "337349",
+    "MICR": "600054005",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "TIRUNELVELI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000049": {
     "IFSC": "CIUB0000049",
@@ -727,12 +727,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "706,MOUNT ROAD,MOUNT ROADCHENNAI600006",
     "CONTACT": "28297321",
+    "MICR": "630054002",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "CHENNAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000050": {
     "IFSC": "CIUB0000050",
@@ -787,12 +787,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "NO1638,AVANASHI ROAD,B R PURAMVILANKURICHI CBE641004",
     "CONTACT": "2574191",
+    "MICR": "560054002",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "COIMBATORE",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000054": {
     "IFSC": "CIUB0000054",
@@ -997,12 +997,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "NO 26,I MAIN ROAD,SAYEE NAGARCHINMAYA NAGARCHENNAI600111",
     "CONTACT": "24871953",
+    "MICR": "612054007",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "CHENNAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000068": {
     "IFSC": "CIUB0000068",
@@ -1127,17 +1127,17 @@
   "CIUB0000076": {
     "IFSC": "CIUB0000076",
     "BRANCH": "SECUNDERABAD",
-    "CENTRE": "SECUNDERABAD CANTONMENT",
+    "CENTRE": "SECUNDERABAD",
     "DISTRICT": "SECUNDERABAD",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "5494,M. G. ROAD,SECUNDERABADANDHRAPRADESH500003",
     "CONTACT": "27544334",
+    "MICR": "626054102",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "HYDERABAD",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000077": {
     "IFSC": "CIUB0000077",
@@ -1252,12 +1252,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "1FL.JAINS ARCADE,402. 14TH ROAD,CHUIM VILLAGE,KHAR WEST,MUMBAI400052",
     "CONTACT": "26463047",
+    "MICR": "682054002",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000085": {
     "IFSC": "CIUB0000085",
@@ -1267,27 +1267,27 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "103 A BY 56 IST FLOOR,V. E. ROAD,TUTICORIN,626002",
     "CONTACT": "2321343",
+    "MICR": "605054002",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "TOOTHUKUDI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000086": {
     "IFSC": "CIUB0000086",
     "BRANCH": "ERNAKULAM",
-    "CENTRE": "KOCHI",
+    "CENTRE": "ERNAKULAM",
     "DISTRICT": "ERNAKULAM",
     "STATE": "KERALA",
     "ADDRESS": "RAM-MEENA BUILDINGS,1848F,39TH DIVISION,VALANJAMBALAM JUNCTION,S A ROAD,ERNAKULAM,ERNAKULAM-682016",
     "CONTACT": "2353383",
+    "MICR": "636054008",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "ERNAKULAM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000087": {
     "IFSC": "CIUB0000087",
@@ -1337,17 +1337,17 @@
   "CIUB0000090": {
     "IFSC": "CIUB0000090",
     "BRANCH": "VIRUDUNAGAR",
-    "CENTRE": "MADURAI",
+    "CENTRE": "VIRUDHUNAGAR",
     "DISTRICT": "VIRUDHUNAGAR",
     "STATE": "TAMIL NADU",
     "ADDRESS": "DOOR NO.133,MADURAI RD.,VIRUDHUNAGAR626001",
     "CONTACT": "243962",
+    "MICR": "638054004",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "VIRUDHUNAGAR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000091": {
     "IFSC": "CIUB0000091",
@@ -1402,12 +1402,12 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "15BY36B IST FLOOR,PARK ROAD,GUDIVADA521301",
     "CONTACT": "243571",
+    "MICR": "689054002",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "KRISHNA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000095": {
     "IFSC": "CIUB0000095",
@@ -1442,17 +1442,17 @@
   "CIUB0000097": {
     "IFSC": "CIUB0000097",
     "BRANCH": "SOMANUR",
-    "CENTRE": "Somanur",
+    "CENTRE": "SOMANUR",
     "DISTRICT": "SOMANUR",
     "STATE": "TAMIL NADU",
     "ADDRESS": "1 FLOOR S.F NO.187, KARUMATHAMPATTI MAIN ROAD, SOMANUR - 641 668",
     "CONTACT": "2332993",
+    "MICR": "641054103",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "COIMBATORE",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000098": {
     "IFSC": "CIUB0000098",
@@ -1517,17 +1517,17 @@
   "CIUB0000102": {
     "IFSC": "CIUB0000102",
     "BRANCH": "NEW DELHI",
-    "CENTRE": "DELHI",
+    "CENTRE": "NEW DELHI",
     "DISTRICT": "NEW DELHI",
     "STATE": "DELHI",
     "ADDRESS": "1ST FL 18BY7,ARYA SAMAJ RD,KAROL BAGH,NEW DELHI110005",
     "CONTACT": "25788696",
+    "MICR": "600054008",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "DELHI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000103": {
     "IFSC": "CIUB0000103",
@@ -1577,17 +1577,17 @@
   "CIUB0000106": {
     "IFSC": "CIUB0000106",
     "BRANCH": "VISAKAPATNAM",
-    "CENTRE": "VISAKHAPATNAM",
+    "CENTRE": "VISHAKHAPATNAM",
     "DISTRICT": "VISHAKHAPATNAM",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "301239 FLOORI, MAIN ROAD,DABA GARDENS,VISHAKAPATNAM530020",
     "CONTACT": "2575772",
+    "MICR": "390054002",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "VISHAKHAPATNAM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000107": {
     "IFSC": "CIUB0000107",
@@ -1612,27 +1612,27 @@
     "STATE": "GUJARAT",
     "ADDRESS": "33,SAMPATRAO COLONY,ALKAPURI,VADODARA390005",
     "CONTACT": "2330292",
+    "MICR": "700054002",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "VADODARA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000109": {
     "IFSC": "CIUB0000109",
     "BRANCH": "KORAMANGALA BANGALORE",
-    "CENTRE": "BANGALORE",
+    "CENTRE": "BENGALURU",
     "DISTRICT": "BENGALURU",
     "STATE": "KARNATAKA",
     "ADDRESS": "75,INDUSTRIAL ESTATE LAYOUT,BANGALORE PO.,KORAMANGALA560095",
     "CONTACT": "25630439",
+    "MICR": "411054002",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "BENGALURU URBAN",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000110": {
     "IFSC": "CIUB0000110",
@@ -1672,12 +1672,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "NO.204,PURASAWALKAM HIGH RD,CHENNAIPO. PURASAWALKAM600007",
     "CONTACT": "26615817",
+    "MICR": "626054002",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "CHENNAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000113": {
     "IFSC": "CIUB0000113",
@@ -1687,12 +1687,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "46,Ground Floor, 1st Avenue, Near Chinthamani, Anna Nagar East, Chennai 600102",
     "CONTACT": "26191120",
+    "MICR": "620054003",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "CHENNAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000114": {
     "IFSC": "CIUB0000114",
@@ -1747,12 +1747,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "NO.19A,SIVASHANMUGAM ROAD,TAMBARAM WEST,TAMBARAM600045",
     "CONTACT": "22265220",
+    "MICR": "572054002",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "KANCHEEPURAM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000118": {
     "IFSC": "CIUB0000118",
@@ -1762,12 +1762,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "NO.9,SECOND EAST ST.,KAMARAJ NAGAR,THIRUVANMIYUR,CHENNAI600041",
     "CONTACT": "24423873",
+    "MICR": "533054102",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "CHENNAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000119": {
     "IFSC": "CIUB0000119",
@@ -1787,17 +1787,17 @@
   "CIUB0000120": {
     "IFSC": "CIUB0000120",
     "BRANCH": "RAJAHMUNDRY",
-    "CENTRE": "RAJAHMUNDRY",
+    "CENTRE": "RAJAHMUNDURY",
     "DISTRICT": "RAJAHMUNDURY",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "NO.10-15-39 AND 10-15-40 BY 1, MAIN ROAD, FORT GATE, RAJAMUNDRY - 533 101",
     "CONTACT": "2443360",
+    "MICR": "400054004",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "EAST GODAVARI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000121": {
     "IFSC": "CIUB0000121",
@@ -1836,12 +1836,12 @@
     "STATE": "KERALA",
     "ADDRESS": "PATHAN S BUILDING COMPLEX, 25 BY 72, NEW NO 25 BY 121, ROUND SOUTH, THRISSUR 680 001",
     "CONTACT": "2442053",
+    "MICR": "520054202",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "THRISSUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000124": {
     "IFSC": "CIUB0000124",
@@ -1966,32 +1966,32 @@
   "CIUB0000132": {
     "IFSC": "CIUB0000132",
     "BRANCH": "MALLESWARAM",
-    "CENTRE": "BANGALORE",
+    "CENTRE": "BENGALURU",
     "DISTRICT": "BENGALURU",
     "STATE": "KARNATAKA",
     "ADDRESS": "82,VI CROSS, MALLESWARAM, BANGALORE 560053",
     "CONTACT": "23463636",
+    "MICR": "629054002",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "BENGALURU RURAL",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000133": {
     "IFSC": "CIUB0000133",
     "BRANCH": "KOZIKODE",
-    "CENTRE": "CALICUT",
+    "CENTRE": "KOZHICODE, CALICUT",
     "DISTRICT": "KOZHICODE, CALICUT",
     "STATE": "KERALA",
     "ADDRESS": "ESHA ARCADE, I FLOOR, AZHAKODY TEMPLE ROAD, OFF MAVOOR ROAD, OPP ASMA TOWER, KOZIKODE 673004",
     "CONTACT": "2727121",
+    "MICR": "534054002",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "KOZHIKODE",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000134": {
     "IFSC": "CIUB0000134",
@@ -2071,17 +2071,17 @@
   "CIUB0000139": {
     "IFSC": "CIUB0000139",
     "BRANCH": "INDIRA NAGAR",
-    "CENTRE": "BANGALORE",
+    "CENTRE": "BENGALURU",
     "DISTRICT": "BENGALURU",
     "STATE": "KARNATAKA",
     "ADDRESS": "NO 194, I FLOOR, VII CROSS, I STAGE INDIRA NAGAR, BANGALORE 560038",
     "CONTACT": "25205030",
+    "MICR": "518054002",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "BENGALURU URBAN",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000140": {
     "IFSC": "CIUB0000140",
@@ -2091,12 +2091,12 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "I FLOOR, VCSR COMPLEX, RAILWAY STATION ROAD, CUDDAPAH 516001",
     "CONTACT": "246303",
+    "MICR": "400054005",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "CUDDAPAH",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000141": {
     "IFSC": "CIUB0000141",
@@ -2131,17 +2131,17 @@
   "CIUB0000143": {
     "IFSC": "CIUB0000143",
     "BRANCH": "THIRUCHENGODE",
-    "CENTRE": "TIRUCHENGODU",
+    "CENTRE": "TIRUCHENGODE",
     "DISTRICT": "TIRUCHENGODE",
     "STATE": "TAMIL NADU",
     "ADDRESS": "I FLOOR,23 AND 24 GURUKKAL ST, SOUTH CAR STREET, THIRUCHANGODE 637 211",
     "CONTACT": "256356",
+    "MICR": "520054104",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "NAMAKKAL",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000144": {
     "IFSC": "CIUB0000144",
@@ -2151,12 +2151,12 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "I FLOOR,11 BY 24 BY 29,BHAVANARAYANA ST, VIJAYAWADA 520 001",
     "CONTACT": "2566100",
+    "MICR": "670054002",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "KRISHNA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000145": {
     "IFSC": "CIUB0000145",
@@ -2196,12 +2196,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "12, 1ST FLOOR, SRI KRISHNA COMPLEX, TANK STREET",
     "CONTACT": "221034",
+    "MICR": "570054002",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "KRISHNAGIRI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000148": {
     "IFSC": "CIUB0000148",
@@ -2241,12 +2241,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "NO 77 STATION ROAD  I FLOOR",
     "CONTACT": "22233424",
+    "MICR": "600054016",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "CHENNAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000151": {
     "IFSC": "CIUB0000151",
@@ -2421,12 +2421,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "469,MAIN ROAD,SATTUR 636203",
     "CONTACT": "261966",
+    "MICR": "623054102",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "VIRUDHUNAGAR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000163": {
     "IFSC": "CIUB0000163",
@@ -2661,12 +2661,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "I FLOOR, NO.73,KAMDAR COMPLEX",
     "CONTACT": "2720033",
+    "MICR": "515054202",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "NAGPUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000179": {
     "IFSC": "CIUB0000179",
@@ -2791,17 +2791,17 @@
   "CIUB0000187": {
     "IFSC": "CIUB0000187",
     "BRANCH": "CHENGALPET",
-    "CENTRE": "CHENNAI",
+    "CENTRE": "CHENGALPET",
     "DISTRICT": "CHENGALPET",
     "STATE": "TAMIL NADU",
     "ADDRESS": "GROUND FLOOR,86,GST ROAD,THIMMAKULAM,CHENGALPET PIN 603001",
     "CONTACT": "27433393",
+    "MICR": "636054003",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "KANCHEEPURAM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000188": {
     "IFSC": "CIUB0000188",
@@ -2851,17 +2851,17 @@
   "CIUB0000191": {
     "IFSC": "CIUB0000191",
     "BRANCH": "PALLIPALAYAM",
-    "CENTRE": "ERODE",
+    "CENTRE": "PALLIPALAYAM",
     "DISTRICT": "PALLIPALAYAM",
     "STATE": "TAMIL NADU",
     "ADDRESS": "GROUND FLOOR,24,SANGAGIRI MAIN ROAD,PALLIPALAYAM PIN 638006",
     "CONTACT": "243533",
+    "MICR": "600054021",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "NAMAKKAL",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000192": {
     "IFSC": "CIUB0000192",
@@ -2871,12 +2871,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "79,VENKATASAMY ROAD WEST,R S PURAM,COIMBATORE 641002",
     "CONTACT": "2540647",
+    "MICR": "700054003",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "COIMBATORE",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000193": {
     "IFSC": "CIUB0000193",
@@ -3096,12 +3096,12 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "MIG 182 I PHASE,KPHB COLONY, KUKATPALLY,HYDERABAD 500072",
     "CONTACT": "23151515",
+    "MICR": "211054002",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "RANGAREDDY",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000208": {
     "IFSC": "CIUB0000208",
@@ -3201,12 +3201,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "730,IST FLOOR,DIAMOND COMPLEX,TRICHY ROAD,RAMANATHAPURAM,COIMBATORE 621045",
     "CONTACT": "2322302",
+    "MICR": "416054002",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "COIMBATORE",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000215": {
     "IFSC": "CIUB0000215",
@@ -3366,12 +3366,12 @@
     "STATE": "GUJARAT",
     "ADDRESS": "MEGH MAYUR PLAZA,NEAR RATAN BAUG,OPP TO JANIPARSAN MART,PARLE POINT SURAT 395007",
     "CONTACT": "2253914",
+    "MICR": "641054105",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "SURAT",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000226": {
     "IFSC": "CIUB0000226",
@@ -3676,17 +3676,17 @@
   "CIUB0000246": {
     "IFSC": "CIUB0000246",
     "BRANCH": "MADURAVAYAL",
-    "CENTRE": "MADURAVAYAL",
+    "CENTRE": "MADURAVOYAL",
     "DISTRICT": "MADURAVOYAL",
     "STATE": "TAMIL NADU",
     "ADDRESS": "K R M TOWERS,4 A,PALLADAM NAGAR MAIN ROAD,SINGARAVELAN NAGAR,CHENNAI 600095",
     "CONTACT": "23781805",
+    "MICR": "606054102",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "THIRUVALLUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000247": {
     "IFSC": "CIUB0000247",
@@ -3756,12 +3756,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "99 BY 1,VISWANATHAPURAM MAIN ROAD,RENGARAJAPURAM,CHENNAI 600024",
     "CONTACT": "24844344",
+    "MICR": "110054005",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "CHENNAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000252": {
     "IFSC": "CIUB0000252",
@@ -4236,12 +4236,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "168 A,EAST VELI STREET,VILAKKUTHOON,MADURAI 625 001",
     "CONTACT": "2330058",
+    "MICR": "600054036",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "MADURAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000284": {
     "IFSC": "CIUB0000284",
@@ -4681,12 +4681,12 @@
   "CIUB0000313": {
     "IFSC": "CIUB0000313",
     "BRANCH": "MADHAVARAM",
-    "CENTRE": "MADHAVARAM",
+    "CENTRE": "CHENNAI",
     "DISTRICT": "CHENNAI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "MADHAVARAM RED HILLS HIGH ROAD,BAZAAR STREET,MADHAVARAM,CHENNAI 600060 TIRUVALLUR DIST",
     "CONTACT": "2532992",
-    "MICR": "600054048",
+    "MICR": "600054049",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "THIRUVALLUR",
@@ -4756,17 +4756,17 @@
   "CIUB0000318": {
     "IFSC": "CIUB0000318",
     "BRANCH": "BANASWADI",
-    "CENTRE": "BANGALORE",
+    "CENTRE": "BENGALURU",
     "DISTRICT": "BENGALURU",
     "STATE": "KARNATAKA",
     "ADDRESS": "NO 6 GANESH CHAMBERS DODDA BANASWADI MAIN ROAD,BANASWADI,BANGALORE",
     "CONTACT": "9342448522",
+    "MICR": "625054010",
     "BANK": "CITY UNION BANK LIMITED",
     "RTGS": true,
     "CITY": "BENGALURU URBAN",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000319": {
     "IFSC": "CIUB0000319",

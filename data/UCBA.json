@@ -23550,17 +23550,16 @@
     "MICR": null
   },
   "UCBA0001688": {
+    "BANK": "UCO BANK",
     "IFSC": "UCBA0001688",
     "BRANCH": "BARDHAN CHOWK",
-    "CENTRE": "JAMNAGAR",
-    "DISTRICT": "JAMNAGAR",
-    "STATE": "GUJARAT",
     "ADDRESS": "POST BOX 114,MOTI CHAM-BERS,BARDHAN CHOWK 361001",
     "CONTACT": "2670066",
-    "BANK": "UCO BANK",
-    "RTGS": true,
     "CITY": "JAMNAGAR",
+    "DISTRICT": "JAMNAGAR",
+    "STATE": "GUJARAT",
     "NEFT": true,
+    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
@@ -27915,17 +27914,16 @@
     "MICR": null
   },
   "UCBA0002023": {
+    "BANK": "UCO BANK",
     "IFSC": "UCBA0002023",
     "BRANCH": "FAIZABAD ROAD",
-    "CENTRE": "LUCKNOW",
-    "DISTRICT": "LUCKNOW",
-    "STATE": "UTTAR PRADESH",
     "ADDRESS": "FAIZABAD ROADIT CROSSING 226007",
     "CONTACT": "2326056",
-    "BANK": "UCO BANK",
-    "RTGS": true,
     "CITY": "LUCKNOW",
+    "DISTRICT": "LUCKNOW",
+    "STATE": "UTTAR PRADESH",
     "NEFT": true,
+    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
@@ -36585,19 +36583,18 @@
     "IMPS": true
   },
   "UCBA0002638": {
+    "BANK": "UCO BANK",
     "IFSC": "UCBA0002638",
     "BRANCH": "JHAWDANGA PT III",
-    "CENTRE": "MANKACHAR",
-    "DISTRICT": "MANKACHAR",
-    "STATE": "ASSAM",
     "ADDRESS": "AT KALAPANI PO KALAPANI,PS MANKACHAR DIST DHUBRI",
     "CONTACT": "9577807997",
-    "MICR": "783028523",
-    "BANK": "UCO BANK",
-    "RTGS": true,
     "CITY": "DHUBRI",
+    "DISTRICT": "MANKACHAR",
+    "STATE": "ASSAM",
     "NEFT": true,
-    "IMPS": true
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "UCBA0002639": {
     "IFSC": "UCBA0002639",

@@ -28464,6 +28464,20 @@
     "IMPS": true,
     "MICR": null
   },
+  "BARB0HANNAG": {
+    "IFSC": "BARB0HANNAG",
+    "BRANCH": "HANUMAN NAGAR",
+    "CENTRE": "PATNA",
+    "DISTRICT": "PATNA",
+    "STATE": "BIHAR",
+    "ADDRESS": "8M20 BAHADURPUR HOUSING CLN BHOOLNATH RD PATNA",
+    "CONTACT": "0221800223344",
+    "BANK": "BANK OF BARODA",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
+  },
   "BARB0HANSAX": {
     "IFSC": "BARB0HANSAX",
     "BRANCH": "HANSA, BIHAR",
@@ -56151,6 +56165,20 @@
     "IMPS": true,
     "MICR": null
   },
+  "BARB0PAHARI": {
+    "IFSC": "BARB0PAHARI",
+    "BRANCH": "PAHARI",
+    "CENTRE": "RAMPUR",
+    "DISTRICT": "RAMPUR",
+    "STATE": "UTTAR PRADESH",
+    "ADDRESS": "VILL-PAHADI, KEMRI ROAD, DIST-RAMPUR, RAMPUR,UTTAR PRADESH-244901",
+    "CONTACT": "0221800223344",
+    "BANK": "BANK OF BARODA",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
+  },
   "BARB0PAHMUZ": {
     "IFSC": "BARB0PAHMUZ",
     "BRANCH": "PAHARPUR, BIHAR",
@@ -64221,6 +64249,20 @@
     "IMPS": true,
     "MICR": null
   },
+  "BARB0ROALIG": {
+    "IFSC": "BARB0ROALIG",
+    "BRANCH": "REGIONAL OFFICE ALIGARH",
+    "CENTRE": "ALIGARH",
+    "DISTRICT": "ALIGARH",
+    "STATE": "UTTAR PRADESH",
+    "ADDRESS": "ALIGARH UTTARPRADESH 202001",
+    "CONTACT": "0221800223344",
+    "BANK": "BANK OF BARODA",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
+  },
   "BARB0ROBERT": {
     "IFSC": "BARB0ROBERT",
     "BRANCH": "ROBERTSGANJ, DIST SONBHADRA",
@@ -64370,6 +64412,34 @@
     "CITY": "ROHTAK",
     "NEFT": true,
     "IMPS": true
+  },
+  "BARB0ROKOLH": {
+    "IFSC": "BARB0ROKOLH",
+    "BRANCH": "REGIONAL OFFICE KOLHAPUR",
+    "CENTRE": "KOLHAPUR",
+    "DISTRICT": "KOLHAPUR",
+    "STATE": "MAHARASHTRA",
+    "ADDRESS": "RUIKAR COLONY OPP RAJ GAURAV MANGAL KARY KOLHAPUR MAHARASHTRA 416005",
+    "CONTACT": "0221800223344",
+    "BANK": "BANK OF BARODA",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "BARB0ROMERU": {
+    "IFSC": "BARB0ROMERU",
+    "BRANCH": "REGIONAL OFFICE MEERUT",
+    "CENTRE": "MEERUT",
+    "DISTRICT": "MEERUT",
+    "STATE": "UTTAR PRADESH",
+    "ADDRESS": "MEERUT UTTAR PRADESH 250001",
+    "CONTACT": "0221800223344",
+    "BANK": "BANK OF BARODA",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
   },
   "BARB0ROOMAX": {
     "IFSC": "BARB0ROOMAX",
@@ -82033,6 +82103,34 @@
     "RTGS": true,
     "CITY": "VIZIANAGARAM",
     "NEFT": true,
+    "IMPS": true,
+    "MICR": null
+  },
+  "BARB0VJSHSR": {
+    "IFSC": "BARB0VJSHSR",
+    "BRANCH": "S R RASTHE SHIMOGA",
+    "CENTRE": "SHIMOGA",
+    "DISTRICT": "SHIMOGA",
+    "STATE": "KARNATAKA",
+    "ADDRESS": "S R RASHT SHIMOGA TIPPESWAMY CPX S R RASTHE",
+    "CONTACT": "0221800223344",
+    "BANK": "BANK OF BARODA",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "BARB0VJVAPA": {
+    "IFSC": "BARB0VJVAPA",
+    "BRANCH": "ARCOT ROAD",
+    "CENTRE": "CHENNAI",
+    "DISTRICT": "CHENNAI",
+    "STATE": "TAMIL NADU",
+    "ADDRESS": "189 1 ARCOTROAD VADAPALANI TAMILNADU 600026",
+    "CONTACT": "0221800223344",
+    "BANK": "BANK OF BARODA",
+    "RTGS": true,
+    "NEFT": false,
     "IMPS": true,
     "MICR": null
   },

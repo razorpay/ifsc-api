@@ -3418,6 +3418,20 @@
     "IMPS": true,
     "MICR": null
   },
+  "ESMF0001386": {
+    "IFSC": "ESMF0001386",
+    "BRANCH": "ELAPULLY I",
+    "CENTRE": "ELAPULLY I",
+    "DISTRICT": "PALAKKAD",
+    "STATE": "KERALA",
+    "ADDRESS": "FIRST FLOOR,NATIONAL ARCADE COMPLEX,PARA,ELAPULLY I VILLAGE,PALAKKAD,KERALA 678622",
+    "CONTACT": "00",
+    "BANK": "ESAF SMALL FINANCE BANK LIMITED",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
+  },
   "ESMF0001387": {
     "IFSC": "ESMF0001387",
     "BRANCH": "KODUVAYUR",
@@ -3446,6 +3460,20 @@
     "NEFT": false,
     "IMPS": true
   },
+  "ESMF0001389": {
+    "IFSC": "ESMF0001389",
+    "BRANCH": "VADAKARAPATHI",
+    "CENTRE": "VADAKARAPATHI",
+    "DISTRICT": "PALAKKAD",
+    "STATE": "KERALA",
+    "ADDRESS": "EMALDA STORE VARGEEIS MALIGAI BUILDINGS,COIMBATORE ROAD,VELANTHAVALAM",
+    "CONTACT": "00",
+    "BANK": "ESAF SMALL FINANCE BANK LIMITED",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
+  },
   "ESMF0001390": {
     "IFSC": "ESMF0001390",
     "BRANCH": "VANDAZHI I",
@@ -3459,5 +3487,19 @@
     "RTGS": true,
     "NEFT": false,
     "IMPS": true
+  },
+  "ESMF0001396": {
+    "IFSC": "ESMF0001396",
+    "BRANCH": "VANDITHAVALAM",
+    "CENTRE": "VANDITHAVALAM",
+    "DISTRICT": "PALAKKAD",
+    "STATE": "KERALA",
+    "ADDRESS": "FIRST FLOOR,PAKKAM COMPLEX,POLLACHI MAIN ROAD,VANDITHAVALAM,PALAKKAD,KERALA,678534",
+    "CONTACT": "00",
+    "BANK": "ESAF SMALL FINANCE BANK LIMITED",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
   }
 }
