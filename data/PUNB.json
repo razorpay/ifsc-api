@@ -28057,7 +28057,7 @@
     "BRANCH": "KANPUR REG. COLLECTION CENTRE,",
     "CENTRE": "KANPUR",
     "DISTRICT": "PHOOL BAGH CROSSING",
-    "STATE": "UTTARPRADESH",
+    "STATE": "UTTAR PRADESH",
     "ADDRESS": "II FLOOR 18/190 MALL RAOD",
     "CONTACT": "00",
     "MICR": "160024029",
@@ -72158,6 +72158,20 @@
     "NEFT": true,
     "IMPS": true
   },
+  "PUNB0604600": {
+    "IFSC": "PUNB0604600",
+    "BRANCH": "CLPC BAREILLY",
+    "CENTRE": "BAREILLY",
+    "DISTRICT": "BAREILLY",
+    "STATE": "UTTAR PRADESH",
+    "ADDRESS": "PILIBHIT BYPASS ROAD BAREILLY UP 243001",
+    "CONTACT": "00",
+    "BANK": "PUNJAB NATIONAL BANK",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
+  },
   "PUNB0604800": {
     "IFSC": "PUNB0604800",
     "BRANCH": "CLPC JHANSI",
@@ -74450,6 +74464,20 @@
     "IMPS": true,
     "MICR": null
   },
+  "PUNB0621000": {
+    "IFSC": "PUNB0621000",
+    "BRANCH": "CLPC BULANDSHAHR",
+    "CENTRE": "BULANDSHAHR",
+    "DISTRICT": "BULANDSHAHR",
+    "STATE": "UTTAR PRADESH",
+    "ADDRESS": "BHOOR ROAD BULANDSHARHR",
+    "CONTACT": "01234567896",
+    "BANK": "PUNJAB NATIONAL BANK",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
+  },
   "PUNB0621100": {
     "IFSC": "PUNB0621100",
     "BRANCH": "PANIHATI SODEPUR",
@@ -74462,6 +74490,20 @@
     "RTGS": true,
     "CITY": "GHOLA PANIHATI MUNICIPALITY",
     "NEFT": true,
+    "IMPS": true,
+    "MICR": null
+  },
+  "PUNB0621200": {
+    "IFSC": "PUNB0621200",
+    "BRANCH": "CLPC BHUBANESHWAR",
+    "CENTRE": "BHUBANESHWAR ",
+    "DISTRICT": "BHUBANESHWAR",
+    "STATE": "ODISHA",
+    "ADDRESS": "PLOT NO 2273/4173 1ST FLOOR , JAYDEV VIHAR BHUBANESHWAR",
+    "CONTACT": "01234567896",
+    "BANK": "PUNJAB NATIONAL BANK",
+    "RTGS": true,
+    "NEFT": false,
     "IMPS": true,
     "MICR": null
   },
@@ -75446,6 +75488,20 @@
     "IMPS": true,
     "MICR": null
   },
+  "PUNB0628400": {
+    "IFSC": "PUNB0628400",
+    "BRANCH": "CLPC KASHIPUR",
+    "CENTRE": "KASHIPUR",
+    "DISTRICT": "KASHIPUR",
+    "STATE": "UTTARAKHAND",
+    "ADDRESS": "BAZPUR ROAD DIST UDHAM SINGH NAGAR 244713",
+    "CONTACT": "00",
+    "BANK": "PUNJAB NATIONAL BANK",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
+  },
   "PUNB0628600": {
     "IFSC": "PUNB0628600",
     "BRANCH": "KUTHEHR",
@@ -76422,6 +76478,34 @@
     "IMPS": true,
     "MICR": null
   },
+  "PUNB0635900": {
+    "IFSC": "PUNB0635900",
+    "BRANCH": "CLPC JALANDHAR",
+    "CENTRE": "JALANDHAR",
+    "DISTRICT": "JALANDHAR",
+    "STATE": "PUNJAB",
+    "ADDRESS": "2ND FLOOR OLD RAILWAY ROAD",
+    "CONTACT": "00",
+    "BANK": "PUNJAB NATIONAL BANK",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "PUNB0636000": {
+    "IFSC": "PUNB0636000",
+    "BRANCH": "CLPC BHATINDA",
+    "CENTRE": "BHATINDA",
+    "DISTRICT": "BHATINDA",
+    "STATE": "PUNJAB",
+    "ADDRESS": "SCO 29-31, GROUND FLOOR MODEL TOWN, PHASE I BHATINDA 151001",
+    "CONTACT": "00",
+    "BANK": "PUNJAB NATIONAL BANK",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
+  },
   "PUNB0636100": {
     "IFSC": "PUNB0636100",
     "BRANCH": "CLPC LUDHIANA",
@@ -76430,6 +76514,20 @@
     "STATE": "PUNJAB",
     "ADDRESS": "CLPC 5 FIROZEPUR ROAD NEAR WEST END MALL",
     "CONTACT": "09958188038",
+    "BANK": "PUNJAB NATIONAL BANK",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "PUNB0636200": {
+    "IFSC": "PUNB0636200",
+    "BRANCH": "CLPC LUDHIANA",
+    "CENTRE": "LUDHIANA",
+    "DISTRICT": "LUDHIANA",
+    "STATE": "PUNJAB",
+    "ADDRESS": "INDUSTRAIL AREA NEAR MANJU THEATER LUDHIANA PUNJAB",
+    "CONTACT": "01234567894",
     "BANK": "PUNJAB NATIONAL BANK",
     "RTGS": true,
     "NEFT": false,
@@ -76514,6 +76612,20 @@
     "STATE": "DELHI",
     "ADDRESS": "RAKESH DUTT BUILDING",
     "CONTACT": "09975366888",
+    "BANK": "PUNJAB NATIONAL BANK",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "PUNB0636900": {
+    "IFSC": "PUNB0636900",
+    "BRANCH": "CLPC RAIPUR",
+    "CENTRE": "RAIPUR",
+    "DISTRICT": "RAIPUR",
+    "STATE": "CHHATTISGARH",
+    "ADDRESS": "CLPC RAIPUR ATAL NAGAR RAIPUR , CHATTISGARH",
+    "CONTACT": "0123456786",
     "BANK": "PUNJAB NATIONAL BANK",
     "RTGS": true,
     "NEFT": false,
@@ -77369,6 +77481,20 @@
     "IMPS": true,
     "MICR": null
   },
+  "PUNB0642700": {
+    "IFSC": "PUNB0642700",
+    "BRANCH": "CLPC PUNE",
+    "CENTRE": "PUNE",
+    "DISTRICT": "PUNE",
+    "STATE": "MAHARASHTRA",
+    "ADDRESS": "SANDASHIV CHAMBERS RADHIKA HOTEL BUILDING",
+    "CONTACT": "01234567896",
+    "BANK": "PUNJAB NATIONAL BANK",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
+  },
   "PUNB0642800": {
     "IFSC": "PUNB0642800",
     "BRANCH": "PNB STAFF TRAINING CENTRE",
@@ -77455,6 +77581,20 @@
     "RTGS": true,
     "CITY": "UP",
     "NEFT": true,
+    "IMPS": true,
+    "MICR": null
+  },
+  "PUNB0643400": {
+    "IFSC": "PUNB0643400",
+    "BRANCH": "CLPC VARANASI",
+    "CENTRE": "VARANASI",
+    "DISTRICT": "VARANASI",
+    "STATE": "UTTAR PRADESH",
+    "ADDRESS": "CLPC VINDHYAVASINI NAGAR ORDERLY BAZAAR",
+    "CONTACT": "01234567896",
+    "BANK": "PUNJAB NATIONAL BANK",
+    "RTGS": true,
+    "NEFT": false,
     "IMPS": true,
     "MICR": null
   },
@@ -77986,6 +78126,34 @@
     "IMPS": true,
     "MICR": null
   },
+  "PUNB0647400": {
+    "IFSC": "PUNB0647400",
+    "BRANCH": "CLPC CIVIL LINES DELHI",
+    "CENTRE": "DELHI",
+    "DISTRICT": "DELHI",
+    "STATE": "DELHI",
+    "ADDRESS": "13 ALIPUR ROAD CIVIL LINES DELHI",
+    "CONTACT": "01234567896",
+    "BANK": "PUNJAB NATIONAL BANK",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "PUNB0647500": {
+    "IFSC": "PUNB0647500",
+    "BRANCH": "CLPC ERNAKULAM",
+    "CENTRE": "ERNAKULAM",
+    "DISTRICT": "ERNALKULAM",
+    "STATE": "KARNATAKA",
+    "ADDRESS": "CENTRALISED LOAN PROCESSING CENTER II FLOOR",
+    "CONTACT": "00",
+    "BANK": "PUNJAB NATIONAL BANK",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
+  },
   "PUNB0647600": {
     "IFSC": "PUNB0647600",
     "BRANCH": "CHUNA BHATTI",
@@ -78374,6 +78542,20 @@
     "IMPS": true,
     "MICR": null
   },
+  "PUNB0650200": {
+    "IFSC": "PUNB0650200",
+    "BRANCH": "CLPC ASHRAM ROAD",
+    "CENTRE": "AHMEDABAD",
+    "DISTRICT": "AHMEDABAD",
+    "STATE": "GUJARAT",
+    "ADDRESS": "A107, SAKAR VII NEAR NEHRU BRIDGE CORNER ASHRAM ROAD GUJRAT 380009",
+    "CONTACT": "00",
+    "BANK": "PUNJAB NATIONAL BANK",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
+  },
   "PUNB0650300": {
     "IFSC": "PUNB0650300",
     "BRANCH": "AGROHA (DISTT-HISSAR)",
@@ -78446,6 +78628,20 @@
     "RTGS": true,
     "CITY": "DISTT.INDORE M.P.",
     "NEFT": true,
+    "IMPS": true,
+    "MICR": null
+  },
+  "PUNB0650800": {
+    "IFSC": "PUNB0650800",
+    "BRANCH": "CLPC KARNAL",
+    "CENTRE": "KARNAL",
+    "DISTRICT": "KARNAL",
+    "STATE": "HARYANA",
+    "ADDRESS": "KUNJPURA ROAD NEAR ITI CHOWK 132001",
+    "CONTACT": "00",
+    "BANK": "PUNJAB NATIONAL BANK",
+    "RTGS": true,
+    "NEFT": false,
     "IMPS": true,
     "MICR": null
   },
@@ -79017,6 +79213,34 @@
     "NEFT": true,
     "IMPS": true
   },
+  "PUNB0655500": {
+    "IFSC": "PUNB0655500",
+    "BRANCH": "CLPC HALDWANI",
+    "CENTRE": "HALDWANI",
+    "DISTRICT": "HALDWANI",
+    "STATE": "UTTARAKHAND",
+    "ADDRESS": "NEAR DM RESIDENCE NAINITAL ROAD HALDWANI 263139",
+    "CONTACT": "00",
+    "BANK": "PUNJAB NATIONAL BANK",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "PUNB0655600": {
+    "IFSC": "PUNB0655600",
+    "BRANCH": "CLPC AMRITSAR",
+    "CENTRE": "AMRITSAR",
+    "DISTRICT": "AMRITSAR",
+    "STATE": "PUNJAB",
+    "ADDRESS": "OPP ST FRANCIS SCHOOL MCLEOD ROAD PUNJAB 143001",
+    "CONTACT": "00",
+    "BANK": "PUNJAB NATIONAL BANK",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
+  },
   "PUNB0655700": {
     "IFSC": "PUNB0655700",
     "BRANCH": "CLPC GUWAHATI",
@@ -79025,6 +79249,20 @@
     "STATE": "ASSAM",
     "ADDRESS": "NILGIRI MANSION GS ROAD BHANGGARH",
     "CONTACT": "09436010757",
+    "BANK": "PUNJAB NATIONAL BANK",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "PUNB0655800": {
+    "IFSC": "PUNB0655800",
+    "BRANCH": "CLPC LUDHIANA",
+    "CENTRE": "LUDHIANA",
+    "DISTRICT": "LUDHIANA",
+    "STATE": "PUNJAB",
+    "ADDRESS": "INDUSTRIAL AREA, BHAGWATI TOWER RK ROAD",
+    "CONTACT": "00",
     "BANK": "PUNJAB NATIONAL BANK",
     "RTGS": true,
     "NEFT": false,
@@ -79179,6 +79417,20 @@
     "IMPS": true,
     "MICR": null
   },
+  "PUNB0656900": {
+    "IFSC": "PUNB0656900",
+    "BRANCH": "CLPC AMBALA",
+    "CENTRE": "AMBALA",
+    "DISTRICT": "AMBALA",
+    "STATE": "HARYANA",
+    "ADDRESS": "PNB CLPC AMBALA 133001",
+    "CONTACT": "01234567896",
+    "BANK": "PUNJAB NATIONAL BANK",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
+  },
   "PUNB0657000": {
     "IFSC": "PUNB0657000",
     "BRANCH": "EKKATUTHANKAL",
@@ -79221,6 +79473,20 @@
     "RTGS": true,
     "CITY": "NEW DELHI",
     "NEFT": true,
+    "IMPS": true,
+    "MICR": null
+  },
+  "PUNB0657300": {
+    "IFSC": "PUNB0657300",
+    "BRANCH": "CLPC NOIDA",
+    "CENTRE": "NOIDA",
+    "DISTRICT": "NOIDA",
+    "STATE": "UTTAR PRADESH",
+    "ADDRESS": "SECTOR 3, NOIDA",
+    "CONTACT": "00",
+    "BANK": "PUNJAB NATIONAL BANK",
+    "RTGS": true,
+    "NEFT": false,
     "IMPS": true,
     "MICR": null
   },
@@ -105238,6 +105504,20 @@
     "CITY": "HISAR",
     "NEFT": true,
     "IMPS": true
+  },
+  "PUNB0962800": {
+    "IFSC": "PUNB0962800",
+    "BRANCH": "DCO SIRMAUR",
+    "CENTRE": "SIRMAUR",
+    "DISTRICT": "SIRMAUR",
+    "STATE": "HIMACHAL PRADESH",
+    "ADDRESS": "PNB NAHAN TEHSIL",
+    "CONTACT": "00",
+    "BANK": "PUNJAB NATIONAL BANK",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
   },
   "PUNB0963300": {
     "IFSC": "PUNB0963300",

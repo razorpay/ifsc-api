@@ -9029,19 +9029,18 @@
     "IMPS": true
   },
   "UTBI0DPLF74": {
+    "BANK": "UNITED BANK OF INDIA",
     "IFSC": "UTBI0DPLF74",
     "BRANCH": "DURGAPUR PROJECT",
-    "CENTRE": "DURGAPUR",
-    "DISTRICT": "DURGAPUR",
-    "STATE": "WEST BENGAL",
     "ADDRESS": "DPL COMPLEX,DURGAPUR, DIST.BURDWAN",
     "CONTACT": null,
-    "MICR": "713027210",
-    "BANK": "UNITED BANK OF INDIA",
-    "RTGS": true,
     "CITY": "BARDDHAMAN",
+    "DISTRICT": "DURGAPUR",
+    "STATE": "WEST BENGAL",
     "NEFT": true,
-    "IMPS": true
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "UTBI0DPT654": {
     "IFSC": "UTBI0DPT654",
@@ -30795,7 +30794,7 @@
   "UTBI0XRA697": {
     "IFSC": "UTBI0XRA697",
     "BRANCH": "RAIPUR REGION",
-    "CENTRE": "RAIPUR",
+    "CENTRE": " RAIPUR ",
     "DISTRICT": "RAIPUR",
     "STATE": "CHANDIGARH",
     "ADDRESS": "BUDHAPARA,BIJLI OFFICE,CHOWK",
