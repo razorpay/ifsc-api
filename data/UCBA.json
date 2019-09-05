@@ -2970,17 +2970,16 @@
     "MICR": null
   },
   "UCBA0000219": {
+    "BANK": "UCO BANK",
     "IFSC": "UCBA0000219",
     "BRANCH": "GANESH CHANDRA AVENUE",
-    "CENTRE": "KOLKATA",
-    "DISTRICT": "KOLKATA",
-    "STATE": "WEST BENGAL",
     "ADDRESS": "25 GANESH CHANDRA AVEN-UE BRANCH 700013",
     "CONTACT": "22110464",
-    "BANK": "UCO BANK",
-    "RTGS": true,
     "CITY": "KOLKATA",
+    "DISTRICT": "KOLKATA",
+    "STATE": "WEST BENGAL",
     "NEFT": true,
+    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
@@ -36777,17 +36776,16 @@
     "MICR": null
   },
   "UCBA0002652": {
+    "BANK": "UCO BANK",
     "IFSC": "UCBA0002652",
     "BRANCH": "KURIHAMARI",
-    "CENTRE": "MUKALMUA",
-    "DISTRICT": "MUKALMUA",
-    "STATE": "ASSAM",
     "ADDRESS": "VILL KURIHAMARI PO MUKALMUA DIST NALBARI PIN 781126 ASSAM PIN 781126",
     "CONTACT": "9864083380",
-    "BANK": "UCO BANK",
-    "RTGS": true,
     "CITY": "NALBARI",
+    "DISTRICT": "MUKALMUA",
+    "STATE": "ASSAM",
     "NEFT": true,
+    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
@@ -46058,6 +46056,20 @@
     "RTGS": true,
     "CITY": "AHMEDABAD",
     "NEFT": true,
+    "IMPS": true
+  },
+  "UCBA0003363": {
+    "IFSC": "UCBA0003363",
+    "BRANCH": "TITWALA",
+    "CENTRE": "KALYAN THANE ",
+    "DISTRICT": "THANE",
+    "STATE": "MAHARASHTRA",
+    "ADDRESS": "UMA DEEP C WING E TYPE BUILDING NO 11 GANESH MANDIR ROAD TITWALA KALYAN DIST THANE 421605",
+    "CONTACT": "00",
+    "MICR": "400028009",
+    "BANK": "UCO BANK",
+    "RTGS": true,
+    "NEFT": false,
     "IMPS": true
   },
   "UCBA0003364": {

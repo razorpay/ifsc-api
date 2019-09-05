@@ -48780,6 +48780,20 @@
     "IMPS": true,
     "MICR": null
   },
+  "ALLA0213543": {
+    "IFSC": "ALLA0213543",
+    "BRANCH": "RMPC HOWRAH",
+    "CENTRE": "HOWRAH",
+    "DISTRICT": "HOWRAH",
+    "STATE": "WEST BENGAL",
+    "ADDRESS": "ALLAHABAD BANK, RMPC HOWRAH, 23 MUKHRAM KANORIA ROAD, HOTEL SAKET, HOWRAH ,PIN 711101",
+    "CONTACT": "03326661113",
+    "BANK": "ALLAHABAD BANK",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
+  },
   "ALLA0213544": {
     "IFSC": "ALLA0213544",
     "BRANCH": "RMPC LAKHIMPUR KHERI",
@@ -57994,63 +58008,59 @@
     "MICR": null
   },
   "ALLA0AU9001": {
+    "BANK": "ALLAHABAD BANK",
     "IFSC": "ALLA0AU9001",
     "BRANCH": "ALLAHABAD UP GRAMIN BANK ATARRA",
-    "CENTRE": "ATARRA",
-    "DISTRICT": "ATARRA",
-    "STATE": "UTTAR PRADESH",
     "ADDRESS": "TATHAGAT GYANSTHALI SENIOR SECONDRY SCHOOL, ATARA, BANDA-210201",
     "CONTACT": "9792203787",
-    "MICR": "210699006",
-    "BANK": "ALLAHABAD BANK",
-    "RTGS": true,
     "CITY": "BANDA",
+    "DISTRICT": "ATARRA",
+    "STATE": "UTTAR PRADESH",
     "NEFT": true,
-    "IMPS": true
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "ALLA0AU9002": {
+    "BANK": "ALLAHABAD BANK",
     "IFSC": "ALLA0AU9002",
     "BRANCH": "KRISHI UTPADAN MANDI SAMITI",
-    "CENTRE": "KALU KUWAN",
-    "DISTRICT": "KALU KUWAN",
-    "STATE": "UTTAR PRADESH",
     "ADDRESS": "KRISHI UTPADAN MANDI SAMITI, KALU KUWAN,DIST-BANDA,UP,PIN-210001",
     "CONTACT": "9792203621",
-    "MICR": "210699311",
-    "BANK": "ALLAHABAD BANK",
-    "RTGS": true,
     "CITY": "BANDA",
+    "DISTRICT": "KALU KUWAN",
+    "STATE": "UTTAR PRADESH",
     "NEFT": true,
-    "IMPS": true
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "ALLA0AU9003": {
+    "BANK": "ALLAHABAD BANK",
     "IFSC": "ALLA0AU9003",
     "BRANCH": "ALLAHABAD UP GRAMIN BANK SHRASVASTI",
-    "CENTRE": "SHRASVASTI",
-    "DISTRICT": "SHRASVASTI",
-    "STATE": "UTTAR PRADESH",
     "ADDRESS": "CHOWDHARY RAM BIHARI BHUDHA INTER COLLEGE, SHRAVASTI-271845",
     "CONTACT": "8052302199",
-    "MICR": "271699573",
-    "BANK": "ALLAHABAD BANK",
-    "RTGS": true,
     "CITY": "SHRASVASTI",
+    "DISTRICT": "SHRASVASTI",
+    "STATE": "UTTAR PRADESH",
     "NEFT": true,
-    "IMPS": true
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "ALLA0AU9004": {
+    "BANK": "ALLAHABAD BANK",
     "IFSC": "ALLA0AU9004",
     "BRANCH": "ALLAHABAD UP GRAMIN BANK TITRA KHALILPUR",
-    "CENTRE": "KONCH",
-    "DISTRICT": "KONCH",
-    "STATE": "UTTAR PRADESH",
     "ADDRESS": "TITRA KHALILPUR, KONCH, JALAUN-285205",
     "CONTACT": "9792203559",
-    "MICR": "285699163",
-    "BANK": "ALLAHABAD BANK",
-    "RTGS": true,
     "CITY": "JALAUN",
+    "DISTRICT": "KONCH",
+    "STATE": "UTTAR PRADESH",
     "NEFT": true,
-    "IMPS": true
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   }
 }

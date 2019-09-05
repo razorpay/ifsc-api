@@ -3,16 +3,16 @@
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "IFSC": "CSBK0000001",
     "BRANCH": "RTGS-HO",
-    "CENTRE": "MUMBAI",
+    "CENTRE": "KOCHI",
     "DISTRICT": "KOCHI",
     "STATE": "KERALA",
     "ADDRESS": "MARKET ROAD, ERNAKULAM, KOCHI - 682011, ERNAKULAM, KERALA",
     "CONTACT": "6460167",
     "IMPS": true,
+    "MICR": "682047002",
     "RTGS": true,
     "CITY": "ERNAKULAM",
-    "NEFT": true,
-    "MICR": null
+    "NEFT": true
   },
   "CSBK0000002": {
     "IFSC": "CSBK0000002",
@@ -22,12 +22,12 @@
     "STATE": "KERALA",
     "ADDRESS": "PAUL DAVIS, E-MAIL : ALUVA@CSB.CO.IN, PHONE: 0484 2624565",
     "CONTACT": "2624231",
+    "MICR": "682047014",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "ERNAKULAM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000003": {
     "IFSC": "CSBK0000003",
@@ -127,12 +127,12 @@
     "STATE": "KARNATAKA",
     "ADDRESS": "ST.PATRICK'S SHOPPING ARCADE,BRIGADE ROAD,BANGALORE - 560 025",
     "CONTACT": "25588374",
+    "MICR": "560047002",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "BANGALORE URBAN",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000010": {
     "IFSC": "CSBK0000010",
@@ -142,12 +142,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GAMA GRANDEUR, CENTRAL AVENUE ROAD, P O CHEMBUR, MUMBAI-40 071",
     "CONTACT": "25272845",
+    "MICR": "400047003",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "GREATER MUMBAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000011": {
     "IFSC": "CSBK0000011",
@@ -262,12 +262,12 @@
     "STATE": "KERALA",
     "ADDRESS": "PALAMOOTTIL BUILDING,CC NO.1/583/1, UNNUMPURAM,KOCHI,682001",
     "CONTACT": "6451610",
+    "MICR": "682047012",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "ERNAKULAM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000019": {
     "IFSC": "CSBK0000019",
@@ -277,12 +277,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "DOOR NO. 153, RAJA STREET, P.B. NO.124, COIMBATORE, T N- 641 001",
     "CONTACT": "2398204",
+    "MICR": "641047002",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "COIMBOTORE",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK000001A": {
     "IFSC": "CSBK000001A",
@@ -322,12 +322,12 @@
     "STATE": "KERALA",
     "ADDRESS": "D.J.M BUILDING, MARKET ROAD,COCHI,682011",
     "CONTACT": "6466634",
+    "MICR": "682047002",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "ERNAKULAM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000022": {
     "IFSC": "CSBK0000022",
@@ -337,12 +337,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "25, CUTCHERRY STREET ERODE - 638 001 TAMIL NADU",
     "CONTACT": "2254599",
+    "MICR": "638047022",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "ERODE",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000023": {
     "IFSC": "CSBK0000023",
@@ -592,12 +592,12 @@
     "STATE": "KERALA",
     "ADDRESS": "P.B. NO. 139, RAILWAY STATION ROAD, THRISSUR - 680001, KERALA",
     "CONTACT": "2422013",
+    "MICR": "680047005",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "TRISSUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000040": {
     "IFSC": "CSBK0000040",
@@ -652,12 +652,12 @@
     "STATE": "KERALA",
     "ADDRESS": "MATTEETHARA BUILDINGS,BAKER JUNCTION,KOTTAYAM 68601,KERAL,INDIA",
     "CONTACT": "2560475",
+    "MICR": "686047002",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "KOTTAYAM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000044": {
     "IFSC": "CSBK0000044",
@@ -697,12 +697,12 @@
     "STATE": "KERALA",
     "ADDRESS": "MANUEL SONS TOWERS, G S ROAD, KOZHIKODE - 673001.",
     "CONTACT": "6451604",
+    "MICR": "673047002",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "KOZHIKODE",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000047": {
     "IFSC": "CSBK0000047",
@@ -727,12 +727,12 @@
     "STATE": "KERALA",
     "ADDRESS": "PB NO. 2405, P.O MEDICAL COLLEGE, KUMARAPURAM, THIRUVANANTHAPURAM - 695011",
     "CONTACT": "2444524",
+    "MICR": "695047003",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "ALAPUZZHA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000049": {
     "IFSC": "CSBK0000049",
@@ -832,12 +832,12 @@
     "STATE": "KERALA",
     "ADDRESS": "7/450 A, M.M. BROTHERS BUILDING, P.O. ANCHERY, KUTTANELLUR - 680006, THRISSUR DISTRICT, KERALA",
     "CONTACT": "6451613",
+    "MICR": "680047007",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "TRISSUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000056": {
     "IFSC": "CSBK0000056",
@@ -877,12 +877,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "NO.3, 2ND LINE BEACH,CHENNAI-600 001,TAMILNADU",
     "CONTACT": "25233921",
+    "MICR": "600047002",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "CHENNAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000059": {
     "IFSC": "CSBK0000059",
@@ -892,12 +892,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "268,PURUSAWALKAM HIGH ROAD,CHENNAI-600 007",
     "CONTACT": "26425500",
+    "MICR": "600047004",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "CHENNAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000060": {
     "IFSC": "CSBK0000060",
@@ -1102,12 +1102,12 @@
     "STATE": "KERALA",
     "ADDRESS": "P.B. NO. 83, PANAMKUTTICHIRA, P.O. OLLUR, THRISSUR - 680306, KERALA",
     "CONTACT": "2350342",
+    "MICR": "680047008",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "TRISSUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000074": {
     "IFSC": "CSBK0000074",
@@ -1117,12 +1117,12 @@
     "STATE": "KERALA",
     "ADDRESS": "BANERJI ROAD, PALATHODE, TATAPURAM, KOCHI 682014",
     "CONTACT": "239130",
+    "MICR": "682047008",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "ERNAKULAM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000075": {
     "IFSC": "CSBK0000075",
@@ -1252,12 +1252,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "DAVY PAUL, E-MAIL : SALEM@CSB.CO.IN  TELEPHONE : 0484 2353927",
     "CONTACT": "2353927",
+    "MICR": "636047002",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "SALEM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000084": {
     "IFSC": "CSBK0000084",
@@ -1282,12 +1282,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "KAMARAJ ROAD, UPPILIPALAYANM, P.B. NO.3306, SINGANELLUR, COIMBATORE T N- 641 015",
     "CONTACT": "2573342",
+    "MICR": "641047004",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "COIMBOTORE",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000086": {
     "IFSC": "CSBK0000086",
@@ -1357,12 +1357,12 @@
     "STATE": "KERALA",
     "ADDRESS": "PB NO. 813, THOPPUMPADY, KOCHI - 682005",
     "CONTACT": "2231484",
+    "MICR": "682047010",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "ERNAKULAM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000091": {
     "IFSC": "CSBK0000091",
@@ -1402,12 +1402,12 @@
     "STATE": "KERALA",
     "ADDRESS": "M C ROAD,THIRUVALLA 689101,PATHANAMTHITTA DIST, KERALA",
     "CONTACT": "2601247",
+    "MICR": "689047002",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "PATHANAMTHITTA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000094": {
     "IFSC": "CSBK0000094",
@@ -1417,12 +1417,12 @@
     "STATE": "KERALA",
     "ADDRESS": "P.B. NO.7, ROUND SOUTH, THRISSUR - 680001,KERALA",
     "CONTACT": "2428527",
+    "MICR": "680047002",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "TRISSUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000095": {
     "IFSC": "CSBK0000095",
@@ -1432,12 +1432,12 @@
     "STATE": "KERALA",
     "ADDRESS": "PB. NO.10, KALARIKKAL BAZAR, HILL PALACE ROAD, THRIPUNITHURA - 682301",
     "CONTACT": "2777350",
+    "MICR": "682047015",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "ERNAKULAM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000096": {
     "IFSC": "CSBK0000096",
@@ -1447,12 +1447,12 @@
     "STATE": "KERALA",
     "ADDRESS": "MALANKAA BUILDING COMPLEX,PALAYAM,THIRUVANANTHAPURAM-695034,KERALA",
     "CONTACT": "2475945",
+    "MICR": "695047002",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "TRIVANDRUM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000097": {
     "IFSC": "CSBK0000097",
@@ -1462,12 +1462,12 @@
     "STATE": "KERALA",
     "ADDRESS": "ULLOOR, MEDICAL COLLEGE P O, THIRUVANANTHAPURAM 695011,KERALA",
     "CONTACT": "244860",
+    "MICR": "695047002",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "TRIVANDRUM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000098": {
     "IFSC": "CSBK0000098",
@@ -1477,12 +1477,12 @@
     "STATE": "KERALA",
     "ADDRESS": "PB NO 1745, CHITTOOR ROAD, VALANJAMBALAM, ERNAKULAM SOUTH - 682016",
     "CONTACT": "2376039",
+    "MICR": "682047011",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "ERNAKULAM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000099": {
     "IFSC": "CSBK0000099",
@@ -1502,17 +1502,17 @@
   "CSBK0000100": {
     "IFSC": "CSBK0000100",
     "BRANCH": "IBD ERNAKULAM",
-    "CENTRE": "KOCHI",
+    "CENTRE": "ERNAKULAM",
     "DISTRICT": "ERNAKULAM",
     "STATE": "KERALA",
     "ADDRESS": "PB NO. 1156, MARKET ROAD, ERNAKULAM - 682 011, KERALA",
     "CONTACT": "2380441",
+    "MICR": "682047002",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "ERNAKULAM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000101": {
     "IFSC": "CSBK0000101",
@@ -1687,12 +1687,12 @@
     "STATE": "KERALA",
     "ADDRESS": "ST.ANTONY'S SHRINE.HOLY TUESDAY SHOPPING MALL. KALOOR.COCHIN682017",
     "CONTACT": "2539475",
+    "MICR": "682047006",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "ERNAKULAM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000113": {
     "IFSC": "CSBK0000113",
@@ -1702,12 +1702,12 @@
     "STATE": "KERALA",
     "ADDRESS": "IMPERIAL BUILDINGS, T B ROAD, PALAKKAD - 678014",
     "CONTACT": "6451603",
+    "MICR": "678047002",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "PALAKKAD",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000114": {
     "IFSC": "CSBK0000114",
@@ -1762,12 +1762,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "NEW NO 8, OLD NO 56, ST.ANNES BLDG, MADURAI ROAD, MELAPPUDUR, PB NO. 149, THIRUCHIRAPALLI - 620001",
     "CONTACT": "2411083",
+    "MICR": "620047002",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "TIRUCHIORAPPALLI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000118": {
     "IFSC": "CSBK0000118",
@@ -1807,12 +1807,12 @@
     "STATE": "KERALA",
     "ADDRESS": "BABY LUCKOSE, E-MAIL : PALLIPURAM@CSB.CO.IN, PHONE: 0484 2488011",
     "CONTACT": "6451620",
+    "MICR": "682047020",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "ERNAKULAM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000121": {
     "IFSC": "CSBK0000121",
@@ -1852,12 +1852,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "P.B. NO. 2929,IST FLOOR SREE GANESHA COMPLEX, NO 12 10TH STREET GANDHIPURAM COIMBATORE-641 012 TAMILNADU",
     "CONTACT": "2493741",
+    "MICR": "641047003",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "COIMBOTORE",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000124": {
     "IFSC": "CSBK0000124",
@@ -1882,12 +1882,12 @@
     "STATE": "KERALA",
     "ADDRESS": "SHEELA M JOSE, E-MAIL : SOUTHVAZHAKULAM@CSB.CO.IN, PHONE: 0484 2677158",
     "CONTACT": "6451604",
+    "MICR": "682047021",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "ERNAKULAM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000126": {
     "IFSC": "CSBK0000126",
@@ -1912,12 +1912,12 @@
     "STATE": "KERALA",
     "ADDRESS": "NEW DEVAGIRI BLDG,MEDICAL COLLEGE P O,KOVOOR,KOZHIKODE-673008MR",
     "CONTACT": "2355272",
+    "MICR": "673047004",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "KOZHIKODE",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000128": {
     "IFSC": "CSBK0000128",
@@ -1927,12 +1927,12 @@
     "STATE": "KERALA",
     "ADDRESS": "PALLIMUKKU,VANCHYOOR P O, TRIVANDRUM",
     "CONTACT": "2473052",
+    "MICR": "695047004",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "TRIVANDRUM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000129": {
     "IFSC": "CSBK0000129",
@@ -2047,12 +2047,12 @@
     "STATE": "KERALA",
     "ADDRESS": "KOTTAPURAM JN,ALENGAD P O,ERNAKULAM DIST PIN-683511",
     "CONTACT": "6451636",
+    "MICR": "682047018",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "ERNAKULAM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000137": {
     "IFSC": "CSBK0000137",
@@ -2062,12 +2062,12 @@
     "STATE": "KERALA",
     "ADDRESS": "NGO QUARTERS JN, PO TRIKAKKARA, KOCHI - 682021",
     "CONTACT": "2422206",
+    "MICR": "682047009",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "ERNAKULAM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000138": {
     "IFSC": "CSBK0000138",
@@ -2077,12 +2077,12 @@
     "STATE": "KERALA",
     "ADDRESS": "CC-40/9668 A-3 EMGEE SQUARE GROUND FLOOR, M G ROAD ERNAKULAM KOCHI - 682 035",
     "CONTACT": "2369580",
+    "MICR": "682047007",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "ERNAKULAM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000139": {
     "IFSC": "CSBK0000139",
@@ -2287,12 +2287,12 @@
     "STATE": "KERALA",
     "ADDRESS": "P. O. PUZHAKKAL, MUTHUVARA - 680553, THRISSUR DISTRICT",
     "CONTACT": "2306040",
+    "MICR": "680047011",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "TRISSUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000153": {
     "IFSC": "CSBK0000153",
@@ -2422,12 +2422,12 @@
     "STATE": "WEST BENGAL",
     "ADDRESS": "BURRA BAZAR, 48, SIR HARIRAM GOENKA STREET, KOLKATA - 700007",
     "CONTACT": "22749963",
+    "MICR": "700047003",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "KOLKATA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000162": {
     "IFSC": "CSBK0000162",
@@ -2437,12 +2437,12 @@
     "STATE": "KERALA",
     "ADDRESS": "JOSE VALOORAN,E-MAIL:NORTHPARAVUR@CSB.CO.IN  TELEPHONE 04842442204",
     "CONTACT": "2441755",
+    "MICR": "682047017",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "ERNAKULAM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000163": {
     "IFSC": "CSBK0000163",
@@ -2617,12 +2617,12 @@
     "STATE": "KERALA",
     "ADDRESS": "RAJEEVAM SHOPPING COMPLEX, UP XIV/716, MANNANTHALA PO, THIRUVANANTHAPURAM - 695015",
     "CONTACT": "2531102",
+    "MICR": "695047007",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "TRIVANDRUM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000175": {
     "IFSC": "CSBK0000175",
@@ -2647,12 +2647,12 @@
     "STATE": "KERALA",
     "ADDRESS": "JYOTHI SUPER BAZAR, THODUPUZHA, IDUKKI DISTRICT",
     "CONTACT": "222476",
+    "MICR": "685047002",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "IDUKKI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000177": {
     "IFSC": "CSBK0000177",
@@ -2692,12 +2692,12 @@
     "STATE": "KERALA",
     "ADDRESS": "PLACKAL TOWER, KP 2/876, NH BYE PASS, PO. KAZHAKUTTOM, THIRUVANANTHAPURAM - 695582",
     "CONTACT": "2418316",
+    "MICR": "695047009",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "TRIVANDRUM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000180": {
     "IFSC": "CSBK0000180",
@@ -2782,12 +2782,12 @@
     "STATE": "KERALA",
     "ADDRESS": "DOOR NO. XXV/46, P.B. NO. 132, M.O. ROAD, THRISSUR - 680001, KERALA",
     "CONTACT": "2421329",
+    "MICR": "680047003",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "TRISSUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000186": {
     "IFSC": "CSBK0000186",
@@ -2797,12 +2797,12 @@
     "STATE": "KERALA",
     "ADDRESS": "DOOR NO. XXX/IV, GCDA BUILDING, GIRINAGAR NORTH ,COCHI,682020",
     "CONTACT": "2203718",
+    "MICR": "682047005",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "ERNAKULAM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000187": {
     "IFSC": "CSBK0000187",
@@ -2977,12 +2977,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "49,GOKULAM BLDG,ARCOT ROAD,KODAMBAKKOM-600 024",
     "CONTACT": "24727659",
+    "MICR": "600047003",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "CHENNAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000199": {
     "IFSC": "CSBK0000199",
@@ -3082,12 +3082,12 @@
     "STATE": "DELHI",
     "ADDRESS": "G-36 CONNAUGHT CIRCUS,NEW DELHI - 110 001, NEW DELHI",
     "CONTACT": "23328747",
+    "MICR": "110047002",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "NEW DELHI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000206": {
     "IFSC": "CSBK0000206",
@@ -3097,12 +3097,12 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "USHA ESTATES, DOOR NO 27.13.28, GOPALAREDDY ROAD, GOVERNPOST, VIJAYAWADA - 520002",
     "CONTACT": "2571375",
+    "MICR": "520047001",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "KRISHNA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000207": {
     "IFSC": "CSBK0000207",
@@ -3112,12 +3112,12 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "MAIN ROAD, ARUNDALPET, GUNTUR - 522002",
     "CONTACT": "2225819",
+    "MICR": "520047102",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "GUNTUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000208": {
     "IFSC": "CSBK0000208",
@@ -3127,12 +3127,12 @@
     "STATE": "KARNATAKA",
     "ADDRESS": "FIRST MAIN ROAD, GANDHI NAGAR, BANGALORE CITY - 560009",
     "CONTACT": "22261442",
+    "MICR": "560047004",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "BANGALORE URBAN",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000209": {
     "IFSC": "CSBK0000209",
@@ -3142,12 +3142,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "SEETHA ARCADE , KUMARAN ROAD , TIRUPUR , COIMBATORE 641601",
     "CONTACT": "2203051",
+    "MICR": "641047102",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "COIMBOTORE",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000210": {
     "IFSC": "CSBK0000210",
@@ -3172,12 +3172,12 @@
     "STATE": "WEST BENGAL",
     "ADDRESS": "FIRST FLOOR, PODDAR COURT, 18, RABINDRA SARANI, KOLKATA 700001",
     "CONTACT": "22252987",
+    "MICR": "700047002",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "KOLKATA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000212": {
     "IFSC": "CSBK0000212",
@@ -3202,12 +3202,12 @@
     "STATE": "KARNATAKA",
     "ADDRESS": "FIRST FLOOR LAKSHMI - BALAKRISHNA SQUARE STATION ROAD DHARWAD DT. HUBLI, KARNATAKA- 580 020",
     "CONTACT": "6566002",
+    "MICR": "580047002",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "DHARWAD",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000214": {
     "IFSC": "CSBK0000214",
@@ -3277,12 +3277,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "NO.18,V.S.S.M BUILDING,ROYAPETTAH ROAD,CHENNAI - 600 014",
     "CONTACT": "28132620",
+    "MICR": "600047005",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "CHENNAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000219": {
     "IFSC": "CSBK0000219",
@@ -3337,12 +3337,12 @@
     "STATE": "KARNATAKA",
     "ADDRESS": "I FLOOR, KUNIL CENTRE, DR. U P MALAYA ROAD,HAMPANKETTA, MANGALORE-575001",
     "CONTACT": "6536002",
+    "MICR": "575047002",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "DAKSHINA KANNADA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000223": {
     "IFSC": "CSBK0000223",
@@ -3352,12 +3352,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "826,TARAPORE TOWERS,MOUNT ROAD,CHENNAI - 600 002",
     "CONTACT": "28410599",
+    "MICR": "600047006",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "CHENNAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000224": {
     "IFSC": "CSBK0000224",
@@ -3412,12 +3412,12 @@
     "STATE": "KERALA",
     "ADDRESS": "P.B. NO. 805, M.G. ROAD, WEST FORT, THRISSUR - 680004, KERALA",
     "CONTACT": "2384812",
+    "MICR": "680047004",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "TRISSUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000228": {
     "IFSC": "CSBK0000228",
@@ -3427,12 +3427,12 @@
     "STATE": "PUDUCHERRY",
     "ADDRESS": "DOOR NO. 474/476/478 M G ROAD PONDICHERRY - 605 001",
     "CONTACT": "2229176",
+    "MICR": "605047001",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "PONDICHERRY",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000229": {
     "IFSC": "CSBK0000229",
@@ -3457,12 +3457,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "FIRST STERLING CENTRE, OPP. HOTEL ARORA TOWER, M G ROAD, PUNE 411 01",
     "CONTACT": "26130376",
+    "MICR": "411047001",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "GREATER MUMBAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000231": {
     "IFSC": "CSBK0000231",
@@ -3472,12 +3472,12 @@
     "STATE": "KERALA",
     "ADDRESS": "P.B. NO.502, \"COLLEGE VIEW\", HEAD OFFICE BUILDING, ST. MARY'S COLLEGE ROAD, THRISSUR - 680020, KERALA",
     "CONTACT": "6450162",
+    "MICR": "680047006",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "TRISSUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000232": {
     "IFSC": "CSBK0000232",
@@ -3487,12 +3487,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "826,TARAPORE TOWERS,MOUNT ROAD,CHENNAI - 600 002",
     "CONTACT": "28523993",
+    "MICR": "600047001",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "CHENNAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000233": {
     "IFSC": "CSBK0000233",
@@ -3502,12 +3502,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "ANU APARTMENTS, GOVARDHAN NAGAR,L B S MARG, MULUND WEST 400 082",
     "CONTACT": "21640867",
+    "MICR": "400047004",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "GREATER MUMBAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000234": {
     "IFSC": "CSBK0000234",
@@ -3517,12 +3517,12 @@
     "STATE": "KERALA",
     "ADDRESS": "MARKET ROAD, ERNAKULAM, KOCHI - 682011, ERNAKULAM, KERALA",
     "CONTACT": "2343138",
+    "MICR": "682047003",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "ERNAKULAM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000235": {
     "IFSC": "CSBK0000235",
@@ -3532,12 +3532,12 @@
     "STATE": "KERALA",
     "ADDRESS": "MALANKARA BUILDING COMPLEX, PALAYAM, THIRUVANANTHAPURAM - 695034, KERALA",
     "CONTACT": "2438236",
+    "MICR": "695047006",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "TRIVANDRUM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000236": {
     "IFSC": "CSBK0000236",
@@ -3562,12 +3562,12 @@
     "STATE": "KERALA",
     "ADDRESS": "CSB BHAVAN', ST. MARY'S COLLEGE ROAD, THRISSUR - 680020",
     "CONTACT": "6450159",
+    "MICR": "680047000",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "TRISSUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000238": {
     "IFSC": "CSBK0000238",
@@ -3592,12 +3592,12 @@
     "STATE": "GUJARAT",
     "ADDRESS": "AANGAN TOWER, OPP. BHAVANS SCHOOL, INDIRA GANDHI MARG, BARODA - 390004",
     "CONTACT": "2655942",
+    "MICR": "390047002",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "GANDHINAGAR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000240": {
     "IFSC": "CSBK0000240",
@@ -3607,12 +3607,12 @@
     "STATE": "GUJARAT",
     "ADDRESS": "FIRST FLOOR,DEVANG SHOPPING CENTRE,NEAR PEARL POINT, SURAT-395 007",
     "CONTACT": "2222437",
+    "MICR": "395047002",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "SURAT",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000241": {
     "IFSC": "CSBK0000241",
@@ -3667,12 +3667,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "7/IA, INDIRA GANDHI ROAD, PALLAVARAM, KANCHEEPURAM DT, CHENNAI - 600 043",
     "CONTACT": "22643935",
+    "MICR": "600047007",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "KANCHEEPURAM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000245": {
     "IFSC": "CSBK0000245",
@@ -3682,12 +3682,12 @@
     "STATE": "KARNATAKA",
     "ADDRESS": "1217, OPP. SHOPPING COMPLEX, NEW TOWN, YELAHANKA, BANGALORE - 560064",
     "CONTACT": "28462878",
+    "MICR": "560047005",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "BANGALORE URBAN",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000246": {
     "IFSC": "CSBK0000246",
@@ -3712,12 +3712,12 @@
     "STATE": "KERALA",
     "ADDRESS": "PAVAKULAM CHAMBERS 36/2289 B,AZAD ROAD,KALOOR,KOCHI,682017",
     "CONTACT": "2346412",
+    "MICR": "682047004",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "ERNAKULAM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000248": {
     "IFSC": "CSBK0000248",
@@ -3772,12 +3772,12 @@
     "STATE": "KERALA",
     "ADDRESS": "ALPHONSA BLDG.,MAVOOR RD.,KOZHIKODE 673004",
     "CONTACT": "6451605",
+    "MICR": "673047005",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "KOZHIKODE",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000252": {
     "IFSC": "CSBK0000252",
@@ -3787,12 +3787,12 @@
     "STATE": "KERALA",
     "ADDRESS": "FIRST FLOOR, RAINA COMPLEX, PREMIER JUNCTION, KALAMASSERY - 683104",
     "CONTACT": "6451629",
+    "MICR": "682047016",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "ERNAKULAM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000253": {
     "IFSC": "CSBK0000253",
@@ -3877,12 +3877,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "826,TARAPORE TOWERS,MOUNT ROAD,CHENNAI - 600 002",
     "CONTACT": "28526397",
+    "MICR": "600047008",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "CHENNAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000260": {
     "IFSC": "CSBK0000260",
@@ -3922,12 +3922,12 @@
     "STATE": "GUJARAT",
     "ADDRESS": "P B NO.11042, 1ST FLOOR, SAHAJANAND TRADE CENTRE,  ASHRAM ROAD, PREETAM NAGAR, PALDI, AHMEDABAD 380006",
     "CONTACT": "26585930",
+    "MICR": "380047002",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "AHMEDABAD",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000263": {
     "IFSC": "CSBK0000263",
@@ -3937,12 +3937,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "SHIVA COMPLEX, 54 OLD POST OFFICE ROAD COIMBATORE, TAMILNADU PIN-641018",
     "CONTACT": "2215803",
+    "MICR": "641047006",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "COIMBOTORE",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000264": {
     "IFSC": "CSBK0000264",
@@ -3982,12 +3982,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "358, M.T.H ROAD, AMBATTUR, CHENNAI - 600053",
     "CONTACT": "26250625",
+    "MICR": "600047009",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "TIRUVALLUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000267": {
     "IFSC": "CSBK0000267",
@@ -4027,12 +4027,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "KALPA BUILDING ,LAKSHMIPURAM ,GANAPATHY ,COIMBATORE PIN 641006",
     "CONTACT": "2522213",
+    "MICR": "641047005",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "COIMBOTORE",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000270": {
     "IFSC": "CSBK0000270",
@@ -4042,12 +4042,12 @@
     "STATE": "KERALA",
     "ADDRESS": "DJM BUILDING, MARKET ROAD, ERNAKULAM.",
     "CONTACT": "6451630",
+    "MICR": "682047001",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "ERNAKULAM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000271": {
     "IFSC": "CSBK0000271",
@@ -4087,12 +4087,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "DOOR NO.64, MOUNT ROAD, GUINDY, CHENNAI - 600032",
     "CONTACT": "22348008",
+    "MICR": "600047010",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "CHENNAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000274": {
     "IFSC": "CSBK0000274",
@@ -4117,12 +4117,12 @@
     "STATE": "KERALA",
     "ADDRESS": "ST. THOMAS CHURCH SHOPPING COMPLEX, BIG BAZAR, ARANNATTUKARA, THRISSUR - 680618, KERALA",
     "CONTACT": "6451626",
+    "MICR": "680047009",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "TRISSUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000276": {
     "IFSC": "CSBK0000276",
@@ -4132,12 +4132,12 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "1ST FLOOR,DIAMOND TOWERS, S D ROAD, DECUNDERABAD- 500003",
     "CONTACT": "27817576",
+    "MICR": "500047003",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "HYDERABAD URBAN",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000277": {
     "IFSC": "CSBK0000277",
@@ -4147,12 +4147,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "NO. 20, DAFFODILS, SECTOR -14, VASHI, NAVI MUMBAI -400 703",
     "CONTACT": "27664123",
+    "MICR": "400047006",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "GREATER MUMBAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000278": {
     "IFSC": "CSBK0000278",
@@ -4162,12 +4162,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "1ST FLOOR, PRIYADHARSHINI TOWERS, EAST CAR STREET, AVANASHI 641654, COIMBATORE DT., TAMIL NADU",
     "CONTACT": "272162",
+    "MICR": "641047103",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "COIMBOTORE",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000280": {
     "IFSC": "CSBK0000280",
@@ -4177,12 +4177,12 @@
     "STATE": "KERALA",
     "ADDRESS": "PO BOX NO 250, MAIN BRANCH PREMISES, ROUND SOUTH, THRISSUR - 680001",
     "CONTACT": "6451627",
+    "MICR": "680047001",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "TRISSUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000281": {
     "IFSC": "CSBK0000281",
@@ -4192,12 +4192,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SERVICE BR. P.B.NO.925,53 EAST&WEST BLDGMUMBAI SAMACHAR MARG, OPP.MUMBAI STOCK EXCHANGE,FORT MUMBAI-400023, MAHARASHTRA",
     "CONTACT": "22650851",
+    "MICR": "400047001",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "GREATER MUMBAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000282": {
     "IFSC": "CSBK0000282",
@@ -4207,12 +4207,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "26/4, MATCHWEL FACTORY ROAD, RAMWADI, PUNE - 411014",
     "CONTACT": "27031237",
+    "MICR": "411047002",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000283": {
     "IFSC": "CSBK0000283",
@@ -4222,27 +4222,27 @@
     "STATE": "DELHI",
     "ADDRESS": "OPP:DEEP CINEMA, ASHOK VIHAR, PHASE -I, DELHI - 110 052, NEW DELHI",
     "CONTACT": "27221341",
+    "MICR": "110047003",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "NEW DELHI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000284": {
     "IFSC": "CSBK0000284",
     "BRANCH": "T.DASARAHALLI",
-    "CENTRE": "BANGALORE",
+    "CENTRE": "DASARAHALLI",
     "DISTRICT": "DASARAHALLI",
     "STATE": "KARNATAKA",
     "ADDRESS": "NO 28-29, Srinidhi Towers,Tumkur Road  NH-4,T Dasarahalli , Bangalore- 560057",
     "CONTACT": "28398854",
+    "MICR": "560047006",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "BANGALORE URBAN",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000285": {
     "IFSC": "CSBK0000285",
@@ -4267,12 +4267,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "NISHANT II, VAIDYAWADI,RAMBAUG MAIN ROAD, KALYAN 421 301",
     "CONTACT": "2329326",
+    "MICR": "400047007",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "GREATER MUMBAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000287": {
     "IFSC": "CSBK0000287",
@@ -4297,12 +4297,12 @@
     "STATE": "KERALA",
     "ADDRESS": "THAMMANAM RD,PONNURUNNI,KOCHI, P.O.VYTILLA,682019",
     "CONTACT": "6452801",
+    "MICR": "682047013",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "ERNAKULAM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000289": {
     "IFSC": "CSBK0000289",
@@ -4312,12 +4312,12 @@
     "STATE": "KERALA",
     "ADDRESS": "D.J.M BUILDING, MARKET ROAD,COCHI,682011",
     "CONTACT": "6451658",
+    "MICR": "682047002",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "ERNAKULAM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000290": {
     "IFSC": "CSBK0000290",
@@ -4342,12 +4342,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "C-001 ORNAMENT APARTMENT,  EVERSHINE CITY VASAI EADST",
     "CONTACT": "2460656",
+    "MICR": "400047008",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "THANE",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000292": {
     "IFSC": "CSBK0000292",
@@ -4357,12 +4357,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "OPP. ST JOHN THE BAPTIST H.S., JAMBLINAKA,THANE WEST 400 601",
     "CONTACT": "25395766",
+    "MICR": "400047009",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "GREATER MUMBAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000293": {
     "IFSC": "CSBK0000293",
@@ -4387,12 +4387,12 @@
     "STATE": "CHANDIGARH",
     "ADDRESS": "SCO-114-115, SECTOR-34A, CHANDIGARH - 160 022, CHANDIGARH (U.T.)",
     "CONTACT": "2665995",
+    "MICR": "160047002",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "CHANDIGARH",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000295": {
     "IFSC": "CSBK0000295",
@@ -4402,12 +4402,12 @@
     "STATE": "PUNJAB",
     "ADDRESS": "GREEN FIELD, NEAR SARABHA NAGAR CHOWK, LUDHIANA - 141 002, PUNJAB",
     "CONTACT": "6450109",
+    "MICR": "141047002",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "LUDHIANA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000296": {
     "IFSC": "CSBK0000296",
@@ -4417,12 +4417,12 @@
     "STATE": "DELHI",
     "ADDRESS": "M-17, MARKET, GREATER KAILASH II, NEW DELHI - 110 048, NEW DELHI",
     "CONTACT": "29217818",
+    "MICR": "110047004",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "NEW DELHI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000297": {
     "IFSC": "CSBK0000297",
@@ -4432,12 +4432,12 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "C-60, SECTOR-2, NOIDA - 201 301, GAUTHAM BUDH NAGAR(DT.), UTTAR PRADESH",
     "CONTACT": "2485240",
+    "MICR": "110047005",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "GAUTAM BODDA NAGAR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000298": {
     "IFSC": "CSBK0000298",
@@ -4447,12 +4447,12 @@
     "STATE": "KERALA",
     "ADDRESS": "ST.MARY'S HIGHER SECONDARY SCHOOL BUILDING, PATTOM, THIRUVANANTHAPURAM-695004, KERALA",
     "CONTACT": "2441377",
+    "MICR": "695047008",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "TRIVANDRUM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000299": {
     "IFSC": "CSBK0000299",
@@ -4462,12 +4462,12 @@
     "STATE": "KERALA",
     "ADDRESS": "C.M.K. COMPLEX, PALAKKAD MAIN ROAD, EAST FORT, THRISSUR - 680005, KERALA",
     "CONTACT": "2333427",
+    "MICR": "680047012",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "TRISSUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000300": {
     "IFSC": "CSBK0000300",
@@ -4477,12 +4477,12 @@
     "STATE": "HARYANA",
     "ADDRESS": "A-2/B, NEELAM BATA ROAD, FARIDABAD - 121 001, HARYANA",
     "CONTACT": "2414968",
+    "MICR": "110047006",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "FARIDABAD",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000301": {
     "IFSC": "CSBK0000301",
@@ -4492,12 +4492,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "VILE PARLE BRANCH, NEAR BMC BAZAAR, OPP. PAWAN HOUSE, VILE PARLE (W), MUMBAI - 400 056",
     "CONTACT": "64503304",
+    "MICR": "400047012",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "GREATER MUMBAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000302": {
     "IFSC": "CSBK0000302",
@@ -4522,12 +4522,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "COSMOPOLITAN EDUCATION SOCIETY, VALIA COLLEGE OF COMMERCE AND ARTS, D.N NAGAR, LINK ROAD, ANDHERI WEST",
     "CONTACT": "26239604",
+    "MICR": "400047010",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "GREATER MUMBAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000304": {
     "IFSC": "CSBK0000304",
@@ -4537,12 +4537,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "VICTORIA HIGH SCHOOL SITLADEVI TEMPLE RD. MAHIM (W) MUMBAI - 400 016.",
     "CONTACT": "24459341",
+    "MICR": "400047013",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "GREATER MUMBAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000305": {
     "IFSC": "CSBK0000305",
@@ -4552,12 +4552,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "DOOR NO 32 , 1ST MAIN ROAD,OLYMPIC COLONY.PADI ,CHENNAI 600 050",
     "CONTACT": "65166784",
+    "MICR": "600047011",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "CHENNAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000306": {
     "IFSC": "CSBK0000306",
@@ -4567,12 +4567,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "CSB ZONAL OFFICE PREMISES, 513, DB ROAD, R.S PURAM, COIMBATORE - 641002",
     "CONTACT": "2472288",
+    "MICR": "641047002",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "COIMBOTORE",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000308": {
     "IFSC": "CSBK0000308",
@@ -4582,12 +4582,12 @@
     "STATE": "KERALA",
     "ADDRESS": "NOYAPLAZA,KALATHIPADY,VADAVATHOOR PO,686010,KOTTAYAM DT,KERALA,INDIA",
     "CONTACT": "2572986",
+    "MICR": "686047003",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "KOTTAYAM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000309": {
     "IFSC": "CSBK0000309",
@@ -4597,12 +4597,12 @@
     "STATE": "KERALA",
     "ADDRESS": "INFANT JESUS MONASTRY COMPLEX, P.O. THALORE, THRISSUR - 680306",
     "CONTACT": "6451629",
+    "MICR": "680047013",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "TRISSUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000310": {
     "IFSC": "CSBK0000310",
@@ -4627,12 +4627,12 @@
     "STATE": "KERALA",
     "ADDRESS": "ST. ANTONY'S CHURCH BUILDING, P.O. MANNUTHY - 680651, THRISSUR DISTRICT, KERALA",
     "CONTACT": "6451630",
+    "MICR": "680047014",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "TRISSUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000312": {
     "IFSC": "CSBK0000312",
@@ -4642,12 +4642,12 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "11, MOTILAL ATAL ROAD, JAIPUR - 302 001, RAJASTHAN",
     "CONTACT": "2377599",
+    "MICR": "302047002",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000313": {
     "IFSC": "CSBK0000313",
@@ -4687,12 +4687,12 @@
     "STATE": "ODISHA",
     "ADDRESS": "NO.45, ASHOK NAGAR, JANPATH, BHUBANESWAR - 751 009, ORISSA",
     "CONTACT": "2536040",
+    "MICR": "751047002",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "KHURDA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000316": {
     "IFSC": "CSBK0000316",
@@ -4702,12 +4702,12 @@
     "STATE": "HARYANA",
     "ADDRESS": "SCO-4, GROUND FLOOR, SECTOR-14, NEAR PAYAL CINEMA, GURGAON-122 001, HARYANA",
     "CONTACT": "2303840",
+    "MICR": "110047007",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "GURGAON",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000317": {
     "IFSC": "CSBK0000317",
@@ -4732,12 +4732,12 @@
     "STATE": "PUNJAB",
     "ADDRESS": "32, G T ROAD, AMARDEEP BUILDING, OPP:NARINDER CINEMA, JALANDHAR CITY - 144 001, PUNJAB",
     "CONTACT": "6450109",
+    "MICR": "144047002",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "JALANDHAR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000320": {
     "IFSC": "CSBK0000320",
@@ -4747,12 +4747,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "B13,2ND MAIN ROAD, ANNA NAGAR EAST,CHENNAI 600 012",
     "CONTACT": "64503967",
+    "MICR": "600047012",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "CHENNAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000321": {
     "IFSC": "CSBK0000321",
@@ -4762,12 +4762,12 @@
     "STATE": "DELHI",
     "ADDRESS": "G36, GROUND FLOOR, CONNAUGHT CIRCUS, NEW DELHI - 110001",
     "CONTACT": "64501217",
+    "MICR": "110047001",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "NEW DELHI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000322": {
     "IFSC": "CSBK0000322",
@@ -4777,12 +4777,12 @@
     "STATE": "DELHI",
     "ADDRESS": "NO.216-A/5, NEAR FR.AGNEL SENIOR SECONDARY SCHOOL, GAUTAM NAGAR, NEW DELHI - 110 049, NEW DELHI",
     "CONTACT": "64501215",
+    "MICR": "110047008",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "NEW DELHI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000323": {
     "IFSC": "CSBK0000323",
@@ -4792,12 +4792,12 @@
     "STATE": "KERALA",
     "ADDRESS": "ST. MARY'S ASSUMPTION CHURCH CHURCH SHOPPING COMPLEX, KOTTEKAD - 680013, THRISSUR DISTRICT",
     "CONTACT": "6451637",
+    "MICR": "680047016",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "TRISSUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000324": {
     "IFSC": "CSBK0000324",
@@ -4837,12 +4837,12 @@
     "STATE": "KERALA",
     "ADDRESS": "SREE KERALA VARMA COLLEGE, KANATTUKARA, THRISSUR - 680011",
     "CONTACT": "6451631",
+    "MICR": "680047017",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "TRISSUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000327": {
     "IFSC": "CSBK0000327",
@@ -4867,12 +4867,12 @@
     "STATE": "KERALA",
     "ADDRESS": "ST. ANTONY'S SHOPPING COMPLEX, PARAVATTANI - 680005, THRISSUR DISTRICT",
     "CONTACT": "6451632",
+    "MICR": "680047015",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "TRISSUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000329": {
     "IFSC": "CSBK0000329",
@@ -4882,12 +4882,12 @@
     "STATE": "KERALA",
     "ADDRESS": "SARVODAYA VIDYALAYA, NALANCHIRA, THIRUVANANTHAPURAM - 695015",
     "CONTACT": "6451609",
+    "MICR": "695047007",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "TRIVANDRUM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000330": {
     "IFSC": "CSBK0000330",
@@ -4897,12 +4897,12 @@
     "STATE": "KARNATAKA",
     "ADDRESS": "DHARMARAM COLLEGE PO., CHRIST SCHOOL ROAD, BANGALORE - 560029",
     "CONTACT": "65766342",
+    "MICR": "560047007",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "BANGALORE URBAN",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000331": {
     "IFSC": "CSBK0000331",
@@ -4912,12 +4912,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "ST.FRANCIS ITI, MOUNT POINSUR, BORIVILI WEST, MUMBAI - 400103",
     "CONTACT": "28948555",
+    "MICR": "400047014",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "GREATER MUMBAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000332": {
     "IFSC": "CSBK0000332",
@@ -4942,12 +4942,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SOCIETY OF DIVINE WORD, 510, SVD HOUSE, OPP. NATIONAL COLLEGE, BANDRA WEST.",
     "CONTACT": "64502161",
+    "MICR": "400047015",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "GREATER MUMBAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000334": {
     "IFSC": "CSBK0000334",
@@ -4957,12 +4957,12 @@
     "STATE": "KERALA",
     "ADDRESS": "ST. JOSEPHS HIGH SCHOOL, ARCHANA BLDG, STATUE, GH ROAD, THRIUVANANTHAPURAM - 695001",
     "CONTACT": "6451608",
+    "MICR": "695047013",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "TRIVANDRUM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000335": {
     "IFSC": "CSBK0000335",
@@ -4987,12 +4987,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "CATHOLIC SYRIAN BANK, PERAVALLUR, CHENNAI.",
     "CONTACT": "64546558",
+    "MICR": "600047013",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "CHENNAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000337": {
     "IFSC": "CSBK0000337",
@@ -5002,12 +5002,12 @@
     "STATE": "KARNATAKA",
     "ADDRESS": "THE CATHOLIC SYRIAN BANK LTD,NO 3/1,CLARKE ROAD,RICHARDS TOWN FRAZER TOWN P O,BANGALORE 560005",
     "CONTACT": "64502597",
+    "MICR": "560047008",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "BANGALORE URBAN",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000338": {
     "IFSC": "CSBK0000338",
@@ -5032,27 +5032,27 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "INSTITUTE OF INDIAN CULTURE, OPP.CANOSSA HIGH SCHOOL, MAHAKALI CAVES ROAD, ANDHERI EAST, MUMBAI 400093",
     "CONTACT": "28268394",
+    "MICR": "400047016",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "GREATER MUMBAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000340": {
     "IFSC": "CSBK0000340",
     "BRANCH": "NERUL",
-    "CENTRE": "NEW BOMBAY",
+    "CENTRE": "NEW MUMBAI",
     "DISTRICT": "NEW MUMBAI",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "ST.THOMAS JACOBITE SYRIAN ORTHADOX CHURCH BLDG., NEAR ST.XAVIER'S SCHOOL, SECTOR-3, PLOT NO.10, NERUL, NAVI MUMBAI - 400 706",
     "CONTACT": "64502173",
+    "MICR": "400047018",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "THANE",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000341": {
     "IFSC": "CSBK0000341",
@@ -5137,12 +5137,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "ST.THERESE CONVENT SCHOOL, PANDIT DINDAYAL ROAD, DOMBIVILI WEST, MUMBAI - 421202",
     "CONTACT": "6450232",
+    "MICR": "400047020",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "THANE",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000347": {
     "IFSC": "CSBK0000347",
@@ -5152,12 +5152,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "HOLY FAMILY CONVENT HS, LAL CHAKKI, ULHAS NAGAR, MUMBAI - 421004",
     "CONTACT": "6480171",
+    "MICR": "400047017",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "THANE",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000348": {
     "IFSC": "CSBK0000348",
@@ -5167,12 +5167,12 @@
     "STATE": "KERALA",
     "ADDRESS": "BHARAT MATHA COLLEGE, TRIKKAKARA, KOCHI - 682021",
     "CONTACT": "6451632",
+    "MICR": "682047022",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "ERNAKULAM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000349": {
     "IFSC": "CSBK0000349",
@@ -5302,12 +5302,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO 9,10,11, CANADA CORNER, RUSHIRAJ AVENUE, SHARANPUR TIMBAK LINK ROAD, NASIK 422002, MAHARASHTRA",
     "CONTACT": "6452265",
+    "MICR": "422047002",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "NASHIK",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000358": {
     "IFSC": "CSBK0000358",
@@ -5347,12 +5347,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "OBEROI CHANMBERS, NEAR HOTEL AMAR PREET, JALNA ROAD, AURANGABAD, MAHARASHTRA - 431 001",
     "CONTACT": "6450241",
+    "MICR": "431047003",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "AURANGABAD",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000361": {
     "IFSC": "CSBK0000361",
@@ -5362,12 +5362,12 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "RATNASRI  NEAR DIAMOND PARK, SAVKARAMATTOM ROAD, DWARAKA NAGAR, VISAKHAPATNAM 530 016",
     "CONTACT": "6451812",
+    "MICR": "530047002",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "VISHAKAPATNAM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000362": {
     "IFSC": "CSBK0000362",
@@ -5407,12 +5407,12 @@
     "STATE": "WEST BENGAL",
     "ADDRESS": "NO.BF/25, SALT LAKE CITY SECTOR-1 KOLKATA 700 064",
     "CONTACT": "64512084",
+    "MICR": "700047004",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "KOLKATA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000365": {
     "IFSC": "CSBK0000365",
@@ -5437,12 +5437,12 @@
     "STATE": "KARNATAKA",
     "ADDRESS": "NEAR OLD BUS STAND, B B ROAD, DEVANAHALLI TOWN - 562110",
     "CONTACT": "9243603645",
+    "MICR": "560047011",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "BANGALORE RURAL",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000367": {
     "IFSC": "CSBK0000367",
@@ -5542,12 +5542,12 @@
     "STATE": "KERALA",
     "ADDRESS": "D.J.M BUILDING, MARKET ROAD,COCHI,682011",
     "CONTACT": "6451649",
+    "MICR": "682047002",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "ERNAKULAM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000377": {
     "IFSC": "CSBK0000377",
@@ -5557,12 +5557,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "1-14,A5.S VMALL,PAMMAM MARTHANDAM 629165,KANYAKUMARI DISTRICT,TAMILNADU",
     "CONTACT": "9244900393",
+    "MICR": "629047102",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "KANYAKUMARI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000378": {
     "IFSC": "CSBK0000378",
@@ -5597,7 +5597,7 @@
   "CSBK0000380": {
     "IFSC": "CSBK0000380",
     "BRANCH": "VALANCHERY",
-    "CENTRE": "VALANCHERRY",
+    "CENTRE": "VALANCHERY",
     "DISTRICT": "VALANCHERY",
     "STATE": "KERALA",
     "ADDRESS": "BUILDING NO III/747, MOOCHIKKAL , VALANCHERY 676552, MALAPPURAM DT",
@@ -5617,7 +5617,7 @@
     "STATE": "KERALA",
     "ADDRESS": "SMART TRADE CITY,NEAR BUS STAND, KOTTAKKAL,676503",
     "CONTACT": "9287201775",
-    "MICR": "629047102",
+    "MICR": "676047102",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "MALAPPURAM",
@@ -5702,7 +5702,7 @@
   "CSBK0000387": {
     "IFSC": "CSBK0000387",
     "BRANCH": "KONDOTTY",
-    "CENTRE": "KUNDOTTY",
+    "CENTRE": "KONDOTTY",
     "DISTRICT": "KONDOTTY",
     "STATE": "KERALA",
     "ADDRESS": "GROUND FLOOR, TOWER 17,BYE PASS ROAD KONDOTTY",
@@ -5812,12 +5812,12 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "SATHY ROAD, POOTHOTTAM NAGAR, SARAVANAMPATTI, COIMBATORE DISTRICT - 641035",
     "CONTACT": "2667277",
+    "MICR": "364047001",
     "BANK": "CATHOLIC SYRIAN BANK LIMITED",
     "RTGS": true,
     "CITY": "COIMBATORE",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CSBK0000395": {
     "IFSC": "CSBK0000395",
@@ -6576,9 +6576,23 @@
     "DISTRICT": "COIMBATORE",
     "STATE": "TAMIL NADU",
     "ADDRESS": "54,2ND FLOOR,SHIVA COMPLEX,OLD POST OFFICE ROAD,COIMBATORE,TAMILNADU,PIN-641018",
-    "CONTACT": "04222383055",
+    "CONTACT": "4222383055",
     "MICR": "641047008",
-    "BANK": "CATHOLIC SYRIAN BANK LIMITED",
+    "BANK": "CSB BANK LIMITED",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true
+  },
+  "CSBK0000447": {
+    "IFSC": "CSBK0000447",
+    "BRANCH": "ASSET RECOVERY BRANCH",
+    "CENTRE": "ERNAKULAM",
+    "DISTRICT": "ERNAKULAM",
+    "STATE": "KERALA",
+    "ADDRESS": "DJM BUILDING, MARKET ROAD, ERNAKULAM, KERALA-682011",
+    "CONTACT": "4842380441",
+    "MICR": "682047027",
+    "BANK": "CSB BANK LIMITED",
     "RTGS": true,
     "NEFT": false,
     "IMPS": true
@@ -6627,5 +6641,19 @@
     "NEFT": true,
     "IMPS": true,
     "MICR": null
+  },
+  "CSBK000NEFT": {
+    "IFSC": "CSBK000NEFT",
+    "BRANCH": "RTGS CENTRE",
+    "CENTRE": "KOCHI",
+    "DISTRICT": "ERNAKULAM",
+    "STATE": "KERALA",
+    "ADDRESS": "MARKET ROAD, ERNAKULAM, KOCHI - 682011, ERNAKULAM, KERALA",
+    "CONTACT": "4846460167",
+    "MICR": "682047002",
+    "BANK": "CSB BANK LIMITED",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true
   }
 }

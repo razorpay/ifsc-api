@@ -67,12 +67,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "2413, KUMAR CAPITAL, EAST STREET, PUNE 411 001",
     "CONTACT": "5606356",
+    "MICR": "411037001",
     "BANK": "CITI BANK",
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CITI0000006": {
     "IFSC": "CITI0000006",
@@ -382,12 +382,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "CITIBANK NA, KALPACHANDRA, NEXT TO SHOPPERS STOP, ANDHERI",
     "CONTACT": "9821227132",
+    "MICR": "400037005",
     "BANK": "CITI BANK",
     "RTGS": true,
     "CITY": "GREATER MUMBAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CITI0000037": {
     "IFSC": "CITI0000037",
@@ -397,27 +397,27 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "CITIBANK NA, AMMU, B1, V MEHTA ROAD,JVPD SCHEME JUHU",
     "CONTACT": "9967659169",
+    "MICR": "400037006",
     "BANK": "CITI BANK",
     "RTGS": true,
     "CITY": "GREATER MUMBAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CITI0000038": {
     "IFSC": "CITI0000038",
     "BRANCH": "VASHI",
-    "CENTRE": "NEW BOMBAY",
+    "CENTRE": "NEW MUMBAI",
     "DISTRICT": "NEW MUMBAI",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "CITIBANK NA, MAHATMA PHULE BHAVAN, PALM BEACH ROAD, JUNCTION SECTOR 17 VASHI, NEW MUMBAI",
     "CONTACT": "982018847",
+    "MICR": "400037007",
     "BANK": "CITI BANK",
     "RTGS": true,
     "CITY": "THANE",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CITI0000039": {
     "IFSC": "CITI0000039",
@@ -427,12 +427,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "CITIBANK NA, WEST VIEW BLDG, LINKING ROAD KHAR DANDA JUNCTION, KHAR WEST",
     "CONTACT": "9820594168",
+    "MICR": "400037004",
     "BANK": "CITI BANK",
     "RTGS": true,
     "CITY": "GREATER MUMBAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CITI0000040": {
     "IFSC": "CITI0000040",
@@ -442,12 +442,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "CITIBANK NA  AIR INDIA BLDG, NARIMAN POINT MUMBAI",
     "CONTACT": "9820507303",
+    "MICR": "400037003",
     "BANK": "CITI BANK",
     "RTGS": true,
     "CITY": "GREATER MUMBAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CITI0000042": {
     "IFSC": "CITI0000042",
@@ -501,7 +501,7 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GROUND FLOOR, SHOP NO. 2, WING A, LALANI RESIDENCY, SURVEY NO. 199/4, VILLAGE KAVESAR, OPP. SURAJ WATER PARK, NEAR WAGHBIL NAKA, GHODBUNDER ROAD, THANE (WEST) - 400 615",
     "CONTACT": "25981401",
-    "MICR": "400037004",
+    "MICR": "400037008",
     "BANK": "CITI BANK",
     "RTGS": true,
     "CITY": "THANE",
@@ -516,7 +516,7 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Citigroup Centre, C-61, Bandra Kurla Complex, Bandra E, Mumbai - 51",
     "CONTACT": null,
-    "BANK": "CITI BANK N A",
+    "BANK": "CITI BANK",
     "RTGS": true,
     "NEFT": false,
     "IMPS": true,
@@ -530,7 +530,7 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Citigroup Centre, C-61, Bandra Kurla Complex, Bandra E, Mumbai - 51",
     "CONTACT": null,
-    "BANK": "CITI BANK N A",
+    "BANK": "CITI BANK",
     "RTGS": true,
     "NEFT": false,
     "IMPS": true,
@@ -544,7 +544,7 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Citigroup Centre, C-61, Bandra Kurla Complex, Bandra E, Mumbai - 51",
     "CONTACT": null,
-    "BANK": "CITI BANK N A",
+    "BANK": "CITI BANK",
     "RTGS": true,
     "NEFT": false,
     "IMPS": true,
@@ -558,7 +558,7 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Citigroup Centre, C-61, Bandra Kurla Complex, Bandra E, Mumbai - 51",
     "CONTACT": null,
-    "BANK": "CITI BANK N A",
+    "BANK": "CITI BANK",
     "RTGS": true,
     "NEFT": false,
     "IMPS": true,
@@ -572,7 +572,7 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Citigroup Centre, C-61, Bandra Kurla Complex, Bandra E, Mumbai - 51",
     "CONTACT": null,
-    "BANK": "CITI BANK N A",
+    "BANK": "CITI BANK",
     "RTGS": true,
     "NEFT": false,
     "IMPS": true,

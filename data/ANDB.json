@@ -2820,18 +2820,19 @@
     "MICR": null
   },
   "ANDB0000193": {
-    "BANK": "ANDHRA BANK",
     "IFSC": "ANDB0000193",
     "BRANCH": "SEETHARAMPURAM",
-    "ADDRESS": "SEETHARAMPURAM,HANUMANTHUNIPADU MANDAL,PRAKASAM DIST,AP",
-    "CONTACT": null,
-    "CITY": "PRAKASAM",
+    "CENTRE": "SEETHARAMPURAM",
     "DISTRICT": "SEETHARAMPURAM",
     "STATE": "ANDHRA PRADESH",
+    "ADDRESS": "SEETHARAMPURAM,HANUMANTHUNIPADU MANDAL,PRAKASAM DIST,AP",
+    "CONTACT": null,
+    "MICR": "523011606",
+    "BANK": "ANDHRA BANK",
+    "RTGS": true,
+    "CITY": "PRAKASAM",
     "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ANDB0000194": {
     "IFSC": "ANDB0000194",
@@ -2864,18 +2865,19 @@
     "MICR": null
   },
   "ANDB0000196": {
-    "BANK": "ANDHRA BANK",
     "IFSC": "ANDB0000196",
     "BRANCH": "KAMBALADINNE",
-    "ADDRESS": "KAMBALADINNE,PAMUR MANDAL,PRAKASAM DIST,AP",
-    "CONTACT": null,
-    "CITY": "PRAKASAM",
+    "CENTRE": "KAMBALADINNE",
     "DISTRICT": "KAMBALADINNE",
     "STATE": "ANDHRA PRADESH",
+    "ADDRESS": "KAMBALADINNE,PAMUR MANDAL,PRAKASAM DIST,AP",
+    "CONTACT": null,
+    "MICR": "523011702",
+    "BANK": "ANDHRA BANK",
+    "RTGS": true,
+    "CITY": "PRAKASAM",
     "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ANDB0000197": {
     "IFSC": "ANDB0000197",
@@ -3925,18 +3927,19 @@
     "MICR": null
   },
   "ANDB0000272": {
-    "BANK": "ANDHRA BANK",
     "IFSC": "ANDB0000272",
     "BRANCH": "JAVVARPET(MACHILIPATNAM)",
-    "ADDRESS": "JAVVARPET,MACHILIPATNAM,KRISHNA DIST,AP",
-    "CONTACT": null,
-    "CITY": "KRISHNA",
+    "CENTRE": "MACHILIPATNAM",
     "DISTRICT": "MACHILIPATNAM",
     "STATE": "ANDHRA PRADESH",
+    "ADDRESS": "JAVVARPET,MACHILIPATNAM,KRISHNA DIST,AP",
+    "CONTACT": null,
+    "MICR": "520011405",
+    "BANK": "ANDHRA BANK",
+    "RTGS": true,
+    "CITY": "KRISHNA",
     "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ANDB0000273": {
     "IFSC": "ANDB0000273",
@@ -9652,18 +9655,19 @@
     "MICR": null
   },
   "ANDB0000660": {
-    "BANK": "ANDHRA BANK",
     "IFSC": "ANDB0000660",
     "BRANCH": "Y.CHARLAPALLI",
-    "ADDRESS": "MAIN ROAD.CHERLOPALLI┬á┬áDOMMA;A MANDAL PRAKASAM DT",
-    "CONTACT": null,
-    "CITY": "PRAKASAM",
+    "CENTRE": "Y.CHARLAPALLI",
     "DISTRICT": "Y.CHARLAPALLI",
     "STATE": "ANDHRA PRADESH",
+    "ADDRESS": "MAIN ROAD.CHERLOPALLI┬á┬áDOMMA;A MANDAL PRAKASAM DT",
+    "CONTACT": null,
+    "MICR": "523011603",
+    "BANK": "ANDHRA BANK",
+    "RTGS": true,
+    "CITY": "PRAKASAM",
     "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ANDB0000661": {
     "IFSC": "ANDB0000661",
@@ -13087,18 +13091,19 @@
     "MICR": null
   },
   "ANDB0000916": {
-    "BANK": "ANDHRA BANK",
     "IFSC": "ANDB0000916",
     "BRANCH": "POLAVARAM",
-    "ADDRESS": "POLAVARAMPOOTHALAPATTU MANDAL,CHITOOR D",
-    "CONTACT": null,
-    "CITY": "WEST GODAVARI",
+    "CENTRE": "POLAVARAM",
     "DISTRICT": "POLAVARAM",
     "STATE": "ANDHRA PRADESH",
+    "ADDRESS": "POLAVARAMPOOTHALAPATTU MANDAL,CHITOOR D",
+    "CONTACT": null,
+    "MICR": "517011782",
+    "BANK": "ANDHRA BANK",
+    "RTGS": true,
+    "CITY": "WEST GODAVARI",
     "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ANDB0000919": {
     "IFSC": "ANDB0000919",
@@ -13654,18 +13659,19 @@
     "MICR": null
   },
   "ANDB0000959": {
-    "BANK": "ANDHRA BANK",
     "IFSC": "ANDB0000959",
     "BRANCH": "SANIPAYA",
-    "ADDRESS": "VEERABALLA MANDALCUDDAPAH DIST",
-    "CONTACT": null,
-    "CITY": "CUDDAPAH",
+    "CENTRE": "SANIPAYA",
     "DISTRICT": "SANIPAYA",
     "STATE": "ANDHRA PRADESH",
+    "ADDRESS": "VEERABALLA MANDALCUDDAPAH DIST",
+    "CONTACT": null,
+    "MICR": "516011662",
+    "BANK": "ANDHRA BANK",
+    "RTGS": true,
+    "CITY": "CUDDAPAH",
     "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ANDB0000960": {
     "IFSC": "ANDB0000960",
@@ -13833,18 +13839,19 @@
     "MICR": null
   },
   "ANDB0000973": {
-    "BANK": "ANDHRA BANK",
     "IFSC": "ANDB0000973",
     "BRANCH": "MULAKALEDU",
-    "ADDRESS": "MULAKALEDUSETTUR MANDAL,ANANTPUR DIST,AP",
-    "CONTACT": null,
-    "CITY": "ANANTAPUR",
+    "CENTRE": "MULAKALEDU",
     "DISTRICT": "MULAKALEDU",
     "STATE": "ANDHRA PRADESH",
+    "ADDRESS": "MULAKALEDUSETTUR MANDAL,ANANTPUR DIST,AP",
+    "CONTACT": null,
+    "MICR": "515011643",
+    "BANK": "ANDHRA BANK",
+    "RTGS": true,
+    "CITY": "ANANTAPUR",
     "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ANDB0000974": {
     "IFSC": "ANDB0000974",
@@ -16546,18 +16553,19 @@
     "MICR": null
   },
   "ANDB0001168": {
-    "BANK": "ANDHRA BANK",
     "IFSC": "ANDB0001168",
     "BRANCH": "SECUNDERABAD CLUB",
-    "ADDRESS": "PICKET SECUNDERABAD CLUB SECUNDERABAD",
-    "CONTACT": null,
-    "CITY": "HYDERABAD URBAN",
+    "CENTRE": "SECUNDERABAD",
     "DISTRICT": "SECUNDERABAD",
     "STATE": "ANDHRA PRADESH",
+    "ADDRESS": "PICKET SECUNDERABAD CLUB SECUNDERABAD",
+    "CONTACT": null,
+    "MICR": "500011078",
+    "BANK": "ANDHRA BANK",
+    "RTGS": true,
+    "CITY": "HYDERABAD URBAN",
     "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ANDB0001169": {
     "IFSC": "ANDB0001169",
@@ -18416,18 +18424,19 @@
     "MICR": null
   },
   "ANDB0001298": {
-    "BANK": "ANDHRA BANK",
     "IFSC": "ANDB0001298",
     "BRANCH": "SUBBARAOPETA",
-    "ADDRESS": "D.NO-4-12-9PURETIVARI STREET,SUBBARAOPETATADEPALLIGUDEM,W.G.DIST, A.P",
-    "CONTACT": null,
-    "CITY": "WEST GODAVARI",
+    "CENTRE": "TADEPALLI GUDEM",
     "DISTRICT": "TADEPALLI GUDEM",
     "STATE": "ANDHRA PRADESH",
+    "ADDRESS": "D.NO-4-12-9PURETIVARI STREET,SUBBARAOPETATADEPALLIGUDEM,W.G.DIST, A.P",
+    "CONTACT": null,
+    "MICR": "534011630",
+    "BANK": "ANDHRA BANK",
+    "RTGS": true,
+    "CITY": "WEST GODAVARI",
     "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ANDB0001299": {
     "IFSC": "ANDB0001299",
@@ -21456,18 +21465,19 @@
     "MICR": null
   },
   "ANDB0001503": {
-    "BANK": "ANDHRA BANK",
     "IFSC": "ANDB0001503",
     "BRANCH": "CRR POLYTECHNIC COLLEGE",
-    "ADDRESS": "CRR POLYTECNIC COLLEGE CAMPUS, VATLURU-534007",
-    "CONTACT": null,
-    "CITY": "WEST GODAVARI",
+    "CENTRE": "ELURU",
     "DISTRICT": "ELURU",
     "STATE": "ANDHRA PRADESH",
+    "ADDRESS": "CRR POLYTECNIC COLLEGE CAMPUS, VATLURU-534007",
+    "CONTACT": null,
+    "MICR": "534011009",
+    "BANK": "ANDHRA BANK",
+    "RTGS": true,
+    "CITY": "WEST GODAVARI",
     "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ANDB0001504": {
     "IFSC": "ANDB0001504",
@@ -21485,18 +21495,19 @@
     "IMPS": true
   },
   "ANDB0001505": {
-    "BANK": "ANDHRA BANK",
     "IFSC": "ANDB0001505",
     "BRANCH": "PALANADU ROAD",
-    "ADDRESS": "PALANADU ROAD, NARSARAOPET",
-    "CONTACT": null,
-    "CITY": "GUNTUR",
+    "CENTRE": "NARASAROPET",
     "DISTRICT": "NARASAROPET",
     "STATE": "ANDHRA PRADESH",
+    "ADDRESS": "PALANADU ROAD, NARSARAOPET",
+    "CONTACT": null,
+    "MICR": "520011606",
+    "BANK": "ANDHRA BANK",
+    "RTGS": true,
+    "CITY": "GUNTUR",
     "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ANDB0001506": {
     "BANK": "ANDHRA BANK",
@@ -21991,18 +22002,19 @@
     "MICR": null
   },
   "ANDB0001540": {
-    "BANK": "ANDHRA BANK",
     "IFSC": "ANDB0001540",
     "BRANCH": "SREE VIDYANIKETAN ENGG COLL,TIRUPATHI",
-    "ADDRESS": "A RANGAMPET, CHANDRAGIRI,CHITTOOR,ANDHRA PRADESH,517102",
-    "CONTACT": null,
-    "CITY": "CHITTOOR",
+    "CENTRE": "TIRUPATHI",
     "DISTRICT": "TIRUPATHI",
     "STATE": "ANDHRA PRADESH",
+    "ADDRESS": "A RANGAMPET, CHANDRAGIRI,CHITTOOR,ANDHRA PRADESH,517102",
+    "CONTACT": null,
+    "MICR": "517011007",
+    "BANK": "ANDHRA BANK",
+    "RTGS": true,
+    "CITY": "CHITTOOR",
     "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ANDB0001541": {
     "IFSC": "ANDB0001541",
@@ -22035,18 +22047,19 @@
     "MICR": null
   },
   "ANDB0001543": {
-    "BANK": "ANDHRA BANK",
     "IFSC": "ANDB0001543",
     "BRANCH": "SVH COLLEGE OF ENGG",
-    "ADDRESS": "SVH ENGG COLLEGE CAMPU, POTHEPALLI KRISHNA DIS",
-    "CONTACT": null,
-    "CITY": "KRISHNA",
+    "CENTRE": "POTHEPALLI",
     "DISTRICT": "POTHEPALLI",
     "STATE": "ANDHRA PRADESH",
+    "ADDRESS": "SVH ENGG COLLEGE CAMPU, POTHEPALLI KRISHNA DIS",
+    "CONTACT": null,
+    "MICR": "520011787",
+    "BANK": "ANDHRA BANK",
+    "RTGS": true,
+    "CITY": "KRISHNA",
     "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ANDB0001544": {
     "IFSC": "ANDB0001544",

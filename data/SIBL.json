@@ -14010,6 +14010,20 @@
     "RTGS": false,
     "MICR": null
   },
+  "SIBL0008008": {
+    "IFSC": "SIBL0008008",
+    "BRANCH": "CFM DEPARTMENT",
+    "CENTRE": "THRISSUR",
+    "DISTRICT": "THRISSUR",
+    "STATE": "KERALA",
+    "ADDRESS": "SIB HOUSE,TB ROAD,MISSION QUARTERS,THRISSUR",
+    "CONTACT": "4842365657",
+    "BANK": "SOUTH INDIAN BANK",
+    "RTGS": true,
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
+  },
   "SIBL0008018": {
     "IFSC": "SIBL0008018",
     "BRANCH": "TREASURY DEPARTMENT",
