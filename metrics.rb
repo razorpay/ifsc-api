@@ -3,7 +3,7 @@ require 'prometheus/client/formats/text'
 
 class Metrics
   def initialize
-    @bank_metrics = Prometheus::Client.registry.counter(:bank_lookups, "A counter of successful lookups made against each bank")
+    @bank_metrics = Prometheus::Client.registry.counter(:bank_lookups, docstring: "A counter of successful lookups made against each bank")
   end
 
   def increment(ifsc)
