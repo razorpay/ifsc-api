@@ -69238,6 +69238,7 @@
     "IMPS": true
   },
   "UTIB0SUBBLR": {
+    "BANK": "AXIS BANK",
     "IFSC": "UTIB0SUBBLR",
     "BRANCH": "BELUR URBAN COOPERATIVE BANK LTD",
     "CENTRE": "BELUR",
@@ -69245,11 +69246,10 @@
     "STATE": "KARNATAKA",
     "ADDRESS": "OLD POST OFFICE ROAD, BELUR 573115",
     "CONTACT": "223030",
-    "BANK": "AXIS BANK",
+    "IMPS": true,
     "RTGS": true,
     "CITY": "HASSAN",
     "NEFT": true,
-    "IMPS": true,
     "MICR": null
   },
   "UTIB0SUBCO1": {

@@ -1,5 +1,6 @@
 {
   "EBIL0000001": {
+    "BANK": "EMIRATES NBD BANK P J S C",
     "IFSC": "EBIL0000001",
     "BRANCH": "RTGS-HO",
     "CENTRE": "MUMBAI",
@@ -7,11 +8,10 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GROUND FLOOR,5TH NORTH AVENUE,MAKER MAXITY,BKC,BANDRA ( EAST),MUMBAI 400051",
     "CONTACT": "61532330",
-    "BANK": "EMIRATES NBD BANK P J S C",
+    "IMPS": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true,
     "MICR": null
   },
   "EBIL00000SC": {

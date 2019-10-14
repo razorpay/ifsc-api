@@ -75104,6 +75104,7 @@
     "NEFT": true
   },
   "ICIC00AJHCB": {
+    "BANK": "ICICI BANK LIMITED",
     "IFSC": "ICIC00AJHCB",
     "BRANCH": "AMBARNATH JAI HIND COOP BANK LTD",
     "CENTRE": "KALYAN",
@@ -75111,12 +75112,11 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PLOT NO 44, PURVA DARSHAN, LOKMANYA TILAK PATH, AMBARNATH (WEST) ┬û 421501,MAHARASHTRA",
     "CONTACT": null,
+    "IMPS": true,
     "MICR": "400082479",
-    "BANK": "ICICI BANK LIMITED",
     "RTGS": true,
     "CITY": "THANE",
-    "NEFT": true,
-    "IMPS": true
+    "NEFT": true
   },
   "ICIC00ALDCB": {
     "IFSC": "ICIC00ALDCB",
