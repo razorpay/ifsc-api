@@ -1619,20 +1619,6 @@
     "NEFT": true,
     "IMPS": true
   },
-  "IOBA0000111": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0000111",
-    "BRANCH": "KALBADEVI ROAD",
-    "ADDRESS": "15 BY 17, OVAL WADI, CHUNILAL MEHTA CHAMBERS, VITHALWADI, MUMBAI - 400002",
-    "CONTACT": "22404769",
-    "CITY": "GREATER BOMBAY",
-    "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA",
-    "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
-  },
   "IOBA0000112": {
     "IFSC": "IOBA0000112",
     "BRANCH": "SURAT",
@@ -1655,12 +1641,11 @@
     "DISTRICT": "KOLKATA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "6, ROYD STREET, KOLKATA 700016",
-    "CONTACT": "24660281",
+    "CONTACT": "024660281",
     "MICR": "110020006",
     "BANK": "INDIAN OVERSEAS BANK",
     "RTGS": true,
-    "CITY": "KOLKATA",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true
   },
   "IOBA0000114": {
@@ -17263,20 +17248,6 @@
     "NEFT": true,
     "IMPS": true
   },
-  "IOBA0001227": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0001227",
-    "BRANCH": "MUDUKKANKULAM",
-    "ADDRESS": "MUDUKKANGULAM VIL AND PO, VIA KARIAPATTI,ARUPPUKKOTTAI TK,MUDUKKANKULAM,PIN 626106",
-    "CONTACT": "202023",
-    "CITY": "VIRUDHUNAGAR",
-    "DISTRICT": "MUDUKKANKULAM",
-    "STATE": "TAMIL NADU",
-    "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
-  },
   "IOBA0001228": {
     "IFSC": "IOBA0001228",
     "BRANCH": "SUBASH GARH",
@@ -18626,20 +18597,6 @@
     "CITY": "COIMBOTORE",
     "NEFT": true,
     "IMPS": true
-  },
-  "IOBA0001331": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0001331",
-    "BRANCH": "RAJAPALAYAM II",
-    "ADDRESS": "732 A B,TENKASI ROAD,RAJAYAPALAYAM,PIN 626117",
-    "CONTACT": "220332",
-    "CITY": "VIRUDHUNAGAR",
-    "DISTRICT": "RAJAPALAIYAM",
-    "STATE": "TAMIL NADU",
-    "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
   },
   "IOBA0001333": {
     "IFSC": "IOBA0001333",
@@ -21580,20 +21537,6 @@
     "CITY": "WEST GODAVARI",
     "NEFT": true,
     "IMPS": true
-  },
-  "IOBA0001548": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0001548",
-    "BRANCH": "CENTRAL OFFICE STAFF BR",
-    "ADDRESS": "763, CENTRAL OFFICE COMPLEX CANTEEN BLOCK-I FLOOR, ANNA SALAI, CHENNAI 600002",
-    "CONTACT": "231009",
-    "CITY": "CHENNAI",
-    "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU",
-    "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
   },
   "IOBA0001549": {
     "IFSC": "IOBA0001549",
@@ -25300,20 +25243,6 @@
     "NEFT": true,
     "IMPS": true
   },
-  "IOBA0001803": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0001803",
-    "BRANCH": "SVSUGAR MILLS",
-    "ADDRESS": "SV SUGAR MILLS COMPL,CHINGLEPUT KANCHEEPURAM MAIN ROAD",
-    "CONTACT": "2830809",
-    "CITY": "KANCHEEPURAM",
-    "DISTRICT": "UTHIRAMERUR",
-    "STATE": "TAMIL NADU",
-    "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
-  },
   "IOBA0001804": {
     "IFSC": "IOBA0001804",
     "BRANCH": "GURGAONSECTOR 44",
@@ -27313,15 +27242,14 @@
     "IFSC": "IOBA0001945",
     "BRANCH": "GURU NANAK GIRLS COLLEGE",
     "CENTRE": "MULLANPUR",
-    "DISTRICT": "MULLANPUR",
+    "DISTRICT": "LUDHIANA",
     "STATE": "PUNJAB",
     "ADDRESS": "MULLANPUR DAKHA MANDI,KAILPUR ROAD LUDHIANA PIN 141001",
-    "CONTACT": "2881340",
+    "CONTACT": "02881340",
     "MICR": "700020501",
     "BANK": "INDIAN OVERSEAS BANK",
     "RTGS": true,
-    "CITY": "LUDHIANA",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true
   },
   "IOBA0001946": {
@@ -27403,15 +27331,14 @@
     "IFSC": "IOBA0001951",
     "BRANCH": "KAKDWIP",
     "CENTRE": "KAKDWIP",
-    "DISTRICT": "KAKDWIP",
+    "DISTRICT": "SOUTH 24 PARGANAS",
     "STATE": "WEST BENGAL",
     "ADDRESS": "47 RUP CHAND GHAT ROAD,KAKDWIP BAZAAR,POKAKDWIP KAKDWIP PIN 743347",
-    "CONTACT": "257251",
+    "CONTACT": "3210257251",
     "MICR": "144020202",
     "BANK": "INDIAN OVERSEAS BANK",
     "RTGS": true,
-    "CITY": "SOUTH 24 PARGANAS",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true
   },
   "IOBA0001952": {
@@ -28036,10 +27963,11 @@
     "DISTRICT": "KOLKATA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "INDIAN OVERSEAS BANK, ASSET RECOVERY MANAGEMENT BRANCH, NO 3 CHOWRINGHEE APPROACH, KOLKATA - 700072",
-    "CONTACT": "03322124053",
+    "CONTACT": "22124053",
     "BANK": "INDIAN OVERSEAS BANK",
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOLKATA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -29033,20 +28961,6 @@
     "NEFT": true,
     "IMPS": true
   },
-  "IOBA0002129": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0002129",
-    "BRANCH": "NELLOREPOGA THOTA",
-    "ADDRESS": "NO 16  II  192, TRUNK ROAD, NELLOREPIN 524001",
-    "CONTACT": "2341834",
-    "CITY": "NELLORE",
-    "DISTRICT": "NELLORE",
-    "STATE": "ANDHRA PRADESH",
-    "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
-  },
   "IOBA0002131": {
     "IFSC": "IOBA0002131",
     "BRANCH": "BARASAT",
@@ -29541,20 +29455,6 @@
     "CITY": "RANGAREDDY",
     "NEFT": true,
     "IMPS": true
-  },
-  "IOBA0002178": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0002178",
-    "BRANCH": "DAHEJ",
-    "ADDRESS": "ANAMIKA COMPLEX, 1 ST FLOOR,IPCL MAIN ROAD,NEAR DAHEJ CHOWKDI,DAHEJ,BHARUCH GUJARAT PIN 392130",
-    "CONTACT": "256177",
-    "CITY": "BHARUCH",
-    "DISTRICT": "DAHEJ",
-    "STATE": "GUJARAT",
-    "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
   },
   "IOBA0002179": {
     "IFSC": "IOBA0002179",
@@ -30583,12 +30483,11 @@
     "DISTRICT": "KOLKATA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "P10,NEW CITYROAD BRANCH IIFLOOR ABC INDIA PREMISES,KOLKATTA 700073 WEST BENGAL",
-    "CONTACT": "22372161",
+    "CONTACT": "022372161",
     "MICR": "686020154",
     "BANK": "INDIAN OVERSEAS BANK",
     "RTGS": true,
-    "CITY": "KOLKATA",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true
   },
   "IOBA0002270": {
@@ -33861,20 +33760,6 @@
     "IMPS": true,
     "MICR": null
   },
-  "IOBA0002499": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0002499",
-    "BRANCH": "PADUBIDRI",
-    "ADDRESS": "A.NO 1 168 1 TO 168 3 GROUND FLOOR HOTEL SAI INTERNATIONAL BUILDING NH 66,PADUBIDRI",
-    "CONTACT": "28584896",
-    "CITY": "UDIPI",
-    "DISTRICT": "UDUPI",
-    "STATE": "KARNATAKA",
-    "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
-  },
   "IOBA0002500": {
     "IFSC": "IOBA0002500",
     "BRANCH": "SRINGERI",
@@ -35300,20 +35185,6 @@
     "NEFT": true,
     "IMPS": true
   },
-  "IOBA0002600": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0002600",
-    "BRANCH": "ADILABAD",
-    "ADDRESS": "3,AND 4,CINEMA ROAD,BHAWANPURA,ADILABAD 500400 ADILABAD,ANDHRA PRADESH",
-    "CONTACT": "28584896",
-    "CITY": "ADILABAD",
-    "DISTRICT": "ADILABAD",
-    "STATE": "ANDHRA PRADESH",
-    "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
-  },
   "IOBA0002601": {
     "IFSC": "IOBA0002601",
     "BRANCH": "ADONI",
@@ -35959,20 +35830,6 @@
     "NEFT": true,
     "IMPS": true
   },
-  "IOBA0002648": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0002648",
-    "BRANCH": "HUBLI GOKUL ROAD",
-    "ADDRESS": "GRND FLR,MADHAR ARCADE,CTS NO 1 2 3 4,RS NO 611B,GOKUL ROAD,HUBLI 580030 DHARWAD,KARNATAKA",
-    "CONTACT": "28584896",
-    "CITY": "DHARWAD",
-    "DISTRICT": "HUBLI DHARWAD",
-    "STATE": "KARNATAKA",
-    "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
-  },
   "IOBA0002649": {
     "IFSC": "IOBA0002649",
     "BRANCH": "HUBLI KUSGAL ROAD",
@@ -36032,20 +35889,6 @@
     "CITY": "DHARWAD",
     "NEFT": true,
     "IMPS": true
-  },
-  "IOBA0002653": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0002653",
-    "BRANCH": "TORANAGALLU",
-    "ADDRESS": "SHANKARGUDA COLONY,JSW STEEL LTD,TORANGALLU,BELLARY DIST 583275",
-    "CONTACT": "28584896",
-    "CITY": "BELLARY",
-    "DISTRICT": "TORANAGALLU",
-    "STATE": "KARNATAKA",
-    "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
   },
   "IOBA0002654": {
     "IFSC": "IOBA0002654",
@@ -37387,13 +37230,12 @@
     "CENTRE": "DELHI",
     "DISTRICT": "DELHI",
     "STATE": "DELHI",
-    "ADDRESS": "F47, Malhotra building, Janpath, New Delhi ┬û 110001",
-    "CONTACT": "23359796",
+    "ADDRESS": "F47, Malhotra building, Janpath, New Delhi – 110001",
+    "CONTACT": "4423359796",
     "MICR": "636020037",
     "BANK": "INDIAN OVERSEAS BANK",
     "RTGS": true,
-    "CITY": "DELHI",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true
   },
   "IOBA0002747": {
@@ -38986,20 +38828,6 @@
     "NEFT": true,
     "IMPS": true
   },
-  "IOBA0002856": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0002856",
-    "BRANCH": "CHELLAKERE",
-    "ADDRESS": "NIRMALA CHANDRA BUILD,BUS STAND ROAD,CHELLAKERE DIST CHITRADURGA,KARNATAKA 577522",
-    "CONTACT": "28584896",
-    "CITY": "CHITRADURGA",
-    "DISTRICT": "CHALLAKERE",
-    "STATE": "KARNATAKA",
-    "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
-  },
   "IOBA0002857": {
     "IFSC": "IOBA0002857",
     "BRANCH": "HARIHARA",
@@ -39404,20 +39232,6 @@
     "CITY": "SURAT",
     "NEFT": true,
     "IMPS": true
-  },
-  "IOBA0002885": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0002885",
-    "BRANCH": "SAYAJIGUNJ",
-    "ADDRESS": "GRND FLR P M REGENCY BUILDING STATION ROAD SAYAJIGUNG BARODA GUJARAT 390005",
-    "CONTACT": "28584896",
-    "CITY": "GANDHINAGAR",
-    "DISTRICT": "VADODARA",
-    "STATE": "GUJARAT",
-    "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
   },
   "IOBA0002886": {
     "IFSC": "IOBA0002886",
@@ -39973,20 +39787,6 @@
     "CITY": "HYDERABAD",
     "NEFT": true,
     "IMPS": true
-  },
-  "IOBA0002933": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0002933",
-    "BRANCH": "LARGE CORPORATE AHMEDABAD",
-    "ADDRESS": "CHINUBHAI TOWERS, NEHRU BRIDGE, ASHRAM ROAD, AHMEDABAD 380009",
-    "CONTACT": "28584896",
-    "CITY": "AHMADABAD",
-    "DISTRICT": "AHMEDABAD",
-    "STATE": "GUJARAT",
-    "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
   },
   "IOBA0002935": {
     "IFSC": "IOBA0002935",
@@ -41321,20 +41121,6 @@
     "NEFT": true,
     "IMPS": true
   },
-  "IOBA0003055": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0003055",
-    "BRANCH": "HEBRI",
-    "ADDRESS": "5 53,SUDHEENDRA COMPLEX,1ST FLOOR,MAIN ROAD HEBRI KARKALA TALUK PIN576112",
-    "CONTACT": "28584896",
-    "CITY": "UDIPI",
-    "DISTRICT": "HEBRI",
-    "STATE": "KARNATAKA",
-    "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
-  },
   "IOBA0003057": {
     "IFSC": "IOBA0003057",
     "BRANCH": "AKLUJSACB",
@@ -42262,20 +42048,6 @@
     "RTGS": true,
     "CITY": "WARANGAL",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
-  },
-  "IOBA0003128": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0003128",
-    "BRANCH": "KOTHAPALLE",
-    "ADDRESS": "KOTHAPALLE VILLAGE AND GRAMPANCHAYAT,THIMMAPUR MANDAL,KARIMNAGAR DIST,ANDHRA PRADESH,505481",
-    "CONTACT": "28584896",
-    "CITY": "EAST GODAVARI",
-    "DISTRICT": "KOTHAPALLY",
-    "STATE": "ANDHRA PRADESH",
-    "NEFT": true,
-    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
@@ -43284,20 +43056,6 @@
     "IMPS": true,
     "MICR": null
   },
-  "IOBA0003201": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0003201",
-    "BRANCH": "KULAI MANGALORE",
-    "ADDRESS": "SRI NAVANIDHI COMPLEX,GOKUL NAGAR,KULAI POST,MANGALORE,DAKSHIN KANNADA 575014",
-    "CONTACT": "28584896",
-    "CITY": "DAKSHIN KANNAD",
-    "DISTRICT": "MANGALORE",
-    "STATE": "KARNATAKA",
-    "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
-  },
   "IOBA0003202": {
     "IFSC": "IOBA0003202",
     "BRANCH": "MANGALORE KOTTARA",
@@ -43415,20 +43173,6 @@
     "RTGS": true,
     "CITY": "BHOPAL",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
-  },
-  "IOBA0003210": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0003210",
-    "BRANCH": "MANGALORE KANKANADY",
-    "ADDRESS": "SHANTHINIKETHAN,BENDOOR WELL CIRCLE,KANKANADY ROAD,MANGALORE,DAKSHIN KANNADA 575002",
-    "CONTACT": "28584896",
-    "CITY": "DAKSHIN KANNAD",
-    "DISTRICT": "MANGALORE",
-    "STATE": "KARNATAKA",
-    "NEFT": true,
-    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
@@ -43579,20 +43323,6 @@
     "RTGS": true,
     "CITY": "PONDICHERRY",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
-  },
-  "IOBA0003221": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0003221",
-    "BRANCH": "THIRUPPAPULIYUR",
-    "ADDRESS": "69,ARIA ARCADE,GRK LINK ROAD,THIRUPAPULIYUR,PIN 607002",
-    "CONTACT": "28584896",
-    "CITY": "CUDDALORE",
-    "DISTRICT": "CUDDALORE",
-    "STATE": "TAMIL NADU",
-    "NEFT": true,
-    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
@@ -44226,20 +43956,6 @@
     "NEFT": true,
     "IMPS": true
   },
-  "IOBA0003269": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0003269",
-    "BRANCH": "PALAVAKKAM",
-    "ADDRESS": "NO.1 BY 146,EAST COAST ROAD ECR PALAVAKKAM,NEAR PALAVAKKAM MOSQUE,CHENNAI 600041",
-    "CONTACT": "28584896",
-    "CITY": "KANCHEEPURAM",
-    "DISTRICT": "KELAMBAKKAM",
-    "STATE": "TAMIL NADU",
-    "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
-  },
   "IOBA0003270": {
     "IFSC": "IOBA0003270",
     "BRANCH": "PERUMBAKKAM",
@@ -44492,20 +44208,6 @@
     "RTGS": true,
     "CITY": "HYDERABAD",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
-  },
-  "IOBA0003291": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0003291",
-    "BRANCH": "HABIBULLAH ROAD CHENNAI",
-    "ADDRESS": "SHRI MAHALAKSHMI G FLOOR NO 6 3 D ST HABIBULLAH ROAD CHENNAI",
-    "CONTACT": "28584896",
-    "CITY": "CHENNAI",
-    "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU",
-    "NEFT": true,
-    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
@@ -44989,20 +44691,6 @@
     "NEFT": true,
     "IMPS": true
   },
-  "IOBA0003334": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0003334",
-    "BRANCH": "WEST JONES ROAD CHENNAI",
-    "ADDRESS": "OLD NO.17,NEW NO.39,SESACHALAM STREET,WEST JONES ROAD,SAIDAPET,CHENNAI 600 015",
-    "CONTACT": "28584896",
-    "CITY": "CHENNAI",
-    "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU",
-    "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
-  },
   "IOBA0003335": {
     "IFSC": "IOBA0003335",
     "BRANCH": "JANJGIRI",
@@ -45023,14 +44711,13 @@
     "BRANCH": "MANDIR HASAUD",
     "CENTRE": "RAIPUR",
     "DISTRICT": "RAIPUR",
-    "STATE": "CHATTISGARH",
+    "STATE": "CHHATTISGARH",
     "ADDRESS": "MANDIR HASAUD,AIRPORT ROAD,PO MANDIR HASAUD,DISTRICT RAIPURPIN 492101,STATE CHHATTISGARH",
-    "CONTACT": "28584896",
+    "CONTACT": null,
     "MICR": "625020078",
     "BANK": "INDIAN OVERSEAS BANK",
     "RTGS": true,
-    "CITY": "RAIPUR",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true
   },
   "IOBA0003337": {
@@ -45077,20 +44764,6 @@
     "CITY": "NORTH GOA",
     "NEFT": true,
     "IMPS": true
-  },
-  "IOBA0003340": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0003340",
-    "BRANCH": "BENAULIM",
-    "ADDRESS": "SHOP NO 279 B GF,S3,S4 PEQUENO,PULVADDO,BENAULIM,SALCETE,GOA 403716",
-    "CONTACT": "28584896",
-    "CITY": "SOUTH GOA",
-    "DISTRICT": "SOUTH GOA",
-    "STATE": "GOA",
-    "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
   },
   "IOBA0003341": {
     "IFSC": "IOBA0003341",
@@ -45827,20 +45500,6 @@
     "IMPS": true,
     "MICR": null
   },
-  "IOBA0003414": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0003414",
-    "BRANCH": "VEDANARAYANAPURAM",
-    "ADDRESS": "VIDYA SAGAR WOMENS COLLEGE,GST ROAD,VEDANARAYANAPURAM CHENGALPATTU 603111",
-    "CONTACT": "28584896",
-    "CITY": "KANCHEEPURAM",
-    "DISTRICT": "CHENGALPATTU",
-    "STATE": "TAMIL NADU",
-    "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
-  },
   "IOBA0003415": {
     "IFSC": "IOBA0003415",
     "BRANCH": "ADAMPUR",
@@ -46348,20 +46007,6 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
-  },
-  "IOBA0003451": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0003451",
-    "BRANCH": "VIJAYANAGARAM",
-    "ADDRESS": "16,3RD CROSS STREET,VIJAYA NAGAR,VELACHERY,CHENNAI 600042",
-    "CONTACT": "28416619",
-    "CITY": "CHENNAI",
-    "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU",
-    "NEFT": true,
-    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
@@ -46917,20 +46562,6 @@
     "RTGS": true,
     "CITY": "CUDDALORE",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
-  },
-  "IOBA0003497": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0003497",
-    "BRANCH": "NELSON MANICKAM ROAD",
-    "ADDRESS": "NO:2/30 RAILWAY COLONY, 2ND STREET, CHENNAI - 600029",
-    "CONTACT": "28525980",
-    "CITY": "CHENNAI",
-    "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU",
-    "NEFT": true,
-    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
@@ -47638,20 +47269,6 @@
     "NEFT": true,
     "IMPS": true
   },
-  "IOBA0003546": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0003546",
-    "BRANCH": "SME-MAYILADUTHURAI-SRINIVASAPURAM",
-    "ADDRESS": "197A,197/5A DR RADHAKRISHNAN STREET,SRINIVASAPURAM, MAYILADUTHURAI 609001",
-    "CONTACT": "240922",
-    "CITY": "NAGAPATTINAM",
-    "DISTRICT": "MAYURAM(MAYILADUTHURAI)",
-    "STATE": "TAMIL NADU",
-    "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
-  },
   "IOBA0003547": {
     "IFSC": "IOBA0003547",
     "BRANCH": "KOOTHANALLUR LAKSHMANGUDI",
@@ -48087,20 +47704,6 @@
     "IMPS": true,
     "MICR": null
   },
-  "IOBA0003580": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0003580",
-    "BRANCH": "CHENNAI RAJARATHINAM STREET BRANCH",
-    "ADDRESS": "14/28 RAJARATHINAM STREET, OPP TO BEVORLY HOTEL,NEAR EGA THEATRE,KILPAUK,CHENNAI - 600010",
-    "CONTACT": "4428416619",
-    "CITY": "CHENNAI",
-    "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU",
-    "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
-  },
   "IOBA0003581": {
     "IFSC": "IOBA0003581",
     "BRANCH": "TRAJPUR SME BRANCH",
@@ -48113,20 +47716,6 @@
     "RTGS": true,
     "CITY": "RAJKOT",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
-  },
-  "IOBA0003582": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0003582",
-    "BRANCH": "KUMARAN COLONY",
-    "ADDRESS": "NO.50 OLD NO.43 BY 1 KUMARAN COLONY,NERKUNDRAM ROAD,VADAPALANI,CHENNAI 600026",
-    "CONTACT": "28416619",
-    "CITY": "CHENNAI",
-    "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU",
-    "NEFT": true,
-    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
@@ -48337,20 +47926,6 @@
     "RTGS": true,
     "CITY": "KANCHEEPURAM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
-  },
-  "IOBA0003598": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0003598",
-    "BRANCH": "SUJATHAMMA COLONY",
-    "ADDRESS": "24/1432, BEHIND AMBHEDKAR BHAVAN, SUJATHAMMA COLONY, NELLORE 524003",
-    "CONTACT": "2250048",
-    "CITY": "NELLORE",
-    "DISTRICT": "NELLORE",
-    "STATE": "ANDHRA PRADESH",
-    "NEFT": true,
-    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
@@ -49104,34 +48679,6 @@
     "IMPS": true,
     "MICR": null
   },
-  "IOBA0003654": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0003654",
-    "BRANCH": "ALMORAH",
-    "ADDRESS": "PANT NIWAS MOHALLA PANIYAUDIYAR LAXMESHWAR ALMORAH UTTRAKHAND 263601",
-    "CONTACT": "2769642",
-    "CITY": "ALMORA",
-    "DISTRICT": "ALMORA",
-    "STATE": "UTTARAKHAND",
-    "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
-  },
-  "IOBA0003655": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0003655",
-    "BRANCH": "PANDUR",
-    "ADDRESS": "VGR NAGAR THIRUVALLUR PANDUR THIRUVALLUR TALUK TAMILNADU 631203",
-    "CONTACT": "2227386",
-    "CITY": "THIRUVALLUR",
-    "DISTRICT": "TIRUVALLUR",
-    "STATE": "TAMIL NADU",
-    "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
-  },
   "IOBA0003656": {
     "IFSC": "IOBA0003656",
     "BRANCH": "DAWATH",
@@ -49297,20 +48844,6 @@
     "IMPS": true,
     "MICR": null
   },
-  "IOBA0003669": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0003669",
-    "BRANCH": "VITA",
-    "ADDRESS": "OPP MODERN ENGLISH SCHOOL MAHAVIR NAGAR VITA SANGLI DIST MAHARASHTRA 415311",
-    "CONTACT": "25665822",
-    "CITY": "SANGLI",
-    "DISTRICT": "VITA",
-    "STATE": "MAHARASHTRA",
-    "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
-  },
   "IOBA0003670": {
     "IFSC": "IOBA0003670",
     "BRANCH": "BAHOUR",
@@ -49458,20 +48991,6 @@
     "RTGS": true,
     "CITY": "KANCHEEPURAM",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
-  },
-  "IOBA0003681": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0003681",
-    "BRANCH": "SPECIALISED SME KARUR",
-    "ADDRESS": "191,1 LNS VILLAGE COVAI ROAD KARUR 639001",
-    "CONTACT": "2243337",
-    "CITY": "KARUR",
-    "DISTRICT": "KARUR",
-    "STATE": "TAMIL NADU",
-    "NEFT": true,
-    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
@@ -49640,20 +49159,6 @@
     "IMPS": true,
     "MICR": null
   },
-  "IOBA0003693": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0003693",
-    "BRANCH": "AMRELI",
-    "ADDRESS": "GROUND FLOOR, BEHIND NAGNATH TEMPLE, NEAR LIC OFFICE, AMRELI",
-    "CONTACT": "2451907",
-    "CITY": "AMRELI",
-    "DISTRICT": "AMRELI",
-    "STATE": "GUJARAT",
-    "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
-  },
   "IOBA0003694": {
     "IFSC": "IOBA0003694",
     "BRANCH": "UDUMA",
@@ -49804,20 +49309,6 @@
     "IMPS": true,
     "MICR": null
   },
-  "IOBA0003704": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0003704",
-    "BRANCH": "GUBBI",
-    "ADDRESS": "3803,BH ROAD,GUBBI,TUMKUR DIST KARNATAKA STATE,PIN 572216",
-    "CONTACT": "22950212",
-    "CITY": "TUMKUR",
-    "DISTRICT": "GUBBI",
-    "STATE": "KARNATAKA",
-    "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
-  },
   "IOBA0003705": {
     "IFSC": "IOBA0003705",
     "BRANCH": "RAPID RETAIL CENTRE KARUR",
@@ -49830,20 +49321,6 @@
     "RTGS": true,
     "CITY": "KARUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
-  },
-  "IOBA0003707": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0003707",
-    "BRANCH": "SANTEMOL RAIA",
-    "ADDRESS": "SHOP NO 1231 SEMPRE BONITA SONARWADDO SALCETE GOA 403707",
-    "CONTACT": "2435640",
-    "CITY": "NORTH GOA",
-    "DISTRICT": "PANAJI",
-    "STATE": "GOA",
-    "NEFT": true,
-    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
@@ -49889,20 +49366,6 @@
     "RTGS": true,
     "CITY": "RANCHI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
-  },
-  "IOBA0003713": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0003713",
-    "BRANCH": "PHALTAN",
-    "ADDRESS": "18,CCTS NO 3320,SUNIL COMPLEX,OPP TO GANDHI HOSPITAL,SANMATI NAGAR,RING ROAD,PHALTAN 415523,MAHARASHTRA",
-    "CONTACT": "25665822",
-    "CITY": "SATARA",
-    "DISTRICT": "PHALTAN",
-    "STATE": "MAHARASHTRA",
-    "NEFT": true,
-    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
@@ -49978,20 +49441,6 @@
     "RTGS": true,
     "CITY": "CHAMOLI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
-  },
-  "IOBA0003719": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0003719",
-    "BRANCH": "KOLLEMCODE",
-    "ADDRESS": "107 GR FLR ILLUPPAMODU ROAD KANNAGAM KOLLENCODE VILAVANCODE 629601",
-    "CONTACT": "2441477",
-    "CITY": "KANYAKUMARI",
-    "DISTRICT": "VILAVANCODE",
-    "STATE": "TAMIL NADU",
-    "NEFT": true,
-    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
@@ -50125,34 +49574,6 @@
     "RTGS": true,
     "CITY": "BHOPAL",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
-  },
-  "IOBA0003730": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0003730",
-    "BRANCH": "PONNAVARAYANKOTTAI",
-    "ADDRESS": "SRINIDHI GARDEN MUTHUPETTAI MAIN ROAD TA PATTUKOTTAI 614602",
-    "CONTACT": "235377",
-    "CITY": "THANJAVUR",
-    "DISTRICT": "PATTUKOTTAI",
-    "STATE": "TAMIL NADU",
-    "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
-  },
-  "IOBA0003731": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0003731",
-    "BRANCH": "SPECIALISED SME PARAMAKUDI",
-    "ADDRESS": "IST FLOOR 3 546 D MADURAI MANDAPAM ROAD PARAMAGUDI 623707",
-    "CONTACT": "2337760",
-    "CITY": "RAMANATHAPURAM",
-    "DISTRICT": "PARAMAGUDI",
-    "STATE": "TAMIL NADU",
-    "NEFT": true,
-    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
@@ -50383,20 +49804,6 @@
     "IMPS": true,
     "MICR": null
   },
-  "IOBA0003753": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0003753",
-    "BRANCH": "SPECIALIESED MSME BRANCH KARAIKUDI",
-    "ADDRESS": "267 COLLEGE ROAD SUBRAMANIAPURAM KARAIKUDI 630002",
-    "CONTACT": "226382",
-    "CITY": "SIVAGANGA",
-    "DISTRICT": "KARAIKUDI",
-    "STATE": "TAMIL NADU",
-    "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
-  },
   "IOBA0003754": {
     "IFSC": "IOBA0003754",
     "BRANCH": "SPECIALISED MSME BRANCH PUDUKOTTAI",
@@ -50565,15 +49972,14 @@
     "IFSC": "IOBA0003765",
     "BRANCH": "SPECIALISED MSME BRANCH NAGERCOIL",
     "CENTRE": "AGASTEESWARAM",
-    "DISTRICT": "AGASTEESWARAM",
+    "DISTRICT": "KANYAKUMARI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "DOOR NO 103, K P ROAD, CHETTIKULAM JUNCTION, TALUK AGASTHEESWARAM, DIST KANYAKUMARI 629002",
-    "CONTACT": "278009",
+    "CONTACT": "04652278009",
     "MICR": "756020507",
     "BANK": "INDIAN OVERSEAS BANK",
     "RTGS": true,
-    "CITY": "KANYAKUMARI",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true
   },
   "IOBA0003766": {
@@ -50613,20 +50019,6 @@
     "CITY": "THIRUVALLUR",
     "DISTRICT": "AMBATTUR",
     "STATE": "TAMIL NADU",
-    "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
-  },
-  "IOBA0003770": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0003770",
-    "BRANCH": "SALT LAKE CITY SECTOR III",
-    "ADDRESS": "SECTOR III SALT LAKE HA 302 SALT LAKE CITY KOLKATA 700097",
-    "CONTACT": "22270611",
-    "CITY": "NORTH 24 PARGANAS",
-    "DISTRICT": "BIDHANNAGAR",
-    "STATE": "WEST BENGAL",
     "NEFT": true,
     "RTGS": false,
     "IMPS": true,
@@ -50675,20 +50067,6 @@
     "IMPS": true,
     "MICR": null
   },
-  "IOBA0003774": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0003774",
-    "BRANCH": "SAIDPUR",
-    "ADDRESS": "WALGREEN HOSPITAL VARANASI GHAZIPUR HIGHWAY ARZIGANJ GHAZIPUR",
-    "CONTACT": "2220617",
-    "CITY": "GHAZIPUR",
-    "DISTRICT": "SAIDPUR",
-    "STATE": "UTTAR PRADESH",
-    "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
-  },
   "IOBA0003775": {
     "IFSC": "IOBA0003775",
     "BRANCH": "SAHARAN MAJRA",
@@ -50731,20 +50109,6 @@
     "RTGS": true,
     "CITY": "GADAG",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
-  },
-  "IOBA0003778": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0003778",
-    "BRANCH": "HARIDWAR-RANIPUR",
-    "ADDRESS": "KUMAR COMPLEX CHANDRACHARYA CHOWK RANIPUR MOR HARIDWAR 249407",
-    "CONTACT": "3980606",
-    "CITY": "HARIDWAR",
-    "DISTRICT": "RANIPUR",
-    "STATE": "UTTARAKHAND",
-    "NEFT": true,
-    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
@@ -50860,12 +50224,11 @@
     "DISTRICT": "DELHI",
     "STATE": "DELHI",
     "ADDRESS": "MEZZANINE FLOOR,G-5,MODEL TOWN,DELHI PIN 110 009",
-    "CONTACT": "27417330",
+    "CONTACT": "01127417330",
     "MICR": "635020302",
     "BANK": "INDIAN OVERSEAS BANK",
     "RTGS": true,
-    "CITY": "DELHI",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true
   },
   "IOBA0003788": {
@@ -51093,34 +50456,6 @@
     "NEFT": true,
     "IMPS": true
   },
-  "IOBA0003803": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0003803",
-    "BRANCH": "SME-SPECIALISED BRANCH",
-    "ADDRESS": "ISLL8&AKLDIESMBIMIH64.",
-    "CONTACT": "2465110",
-    "CITY": "TIRUCHIRAPALLI",
-    "DISTRICT": "TIRUCHIRAPALLI",
-    "STATE": "TAMIL NADU",
-    "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
-  },
-  "IOBA0003804": {
-    "BANK": "INDIAN OVERSEAS BANK",
-    "IFSC": "IOBA0003804",
-    "BRANCH": "KILAKUYILKUDI",
-    "ADDRESS": "ACADEMIC BLOCK,ANNA UNIVERSITY,REGIONAL CAMPUS,KANYAKUMARI NATIONAL HIGHWAY,KILAKUYILKUDI VILLAGE",
-    "CONTACT": "2520027",
-    "CITY": "MADURAI",
-    "DISTRICT": "MADURAI",
-    "STATE": "TAMIL NADU",
-    "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
-  },
   "IOBA0003807": {
     "IFSC": "IOBA0003807",
     "BRANCH": "REGALLA",
@@ -51247,10 +50582,11 @@
     "DISTRICT": "CHENNAI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "CENTRAL OFFICE - IOB, ANNEXE BUILDING, 1ST FLOOR, 763, ANNA SALAI CHENNAI - 600002",
-    "CONTACT": "04428519278",
+    "CONTACT": "28519278",
     "BANK": "INDIAN OVERSEAS BANK",
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHENNAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },

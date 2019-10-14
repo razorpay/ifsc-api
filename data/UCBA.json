@@ -2969,20 +2969,6 @@
     "IMPS": true,
     "MICR": null
   },
-  "UCBA0000219": {
-    "BANK": "UCO BANK",
-    "IFSC": "UCBA0000219",
-    "BRANCH": "GANESH CHANDRA AVENUE",
-    "ADDRESS": "25 GANESH CHANDRA AVEN-UE BRANCH 700013",
-    "CONTACT": "22110464",
-    "CITY": "KOLKATA",
-    "DISTRICT": "KOLKATA",
-    "STATE": "WEST BENGAL",
-    "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
-  },
   "UCBA0000220": {
     "IFSC": "UCBA0000220",
     "BRANCH": "BANDEL - HOOGLY",
@@ -23548,20 +23534,6 @@
     "IMPS": true,
     "MICR": null
   },
-  "UCBA0001688": {
-    "BANK": "UCO BANK",
-    "IFSC": "UCBA0001688",
-    "BRANCH": "BARDHAN CHOWK",
-    "ADDRESS": "POST BOX 114,MOTI CHAM-BERS,BARDHAN CHOWK 361001",
-    "CONTACT": "2670066",
-    "CITY": "JAMNAGAR",
-    "DISTRICT": "JAMNAGAR",
-    "STATE": "GUJARAT",
-    "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
-  },
   "UCBA0001689": {
     "IFSC": "UCBA0001689",
     "BRANCH": "ATHWA LINES - SURAT",
@@ -27909,20 +27881,6 @@
     "RTGS": true,
     "CITY": "LUCKNOW",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
-  },
-  "UCBA0002023": {
-    "BANK": "UCO BANK",
-    "IFSC": "UCBA0002023",
-    "BRANCH": "FAIZABAD ROAD",
-    "ADDRESS": "FAIZABAD ROADIT CROSSING 226007",
-    "CONTACT": "2326056",
-    "CITY": "LUCKNOW",
-    "DISTRICT": "LUCKNOW",
-    "STATE": "UTTAR PRADESH",
-    "NEFT": true,
-    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
@@ -36581,20 +36539,6 @@
     "NEFT": true,
     "IMPS": true
   },
-  "UCBA0002638": {
-    "BANK": "UCO BANK",
-    "IFSC": "UCBA0002638",
-    "BRANCH": "JHAWDANGA PT III",
-    "ADDRESS": "AT KALAPANI PO KALAPANI,PS MANKACHAR DIST DHUBRI",
-    "CONTACT": "9577807997",
-    "CITY": "DHUBRI",
-    "DISTRICT": "MANKACHAR",
-    "STATE": "ASSAM",
-    "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
-  },
   "UCBA0002639": {
     "IFSC": "UCBA0002639",
     "BRANCH": "JHOWDANGA PT II",
@@ -36772,20 +36716,6 @@
     "RTGS": true,
     "CITY": "NALBARI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
-  },
-  "UCBA0002652": {
-    "BANK": "UCO BANK",
-    "IFSC": "UCBA0002652",
-    "BRANCH": "KURIHAMARI",
-    "ADDRESS": "VILL KURIHAMARI PO MUKALMUA DIST NALBARI PIN 781126 ASSAM PIN 781126",
-    "CONTACT": "9864083380",
-    "CITY": "NALBARI",
-    "DISTRICT": "MUKALMUA",
-    "STATE": "ASSAM",
-    "NEFT": true,
-    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
@@ -46058,18 +45988,33 @@
     "NEFT": true,
     "IMPS": true
   },
+  "UCBA0003362": {
+    "BANK": "UCO BANK",
+    "IFSC": "UCBA0003362",
+    "BRANCH": "VIVEKANANDA SARANI",
+    "ADDRESS": "NO 3362 HOTEL MEEYAN RAKTIM, SENRALEIGH ROAD OPP CENTRAL EXCISE OFFICE",
+    "CONTACT": null,
+    "CITY": "BURDWAN",
+    "DISTRICT": "ASANSOL",
+    "STATE": "WEST BENGAL",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
+  },
   "UCBA0003363": {
     "IFSC": "UCBA0003363",
     "BRANCH": "TITWALA",
     "CENTRE": "KALYAN THANE ",
-    "DISTRICT": "THANE",
+    "DISTRICT": "KALYAN THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "UMA DEEP C WING E TYPE BUILDING NO 11 GANESH MANDIR ROAD TITWALA KALYAN DIST THANE 421605",
-    "CONTACT": "00",
+    "CONTACT": null,
     "MICR": "400028009",
     "BANK": "UCO BANK",
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true
   },
   "UCBA0003364": {
@@ -46079,11 +46024,12 @@
     "DISTRICT": "NEW DELHI",
     "STATE": "DELHI",
     "ADDRESS": "DISTRICT COURT DDU MARG CENTRAL DELHI 110002",
-    "CONTACT": "00",
+    "CONTACT": null,
     "MICR": "110028094",
     "BANK": "UCO BANK",
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NEW DELHI",
+    "NEFT": true,
     "IMPS": true
   },
   "UCBA0009003": {
@@ -46113,20 +46059,6 @@
     "RTGS": true,
     "CITY": "KOLKATA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
-  },
-  "UCBA0RRBBKG": {
-    "BANK": "UCO BANK",
-    "IFSC": "UCBA0RRBBKG",
-    "BRANCH": "BIHAR KSHETRIYA GRAMIN BANK-RRB",
-    "ADDRESS": "HEAD OFFICE,BHAGAT SINGH CHOWKMUNGER,BIHAR 811201",
-    "CONTACT": "222055",
-    "CITY": "MUNGER",
-    "DISTRICT": "MUNGHYR",
-    "STATE": "BIHAR",
-    "NEFT": true,
-    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },

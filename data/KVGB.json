@@ -2107,6 +2107,20 @@
     "IMPS": true,
     "MICR": null
   },
+  "KVGB0002300": {
+    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "IFSC": "KVGB0002300",
+    "BRANCH": "CHIKODI REGIONAL OFFICE",
+    "ADDRESS": "CHIKKODI REGIONA OFFICE, VANTAMUTTE BUILDING, GURUWAR PETH. CHIKODI",
+    "CONTACT": "272730",
+    "CITY": "BELGAUM",
+    "DISTRICT": "CHIKODI",
+    "STATE": "KARNATAKA",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
+  },
   "KVGB0002301": {
     "IFSC": "KVGB0002301",
     "BRANCH": "BENADI",
@@ -2491,6 +2505,20 @@
     "RTGS": true,
     "CITY": "BELAGAVI",
     "NEFT": true,
+    "IMPS": true,
+    "MICR": null
+  },
+  "KVGB0002400": {
+    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "IFSC": "KVGB0002400",
+    "BRANCH": "GOKAK REGIONAL OFFICE",
+    "ADDRESS": "VAISHNAVI ANNEX, LET COLLEGE ROAD, NEAR SAMUDAYA BHAWAN, BASAWA NAGAR, GOKAK",
+    "CONTACT": "227855",
+    "CITY": "BELGAUM",
+    "DISTRICT": "GOKAK",
+    "STATE": "KARNATAKA",
+    "NEFT": true,
+    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
