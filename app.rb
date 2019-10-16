@@ -7,19 +7,17 @@ require './metrics'
 require 'sinatra/json'
 require 'secure_headers'
 
-
 class IFSCPlus < Razorpay::IFSC::IFSC
   # Returns a 4 character known code for a bank
   # TODO: Move this method to the ifsc.rb script
   # in next release
-  public
   class << self
     def get_bank_code(code)
       sublet_code = sublet_data[code]
       regular_code = code[0..3].upcase
 
       custom_sublet_data.each do |prefix, value|
-        if prefix == code[0..prefix.length - 1] and value.length == 4
+        if (prefix == code[0..prefix.length - 1]) && (value.length == 4)
           return value
         end
       end
@@ -67,9 +65,9 @@ helpers do
 
   def strtobool(str)
     case str
-    when "true"
+    when 'true'
       true
-    when "false"
+    when 'false'
       false
     else
       false
