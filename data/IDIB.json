@@ -7923,14 +7923,14 @@
     "IFSC": "IDIB000C187",
     "BRANCH": "CHECKANURANI",
     "CENTRE": "CHEKKANURANI",
-    "DISTRICT": "CHEKKANURANI",
+    "DISTRICT": "CHECKANURANI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "6/235",
     "CONTACT": "9384031728",
     "MICR": "625019065",
     "BANK": "INDIAN BANK",
     "RTGS": true,
-    "CITY": "CHECKANURANI",
+    "CITY": "CHEKKANURANI",
     "NEFT": true,
     "IMPS": true
   },
@@ -9405,18 +9405,19 @@
     "IMPS": true
   },
   "IDIB000D100": {
-    "BANK": "INDIAN BANK",
     "IFSC": "IDIB000D100",
     "BRANCH": "DEVADURGA",
-    "ADDRESS": "7-1-78/10/1/2/1  JALHALLI ROAD NEAR BUSSTAND CIRCLE DEVADURGA",
-    "CONTACT": "8295353052",
-    "CITY": "DEVADURGA",
+    "CENTRE": "DEVADURGA",
     "DISTRICT": "DEVADURGA",
     "STATE": "KARNATAKA",
+    "ADDRESS": "7-1-78/10/1/2/1  JALHALLI ROAD NEAR BUSSTAND CIRCLE DEVADURGA",
+    "CONTACT": "8295353052",
+    "MICR": "584019004",
+    "BANK": "INDIAN BANK",
+    "RTGS": true,
+    "CITY": "DEVADURGA",
     "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDIB000D101": {
     "IFSC": "IDIB000D101",
@@ -19781,6 +19782,20 @@
     "NEFT": true,
     "IMPS": true
   },
+  "IDIB000K343": {
+    "BANK": "INDIAN BANK",
+    "IFSC": "IDIB000K343",
+    "BRANCH": "KALYANA DURGAM ROAD",
+    "ADDRESS": "4-1130 KALYANA DURGAM ROAD VIDYA NAGAR ANANTAPUR",
+    "CONTACT": "245408",
+    "CITY": "ANANTAPUR",
+    "DISTRICT": "ANANTAPUR",
+    "STATE": "ANDHRA PRADESH",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
+  },
   "IDIB000L001": {
     "IFSC": "IDIB000L001",
     "BRANCH": "LALPET",
@@ -27219,6 +27234,20 @@
     "CITY": "KRISHNA",
     "NEFT": true,
     "IMPS": true
+  },
+  "IDIB000N177": {
+    "BANK": "INDIAN BANK",
+    "IFSC": "IDIB000N177",
+    "BRANCH": "NALLAPADU",
+    "ADDRESS": "SY NO 8C 8D MAINROAD NALLAPADU GUNTUR AP 522005",
+    "CONTACT": "2596229",
+    "CITY": "GUNTUR",
+    "DISTRICT": "NALLAPADU",
+    "STATE": "ANDHRA PRADESH",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "IDIB000O001": {
     "IFSC": "IDIB000O001",

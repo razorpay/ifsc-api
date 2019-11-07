@@ -16903,98 +16903,161 @@
     "IMPS": true
   },
   "YESB0001149": {
-    "BANK": "YES BANK",
     "IFSC": "YESB0001149",
     "BRANCH": "SAIBABA COLONY, COIMBATORE",
-    "ADDRESS": "GROUND FLOOR, 557 - 561 NSR ROAD CORNER, SAIBABA COLONY, COIMBATORE 641 011",
-    "CONTACT": "18001200",
-    "CITY": "COIMBATORE",
+    "CENTRE": "COIMBATORE",
     "DISTRICT": "COIMBATORE",
     "STATE": "TAMIL NADU",
+    "ADDRESS": "GROUND FLOOR, 557 - 561 NSR ROAD CORNER, SAIBABA COLONY, COIMBATORE 641 011",
+    "CONTACT": "18001200",
+    "BANK": "YES BANK",
+    "RTGS": true,
+    "CITY": "COIMBATORE",
     "NEFT": true,
-    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
   "YESB0001161": {
-    "BANK": "YES BANK",
     "IFSC": "YESB0001161",
     "BRANCH": "HALDWANI, UTTARAKHAND",
-    "ADDRESS": "GROUND FLOOR, KHATA NO. 154, KHASRA NO. 260, CORPORATION NO-11-254/1, OPPOSITE KRISHNA HOSPITAL, NAINITAL ROAD, HALDWANI, UTTRAKHAND - 263139",
-    "CONTACT": "18001200",
-    "CITY": "NAINITAL",
+    "CENTRE": "HALDWANI",
     "DISTRICT": "HALDWANI",
     "STATE": "UTTARAKHAND",
+    "ADDRESS": "GROUND FLOOR, KHATA NO. 154, KHASRA NO. 260, CORPORATION NO-11-254/1, OPPOSITE KRISHNA HOSPITAL, NAINITAL ROAD, HALDWANI, UTTRAKHAND - 263139",
+    "CONTACT": "18001200",
+    "BANK": "YES BANK",
+    "RTGS": true,
+    "CITY": "NAINITAL",
     "NEFT": true,
-    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
   "YESB0001162": {
-    "BANK": "YES BANK",
     "IFSC": "YESB0001162",
     "BRANCH": "MANDI DABWALI",
+    "CENTRE": "MANDI DABWALI",
+    "DISTRICT": "MANDI DABWALI",
+    "STATE": "HARYANA",
     "ADDRESS": "PART OF GF, KHEWAT NO. 375, KHATAUNI NO. 1644, KHASRA NO. 2033/3/3 .44-0 AND II,CHAUTALA ROAD, NAI DABWALI, TEHSHIL DABWALI, DISTRICT SIRSA, HARYANA-125104.",
     "CONTACT": "18001200",
+    "BANK": "YES BANK",
+    "RTGS": true,
     "CITY": "SIRSA",
-    "DISTRICT": "MANDI DABWALI",
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
+  },
+  "YESB0001163": {
+    "IFSC": "YESB0001163",
+    "BRANCH": "MALOUT",
+    "CENTRE": "MALOUT",
+    "DISTRICT": "MALOUT",
+    "STATE": "PUNJAB",
+    "ADDRESS": "GROUND FLOOR, KHASRA NO. 747, UDAN MARKET, NEAR IDBI BANK, GT ROAD, MALOUT, DIST. MUKTSAR PUNJAB - 152107",
+    "CONTACT": "18001200",
+    "BANK": "YES BANK",
+    "RTGS": true,
+    "CITY": "MUKTSAR",
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
+  },
+  "YESB0001164": {
+    "BANK": "YES BANK",
+    "IFSC": "YESB0001164",
+    "BRANCH": "ADAMPUR",
+    "ADDRESS": "GROUND FLOOR, SHOP NO. 18, ADDITIONAL MANDI, ADAMPUR, HISAR, HARYANA _x0013_ 125052.",
+    "CONTACT": "18001200",
+    "CITY": "HISAR",
+    "DISTRICT": "ADAMPUR",
     "STATE": "HARYANA",
     "NEFT": true,
     "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
-  "YESB0001163": {
-    "BANK": "YES BANK",
-    "IFSC": "YESB0001163",
-    "BRANCH": "MALOUT",
-    "ADDRESS": "GROUND FLOOR, KHASRA NO. 747, UDAN MARKET, NEAR IDBI BANK, GT ROAD, MALOUT, DIST. MUKTSAR PUNJAB - 152107",
-    "CONTACT": "18001200",
-    "CITY": "MUKTSAR",
-    "DISTRICT": "MALOUT",
-    "STATE": "PUNJAB",
-    "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
-  },
   "YESB0001165": {
-    "BANK": "YES BANK",
     "IFSC": "YESB0001165",
     "BRANCH": "ABOHAR",
-    "ADDRESS": "GROUND FLOOR , KHEWAT/ KHATOUNI NO-1095/1581,KHASRA NO-1291 , 128-3, MANDI NO-2, MANDI ABOHAR, TEHSIL ABOHAR, DISCT ABOHAR, PUNJAB-152116.├╜",
-    "CONTACT": "18001200",
-    "CITY": "FAZILKA",
+    "CENTRE": "MANDI ABOHAR",
     "DISTRICT": "MANDI ABOHAR",
     "STATE": "PUNJAB",
+    "ADDRESS": "GROUND FLOOR , KHEWAT/ KHATOUNI NO-1095/1581,KHASRA NO-1291 , 128-3, MANDI NO-2, MANDI ABOHAR, TEHSIL ABOHAR, DISCT ABOHAR, PUNJAB-152116.├╜",
+    "CONTACT": "18001200",
+    "BANK": "YES BANK",
+    "RTGS": true,
+    "CITY": "FAZILKA",
     "NEFT": true,
-    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
   "YESB0001169": {
-    "BANK": "YES BANK",
     "IFSC": "YESB0001169",
     "BRANCH": "WAGLE ESTATE THANE",
-    "ADDRESS": "GROUND FLOOR, UNIT NO. 9,10 & 11, PLOT NO. A-125, A-126 & A-125 -PART, ACCEL HOUSE, ROAD NO. 22, WAGLE ESTATE, MIDC, THANE -WEST, MAHARASHTRA, PIN - 400 604",
-    "CONTACT": "18001200",
-    "CITY": "THANE├╜",
+    "CENTRE": "THANE",
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
+    "ADDRESS": "GROUND FLOOR, UNIT NO. 9,10 & 11, PLOT NO. A-125, A-126 & A-125 -PART, ACCEL HOUSE, ROAD NO. 22, WAGLE ESTATE, MIDC, THANE -WEST, MAHARASHTRA, PIN - 400 604",
+    "CONTACT": "18001200",
+    "BANK": "YES BANK",
+    "RTGS": true,
+    "CITY": "THANE├╜",
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
+  },
+  "YESB0001170": {
+    "IFSC": "YESB0001170",
+    "BRANCH": "BUNDI",
+    "CENTRE": "BUNDI",
+    "DISTRICT": "BUNDI",
+    "STATE": "RAJASTHAN",
+    "ADDRESS": "GROUND FLOOR, PLOT NO 1 TO 6, NARAYAN PLAZA, LANKA GATE ROAD, BUNDI, RAJASTHAN - 323001",
+    "CONTACT": "18001200",
+    "BANK": "YES BANK",
+    "RTGS": true,
+    "CITY": "BUNDI",
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
+  },
+  "YESB0001171": {
+    "BANK": "YES BANK",
+    "IFSC": "YESB0001171",
+    "BRANCH": "KESHORAIPATAN",
+    "ADDRESS": "GROUND FLOOR, PLOT NO. 9 AND 10, PRATAP COLONY, GURUDWARA SAHIB, WARD NO.2, KESHORAIPATAN TALUK, BUNDI DISTRICT, RAJASTHAN _x0013_ 323601",
+    "CONTACT": "18001200",
+    "CITY": "BUNDI",
+    "DISTRICT": "KESHORAIPATAN",
+    "STATE": "RAJASTHAN",
     "NEFT": true,
     "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
-  "YESB0001170": {
+  "YESB0001172": {
     "BANK": "YES BANK",
-    "IFSC": "YESB0001170",
-    "BRANCH": "BUNDI",
-    "ADDRESS": "GROUND FLOOR, PLOT NO 1 TO 6, NARAYAN PLAZA, LANKA GATE ROAD, BUNDI, RAJASTHAN - 323001",
+    "IFSC": "YESB0001172",
+    "BRANCH": "AMLOH",
+    "ADDRESS": "GF,KHEWAT/KHATONI NO 25/46, KHASRA NO. 65/3, 0-10, BEERH AMLOH, TEHSIL AMLOH, FATEHGARH SAHIB, PUNJAB-147203",
     "CONTACT": "18001200",
-    "CITY": "BUNDI",
-    "DISTRICT": "BUNDI",
-    "STATE": "RAJASTHAN",
+    "CITY": "FATEHGARH SAHIB",
+    "DISTRICT": "AMLOH",
+    "STATE": "PUNJAB",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "YESB0001173": {
+    "BANK": "YES BANK",
+    "IFSC": "YESB0001173",
+    "BRANCH": "JARG",
+    "ADDRESS": "GF, KHEWAT/KHATONI NO. 172/187, JARG-1, HADBAST NO.186, TEHSIL PAYAL, DISTRICT LUDHIANA _x0013_ PUNJAB -141415",
+    "CONTACT": "18001200",
+    "CITY": "LUDHIANA",
+    "DISTRICT": "JARG",
+    "STATE": "PUNJAB",
     "NEFT": true,
     "RTGS": false,
     "IMPS": true,
@@ -18718,12 +18781,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "ANJANSINGI - 444709",
     "CONTACT": "231032",
+    "MICR": "444891149",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "AMRAVATI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0ADB093": {
     "IFSC": "YESB0ADB093",
@@ -18733,12 +18796,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SAWALI CHOWK, JUNI WASTI BADNERA- 444701",
     "CONTACT": "2681470",
+    "MICR": "444891111",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "AMRAVATI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0ADB094": {
     "IFSC": "YESB0ADB094",
@@ -18748,12 +18811,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SAWATA CHOWK, WARUD- 444906",
     "CONTACT": "232923",
+    "MICR": "444891352",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "AMRAVATI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0ADB095": {
     "IFSC": "YESB0ADB095",
@@ -18763,12 +18826,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AMRAVATI DCC BANK MORSHI",
     "CONTACT": "222607",
+    "MICR": "444891353",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "AMRAVATI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0ADB099": {
     "IFSC": "YESB0ADB099",
@@ -18778,12 +18841,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "CAMP ROAD, AMRAVATI - 444006",
     "CONTACT": "2551918",
+    "MICR": "444891101",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "AMRAVATI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0AMALCO": {
     "IFSC": "YESB0AMALCO",
@@ -18883,12 +18946,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PLOT NO. 6, JAWAHAR NAGAR CHOWK, AKOLA - 444001",
     "CONTACT": "2458092",
+    "MICR": "444893002",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "AKOLA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0AMCB02": {
     "IFSC": "YESB0AMCB02",
@@ -20308,12 +20371,12 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "UDHAMSTHAL (REEMA) BEESA, POST SANETI - 263634",
     "CONTACT": "9411113159",
+    "MICR": "263802754",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "BAGESHWAR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0AZSB18": {
     "IFSC": "YESB0AZSB18",
@@ -22618,12 +22681,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "WARD NO 7 NARAYAN PETH ICHALKARANJI 416115",
     "CONTACT": "2420278",
+    "MICR": "416930202",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "KOLHAPUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0BMSB01": {
     "BANK": "YES BANK",
@@ -23025,10 +23088,10 @@
     "ADDRESS": "ASHOK RAJPATH, PATNA - 800004",
     "CONTACT": "8789024426",
     "IMPS": true,
+    "MICR": "800213001",
     "RTGS": true,
     "CITY": "PATNA",
-    "NEFT": true,
-    "MICR": null
+    "NEFT": true
   },
   "YESB0BUCB01": {
     "BANK": "YES BANK",
@@ -23053,12 +23116,12 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "CIVIL LINES, CHILLA ROAD, BANDA - 210001",
     "CONTACT": "9450169432",
+    "MICR": "210827302",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "BANDA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0CB0001": {
     "BANK": "YES BANK",
@@ -25573,12 +25636,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT POST BALAPUR TAH NAGBHEED DIST CHANDRAPUR-441221",
     "CONTACT": "7875758931",
+    "MICR": "442806525",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "CHANDRAPUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0CDC086": {
     "IFSC": "YESB0CDC086",
@@ -25701,16 +25764,17 @@
     "IMPS": true
   },
   "YESB0CDC099": {
-    "BANK": "YES BANK",
     "IFSC": "YESB0CDC099",
     "BRANCH": "CHANDRAPUR DCC BANK HEAD OFFICE",
-    "ADDRESS": "HEAD OFFICE, CIVIL LINES, NAGPUR ROAD, CHANDRAPUR 442401",
-    "CONTACT": "2252180",
-    "CITY": "CHANDRAPUR",
+    "CENTRE": "CHANDRAPUR",
     "DISTRICT": "CHANDRAPUR",
     "STATE": "MAHARASHTRA",
+    "ADDRESS": "HEAD OFFICE, CIVIL LINES, NAGPUR ROAD, CHANDRAPUR 442401",
+    "CONTACT": "2252180",
+    "BANK": "YES BANK",
+    "RTGS": true,
+    "CITY": "CHANDRAPUR",
     "NEFT": true,
-    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
@@ -26247,12 +26311,12 @@
     "STATE": "TELANGANA",
     "ADDRESS": "3-5-141/E/7, GEETANJALI COMPLEX, EDENBAGH, RAMKOTE, HYDERABAD - 500001",
     "CONTACT": "24757409",
+    "MICR": "500222002",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "HYDERABAD",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0CVB003": {
     "IFSC": "YESB0CVB003",
@@ -26262,12 +26326,12 @@
     "STATE": "TELANGANA",
     "ADDRESS": "5-5-155&157, LALA TEMPLE STREET, RANIGUNJ, SECUNDERABAD - 500003",
     "CONTACT": "27712435",
+    "MICR": "500222003",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "HYDERABAD",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0CVB004": {
     "IFSC": "YESB0CVB004",
@@ -26277,12 +26341,12 @@
     "STATE": "TELANGANA",
     "ADDRESS": "5-2-188,1ST FLOOR, NEAR GOWLIGUDA TELEPHONE EXCHANGE, GOWLIGUDA, HYDERABAD-500012",
     "CONTACT": "23449463",
+    "MICR": "500222004",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "HYDERABAD",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0CVB005": {
     "IFSC": "YESB0CVB005",
@@ -26292,12 +26356,12 @@
     "STATE": "TELANGANA",
     "ADDRESS": "1-81/1, 1ST FLOOR,LOYA ARCADE,AMEERPET,HYDERABAD - 500016",
     "CONTACT": "23440222",
+    "MICR": "500222005",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "HYDERABAD",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0CVB006": {
     "IFSC": "YESB0CVB006",
@@ -26307,12 +26371,12 @@
     "STATE": "TELANGANA",
     "ADDRESS": "PLOT NO 7&7A, MYSARI CHAMBERS, SARASWATHI COLONY, LOTHUKUNTA - 500015",
     "CONTACT": "23773097",
+    "MICR": "500222006",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "HYDERABAD",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0CVB007": {
     "IFSC": "YESB0CVB007",
@@ -26322,12 +26386,12 @@
     "STATE": "TELANGANA",
     "ADDRESS": "6-3-93, 1ST FLOOR, BALANAGAR X ROAD, BALANAGAR, HYDERABAD - 500042",
     "CONTACT": "27867304",
+    "MICR": "500222007",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "HYDERABAD",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0CVB008": {
     "IFSC": "YESB0CVB008",
@@ -26337,12 +26401,12 @@
     "STATE": "TELANGANA",
     "ADDRESS": "MAHAVIR HOSPITAL PREMISES, A.C.GUARDS, HYDERABAD - 500004",
     "CONTACT": "24050425",
+    "MICR": "500222008",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "HYDERABAD",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0CVB009": {
     "IFSC": "YESB0CVB009",
@@ -26352,12 +26416,12 @@
     "STATE": "TELANGANA",
     "ADDRESS": "DOOR NO.3-116, FIRST FLOOR, HANUMAN NAGAR COLONY, CHAITANYAPURI, DILSUKNAGAR - 500060",
     "CONTACT": "23371865",
+    "MICR": "500222009",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "HYDERABAD",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0CVB010": {
     "IFSC": "YESB0CVB010",
@@ -26367,12 +26431,12 @@
     "STATE": "TELANGANA",
     "ADDRESS": "NISHANT HOUSE, 8-2-351/N/1, ROAD NO-2, BANJARA HILLS, HYDERABAD - 500034",
     "CONTACT": "46664777",
+    "MICR": "500222010",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "HYDERABAD",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0DBBK01": {
     "IFSC": "YESB0DBBK01",
@@ -26399,10 +26463,10 @@
     "ADDRESS": "MALL ROAD, UTTARKASHI - 249193",
     "CONTACT": "4222246",
     "IMPS": true,
+    "MICR": "249804302",
     "RTGS": true,
     "CITY": "UTTAR KASHI",
-    "NEFT": true,
-    "MICR": null
+    "NEFT": true
   },
   "YESB0DCBU02": {
     "IFSC": "YESB0DCBU02",
@@ -26652,12 +26716,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT POST AMBHI OSMANABAD-413504",
     "CONTACT": "7774043410",
+    "MICR": "413830127",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "OSMANABAD",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0DCC003": {
     "IFSC": "YESB0DCC003",
@@ -28992,12 +29056,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "DHONDE PATIL COMPLEX, WADGAON GUPTA, AHMEDNAGAR - 414111",
     "CONTACT": "7887882875",
+    "MICR": "414937001",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "AHMADNAGAR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0DUCB01": {
     "BANK": "YES BANK",
@@ -29067,12 +29131,12 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "MAIN BAZAR, VIKASNAGAR, DEHRADUN - 248001",
     "CONTACT": "2722678",
+    "MICR": "248541012",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "DEHRA DUN",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0DZSB04": {
     "IFSC": "YESB0DZSB04",
@@ -29112,12 +29176,12 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "SADAR BAZAR, CHAKRATA, DEHRADUN - 248123",
     "CONTACT": "2722678",
+    "MICR": "248541205",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "DEHRA DUN",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0DZSB07": {
     "IFSC": "YESB0DZSB07",
@@ -29142,12 +29206,12 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "ORDINANCE FACTORY COMPUND, RAIPUR - 248008",
     "CONTACT": "2722678",
+    "MICR": "248541006",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "DEHRA DUN",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0DZSB09": {
     "IFSC": "YESB0DZSB09",
@@ -29157,12 +29221,12 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "MAIN BAZAR, KALSI GATE, DEHRADUN - 248159",
     "CONTACT": "2722678",
+    "MICR": "248541204",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "DEHRA DUN",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0DZSB10": {
     "IFSC": "YESB0DZSB10",
@@ -29172,12 +29236,12 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "38, DISPENSARY ROAD, OPP RAMA MARKET, DEHRADUN - 248001",
     "CONTACT": "2722678",
+    "MICR": "248541003",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "DEHRA DUN",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0DZSB11": {
     "IFSC": "YESB0DZSB11",
@@ -29187,12 +29251,12 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "LANDHOUR BAZAR, HOTEL ANUPAM, POST OFFICE LANDHOUR, DEHRADUN - 248179",
     "CONTACT": "2722678",
+    "MICR": "248541102",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "DEHRA DUN",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0DZSB12": {
     "IFSC": "YESB0DZSB12",
@@ -29217,12 +29281,12 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "NEAR POLICE THANA, SAHASPUR, DEHRADUN - 248197",
     "CONTACT": "2722678",
+    "MICR": "248541203",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "DEHRA DUN",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0DZSB14": {
     "IFSC": "YESB0DZSB14",
@@ -29247,12 +29311,12 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "16, NEHRU COLONY, DEHRADUN - 248001",
     "CONTACT": "2722678",
+    "MICR": "248541007",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "DEHRA DUN",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0DZSB16": {
     "IFSC": "YESB0DZSB16",
@@ -29262,12 +29326,12 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "NEAR HOTEL LAXMI PALACE, SAHARANPUR ROAD, MAJRA, DEHRADUN - 248171",
     "CONTACT": "2722678",
+    "MICR": "248541008",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "DEHRA DUN",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0DZSB17": {
     "IFSC": "YESB0DZSB17",
@@ -29847,12 +29911,12 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "D.NO. 5-25-26, 3/2, BRODIPET, GUNTUR - 522002",
     "CONTACT": "2354847",
+    "MICR": "520801102",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "GUNTUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0GSB001": {
     "BANK": "YES BANK",
@@ -31342,16 +31406,16 @@
     "BANK": "YES BANK",
     "IFSC": "YESB0HSCB01",
     "BRANCH": "HINDUSTAN SHIPYARD STAFF COOP BANK",
-    "CENTRE": "RAJKOT",
+    "CENTRE": "VISAKHAPATNAM",
     "DISTRICT": "VISAKHAPATNAM",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "71-1-78, SHIPYARD COLONY, GANDHIGRAM - 530005",
     "CONTACT": "2577403",
     "IMPS": true,
+    "MICR": "530875002",
     "RTGS": true,
     "CITY": "VISHAKHAPATNAM",
-    "NEFT": true,
-    "MICR": null
+    "NEFT": true
   },
   "YESB0ICBL01": {
     "BANK": "YES BANK",
@@ -31571,12 +31635,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PANCHSHEEL CINEMA MARG AMRAVATI - 444601",
     "CONTACT": "2676457",
+    "MICR": "444819101",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "AMRAVATI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0JASB02": {
     "IFSC": "YESB0JASB02",
@@ -31586,12 +31650,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "NEAR KULKARNI HOSPITAL AMBADEVI ROAD RAJAPETH AMRAVATI - 444601",
     "CONTACT": "2674297",
+    "MICR": "444819102",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "AMRAVATI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0JASB03": {
     "IFSC": "YESB0JASB03",
@@ -31601,12 +31665,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "VMV ROAD BARISADN HOSTEL RATHI NAHAR AMRAVATI - 444603",
     "CONTACT": "2550430",
+    "MICR": "444819103",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "AMRAVATI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0JASB04": {
     "IFSC": "YESB0JASB04",
@@ -31616,12 +31680,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GUJARI BAZAR ROAD SHIRASGAON KASBA AMRAVATI - 444810",
     "CONTACT": "226465",
+    "MICR": "444819501",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "AMRAVATI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0JASB05": {
     "IFSC": "YESB0JASB05",
@@ -31631,12 +31695,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PAN ATTAI VITHAL MANDIR ROAD ANJANGAON SURJI - 444705",
     "CONTACT": "242099",
+    "MICR": "444819502",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "AMRAVATI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0JBSB01": {
     "IFSC": "YESB0JBSB01",
@@ -31702,16 +31766,16 @@
     "BANK": "YES BANK",
     "IFSC": "YESB0JCCB01",
     "BRANCH": "JOGINDRA CENTRAL COOP BANK SOLAN",
-    "CENTRE": "WANKANER",
+    "CENTRE": "SOLAN",
     "DISTRICT": "SOLAN",
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "RAJGARH ROAD, SOLAN, HP - 173212",
     "CONTACT": "220305",
     "IMPS": true,
+    "MICR": "160532023",
     "RTGS": true,
     "CITY": "SOLAN",
-    "NEFT": true,
-    "MICR": null
+    "NEFT": true
   },
   "YESB0JEYCUB": {
     "IFSC": "YESB0JEYCUB",
@@ -31721,12 +31785,12 @@
     "STATE": "ODISHA",
     "ADDRESS": "M G ROAD, JEYPORE, KORAPUT, ODISHA - 764001",
     "CONTACT": "232202",
+    "MICR": "764802103",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "KORAPUT",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0JIVAN1": {
     "BANK": "YES BANK",
@@ -32231,12 +32295,12 @@
     "STATE": "ODISHA",
     "ADDRESS": "AT KAJALA, POST KENDRAPARA, KENDRAPARA - 754211",
     "CONTACT": "220599",
+    "MICR": "754802102",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "KENDRAPARA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0KCB002": {
     "IFSC": "YESB0KCB002",
@@ -32317,16 +32381,16 @@
     "BANK": "YES BANK",
     "IFSC": "YESB0KCCB01",
     "BRANCH": "KATIHAR DISTRICT CENTRAL COOP BANK",
-    "CENTRE": "KOLLAM",
+    "CENTRE": "KATIHAR",
     "DISTRICT": "KATIHAR",
     "STATE": "BIHAR",
     "ADDRESS": "SHOBHA MKT DR RAJENDRA PRASAD RD KATIHAR 854105",
     "CONTACT": "242735",
     "IMPS": true,
+    "MICR": "854831002",
     "RTGS": true,
     "CITY": "KATIHAR",
-    "NEFT": true,
-    "MICR": null
+    "NEFT": true
   },
   "YESB0KCDC01": {
     "IFSC": "YESB0KCDC01",
@@ -32906,12 +32970,12 @@
     "STATE": "ASSAM",
     "ADDRESS": "SAHID KONOKLOTA BARUAH BHAWAN,GAR ALI, JORHAT, PIN 785001",
     "CONTACT": "2304718",
+    "MICR": "785814003",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "JORHAT",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0KNB002": {
     "BANK": "YES BANK",
@@ -33281,12 +33345,12 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "VERMA COMPLEX, MUKHANI CHAURAHA, KALADUNGI ROAD, HALDWANI - 263139",
     "CONTACT": "9456596442",
+    "MICR": "263846002",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "NAINITAL",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0KNSB08": {
     "IFSC": "YESB0KNSB08",
@@ -33311,12 +33375,12 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "SHARDA BARRAGE ROAD, TANAKPUR, CHAMPAWAT - 262309",
     "CONTACT": "9456596442",
+    "MICR": "262846351",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "CHAMPAWAT",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0KNSB10": {
     "IFSC": "YESB0KNSB10",
@@ -33371,12 +33435,12 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "GULARBHOJ ROAD, MAIN MARKET, GADARPUR, UDHAM SINGH NAGAR - 263152",
     "CONTACT": "9456596442",
+    "MICR": "263846402",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "UDHAM SINGH NAGAR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0KNSB14": {
     "IFSC": "YESB0KNSB14",
@@ -33521,12 +33585,12 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "HOTEL TOURIST CAMPUS, MAIN CHAURAHA, BHOWALI, NAINITAL - 263132",
     "CONTACT": "9456596442",
+    "MICR": "263846305",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "NAINITAL",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0KNSB24": {
     "IFSC": "YESB0KNSB24",
@@ -33611,12 +33675,12 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "MOON HOTEL, GANDHI CHOWK, RANIKHET, ALMORA - 263645",
     "CONTACT": "9456596442",
+    "MICR": "263846602",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "ALMORA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0KNSB30": {
     "IFSC": "YESB0KNSB30",
@@ -33626,12 +33690,12 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "PREM MANDIR, CIVIL LINES, ROORKEE - 247667",
     "CONTACT": "9456596442",
+    "MICR": "247846102",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "HARIDWAR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0KSB001": {
     "IFSC": "YESB0KSB001",
@@ -33761,12 +33825,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "A/P KODOLI, TAL PANHALA, KOLHAPUR 416114",
     "CONTACT": "224046",
+    "MICR": "416859501",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "KOLHAPUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0KUBL03": {
     "IFSC": "YESB0KUBL03",
@@ -33776,12 +33840,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "A/P KALE, TAL PANHALA, KOLHAPUR 416205",
     "CONTACT": "232048",
+    "MICR": "417859502",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "KOLHAPUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0KUBL04": {
     "IFSC": "YESB0KUBL04",
@@ -33791,12 +33855,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "A/P KERLI, TAL KARVIR, KOLHAPUR 416229",
     "CONTACT": "2455882",
+    "MICR": "417859503",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "KOLHAPUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0KUBL05": {
     "IFSC": "YESB0KUBL05",
@@ -33806,12 +33870,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "A/P KOTOLI TAL, PANHALA, KOLHAPUR 416230",
     "CONTACT": "254464",
+    "MICR": "418859504",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "KOLHAPUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0KUBL06": {
     "IFSC": "YESB0KUBL06",
@@ -33821,12 +33885,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "A/P BAMBAVADE, TAL SHAHUWADI, KOLHAPUR 416213",
     "CONTACT": "234418",
+    "MICR": "418859505",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "KOLHAPUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0KUBL07": {
     "IFSC": "YESB0KUBL07",
@@ -33836,12 +33900,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "A/P SARUD, TAL SHAHUWADI, KOLHAPUR 416214",
     "CONTACT": "244366",
+    "MICR": "418859506",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "KOLHAPUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0KUBL08": {
     "IFSC": "YESB0KUBL08",
@@ -33851,12 +33915,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "A/P WATHAR, TAL HATKALANGALE, KOLHAPUR 416112",
     "CONTACT": "2407024",
+    "MICR": "418859507",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "KOLHAPUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0KUBL09": {
     "IFSC": "YESB0KUBL09",
@@ -34258,10 +34322,10 @@
     "ADDRESS": "TUIKAL S , NEAR TENNIS COURT, MIZORAM 796001",
     "CONTACT": "2327514",
     "IMPS": true,
+    "MICR": "796906002",
     "RTGS": true,
     "CITY": "AIZAWL",
-    "NEFT": true,
-    "MICR": null
+    "NEFT": true
   },
   "YESB0MAB002": {
     "IFSC": "YESB0MAB002",
@@ -34534,13 +34598,42 @@
     "IMPS": true
   },
   "YESB0MAB021": {
-    "BANK": "YES BANK",
     "IFSC": "YESB0MAB021",
     "BRANCH": "MIZORAM COOP APEX BANK LTD HNAHTHIAL",
+    "CENTRE": "HNATHIAL",
+    "DISTRICT": "HNATHIAL",
+    "STATE": "MIZORAM",
     "ADDRESS": "HNAHTHIAL DISTRICT PIN CODE 796571",
     "CONTACT": "2320418",
+    "MICR": "796806104",
+    "BANK": "YES BANK",
+    "RTGS": true,
     "CITY": "LUNGLEI",
-    "DISTRICT": "HNATHIAL",
+    "NEFT": true,
+    "IMPS": true
+  },
+  "YESB0MAB022": {
+    "BANK": "YES BANK",
+    "IFSC": "YESB0MAB022",
+    "BRANCH": "MIZORAM COOP APEX BANK LTD THUAMPUI",
+    "ADDRESS": "MAIN ROAD, ZOBAWK, LUNGLEI 796701",
+    "CONTACT": "2322744",
+    "CITY": "AIZAWL",
+    "DISTRICT": "AIZAWL",
+    "STATE": "MIZORAM",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "YESB0MAB023": {
+    "BANK": "YES BANK",
+    "IFSC": "YESB0MAB023",
+    "BRANCH": "MIZORAM COOP APEX BANK LTD DINTHAR",
+    "ADDRESS": "KHAWZAWL, KHAWZAWL VENGTHAR, PRESBYTERIAN CHURCH BUILDING, CHAMPHAI 796310",
+    "CONTACT": "2322744",
+    "CITY": "AIZAWL",
+    "DISTRICT": "AIZAWL",
     "STATE": "MIZORAM",
     "NEFT": true,
     "RTGS": false,
@@ -35313,16 +35406,17 @@
     "IMPS": true
   },
   "YESB0MCBL01": {
-    "BANK": "YES BANK",
     "IFSC": "YESB0MCBL01",
     "BRANCH": "THE MAHILA URBAN COOP BANK LTD",
-    "ADDRESS": "KATANGI LINE, MAIN ROAD, GONDIYA - 441601",
-    "CONTACT": "236203",
-    "CITY": "GONDIA",
+    "CENTRE": "GONDIYA",
     "DISTRICT": "GONDIYA",
     "STATE": "MAHARASHTRA",
+    "ADDRESS": "KATANGI LINE, MAIN ROAD, GONDIYA - 441601",
+    "CONTACT": "236203",
+    "BANK": "YES BANK",
+    "RTGS": true,
+    "CITY": "GONDIA",
     "NEFT": true,
-    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
@@ -35439,12 +35533,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MAIN ROAD, KUNDAL TAL PALUS SANGLI 416309",
     "CONTACT": "271177",
+    "MICR": "415835101",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "SANGLI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0MPSC02": {
     "IFSC": "YESB0MPSC02",
@@ -36025,10 +36119,10 @@
     "ADDRESS": "MP ROAD 1, SECTOR 22, NOIDA - 201301",
     "CONTACT": "4503000",
     "IMPS": true,
+    "MICR": "110532251",
     "RTGS": true,
     "CITY": "GAUTAM BUDDHA NAGAR",
-    "NEFT": true,
-    "MICR": null
+    "NEFT": true
   },
   "YESB0NCB002": {
     "IFSC": "YESB0NCB002",
@@ -36094,16 +36188,16 @@
     "BANK": "YES BANK",
     "IFSC": "YESB0NCCB01",
     "BRANCH": "THE NAWADA CENTRAL COOP BANK LTD",
-    "CENTRE": "PANCHKULA",
+    "CENTRE": "NAWADA",
     "DISTRICT": "NAWADA",
     "STATE": "BIHAR",
     "ADDRESS": "KUTCHEHRY ROAD NAWADA 805110",
     "CONTACT": "212969",
     "IMPS": true,
+    "MICR": "805821002",
     "RTGS": true,
     "CITY": "NAWADA",
-    "NEFT": true,
-    "MICR": null
+    "NEFT": true
   },
   "YESB0NDB001": {
     "IFSC": "YESB0NDB001",
@@ -36310,10 +36404,10 @@
     "ADDRESS": "HEAD OFFICE, NAINITAL ROAD, HALDWANI - 263139",
     "CONTACT": "9412087722",
     "IMPS": true,
+    "MICR": "263808002",
     "RTGS": true,
     "CITY": "NAINITAL",
-    "NEFT": true,
-    "MICR": null
+    "NEFT": true
   },
   "YESB0NDCB02": {
     "IFSC": "YESB0NDCB02",
@@ -36323,12 +36417,12 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "KALADHUNGI ROAD, HALDWANI - 263139",
     "CONTACT": "9412087722",
+    "MICR": "263808003",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "NAINITAL",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0NDCB03": {
     "IFSC": "YESB0NDCB03",
@@ -36338,12 +36432,12 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "TRANSPORT NAGAR, HALDWANI - 263139",
     "CONTACT": "9412087722",
+    "MICR": "263808007",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "NAINITAL",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0NDCB04": {
     "IFSC": "YESB0NDCB04",
@@ -36353,12 +36447,12 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "KALADUNGHI CHAURAHA, HALDWANI - 263139",
     "CONTACT": "9412087722",
+    "MICR": "263808006",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "NAINITAL",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0NDCB05": {
     "IFSC": "YESB0NDCB05",
@@ -36368,12 +36462,12 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "MALDHANCHAR NO 5, CHANDRA NAGAR - 263139",
     "CONTACT": "9412087722",
+    "MICR": "244808452",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "NAINITAL",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0NDCB06": {
     "IFSC": "YESB0NDCB06",
@@ -36383,12 +36477,12 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "PEERUMADARA BRANCH, VIA RAMNAGAR - 244715",
     "CONTACT": "9412087722",
+    "MICR": "244808405",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "NAINITAL",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0NDCB07": {
     "IFSC": "YESB0NDCB07",
@@ -36623,12 +36717,12 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "KALADHUNGI BRANCH, KALADHUNGI, NAINITAL - 263139",
     "CONTACT": "9412087722",
+    "MICR": "263808052",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "NAINITAL",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0NDCB23": {
     "IFSC": "YESB0NDCB23",
@@ -36638,12 +36732,12 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "SOYABEAN COMPLEX, HALDUCHAUR, HALDWANI - 263139",
     "CONTACT": "9412087722",
+    "MICR": "263808051",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "NAINITAL",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0NDCB24": {
     "IFSC": "YESB0NDCB24",
@@ -36653,12 +36747,12 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "CHORGALIA BRANCH, CHORGALIA, NAINITAL - 263139",
     "CONTACT": "9412087722",
+    "MICR": "263808053",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "NAINITAL",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0NDCB25": {
     "IFSC": "YESB0NDCB25",
@@ -36683,12 +36777,12 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "SINGH PLAZA, RAILWAY BAZAR, HALDWANI - 263139",
     "CONTACT": "9412087722",
+    "MICR": "263808005",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "NAINITAL",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0NDCB27": {
     "IFSC": "YESB0NDCB27",
@@ -36698,12 +36792,12 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "MANDI BRANCH, HALDWANI - 263139",
     "CONTACT": "9412087722",
+    "MICR": "263808004",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "NAINITAL",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0NDCB28": {
     "IFSC": "YESB0NDCB28",
@@ -36713,12 +36807,12 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "DHOLIGAON BRANCH, DHOLIGAON, NAINITAL - 263132",
     "CONTACT": "9412087722",
+    "MICR": "263808361",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "NAINITAL",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0NEARBY": {
     "IFSC": "YESB0NEARBY",
@@ -36803,12 +36897,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MAIN ROAD, NIZAMPUR, TAL-SAKRI, DIST-DHULE - 424305",
     "CONTACT": "276633",
+    "MICR": "424894501",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "DHULE",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0NMB003": {
     "IFSC": "YESB0NMB003",
@@ -36818,12 +36912,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MAIN ROAD, PRAKASHA, TAL-SHAHADA, DIST-NANDURBAR - 425422",
     "CONTACT": "240127",
+    "MICR": "425894303",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "NANDURBAR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0NMB004": {
     "IFSC": "YESB0NMB004",
@@ -36833,12 +36927,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "HATODA ROAD, TALODA, TAL-TALODA, DIST-NANDURBAR - 425413",
     "CONTACT": "233601",
+    "MICR": "425894501",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "NANDURBAR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0NMB005": {
     "IFSC": "YESB0NMB005",
@@ -37703,12 +37797,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SOMA HIGHTS SAMATA SANKUL BHABHA NGR NASHIK 422011",
     "CONTACT": "6941101",
+    "MICR": "422259258",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "NASIK",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0ODCB01": {
     "IFSC": "YESB0ODCB01",
@@ -37733,12 +37827,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "A/P KHANDALA,TAL KHANDALA,SATARA - 412802",
     "CONTACT": "252669",
+    "MICR": "412803501",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "SATARA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0OMCB01": {
     "IFSC": "YESB0OMCB01",
@@ -38003,12 +38097,12 @@
     "STATE": "BIHAR",
     "ADDRESS": "SAHKARI BHAWAN COURT COMPOUND PURNEA 854301",
     "CONTACT": "242273",
+    "MICR": "854832102",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "PURNIA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0PIMC00": {
     "IFSC": "YESB0PIMC00",
@@ -38033,12 +38127,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "DHANASHREE BANK STREET, PIMPALGAON (B)TAL NIPHAD, NASIK - 422209",
     "CONTACT": "250812",
+    "MICR": "422518501",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "NASIK",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0PIMC02": {
     "IFSC": "YESB0PIMC02",
@@ -39098,12 +39192,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "TALAO LAY OUT BEHIND LIC OFFICE PUSAD YAVATMAL - 445204",
     "CONTACT": "9689926919",
+    "MICR": "445817102",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "YAVATMAL",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0PUCB01": {
     "BANK": "YES BANK",
@@ -39803,12 +39897,12 @@
     "STATE": "DELHI",
     "ADDRESS": "1/4, DESH BANDHU GUPTA ROAD, PAHARGANJ, NEW DELHI - 110055",
     "CONTACT": "9811940358",
+    "MICR": "110026251",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "DELHI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0RCUB01": {
     "BANK": "YES BANK",
@@ -40238,12 +40332,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "VIVEKANAND COLONY, SARDAR PATEL WARD, ANANDWAN ROAD, WARORA - 442907",
     "CONTACT": "9822809464",
+    "MICR": "442809501",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "CHANDRAPUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0SANB99": {
     "IFSC": "YESB0SANB99",
@@ -40927,12 +41021,12 @@
     "STATE": "GUJARAT",
     "ADDRESS": "PLOT 68-69-70, 1ST FLOOR, NR MADHAPAR BUS STAND, MADHAPAR - 360006",
     "CONTACT": "2223037",
+    "MICR": "360442007",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "RAJKOT",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0SDC001": {
     "BANK": "YES BANK",
@@ -40972,12 +41066,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "NINAI HEIGHTS,KAPARI NAKA, SHIRALA, SANGLI - 415408",
     "CONTACT": "272194",
+    "MICR": "416869502",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "SANGLI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0SDNB03": {
     "IFSC": "YESB0SDNB03",
@@ -40987,12 +41081,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PETH LINE,MANGLE - 415412",
     "CONTACT": "220176",
+    "MICR": "416869501",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "SANGLI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0SDNB04": {
     "IFSC": "YESB0SDNB04",
@@ -41002,12 +41096,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "NEAR S.T.STAND,SAGAON 415408",
     "CONTACT": "225035",
+    "MICR": "416869503",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "SANGLI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0SDNB05": {
     "IFSC": "YESB0SDNB05",
@@ -41017,12 +41111,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "VISHWASRAO NAIK S KARKHANA,CHIKALI - 415408",
     "CONTACT": "231166",
+    "MICR": "416869504",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "SANGLI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0SDNB06": {
     "IFSC": "YESB0SDNB06",
@@ -41032,12 +41126,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "NEAR S.T.STAND,KOKRUD - 415405",
     "CONTACT": "224003",
+    "MICR": "416869505",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "SANGLI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0SDNB07": {
     "IFSC": "YESB0SDNB07",
@@ -41047,12 +41141,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "CS NO.69 NORTH SHIVAJI NAGAR,SANGLI - 416416",
     "CONTACT": "2373577",
+    "MICR": "416012154",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "SANGLI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0SDNB08": {
     "IFSC": "YESB0SDNB08",
@@ -41062,12 +41156,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "BAZAR PETH,KAMERI - 415403",
     "CONTACT": "271871",
+    "MICR": "416869506",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "SANGLI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0SDNB09": {
     "IFSC": "YESB0SDNB09",
@@ -41077,12 +41171,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "DABHOLKAR CORNER,ROYAL PLAZA,KOLHAPUR - 416003",
     "CONTACT": "2653902",
+    "MICR": "416259255",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "KOLHAPUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0SDNB10": {
     "IFSC": "YESB0SDNB10",
@@ -41092,12 +41186,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GRAM SACHIVALAYA BLDG,SARUD - 416214",
     "CONTACT": "244900",
+    "MICR": "416869507",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "KOLHAPUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0SDNB11": {
     "IFSC": "YESB0SDNB11",
@@ -41107,12 +41201,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "OPP.ZILA PARISHAD SCHOOL,BAHADURWADI - 415411",
     "CONTACT": "273455",
+    "MICR": "416869508",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "SANGLI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0SDNB12": {
     "IFSC": "YESB0SDNB12",
@@ -41122,12 +41216,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "WATEGAON,TAL.WALVA,SANGLI - 415410",
     "CONTACT": "237200",
+    "MICR": "416869509",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "SANGLI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0SDNB13": {
     "IFSC": "YESB0SDNB13",
@@ -41137,12 +41231,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GRAM PANCHAYAT KARYALAYA,SAMOR,NERLE - 415406",
     "CONTACT": "278577",
+    "MICR": "416869510",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "SANGLI",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0SDNB14": {
     "IFSC": "YESB0SDNB14",
@@ -41152,12 +41246,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AKAR PRIDE,AGASHIVNAGAR,MALKAPUR,KARAD - 415101",
     "CONTACT": "242811",
+    "MICR": "416869352",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "SATARA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0SHBK01": {
     "BANK": "YES BANK",
@@ -41407,12 +41501,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "1ST FLOOR RAGUWANSHI COMPLEX BAZA WARD CHANDRAPUR 442402",
     "CONTACT": "261801",
+    "MICR": "442808102",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "CHANDRAPUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0SKNS02": {
     "IFSC": "YESB0SKNS02",
@@ -41422,12 +41516,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "BESIDE ADARSH PEROL PUMP INDUSRIAL ESTATE CHANDRAPUR 442401",
     "CONTACT": "254957",
+    "MICR": "442808104",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "CHANDRAPUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0SKNS03": {
     "IFSC": "YESB0SKNS03",
@@ -41617,12 +41711,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SADAR PATEL COLLEGE GANJ WARD CHANDRAPUR CHANDRAPUR 442402",
     "CONTACT": "254714",
+    "MICR": "442808103",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "CHANDRAPUR",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0SLMCB1": {
     "IFSC": "YESB0SLMCB1",
@@ -42547,12 +42641,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "F9/F10 ADARSH SHIVNERI, KOREGAON - 415501",
     "CONTACT": "220056",
+    "MICR": "415828402",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "SATARA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0SVNB02": {
     "IFSC": "YESB0SVNB02",
@@ -42592,12 +42686,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "C.S NO 21/7 NEAR NATRAJ, NILAYAM KHED SATARA - 415002",
     "CONTACT": "244556",
+    "MICR": "415828001",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "SATARA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0SVNB05": {
     "IFSC": "YESB0SVNB05",
@@ -42607,12 +42701,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHELKE COMPLEX NAVI PETH, LONAND - 415521",
     "CONTACT": "225056",
+    "MICR": "415828501",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "SATARA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0SVSB01": {
     "BANK": "YES BANK",
@@ -42838,6 +42932,34 @@
     "CITY": "AHMADABAD",
     "NEFT": true,
     "IMPS": true
+  },
+  "YESB0TMUB01": {
+    "BANK": "YES BANK",
+    "IFSC": "YESB0TMUB01",
+    "BRANCH": "MAHABALESHWAR UCB LTD MAHABALESHWAR",
+    "ADDRESS": "112, DR. SABANE ROAD, MAHABALESHWAR, SATARA 412806",
+    "CONTACT": "260930",
+    "CITY": "SATARA",
+    "DISTRICT": "MAHABALESHWAR",
+    "STATE": "MAHARASHTRA",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "YESB0TMUB02": {
+    "BANK": "YES BANK",
+    "IFSC": "YESB0TMUB02",
+    "BRANCH": "MAHABALESHWAR UCB LTD TALDEV",
+    "ADDRESS": "A/P TALDEV TAL MAHABALESHWAR, SATARA 412806",
+    "CONTACT": "274027",
+    "CITY": "SATARA",
+    "DISTRICT": "MAHABALESHWAR",
+    "STATE": "MAHARASHTRA",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "YESB0TPBL01": {
     "BANK": "YES BANK",
@@ -45007,12 +45129,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MOHOTA COMPLEX, MOHOTA CHOWK, HINGANGHAT 442301",
     "CONTACT": "245402",
+    "MICR": "442879102",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "WARDHA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0VMUB01": {
     "IFSC": "YESB0VMUB01",
@@ -45429,10 +45551,10 @@
     "ADDRESS": "CINEMA ROAD,HAJIPUR,VAISHALI 844001",
     "CONTACT": "260163",
     "IMPS": true,
+    "MICR": "844814002",
     "RTGS": true,
     "CITY": "VAISHALI",
-    "NEFT": true,
-    "MICR": null
+    "NEFT": true
   },
   "YESB0VSV002": {
     "IFSC": "YESB0VSV002",
@@ -45622,12 +45744,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MADHAV BHAWAN,DEVI ASHTABHUJA MANDIR,CHOWK,DHANTOLI,WARDHA-442001",
     "CONTACT": "9960560552",
+    "MICR": "442803006",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "WARDHA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0WNSB02": {
     "IFSC": "YESB0WNSB02",
@@ -47767,12 +47889,12 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "HEAD OFFICE BLDG DATTA CHOWK YAVATMAL 445 001",
     "CONTACT": "243703",
+    "MICR": "445810002",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "YAVATMAL",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "YESB0YUCB25": {
     "IFSC": "YESB0YUCB25",
@@ -48292,11 +48414,11 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "26, JAGDISH BUILDING, HAZRATGANJ, LUCKNOW - 226001",
     "CONTACT": "8756400240",
+    "MICR": "226185252",
     "BANK": "YES BANK",
     "RTGS": true,
     "CITY": "LUCKNOW",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   }
 }

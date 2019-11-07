@@ -22949,31 +22949,33 @@
     "IMPS": true
   },
   "PSIB0021561": {
-    "BANK": "PUNJAB AND SIND BANK",
     "IFSC": "PSIB0021561",
     "BRANCH": "BHUJ",
-    "ADDRESS": "N K TOWER OPPOSITE JILA PANCHAYAT BHUJ GUJRAT",
-    "CONTACT": "255992",
-    "CITY": "BHUJ",
+    "CENTRE": "BHUJ",
     "DISTRICT": "BHUJ",
     "STATE": "GUJARAT",
+    "ADDRESS": "N K TOWER OPPOSITE JILA PANCHAYAT BHUJ GUJRAT",
+    "CONTACT": "255992",
+    "MICR": "370023051",
+    "BANK": "PUNJAB AND SIND BANK",
+    "RTGS": true,
+    "CITY": "BHUJ",
     "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "PSIB0021562": {
-    "BANK": "PUNJAB AND SIND BANK",
     "IFSC": "PSIB0021562",
     "BRANCH": "SECTOR SIXTY EIGHT MOHALI",
-    "ADDRESS": "SCO 12 SECTOR 68 MOHALI SAS NAGAR",
-    "CONTACT": "7814755227",
-    "CITY": "SAS NAGAR",
+    "CENTRE": "SAS NAGAR",
     "DISTRICT": "SAS NAGAR",
     "STATE": "PUNJAB",
+    "ADDRESS": "SCO 12 SECTOR 68 MOHALI SAS NAGAR",
+    "CONTACT": "7814755227",
+    "MICR": "160023059",
+    "BANK": "PUNJAB AND SIND BANK",
+    "RTGS": true,
+    "CITY": "SAS NAGAR",
     "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   }
 }
