@@ -76423,16 +76423,17 @@
     "MICR": null
   },
   "PUNB0635200": {
-    "BANK": "PUNJAB NATIONAL BANK",
     "IFSC": "PUNB0635200",
     "BRANCH": "BO KATAYLA",
-    "ADDRESS": "KATAIYA",
-    "CONTACT": "9805002536",
-    "CITY": "KATAI",
+    "CENTRE": "KATAIYA",
     "DISTRICT": "KATAIYA",
     "STATE": "UTTAR PRADESH",
+    "ADDRESS": "KATAIYA",
+    "CONTACT": "9805002536",
+    "BANK": "PUNJAB NATIONAL BANK",
+    "RTGS": true,
+    "CITY": "KATAI",
     "NEFT": true,
-    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },

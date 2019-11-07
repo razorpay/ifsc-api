@@ -674,6 +674,20 @@
     "NEFT": true,
     "IMPS": true
   },
+  "KARB0000046": {
+    "BANK": "KARNATAKA BANK LIMITED",
+    "IFSC": "KARB0000046",
+    "BRANCH": "ANKLESHWAR",
+    "ADDRESS": "SHOP NO 101,102 &103, GROUND FLOOR, OMKAR-2, STATION ROAD, ANKLESHWAR-393002",
+    "CONTACT": null,
+    "CITY": "BHARUCH",
+    "DISTRICT": "ANKLESHWAR",
+    "STATE": "GUJARAT",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
+  },
   "KARB0000050": {
     "IFSC": "KARB0000050",
     "BRANCH": "REGIONAL OFFICE KALABURGI",
@@ -13016,5 +13030,19 @@
     "CITY": "SIDDIPET",
     "NEFT": true,
     "IMPS": true
+  },
+  "KARB0000987": {
+    "BANK": "KARNATAKA BANK LIMITED",
+    "IFSC": "KARB0000987",
+    "BRANCH": "CHIKNAYAKANHALLI",
+    "ADDRESS": "GROUND FLOOR, MUN.SL.NO 92/2,83/2,84/2,75/2, PRO.NO 14-3-10466, NEHARU CIRCLE, MAIN ROAD, C.N.HALLY TOWN-572214.",
+    "CONTACT": null,
+    "CITY": "TUMAKURU",
+    "DISTRICT": "CHIKNAYAKANHALLI",
+    "STATE": "KARNATAKA",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   }
 }
