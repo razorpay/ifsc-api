@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    redis (4.0.1)
+    redis (4.1.3)
 
 PLATFORMS
   ruby
@@ -10,4 +10,4 @@ DEPENDENCIES
   redis
 
 BUNDLED WITH
-   1.16.2
+   2.0.2
