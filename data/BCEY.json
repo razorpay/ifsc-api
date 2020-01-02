@@ -8,7 +8,7 @@
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
     "STATE": "TAMIL NADU",
-    "NEFT": true,
+    "NEFT": false,
     "RTGS": false,
     "IMPS": true,
     "MICR": null
@@ -25,7 +25,7 @@
     "IMPS": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "NEFT": true,
+    "NEFT": false,
     "MICR": null
   }
 }

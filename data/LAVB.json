@@ -8579,18 +8579,19 @@
     "IMPS": true
   },
   "LAVB0000916": {
-    "BANK": "LAXMI VILAS BANK",
     "IFSC": "LAVB0000916",
     "BRANCH": "ASWARAOPET",
-    "ADDRESS": "GANDHI BOOMA CENTER OPPOSITE TO SBI MAIN BRANCH",
-    "CONTACT": null,
-    "CITY": "BADRADRI KOTHAGUDEM",
+    "CENTRE": "ASWARAOPET",
     "DISTRICT": "ASWARAOPET",
     "STATE": "TELANGANA",
+    "ADDRESS": "GANDHI BOOMA CENTER OPPOSITE TO SBI MAIN BRANCH",
+    "CONTACT": null,
+    "MICR": "507056004",
+    "BANK": "LAXMI VILAS BANK",
+    "RTGS": true,
+    "CITY": "BADRADRI KOTHAGUDEM",
     "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "LAVB0000926": {
     "IFSC": "LAVB0000926",

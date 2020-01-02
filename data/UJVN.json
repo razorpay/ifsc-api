@@ -1333,6 +1333,20 @@
     "NEFT": true,
     "IMPS": true
   },
+  "UJVN0001618": {
+    "BANK": "Ujjivan Small Finance Bank Limited",
+    "IFSC": "UJVN0001618",
+    "BRANCH": "ANAIMALAI",
+    "ADDRESS": "FNO.803,MARUDHAMALAIANDAVARKALYANAMANDAPAM,GROUNDFLOOR1EETHUMADAIROAD,ANAIMALAI,COIMBATORE,TAMILNADU-642104",
+    "CONTACT": null,
+    "CITY": "COIMBATORE",
+    "DISTRICT": "ANAIMALAI",
+    "STATE": "TAMIL NADU",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
+  },
   "UJVN0001619": {
     "IFSC": "UJVN0001619",
     "BRANCH": "VASCO",
@@ -2547,6 +2561,48 @@
     "CITY": "KOTTAYAM",
     "NEFT": true,
     "IMPS": true
+  },
+  "UJVN0001704": {
+    "BANK": "Ujjivan Small Finance Bank Limited",
+    "IFSC": "UJVN0001704",
+    "BRANCH": "KOZHIKODE CITY",
+    "ADDRESS": "UNIT NO.27/383 D3 TO D9,SOUBHAGYA SHOPPING COMPLEX,P.O.PUTHIYARA,NEAR ARAYADATHUPALAM,MAVOOR ROAD,KOZHIKODE,KERALA -673017",
+    "CONTACT": null,
+    "CITY": "KOZHIKODE",
+    "DISTRICT": "KOZHIKODE",
+    "STATE": "KERALA",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "UJVN0001706": {
+    "BANK": "Ujjivan Small Finance Bank Limited",
+    "IFSC": "UJVN0001706",
+    "BRANCH": "THIRUVANANTHAPURAM MAIN",
+    "ADDRESS": "NO.73/3T.KDIVAKARAN TOWER,KUMARAPURAM MEDICAL COLLEGE ROAD,KUMARAPURAM MEDICAL COLLEGE P.O,THIRUVANANTHAPURAM,KERALA - 695011",
+    "CONTACT": null,
+    "CITY": "THIRUVANANTHAPURAM",
+    "DISTRICT": "THIRUVANANTHAPURAM",
+    "STATE": "KERALA",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "UJVN0001707": {
+    "BANK": "Ujjivan Small Finance Bank Limited",
+    "IFSC": "UJVN0001707",
+    "BRANCH": "KOTTAPALAYAM EAST",
+    "ADDRESS": "NO.212/50,GROUND FLOOR,KOTTAPALAYAM VILLAGE,KOTTAPALAYAMPANCHAYAT,THURAIYUR TALUK,TIRUCHIRAPPALLI,KOTTAPALAYAM ( EAST),TAMIL NADU - 621003",
+    "CONTACT": null,
+    "CITY": "TIRUCHIRAPPALLI",
+    "DISTRICT": "KOTTAPALAYAM EAST",
+    "STATE": "TAMIL NADU",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "UJVN0002201": {
     "IFSC": "UJVN0002201",
@@ -3914,18 +3970,19 @@
     "IMPS": true
   },
   "UJVN0002322": {
-    "BANK": "Ujjivan Small Finance Bank Limited",
     "IFSC": "UJVN0002322",
     "BRANCH": "DHAMNOD",
-    "ADDRESS": "GROUND& FIRST FLOOR SURVEY NO.98/26,VILLAGE GULJHARA DHAMNOD,TEHSIL DHARMPURI,DHAR,MADHYA PRADESH -454449",
-    "CONTACT": null,
-    "CITY": "DHAR",
+    "CENTRE": "DHAMNOD",
     "DISTRICT": "DHAMNOD",
     "STATE": "MADHYA PRADESH",
+    "ADDRESS": "GROUND& FIRST FLOOR SURVEY NO.98/26,VILLAGE GULJHARA DHAMNOD,TEHSIL DHARMPURI,DHAR,MADHYA PRADESH -454449",
+    "CONTACT": null,
+    "MICR": "454761201",
+    "BANK": "Ujjivan Small Finance Bank Limited",
+    "RTGS": true,
+    "CITY": "DHAR",
     "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "UJVN0002323": {
     "IFSC": "UJVN0002323",
@@ -3958,18 +4015,19 @@
     "IMPS": true
   },
   "UJVN0002325": {
-    "BANK": "Ujjivan Small Finance Bank Limited",
     "IFSC": "UJVN0002325",
     "BRANCH": "KAPURTHALA",
-    "ADDRESS": "GROUND& FIRST FLOOR,HADBAST NO.134,VILLAGE KAPURTHALA SHARKI,MALL ROAD,OPP.TO INDIA POST OFFICE KAPURTHALA,PUNJAB - 144601",
-    "CONTACT": null,
-    "CITY": "KAPURTHALA",
+    "CENTRE": "KAPURTHALA",
     "DISTRICT": "KAPURTHALA",
     "STATE": "PUNJAB",
+    "ADDRESS": "GROUND& FIRST FLOOR,HADBAST NO.134,VILLAGE KAPURTHALA SHARKI,MALL ROAD,OPP.TO INDIA POST OFFICE KAPURTHALA,PUNJAB - 144601",
+    "CONTACT": null,
+    "MICR": "144761252",
+    "BANK": "Ujjivan Small Finance Bank Limited",
+    "RTGS": true,
+    "CITY": "KAPURTHALA",
     "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "UJVN0002327": {
     "IFSC": "UJVN0002327",
@@ -4497,18 +4555,19 @@
     "IMPS": true
   },
   "UJVN0002368": {
-    "BANK": "Ujjivan Small Finance Bank Limited",
     "IFSC": "UJVN0002368",
     "BRANCH": "JUNGLEBIHULI",
-    "ADDRESS": "GROUND&FIRSTFLOOR,KHASRANO.1494,VILLAGEJUNGLEBIHULI,POSTPIPIGANJ,TEHSILCAMPIERGANJ,JUNGLEBIHULI,GORAKHPUR,UTTARPRADESH-273165",
-    "CONTACT": null,
-    "CITY": "GORAKHPUR",
+    "CENTRE": "JUNGLEBIHULI",
     "DISTRICT": "JUNGLEBIHULI",
     "STATE": "UTTAR PRADESH",
+    "ADDRESS": "GROUND&FIRSTFLOOR,KHASRANO.1494,VILLAGEJUNGLEBIHULI,POSTPIPIGANJ,TEHSILCAMPIERGANJ,JUNGLEBIHULI,GORAKHPUR,UTTARPRADESH-273165",
+    "CONTACT": null,
+    "MICR": "273761003",
+    "BANK": "Ujjivan Small Finance Bank Limited",
+    "RTGS": true,
+    "CITY": "GORAKHPUR",
     "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "UJVN0002369": {
     "IFSC": "UJVN0002369",
@@ -4526,32 +4585,34 @@
     "IMPS": true
   },
   "UJVN0002370": {
-    "BANK": "Ujjivan Small Finance Bank Limited",
     "IFSC": "UJVN0002370",
     "BRANCH": "SWAROOPNAGAR",
-    "ADDRESS": "GROUNDFLOORSHOPNO.113/144(1)&113/144-A,PLOTNO.188,BLOCK-C,YOJNANO.-7,GUTAIYA,KANPUR,UTTARPRADESH-208002",
-    "CONTACT": null,
-    "CITY": "KANPUR",
+    "CENTRE": "KANPUR",
     "DISTRICT": "KANPUR",
     "STATE": "UTTAR PRADESH",
+    "ADDRESS": "GROUNDFLOORSHOPNO.113/144(1)&113/144-A,PLOTNO.188,BLOCK-C,YOJNANO.-7,GUTAIYA,KANPUR,UTTARPRADESH-208002",
+    "CONTACT": null,
+    "MICR": "208761003",
+    "BANK": "Ujjivan Small Finance Bank Limited",
+    "RTGS": true,
+    "CITY": "KANPUR",
     "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "UJVN0002371": {
-    "BANK": "Ujjivan Small Finance Bank Limited",
     "IFSC": "UJVN0002371",
     "BRANCH": "INDIRANAGAR",
-    "ADDRESS": "GROUNDFLOOR,SHOPNO.03&04,LUCKNOWLGF,HARSHITACOMPLEX,SHEIKHPURKASAILA,FAIZABADROAD,LUCKNOW,UTTARPRADESH-226015",
-    "CONTACT": null,
-    "CITY": "LUCKNOW",
+    "CENTRE": "LUCKNOW",
     "DISTRICT": "LUCKNOW",
     "STATE": "UTTAR PRADESH",
+    "ADDRESS": "GROUNDFLOOR,SHOPNO.03&04,LUCKNOWLGF,HARSHITACOMPLEX,SHEIKHPURKASAILA,FAIZABADROAD,LUCKNOW,UTTARPRADESH-226015",
+    "CONTACT": null,
+    "MICR": "226761003",
+    "BANK": "Ujjivan Small Finance Bank Limited",
+    "RTGS": true,
+    "CITY": "LUCKNOW",
     "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "UJVN0003301": {
     "IFSC": "UJVN0003301",
@@ -5828,6 +5889,20 @@
     "NEFT": true,
     "IMPS": true
   },
+  "UJVN0003523": {
+    "BANK": "Ujjivan Small Finance Bank Limited",
+    "IFSC": "UJVN0003523",
+    "BRANCH": "PHULANAKHARA",
+    "ADDRESS": "PHULANAKHARA KACHARAMALA,P.S.CUTTACK SADAR,PHULANAKHARA,CUTTACK,ODISHA - 754001",
+    "CONTACT": null,
+    "CITY": "CUTTACK",
+    "DISTRICT": "PHULANAKHARA",
+    "STATE": "ODISHA",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
+  },
   "UJVN0003524": {
     "IFSC": "UJVN0003524",
     "BRANCH": "SULTANGANJ",
@@ -7088,6 +7163,20 @@
     "NEFT": true,
     "IMPS": true
   },
+  "UJVN0003629": {
+    "BANK": "Ujjivan Small Finance Bank Limited",
+    "IFSC": "UJVN0003629",
+    "BRANCH": "JAGANATHPUR",
+    "ADDRESS": "CUTTACK -PARADIP ROAD,JAGANATHPUR,PO RAGHUNNATHPUR,JAGANATHPUR,JAGATSINGHPUR,ODISHA -754132",
+    "CONTACT": null,
+    "CITY": "JAGATSINGHPUR",
+    "DISTRICT": "JAGANATHPUR",
+    "STATE": "ODISHA",
+    "NEFT": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
+  },
   "UJVN0004401": {
     "IFSC": "UJVN0004401",
     "BRANCH": "WEST RO",
@@ -7824,18 +7913,19 @@
     "IMPS": true
   },
   "UJVN0004470": {
-    "BANK": "Ujjivan Small Finance Bank Limited",
     "IFSC": "UJVN0004470",
     "BRANCH": "ICHALKARANJI",
-    "ADDRESS": "DHANRAJ PLAZA,OPP.RADHAKRISHNA TALKIES,NEAR KAPAD MARKET,KOLHAPUR MAHARASHTRA -416115",
-    "CONTACT": null,
-    "CITY": "KOLHAPUR",
+    "CENTRE": "ICHALKARANJI",
     "DISTRICT": "ICHALKARANJI",
     "STATE": "MAHARASHTRA",
+    "ADDRESS": "DHANRAJ PLAZA,OPP.RADHAKRISHNA TALKIES,NEAR KAPAD MARKET,KOLHAPUR MAHARASHTRA -416115",
+    "CONTACT": null,
+    "MICR": "416761201",
+    "BANK": "Ujjivan Small Finance Bank Limited",
+    "RTGS": true,
+    "CITY": "KOLHAPUR",
     "NEFT": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "UJVN0004472": {
     "IFSC": "UJVN0004472",
