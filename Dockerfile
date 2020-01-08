@@ -44,7 +44,6 @@ COPY --from=rdbbuilder /app/dump.rdb /app/
 COPY README.md app.rb metrics.rb config.ru entrypoint.sh /app/
 COPY public /app/public/
 COPY views /app/views/
-COPY data/sublet.json data/banknames.json /app/data/
 
 ARG BUILD_DATE
 ARG VCS_REF
