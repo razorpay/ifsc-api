@@ -17,7 +17,7 @@ GEM
     multi_xml (0.6.0)
     mustermann (1.1.0)
       ruby2_keywords (~> 0.0.1)
-    prometheus-client (1.0.0)
+    prometheus-client (2.0.0)
     rack (2.0.8)
     rack-protection (2.0.8.1)
       rack
