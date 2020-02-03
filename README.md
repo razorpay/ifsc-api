@@ -2,7 +2,7 @@
 
 API server that serves Razorpay's IFSC API.
 
-[![](https://images.microbadger.com/badges/image/razorpay/ifsc:1.4.10.svg)](https://microbadger.com/images/razorpay/ifsc:1.4.10) [![](https://images.microbadger.com/badges/version/razorpay/ifsc:1.4.10.svg)](https://microbadger.com/images/razorpay/ifsc:1.4.10)
+[![](https://images.microbadger.com/badges/image/razorpay/ifsc:1.5.0.svg)](https://microbadger.com/images/razorpay/ifsc:1.5.0) [![](https://images.microbadger.com/badges/version/razorpay/ifsc:1.5.0.svg)](https://microbadger.com/images/razorpay/ifsc:1.5.0)
 
 Current API Root is <https://ifsc.razorpay.com/>
 
@@ -29,3 +29,7 @@ bundle exec rackup
 ```
 
 Your server should now be accessible at `http://localhost:9292`
+
+## License
+
+Code is licensed under the [MIT License](https://nemo.mit-license.org/). See LICENSE file for details. Everything under the `data/` directory is available under the Public Domain.
