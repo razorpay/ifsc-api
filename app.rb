@@ -85,6 +85,7 @@ helpers do
       data['RTGS'] = strtobool data['RTGS']
       data['NEFT'] = strtobool data['NEFT']
       data['IMPS'] = strtobool data['IMPS']
+      data['UPI'] = strtobool data['UPI']
       settings.metrics.increment code
     else
       data = nil
