@@ -7,12 +7,12 @@
     "DISTRICT": "NEW DELHI",
     "STATE": "DELHI",
     "ADDRESS": "13TH FLOOR, HINDUSTAN TIMES HOUSE, 18-20, KG MARG,NEW DELHI - 110001",
-    "CONTACT": "47689111",
+    "CONTACT": "01147689111",
     "IMPS": true,
+    "UPI": false,
     "MICR": "110040002",
     "RTGS": true,
-    "CITY": "NEW DELHI",
-    "NEFT": true
+    "NEFT": false
   },
   "SMBC0000002": {
     "IFSC": "SMBC0000002",
@@ -21,12 +21,12 @@
     "DISTRICT": "MUMBAI",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "UNIT 601, 6TH FLOOR, PLATINA BUILDING, PLOT NO C-59, BANDRA KURLA COMPLEX, BANDRA EAST, MUMBAI - 400051",
-    "CONTACT": "62295000",
+    "CONTACT": "02262295000",
     "MICR": "400040002",
     "BANK": "SUMITOMO MITSUI BANKING CORPORATION",
+    "UPI": false,
     "RTGS": true,
-    "CITY": "MUMBAI",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true
   }
 }

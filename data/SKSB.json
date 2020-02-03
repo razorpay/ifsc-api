@@ -7,11 +7,11 @@
     "DISTRICT": "NAGPUR",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "NEAR GANDHISAGAR MAHAL, NAGPUR 440018",
-    "CONTACT": "2774866",
+    "CONTACT": "07122774866",
     "IMPS": true,
+    "UPI": false,
     "RTGS": true,
-    "CITY": "NAGPUR",
-    "NEFT": true,
+    "NEFT": false,
     "MICR": null
   },
   "SKSB0000002": {
@@ -21,11 +21,11 @@
     "DISTRICT": "NAGPUR",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "NEAR GANDHISAGAR MAHAL, NAGPUR 440018",
-    "CONTACT": "2774866",
+    "CONTACT": "07122774866",
     "BANK": "SHIKSHAK SAHAKARI BANK LIMITED",
+    "UPI": false,
     "RTGS": true,
-    "CITY": "NAGPUR",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
     "MICR": null
   }

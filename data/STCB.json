@@ -9,6 +9,7 @@
     "CONTACT": "02243028826",
     "MICR": "400332002",
     "BANK": "SBM BANK INDIA LIMITED",
+    "UPI": false,
     "RTGS": true,
     "NEFT": false,
     "IMPS": true
@@ -18,14 +19,14 @@
     "IFSC": "STCB0000065",
     "BRANCH": "RTGS-HO",
     "CENTRE": "MUMBAI",
-    "DISTRICT": "MUMBAI",
+    "DISTRICT": "MAHARASHTRA",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "101,RAHEJA CENTRE 1ST FLOOR,FREE PRESS JOURNAL ROAD,NARIMANPOINT MUMBAI 400021",
-    "CONTACT": "43028826",
+    "CONTACT": "02243028826",
     "IMPS": true,
+    "UPI": false,
     "MICR": "400332002",
     "RTGS": true,
-    "CITY": "MAHARASHTRA",
-    "NEFT": true
+    "NEFT": false
   }
 }
