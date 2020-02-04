@@ -1,12 +1,11 @@
-# A sample Gemfile
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem "sinatra"
-gem "sinatra-contrib"
-gem "kramdown"
-gem "rack-ssl-enforcer"
-gem "thin"
-gem "secure_headers"
-gem "redis"
-gem "prometheus-client"
-gem "ifsc"
+gem 'ifsc'
+gem 'kramdown'
+gem 'prometheus-client'
+gem 'rack-ssl-enforcer'
+gem 'redis'
+gem 'secure_headers'
+gem 'sinatra'
+gem 'sinatra-contrib'
+gem 'thin'
