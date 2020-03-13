@@ -10,6 +10,7 @@
     "BANK": "DEPOSIT INSURANCE AND CREDIT GUARANTEE CORPN",
     "UPI": false,
     "RTGS": true,
+    "CITY": "MUMBAI",
     "NEFT": false,
     "IMPS": true,
     "MICR": null
@@ -24,6 +25,7 @@
     "DISTRICT": "MUMBAI",
     "STATE": "MAHARASHTRA",
     "NEFT": true,
+    "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
     "IMPS": true,

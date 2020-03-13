@@ -1,18 +1,19 @@
 {
   "TGMB0000001": {
-    "BANK": "TUMKUR GRAIN MERCHANTS CO-OP. BANK LTD.",
+    "BANK": "Tumkur Grain Merchant's Co-operativeerate Bank",
     "IFSC": "TGMB0000001",
-    "BRANCH": "RTGS-HO",
+    "BRANCH": "Tumkur Grain Merchant's Co-operativeerate Bank IMPS",
     "CENTRE": "TUMKUR",
     "DISTRICT": "TUMKUR",
     "STATE": "KARNATAKA",
     "ADDRESS": "B H ROAD,TUMKUR 572103",
     "CONTACT": null,
     "IMPS": true,
+    "CITY": "TUMKUR",
     "UPI": false,
     "MICR": "572574001",
     "RTGS": true,
-    "NEFT": false
+    "NEFT": true
   },
   "TGMB0000002": {
     "IFSC": "TGMB0000002",
@@ -26,7 +27,8 @@
     "BANK": "TUMKUR GRAIN MERCHANTS CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TUMKUR",
+    "NEFT": true,
     "IMPS": true
   },
   "TGMB0000003": {
@@ -41,7 +43,8 @@
     "BANK": "TUMKUR GRAIN MERCHANTS CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TUMKUR",
+    "NEFT": true,
     "IMPS": true
   },
   "TGMB0000004": {
@@ -56,7 +59,8 @@
     "BANK": "TUMKUR GRAIN MERCHANTS CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TUMKUR",
+    "NEFT": true,
     "IMPS": true
   },
   "TGMB0000005": {
@@ -71,7 +75,8 @@
     "BANK": "TUMKUR GRAIN MERCHANTS CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TUMKUR",
+    "NEFT": true,
     "IMPS": true
   },
   "TGMB0000006": {
@@ -86,7 +91,8 @@
     "BANK": "TUMKUR GRAIN MERCHANTS CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TIPTUR",
+    "NEFT": true,
     "IMPS": true
   },
   "TGMB0000007": {
@@ -101,7 +107,8 @@
     "BANK": "TUMKUR GRAIN MERCHANTS CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SIRA",
+    "NEFT": true,
     "IMPS": true
   },
   "TGMB0000008": {
@@ -116,7 +123,8 @@
     "BANK": "TUMKUR GRAIN MERCHANTS CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TUMKUR",
+    "NEFT": true,
     "IMPS": true
   },
   "TGMB0000009": {
@@ -131,7 +139,8 @@
     "BANK": "TUMKUR GRAIN MERCHANTS CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BENGALURU",
+    "NEFT": true,
     "IMPS": true
   },
   "TGMB0000010": {
@@ -146,7 +155,8 @@
     "BANK": "TUMKUR GRAIN MERCHANTS CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MYSORE",
+    "NEFT": true,
     "IMPS": true
   },
   "TGMB0000011": {
@@ -161,7 +171,8 @@
     "BANK": "TUMKUR GRAIN MERCHANTS CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BENGALURU",
+    "NEFT": true,
     "IMPS": true
   },
   "TGMB0000012": {
@@ -176,7 +187,8 @@
     "BANK": "TUMKUR GRAIN MERCHANTS CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BENGALURU",
+    "NEFT": true,
     "IMPS": true
   },
   "TGMB0000013": {
@@ -191,7 +203,8 @@
     "BANK": "TUMKUR GRAIN MERCHANTS CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BENGALURU",
+    "NEFT": true,
     "IMPS": true
   },
   "TGMB0000014": {
@@ -206,7 +219,8 @@
     "BANK": "TUMKUR GRAIN MERCHANTS CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BENGALURU",
+    "NEFT": true,
     "IMPS": true
   },
   "TGMB0000015": {
@@ -221,7 +235,8 @@
     "BANK": "TUMKUR GRAIN MERCHANTS CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHITRADURGA",
+    "NEFT": true,
     "IMPS": true
   },
   "TGMB0000016": {
@@ -236,7 +251,8 @@
     "BANK": "TUMKUR GRAIN MERCHANTS CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MYSORE",
+    "NEFT": true,
     "IMPS": true
   },
   "TGMB0000017": {
@@ -251,7 +267,8 @@
     "BANK": "TUMKUR GRAIN MERCHANTS CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HASSAN",
+    "NEFT": true,
     "IMPS": true
   },
   "TGMB0000018": {
@@ -266,7 +283,8 @@
     "BANK": "TUMKUR GRAIN MERCHANTS CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BENGALURU",
+    "NEFT": true,
     "IMPS": true
   },
   "TGMB0000019": {
@@ -281,7 +299,8 @@
     "BANK": "TUMKUR GRAIN MERCHANTS CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BENGALURU",
+    "NEFT": true,
     "IMPS": true
   },
   "TGMB0000020": {
@@ -296,7 +315,8 @@
     "BANK": "TUMKUR GRAIN MERCHANTS CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "TGMB0000021": {
@@ -306,11 +326,28 @@
     "DISTRICT": "BANGALORE URBAN",
     "STATE": "KARNATAKA",
     "ADDRESS": "#685,A-Sector, Opp Seshadripuram P.U College, Yelhanka New Town ,Bangalore-560064",
-    "CONTACT": null,
+    "CONTACT": "41499299",
     "BANK": "TUMKUR GRAIN MERCHANTS CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
+  },
+  "TGMB0000022": {
+    "BANK": "TUMKUR GRAIN MERCHANTS COOPERATIVE BANK LIMITED",
+    "IFSC": "TGMB0000022",
+    "BRANCH": "HESARAGHATTA MAIN ROAD BRANCH",
+    "ADDRESS": "BHUVANESHWARI NAGAR, T-DASARAHALLI HESARAGHATTA MAIN ROAD, BENGALURU - 560057",
+    "CONTACT": "32564129",
+    "CITY": "BENGALURU",
+    "DISTRICT": "BENGALURU",
+    "STATE": "KARNATAKA",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": false,
+    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
@@ -326,7 +363,8 @@
     "BANK": "TUMKUR GRAIN MERCHANTS CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MYSORE",
+    "NEFT": true,
     "IMPS": true
   },
   "TGMB0000024": {
@@ -341,7 +379,8 @@
     "BANK": "TUMKUR GRAIN MERCHANTS CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MANDYA",
+    "NEFT": true,
     "IMPS": true
   },
   "TGMB0000025": {
@@ -356,7 +395,8 @@
     "BANK": "TUMKUR GRAIN MERCHANTS CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BENGALURU",
+    "NEFT": true,
     "IMPS": true
   },
   "TGMB0000026": {
@@ -371,7 +411,8 @@
     "BANK": "TUMKUR GRAIN MERCHANTS CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BENGALURU",
+    "NEFT": true,
     "IMPS": true
   },
   "TGMB0000027": {
@@ -386,7 +427,8 @@
     "BANK": "TUMKUR GRAIN MERCHANTS CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "TGMB0000028": {
@@ -401,7 +443,8 @@
     "BANK": "TUMKUR GRAIN MERCHANTS CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SHIVAMOGGA",
+    "NEFT": true,
     "IMPS": true
   },
   "TGMB0000029": {
@@ -416,7 +459,8 @@
     "BANK": "TUMKUR GRAIN MERCHANTS CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BENGALURU",
+    "NEFT": true,
     "IMPS": true
   },
   "TGMB0000030": {
@@ -431,7 +475,8 @@
     "BANK": "TUMKUR GRAIN MERCHANTS CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HOSKOTE",
+    "NEFT": true,
     "IMPS": true
   },
   "TGMB0000031": {
@@ -446,7 +491,8 @@
     "BANK": "TUMKUR GRAIN MERCHANTS CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "TGMB0099933": {
@@ -461,7 +507,8 @@
     "BANK": "TUMKUR GRAIN MERCHANTS CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TUMKUR",
+    "NEFT": true,
     "IMPS": true
   }
 }

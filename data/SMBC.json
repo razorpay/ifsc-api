@@ -1,18 +1,19 @@
 {
   "SMBC0000001": {
-    "BANK": "SUMITOMO MITSUI BANKING CORPORATION",
+    "BANK": "Sumitomo Mitsui Banking Corporation",
     "IFSC": "SMBC0000001",
-    "BRANCH": "RTGS-HO",
+    "BRANCH": "Sumitomo Mitsui Banking Corporation IMPS",
     "CENTRE": "NEW DELHI",
     "DISTRICT": "NEW DELHI",
     "STATE": "DELHI",
     "ADDRESS": "13TH FLOOR, HINDUSTAN TIMES HOUSE, 18-20, KG MARG,NEW DELHI - 110001",
     "CONTACT": "01147689111",
     "IMPS": true,
+    "CITY": "NEW DELHI",
     "UPI": false,
     "MICR": "110040002",
     "RTGS": true,
-    "NEFT": false
+    "NEFT": true
   },
   "SMBC0000002": {
     "IFSC": "SMBC0000002",
@@ -26,7 +27,8 @@
     "BANK": "SUMITOMO MITSUI BANKING CORPORATION",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   }
 }

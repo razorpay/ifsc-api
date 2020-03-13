@@ -1,17 +1,17 @@
 {
   "MSHQ0000001": {
-    "BANK": "MASHREQBANK PSC",
+    "BANK": "Mashreq Bank",
     "IFSC": "MSHQ0000001",
-    "BRANCH": "RTGS-HO",
+    "BRANCH": "Mashreq Bank IMPS",
     "CENTRE": "MUMBAI",
-    "DISTRICT": "MUMBAI",
+    "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
-    "ADDRESS": "1305, RAHEJA CENTRE,13TH FLOOR",
+    "ADDRESS": "602 / 603, Tulsiani Chambers, Nariman Pt, Mumbai - 400 021",
     "CONTACT": "66327200",
     "IMPS": true,
+    "CITY": "MUMBAI",
     "UPI": false,
     "RTGS": true,
-    "CITY": "NARIMAN POINT",
     "NEFT": true,
     "MICR": null
   }

@@ -1,17 +1,18 @@
 {
   "WBSC0000001": {
-    "BANK": "WEST BENGAL STATE COOP BANK LTD.",
+    "BANK": "West Bengal State Co-operative Bank",
     "IFSC": "WBSC0000001",
-    "BRANCH": "KOLKATA",
+    "BRANCH": "West Bengal State Co-operative Bank IMPS",
     "CENTRE": "KOLKATA",
     "DISTRICT": "KOLKATA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "24A, Waterloo Street, Kolkata-700 069",
-    "CONTACT": null,
+    "CONTACT": "22437816",
     "IMPS": true,
+    "CITY": "KOLKATA",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "NEFT": true,
     "MICR": null
   },
   "WBSC0000002": {
@@ -21,12 +22,13 @@
     "DISTRICT": "KOLKATA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "28-A, S. P. MUKHERJEE ROAD KOLKATA – 700 025",
-    "CONTACT": null,
+    "CONTACT": "24551199",
     "MICR": "700093002",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOLKATA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0000003": {
@@ -36,12 +38,13 @@
     "DISTRICT": "KOLKATA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "15/2-B, BALARAM GHOSH ST., KOLKATA – 700 004",
-    "CONTACT": null,
+    "CONTACT": "25556588",
     "MICR": "700093003",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOLKATA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0000004": {
@@ -51,12 +54,13 @@
     "DISTRICT": "KOLKATA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "15, S.N. ROY RD., KOLKATA – 700 038",
-    "CONTACT": null,
+    "CONTACT": "23961373",
     "MICR": "700093007",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOLKATA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0000005": {
@@ -66,12 +70,13 @@
     "DISTRICT": "KOLKATA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "P-52, CIT SCHEME, VIP MARKET, KOLKATA – 700 010",
-    "CONTACT": null,
+    "CONTACT": "23205108",
     "MICR": "700093006",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOLKATA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0000006": {
@@ -81,12 +86,13 @@
     "DISTRICT": "KOLKATA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "89, ARABINDA SARANI, KOLKATA – 700 005",
-    "CONTACT": null,
+    "CONTACT": "25553428",
     "MICR": "700093010",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOLKATA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0000007": {
@@ -96,12 +102,13 @@
     "DISTRICT": "KOLKATA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "27/1/C, CIT SCHEME, LV, KOLKATA – 700 014",
-    "CONTACT": null,
+    "CONTACT": "22657442",
     "MICR": "700093005",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOLKATA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0000008": {
@@ -111,12 +118,13 @@
     "DISTRICT": "KOLKATA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "2/2-A, NANDY STREET, KOLKATA – 700 029",
-    "CONTACT": null,
+    "CONTACT": "24643203",
     "MICR": "700093004",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOLKATA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0000009": {
@@ -126,12 +134,13 @@
     "DISTRICT": "KOLKATA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "28/3-A, GARIAHAT RD., KOLKATA – 700 029",
-    "CONTACT": null,
+    "CONTACT": "24405654",
     "MICR": "700093009",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOLKATA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0000010": {
@@ -141,12 +150,13 @@
     "DISTRICT": "KOLKATA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "23/A, NEW ALIPORE, BLOCK-21-C, KOLKATA – 700 053",
-    "CONTACT": null,
+    "CONTACT": "23966156",
     "MICR": "700093008",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOLKATA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0000011": {
@@ -156,12 +166,13 @@
     "DISTRICT": "KOLKATA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "AUDITORIUM BLOCK, CIT MARKET, KOLKATA – 700 037",
-    "CONTACT": null,
+    "CONTACT": "24797747",
     "MICR": "700093011",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOLKATA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0000012": {
@@ -171,11 +182,12 @@
     "DISTRICT": "DARJILING",
     "STATE": "WEST BENGAL",
     "ADDRESS": "1ST FLOOR, HILL CART RD. SARKAR MANSION, SILIGURI, DIST. DARJEELING",
-    "CONTACT": null,
+    "CONTACT": "2432257",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SILIGURI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -186,11 +198,12 @@
     "DISTRICT": "DARJILING",
     "STATE": "WEST BENGAL",
     "ADDRESS": "1ST FLOOR, HILL CART RD. SARKAR MANSION, SILIGURI, DIST. DARJEELING",
-    "CONTACT": null,
+    "CONTACT": "2432237",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SILIGURI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -201,12 +214,13 @@
     "DISTRICT": "KOLKATA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "EC BLOCK, SALT LAKE CITY, KOLKATA – 700 054",
-    "CONTACT": null,
+    "CONTACT": "23370438",
     "MICR": "700093014",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOLKATA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0000015": {
@@ -216,12 +230,13 @@
     "DISTRICT": "KOLKATA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "415-A, 1ST FLOOR, FD BLOCK, SEC-III, POURA BHAWAN, SALT LAKE CITY, KOLKATA  – 700 064",
-    "CONTACT": null,
+    "CONTACT": "23213724",
     "MICR": "700093016",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOLKATA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0000016": {
@@ -231,11 +246,12 @@
     "DISTRICT": "SOUTH 24 PARGANAS",
     "STATE": "WEST BENGAL",
     "ADDRESS": "NEAR DIAMOND HARBOUR MUNICIPALITY, 24 PGS.[SOUTH]",
-    "CONTACT": null,
+    "CONTACT": "255684",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DIAMOND HARBOUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -246,11 +262,12 @@
     "DISTRICT": "SOUTH 24 PARGANAS",
     "STATE": "WEST BENGAL",
     "ADDRESS": "NEAR CANNING POST OFFICE, 24 PGS.[SOUTH]",
-    "CONTACT": null,
+    "CONTACT": "255239",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CANNING",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -261,11 +278,12 @@
     "DISTRICT": "SOUTH 24 PARGANAS",
     "STATE": "WEST BENGAL",
     "ADDRESS": "KAKDWIP BAZAR, NEAR KAKDWIP POLICE STATION, 24 PGS.[SOUTH]",
-    "CONTACT": null,
+    "CONTACT": "255043",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KAKDWIP",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -276,11 +294,12 @@
     "DISTRICT": "SOUTH 24 PARGANAS",
     "STATE": "WEST BENGAL",
     "ADDRESS": "NEAR KASHINAGAR BAZAR, PO. KASHINAGR, 24 PGS.[SOUTH]",
-    "CONTACT": null,
+    "CONTACT": "274221",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KASHINAGAR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -291,12 +310,13 @@
     "DISTRICT": "SOUTH 24 PARGANAS",
     "STATE": "WEST BENGAL",
     "ADDRESS": "AMTALA BUS STAND, PO. AMTALA, 24PGS.[SOUTH]",
-    "CONTACT": null,
+    "CONTACT": "24709342",
     "MICR": "700093019",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AMTALA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0000021": {
@@ -306,11 +326,12 @@
     "DISTRICT": "SOUTH 24 PARGANAS",
     "STATE": "WEST BENGAL",
     "ADDRESS": "RUDRANAGAR, SAGAR, 24 PGS.[SOUTH]",
-    "CONTACT": null,
+    "CONTACT": "242533",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RUDRANAGAR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -321,11 +342,12 @@
     "DISTRICT": "SOUTH 24 PARGANAS",
     "STATE": "WEST BENGAL",
     "ADDRESS": "PATHAR PRATIMA BAZAR, 24 PGS.[SOUTH]",
-    "CONTACT": null,
+    "CONTACT": "267324",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PATHARPRATIMA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -336,11 +358,12 @@
     "DISTRICT": "SOUTH 24 PARGANAS",
     "STATE": "WEST BENGAL",
     "ADDRESS": "BHANGORE, NEAR GHATAKPUKUR BUS STOP, 24 PGS.[SOUTH]",
-    "CONTACT": null,
+    "CONTACT": "270535",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHANGORE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -351,12 +374,13 @@
     "DISTRICT": "SOUTH 24 PARGANAS",
     "STATE": "WEST BENGAL",
     "ADDRESS": "NEAR BARUIPUR RLY. STATION, 24 PGS.[SOUTH]",
-    "CONTACT": null,
+    "CONTACT": "24338646",
     "MICR": "700093013",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BARUIPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0000025": {
@@ -366,11 +390,12 @@
     "DISTRICT": "SOUTH 24 PARGANAS",
     "STATE": "WEST BENGAL",
     "ADDRESS": "BIJOY GANJ BAZAR, MANDIR BAZAR, 24 PGS. [SOUTH]",
-    "CONTACT": null,
+    "CONTACT": "277158",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "LAKSHMIKANTAPUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -381,12 +406,13 @@
     "DISTRICT": "NORTH 24 PARGANAS",
     "STATE": "WEST BENGAL",
     "ADDRESS": "1ST FLOOR, R.B.C. RD. NEAR BARASAT COURT, NORTH 24 PGS.",
-    "CONTACT": null,
+    "CONTACT": "25628202",
     "MICR": "700093018",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BARASAT",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0000027": {
@@ -396,11 +422,12 @@
     "DISTRICT": "NORTH 24 PARGANAS",
     "STATE": "WEST BENGAL",
     "ADDRESS": "[NEAR BONGAON COURT], SCHOOL RD., BONGAON, NORTH 24 PGS.",
-    "CONTACT": null,
+    "CONTACT": "255069",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BONGAON",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -411,12 +438,13 @@
     "DISTRICT": "NORTH 24 PARGANAS",
     "STATE": "WEST BENGAL",
     "ADDRESS": "ASHADWIP MUNICIPAL COMPLEX, BARRACKPORE, CHIRIAMORE, NORTH 24 PGS.",
-    "CONTACT": null,
+    "CONTACT": "25931651",
     "MICR": "700093015",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BARRACKPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0000029": {
@@ -426,11 +454,12 @@
     "DISTRICT": "NORTH 24 PARGANAS",
     "STATE": "WEST BENGAL",
     "ADDRESS": "[NEAR BADURIA BUS STOP], BADURIA, NORTH 24 PGS.",
-    "CONTACT": null,
+    "CONTACT": "238538",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BADURIA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -441,12 +470,13 @@
     "DISTRICT": "NORTH 24 PARGANAS",
     "STATE": "WEST BENGAL",
     "ADDRESS": "LICHUBAGAN, KANCHRAPARA, NORTH 24 PGS.",
-    "CONTACT": null,
+    "CONTACT": "25852674",
     "MICR": "700093022",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KANCHRAPARA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0000031": {
@@ -456,12 +486,13 @@
     "DISTRICT": "NORTH 24 PARGANAS",
     "STATE": "WEST BENGAL",
     "ADDRESS": "NEAR HABRA RLY STATION, NORTH 24 PGS.",
-    "CONTACT": null,
+    "CONTACT": "237024",
     "MICR": "700093020",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HABRA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0000032": {
@@ -471,11 +502,12 @@
     "DISTRICT": "NORTH 24 PARGANAS",
     "STATE": "WEST BENGAL",
     "ADDRESS": "ARKHALI, AMDANGA PANCHYAT B.D.O.- OFFICE. NORT 24 PGS.",
-    "CONTACT": null,
+    "CONTACT": "260118",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BARASAT",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -486,11 +518,12 @@
     "DISTRICT": "NORTH 24 PARGANAS",
     "STATE": "WEST BENGAL",
     "ADDRESS": "CHANDPARA BUS STAND, CHANDPARA BAZAR, NORTH 24 PGS.",
-    "CONTACT": null,
+    "CONTACT": "250044",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHANDPARA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -501,12 +534,13 @@
     "DISTRICT": "NORTH 24 PARGANAS",
     "STATE": "WEST BENGAL",
     "ADDRESS": "PANIHATI MUNICIPALITY, MARKET COMPLEX, R. N. AVENUE,   P.O.- KHARDAH, NORTH 24 PGS.",
-    "CONTACT": null,
+    "CONTACT": "25689191",
     "MICR": "700093017",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PANIHATI",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0000035": {
@@ -516,11 +550,12 @@
     "DISTRICT": "NORTH 24 PARGANAS",
     "STATE": "WEST BENGAL",
     "ADDRESS": "P.O.- HELENCHA, P.S.- BAGDAH, 24 PARGANAS NORTH",
-    "CONTACT": null,
+    "CONTACT": "264771",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HELENCHA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -531,11 +566,12 @@
     "DISTRICT": "NORTH 24 PARGANAS",
     "STATE": "WEST BENGAL",
     "ADDRESS": "NEAR BSRIHAT COURT, NORTH 24 PARGNAS.",
-    "CONTACT": null,
+    "CONTACT": "265233",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BASIRHAT",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -546,12 +582,13 @@
     "DISTRICT": "NORTH 24 PARGANAS",
     "STATE": "WEST BENGAL",
     "ADDRESS": "60, PURBA SINTHI ROAD, DUM DUM, [KADAMTALA MARKET], KOL-30",
-    "CONTACT": null,
+    "CONTACT": "25135758",
     "MICR": "700093021",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DUM DUM",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0000038": {
@@ -561,11 +598,12 @@
     "DISTRICT": "KOCH BIHAR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "BISWA SINGHA RD., NEAR B. D. HOTEL, P.O.& DIST. – COOCH BEHAR",
-    "CONTACT": null,
+    "CONTACT": "222717",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOCH BEHAR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -576,11 +614,12 @@
     "DISTRICT": "KOCH BIHAR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "PO – MATHABHANGA, NEAR BUST STOP, COOCH BEHAR",
-    "CONTACT": null,
+    "CONTACT": "255258",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MATHABHANGA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -591,11 +630,12 @@
     "DISTRICT": "JALPAIGURI",
     "STATE": "WEST BENGAL",
     "ADDRESS": "PO- ALIPURDUAR, NEAR CHOWPATHI, DIST. - JALPAIGURI",
-    "CONTACT": null,
+    "CONTACT": "255242",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ALIPUR DUAR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -606,11 +646,12 @@
     "DISTRICT": "KOCH BIHAR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "PO - DINHATA, NEAR B.D.O.-OFFICE, COOCH BEHAR",
-    "CONTACT": null,
+    "CONTACT": "255073",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DINHATA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -621,11 +662,12 @@
     "DISTRICT": "JALPAIGURI",
     "STATE": "WEST BENGAL",
     "ADDRESS": "PO- FALAKATA, NR. BUS STOP & SITALA MANDIR, DIST. - JALPAIGURI",
-    "CONTACT": null,
+    "CONTACT": "260273",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "FALAKATA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -636,11 +678,12 @@
     "DISTRICT": "KOCH BIHAR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "PO- TOOFANGUNJ, NEAR FIRE SERVICE STATION, DIST. COOCH BEHAR",
-    "CONTACT": null,
+    "CONTACT": "244300",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TUFANGANJ",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -655,23 +698,25 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOLKATA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
   "WBSC0BDCB01": {
-    "BANK": "WEST BENGAL STATE COOP BANK LTD.",
+    "BANK": "Bankura District Central Co-operative Bank",
     "IFSC": "WBSC0BDCB01",
-    "BRANCH": "Bankura DCCB ,Bankura Main Branch.",
+    "BRANCH": "Bankura District Central Co-operative Bank IMPS",
     "CENTRE": "BANKURA",
     "DISTRICT": "BANKURA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Machantola, Bankura. PIN- 722101",
-    "CONTACT": null,
+    "CONTACT": "251090",
     "IMPS": true,
+    "CITY": "BANKURA",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "NEFT": true,
     "MICR": null
   },
   "WBSC0BDCB02": {
@@ -681,11 +726,12 @@
     "DISTRICT": "BANKURA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "P.O: Bishnupur PIN-722122",
-    "CONTACT": null,
+    "CONTACT": "252085",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BISHNUPUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -696,11 +742,12 @@
     "DISTRICT": "BANKURA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "P.O: Sonamukhi PIN-722207",
-    "CONTACT": null,
+    "CONTACT": "275247",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SONAMUKHI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -711,11 +758,12 @@
     "DISTRICT": "BANKURA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "P.O: Joypur      PIN-722138",
-    "CONTACT": null,
+    "CONTACT": "249223",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JOYPUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -726,11 +774,12 @@
     "DISTRICT": "BANKURA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "P.O: Kotulpur PIN-722147",
-    "CONTACT": null,
+    "CONTACT": "240239",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOTULPUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -741,11 +790,12 @@
     "DISTRICT": "BANKURA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "P.O: Simlapal PIN-722151",
-    "CONTACT": null,
+    "CONTACT": "262223",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SIMLAPAL",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -756,11 +806,12 @@
     "DISTRICT": "BANKURA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "P.O: Indas      PIN-722205",
-    "CONTACT": null,
+    "CONTACT": "263221",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "INDAS",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -771,11 +822,12 @@
     "DISTRICT": "BANKURA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "P.O: Sarenga PIN-722150",
-    "CONTACT": null,
+    "CONTACT": "269224",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SARENGA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -786,11 +838,12 @@
     "DISTRICT": "BANKURA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "P.O: Barjora PIN-722202",
-    "CONTACT": null,
+    "CONTACT": "257233",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BORJORA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -801,11 +854,12 @@
     "DISTRICT": "BANKURA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "P.O: Chhatna PIN-722132",
-    "CONTACT": null,
+    "CONTACT": "277230",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHHATNA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -816,12 +870,13 @@
     "DISTRICT": "BANKURA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "P.O: Khatra                    PIN- 722140",
-    "CONTACT": null,
+    "CONTACT": "255244",
     "MICR": "722809102",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KHATRA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0BDCB12": {
@@ -831,11 +886,12 @@
     "DISTRICT": "BANKURA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "P.O: Patrasayer                   PIN- 722206",
-    "CONTACT": null,
+    "CONTACT": "266228",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PATRASAIR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -846,11 +902,12 @@
     "DISTRICT": "BANKURA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "PO: Taldangra                     PIN- 722152",
-    "CONTACT": null,
+    "CONTACT": "265210",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TALDANGRA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -861,11 +918,12 @@
     "DISTRICT": "BANKURA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "PO: Onda                    PIN- 722144",
-    "CONTACT": null,
+    "CONTACT": "266291",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ONDA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -876,11 +934,12 @@
     "DISTRICT": "BANKURA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "PO: Garh Raipur                    PIN- 722134",
-    "CONTACT": null,
+    "CONTACT": "267357",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RAIPUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -891,11 +950,12 @@
     "DISTRICT": "BANKURA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Machantala Bankura PIN-722101 P.B.No-12",
-    "CONTACT": null,
+    "CONTACT": "250302",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANKURA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -906,11 +966,12 @@
     "DISTRICT": "BANKURA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "PO: Ranibandh                 PIN- 722148",
-    "CONTACT": null,
+    "CONTACT": "250380",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RANIBANDH",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -921,11 +982,12 @@
     "DISTRICT": "BANKURA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "PO: Kamalpur                    PIN- 722137",
-    "CONTACT": null,
+    "CONTACT": "274300",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KAMALPUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -936,11 +998,12 @@
     "DISTRICT": "BANKURA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "PO: Durlavpur                    PIN-722133",
-    "CONTACT": null,
+    "CONTACT": "262075",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DURLAVPUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -955,7 +1018,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANKURA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -970,7 +1034,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SURI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -985,7 +1050,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SURI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1000,7 +1066,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RAMPURHAT",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1015,7 +1082,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NALHATI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1030,7 +1098,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SRINIKETAN",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1045,7 +1114,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BOLPUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1060,7 +1130,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KIRNAHAR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1075,7 +1146,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DUBRAJPUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1090,7 +1162,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOTASUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1105,7 +1178,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MURARAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1120,7 +1194,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AHMEDPUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1135,7 +1210,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "LABPUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1150,7 +1226,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ABINASHPUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1165,7 +1242,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MOLLARPUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1180,7 +1258,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SAINTHIA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1195,7 +1274,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "LOHAPUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1204,29 +1284,191 @@
     "IFSC": "WBSC0BUCB01",
     "BRANCH": "Bhatpara Naihati Co-operative Bank IMPS",
     "CENTRE": "NA",
-    "DISTRICT": "NA",
-    "STATE": "NA",
-    "ADDRESS": "NA",
-    "CONTACT": null,
+    "DISTRICT": "BHATPARA",
+    "STATE": "WEST BENGAL",
+    "ADDRESS": "3 MUKHERJEE PARA ROAD, P.O.- BHATPARA,",
+    "CONTACT": "25812673",
     "IMPS": true,
+    "CITY": "24 PGS NORTH",
     "UPI": false,
-    "NEFT": false,
+    "NEFT": true,
     "RTGS": false,
     "MICR": null
   },
+  "WBSC0BUCB02": {
+    "BANK": "THE WEST BENGAL STATE COOPERATIVE BANK",
+    "IFSC": "WBSC0BUCB02",
+    "BRANCH": "BHATPARA NAIHATI COOP BANK LTD. NAIHATI BR",
+    "ADDRESS": "20 HARIDAS GHOSH ROAD, P.O. - NAIHATI",
+    "CONTACT": "25812680",
+    "CITY": "24 PGS NORTH",
+    "DISTRICT": "NAIHATI",
+    "STATE": "WEST BENGAL",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": false,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "WBSC0BUCB03": {
+    "BANK": "THE WEST BENGAL STATE COOPERATIVE BANK",
+    "IFSC": "WBSC0BUCB03",
+    "BRANCH": "BHATPARA NAIHATI COOP BANK LTD. GARIFA BR",
+    "ADDRESS": "BELA BHAVAN, KRISHNA SADHUKHAN ROAD, P.O.- ANANDABAZAR",
+    "CONTACT": "25818000",
+    "CITY": "24 PGS NORTH",
+    "DISTRICT": "NAIHATI",
+    "STATE": "WEST BENGAL",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": false,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "WBSC0BUCB04": {
+    "BANK": "THE WEST BENGAL STATE COOPERATIVE BANK",
+    "IFSC": "WBSC0BUCB04",
+    "BRANCH": "BHATPARA NAIHATI COOP BANK LTD. SHYAMNAGAR BR",
+    "ADDRESS": "4/1 WEST GHOSH PARA ROAD, P.O. - SHYAMNAGAR",
+    "CONTACT": "25862113",
+    "CITY": "24 PGS NORTH",
+    "DISTRICT": "SHYAMNAGAR",
+    "STATE": "WEST BENGAL",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": false,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
+  },
   "WBSC0DDCB01": {
-    "BANK": "WEST BENGAL STATE COOP BANK LTD.",
+    "BANK": "Dakshin Dinajpur District Central Co-operative Bank",
     "IFSC": "WBSC0DDCB01",
-    "BRANCH": "HEAD OFFICE",
+    "BRANCH": "Dakshin Dinajpur District Central Co-operative Bank IMPS",
     "CENTRE": "BALURGHAT",
     "DISTRICT": "DAKSHIN DINAJPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "KACHARI ROAD, BALURGHAT",
     "CONTACT": "03522255379",
     "IMPS": true,
+    "CITY": "BALURGHAT",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "NEFT": true,
+    "MICR": null
+  },
+  "WBSC0DDCB02": {
+    "BANK": "THE WEST BENGAL STATE COOPERATIVE BANK",
+    "IFSC": "WBSC0DDCB02",
+    "BRANCH": "BALURGHAT MAIN BRANCH",
+    "ADDRESS": "KACHARI ROAD, BALURGHAT",
+    "CONTACT": "255379",
+    "CITY": "DAKSHIN DINAJPUR",
+    "DISTRICT": "BALURGHAT",
+    "STATE": "WEST BENGAL",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": false,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "WBSC0DDCB03": {
+    "BANK": "THE WEST BENGAL STATE COOPERATIVE BANK",
+    "IFSC": "WBSC0DDCB03",
+    "BRANCH": "BALURGHAT EVENING BRANCH",
+    "ADDRESS": "KACHARI ROAD, BALURGHAT",
+    "CONTACT": "255379",
+    "CITY": "DAKSHIN DINAJPUR",
+    "DISTRICT": "BALURGHAT",
+    "STATE": "WEST BENGAL",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": false,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "WBSC0DDCB04": {
+    "BANK": "THE WEST BENGAL STATE COOPERATIVE BANK",
+    "IFSC": "WBSC0DDCB04",
+    "BRANCH": "TAPAN BRANCH",
+    "ADDRESS": "CHOWRANGI MORE, TAPAN",
+    "CONTACT": "252042",
+    "CITY": "DAKSHIN DINAJPUR",
+    "DISTRICT": "TAPAN",
+    "STATE": "WEST BENGAL",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": false,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "WBSC0DDCB05": {
+    "BANK": "THE WEST BENGAL STATE COOPERATIVE BANK",
+    "IFSC": "WBSC0DDCB05",
+    "BRANCH": "GANGARAMPUR BRANCH",
+    "ADDRESS": "HIGH ROAD, GANGARAMPUR",
+    "CONTACT": "255050",
+    "CITY": "DAKSHIN DINAJPUR",
+    "DISTRICT": "GANGARAMPUR",
+    "STATE": "WEST BENGAL",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": false,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "WBSC0DDCB06": {
+    "BANK": "THE WEST BENGAL STATE COOPERATIVE BANK",
+    "IFSC": "WBSC0DDCB06",
+    "BRANCH": "PATIRAM BRANCH",
+    "ADDRESS": "PATIRAM BAZAR, PATIRAM",
+    "CONTACT": "273124",
+    "CITY": "DAKSHIN DINAJPUR",
+    "DISTRICT": "BALURGHAT",
+    "STATE": "WEST BENGAL",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": false,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "WBSC0DDCB07": {
+    "BANK": "THE WEST BENGAL STATE COOPERATIVE BANK",
+    "IFSC": "WBSC0DDCB07",
+    "BRANCH": "KUMARGANJ BRANCH",
+    "ADDRESS": "KUMARGANJ",
+    "CONTACT": "254181",
+    "CITY": "DAKSHIN DINAJPUR",
+    "DISTRICT": "KUMARGANJ",
+    "STATE": "WEST BENGAL",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": false,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "WBSC0DDCB08": {
+    "BANK": "THE WEST BENGAL STATE COOPERATIVE BANK",
+    "IFSC": "WBSC0DDCB08",
+    "BRANCH": "HILI BRANCH",
+    "ADDRESS": "HILI BAZAR, HILI",
+    "CONTACT": "250931",
+    "CITY": "DAKSHIN DINAJPUR",
+    "DISTRICT": "HILI",
+    "STATE": "WEST BENGAL",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": false,
+    "RTGS": false,
+    "IMPS": true,
     "MICR": null
   },
   "WBSC0DDCB09": {
@@ -1241,7 +1483,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DAKHIN DINAJPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0DDCB10": {
@@ -1256,22 +1499,24 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DAKHIN DINAJPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0DJCB01": {
-    "BANK": "WEST BENGAL STATE COOP BANK LTD.",
+    "BANK": "Darjeeling District Central Co-operative Bank",
     "IFSC": "WBSC0DJCB01",
-    "BRANCH": "DJCB,Kalimpong",
+    "BRANCH": "Darjeeling District Central Co-operative Bank IMPS",
     "CENTRE": "KALIMPONG",
     "DISTRICT": "DARJILING",
     "STATE": "WEST BENGAL",
     "ADDRESS": "RISHI ROAD, P.O. KALIMPONG, DT. DARJEELING, PIN- 734301",
-    "CONTACT": null,
+    "CONTACT": "258979",
     "IMPS": true,
+    "CITY": "KALIMPONG",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "NEFT": true,
     "MICR": null
   },
   "WBSC0DJCB02": {
@@ -1281,11 +1526,12 @@
     "DISTRICT": "DARJILING",
     "STATE": "WEST BENGAL",
     "ADDRESS": "PEDONG BAZAR, P.O. PEDONG, DT. DARJEELING, PIN-734311",
-    "CONTACT": null,
+    "CONTACT": "281334",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PEDONG",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1296,11 +1542,12 @@
     "DISTRICT": "DARJILING",
     "STATE": "WEST BENGAL",
     "ADDRESS": "SOMBARAY BAZAR, P.O. FAGU, GORUBATHAN, DT. DARJEELING, PIN-735231",
-    "CONTACT": null,
+    "CONTACT": "222003",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GORUBATHAN",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1311,11 +1558,12 @@
     "DISTRICT": "DARJILING",
     "STATE": "WEST BENGAL",
     "ADDRESS": "9, S.M. DAS ROAD, OPP. RED CROSS, P.O. & DIST. DARJEELING, PIN-734101",
-    "CONTACT": null,
+    "CONTACT": "2252487",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DARJILING",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1326,11 +1574,12 @@
     "DISTRICT": "DARJILING",
     "STATE": "WEST BENGAL",
     "ADDRESS": "BELOW SUB-DIV. HOSPITAL, P.O. KURSEONG, DT. DARJEELING, PIN -734203",
-    "CONTACT": null,
+    "CONTACT": "2344486",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KURSEONG",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1341,11 +1590,12 @@
     "DISTRICT": "DARJILING",
     "STATE": "WEST BENGAL",
     "ADDRESS": "SUKHIAPOKHARI BAZAR, P.O. SUKHIAPOKHARI, DT. DARJEELING, PIN- 734221",
-    "CONTACT": null,
+    "CONTACT": "2264391",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SUKHIAPOKHARI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1356,11 +1606,12 @@
     "DISTRICT": "DARJILING",
     "STATE": "WEST BENGAL",
     "ADDRESS": "RASHIK PATH, P.O. BIJANBARI, DT. DARJEELING, PIN-734201",
-    "CONTACT": null,
+    "CONTACT": "2260285",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BIJANBARI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1371,11 +1622,12 @@
     "DISTRICT": "DARJILING",
     "STATE": "WEST BENGAL",
     "ADDRESS": "P.O. RIMBICK BAZAR, DIST. DARJEELING, PIN - 734201",
-    "CONTACT": null,
+    "CONTACT": "7797911877",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "LODHAMA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1390,7 +1642,40 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KAMLIMPONG",
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
+  },
+  "WBSC0DJCB10": {
+    "BANK": "THE WEST BENGAL STATE COOPERATIVE BANK",
+    "IFSC": "WBSC0DJCB10",
+    "BRANCH": "MIRIK BRANCH",
+    "ADDRESS": "DARJEELING",
+    "CONTACT": "258979",
+    "CITY": "DARJEELING",
+    "DISTRICT": "DARJEELING",
+    "STATE": "WEST BENGAL",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": false,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "WBSC0DJCB11": {
+    "BANK": "THE WEST BENGAL STATE COOPERATIVE BANK",
+    "IFSC": "WBSC0DJCB11",
+    "BRANCH": "MUNGPOO BRANCH",
+    "ADDRESS": "MUNGPOO",
+    "CONTACT": "255372",
+    "CITY": "DARJEELING",
+    "DISTRICT": "DARJEELING",
+    "STATE": "WEST BENGAL",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": false,
+    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
@@ -1406,7 +1691,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JHOLONG",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0DJCB13": {
@@ -1420,23 +1706,25 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SILIGURI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
   "WBSC0HCCB01": {
-    "BANK": "WEST BENGAL STATE COOP BANK LTD.",
+    "BANK": "Howrah District Central Co-operative Bank",
     "IFSC": "WBSC0HCCB01",
-    "BRANCH": "HEAD OFFICE",
+    "BRANCH": "Howrah District Central Co-operative Bank IMPS",
     "CENTRE": "HOWRAH",
     "DISTRICT": "HAORA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "P O ULUBERIA NEAR ULUBERIA COURT DIST HOWRAH PIN 711315",
     "CONTACT": null,
     "IMPS": true,
+    "CITY": "HOWRAH",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "NEFT": true,
     "MICR": null
   },
   "WBSC0HCCB02": {
@@ -1451,7 +1739,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HOWRAH",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0HCCB03": {
@@ -1466,7 +1755,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HOWRAH",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0HCCB04": {
@@ -1481,7 +1771,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HOWRAH",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0HCCB05": {
@@ -1496,7 +1787,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HOWRAH",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0HCCB06": {
@@ -1511,7 +1803,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HOWRAH",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0HCCB07": {
@@ -1526,7 +1819,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HOWRAH",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0HCCB08": {
@@ -1541,7 +1835,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HOWRAH",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0HCCB09": {
@@ -1556,7 +1851,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HOWRAH",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0HCCB10": {
@@ -1571,7 +1867,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HOWRAH",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0HCCB11": {
@@ -1586,7 +1883,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HOWRAH",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0HCCB12": {
@@ -1601,7 +1899,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HOWRAH",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0HCCB13": {
@@ -1616,7 +1915,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HOWRAH",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0HCCB14": {
@@ -1631,23 +1931,25 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HOWRAH",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0HDCB01": {
-    "BANK": "WEST BENGAL STATE COOP BANK LTD.",
+    "BANK": "Hooghly District Central Co-operative Bank",
     "IFSC": "WBSC0HDCB01",
-    "BRANCH": "CHINSURAH",
+    "BRANCH": "Hooghly District Central Co-operative Bank IMPS",
     "CENTRE": "HOOGHLY CHINSU",
     "DISTRICT": "HOOGHLY CHINSU",
     "STATE": "WEST BENGAL",
     "ADDRESS": "NETAJI SUBHAS ROAD CHINSURAH,CHINSURAH,PIN 712101",
     "CONTACT": null,
     "IMPS": true,
+    "CITY": "HOOGHLY CHINSU",
     "UPI": false,
     "MICR": "700093261",
     "RTGS": true,
-    "NEFT": false
+    "NEFT": true
   },
   "WBSC0HDCB02": {
     "IFSC": "WBSC0HDCB02",
@@ -1661,7 +1963,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SERAMPORE",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0HDCB03": {
@@ -1676,7 +1979,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MOGRA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0HDCB04": {
@@ -1691,7 +1995,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RISHRA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0HDCB05": {
@@ -1706,7 +2011,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NALIKUL",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0HDCB06": {
@@ -1721,7 +2027,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ARAMBAGH",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0HDCB07": {
@@ -1736,7 +2043,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PANDUA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0HDCB08": {
@@ -1751,7 +2059,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TARAKESWAR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0HDCB09": {
@@ -1766,7 +2075,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KHANAKUL",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0HDCB10": {
@@ -1781,7 +2091,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JANGIPARA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0HDCB11": {
@@ -1796,7 +2107,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DHANIAKHALI",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0HDCB12": {
@@ -1811,7 +2123,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KHAMARGACHI",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0HDCB13": {
@@ -1826,7 +2139,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PURSURAH",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0HDCB14": {
@@ -1841,7 +2155,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KAMARPUKUR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0HDCB15": {
@@ -1856,7 +2171,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HARIPAL",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0HDCB16": {
@@ -1871,7 +2187,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SINGUR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0HDCB17": {
@@ -1886,7 +2203,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DANKUNI",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0HDCB18": {
@@ -1901,7 +2219,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BOINCHEE",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0HDCB19": {
@@ -1916,7 +2235,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HARIT",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0HDCB20": {
@@ -1930,7 +2250,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HOOGHLY",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1945,24 +2266,42 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHINSURAH",
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
+  },
+  "WBSC0HDCB22": {
+    "BANK": "THE WEST BENGAL STATE COOPERATIVE BANK",
+    "IFSC": "WBSC0HDCB22",
+    "BRANCH": "HOOGHLY DISTRICT CENTRAL CO-OPERATIVE BANK LTD, RAJHATI BRANCH",
+    "ADDRESS": "VILL- RAJHATI,P.O. RAJHATI BANDAR S.O,KHANKUL",
+    "CONTACT": "266238",
+    "CITY": "HOOGHLY",
+    "DISTRICT": "HOOGHLY",
+    "STATE": "WEST BENGAL",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": false,
+    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
   "WBSC0JCCB01": {
-    "BANK": "WEST BENGAL STATE COOP BANK LTD.",
+    "BANK": "Jalpaiguri Central Co-operative Bank",
     "IFSC": "WBSC0JCCB01",
-    "BRANCH": "JALPAIGURI MAIN",
+    "BRANCH": "Jalpaiguri Central Co-operative Bank IMPS",
     "CENTRE": "JALPAIGURI",
     "DISTRICT": "JALPAIGURI",
     "STATE": "WEST BENGAL",
     "ADDRESS": "TEMPLE STREET GR.FL,PO AND DIST JALPAIGURI,WEST BENGAL 735101",
     "CONTACT": null,
     "IMPS": true,
+    "CITY": "JALPAIGURI",
     "UPI": false,
     "MICR": "735808002",
     "RTGS": true,
-    "NEFT": false
+    "NEFT": true
   },
   "WBSC0JCCB02": {
     "IFSC": "WBSC0JCCB02",
@@ -1976,7 +2315,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DHUPGURI",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0JCCB03": {
@@ -1991,7 +2331,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MAINAGURI",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0JCCB04": {
@@ -2006,7 +2347,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BELAKOBA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0JCCB05": {
@@ -2021,7 +2363,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RAJGANJ",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0JCCB06": {
@@ -2036,7 +2379,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MAL",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0JCCB07": {
@@ -2051,7 +2395,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HALDIBARI",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0JCCB08": {
@@ -2066,7 +2411,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SILIGURI",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0JCCB09": {
@@ -2081,7 +2427,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JALPAIGURI",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0JCCB10": {
@@ -2096,7 +2443,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BIDHANNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0JCCB11": {
@@ -2111,7 +2459,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANARHAT",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0JCCB12": {
@@ -2126,7 +2475,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SILIGURI",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0JCCB14": {
@@ -2141,7 +2491,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JALPAIGURI",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0JCCB15": {
@@ -2156,7 +2507,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SILIGURI",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0JCCB16": {
@@ -2171,7 +2523,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JALPAIGURI",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0JCCB17": {
@@ -2186,7 +2539,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ALIPUR DUAR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0JCCB18": {
@@ -2201,7 +2555,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JALPAIGURI",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0JCCB19": {
@@ -2216,7 +2571,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DARJEELING",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0JCCB20": {
@@ -2230,7 +2586,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ALIPURDUAR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -2246,7 +2603,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOLKATA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0KPCB02": {
@@ -2261,7 +2619,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOLKATA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0KPCB03": {
@@ -2275,7 +2634,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOLKATA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -2290,7 +2650,40 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOLKATA",
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
+  },
+  "WBSC0KUCB01": {
+    "BANK": "THE WEST BENGAL STATE COOPERATIVE BANK",
+    "IFSC": "WBSC0KUCB01",
+    "BRANCH": "KHARDAH CO OPERATIVE BANK LTD",
+    "ADDRESS": "P.K.BISWAS ROAD",
+    "CONTACT": "25536557",
+    "CITY": "NORTH 24 PARGANAS",
+    "DISTRICT": "KHARDAH",
+    "STATE": "WEST BENGAL",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": false,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "WBSC0KUCB02": {
+    "BANK": "THE WEST BENGAL STATE COOPERATIVE BANK",
+    "IFSC": "WBSC0KUCB02",
+    "BRANCH": "KHARDAH CO OPERATIVE BANK LTD",
+    "ADDRESS": "TARAK MARKET COMPLEX,ARUNACHAL",
+    "CONTACT": "25681191",
+    "CITY": "NORTH 24 PARGANAS",
+    "DISTRICT": "KHARDAH",
+    "STATE": "WEST BENGAL",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": false,
+    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
@@ -2306,7 +2699,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ENGLISH BAZAR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0MALD02": {
@@ -2321,7 +2715,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ENGLISHBAZAR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0MALD03": {
@@ -2336,7 +2731,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RATHBARI",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0MALD04": {
@@ -2351,7 +2747,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MANGALBARI",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0MALD05": {
@@ -2366,7 +2763,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ENGLISHBAZAR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0MALD06": {
@@ -2381,7 +2779,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GAZOLE",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0MALD07": {
@@ -2396,7 +2795,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KALIACHAK",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0MALD08": {
@@ -2411,7 +2811,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MOTHABARI",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0MALD09": {
@@ -2426,7 +2827,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SAMSI",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0MALD10": {
@@ -2441,7 +2843,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MALDA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0MALD11": {
@@ -2456,7 +2859,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHANCHAL",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0MALD12": {
@@ -2471,7 +2875,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MATHURAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0MALD13": {
@@ -2486,7 +2891,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PAKUAHAT",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0MALD14": {
@@ -2501,22 +2907,24 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUKHURIA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0MALD15": {
-    "BANK": "WEST BENGAL STATE COOP BANK LTD.",
+    "BANK": "Malda District Central Co-operative Bank",
     "IFSC": "WBSC0MALD15",
-    "BRANCH": "HEADOFFICE",
+    "BRANCH": "Malda District Central Co-operative Bank IMPS",
     "CENTRE": "ENGLISHBAZAR",
     "DISTRICT": "MALDAH",
     "STATE": "WEST BENGAL",
     "ADDRESS": "S P ROADPIN732101",
     "CONTACT": null,
     "IMPS": true,
+    "CITY": "ENGLISHBAZAR",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "NEFT": true,
     "MICR": null
   },
   "WBSC0MALD17": {
@@ -2531,7 +2939,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MALDA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0MALD18": {
@@ -2546,7 +2955,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MALDA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0MALD19": {
@@ -2561,7 +2971,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MALDA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0MALD20": {
@@ -2576,23 +2987,25 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MALDA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0MCCB01": {
-    "BANK": "WEST BENGAL STATE COOP BANK LTD.",
+    "BANK": "Murshidabad District Central Co-operative Bank",
     "IFSC": "WBSC0MCCB01",
-    "BRANCH": "The Murshidabad District Central Co-operative Bank Ltd., Main Branch",
+    "BRANCH": "Murshidabad District Central Co-operative Bank IMPS",
     "CENTRE": "BAHARAMPUR",
     "DISTRICT": "MURSHIDABAD",
     "STATE": "WEST BENGAL",
     "ADDRESS": "48, 49, B.B. Sen Road, P.O. Baharampur, 742010",
-    "CONTACT": null,
+    "CONTACT": "251116",
     "IMPS": true,
+    "CITY": "BAHARAMPUR",
     "UPI": false,
     "MICR": "742806002",
     "RTGS": true,
-    "NEFT": false
+    "NEFT": true
   },
   "WBSC0MCCB02": {
     "IFSC": "WBSC0MCCB02",
@@ -2601,12 +3014,13 @@
     "DISTRICT": "MURSHIDABAD",
     "STATE": "WEST BENGAL",
     "ADDRESS": "48, 49, B.B. Sen Road, P.O. Baharampur, 742101",
-    "CONTACT": null,
+    "CONTACT": "251116",
     "MICR": "742806004",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BAHARAMPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0MCCB03": {
@@ -2616,12 +3030,13 @@
     "DISTRICT": "MURSHIDABAD",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Panchanantala, P.O. Baharampur, 742101",
-    "CONTACT": null,
+    "CONTACT": "250733",
     "MICR": "742806003",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BAHARAMPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0MCCB04": {
@@ -2631,12 +3046,13 @@
     "DISTRICT": "MURSHIDABAD",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Domkal, P.O. Domkal, 742303",
-    "CONTACT": null,
+    "CONTACT": "230755",
     "MICR": "742806504",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DUMKAL",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0MCCB05": {
@@ -2646,12 +3062,13 @@
     "DISTRICT": "MURSHIDABAD",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Farakka, P.O. Farakka, 742212",
-    "CONTACT": null,
+    "CONTACT": "253248",
     "MICR": "742806507",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "FARAKKA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0MCCB06": {
@@ -2661,12 +3078,13 @@
     "DISTRICT": "MURSHIDABAD",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Jangipur, P.O. Raghunathganj, 742221",
-    "CONTACT": null,
+    "CONTACT": "266110",
     "MICR": "742806102",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JANGIPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0MCCB07": {
@@ -2676,12 +3094,13 @@
     "DISTRICT": "MURSHIDABAD",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Sagardighi, P.O. Sagardighi, 742104",
-    "CONTACT": null,
+    "CONTACT": "268045",
     "MICR": "742806506",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SAGARDIGHI",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0MCCB08": {
@@ -2691,12 +3110,13 @@
     "DISTRICT": "MURSHIDABAD",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Nabagram, P.O. Nabagram, 742184",
-    "CONTACT": null,
+    "CONTACT": "270211",
     "MICR": "742806510",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NABAGRAM",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0MCCB09": {
@@ -2706,12 +3126,13 @@
     "DISTRICT": "MURSHIDABAD",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Kandi, P.O. Kandi, 742137",
-    "CONTACT": null,
+    "CONTACT": "255257",
     "MICR": "742806502",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KANDI",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0MCCB10": {
@@ -2721,12 +3142,13 @@
     "DISTRICT": "MURSHIDABAD",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Gramsalika, P.O. Gramsalika, 742186",
-    "CONTACT": null,
+    "CONTACT": "271040",
     "MICR": "742806505",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GRAMSALIKA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0MCCB11": {
@@ -2736,12 +3158,13 @@
     "DISTRICT": "MURSHIDABAD",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Nagar, P.O. Nagar, 742159",
-    "CONTACT": null,
+    "CONTACT": "279044",
     "MICR": "742806508",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0MCCB12": {
@@ -2751,12 +3174,13 @@
     "DISTRICT": "MURSHIDABAD",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Beldanga, P.O. Beldanga, 742133",
-    "CONTACT": null,
+    "CONTACT": "264042",
     "MICR": "742806503",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BELDANGA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0MCCB13": {
@@ -2766,12 +3190,13 @@
     "DISTRICT": "MURSHIDABAD",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Lalgola, P.O. Lalgola, 742148",
-    "CONTACT": null,
+    "CONTACT": "274348",
     "MICR": "742806509",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "LALGOLA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0MCCB14": {
@@ -2781,12 +3206,13 @@
     "DISTRICT": "MURSHIDABAD",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Jiaganj, P.O. Jiaganj, 742123",
-    "CONTACT": null,
+    "CONTACT": "255370",
     "MICR": "742806501",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "LALBAGH",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0MCCB15": {
@@ -2801,7 +3227,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BERHAMPORE",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0MCCB16": {
@@ -2811,11 +3238,12 @@
     "DISTRICT": "MURSHIDABAD",
     "STATE": "WEST BENGAL",
     "ADDRESS": "VILL. - ISLAMPUR,P.O. - ISLAMPUR,DIST. MURSHIDABAD,PIN - 742 304",
-    "CONTACT": null,
+    "CONTACT": "7872771111",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ISLAMPUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -2826,11 +3254,12 @@
     "DISTRICT": "MURSHIDABAD",
     "STATE": "WEST BENGAL",
     "ADDRESS": "STATION ROAD,VILL. & P.O. - SALAR,DIST. MURSHIDABAD,PIN - 742 401",
-    "CONTACT": null,
+    "CONTACT": "7872007722",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SALAR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -2841,11 +3270,12 @@
     "DISTRICT": "MURSHIDABAD",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Vill & PO :- Saktipur,District :- Murshidabad",
-    "CONTACT": null,
+    "CONTACT": "251116",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SHAKTIPUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -2861,7 +3291,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HARIHARPARA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0MCCB20": {
@@ -2876,7 +3307,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DHULIAN",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0MCCB21": {
@@ -2891,7 +3323,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AKHERIGANJ",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0MCCB22": {
@@ -2906,7 +3339,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RAIPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0MCCB23": {
@@ -2921,7 +3355,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SAHEBNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0MCCB24": {
@@ -2936,7 +3371,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KUMARSANDA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0MCCB25": {
@@ -2951,22 +3387,24 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MAHESAIL",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0MGCB01": {
-    "BANK": "WEST BENGAL STATE COOP BANK LTD.",
+    "BANK": "Mugberia Central Co-operative Bank",
     "IFSC": "WBSC0MGCB01",
-    "BRANCH": "MGCB,Main",
+    "BRANCH": "Mugberia Central Co-operative Bank IMPS",
     "CENTRE": "BHUPATINAGAR",
     "DISTRICT": "PURBA MEDINIPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Vill + P.O - Mugberia, P.S. - Bhupatinagar, Dist-Purba Medinipur-721425",
     "CONTACT": "03220270224",
     "IMPS": true,
+    "CITY": "BHUPATINAGAR",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "NEFT": true,
     "MICR": null
   },
   "WBSC0MGCB02": {
@@ -2980,7 +3418,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CONTAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -2995,7 +3434,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KALAGACHIA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3010,7 +3450,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BENUDIA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3025,7 +3466,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BAJKUL",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3040,7 +3482,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ITABERIA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3055,7 +3498,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KHEJURI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3070,7 +3514,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHUPATINAGAR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3085,7 +3530,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HERIA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3100,7 +3546,24 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CONTAI",
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
+  },
+  "WBSC0MGCB11": {
+    "BANK": "THE WEST BENGAL STATE COOPERATIVE BANK",
+    "IFSC": "WBSC0MGCB11",
+    "BRANCH": "MGCB,BHAGWANPUR  EVENING",
+    "ADDRESS": "VILL -BENUDIA P.O - BHAGWANPUR, P.S. - BHAGWANPUR, DIST-PURBA MEDINIPUR-721601",
+    "CONTACT": "3220272004",
+    "CITY": "PURBA MEDINIPUR",
+    "DISTRICT": "MUGBERIA",
+    "STATE": "WEST BENGAL",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": false,
+    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
@@ -3111,11 +3574,12 @@
     "DISTRICT": "PURBA MEDINIPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "VILL- SAIYADPUR, P.O.- RAMNAGAR",
-    "CONTACT": null,
+    "CONTACT": "270223",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RAMNAGAR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3131,22 +3595,24 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOLKATA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0NDCB01": {
-    "BANK": "WEST BENGAL STATE COOP BANK LTD.",
+    "BANK": "Nadia District Central Co-operative Bank",
     "IFSC": "WBSC0NDCB01",
-    "BRANCH": "KRISHNAGAR MAIN BRANCH",
+    "BRANCH": "Nadia District Central Co-operative Bank IMPS",
     "CENTRE": "KRISHNAGAR",
     "DISTRICT": "NADIA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "M.M.GHOSH STREET,KRISHNAGAR,PIN:741101",
-    "CONTACT": null,
+    "CONTACT": "252789",
     "IMPS": true,
+    "CITY": "KRISHNAGAR",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "NEFT": true,
     "MICR": null
   },
   "WBSC0NDCB02": {
@@ -3156,12 +3622,13 @@
     "DISTRICT": "NADIA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "KALIMOYGHATK LANE, RANAGHAT.PIN.741201",
-    "CONTACT": null,
+    "CONTACT": "210070",
     "MICR": "741807202",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RANAGHAT",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0NDCB03": {
@@ -3171,11 +3638,12 @@
     "DISTRICT": "NADIA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "KRISHNAGAR KARIMPUR ROAD,P.O. KARIMPUR,PIN ; 741152",
-    "CONTACT": null,
+    "CONTACT": "255119",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KARIMPUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3186,11 +3654,12 @@
     "DISTRICT": "NADIA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "HARINGHATA BAZAR,,DIST: NADIA, PIN;741249",
-    "CONTACT": null,
+    "CONTACT": "233373",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HARINGHATA HAT",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3201,11 +3670,12 @@
     "DISTRICT": "NADIA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "BETHUADAHARY BAZAR,P.O. BETHUADAHARY,PIN:741126",
-    "CONTACT": null,
+    "CONTACT": "255235",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BETHUADAHARI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3216,11 +3686,12 @@
     "DISTRICT": "NADIA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "CHAKDA (NEAR BUS STAND)P.O. CHAKDA, PIN:741222",
-    "CONTACT": null,
+    "CONTACT": "245056",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHAKDAH",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3231,11 +3702,12 @@
     "DISTRICT": "NADIA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "NANDAN KARKET BADKULLA BAZAR,P.O: BADKULLA,PIN:741121",
-    "CONTACT": null,
+    "CONTACT": "270223",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BADKULLA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3246,11 +3718,12 @@
     "DISTRICT": "NADIA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "N.H.34.ROAD, DEBAGRAM,P.O. DEBAGRAM,PIN;741137",
-    "CONTACT": null,
+    "CONTACT": "266216",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DEBAGRAM",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3261,11 +3734,12 @@
     "DISTRICT": "NADIA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "KRISHNAGAR KARIMPUR ROAD,P.O. CHAPRA,PIN ; 741123",
-    "CONTACT": null,
+    "CONTACT": "270242",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHAPRA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3276,11 +3750,12 @@
     "DISTRICT": "NADIA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "HANSKHALI BAZAR,P.O. HANSKHALI,PIN:741505",
-    "CONTACT": null,
+    "CONTACT": "231011",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HANSKHALI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3291,11 +3766,12 @@
     "DISTRICT": "NADIA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "TEHATTA BAZAR MORE,P.O. TEHATTA ,PIN:741146",
-    "CONTACT": null,
+    "CONTACT": "250248",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TEHATTA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3306,11 +3782,12 @@
     "DISTRICT": "NADIA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "BOWBAZAR MORE,P.O.NABADWIP,PIN;741302",
-    "CONTACT": null,
+    "CONTACT": "240346",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NABADWIP",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3321,11 +3798,12 @@
     "DISTRICT": "NADIA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "K.C.DAS ROAD,P.O.SANTIPUR,PIN:741402",
-    "CONTACT": null,
+    "CONTACT": "278041",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SANTIPUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3336,11 +3814,12 @@
     "DISTRICT": "NADIA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "PALASIPARA BAZAR,P.O.PALASIPARA,PIN:741155",
-    "CONTACT": null,
+    "CONTACT": "252238",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PLASSEYPARA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3351,11 +3830,12 @@
     "DISTRICT": "NADIA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "N.H.34.ROAD, DHUBULIA BATTALA,P.O. DHUBULIA,PIN;741139",
-    "CONTACT": null,
+    "CONTACT": "261247",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DHUBULIA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3366,12 +3846,13 @@
     "DISTRICT": "NADIA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "B/7/40-41(CA) P.O.KALYANI, PIN;741235",
-    "CONTACT": null,
+    "CONTACT": "25826101",
     "MICR": "700093263",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KALYANI",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0NDCB17": {
@@ -3381,11 +3862,12 @@
     "DISTRICT": "NADIA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "RAIL BAZAR,P.O.MAJDIA,PIN:741705",
-    "CONTACT": null,
+    "CONTACT": "276055",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MAJDIAH",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3400,7 +3882,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KRISHNANAGAR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3416,7 +3899,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KRISHNANAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0NDCB20": {
@@ -3431,7 +3915,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KRISHNANAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0NDCB21": {
@@ -3446,7 +3931,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KRISHNANAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0NDCB22": {
@@ -3461,7 +3947,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BAGULA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0NDCB23": {
@@ -3476,7 +3963,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KRISHNANAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0NDCB24": {
@@ -3491,22 +3979,24 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NAZIRPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0PCCB01": {
-    "BANK": "WEST BENGAL STATE COOP BANK LTD.",
+    "BANK": "Purulia Central Co-operative BANK",
     "IFSC": "WBSC0PCCB01",
-    "BRANCH": "HEAD OFFICE",
+    "BRANCH": "Purulia Central Co-operative BANK IMPS",
     "CENTRE": "PURULIA",
     "DISTRICT": "PURULIA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "RANCHI ROAD,P O AND DIST PURULIA PIN 723101",
     "CONTACT": null,
     "IMPS": true,
+    "CITY": "PURULIA",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "NEFT": true,
     "MICR": null
   },
   "WBSC0PCCB02": {
@@ -3521,7 +4011,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PURULIA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0PCCB03": {
@@ -3536,7 +4027,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PURULIA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0PCCB04": {
@@ -3551,7 +4043,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PURULIA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0PCCB05": {
@@ -3566,7 +4059,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PURULIA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0PCCB06": {
@@ -3581,7 +4075,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PURULIA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0PCCB07": {
@@ -3596,7 +4091,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PURULIA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0PCCB08": {
@@ -3611,7 +4107,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PURULIA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0PCCB09": {
@@ -3626,7 +4123,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RAGHUNATHPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0RCCB01": {
@@ -3641,7 +4139,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RAIGANJ",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0RCCB02": {
@@ -3656,23 +4155,25 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RAIGANJ",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0RCCB03": {
-    "BANK": "WEST BENGAL STATE COOP BANK LTD.",
+    "BANK": "Raiganj Central Co-operative Bank",
     "IFSC": "WBSC0RCCB03",
-    "BRANCH": "UKILPARA BR",
+    "BRANCH": "Raiganj Central Co-operative Bank IMPS",
     "CENTRE": "RAIGANJ",
     "DISTRICT": "U/DINAJPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "TOWN CLUB LANE,UKILPARA,RAIGANJ",
     "CONTACT": null,
     "IMPS": true,
+    "CITY": "RAIGANJ",
     "UPI": false,
     "MICR": "733813204",
     "RTGS": true,
-    "NEFT": false
+    "NEFT": true
   },
   "WBSC0RCCB04": {
     "IFSC": "WBSC0RCCB04",
@@ -3686,7 +4187,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BUNIADPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0RCCB05": {
@@ -3701,7 +4203,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HARIRAMPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0RCCB06": {
@@ -3716,7 +4219,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KUSHMANDI",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0RCCB07": {
@@ -3731,7 +4235,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KALIYAGANJ",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0RCCB08": {
@@ -3746,7 +4251,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HEMTABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0RCCB09": {
@@ -3761,7 +4267,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KUNOR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0RCCB10": {
@@ -3776,7 +4283,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ITAHAR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0RCCB11": {
@@ -3791,7 +4299,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TUNGIDIGHI",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0RCCB12": {
@@ -3806,7 +4315,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DALKHOLA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0RCCB13": {
@@ -3821,7 +4331,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KANKI",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0RCCB14": {
@@ -3836,7 +4347,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PANJIPARA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0RCCB15": {
@@ -3851,7 +4363,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ISLAMPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0RCCB16": {
@@ -3866,7 +4379,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHOPRA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0SCOP01": {
@@ -3880,24 +4394,26 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NABADWIP",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
   "WBSC0TCCB01": {
-    "BANK": "WEST BENGAL STATE COOP BANK LTD.",
+    "BANK": "Tamluk-ghatal Central Co-operative Bank",
     "IFSC": "WBSC0TCCB01",
-    "BRANCH": "TAMLUK MAIN",
+    "BRANCH": "Tamluk-ghatal Central Co-operative Bank IMPS",
     "CENTRE": "TAMLUK",
     "DISTRICT": "TAMLUK",
     "STATE": "WEST BENGAL",
     "ADDRESS": "TAMLUK PURBA MEDINIPUR WEST BENGAL PIN 721636",
     "CONTACT": null,
     "IMPS": true,
+    "CITY": "TAMLUK",
     "UPI": false,
     "MICR": "721815202",
     "RTGS": true,
-    "NEFT": false
+    "NEFT": true
   },
   "WBSC0TCCB02": {
     "IFSC": "WBSC0TCCB02",
@@ -3911,7 +4427,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GHATAL",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0TCCB03": {
@@ -3926,7 +4443,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PANSKURA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0TCCB04": {
@@ -3941,7 +4459,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DURGA CHOWK",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0TCCB05": {
@@ -3956,7 +4475,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHANDRAKONA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0TCCB06": {
@@ -3971,7 +4491,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MOYNA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0TCCB07": {
@@ -3986,7 +4507,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "REYAPARA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0TCCB08": {
@@ -4001,7 +4523,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GOURA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0TCCB09": {
@@ -4016,7 +4539,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MAHISHADAL",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0TCCB10": {
@@ -4031,7 +4555,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOLAGHAT",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0TCCB11": {
@@ -4046,7 +4571,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MATCHANDIPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0TCCB12": {
@@ -4061,7 +4587,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHAITANYAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0TCCB13": {
@@ -4076,7 +4603,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DASSPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0TCCB14": {
@@ -4091,7 +4619,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NANDAKUMAR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0TCCB15": {
@@ -4106,7 +4635,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KHIRPAI",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0TCCB16": {
@@ -4121,7 +4651,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NANDIGRAM",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0TCCB17": {
@@ -4136,7 +4667,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NONAKURIBAZAR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0TCCB18": {
@@ -4151,7 +4683,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BRAJALAL CHAWK",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0TCCB19": {
@@ -4166,7 +4699,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TAMLUK",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0TCCB20": {
@@ -4181,7 +4715,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SONAKHALI",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0TCCB21": {
@@ -4196,7 +4731,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RAMJIBANPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0TCCB22": {
@@ -4211,7 +4747,8 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SAGARPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0TCCB23": {
@@ -4225,24 +4762,74 @@
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TAMLUK",
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
+  },
+  "WBSC0TCCB24": {
+    "BANK": "THE WEST BENGAL STATE COOPERATIVE BANK",
+    "IFSC": "WBSC0TCCB24",
+    "BRANCH": "TAMLUK GHATAL CCB LTD, BALAIPANDA BRANCH",
+    "ADDRESS": "VILL-PARAMANANDAPUR(BALAIPANDA BAZAR),P.O PARAMANANDAPUR, P.S MOYNA,DIST-PURBA MEDINIPUR, WEST BENGAL, PIN-721644",
+    "CONTACT": "8373062422",
+    "CITY": "PURBA MEDINIPUR",
+    "DISTRICT": "BALAIPANDA",
+    "STATE": "WEST BENGAL",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": false,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "WBSC0TCCB25": {
+    "BANK": "THE WEST BENGAL STATE COOPERATIVE BANK",
+    "IFSC": "WBSC0TCCB25",
+    "BRANCH": "TAMLUK GHATAL CENTREAL COOPERATIVE BANK LTD, RADHAMONI BAZAR",
+    "ADDRESS": "VILL- MURARIKALUA, P.O- KELOMAL, BLOCK & P.S- TAMLUK, PIN- 721627",
+    "CONTACT": "8373062445",
+    "CITY": "PURBA MEDINIPUR",
+    "DISTRICT": "RADHAMONI",
+    "STATE": "WEST BENGAL",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": false,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "WBSC0TUCB01": {
+    "BANK": "THE WEST BENGAL STATE COOPERATIVE BANK",
+    "IFSC": "WBSC0TUCB01",
+    "BRANCH": "MAHINAGAR",
+    "ADDRESS": "PO-MALANCHA-MAHINAGAR  VILL-MAHINAGAR",
+    "CONTACT": "24379149",
+    "CITY": "24 PGS NORTH",
+    "DISTRICT": "KOLKATA",
+    "STATE": "WEST BENGAL",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": false,
+    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
   "WBSC0VCCB01": {
-    "BANK": "WEST BENGAL STATE COOP BANK LTD.",
+    "BANK": "Vidyasagar Central Co-operative Bank",
     "IFSC": "WBSC0VCCB01",
-    "BRANCH": "Vidyasagar Central Co-operative Bank - Midnapore Branch",
+    "BRANCH": "Vidyasagar Central Co-operative Bank IMPS",
     "CENTRE": "MEDINIPUR",
     "DISTRICT": "MEDINIPUR(W)",
     "STATE": "WEST BENGAL",
     "ADDRESS": "CHHOTOBAZAR, MIDNAPUR",
-    "CONTACT": null,
+    "CONTACT": "275417",
     "IMPS": true,
+    "CITY": "MEDINIPUR",
     "UPI": false,
     "MICR": "721800302",
     "RTGS": true,
-    "NEFT": false
+    "NEFT": true
   },
   "WBSC0VCCB02": {
     "IFSC": "WBSC0VCCB02",
@@ -4251,12 +4838,13 @@
     "DISTRICT": "MEDINIPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Raghunathpur, Jhargram",
-    "CONTACT": null,
+    "CONTACT": "255023",
     "MICR": "721800251",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JHARGRAM",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0VCCB03": {
@@ -4266,12 +4854,13 @@
     "DISTRICT": "MEDINIPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Koushallya, Kharagpur",
-    "CONTACT": null,
+    "CONTACT": "255404",
     "MICR": "721800102",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KHARAGPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0VCCB04": {
@@ -4281,12 +4870,13 @@
     "DISTRICT": "MEDINIPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Balichak",
-    "CONTACT": null,
+    "CONTACT": "244241",
     "MICR": "721800601",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BALICHAK",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0VCCB05": {
@@ -4296,12 +4886,13 @@
     "DISTRICT": "PURBA MEDINIPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Egra",
-    "CONTACT": null,
+    "CONTACT": "244232",
     "MICR": "721800051",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "EGRA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0VCCB06": {
@@ -4311,12 +4902,13 @@
     "DISTRICT": "MEDINIPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Garhbeta",
-    "CONTACT": null,
+    "CONTACT": "265057",
     "MICR": "721800802",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GARBETA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0VCCB07": {
@@ -4326,12 +4918,13 @@
     "DISTRICT": "MEDINIPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Keshiary",
-    "CONTACT": null,
+    "CONTACT": "252227",
     "MICR": "721800606",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KESHIARY",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0VCCB08": {
@@ -4341,12 +4934,13 @@
     "DISTRICT": "MEDINIPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Keshpur",
-    "CONTACT": null,
+    "CONTACT": "250236",
     "MICR": "721800805",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KESHPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0VCCB09": {
@@ -4356,12 +4950,13 @@
     "DISTRICT": "MEDINIPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Sabang",
-    "CONTACT": null,
+    "CONTACT": "249223",
     "MICR": "721800609",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SABANG",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0VCCB10": {
@@ -4371,12 +4966,13 @@
     "DISTRICT": "MEDINIPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Gopiballav[pur",
-    "CONTACT": null,
+    "CONTACT": "266236",
     "MICR": "721800554",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GOPIBALLAVPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0VCCB11": {
@@ -4386,12 +4982,13 @@
     "DISTRICT": "PURBA MEDINIPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Pratapdighi",
-    "CONTACT": null,
+    "CONTACT": "246222",
     "MICR": "721800953",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PRATAPDIGHI",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0VCCB12": {
@@ -4401,12 +4998,13 @@
     "DISTRICT": "MEDINIPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Gidhni",
-    "CONTACT": null,
+    "CONTACT": "268239",
     "MICR": "721800555",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GIDHNI",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0VCCB13": {
@@ -4416,12 +5014,13 @@
     "DISTRICT": "MEDINIPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Dantan",
-    "CONTACT": null,
+    "CONTACT": "253235",
     "MICR": "721800603",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DANTAN",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0VCCB14": {
@@ -4431,12 +5030,13 @@
     "DISTRICT": "MEDINIPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Beliabera",
-    "CONTACT": null,
+    "CONTACT": "261258",
     "MICR": "721800552",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BELIABERA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0VCCB15": {
@@ -4446,12 +5046,13 @@
     "DISTRICT": "MEDINIPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Mohanpur",
-    "CONTACT": null,
+    "CONTACT": "232227",
     "MICR": "721800951",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MOHANPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0VCCB16": {
@@ -4461,12 +5062,13 @@
     "DISTRICT": "MEDINIPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Goaltore",
-    "CONTACT": null,
+    "CONTACT": "288222",
     "MICR": "721800803",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GOALTOR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0VCCB17": {
@@ -4476,12 +5078,13 @@
     "DISTRICT": "MEDINIPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Hoomgarh",
-    "CONTACT": null,
+    "CONTACT": "284224",
     "MICR": "721800804",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HUMGARH",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0VCCB18": {
@@ -4491,12 +5094,13 @@
     "DISTRICT": "PURBA MEDINIPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Monglamaro",
-    "CONTACT": null,
+    "CONTACT": "249223",
     "MICR": "721800955",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MANGLAMARO",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0VCCB19": {
@@ -4506,12 +5110,13 @@
     "DISTRICT": "MEDINIPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Sat Bankura",
-    "CONTACT": null,
+    "CONTACT": "282234",
     "MICR": "721800801",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHANDRAKONA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0VCCB20": {
@@ -4521,12 +5126,13 @@
     "DISTRICT": "MEDINIPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Belda",
-    "CONTACT": null,
+    "CONTACT": "255248",
     "MICR": "721800602",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BELDA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0VCCB21": {
@@ -4536,12 +5142,13 @@
     "DISTRICT": "PURBA MEDINIPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Contai",
-    "CONTACT": null,
+    "CONTACT": "255211",
     "MICR": "721800402",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CONTAI",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0VCCB22": {
@@ -4551,12 +5158,13 @@
     "DISTRICT": "MEDINIPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Belpahari",
-    "CONTACT": null,
+    "CONTACT": "253205",
     "MICR": "721800553",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BELPAHARI",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0VCCB23": {
@@ -4566,12 +5174,13 @@
     "DISTRICT": "MEDINIPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Baligeria",
-    "CONTACT": null,
+    "CONTACT": "267367",
     "MICR": "721800551",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BALIGERIA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0VCCB24": {
@@ -4581,12 +5190,13 @@
     "DISTRICT": "MEDINIPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Lalgarh",
-    "CONTACT": null,
+    "CONTACT": "263287",
     "MICR": "721800806",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "LALGARH",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0VCCB25": {
@@ -4596,12 +5206,13 @@
     "DISTRICT": "MEDINIPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Rohini",
-    "CONTACT": null,
+    "CONTACT": "268312",
     "MICR": "721800557",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ROHINI",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0VCCB26": {
@@ -4611,12 +5222,13 @@
     "DISTRICT": "MEDINIPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Pingla",
-    "CONTACT": null,
+    "CONTACT": "238541",
     "MICR": "721800608",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PINGLA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0VCCB27": {
@@ -4626,12 +5238,13 @@
     "DISTRICT": "MEDINIPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Narayangarh",
-    "CONTACT": null,
+    "CONTACT": "258227",
     "MICR": "721800607",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NARAYANGARH",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0VCCB28": {
@@ -4641,12 +5254,13 @@
     "DISTRICT": "MEDINIPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Pirakata",
-    "CONTACT": null,
+    "CONTACT": "284546",
     "MICR": "721800807",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PIRAKATA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0VCCB29": {
@@ -4656,12 +5270,13 @@
     "DISTRICT": "PURBA MEDINIPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Paniparul",
-    "CONTACT": null,
+    "CONTACT": "261223",
     "MICR": "721800954",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PANIPARUL",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0VCCB30": {
@@ -4671,12 +5286,13 @@
     "DISTRICT": "MEDINIPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Salboni",
-    "CONTACT": null,
+    "CONTACT": "285255",
     "MICR": "721800808",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SALBONI",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0VCCB31": {
@@ -4686,12 +5302,13 @@
     "DISTRICT": "MEDINIPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Silda",
-    "CONTACT": null,
+    "CONTACT": "252245",
     "MICR": "721800556",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SILDA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0VCCB32": {
@@ -4701,12 +5318,13 @@
     "DISTRICT": "MEDINIPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Golgram",
-    "CONTACT": null,
+    "CONTACT": "240488",
     "MICR": "721800604",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GOLEGRAM",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0VCCB33": {
@@ -4716,12 +5334,13 @@
     "DISTRICT": "MEDINIPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Malancha Road",
-    "CONTACT": null,
+    "CONTACT": "253140",
     "MICR": "721800103",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KHARAGPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0VCCB34": {
@@ -4731,11 +5350,12 @@
     "DISTRICT": "MEDINIPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Medinipur",
-    "CONTACT": null,
+    "CONTACT": "274884",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MEDINIPUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -4746,12 +5366,13 @@
     "DISTRICT": "MEDINIPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Khakurda",
-    "CONTACT": null,
+    "CONTACT": "259545",
     "MICR": "721800605",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KHAKURDA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0VCCB36": {
@@ -4761,12 +5382,13 @@
     "DISTRICT": "MEDINIPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Sautia (Pay Office)",
-    "CONTACT": null,
+    "CONTACT": "251251",
     "MICR": "721800952",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GOMUNDA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0VCCB37": {
@@ -4776,12 +5398,13 @@
     "DISTRICT": "PURBA MEDINIPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Chaktrasul(Pay Office)",
-    "CONTACT": null,
+    "CONTACT": "277007",
     "MICR": "721800956",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ITABERIA",
+    "NEFT": true,
     "IMPS": true
   },
   "WBSC0VCCB38": {
@@ -4791,11 +5414,12 @@
     "DISTRICT": "MEDINIPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Raghunathpur, Jhargram",
-    "CONTACT": null,
+    "CONTACT": "259741",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JHARGRAM",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -4806,12 +5430,13 @@
     "DISTRICT": "MEDINIPUR",
     "STATE": "WEST BENGAL",
     "ADDRESS": "Chhotobazar, Midnapur",
-    "CONTACT": null,
+    "CONTACT": "275744",
     "MICR": "721800302",
     "BANK": "WEST BENGAL STATE COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MEDINIPUR",
+    "NEFT": true,
     "IMPS": true
   }
 }

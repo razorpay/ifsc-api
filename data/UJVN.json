@@ -1,15 +1,16 @@
 {
   "UJVN0000001": {
-    "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
+    "BANK": "Ujjivan Small Finance Bank",
     "IFSC": "UJVN0000001",
-    "BRANCH": "RTGS-HO",
+    "BRANCH": "Ujjivan Small Finance Bank IMPS",
     "CENTRE": "BANGALORE",
     "DISTRICT": "BANGALORE",
     "STATE": "KARNATAKA",
     "ADDRESS": "GRAPE GARDEN, KORAMANGALA 6TH BLOCK, BENGALURU, KARNATAKA 560095",
     "CONTACT": "08040712121",
     "IMPS": true,
-    "UPI": false,
+    "CITY": "BANGALORE",
+    "UPI": true,
     "RTGS": true,
     "NEFT": false,
     "MICR": null
@@ -25,7 +26,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -40,7 +42,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -51,12 +54,13 @@
     "DISTRICT": "BANGALORE",
     "STATE": "KARNATAKA",
     "ADDRESS": "NO.428,GROUND FLOOR,80 FEET ROAD,6TH BLOCK,KORAMANGALA,BANGALORE-560095",
-    "CONTACT": null,
+    "CONTACT": "00",
     "MICR": "560761002",
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001103": {
@@ -71,7 +75,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001105": {
@@ -86,7 +91,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001106": {
@@ -101,7 +107,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001107": {
@@ -111,12 +118,13 @@
     "DISTRICT": "BANGALORE",
     "STATE": "KARNATAKA",
     "ADDRESS": "NO.1658,GROUND FLOOR,BBMP WARD NO.74,HAL III STAGE,JEEVANBHEEMANGAR,BANGALORE-560075",
-    "CONTACT": null,
+    "CONTACT": "00",
     "MICR": "560761004",
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001108": {
@@ -131,7 +139,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001109": {
@@ -141,12 +150,13 @@
     "DISTRICT": "BANGALORE",
     "STATE": "KARNATAKA",
     "ADDRESS": "NO.90,KARIYANNAPALYA VILLAGE,HENNUR MAIN ROAD,LINGARAJPURAM,BANGALORE",
-    "CONTACT": null,
+    "CONTACT": "00",
     "MICR": "560761003",
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001110": {
@@ -156,12 +166,13 @@
     "DISTRICT": "BANGALORE",
     "STATE": "KARNATAKA",
     "ADDRESS": "GROUND FLOOR,SITE NO.4/1,KATAHA NO.1161,PATTANDUR AGRAHARA,WHITEFIELD MAIN ROAD,K.R.PURAM HOBLI,BANGALORE SOUTH TALUK,BANGALORE-560066",
-    "CONTACT": null,
+    "CONTACT": "00",
     "MICR": "560761006",
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001111": {
@@ -171,12 +182,13 @@
     "DISTRICT": "BANGALORE",
     "STATE": "KARNATAKA",
     "ADDRESS": "NO.93,JAKKASANDRA EXTENSION,SARJAPUR MAIN CROSS ROAD,1ST BLOCK,KORAMANGALA,BANGALORE-560034",
-    "CONTACT": null,
+    "CONTACT": "00",
     "MICR": "560761005",
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001112": {
@@ -191,7 +203,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001113": {
@@ -206,7 +219,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BENGALURU",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001114": {
@@ -221,7 +235,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RAMANAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001115": {
@@ -236,7 +251,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001116": {
@@ -251,7 +267,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001117": {
@@ -266,7 +283,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MADDUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001118": {
@@ -281,7 +299,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001119": {
@@ -296,7 +315,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001120": {
@@ -311,7 +331,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHANNAPATNA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001121": {
@@ -326,7 +347,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHIKKABALLAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001122": {
@@ -341,7 +363,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001123": {
@@ -356,7 +379,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DHARWAD",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001124": {
@@ -371,7 +395,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HOSUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001126": {
@@ -386,7 +411,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HUBLI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001128": {
@@ -401,7 +427,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BELGAUM",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001130": {
@@ -416,7 +443,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KRISHNAGIRI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001131": {
@@ -431,7 +459,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HAVERI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001132": {
@@ -446,7 +475,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DAVANGERE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001133": {
@@ -461,7 +491,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TUMKUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001134": {
@@ -476,7 +507,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHITRADURGA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001135": {
@@ -491,7 +523,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VELLORE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001138": {
@@ -506,7 +539,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GAURIBIDANUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001139": {
@@ -521,7 +555,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SHIVAMOGGA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001141": {
@@ -536,7 +571,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HARIHARA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001142": {
@@ -551,7 +587,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MYSORE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001143": {
@@ -566,7 +603,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHADRAVATHI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001144": {
@@ -581,7 +619,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TIPTUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001145": {
@@ -596,7 +635,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GADAG",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001146": {
@@ -611,7 +651,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DHARMAPURI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001147": {
@@ -626,7 +667,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHINTAMANI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001150": {
@@ -641,7 +683,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001151": {
@@ -656,7 +699,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHALLAKERE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001152": {
@@ -671,7 +715,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VANIAMBADI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001153": {
@@ -686,7 +731,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MYSORE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001155": {
@@ -701,7 +747,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PALACODE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001156": {
@@ -716,7 +763,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SIRA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001160": {
@@ -731,7 +779,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BENGALURU",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001161": {
@@ -746,7 +795,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BAILHONGAL",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001162": {
@@ -761,14 +811,15 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GOKAK",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001164": {
     "IFSC": "UJVN0001164",
     "BRANCH": "AMBUR",
     "CENTRE": "AMBUR",
-    "DISTRICT": "NA",
+    "DISTRICT": "AMBUR",
     "STATE": "TAMIL NADU",
     "ADDRESS": "? 635802(NEAR BANK OF BARODA)",
     "CONTACT": "00",
@@ -776,7 +827,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AMBUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001165": {
@@ -791,7 +843,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BELGAVI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001167": {
@@ -806,7 +859,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VELLORE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001168": {
@@ -821,7 +875,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BENGALURU",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001169": {
@@ -836,7 +891,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ERODE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001170": {
@@ -851,7 +907,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THIRUVANNAMALAI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001171": {
@@ -866,7 +923,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "COIMBATORE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001172": {
@@ -881,7 +939,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SALEM",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001173": {
@@ -896,7 +955,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001174": {
@@ -911,7 +971,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JAMKHANDI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001176": {
@@ -926,7 +987,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AMBUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001179": {
@@ -941,7 +1003,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GOBICHETIPALAYAM",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001181": {
@@ -956,7 +1019,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOMARAPALAYAM",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001182": {
@@ -971,7 +1035,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TIRUCHENGODU",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001183": {
@@ -986,7 +1051,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PARAMATHI VELUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001184": {
@@ -1001,7 +1067,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "COIMBATORE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001186": {
@@ -1016,7 +1083,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "COIMBATORE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001188": {
@@ -1031,7 +1099,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "METTUPALAYAM",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001189": {
@@ -1046,7 +1115,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "UDUMALPET",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001191": {
@@ -1061,7 +1131,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DHARAPURAM",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001193": {
@@ -1076,7 +1147,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ERNAKULAM",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001194": {
@@ -1091,7 +1163,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ERNAKULAM",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001195": {
@@ -1106,7 +1179,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BODINAYAKANUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001197": {
@@ -1121,7 +1195,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PONDICHERRY",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001198": {
@@ -1136,7 +1211,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SATHYAMANGALAM",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001602": {
@@ -1151,7 +1227,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THENI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001603": {
@@ -1166,7 +1243,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PARAVUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001605": {
@@ -1181,7 +1259,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VAIKOM",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001606": {
@@ -1196,7 +1275,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHERTHALA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001607": {
@@ -1211,7 +1291,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DINDIGUL",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001608": {
@@ -1226,7 +1307,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PANRUTI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001609": {
@@ -1241,7 +1323,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VIRUDHACHALAM",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001610": {
@@ -1256,7 +1339,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CUDDALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001611": {
@@ -1271,7 +1355,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GUDALUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001612": {
@@ -1286,7 +1371,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "COONOOR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001613": {
@@ -1301,7 +1387,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "OOTY",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001615": {
@@ -1316,7 +1403,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ALLEPPEY",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001616": {
@@ -1331,7 +1419,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THRISSUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001618": {
@@ -1346,7 +1435,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ANAIMALAI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001619": {
@@ -1361,7 +1451,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VASCO DA GAMA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001622": {
@@ -1376,7 +1467,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KUNNAMKULAM",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001623": {
@@ -1391,7 +1483,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HARIPAD",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001624": {
@@ -1406,7 +1499,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TRIPRAYAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001625": {
@@ -1421,7 +1515,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SRIRANGAPATNA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001626": {
@@ -1436,7 +1531,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MYSORE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001627": {
@@ -1451,7 +1547,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANJAVUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001628": {
@@ -1466,7 +1563,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KUMBAKONAM",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001629": {
@@ -1481,7 +1579,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GUNDLUPET",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001630": {
@@ -1496,14 +1595,15 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "T NARASIPURA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001631": {
     "IFSC": "UJVN0001631",
     "BRANCH": "TRICHY",
     "CENTRE": "TRICHY",
-    "DISTRICT": "NA",
+    "DISTRICT": "TRICHY",
     "STATE": "TAMIL NADU",
     "ADDRESS": "DOOR NO.75 D-BLOCK NO.4,SALAI ROAD,TIRUCHIRAPPALLI - TIRUCHIRAPPALLI DISTRICT TAMILNADU",
     "CONTACT": "00",
@@ -1511,7 +1611,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TRICHY",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001632": {
@@ -1526,7 +1627,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHAAMARAJANAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001633": {
@@ -1541,7 +1643,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001634": {
@@ -1556,7 +1659,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MANNARGUDI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001635": {
@@ -1571,7 +1675,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001636": {
@@ -1586,7 +1691,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KARUNAGAPPALLY",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001637": {
@@ -1601,7 +1707,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHIKODI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001638": {
@@ -1616,7 +1723,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VADALUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001639": {
@@ -1631,7 +1739,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THIRUVARUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001640": {
@@ -1646,7 +1755,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOLLEGALA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001641": {
@@ -1661,7 +1771,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOTTARAKARA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001642": {
@@ -1676,7 +1787,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MAYILADUTHURAI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001643": {
@@ -1691,7 +1803,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HD KOTE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001644": {
@@ -1706,7 +1819,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "K R NAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001645": {
@@ -1721,7 +1835,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RAJAPALAYAM",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001646": {
@@ -1736,7 +1851,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "K R PETE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001647": {
@@ -1751,7 +1867,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KANCHIPURAM",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001648": {
@@ -1766,7 +1883,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SIVAKASI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001649": {
@@ -1781,7 +1899,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AMBASAMUDRAM",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001650": {
@@ -1796,7 +1915,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NAMAKKAL",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001651": {
@@ -1811,7 +1931,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001652": {
@@ -1826,7 +1947,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TENKASI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001653": {
@@ -1841,7 +1963,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CUMBUM",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001654": {
@@ -1856,7 +1979,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SANKARANKOVIL",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001655": {
@@ -1871,7 +1995,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ARUPPUKOTTAI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001657": {
@@ -1886,7 +2011,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THIRUNELVELI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001658": {
@@ -1901,7 +2027,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NAGARCOIL",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001659": {
@@ -1916,7 +2043,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PANDAVAPURA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001660": {
@@ -1931,7 +2059,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MADURAI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001661": {
@@ -1946,7 +2075,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHENGALPATTU",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001662": {
@@ -1961,7 +2091,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MANJOOR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001663": {
@@ -1976,7 +2107,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TAMBARAM",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001665": {
@@ -1991,7 +2123,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHANNAPATNA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001666": {
@@ -2006,7 +2139,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MULLIPALLAM",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001667": {
@@ -2021,7 +2155,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GENGANALLORE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001668": {
@@ -2036,7 +2171,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "IRUPPU",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001669": {
@@ -2051,7 +2187,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PANAIYUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001670": {
@@ -2066,7 +2203,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOTTAMANGALAM",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001671": {
@@ -2081,7 +2219,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KEELA RAJAKULARAMAN",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001672": {
@@ -2096,7 +2235,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VILLANDHIDASA SAMUTHIRAM",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001673": {
@@ -2111,7 +2251,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BOGANALLUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001674": {
@@ -2126,7 +2267,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHENNAI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001675": {
@@ -2141,7 +2283,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "LALGUDI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001676": {
@@ -2156,7 +2299,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DHARMAPURI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001677": {
@@ -2171,7 +2315,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MALLAPADI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001678": {
@@ -2186,7 +2331,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HOSANAGARA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001679": {
@@ -2201,7 +2347,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MELINAKURUVALLI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001680": {
@@ -2216,7 +2363,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PAPPIREDDIPATTI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001681": {
@@ -2231,7 +2379,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHENNAI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001682": {
@@ -2246,7 +2395,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHENNAI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001683": {
@@ -2261,7 +2411,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MAHADEVAGOLLAHALLI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001684": {
@@ -2276,7 +2427,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HARALAHALLI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001685": {
@@ -2291,7 +2443,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MAGADI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001686": {
@@ -2306,7 +2459,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KANAKAPURA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001687": {
@@ -2321,7 +2475,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DAVANAGERE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001688": {
@@ -2336,7 +2491,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SHIKARIPURA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001689": {
@@ -2351,7 +2507,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUNIYUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001690": {
@@ -2366,7 +2523,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ALALAGHATTA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001691": {
@@ -2381,7 +2539,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HUKERI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001692": {
@@ -2396,7 +2555,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KANAKAPURA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001693": {
@@ -2411,7 +2571,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THENNAMPATTI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001694": {
@@ -2426,7 +2587,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MAPUSA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001695": {
@@ -2441,7 +2603,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KALMANE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001696": {
@@ -2456,7 +2619,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PACHAMPALAYAM",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001697": {
@@ -2471,7 +2635,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ADANUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001698": {
@@ -2486,7 +2651,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JINNAGARA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001699": {
@@ -2501,7 +2667,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOTHAGERE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001700": {
@@ -2516,7 +2683,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HOSAPETE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001701": {
@@ -2531,7 +2699,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUTTUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001702": {
@@ -2546,7 +2715,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001703": {
@@ -2561,7 +2731,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOTTAYAM",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001704": {
@@ -2576,7 +2747,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOZHIKODE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001705": {
@@ -2591,7 +2763,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "UDUPI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001706": {
@@ -2606,7 +2779,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THIRUVANANTHAPURAM",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0001707": {
@@ -2621,7 +2795,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOTTAPALAYAM EAST",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002201": {
@@ -2635,7 +2810,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DELHI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -2651,7 +2827,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DELHI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002204": {
@@ -2666,7 +2843,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DELHI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002206": {
@@ -2681,7 +2859,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DELHI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002207": {
@@ -2696,7 +2875,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DELHI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002208": {
@@ -2711,7 +2891,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DELHI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002210": {
@@ -2726,7 +2907,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GHAZIABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002211": {
@@ -2741,7 +2923,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "WEST DELHI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002212": {
@@ -2756,7 +2939,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ALWAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002213": {
@@ -2771,7 +2955,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BULANDSEHAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002214": {
@@ -2786,7 +2971,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHARATPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002215": {
@@ -2801,7 +2987,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DAUSA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002218": {
@@ -2816,7 +3003,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "FARIDABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002219": {
@@ -2831,7 +3019,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KHURJA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002220": {
@@ -2846,7 +3035,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MEERUT",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002221": {
@@ -2861,7 +3051,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AJMER",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002222": {
@@ -2876,7 +3067,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TONK",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002223": {
@@ -2891,7 +3083,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SAWAI MADHOPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002224": {
@@ -2906,7 +3099,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOTA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002225": {
@@ -2921,7 +3115,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BUNDI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002226": {
@@ -2936,7 +3131,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JAIPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002227": {
@@ -2951,7 +3147,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KISHANGARH",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002228": {
@@ -2966,7 +3163,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ROORKEE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002229": {
@@ -2981,7 +3179,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HARIDWAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002231": {
@@ -2996,7 +3195,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DEHRADUN",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002232": {
@@ -3011,7 +3211,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JODHPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002234": {
@@ -3026,7 +3227,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SAHARANPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002235": {
@@ -3041,7 +3243,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PALI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002238": {
@@ -3056,7 +3259,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHANDIGARH UT",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002239": {
@@ -3071,7 +3275,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AMBALA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002240": {
@@ -3086,7 +3291,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DELHI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002242": {
@@ -3101,7 +3307,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PALWAL",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002243": {
@@ -3116,7 +3323,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HARYANA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002245": {
@@ -3131,7 +3339,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AGRA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002246": {
@@ -3146,7 +3355,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AGRA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002248": {
@@ -3161,7 +3371,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "FIROZABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002249": {
@@ -3176,7 +3387,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MODINAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002251": {
@@ -3191,7 +3403,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002254": {
@@ -3206,7 +3419,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NEW DELHI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002255": {
@@ -3221,7 +3435,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ABOHAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002256": {
@@ -3236,7 +3451,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HISSAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002257": {
@@ -3251,7 +3467,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JIND",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002258": {
@@ -3266,7 +3483,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HARYANA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002259": {
@@ -3281,7 +3499,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ROHTAK",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002260": {
@@ -3296,7 +3515,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MEERUT",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002262": {
@@ -3311,7 +3531,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SIKANDRABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002264": {
@@ -3326,7 +3547,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SONIPAT",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002265": {
@@ -3341,7 +3563,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SRI GANGANAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002266": {
@@ -3356,7 +3579,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HANUMANGARH",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002267": {
@@ -3371,7 +3595,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SIRSA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002268": {
@@ -3386,7 +3611,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHATINDA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002269": {
@@ -3401,7 +3627,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ALIGARH",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002273": {
@@ -3416,7 +3643,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PANIPAT",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002274": {
@@ -3431,7 +3659,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KARNAL",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002275": {
@@ -3446,7 +3675,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "LUDHIANA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002276": {
@@ -3461,7 +3691,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "LUDHIANA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002277": {
@@ -3476,7 +3707,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JALANDHAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002278": {
@@ -3491,7 +3723,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RUPNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002279": {
@@ -3506,7 +3739,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SANGRUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002280": {
@@ -3521,7 +3755,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AMRITSAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002281": {
@@ -3536,7 +3771,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PATIALA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002284": {
@@ -3551,7 +3787,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VIKAS NAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002285": {
@@ -3566,7 +3803,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "INDORE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002287": {
@@ -3581,7 +3819,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PITHAMPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002288": {
@@ -3596,7 +3835,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHILWARA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002289": {
@@ -3611,7 +3851,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HARYANA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002290": {
@@ -3626,7 +3867,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KURUKSHETRA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002291": {
@@ -3641,7 +3883,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "YAMUNA NAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002293": {
@@ -3656,7 +3899,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "UNA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002294": {
@@ -3671,7 +3915,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NARAINGARH",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002295": {
@@ -3686,7 +3931,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JHAJJAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002296": {
@@ -3701,7 +3947,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KHARGONE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002297": {
@@ -3716,7 +3963,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KHANDWA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002298": {
@@ -3731,7 +3979,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KHARGONE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002299": {
@@ -3746,7 +3995,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NAGDA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002300": {
@@ -3761,7 +4011,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MATOR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002301": {
@@ -3776,7 +4027,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NARWANA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002302": {
@@ -3791,7 +4043,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BARNALA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002303": {
@@ -3806,7 +4059,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MANSA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002304": {
@@ -3821,7 +4075,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUKTSAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002306": {
@@ -3836,7 +4091,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOTPUTLI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002308": {
@@ -3851,7 +4107,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BARARA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002309": {
@@ -3866,7 +4123,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SYANA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002311": {
@@ -3881,7 +4139,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MATHURA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002312": {
@@ -3896,7 +4155,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HATHRAS",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002313": {
@@ -3911,7 +4171,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PANIPAT",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002315": {
@@ -3926,7 +4187,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GHATABILLOD",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002317": {
@@ -3941,7 +4203,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BADNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002319": {
@@ -3956,7 +4219,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MORADABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002320": {
@@ -3971,7 +4235,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "FATEHABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002321": {
@@ -3986,7 +4251,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BARWANI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002322": {
@@ -4001,7 +4267,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DHAMNOD",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002323": {
@@ -4016,7 +4283,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KHERA KHEMAWATI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002324": {
@@ -4031,7 +4299,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PALWAL",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002325": {
@@ -4046,7 +4315,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KAPURTHALA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002327": {
@@ -4061,7 +4331,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GWALIOR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002329": {
@@ -4076,7 +4347,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ELLENABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002330": {
@@ -4091,7 +4363,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUKTSAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002331": {
@@ -4106,7 +4379,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SAMRALA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002332": {
@@ -4121,7 +4395,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HARYANA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002333": {
@@ -4136,7 +4411,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "FALNA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002334": {
@@ -4151,7 +4427,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHATINDA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002337": {
@@ -4166,14 +4443,15 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ALWAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002338": {
     "IFSC": "UJVN0002338",
     "BRANCH": "SANGANER",
     "CENTRE": "JAIPUR",
-    "DISTRICT": "NA",
+    "DISTRICT": "JAIPUR",
     "STATE": "RAJASTHAN",
     "ADDRESS": "HOP NO.3A,GROUND FLOOR AND FIRST FLOOR,KRISHNA VIHAR,NEAR - PUSHP ENCLAVE,TONK ROAD,SANGANER,JAIPUR - 302033",
     "CONTACT": "00",
@@ -4181,7 +4459,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JAIPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002339": {
@@ -4196,7 +4475,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RAIPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002341": {
@@ -4211,7 +4491,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DURG",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002343": {
@@ -4226,7 +4507,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BILASPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002344": {
@@ -4241,7 +4523,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RAJNANDGAON",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002345": {
@@ -4256,7 +4539,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SIRSA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002346": {
@@ -4271,7 +4555,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JHAJJAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002347": {
@@ -4286,7 +4571,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NOIDA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002348": {
@@ -4301,7 +4587,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SAJUMA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002349": {
@@ -4316,7 +4603,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GURGAON",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002350": {
@@ -4331,7 +4619,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DIDWARA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002351": {
@@ -4346,7 +4635,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DHARERU",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002352": {
@@ -4361,7 +4651,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GHOGHARIAN",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002353": {
@@ -4376,7 +4667,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NALWIPAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002354": {
@@ -4391,7 +4683,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "FATEHABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002355": {
@@ -4406,7 +4699,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GUROOTHI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002356": {
@@ -4421,7 +4715,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SONDHAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002357": {
@@ -4436,7 +4731,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHITEDA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002358": {
@@ -4451,7 +4747,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MARUI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002359": {
@@ -4466,7 +4763,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "POONKHAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002360": {
@@ -4481,7 +4779,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DOONGARIKHURD",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002361": {
@@ -4496,7 +4795,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MEERAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002362": {
@@ -4511,7 +4811,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TIKARI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002363": {
@@ -4526,8 +4827,25 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DAULATPURA",
+    "NEFT": true,
     "IMPS": true
+  },
+  "UJVN0002364": {
+    "BANK": "Ujjivan Small Finance Bank Limited",
+    "IFSC": "UJVN0002364",
+    "BRANCH": "BARIJORI",
+    "ADDRESS": "RUDFLR,KHASRAN.644,VILLAGEBARIJRI,TEHSIL-SHAHPURA,BARIJRI,JAIPUR,RAJASTHA-303103",
+    "CONTACT": "00",
+    "CITY": "JAIPUR",
+    "DISTRICT": "BARIJORI",
+    "STATE": "RAJASTHAN",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": false,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "UJVN0002365": {
     "IFSC": "UJVN0002365",
@@ -4541,7 +4859,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JUNGLE SIKARI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002366": {
@@ -4556,7 +4875,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KANPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002367": {
@@ -4571,7 +4891,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KATESAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002368": {
@@ -4586,7 +4907,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JUNGLEBIHULI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002369": {
@@ -4601,7 +4923,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHONAWAS",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002370": {
@@ -4616,7 +4939,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KANPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002371": {
@@ -4631,7 +4955,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "LUCKNOW",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002372": {
@@ -4646,7 +4971,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VARANASI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002373": {
@@ -4661,7 +4987,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ALLAHABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0002374": {
@@ -4676,8 +5003,25 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VARANASI",
+    "NEFT": true,
     "IMPS": true
+  },
+  "UJVN0002375": {
+    "BANK": "Ujjivan Small Finance Bank Limited",
+    "IFSC": "UJVN0002375",
+    "BRANCH": "CHOWK",
+    "ADDRESS": "GROUND FLOOR,PLOT NO.22,PROPERTY NO.313/075 ( 39B),KHUN KHUN JI ROAD,WARD -BAZAR KALI JI,CHOWK,LUCKNOW,UTTAR PRADESH - 226003",
+    "CONTACT": "00",
+    "CITY": "LUCKNOW",
+    "DISTRICT": "LUCKNOW",
+    "STATE": "UTTAR PRADESH",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": false,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "UJVN0003301": {
     "IFSC": "UJVN0003301",
@@ -4690,7 +5034,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOLKATA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -4706,7 +5051,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "24 PARAGANAS SOUTH",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003304": {
@@ -4721,7 +5067,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NEW ALIPORE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003305": {
@@ -4736,7 +5083,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOLKATA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003306": {
@@ -4751,7 +5099,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOLKATA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003307": {
@@ -4766,7 +5115,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "24 PAGARANAS NORTH",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003309": {
@@ -4781,7 +5131,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOLKATA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003310": {
@@ -4796,7 +5147,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOLKATA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003311": {
@@ -4811,7 +5163,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOLKATA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003312": {
@@ -4826,7 +5179,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOLKATA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003313": {
@@ -4841,7 +5195,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HOWRAH",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003314": {
@@ -4856,7 +5211,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BARASAT",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003315": {
@@ -4871,7 +5227,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BARRACKPORE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003317": {
@@ -4886,7 +5243,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HABRA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003319": {
@@ -4901,7 +5259,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HOWRAH",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003321": {
@@ -4916,7 +5275,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHAKDAHA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003322": {
@@ -4931,7 +5291,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHANDANNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003324": {
@@ -4946,7 +5307,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ULUBERIA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003325": {
@@ -4961,7 +5323,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANDEL",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003326": {
@@ -4976,7 +5339,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ANDUL",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003327": {
@@ -4991,7 +5355,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JAMSHEDPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003329": {
@@ -5006,7 +5371,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JAMSHEDPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003330": {
@@ -5021,7 +5387,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HOWRAH",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003331": {
@@ -5036,7 +5403,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "24 PARGANAS SOUTH",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003332": {
@@ -5051,7 +5419,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KACHRAPARA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003334": {
@@ -5066,7 +5435,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BUDGE BUDGE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003336": {
@@ -5081,7 +5451,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DHANBAD",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003337": {
@@ -5096,7 +5467,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DHANBAD",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003339": {
@@ -5111,7 +5483,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHUBNESWAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003340": {
@@ -5126,7 +5499,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BAGNAN",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003343": {
@@ -5141,7 +5515,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHUBANESWAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003344": {
@@ -5156,7 +5531,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHUBANESWAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003345": {
@@ -5171,7 +5547,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RANCHI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003347": {
@@ -5186,7 +5563,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PANSKURA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003349": {
@@ -5201,7 +5579,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RANCHI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003350": {
@@ -5216,7 +5595,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DHANBAD",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003352": {
@@ -5231,7 +5611,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DANAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003353": {
@@ -5246,7 +5627,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PATNA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003354": {
@@ -5261,7 +5643,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JAMSHEDPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003356": {
@@ -5276,7 +5659,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PURI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003357": {
@@ -5291,7 +5675,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "EAST SINGHBHUM",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003358": {
@@ -5306,7 +5691,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HAJIPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003359": {
@@ -5321,7 +5707,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BURDWAN",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003360": {
@@ -5336,7 +5723,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ARAMBAGH",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003361": {
@@ -5351,7 +5739,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PANAGARH",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003362": {
@@ -5366,7 +5755,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHAS",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003364": {
@@ -5381,7 +5771,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JHARIA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003365": {
@@ -5396,7 +5787,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HAZARIBAGH",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003366": {
@@ -5411,7 +5803,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PURULIA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003367": {
@@ -5426,7 +5819,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MEMARI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003368": {
@@ -5441,7 +5835,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BOLPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003369": {
@@ -5456,7 +5851,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DURGAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003370": {
@@ -5471,7 +5867,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ASANSOL",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003373": {
@@ -5486,7 +5883,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "FATUAH",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003374": {
@@ -5501,7 +5899,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PATNA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003375": {
@@ -5516,7 +5915,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PATNA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003376": {
@@ -5531,7 +5931,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DHANIAKHALI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003377": {
@@ -5546,7 +5947,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RAJGANGPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003378": {
@@ -5561,7 +5963,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ROURKELA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003381": {
@@ -5576,7 +5979,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JHUMRI TILAIYA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003382": {
@@ -5591,7 +5995,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SAINTHIA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003383": {
@@ -5606,7 +6011,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KULTI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003384": {
@@ -5621,7 +6027,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KHARAGPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003385": {
@@ -5636,7 +6043,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PASCHIM MIDNAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003386": {
@@ -5651,7 +6059,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BERHAMPORE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003387": {
@@ -5666,7 +6075,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MALDA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003388": {
@@ -5681,7 +6091,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUZAFFARPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003389": {
@@ -5696,7 +6107,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUZAFFARPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003501": {
@@ -5711,7 +6123,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CONTAI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003502": {
@@ -5726,7 +6139,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TAMLUK",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003503": {
@@ -5741,7 +6155,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DEOGHAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003504": {
@@ -5756,7 +6171,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHUBANESWAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003507": {
@@ -5771,7 +6187,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BALURGHAT",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003508": {
@@ -5786,7 +6203,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JALPAIGURI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003509": {
@@ -5801,7 +6219,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BUNIADPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003510": {
@@ -5816,7 +6235,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RAIGANJ",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003511": {
@@ -5831,7 +6251,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SILIGURI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003512": {
@@ -5846,7 +6267,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GUWAHATI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003513": {
@@ -5861,7 +6283,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GUWAHATI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003514": {
@@ -5876,7 +6299,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GUWAHATI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003516": {
@@ -5891,7 +6315,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "COOCHBEHAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003517": {
@@ -5906,7 +6331,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ALIPURDUAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003519": {
@@ -5921,7 +6347,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "POLICE BAZAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003520": {
@@ -5936,7 +6363,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BARGARH",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003521": {
@@ -5951,7 +6379,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JHARSUGUDA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003523": {
@@ -5966,7 +6395,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PHULANAKHARA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003524": {
@@ -5981,7 +6411,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SULTANGANJ",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003525": {
@@ -5996,7 +6427,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KAHELGAON",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003527": {
@@ -6011,7 +6443,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHAGALPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003529": {
@@ -6026,7 +6459,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PURNIA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003531": {
@@ -6041,7 +6475,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GUWAHATI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003533": {
@@ -6056,7 +6491,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GUWAHATI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003534": {
@@ -6071,7 +6507,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SUTAHATA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003535": {
@@ -6086,7 +6523,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GAYA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003537": {
@@ -6101,7 +6539,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JEHANABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003538": {
@@ -6116,7 +6555,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MIRZA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003539": {
@@ -6131,7 +6571,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HAJO",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003541": {
@@ -6146,7 +6587,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DHUPGURI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003542": {
@@ -6161,7 +6603,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MANEPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003544": {
@@ -6176,7 +6619,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DARBHANGA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003545": {
@@ -6191,7 +6635,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SAHARSA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003547": {
@@ -6206,7 +6651,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BARAUNI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003548": {
@@ -6221,7 +6667,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BEGUSARAI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003550": {
@@ -6236,7 +6683,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AGARTALA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003551": {
@@ -6251,7 +6699,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AGARTALA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003552": {
@@ -6266,7 +6715,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BISHALGARH",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003553": {
@@ -6281,7 +6731,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "UDAIPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003554": {
@@ -6296,7 +6747,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MELAGARGH",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003555": {
@@ -6311,7 +6763,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHOUDWAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003556": {
@@ -6326,7 +6779,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MOTIHARI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003557": {
@@ -6341,7 +6795,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SAMASTIPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003558": {
@@ -6356,7 +6811,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DALSINGSARAI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003559": {
@@ -6371,7 +6827,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TEZPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003560": {
@@ -6386,7 +6843,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NAGAON",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003561": {
@@ -6401,7 +6859,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NALBARI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003562": {
@@ -6416,7 +6875,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BAIHATI CHAIRALI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003563": {
@@ -6431,7 +6891,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GOLAGHAT",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003564": {
@@ -6446,7 +6907,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JORHAT",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003565": {
@@ -6461,7 +6923,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JORHAT",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003566": {
@@ -6476,7 +6939,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NAGAON",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003567": {
@@ -6491,7 +6955,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TITABOR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003568": {
@@ -6506,7 +6971,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PATHSALA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003569": {
@@ -6521,7 +6987,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TELIAMURA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003570": {
@@ -6536,7 +7003,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KUMARGHAT",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003571": {
@@ -6551,7 +7019,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DHARMANAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003572": {
@@ -6566,7 +7035,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANKURA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003573": {
@@ -6581,7 +7051,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HABRA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003574": {
@@ -6596,7 +7067,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHAKDAH",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003575": {
@@ -6611,7 +7083,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HOOGLY",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003576": {
@@ -6626,7 +7099,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HARINGHATA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003577": {
@@ -6641,7 +7115,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HOWRAH",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003578": {
@@ -6656,7 +7131,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ARAMBAGH",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003579": {
@@ -6671,7 +7147,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RAHAGHAT",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003580": {
@@ -6686,7 +7163,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DANKUNI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003581": {
@@ -6701,7 +7179,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANDEL",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003582": {
@@ -6716,7 +7195,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HALDIA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003583": {
@@ -6731,7 +7211,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HOOGLY",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003584": {
@@ -6746,7 +7227,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NAUGAON",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003585": {
@@ -6761,7 +7243,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KAKATPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003586": {
@@ -6776,7 +7259,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NIMAPARA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003596": {
@@ -6791,7 +7275,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JAGATSINGHPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003597": {
@@ -6806,7 +7291,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HOWRAH",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003598": {
@@ -6821,7 +7307,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BASIRHAT",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003599": {
@@ -6836,7 +7323,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BISWANATHPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003600": {
@@ -6851,7 +7339,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PURI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003601": {
@@ -6866,7 +7355,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "EKANGARSARAI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003602": {
@@ -6881,7 +7371,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GOPIBALLAVPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003603": {
@@ -6896,7 +7387,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TAKIPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003604": {
@@ -6911,7 +7403,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TILKHOJA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003605": {
@@ -6926,7 +7419,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DWARIGERIA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003606": {
@@ -6941,7 +7435,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ANDHARMANIK",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003607": {
@@ -6956,7 +7451,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MAHUA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003608": {
@@ -6971,7 +7467,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHAGALPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003609": {
@@ -6986,7 +7483,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ANDHANA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003610": {
@@ -7001,7 +7499,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SRIPATIPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003611": {
@@ -7016,7 +7515,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TOLA CHHAWNI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003612": {
@@ -7031,7 +7531,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SAHEBGANJ",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003613": {
@@ -7046,7 +7547,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DHAKA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003614": {
@@ -7061,7 +7563,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RAJGIR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003615": {
@@ -7076,7 +7579,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MAHMADPUR BAYA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003616": {
@@ -7091,7 +7595,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SAGAULI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003617": {
@@ -7106,7 +7611,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NAYAGARH",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003618": {
@@ -7121,7 +7627,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BETEI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003619": {
@@ -7136,7 +7643,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PANSILA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003620": {
@@ -7151,7 +7659,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BILWAGRAM",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003621": {
@@ -7166,7 +7675,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ARRAH",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003622": {
@@ -7181,7 +7691,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SILCHAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003623": {
@@ -7196,7 +7707,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JASOHARI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003624": {
@@ -7211,7 +7723,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BUXAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003625": {
@@ -7226,7 +7739,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SASARAM",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003626": {
@@ -7241,7 +7755,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SITAMARHI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003627": {
@@ -7256,7 +7771,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SILIGURI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003628": {
@@ -7271,7 +7787,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHAPRA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0003629": {
@@ -7286,7 +7803,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JAGANATHPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004401": {
@@ -7300,7 +7818,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -7316,7 +7835,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004403": {
@@ -7331,7 +7851,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004404": {
@@ -7346,7 +7867,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004406": {
@@ -7361,7 +7883,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004407": {
@@ -7376,7 +7899,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004408": {
@@ -7391,7 +7915,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004409": {
@@ -7406,7 +7931,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NASIK",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004410": {
@@ -7421,7 +7947,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NASHIK",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004411": {
@@ -7436,7 +7963,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NAVI MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004412": {
@@ -7451,7 +7979,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004413": {
@@ -7466,7 +7995,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004414": {
@@ -7481,7 +8011,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GOVANDI MANKHURD",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004415": {
@@ -7496,7 +8027,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004416": {
@@ -7511,7 +8043,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004419": {
@@ -7526,7 +8059,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004420": {
@@ -7541,7 +8075,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DOMBIVLI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004422": {
@@ -7556,7 +8091,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004423": {
@@ -7571,7 +8107,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NASIK",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004427": {
@@ -7586,7 +8123,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004428": {
@@ -7601,7 +8139,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SURAT",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004430": {
@@ -7616,7 +8155,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SURAT",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004431": {
@@ -7631,7 +8171,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SURAT",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004432": {
@@ -7646,7 +8187,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004433": {
@@ -7661,7 +8203,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004435": {
@@ -7676,7 +8219,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004436": {
@@ -7691,7 +8235,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004438": {
@@ -7706,7 +8251,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004441": {
@@ -7721,7 +8267,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NAVSARI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004442": {
@@ -7736,7 +8283,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VADODARA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004443": {
@@ -7751,7 +8299,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VADODARA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004447": {
@@ -7766,7 +8315,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VADODARA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004448": {
@@ -7781,7 +8331,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ANKLESHWAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004449": {
@@ -7796,7 +8347,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHARUCH",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004450": {
@@ -7811,7 +8363,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AHMEDNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004452": {
@@ -7826,7 +8379,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SATARA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004453": {
@@ -7841,7 +8395,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KARAD",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004454": {
@@ -7856,7 +8411,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AURANGABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004455": {
@@ -7871,7 +8427,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AURANGABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004456": {
@@ -7886,7 +8443,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHIWANDI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004457": {
@@ -7901,7 +8459,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VAPI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004458": {
@@ -7916,7 +8475,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SOLAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004460": {
@@ -7931,7 +8491,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SANGLI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004462": {
@@ -7946,7 +8507,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PANVEL",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004463": {
@@ -7961,7 +8523,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NADIAD",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004464": {
@@ -7976,7 +8539,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOLHAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004465": {
@@ -7991,7 +8555,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AHMEDABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004467": {
@@ -8006,7 +8571,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AHMEDABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004468": {
@@ -8021,7 +8587,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AHMEDABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004470": {
@@ -8036,7 +8603,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ICHALKARANJI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004472": {
@@ -8051,7 +8619,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BARDOLI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004473": {
@@ -8066,7 +8635,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VALSAD",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004474": {
@@ -8081,7 +8651,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JALGAON",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004475": {
@@ -8096,7 +8667,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHUSAWAL",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004479": {
@@ -8111,7 +8683,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MEHSANA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004480": {
@@ -8126,7 +8699,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HIMMATNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004482": {
@@ -8141,7 +8715,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RAJKOT",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004483": {
@@ -8156,7 +8731,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RAJKOT",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004490": {
@@ -8171,7 +8747,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RAJPIPLA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004491": {
@@ -8186,7 +8763,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VYARA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004493": {
@@ -8201,7 +8779,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "LATUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004495": {
@@ -8216,7 +8795,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NAGPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004496": {
@@ -8231,7 +8811,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NAGPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004498": {
@@ -8246,7 +8827,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHAVNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004499": {
@@ -8261,7 +8843,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BOTAD",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004500": {
@@ -8276,7 +8859,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VALSAD",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004501": {
@@ -8291,7 +8875,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHARUCH",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004502": {
@@ -8306,7 +8891,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VADOADARA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004503": {
@@ -8321,7 +8907,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "UMARA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004504": {
@@ -8336,7 +8923,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VALSAD",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004505": {
@@ -8351,7 +8939,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PALGHAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004506": {
@@ -8366,7 +8955,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ANKLAV",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004507": {
@@ -8381,7 +8971,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KANIYEL",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004508": {
@@ -8396,7 +8987,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KHANKUVA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004509": {
@@ -8411,7 +9003,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ANKLAV",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004510": {
@@ -8426,7 +9019,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PETLAD",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004511": {
@@ -8441,7 +9035,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHIKHLI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004512": {
@@ -8456,7 +9051,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHALADA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004513": {
@@ -8471,7 +9067,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BADODARA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004514": {
@@ -8486,7 +9083,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PARSANATAJ",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004515": {
@@ -8501,7 +9099,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ANAND",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004516": {
@@ -8516,7 +9115,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JAMNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004517": {
@@ -8531,7 +9131,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GODHARA",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004518": {
@@ -8546,7 +9147,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PRAHALAD NAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004519": {
@@ -8561,7 +9163,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DAHOD",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0004520": {
@@ -8576,7 +9179,8 @@
     "BANK": "Ujjivan Small Finance Bank Limited",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MORBI",
+    "NEFT": true,
     "IMPS": true
   },
   "UJVN0099999": {
@@ -8590,7 +9194,8 @@
     "BANK": "UJJIVAN SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   }

@@ -1,17 +1,18 @@
 {
   "ZCBL0000001": {
-    "BANK": "ZOROASTRIAN COOPERATIVE BANK LTD.",
+    "BANK": "Zoroastrian Co-operative Bank",
     "IFSC": "ZCBL0000001",
-    "BRANCH": "Service Branch",
+    "BRANCH": "Zoroastrian Co-operative Bank IMPS",
     "CENTRE": "MUMBAI",
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Radha Bhavan, 2nd Floor, Nagindas Master Road, Fort, Mumbai 400001",
     "CONTACT": "2222696050",
     "IMPS": true,
+    "CITY": "MUMBAI",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "NEFT": true,
     "MICR": null
   },
   "ZCBL0000002": {
@@ -26,7 +27,8 @@
     "BANK": "ZOROASTRIAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "ZCBL0000003": {
@@ -41,7 +43,8 @@
     "BANK": "ZOROASTRIAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "ZCBL0000004": {
@@ -56,7 +59,8 @@
     "BANK": "ZOROASTRIAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "ZCBL0000005": {
@@ -71,7 +75,8 @@
     "BANK": "ZOROASTRIAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "ZCBL0000006": {
@@ -86,7 +91,8 @@
     "BANK": "ZOROASTRIAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "ZCBL0000007": {
@@ -101,7 +107,8 @@
     "BANK": "ZOROASTRIAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "ZCBL0000008": {
@@ -116,7 +123,8 @@
     "BANK": "ZOROASTRIAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "ZCBL0000009": {
@@ -131,7 +139,8 @@
     "BANK": "ZOROASTRIAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "ZCBL0000010": {
@@ -146,7 +155,8 @@
     "BANK": "ZOROASTRIAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "ZCBL0000011": {
@@ -161,7 +171,8 @@
     "BANK": "ZOROASTRIAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "ZCBL0000012": {
@@ -176,7 +187,8 @@
     "BANK": "ZOROASTRIAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "ZCBL0000013": {
@@ -191,7 +203,8 @@
     "BANK": "ZOROASTRIAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "ZCBL0000014": {
@@ -206,7 +219,8 @@
     "BANK": "ZOROASTRIAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "ZCBL00000SC": {
@@ -220,6 +234,7 @@
     "BANK": "ZOROASTRIAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
+    "CITY": "MUMBAI",
     "NEFT": false,
     "IMPS": true,
     "MICR": null
@@ -236,7 +251,8 @@
     "BANK": "ZOROASTRIAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SURAT",
+    "NEFT": true,
     "IMPS": true
   },
   "ZCBL0000103": {
@@ -251,7 +267,8 @@
     "BANK": "ZOROASTRIAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SURAT",
+    "NEFT": true,
     "IMPS": true
   },
   "ZCBL0000104": {
@@ -266,7 +283,8 @@
     "BANK": "ZOROASTRIAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SURAT",
+    "NEFT": true,
     "IMPS": true
   },
   "ZCBL0000105": {
@@ -281,7 +299,8 @@
     "BANK": "ZOROASTRIAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SURAT",
+    "NEFT": true,
     "IMPS": true
   },
   "ZCBL0000106": {
@@ -296,7 +315,8 @@
     "BANK": "ZOROASTRIAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SURAT",
+    "NEFT": true,
     "IMPS": true
   },
   "ZCBL0000108": {
@@ -311,7 +331,8 @@
     "BANK": "ZOROASTRIAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SURAT",
+    "NEFT": true,
     "IMPS": true
   }
 }

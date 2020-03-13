@@ -1,18 +1,19 @@
 {
   "SHBK0000001": {
-    "BANK": "SHINHAN BANK",
+    "BANK": "Shinhan Bank",
     "IFSC": "SHBK0000001",
-    "BRANCH": "RTGS-HO",
+    "BRANCH": "Shinhan Bank IMPS",
     "CENTRE": "MUMBAI",
     "DISTRICT": "MUMBAI",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Peninsula Corporate Park, 701,702, Tower 1, Ganpatrao Kadam Marg, Lower Parel, Mumbai 400013",
-    "CONTACT": null,
+    "CONTACT": "6",
     "IMPS": true,
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": "400659002",
     "RTGS": true,
-    "NEFT": false
+    "NEFT": true
   },
   "SHBK0000002": {
     "IFSC": "SHBK0000002",
@@ -26,6 +27,7 @@
     "BANK": "SHINHAN BANK",
     "UPI": false,
     "RTGS": true,
+    "CITY": "MUMBAI",
     "NEFT": false,
     "IMPS": true
   },
@@ -36,12 +38,13 @@
     "DISTRICT": "MUMBAI",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Unit No 001, Ground Floor, Peninsula Tower 1, Peninsula Corporate Park, G K Marg, Lower Parel, Mumbai  400 013",
-    "CONTACT": null,
+    "CONTACT": "6",
     "MICR": "400659002",
     "BANK": "SHINHAN BANK",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SHBK0000004": {
@@ -56,7 +59,8 @@
     "BANK": "SHINHAN BANK",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NEW DELHI",
+    "NEFT": true,
     "IMPS": true
   },
   "SHBK0000005": {
@@ -66,11 +70,12 @@
     "DISTRICT": "VELLORE",
     "STATE": "TAMIL NADU",
     "ADDRESS": "SHINHAN BANK, NO. 8 THIRUMALAI MUDALI STREET, WALAJPET 632 513, VELLORE DISTRICT, TAMILNADU",
-    "CONTACT": null,
+    "CONTACT": "278200",
     "BANK": "SHINHAN BANK",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "WALAJAPET",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -85,7 +90,8 @@
     "BANK": "SHINHAN BANK",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -100,7 +106,8 @@
     "BANK": "SHINHAN BANK",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RANGA REDDY",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -115,7 +122,8 @@
     "BANK": "SHINHAN BANK",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AHMEDABAD",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   }

@@ -1,18 +1,19 @@
 {
   "VSBL0000001": {
-    "BANK": "VISHESHWAR SAHAKARI BANK LTD.",
+    "BANK": "Vishweshwar Sahakari Bank",
     "IFSC": "VSBL0000001",
-    "BRANCH": "HEAD OFFICE",
+    "BRANCH": "Vishweshwar Sahakari Bank IMPS",
     "CENTRE": "PUNE",
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "471/472, MARKET YARD, GULTEKADI, PUNE 411037",
-    "CONTACT": null,
+    "CONTACT": "9881903711",
     "IMPS": true,
+    "CITY": "PUNE",
     "UPI": true,
     "MICR": "411335001",
     "RTGS": true,
-    "NEFT": false
+    "NEFT": true
   },
   "VSBL0000002": {
     "IFSC": "VSBL0000002",
@@ -21,12 +22,13 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "S.NO.169, SATYAPURAM,PUNE-SASWAD ROAD.,FURSUNGI, TAL.- HAVELI,DIST.- PUNE 412308",
-    "CONTACT": null,
+    "CONTACT": "9881909702",
     "MICR": "411335004",
     "BANK": "VISHESHWAR SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "FURSUNGI",
+    "NEFT": true,
     "IMPS": true
   },
   "VSBL0000003": {
@@ -36,12 +38,13 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "471/472, MARKET YARD, GULTEKADI, PUNE 411037",
-    "CONTACT": null,
+    "CONTACT": "9881909703",
     "MICR": "411335006",
     "BANK": "VISHESHWAR SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "VSBL0000004": {
@@ -51,12 +54,13 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "S.NO.14/1/A, PINAK SHOPPING COMPLEX, JEMS BAJAJ SHOWROOM BUILD,.PUNE-SATARA RD., DHANKWADI,PUNE  411 043",
-    "CONTACT": null,
+    "CONTACT": "9881909704",
     "MICR": "411335003",
     "BANK": "VISHESHWAR SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "VSBL0000005": {
@@ -66,12 +70,13 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "OFFICE NO. 1, SHRIRAM PALACE, S. NO. 82/3, OPP. STATE BANK OF MAYSORE, MAHLUGE - BANER ROAD, PUNE 411 045",
-    "CONTACT": null,
+    "CONTACT": "9881909705",
     "MICR": "411335002",
     "BANK": "VISHESHWAR SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "VSBL0000006": {
@@ -81,12 +86,13 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SECTOR NO.21, SCHEME NO.23/4,SANTKRIPA COMMERCIAL COMPLEX, 1ST FLOOR, YAMUNANAGAR,BEHIND BAJAJ AUTO, NIGDI, PUNE 411 044",
-    "CONTACT": null,
+    "CONTACT": "9881909706",
     "MICR": "411335007",
     "BANK": "VISHESHWAR SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NIGDI",
+    "NEFT": true,
     "IMPS": true
   },
   "VSBL0000007": {
@@ -96,12 +102,13 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "UNNATTI BUNGLOW, LOKMANYA COLONY, NEAR KINARA HOTEL, PAUD ROAD,KOTHKRUD, PUNE 411 029",
-    "CONTACT": null,
+    "CONTACT": "9881909707",
     "MICR": "411335008",
     "BANK": "VISHESHWAR SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "VSBL0000008": {
@@ -111,12 +118,13 @@
     "DISTRICT": "SOLAPUR",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "2219, VELAPURKAR  MAHARAJ MATH,BHAVAN ,GANESH ROAD,BARSHI, DIST.SOLAPUR",
-    "CONTACT": null,
+    "CONTACT": "9881909708",
     "MICR": "413335201",
     "BANK": "VISHESHWAR SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BARSHI",
+    "NEFT": true,
     "IMPS": true
   },
   "VSBL0000009": {
@@ -126,12 +134,13 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "2134, SADASHIV PETH,VIJAYANAGAR COLONY,NEAR GIRIJA HOTEL,PUNE 411030",
-    "CONTACT": null,
+    "CONTACT": "9881909709",
     "MICR": "411335009",
     "BANK": "VISHESHWAR SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "VSBL0000010": {
@@ -141,12 +150,13 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "35/2/2, KALAMBE COMPLEX, SINHGAD ROAD., VADGAON BK.,OPP. INDIAN HUME PIPE CO., PUNE- 411 051",
-    "CONTACT": null,
+    "CONTACT": "9881909710",
     "MICR": "411335010",
     "BANK": "VISHESHWAR SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "VSBL0000011": {
@@ -156,12 +166,13 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PATIL ARCADE', PLOT NO.15 A,SHOP NO.16,17 & 18,ERANDWANE, PUNE 411 004",
-    "CONTACT": null,
+    "CONTACT": "9881909711",
     "MICR": "411335011",
     "BANK": "VISHESHWAR SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "VSBL0000012": {
@@ -171,12 +182,13 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHRI GANESH COMPLEX, 15TH AUGUST CHOWK,NEAR LADKAT PETROL PUMP,PUNE  411011",
-    "CONTACT": null,
+    "CONTACT": "9881909712",
     "MICR": "411335012",
     "BANK": "VISHESHWAR SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "VSBL0000013": {
@@ -186,12 +198,13 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "680, BUDHWAR PETH,OPP JOGESHWARI MANDIR,APPA BALWANT CHOWK,PUNE 411 002",
-    "CONTACT": null,
+    "CONTACT": "9881909713",
     "MICR": "411335013",
     "BANK": "VISHESHWAR SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "VSBL0000014": {
@@ -201,12 +214,13 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "VISHWESHWAR INDUSTRIAL PREMISES CO.OP.SOC. LTD; SECTOR NO.7, PLOT NO.134/135, PRADHIKARAN,OPP. TIMES OF INDIA, BHOSARI,PUNE 411026",
-    "CONTACT": null,
+    "CONTACT": "9881909714",
     "MICR": "411335014",
     "BANK": "VISHESHWAR SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "VSBL0000015": {
@@ -216,12 +230,13 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PLATINUM CLASSIC,UNIT 8, S.NO. 50/2, KHARADI, PUNE- NAGAR ROAD,PUNE-411014",
-    "CONTACT": null,
+    "CONTACT": "9881909715",
     "MICR": "411335015",
     "BANK": "VISHESHWAR SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "VSBL0000016": {
@@ -231,12 +246,13 @@
     "DISTRICT": "BELGAUM",
     "STATE": "KARNATAKA",
     "ADDRESS": "ASHOKNAGAR, NIPANI , TAL. CHIKODI, DIST. BELGUM, STATE KARANATAKA -591237",
-    "CONTACT": null,
+    "CONTACT": "9881909736",
     "MICR": "591335302",
     "BANK": "VISHESHWAR SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NIPANI",
+    "NEFT": true,
     "IMPS": true
   },
   "VSBL0000018": {
@@ -246,12 +262,13 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.3,4, BWING, KAKADE PLAZA PHASE 2,WARJE PUNE- 411052",
-    "CONTACT": null,
+    "CONTACT": "9881909736",
     "MICR": "411335016",
     "BANK": "VISHESHWAR SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "VSBL0000019": {
@@ -261,12 +278,13 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "HOTEL SAVERA COMPOUND,  TALEGOAN CHOWK, PUNE NASIK ROAD, CHAKAN, TAL. KHED, DIST PUNE 410 501",
-    "CONTACT": null,
+    "CONTACT": "9881909718",
     "MICR": "411335017",
     "BANK": "VISHESHWAR SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHAKAN",
+    "NEFT": true,
     "IMPS": true
   },
   "VSBL0000020": {
@@ -276,12 +294,13 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.11,DIVYA HEIGHT,OPP.SINDHU PARK,S NO.05 RAHATANI JAGTAP DAIRY ROAD, PIMPLE SAUDAGAR, PUNE 411017",
-    "CONTACT": null,
+    "CONTACT": "9881909719",
     "MICR": "411335018",
     "BANK": "VISHESHWAR SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "VSBL0000021": {
@@ -296,7 +315,8 @@
     "BANK": "VISHESHWAR SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "VSBL0000022": {
@@ -311,7 +331,8 @@
     "BANK": "VISHESHWAR SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOLHAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "VSBL0000023": {
@@ -321,12 +342,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "H-32, Gat No.796, Plot No.2,Sector 19.APMC Market 1,Phase II,Vashi-Turbhe,Navi Mumbai 400705",
-    "CONTACT": null,
+    "CONTACT": "9881909722",
     "MICR": "400065253",
     "BANK": "VISHESHWAR SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NEW BOMBAY",
+    "NEFT": true,
     "IMPS": true
   },
   "VSBL0000024": {
@@ -341,7 +363,8 @@
     "BANK": "VISHESHWAR SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SATARA",
+    "NEFT": true,
     "IMPS": true
   },
   "VSBL0000025": {
@@ -356,7 +379,8 @@
     "BANK": "VISHESHWAR SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PANDHARPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "VSBL0000026": {
@@ -371,7 +395,8 @@
     "BANK": "VISHESHWAR SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "VSBL0000027": {
@@ -386,7 +411,8 @@
     "BANK": "VISHESHWAR SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "VSBL0000028": {
@@ -401,7 +427,8 @@
     "BANK": "VISHESHWAR SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SANGLI",
+    "NEFT": true,
     "IMPS": true
   },
   "VSBL0000029": {
@@ -416,7 +443,8 @@
     "BANK": "VISHESHWAR SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BELGAVI",
+    "NEFT": true,
     "IMPS": true
   },
   "VSBL0000099": {
@@ -426,12 +454,13 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "45/46, RAVIWAR PETH,KASTURE CHOWK,PUNE 411002",
-    "CONTACT": null,
+    "CONTACT": "9881909701",
     "MICR": "411335005",
     "BANK": "VISHESHWAR SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   }
 }

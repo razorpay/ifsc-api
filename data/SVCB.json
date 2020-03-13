@@ -1,17 +1,18 @@
 {
   "SVCB0000001": {
-    "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
+    "BANK": "Shamrao Vithal Co-operative Bank",
     "IFSC": "SVCB0000001",
-    "BRANCH": "Corporate Office",
+    "BRANCH": "Shamrao Vithal Co-operative Bank IMPS",
     "CENTRE": "MUMBAI",
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "S V C Tower, Nehru Road, Santacruz Mumbai 400055",
     "CONTACT": "02271991201",
     "IMPS": true,
+    "CITY": "MUMBAI",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "NEFT": true,
     "MICR": null
   },
   "SVCB0000002": {
@@ -21,11 +22,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Maker Towers'E',CuffeParade,Mumbai-400 005",
-    "CONTACT": null,
+    "CONTACT": "67444545",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -36,11 +38,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "C,Chitrapur CHS,27th Rd TPS III,Bandra(W), Mumbai 400 050",
-    "CONTACT": null,
+    "CONTACT": "26426280",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -51,11 +54,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Bal Vatsalaya Bldg,Kasturba Cross Rd no-1,Borivali,Mumbai-400 066",
-    "CONTACT": null,
+    "CONTACT": "28058425",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -66,11 +70,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "5,Kanara House,Mogal Lane,Mahim,Mumbai-400 016",
-    "CONTACT": null,
+    "CONTACT": "24379927",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -81,11 +86,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "H/2, Anandashram,Shamrao Vithal Marg,Mumbai-400 007",
-    "CONTACT": null,
+    "CONTACT": "23867924",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -96,11 +102,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Yamuna Sadan,Saki Vihar Rd,Sakinaka,Andheri(E),Mumbai-400 072",
-    "CONTACT": null,
+    "CONTACT": "28522508",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -111,11 +118,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "8/1,Saraswat Colony,Santacruz(W),Mumbai-400 054",
-    "CONTACT": null,
+    "CONTACT": "26600584",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -126,11 +134,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "A/3-4,Ganesh Prasad,Naushir Bharucha Marg,Mumbai-400 007",
-    "CONTACT": null,
+    "CONTACT": "23812092",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -141,11 +150,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Mani Villa,Nehru Road,VileParle(E),Mumbai-400 057",
-    "CONTACT": null,
+    "CONTACT": "26133210",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -156,11 +166,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "12,Udyog Nagar,Time Star Bldg,S V Rd,Goregaon,Mumbai-400 062",
-    "CONTACT": null,
+    "CONTACT": "28740578",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -171,11 +182,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "82/84,Anand Bldg,Kazi Syed Street,Mandvi,Mumbai-400 003",
-    "CONTACT": null,
+    "CONTACT": "23446206",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -186,11 +198,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "7,Sarkar Corner,J P Rd,Andheri(w),Mumbai-400 058",
-    "CONTACT": null,
+    "CONTACT": "26770151",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -201,11 +214,12 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Sai Vihar,Chhatrapati Shivaji Path,Shivaji Chawk,Kalyan-421 301",
-    "CONTACT": null,
+    "CONTACT": "2313479",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KALYAN",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -216,11 +230,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "G-6-8,Ganesh Kripa,RHB Rd,Mulund(w),Mumbai-400 080",
-    "CONTACT": null,
+    "CONTACT": "25605735",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -231,11 +246,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Sanskriti Park,Opp. Canossa High School,Andheri(E), Mumbai-400 093",
-    "CONTACT": null,
+    "CONTACT": "28370781",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -246,11 +262,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Jayant Arcade,Rajawadi Naka,Ghatkopar(E),Mumbai-400 077",
-    "CONTACT": null,
+    "CONTACT": "21027308",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -261,11 +278,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Kamala Nagar,M G Rd,Kandivali (W),Mumbai-400 067",
-    "CONTACT": null,
+    "CONTACT": "28634490",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -276,11 +294,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "913,Natasha Plazza,D K Sandhu Marg,Chembur,Mumbai-400 071",
-    "CONTACT": null,
+    "CONTACT": "25235389",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -291,11 +310,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "47/A,S M House Lourdes Colony,Orlem,Malad,Mumbai-400 064",
-    "CONTACT": null,
+    "CONTACT": "28069163",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -306,11 +326,12 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Royal Challenge Bldg,Mira-Bhayender Rd,Dist- Thane",
-    "CONTACT": null,
+    "CONTACT": "28122372",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -321,11 +342,12 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "11-12,Sita Vhiar,Damani Estate,Naupada,Thane(w)-400 602",
-    "CONTACT": null,
+    "CONTACT": "25338715",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -336,11 +358,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Jay Mangal Oil Complex,Plot-48-49,Phase II,Vashi,Turbhe-400 703",
-    "CONTACT": null,
+    "CONTACT": "27847651",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -351,11 +374,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Vanvaria Appt,2nd Road Corner,S V Rd,Khar(w),Mumbai-400 052",
-    "CONTACT": null,
+    "CONTACT": "26465991",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -366,11 +390,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": ": SVC Tower,Jawaharlal Nehru Road,Vakola Market, Santacruz (E),Mumbai  -400 055",
-    "CONTACT": null,
+    "CONTACT": "66999701",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -381,11 +406,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Saraswat colony,Dr.K.N.Marg,Grant Road,Mumbai-400 007",
-    "CONTACT": null,
+    "CONTACT": "23885013",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -396,11 +422,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "NIRMALA MEMORIAL FOUNDATION'S COLLEGE OF COMMERCE & SCIENCE,ASHA NAGAR,KANDIVILI(E),MUMBAI-400 101.TEL NO (022) 67256531-36",
-    "CONTACT": null,
+    "CONTACT": "67256531",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -411,11 +438,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GROUND FLOOR,LAXMI NARAYAN NIVAS (KANE BLDG),RANADE ROAD,DADAR,MUMBAI-400028 MAHARASHTRA.",
-    "CONTACT": null,
+    "CONTACT": "24320791",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -426,11 +454,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GROUND FLOOR,SHIVANI SANKUL VIDYABHUSHAN SHIKSHAN SANSTHA,SHIV VALLABH CROSS ROAD,ASHOK VAN,DAHISAR(E),MUMBAI-400 068",
-    "CONTACT": null,
+    "CONTACT": "28965761",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -441,11 +470,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOPS NO 31-34,34A & 34 B,HEERAMANI RATAN CHS,BANGUR NAGAR,GOREGAON(W),MUMBAI - 400090",
-    "CONTACT": null,
+    "CONTACT": "28712690",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -456,11 +486,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "BHUMIRAJ MANOR CHS LTD, SECTOR 14,SANPADA (EAST),NAVI MUMBAI",
-    "CONTACT": null,
+    "CONTACT": "27811791",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -476,7 +507,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000036": {
@@ -486,11 +518,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.15,16, & 17,GROUND FLOOR,   BLUE HEAVEN,PLOT NO 8-A,SECTOR NO 35, KAMOTHE,NAVI MUMBAI -410 206",
-    "CONTACT": null,
+    "CONTACT": "64562200",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -501,11 +534,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "WING\"A\" GROUND FLOOR,VAKRATUNDA PALACE, OFF L.B.S.MARG, TANK ROAD,MUMBAI 400078",
-    "CONTACT": null,
+    "CONTACT": "25962444",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -516,11 +550,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PLOT NO 19 & 19A, SHOP NO 5A TO 9A,SECTOR 11,KOPARKHAIRANE,NAVI MUMBAI -400 709",
-    "CONTACT": null,
+    "CONTACT": "27550151",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -531,11 +566,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GOVIND BLDG,SALASAR BRIJ BHOOMI,150FT ROAD,NEXT TO RELIANCE FRESH,NEAR FLYOVER, BHAYANDER WEST -401 101",
-    "CONTACT": null,
+    "CONTACT": "28193055",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -546,11 +582,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHAGUN SADHANA,GV SCHEME,ROAD NO 2,NEAR B.M.C.SCHOOL,MULUND(E),MUMBAI-400 081",
-    "CONTACT": null,
+    "CONTACT": "25636778",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -561,11 +598,12 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GURUKRIPA BUILDING,STATION ROAD,NEAR VASAI ROAD POST OFFICE,OPP.MANIKPUR CRICKET GROUND,VASAI WEST - 401 202",
-    "CONTACT": null,
+    "CONTACT": "2333012",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VASAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -576,11 +614,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "BUILDING NO. 10, M BARIA UNIQUE ,          TIRUPATI NAGAR , PHASE 2,                              UNITECH WESTEND ROAD,                 VIRAR (WEST) 401 303",
-    "CONTACT": null,
+    "CONTACT": "2512696",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -591,11 +630,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "KARISHMA PLAZA,PUSHPA PARK ,ROAD NO.1,NEAR ASHA HOSPITAL,MALAD EAST,MUMBAI -400097",
-    "CONTACT": null,
+    "CONTACT": "28441603",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -606,11 +646,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO 3,4,5 &101,BEAUTY ARCADE,KOLBAD CROSS ROAD,KHOPAT,THANE WEST- 400 602",
-    "CONTACT": null,
+    "CONTACT": "25472587",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -621,11 +662,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GALA NO.G-6,BUILDING NO.42, KRANTI CHS,NEHRU NAGAR,KURLA(EAST),MUMBAI-400 024",
-    "CONTACT": null,
+    "CONTACT": "25275007",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -636,11 +678,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "VIJAY NIWAS,PLOT NO 193 STATION ROAD,WADALA WEST MUMBAI 400031",
-    "CONTACT": null,
+    "CONTACT": "24160412",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -651,11 +694,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.09,10,11 GROUND FLOOR, HILLA TOWER CHS LTD. DR. S S ROAD MUMBAI 400 012.",
-    "CONTACT": null,
+    "CONTACT": "24700800",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -666,11 +710,12 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NOS.4A-C, GAJANAN KRUPA, SANT NAMDEV PATH, OFF. MANPADA ROAD, DOMBIVALI(E) 421201.",
-    "CONTACT": null,
+    "CONTACT": "2426578",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DOMBIVLI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -686,7 +731,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000050": {
@@ -696,11 +742,12 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Nandita,Jungli Maharaj Rd,Deccan Gymkhana,Pune-411 044,",
-    "CONTACT": null,
+    "CONTACT": "25538371",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -711,11 +758,12 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shop No-9-14,Chaphalkar Centre,Near Hotel Utsav,Pune-411 037",
-    "CONTACT": null,
+    "CONTACT": "24215075",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -726,11 +774,12 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "63,Sector 27A,Village Akurdi,PCNT,Nigdi,Pune-411 044",
-    "CONTACT": null,
+    "CONTACT": "27659285",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -741,11 +790,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.1-3, GROUND FLOOR, DELITE PALACE CHS LTD., PLOT NO.71/7, M G ROAD, GHATKOPAR(W), MUMBAI-400086.",
-    "CONTACT": null,
+    "CONTACT": "25103366",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -756,11 +806,12 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GROUND FLOOR, SHOP NO.3B, NIRAJ PARK, KHADAKPADA, KALYAN (W) THANE 421301.",
-    "CONTACT": null,
+    "CONTACT": "2305544",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KALYAN",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -771,11 +822,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "KESAR RESIDENCY, SECTOR-3, NEXT TO BHAGWATI RESTAURANT, CHARKOP, KANDIVALI(W), MUMBAI- 400 067.",
-    "CONTACT": null,
+    "CONTACT": "28682570",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -786,11 +838,12 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GROUND & FIRST FLOOR, AAI BUILDING, VYANKATESH PARK, SANEWADI, KULGAON, BADLAPUR (W) 421 053.",
-    "CONTACT": null,
+    "CONTACT": "6483116",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -801,11 +854,12 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GROUND FLOOR, SHOP NOS. 1-7, VARU ENCLAVE BUILDING, HARI GOVIND NAGAR, PHULPADA ROAD, VIRAR (EAST), THANE-401 303",
-    "CONTACT": null,
+    "CONTACT": "2520298",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VIRAR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -816,11 +870,12 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "UNIT NO.05,SUN MAGNETICA, LOUISWADI, NEAR LIC OFFICE, SERVICE ROAD, THANE (W), THANE 400 604.",
-    "CONTACT": null,
+    "CONTACT": "25800051",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -831,11 +886,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.01, SAROJ BUILDING, 10, VALLABHAAI PATEL ROAD, VILE PARLE (W), MUMBAI 400 056.",
-    "CONTACT": null,
+    "CONTACT": "26124028",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -846,11 +902,12 @@
     "DISTRICT": "BANGALORE URBAN",
     "STATE": "KARNATAKA",
     "ADDRESS": "49/1,5yh Cross Rd,Malleshwaram,Bangalore-560 003",
-    "CONTACT": null,
+    "CONTACT": "23441629",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -861,11 +918,12 @@
     "DISTRICT": "BANGALORE URBAN",
     "STATE": "KARNATAKA",
     "ADDRESS": "KSSIDC Multistoreyed Bldg,Peenya Ind. Est.Bangalore-560 058",
-    "CONTACT": null,
+    "CONTACT": "28399355",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -876,11 +934,12 @@
     "DISTRICT": "BANGALORE URBAN",
     "STATE": "KARNATAKA",
     "ADDRESS": "815/23,17th'E',Main Rd,5th Block,Rajaji Nagar,Bangalore-560 010,",
-    "CONTACT": null,
+    "CONTACT": "23403271",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -891,11 +950,12 @@
     "DISTRICT": "BANGALORE URBAN",
     "STATE": "KARNATAKA",
     "ADDRESS": "780,Esszed Meridian,80 ft.Rd,Block-4,Koramangala,Bangalore,",
-    "CONTACT": null,
+    "CONTACT": "25503861",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -906,11 +966,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "UNIT NO. G-02, GROUND FLOOR, VALUE ENCLAVE, AMBEDKAR ROAD, SION, MUMBAI-400022.",
-    "CONTACT": null,
+    "CONTACT": "24078010",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -921,12 +982,13 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NOS.2, BLDG. NO.F-2, VIJAYNAGARNITYANAND MARG,VIJAYNAGAR CHS LTD., ANDHERI (EAST), MUMBAI-400069.",
-    "CONTACT": null,
+    "CONTACT": "26832611",
     "MICR": "400089058",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000066": {
@@ -936,12 +998,13 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.1-3,KAILASH COMMERCIAL COMPLEX,NEAR EVEREST FACTORY, LBS MARG, VIKROLI (WEST) MUMBAI-400083.",
-    "CONTACT": null,
+    "CONTACT": "25778022",
     "MICR": "400089059",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000067": {
@@ -951,11 +1014,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NOS.3-5,SHREE SAGVAN CHS LTD., RTO LANE, FOUR BANGALOWS, ANDHERI (WEST), MUMBAI-400053.",
-    "CONTACT": null,
+    "CONTACT": "26311037",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -966,12 +1030,13 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.10,BHAKTI HEIGHTS, CHEMBUR SANDESH CHS LTD., BLDG. NO.122, TILAKNAGAR CHEMBUR, MUMBAI-400089.",
-    "CONTACT": null,
+    "CONTACT": "25272218",
     "MICR": "400089061",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000069": {
@@ -981,12 +1046,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NOS.5-8, SHUBHARAMBH COMPLEX, PLOT NO.19,SECTOR 20, KHARGHAR, NAVI MUMBAI 410210",
-    "CONTACT": null,
+    "CONTACT": "65307070",
     "MICR": "400089062",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NEW BOMBAY",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000070": {
@@ -996,11 +1062,12 @@
     "DISTRICT": "DAKSHIN KANNAD",
     "STATE": "KARNATAKA",
     "ADDRESS": "G-7,Crystal Arc,Balmatta Rd,Mangalore-575 001,",
-    "CONTACT": null,
+    "CONTACT": "2441263",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MANGALORE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1011,11 +1078,12 @@
     "DISTRICT": "UTTAR KANNAD",
     "STATE": "KARNATAKA",
     "ADDRESS": "Bldg-8/3,Ward-5,M H  no-17,Shirali,Tal-Bhatkal,Dist-Uttarakannada,",
-    "CONTACT": null,
+    "CONTACT": "258570",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHATKAL",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1026,12 +1094,13 @@
     "DISTRICT": "RAIGAD",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Ground Floor,Shop No. G-9 H, Havare Centurion, Plot No. 88 to 91, Sector 19, Nerul East, Navi Mumbai 400 706.",
-    "CONTACT": null,
+    "CONTACT": "27725040",
     "MICR": "400089066",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KAMOTHE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000073": {
@@ -1041,12 +1110,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Ground Floor,Kishore Plaza,Old Mumbai – Pune Road, Kalwa,Thane – 400 605",
-    "CONTACT": null,
+    "CONTACT": "25362870",
     "MICR": "400089067",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000074": {
@@ -1061,7 +1131,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000075": {
@@ -1076,7 +1147,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NALLASOPARA",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000076": {
@@ -1091,7 +1163,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000077": {
@@ -1106,7 +1179,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000078": {
@@ -1116,12 +1190,13 @@
     "DISTRICT": "RAIGAD",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Ground Floor, Sutar Tower, Plot No.D4, Sector 20, Airoli, Navi Mumbai 400 708.",
-    "CONTACT": null,
+    "CONTACT": "27792433",
     "MICR": "400089069",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KAMOTHE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000079": {
@@ -1131,12 +1206,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shop Nos.1-3, Land View Co-operative Housing Society Ltd., Opp. Maratha Bhavan, Sector 15 Vashi, Navi Mumbai-400 705.",
-    "CONTACT": null,
+    "CONTACT": "27880561",
     "MICR": "400089070",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NEW BOMBAY",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000080": {
@@ -1146,11 +1222,12 @@
     "DISTRICT": "NORTH GOA",
     "STATE": "GOA",
     "ADDRESS": "Midas Touch Bldg,1st Flr,MarketArea,Panjim,Goa-403 001",
-    "CONTACT": null,
+    "CONTACT": "2432552",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PANAJI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1161,12 +1238,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GROUND FLOOR,  PITRE BUILDING, PHADKE ROAD, DOMBIVALI (EAST), THANE – 421 201",
-    "CONTACT": null,
+    "CONTACT": "6064100",
     "MICR": "400089071",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DOMBIVLI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000082": {
@@ -1176,12 +1254,13 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GROUND FLOOR, MURARRAO RANE HIGH SCHOOL BLDG., ROAD NO.3, PANDURANGWADI, GOREGAON (E), MUMBAI – 400063.",
-    "CONTACT": null,
+    "CONTACT": "28712145",
     "MICR": "400089072",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000083": {
@@ -1191,12 +1270,13 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Unit No. 1 & 2, Gr. FLOOR, AALAP CHS LTD, Plot No. 173,SIR BHALCHANDRA ROAD, DADAR (EAST), MUMBAI – 400 014",
-    "CONTACT": null,
+    "CONTACT": "24144086",
     "MICR": "400089073",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000084": {
@@ -1206,12 +1286,13 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.2&3, CREST AVENUE CHS, AT L.T.ROAD, VAZIRA NAKA, BORIVALI(WEST), MUMBAI –400092",
-    "CONTACT": null,
+    "CONTACT": "71999999",
     "MICR": "400089075",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000085": {
@@ -1226,7 +1307,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000086": {
@@ -1236,12 +1318,13 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GROUND FLOOR, SHOP NO 1,2&2A, VIKAS COMMERCIAL CENTRE, DR.C G ROAD, CHEMBUR, MUMBAI-400074",
-    "CONTACT": null,
+    "CONTACT": "71999999",
     "MICR": "400089077",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000087": {
@@ -1256,7 +1339,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MYSORE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000088": {
@@ -1266,11 +1350,28 @@
     "DISTRICT": "DHARWAD",
     "STATE": "KARNATAKA",
     "ADDRESS": "GROUND FLOOR,THEJA MAHAL, CTS NO.150/A, MARKET FORT, OPP. REGAL TALKIES, VIJAYARD,NEAR CBT, DHARWAD -580 001.",
-    "CONTACT": null,
+    "CONTACT": "2447373",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HUBLI-DHARWAD",
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
+  },
+  "SVCB0000089": {
+    "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
+    "IFSC": "SVCB0000089",
+    "BRANCH": "WORLI",
+    "ADDRESS": "SHOP NO 8-10, GROUND FLOOR, RAMODIYA MANSION NO 1, 257, OFF DR ANNIE BESANT ROAD, WORLI, MUMBAI- 400025",
+    "CONTACT": "24365468",
+    "CITY": "GREATER BOMBAY",
+    "DISTRICT": "MUMBAI",
+    "STATE": "MAHARASHTRA",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
@@ -1281,11 +1382,12 @@
     "DISTRICT": "DHARWAD",
     "STATE": "KARNATAKA",
     "ADDRESS": "Gnd Flr,Satellite Space Age complex,Koppikar Rd,Hubali-580 020,",
-    "CONTACT": null,
+    "CONTACT": "2366973",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HUBLI-DHARWAD",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1296,11 +1398,12 @@
     "DISTRICT": "BELGAUM",
     "STATE": "KARNATAKA",
     "ADDRESS": "AASHRAYA EMPIRE, JUNCTION OF KHANAPUR ROAD & DESHMUKH ROAD (RPD CORNER),TILAKWADI, BELGAUM-590006",
-    "CONTACT": null,
+    "CONTACT": "2461448",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BELGAUM",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1311,11 +1414,12 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Pune",
-    "CONTACT": null,
+    "CONTACT": "26833949",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1326,11 +1430,12 @@
     "DISTRICT": "BANGALORE URBAN",
     "STATE": "KARNATAKA",
     "ADDRESS": "Banglore",
-    "CONTACT": null,
+    "CONTACT": "23218189",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1341,11 +1446,12 @@
     "DISTRICT": "NASIK",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Nashik",
-    "CONTACT": null,
+    "CONTACT": "2461168",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NASHIK",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1356,11 +1462,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "IES Extn Counter,New English High School,Govt. Colony, Bandra (E),Mumbai-400 051.",
-    "CONTACT": null,
+    "CONTACT": "26571951",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1371,11 +1478,12 @@
     "DISTRICT": "DAKSHIN KANNAD",
     "STATE": "KARNATAKA",
     "ADDRESS": "Saraswat Education Soc.,Ganapathy High School Rd,Mangalore-575 001.",
-    "CONTACT": null,
+    "CONTACT": "2420382",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MANGALORE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1386,11 +1494,12 @@
     "DISTRICT": "BANGALORE URBAN",
     "STATE": "KARNATAKA",
     "ADDRESS": "Triveni Memorial Educational Trust,28/29,Hessargatta Main Rd,Malla Sandra,Peenya,Bangalore-560057",
-    "CONTACT": null,
+    "CONTACT": "28393699",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1401,11 +1510,12 @@
     "DISTRICT": "BANGALORE URBAN",
     "STATE": "KARNATAKA",
     "ADDRESS": "Sri. Vidya Mandhir Education Sco.,11th Cross,6th Main,Malleshwarm,Bangalore-560 003.",
-    "CONTACT": null,
+    "CONTACT": "23316709",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1421,7 +1531,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000100": {
@@ -1431,11 +1542,12 @@
     "DISTRICT": "NASIK",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "L-15 &G-16,Utility Centre,N M C Sharanpur Rd,Nashik-422 001,",
-    "CONTACT": null,
+    "CONTACT": "2311618",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NASHIK",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1446,11 +1558,12 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Pune",
-    "CONTACT": null,
+    "CONTACT": "26052659",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1461,11 +1574,12 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Pune",
-    "CONTACT": null,
+    "CONTACT": "26630855",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1481,7 +1595,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000104": {
@@ -1491,11 +1606,12 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SURVEY NO 61,NARMADA HEIGHTS,D.P. ROAD,SHOP NO 2/3/4,KOTHRUD- 411 038",
-    "CONTACT": null,
+    "CONTACT": "25386889",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1506,11 +1622,12 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SNEH VISHWA PALACE,SECTOR NO 1, NEAR HOTEL HAVELI, NASHIK- PUNE HIGHWAY, INDRAYANI NAGAR, BHOSARI,PUNE 411 026",
-    "CONTACT": null,
+    "CONTACT": "27230222",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1521,11 +1638,12 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "635/1B,NEW GAJRA SOCIETY, BIBWEWADI, PUNE-411037.",
-    "CONTACT": null,
+    "CONTACT": "24410992",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1541,7 +1659,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000108": {
@@ -1551,11 +1670,12 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "VADGAON BUDRUK, MANIK BAUG, SINHAGAD ROAD,PUNE-411041.",
-    "CONTACT": null,
+    "CONTACT": "24355004",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1566,11 +1686,12 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GROUND FLOOR, TUPE COMPLEX, SR. NO. 84, HISA NO.04&05,VILLAGE HADAPSAR, TALUKA HAVELI,PUNE-411028.",
-    "CONTACT": null,
+    "CONTACT": "26811401",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HADAPSAR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1581,11 +1702,12 @@
     "DISTRICT": "AURANGABAD",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Rajendra Bhavan,1,Opp. Hotel Ashoka,Adalat Rd,Aurangabad-431 001,",
-    "CONTACT": null,
+    "CONTACT": "2324929",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AURANGABAD",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1596,11 +1718,12 @@
     "DISTRICT": "AHMADNAGAR",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "\"MARC HOUSE\", PLOT NO.95/1,    TOWN PLANNING SCHEME NO.IV, OPP. DATTA MANDIR, NAGAR MANMAD ROAD, SAVEDI, AHMEDNAGAR-414002.",
-    "CONTACT": null,
+    "CONTACT": "2430422",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AHMADNAGAR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1611,11 +1734,12 @@
     "DISTRICT": "LATUR",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "24/3-28,UKKA MARK, CHANDRA NAGAR, OPP. BASAVESHWAR MANGAL KARYALAYA, LATUR 413512.",
-    "CONTACT": null,
+    "CONTACT": "250257",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "LATUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1626,11 +1750,12 @@
     "DISTRICT": "JALNA",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GROUND FLOOR, PLOT NO.27, BHOKARDAN ROAD, JALNA, 431203.",
-    "CONTACT": null,
+    "CONTACT": "242011",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JALNA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1646,7 +1771,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "INDORE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000115": {
@@ -1656,12 +1782,13 @@
     "DISTRICT": "AURANGABAD",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Plot No.P-102,Meenatai Thakre Market, Bajaj Nagar, Maharanapratap Chowk, Waluj Aurangabad 431136.",
-    "CONTACT": null,
+    "CONTACT": "2554928",
     "MICR": "431089004",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "WALUJ",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000116": {
@@ -1671,12 +1798,13 @@
     "DISTRICT": "SOLAPUR",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.5 & 6, SUN PLAZA, CITY SURVEY NO.8516/11, MURARJI PETH, SOLAPUR- 413002",
-    "CONTACT": null,
+    "CONTACT": "2724263",
     "MICR": "413089002",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SOLAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000117": {
@@ -1691,7 +1819,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RATNAGIRI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000118": {
@@ -1706,7 +1835,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NANDED",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000119": {
@@ -1716,12 +1846,13 @@
     "DISTRICT": "AMRAVATI",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GROUND FLOOR, LATHIYA’S COMPLEX, AUTO LANE, AMBE PETH, AMRAVATI-  444601",
-    "CONTACT": null,
+    "CONTACT": "8605505894",
     "MICR": "444089101",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AMRAVATI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000120": {
@@ -1731,11 +1862,12 @@
     "DISTRICT": "NAGPUR",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "39, VRINDA KUNJ,MATAMANDIR ROAD,DHARAMPETH,NAGPUR -440 010",
-    "CONTACT": null,
+    "CONTACT": "2542195",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NAGPUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1746,11 +1878,12 @@
     "DISTRICT": "NAGPUR",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SURAJ SADAN, PLOT NO.10,C.A. ROAD, OPP. SOUTH GATE, GANDHIBAGH, NAGPUR (EAST) 440008.",
-    "CONTACT": null,
+    "CONTACT": "2734077",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NAGPUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1766,7 +1899,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "INDORE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000123": {
@@ -1781,7 +1915,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MARGAO",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000124": {
@@ -1796,8 +1931,25 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
+  },
+  "SVCB0000125": {
+    "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
+    "IFSC": "SVCB0000125",
+    "BRANCH": "PAUD ROAD",
+    "ADDRESS": "GROUND FLOOR, SHOP NO 1 & 2, VASANT PUSHP, RAJPATH HOUSING SOCIETY, PLOT NO 22, OFF PAUD ROAD, PUNE- 411038",
+    "CONTACT": "25390023",
+    "CITY": "PUNE",
+    "DISTRICT": "PUNE",
+    "STATE": "MAHARASHTRA",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "SVCB0000126": {
     "IFSC": "SVCB0000126",
@@ -1811,7 +1963,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000127": {
@@ -1821,12 +1974,13 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GROUND FLOOR, SHOP.NO.9, SPANDAN, WARJE MALWADI, PUNE -411058",
-    "CONTACT": null,
+    "CONTACT": "25236222",
     "MICR": "411089019",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "WARJE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000128": {
@@ -1841,7 +1995,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BALEWADI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000129": {
@@ -1851,12 +2006,13 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Ground & First Floor, Ramchandra Appartments, Tawre Colony,47/31 C, Aranyeshwar, Sahakar Nagar, Pune 411009.",
-    "CONTACT": null,
+    "CONTACT": "24222552",
     "MICR": "411089017",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000130": {
@@ -1866,11 +2022,12 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "LAXMAN HEIGHTS, CTS NO. 833, SADASHIV PETH,,PUNE-411030.",
-    "CONTACT": null,
+    "CONTACT": "24440002",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1886,8 +2043,25 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
+  },
+  "SVCB0000132": {
+    "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
+    "IFSC": "SVCB0000132",
+    "BRANCH": "PODDAR ROAD",
+    "ADDRESS": "SHOP NO 1 & 2, GROUND FLOOR, GANGA VIHAR B, PODDAR ROAD, SANTACRUZ WEST, MUMBAI- 400054",
+    "CONTACT": "26194572",
+    "CITY": "GREATER BOMBAY",
+    "DISTRICT": "MUMBAI",
+    "STATE": "MAHARASHTRA",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "SVCB0000133": {
     "IFSC": "SVCB0000133",
@@ -1901,7 +2075,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DOMBIVLI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000134": {
@@ -1916,7 +2091,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MIRA-BHAYANDAR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000135": {
@@ -1926,12 +2102,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GROUND FLOOR, A1/A2/A4, NEW MANISH C.H.S., EVERSHINE CITY, VASAI EAST, THANE – 401 208",
-    "CONTACT": null,
+    "CONTACT": "9820485436",
     "MICR": "480089080",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VASAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000136": {
@@ -1946,7 +2123,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000137": {
@@ -1961,7 +2139,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000138": {
@@ -1976,7 +2155,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PANVEL",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000139": {
@@ -1991,7 +2171,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000140": {
@@ -2006,7 +2187,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000141": {
@@ -2021,7 +2203,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KALYAN",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000142": {
@@ -2036,7 +2219,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000143": {
@@ -2046,12 +2230,13 @@
     "DISTRICT": "AHMADABAD",
     "STATE": "GUJARAT",
     "ADDRESS": "UNIT NO. 18, PRIMATE COMPLEX, NR. JUDGES BUNGALOW CROSS ROAD,  SATELLITE,  AHMEDABAD – 380 015",
-    "CONTACT": null,
+    "CONTACT": "9978584222",
     "MICR": "380089003",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AHMEDABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000144": {
@@ -2061,12 +2246,13 @@
     "DISTRICT": "BHARUCH",
     "STATE": "GUJARAT",
     "ADDRESS": "SHOP NO.12, SILVER SQUARE, LINK ROAD, BHARUCH -392001",
-    "CONTACT": null,
+    "CONTACT": "71999999",
     "MICR": "392089001",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHARUCH",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000145": {
@@ -2076,12 +2262,13 @@
     "DISTRICT": "VADODARA",
     "STATE": "GUJARAT",
     "ADDRESS": "GROUND & 1ST FLOOR, KAPADIA HOUSE, 1- DEEPAVALI SOCIETY, WATER TANK MAIN ROAD, KARELIBAUG, VADODARA 390018",
-    "CONTACT": null,
+    "CONTACT": "2490911",
     "MICR": "390089003",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VADODARA",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000146": {
@@ -2091,12 +2278,13 @@
     "DISTRICT": "RAJKOT",
     "STATE": "GUJARAT",
     "ADDRESS": "Ground Floor, Mangaltirth,Yoginiketan Plot, Nirmala Convent Road, Rajkot-360007",
-    "CONTACT": null,
+    "CONTACT": "6554141",
     "MICR": "360089002",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RAJKOT",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000147": {
@@ -2106,12 +2294,13 @@
     "DISTRICT": "VALSAD",
     "STATE": "GUJARAT",
     "ADDRESS": "Ground Floor, Shanti Complex,Shop No.7&8, Plot No.P-50/1,Gunjan Main Road, GIDC, Vapi – 396 195",
-    "CONTACT": null,
+    "CONTACT": "2400810",
     "MICR": "396089031",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VAPI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000148": {
@@ -2126,7 +2315,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AHMEDABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000149": {
@@ -2136,11 +2326,12 @@
     "DISTRICT": "SURAT",
     "STATE": "GUJARAT",
     "ADDRESS": "40/41,HIGHER GROUND FLOOR,RAGHUNANDAN TEXTILE MARKET,RING ROAD,SALABATPURA,SURAT-395 002",
-    "CONTACT": null,
+    "CONTACT": "2363633",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SURAT",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -2151,11 +2342,12 @@
     "DISTRICT": "VADODARA",
     "STATE": "GUJARAT",
     "ADDRESS": "SHREE COMPLEX, SHRENIK PARK CROSS ROAD,PRODUCTIVITY ROAD,AKOTA,VADODRA-390020",
-    "CONTACT": null,
+    "CONTACT": "2351370",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VADODARA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -2166,11 +2358,12 @@
     "DISTRICT": "BANGALORE URBAN",
     "STATE": "KARNATAKA",
     "ADDRESS": "1,CENTRAL BANK ROAD,CHAMRAJPET, BANGALORE-560 018",
-    "CONTACT": null,
+    "CONTACT": "26678718",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -2181,11 +2374,12 @@
     "DISTRICT": "BANGALORE URBAN",
     "STATE": "KARNATAKA",
     "ADDRESS": "27,MOUNT JOY ROAD,HANUMANTH NAGAR, BANGALORE-560 019",
-    "CONTACT": null,
+    "CONTACT": "26603990",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -2196,11 +2390,12 @@
     "DISTRICT": "BANGALORE URBAN",
     "STATE": "KARNATAKA",
     "ADDRESS": "921/66,28TH MAIN ROAD,9TH BLOCK, BANGALORE - 560 069",
-    "CONTACT": null,
+    "CONTACT": "26542043",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -2211,11 +2406,12 @@
     "DISTRICT": "BANGALORE URBAN",
     "STATE": "KARNATAKA",
     "ADDRESS": "292,7TH BLOCK,4TH STAGE,3RD PHASE,100 FEET ROAD, BANASHANKARI, BANGALORE-560 085",
-    "CONTACT": null,
+    "CONTACT": "26791859",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -2226,11 +2422,12 @@
     "DISTRICT": "BANGALORE URBAN",
     "STATE": "KARNATAKA",
     "ADDRESS": "6,80 FEET ROAD,CHANDRA LAYOUT,MARUTHI NAGAR,BANGALORE- 560 072",
-    "CONTACT": null,
+    "CONTACT": "23397210",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -2241,11 +2438,12 @@
     "DISTRICT": "BANGALORE URBAN",
     "STATE": "KARNATAKA",
     "ADDRESS": "342/18,BYTARAYANAPURA,MYSORE ROAD BANGALORE-560 026,",
-    "CONTACT": null,
+    "CONTACT": "26753482",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -2256,11 +2454,12 @@
     "DISTRICT": "BANGALORE URBAN",
     "STATE": "KARNATAKA",
     "ADDRESS": "18/3,(OLD NO 19,20) NEAR GANGA NAGAR BUS STAND,R.T.NAGAR POST,BANGALORE-560 032",
-    "CONTACT": null,
+    "CONTACT": "23639789",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -2271,11 +2470,12 @@
     "DISTRICT": "BANGALORE URBAN",
     "STATE": "KARNATAKA",
     "ADDRESS": "153,9TH CROSS.1ST STAGE,INDIRA NAGAR, BANGALORE-560 038",
-    "CONTACT": null,
+    "CONTACT": "25251853",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -2286,11 +2486,12 @@
     "DISTRICT": "BANGALORE URBAN",
     "STATE": "KARNATAKA",
     "ADDRESS": "451/21,TRIVENI ROAD,5TH MAIN ROAD,6TH CROSS,YESHWANTHPUR, BANGALORE-560 022",
-    "CONTACT": null,
+    "CONTACT": "23571244",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -2301,11 +2502,12 @@
     "DISTRICT": "BANGALORE URBAN",
     "STATE": "KARNATAKA",
     "ADDRESS": "38/F.V GIRIYAPPA COMPLEX, 80FT ROAD,BASAVESHWARANAGER, BANGALORE-560 079",
-    "CONTACT": null,
+    "CONTACT": "23287380",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -2321,7 +2523,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NASHIK",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000163": {
@@ -2336,7 +2539,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NASHIK",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000164": {
@@ -2346,11 +2550,12 @@
     "DISTRICT": "NASIK",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PARSHWANATH CHS LTD,NEAR SYMBIOSIS COLLEGE,PLOT NO 29,SECTOR S.S.A.1N.H.SHRAWAN SECTOR,AMBAD CIDCO,NASHIK-422 009 TEL NO.(0253)6611693-6611699",
-    "CONTACT": null,
+    "CONTACT": "6611691",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NASHIK",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -2361,11 +2566,12 @@
     "DISTRICT": "JALGAON",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GROUND FLOOR, F.P.43/1 OF T.P.II, VISANJI NAGAR, OFF BANK STREET, JALGAON, 425001.",
-    "CONTACT": null,
+    "CONTACT": "2236540",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JALGAON",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -2376,11 +2582,12 @@
     "DISTRICT": "AKOLA",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.4, NAZUL PLOT NO.5, NAKSHATRA SANKUL, UMRI ROAD, JATHARPETH, AKOLA 444005.",
-    "CONTACT": null,
+    "CONTACT": "2490348",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AKOLA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -2396,7 +2603,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DHULE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000168": {
@@ -2411,7 +2619,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHOPAL",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000169": {
@@ -2426,7 +2635,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AURANGABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000170": {
@@ -2441,7 +2651,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "UDUPI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000171": {
@@ -2456,7 +2667,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000172": {
@@ -2471,7 +2683,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000173": {
@@ -2486,7 +2699,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TUMKUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000174": {
@@ -2501,7 +2715,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000175": {
@@ -2511,11 +2726,12 @@
     "DISTRICT": "CHENNAI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "15,C BLOCK,6TH STREET,NEAR CHINTAMANI SIGNAL,ANNANAGAR(E),CHENNAI - 600 102",
-    "CONTACT": null,
+    "CONTACT": "26208998",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHENNAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -2526,11 +2742,12 @@
     "DISTRICT": "CHENNAI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "MOOTHA CENTRE, KADAMBAKKAM HIGH ROAD, NUNGAMBAKKAM, CHENNAI 600034.",
-    "CONTACT": null,
+    "CONTACT": "28218899",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHENNAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -2541,12 +2758,13 @@
     "DISTRICT": "COIMBATORE",
     "STATE": "TAMIL NADU",
     "ADDRESS": "Gr. Floor, Plot No.1176, Trichy Road, Sungam Circle, Ramnathpuram, Coimbatore, Tamil Nadu-641045.",
-    "CONTACT": null,
+    "CONTACT": "2322217",
     "MICR": "641089002",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "COIMBATORE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000178": {
@@ -2561,7 +2779,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ALAGAPURAM",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000181": {
@@ -2576,7 +2795,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000182": {
@@ -2591,7 +2811,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DOMBIVLI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000183": {
@@ -2606,7 +2827,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NALLASOPARA",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000184": {
@@ -2621,7 +2843,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000185": {
@@ -2636,7 +2859,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000186": {
@@ -2651,7 +2875,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BOISAR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000187": {
@@ -2666,7 +2891,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000191": {
@@ -2681,7 +2907,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000192": {
@@ -2696,7 +2923,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000196": {
@@ -2711,7 +2939,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KHAMGAON",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000199": {
@@ -2726,7 +2955,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SATARA",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000200": {
@@ -2736,11 +2966,12 @@
     "DISTRICT": "SATARA",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "DR.KANTAK'S E.N.T.HOSPITAL, BUDHWAR PETH,STATION ROAD,KARAD",
-    "CONTACT": null,
+    "CONTACT": "226623",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KARAD",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -2751,11 +2982,12 @@
     "DISTRICT": "KOLHAPUR",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "DAIMA BHUVAN, ICHALKARANJI, TALUKA HATKANANGALE, DIST.KOLHAPUR -416 115",
-    "CONTACT": null,
+    "CONTACT": "2424126",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ICHALKARNJI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -2766,11 +2998,12 @@
     "DISTRICT": "KOLHAPUR",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "LAXMIPURI, 1522C LAXMIPURI, KOLHAPUR",
-    "CONTACT": null,
+    "CONTACT": "2642195",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOLHAPUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -2781,11 +3014,12 @@
     "DISTRICT": "KOLHAPUR",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHAUPURI BRANCH, 681 E- SHAUPURI, 2ND LANE, VYAPAR PETH, MAHAVIR CHOWK, KOLHAPUR",
-    "CONTACT": null,
+    "CONTACT": "3209803",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOLHAPUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -2796,11 +3030,12 @@
     "DISTRICT": "KOLHAPUR",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "JAISINGPUR BRANCH, STATION ROAD, 8TH LANE, TALUKA SHIROLI, DIST KOLHAPUR",
-    "CONTACT": null,
+    "CONTACT": "225245",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOLHAPUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -2811,11 +3046,12 @@
     "DISTRICT": "KOLHAPUR",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MAHAVIR NAGAR, ROKALE LANE, PALKAR BLDG, SANGALI",
-    "CONTACT": null,
+    "CONTACT": "2304449",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOLHAPUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -2831,7 +3067,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JODHPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000249": {
@@ -2841,12 +3078,13 @@
     "DISTRICT": "JAIPUR",
     "STATE": "RAJASTHAN",
     "ADDRESS": "GROUND FLOOR, PLOT NO.K-11(B), ASHOK MARG, C-SCHEME, JAIPUR-302001",
-    "CONTACT": null,
+    "CONTACT": "9829244220",
     "MICR": "302089002",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JAIPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000250": {
@@ -2861,7 +3099,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DELHI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000251": {
@@ -2871,11 +3110,12 @@
     "DISTRICT": "DELHI",
     "STATE": "DELHI",
     "ADDRESS": "25/36 EAST PATEL NAGAR, NEW DELHI 110008.",
-    "CONTACT": null,
+    "CONTACT": "25753864",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DELHI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -2891,7 +3131,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "FARIDABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000301": {
@@ -2901,11 +3142,12 @@
     "DISTRICT": "HYDERABAD",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "#172, SAI TEMPLE STREETDWARKAPURI COLONY,PUNJAGUTTA,HYDERABAD- 82",
-    "CONTACT": null,
+    "CONTACT": "23352057",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -2921,7 +3163,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SECUNDERABAD CANTONMENT",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0000303": {
@@ -2936,23 +3179,25 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VIJAYAWADA",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0001002": {
-    "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
+    "BANK": "Hindusthan Co-operative Bank",
     "IFSC": "SVCB0001002",
-    "BRANCH": "HINDUSTAN COOP BK-LOKHAND BAZAR ",
+    "BRANCH": "Hindusthan Co-operative Bank IMPS",
     "CENTRE": "MUMBAI",
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "205, SANT TUKARAM ROAD,  LOKHAND BAZAR, MASJID (EAST), MUMBAI-400 009.",
     "CONTACT": "23480131",
     "IMPS": true,
+    "CITY": "MUMBAI",
     "UPI": true,
     "MICR": "400801002",
     "RTGS": true,
-    "NEFT": false
+    "NEFT": true
   },
   "SVCB0001003": {
     "IFSC": "SVCB0001003",
@@ -2966,7 +3211,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0001004": {
@@ -2981,7 +3227,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0001005": {
@@ -2996,7 +3243,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0001006": {
@@ -3006,12 +3254,13 @@
     "DISTRICT": "RAIGAD",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "HINDUSTHAN BANK BHAVAN, SECTOR NO.8, PLOT NO.11, OPP. M.G.M. HOSPITAL, KALAMBOLI, NAVI MUMBAI 410 218.",
-    "CONTACT": null,
+    "CONTACT": "27420003",
     "MICR": "400801007",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KALAMBOLI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0001007": {
@@ -3026,7 +3275,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KALYAN",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0001008": {
@@ -3041,7 +3291,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0001009": {
@@ -3056,7 +3307,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0001010": {
@@ -3071,7 +3323,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DOMBIVLI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0001011": {
@@ -3086,7 +3339,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0001012": {
@@ -3101,7 +3355,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0001013": {
@@ -3116,7 +3371,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0001014": {
@@ -3131,7 +3387,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KALYAN",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0001015": {
@@ -3146,7 +3403,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KAMOTHE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0001016": {
@@ -3161,7 +3419,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KAMOTHE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0001017": {
@@ -3171,12 +3430,13 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "236/2343 Ground Floor, Tagore Nagar, opp B M C s School, Vikroli East, Mumbai 400083.",
-    "CONTACT": null,
+    "CONTACT": "23483780",
     "MICR": "400801017",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0001018": {
@@ -3186,12 +3446,13 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "FNG 55/116, GROUND FLOOR, SHIVSHANKAR NAGAR, WADALA (E), MUMBAI-400037",
-    "CONTACT": null,
+    "CONTACT": "8652252013",
     "MICR": "400801018",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0001019": {
@@ -3201,12 +3462,13 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO 3, RIDDHI-SIDDHI APARTMENT, DAFTARY ROAD, OPP SAIBABA TEMPLE, KURAR VILLAGE, MALAD EAST, MUMBAI- 400097",
-    "CONTACT": null,
+    "CONTACT": "8652252025",
     "MICR": "400801019",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0001020": {
@@ -3216,12 +3478,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SIDDHIVINAYAK GARDEN, A-1 WING, SHOP NO 1,2, SURVEY NO 8,HISSA NO 1/B, DIVA EAST, THANE- 400612",
-    "CONTACT": null,
+    "CONTACT": "8652252020",
     "MICR": "400801020",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0001023": {
@@ -3236,7 +3499,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0001024": {
@@ -3251,7 +3515,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0001025": {
@@ -3266,7 +3531,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MIRA-BHAYANDAR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0001026": {
@@ -3281,7 +3547,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0001027": {
@@ -3296,7 +3563,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0001028": {
@@ -3311,7 +3579,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0001029": {
@@ -3326,23 +3595,25 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0002001": {
-    "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
+    "BANK": "Guardian Souharda Sahakari Bank Niyamita",
     "IFSC": "SVCB0002001",
-    "BRANCH": "GUARDIAN BANK -INFANTRY ROAD",
+    "BRANCH": "Guardian Souharda Sahakari Bank Niyamita IMPS",
     "CENTRE": "BANGALORE",
     "DISTRICT": "BANGALORE URBAN",
     "STATE": "KARNATAKA",
     "ADDRESS": "NO.139, INFANTRY ROAD, BANGALORE -560 001",
     "CONTACT": "08025582341",
     "IMPS": true,
+    "CITY": "BANGALORE",
     "UPI": true,
     "MICR": "560234251",
     "RTGS": true,
-    "NEFT": false
+    "NEFT": true
   },
   "SVCB0002002": {
     "IFSC": "SVCB0002002",
@@ -3356,7 +3627,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BEGUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0002003": {
@@ -3371,7 +3643,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOTHANUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0002004": {
@@ -3386,7 +3659,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0002005": {
@@ -3401,7 +3675,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE ",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0002007": {
@@ -3416,23 +3691,25 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JALAHALLI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0003002": {
-    "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
+    "BANK": "Vidya Sahakari Bank",
     "IFSC": "SVCB0003002",
-    "BRANCH": "VIDYA BANK-LAXMI ROAD",
+    "BRANCH": "Vidya Sahakari Bank IMPS",
     "CENTRE": "PUNE",
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "561, SADASHIV PETH, SARASWATI GANESH BUILDING, LAXMI ROAD, PUNE - 411 030",
     "CONTACT": "02024454936",
     "IMPS": true,
+    "CITY": "PUNE",
     "UPI": true,
     "MICR": "411171002",
     "RTGS": true,
-    "NEFT": false
+    "NEFT": true
   },
   "SVCB0003003": {
     "IFSC": "SVCB0003003",
@@ -3446,7 +3723,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0003004": {
@@ -3461,7 +3739,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0003005": {
@@ -3476,7 +3755,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0003006": {
@@ -3491,7 +3771,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0003007": {
@@ -3506,7 +3787,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MULSI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0003008": {
@@ -3521,7 +3803,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0003009": {
@@ -3536,7 +3819,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0003010": {
@@ -3551,7 +3835,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0003011": {
@@ -3566,7 +3851,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0003012": {
@@ -3581,7 +3867,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0003013": {
@@ -3596,7 +3883,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0003014": {
@@ -3606,12 +3894,13 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "S.NO. 29, HISSA NO. 1 A/2, VADGAON BUDRUK PHATA, SINHGAD ROAD, PUNE, PIN CODE 411041",
-    "CONTACT": null,
+    "CONTACT": "24350733",
     "MICR": "411171014",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0003999": {
@@ -3626,7 +3915,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0004002": {
@@ -3641,23 +3931,25 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0004003": {
-    "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
+    "BANK": "Dharamvir Sambhaji Urban Co-operative Bank",
     "IFSC": "SVCB0004003",
-    "BRANCH": "DHARMAVIR SAMBHAJI BK-SANGVI",
+    "BRANCH": "Dharamvir Sambhaji Urban Co-operative Bank IMPS",
     "CENTRE": "PUNE",
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "38, SHIVDARSHAN, VINAYAK NAGAR, NEW SANGVI, PUNE - 411 061",
     "CONTACT": "02027280389",
     "IMPS": true,
+    "CITY": "PUNE",
     "UPI": true,
     "MICR": "411174404",
     "RTGS": true,
-    "NEFT": false
+    "NEFT": true
   },
   "SVCB0004004": {
     "IFSC": "SVCB0004004",
@@ -3671,7 +3963,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0004005": {
@@ -3686,7 +3979,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0004006": {
@@ -3696,13 +3990,46 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SAI SHRADHA, 1258/4,5,6 1ST FLOOR, S NO. 1149, PIRANGUT, TAL MULSHI, DIST. PUNE - 412 115",
-    "CONTACT": null,
+    "CONTACT": "22923030",
     "MICR": "411174458",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PIRANGUT",
+    "NEFT": true,
     "IMPS": true
+  },
+  "SVCB0004007": {
+    "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
+    "IFSC": "SVCB0004007",
+    "BRANCH": "DHARMAVIR SAMBHAJI BK- WAGHOLI",
+    "ADDRESS": "KRUSHNAI GATE NO 112,KESNAND ROAD,WAGHOLI, PUNE 412207",
+    "CONTACT": "9922887696",
+    "CITY": "PUNE",
+    "DISTRICT": "WAGHOLI",
+    "STATE": "MAHARASHTRA",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "SVCB0004008": {
+    "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
+    "IFSC": "SVCB0004008",
+    "BRANCH": "DHARMAVIR SAMBHAJI BK- AMBEGAON",
+    "ADDRESS": "VITTHAL HERITAGE, S.NO 43/1/1/2, AMBEGAON BK, TALUKA HAVELI,DISTRICT PUNE",
+    "CONTACT": "9226785052",
+    "CITY": "PUNE",
+    "DISTRICT": "PUNE",
+    "STATE": "MAHARASHTRA",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "SVCB0004009": {
     "IFSC": "SVCB0004009",
@@ -3716,7 +4043,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DEHU ROAD",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0004010": {
@@ -3731,7 +4059,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AHMADNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0004011": {
@@ -3746,7 +4075,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SHIKRAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0005002": {
@@ -3761,7 +4091,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0005003": {
@@ -3776,7 +4107,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0005004": {
@@ -3791,7 +4123,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0005005": {
@@ -3806,7 +4139,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0005006": {
@@ -3821,7 +4155,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0005007": {
@@ -3836,7 +4171,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0005008": {
@@ -3851,7 +4187,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0005009": {
@@ -3866,7 +4203,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0005010": {
@@ -3881,7 +4219,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0005012": {
@@ -3896,7 +4235,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0005013": {
@@ -3911,7 +4251,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0005014": {
@@ -3926,7 +4267,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0005015": {
@@ -3941,7 +4283,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0005016": {
@@ -3956,7 +4299,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0005017": {
@@ -3971,7 +4315,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0005018": {
@@ -3986,7 +4331,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0005019": {
@@ -4001,7 +4347,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0005020": {
@@ -4016,7 +4363,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0005021": {
@@ -4031,7 +4379,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0005022": {
@@ -4046,7 +4395,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0005023": {
@@ -4061,23 +4411,25 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0006002": {
-    "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
+    "BANK": "Chiplun Urban Co-operative Bank",
     "IFSC": "SVCB0006002",
-    "BRANCH": "CHIPLUN URBAN BANK-MAIN BR.CHIPLUN",
+    "BRANCH": "Chiplun Urban Co-operative Bank IMPS",
     "CENTRE": "CHIPLUN",
     "DISTRICT": "RATNAGIRI",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "BAZARPETH, MAIN ROAD, CHIPLUN,PIN CODE-415605",
     "CONTACT": "02355261273",
     "IMPS": true,
+    "CITY": "CHIPLUN",
     "UPI": true,
     "MICR": "415810201",
     "RTGS": true,
-    "NEFT": false
+    "NEFT": true
   },
   "SVCB0006003": {
     "IFSC": "SVCB0006003",
@@ -4090,7 +4442,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GUHAGAR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -4105,7 +4458,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GUHAGAR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -4120,7 +4474,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHIPLUN",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -4136,7 +4491,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KHERDI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0006007": {
@@ -4150,7 +4506,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHIPLUN",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -4165,7 +4522,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DEVRUKH",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -4180,7 +4538,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KHED",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -4195,7 +4554,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ABLOLI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -4210,7 +4570,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SANGAMESHWAR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -4226,7 +4587,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PANVEL",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0006013": {
@@ -4241,7 +4603,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RATNAGIRI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0006014": {
@@ -4255,7 +4618,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHIPLUN",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -4271,8 +4635,25 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "LANJA",
+    "NEFT": true,
     "IMPS": true
+  },
+  "SVCB0006016": {
+    "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
+    "IFSC": "SVCB0006016",
+    "BRANCH": "CHIPLUN URBAN BANK- AKURDI, PIMPRI CHINCHWAD",
+    "ADDRESS": "MAYUR SAMRUDDHI II, D WING, GROUND FLOOR, SHOP NO 66 & 67, PIMPRI CHINCHWAD MUNICIPAL CORPORATION, SR. NO 180/1, PLOT NO A & B, AKURDI, TALUKA HAVELI, PUNE- 411035",
+    "CONTACT": "27242824",
+    "CITY": "PUNE",
+    "DISTRICT": "PUNE",
+    "STATE": "MAHARASHTRA",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "SVCB0006017": {
     "IFSC": "SVCB0006017",
@@ -4286,7 +4667,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RATNAGIRI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0006018": {
@@ -4301,7 +4683,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KANKAVLI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0006019": {
@@ -4316,7 +4699,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHIPLUN",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0006020": {
@@ -4331,7 +4715,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KHED",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0006021": {
@@ -4346,7 +4731,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MAHAD",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0006022": {
@@ -4360,24 +4746,26 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ARAWALI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
   "SVCB0007002": {
-    "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
+    "BANK": "Abhinav Sahakari Bank",
     "IFSC": "SVCB0007002",
-    "BRANCH": "ABHINAV SAHKARI BK-DOMBIVALI WEST",
+    "BRANCH": "Abhinav Sahakari Bank IMPS",
     "CENTRE": "DOMBIVLI",
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MAITRI KESHAV RAM STY,1ST FLOOR,SUBHASH ROAD,DOMBIVALI WEST-421202",
-    "CONTACT": null,
+    "CONTACT": "2482918",
     "IMPS": true,
+    "CITY": "DOMBIVLI",
     "UPI": true,
     "MICR": "400345002",
     "RTGS": true,
-    "NEFT": false
+    "NEFT": true
   },
   "SVCB0007003": {
     "IFSC": "SVCB0007003",
@@ -4386,12 +4774,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "ANUPAM APTS, N.C.KELKAR ROAD, DOMBIVALI EAST -421201",
-    "CONTACT": null,
+    "CONTACT": "2861648",
     "MICR": "400345003",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DOMBIVLI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0007004": {
@@ -4401,12 +4790,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "P-48, NEAR USMA PETROL PUMP, MIDC RESIDENTIAL ZONE, MIDC DOMBIVALI EAST-421203",
-    "CONTACT": null,
+    "CONTACT": "2432810",
     "MICR": "400345004",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DOMBIVLI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0007005": {
@@ -4416,12 +4806,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GREEN LAND APTS, 1ST FLOOR, NEAR SADHU WASWANI GARDEN, GOL MAIDAN,ULHASNAGAR WEST-421002",
-    "CONTACT": null,
+    "CONTACT": "2734365",
     "MICR": "400345005",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ULHASNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0007006": {
@@ -4431,12 +4822,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "NEW SULTAN MANZIL , MARKET ROAD, MUMBRA EAST-400612",
-    "CONTACT": null,
+    "CONTACT": "25465507",
     "MICR": "400345006",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0007007": {
@@ -4446,12 +4838,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHREE APTS, GANDHI CHOWK, KULGAON, BADLAPUR EAST-421503",
-    "CONTACT": null,
+    "CONTACT": "2690245",
     "MICR": "400345007",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ULHASNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0007008": {
@@ -4461,12 +4854,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "KAMLAKAR BLDG, MARATHA KOLSEWADI, KALYAN EAST-421306",
-    "CONTACT": null,
+    "CONTACT": "2361359",
     "MICR": "400345008",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KALYAN",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0007009": {
@@ -4476,12 +4870,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "BHAGWANDAS MENSION, SHIVAJI CHOWK, KALYAN WEST-421301",
-    "CONTACT": null,
+    "CONTACT": "2304258",
     "MICR": "400345009",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KALYAN",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0007010": {
@@ -4491,12 +4886,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "B R MADHAV HIGHSCHOOL, AYRE ROAD, DOMBIVALI EAST-421201",
-    "CONTACT": null,
+    "CONTACT": "2454299",
     "MICR": "400345010",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DOMBIVLI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0007011": {
@@ -4506,12 +4902,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "CHANDRESH AVENUE,1ST FLOOR, LODHA HEAVEN, NILJE , TAL KALYAN-421204",
-    "CONTACT": null,
+    "CONTACT": "2831989",
     "MICR": "400345011",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KALYAN",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0007012": {
@@ -4521,12 +4918,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PRANAV BLDG, 1ST FLOOR, GAODEVI CROSS MAIDAN, SHIVAJI PATH, THANE WEST-400601",
-    "CONTACT": null,
+    "CONTACT": "25403648",
     "MICR": "400345012",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0007013": {
@@ -4536,12 +4934,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "115, SWANAND SHOPPING CENTRE, 1ST FLOOR, B-CABIN ROAD, AMBARNATH EAST-421501",
-    "CONTACT": null,
+    "CONTACT": "2609699",
     "MICR": "400345013",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ULHASNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0007014": {
@@ -4551,12 +4950,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO 50/51 KESAR GARDEN CO-OP HSG STY LTD, PLOT NO 53, SECTOR 20, KHARGHAR-410210",
-    "CONTACT": null,
+    "CONTACT": "9619744669",
     "MICR": "400345014",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NEW BOMBAY",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0007015": {
@@ -4566,12 +4966,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHREE SADGURU KRUPA LAXMI NARAYAN NIWAS, GANPATI MANDIR ROAD, TITWALA EAST-421605",
-    "CONTACT": null,
+    "CONTACT": "2381920",
     "MICR": "400345015",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0007016": {
@@ -4581,12 +4982,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO. 14 TO 18, PANDURANG KRUPA APARTMENT, NEAR S.T STAND, GOTHEGHAR, SHAHAPUR - 421601",
-    "CONTACT": null,
+    "CONTACT": "9930515999",
     "MICR": "400345016",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SHAHAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0007017": {
@@ -4601,7 +5003,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DOMBIVLI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0007018": {
@@ -4616,23 +5019,25 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TALOJA",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0008002": {
-    "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
+    "BANK": "Ahmednagar Shahar Sahakari Bank Maryadit",
     "IFSC": "SVCB0008002",
-    "BRANCH": "AHMEDNAGAR SHAHAR S BK-SAVEDI",
+    "BRANCH": "Ahmednagar Shahar Sahakari Bank Maryadit IMPS",
     "CENTRE": "AHMADNAGAR",
     "DISTRICT": "AHMADNAGAR",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "“Krutarth”, Near Hotel Premdan, Savedi Road, Serve No. 176/1, Plot No. 43, Ahmednagar 414003.",
-    "CONTACT": null,
+    "CONTACT": "2430502",
     "IMPS": true,
+    "CITY": "AHMADNAGAR",
     "UPI": true,
     "MICR": "414802002",
     "RTGS": true,
-    "NEFT": false
+    "NEFT": true
   },
   "SVCB0008003": {
     "IFSC": "SVCB0008003",
@@ -4641,12 +5046,13 @@
     "DISTRICT": "AHMADNAGAR",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "“Kruparth”, Maliwada Wes Chowk, Wadia Park Road, Ahmednagar- 414001.",
-    "CONTACT": null,
+    "CONTACT": "2343439",
     "MICR": "414802003",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AHMADNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0008004": {
@@ -4656,12 +5062,13 @@
     "DISTRICT": "AHMADNAGAR",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "2177-A, Bansi Maharaj Mithaiwala Building, Adate Bazar Corner, Tapkir Lane, Ramchandra Khunt, Ahmednagar- 414001.",
-    "CONTACT": null,
+    "CONTACT": "2341849",
     "MICR": "414802004",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AHMADNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0008005": {
@@ -4671,12 +5078,13 @@
     "DISTRICT": "AHMADNAGAR",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "“Shubharth”, Korpe Building, Mahatma Fule Chowk, Ahmednagar- 414001.",
-    "CONTACT": null,
+    "CONTACT": "2452268",
     "MICR": "414802005",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AHMADNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0008006": {
@@ -4686,12 +5094,13 @@
     "DISTRICT": "AHMADNAGAR",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Gulmohar Road, Parijat Corner, Ahmednagar- 414003.",
-    "CONTACT": null,
+    "CONTACT": "2424061",
     "MICR": "414802006",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AHMADNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0008007": {
@@ -4701,12 +5110,13 @@
     "DISTRICT": "AHMADNAGAR",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "“Arthkam”, The Place Shop No. 1 to 7, Opp. Nagapur Petrol pump, Nagar-Manmad Road, Nagapur, Ahmednagar- 414027.",
-    "CONTACT": null,
+    "CONTACT": "2778280",
     "MICR": "414802007",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NAGAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0008008": {
@@ -4716,12 +5126,13 @@
     "DISTRICT": "AHMADNAGAR",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "“Saptshrung”, near Shubham Mangal Karyalaya, Svedi Road, Ahmednagar- 414003.",
-    "CONTACT": null,
+    "CONTACT": "2426174",
     "MICR": "414802008",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AHMADNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0008009": {
@@ -4731,12 +5142,13 @@
     "DISTRICT": "AHMADNAGAR",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "“Udyam”, Yenare Complex, Walwane Road, Supa, Tal-Parner, Dist. Ahmednagar.",
-    "CONTACT": null,
+    "CONTACT": "243683",
     "MICR": "414802010",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SUPA",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0008010": {
@@ -4746,12 +5158,13 @@
     "DISTRICT": "AHMADNAGAR",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Luniya-Munot Complex, Anandhrushiji Marg, Station Road, Ahmednagar- 414001.",
-    "CONTACT": null,
+    "CONTACT": "2321188",
     "MICR": "414802009",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AHMADNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0008011": {
@@ -4761,12 +5174,13 @@
     "DISTRICT": "AHMADNAGAR",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "“Sarvarth”, Navipeth, Ahmednagar- 414001.",
-    "CONTACT": null,
+    "CONTACT": "2346217",
     "MICR": "414802001",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AHMADNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0008012": {
@@ -4776,12 +5190,13 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "“Vijayshri”, Anusagar Building, Serve No. 52/40, Opp. Shrushti Complex, 100 D.P. Road, Kothrud, Pune- 38.",
-    "CONTACT": null,
+    "CONTACT": "25386394",
     "MICR": "411485251",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0008013": {
@@ -4791,12 +5206,13 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "“Satsang”, Serve No. 103(p) to 108(p), near Ajamera, Udyam nagar, Neharu nagar Road, Pimpri, Pune- 18.",
-    "CONTACT": null,
+    "CONTACT": "27432744",
     "MICR": "411485252",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PIMPRI CHINCHWAD",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0008014": {
@@ -4806,12 +5222,13 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "“Yashwanti”, Sun Paradise, Shop No. 1,2,3 Sun City Road, Anandnagar, Sinhgad Road, Pune- 51.",
-    "CONTACT": null,
+    "CONTACT": "24354041",
     "MICR": "411485254",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0008015": {
@@ -4821,12 +5238,13 @@
     "DISTRICT": "AHMADNAGAR",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Krushi Utpanna Bazar Samiti, Nepti Upbazar Awar, Shop No. 317,318,319 Nepti, Tal & Dist Ahmednagar.",
-    "CONTACT": null,
+    "CONTACT": "9850047957",
     "MICR": "414802011",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AHMADNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0008016": {
@@ -4836,12 +5254,13 @@
     "DISTRICT": "AHMADNAGAR",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shop No. 7 to 14, Prerana Arked, Wings 'C', Tarakpur, Ahmednagar.",
-    "CONTACT": null,
+    "CONTACT": "2320553",
     "MICR": "414802012",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AHMADNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0008017": {
@@ -4851,12 +5270,13 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "“Narayani”, Savitri Sadan, Opp. Narayanpeth  Police Station, Narayanpeth, Pune.",
-    "CONTACT": null,
+    "CONTACT": "24443232",
     "MICR": "411485257",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0008018": {
@@ -4866,12 +5286,13 @@
     "DISTRICT": "AURANGABAD",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Plot No.8, Shivneri Nagar, Opp. Jawaharnagar Police Station, Garkheda Parisar, Aurangabad 431005",
-    "CONTACT": null,
+    "CONTACT": "2344636",
     "MICR": "431485084",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AURANGABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0008019": {
@@ -4886,7 +5307,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RAHURI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0008020": {
@@ -4901,7 +5323,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SANGAMNER",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0008021": {
@@ -4916,7 +5339,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NASHIK",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0008022": {
@@ -4931,23 +5355,25 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AURANGABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0009002": {
-    "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
+    "BANK": "Peoples' Co-operative Bank",
     "IFSC": "SVCB0009002",
-    "BRANCH": "Peoples Bk Hingoli-Hingoli",
+    "BRANCH": "Peoples' Co-operative Bank IMPS",
     "CENTRE": "HINGOLI",
     "DISTRICT": "HINGOLI",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Main Road, Hingoli - 431513.",
-    "CONTACT": null,
+    "CONTACT": "220518",
     "IMPS": true,
+    "CITY": "HINGOLI",
     "UPI": true,
     "MICR": "431801402",
     "RTGS": true,
-    "NEFT": false
+    "NEFT": true
   },
   "SVCB0009003": {
     "IFSC": "SVCB0009003",
@@ -4956,12 +5382,13 @@
     "DISTRICT": "HINGOLI",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Main Road, Akhada Baluper -431707 DistHingoli",
-    "CONTACT": null,
+    "CONTACT": "242408",
     "MICR": "431801501",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AKHADA BALAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0009004": {
@@ -4971,12 +5398,13 @@
     "DISTRICT": "PARBHANI",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Kacchi Bazar, Parbhani-431401 Dist Parbhani",
-    "CONTACT": null,
+    "CONTACT": "222767",
     "MICR": "431801202",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PARBHANI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0009005": {
@@ -4986,12 +5414,13 @@
     "DISTRICT": "HINGOLI",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "At Post Taluka Sengaon, Sengaon-431542,  Dist Hingoli",
-    "CONTACT": null,
+    "CONTACT": "250261",
     "MICR": "431801502",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SENGAON",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0009006": {
@@ -5001,12 +5430,13 @@
     "DISTRICT": "HINGOLI",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "At Post Jawala Bazar-431705  Taluka   Aundha Nagnath, Dist Hingoli",
-    "CONTACT": null,
+    "CONTACT": "240049",
     "MICR": "431801503",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AUNDHA NAGNATH",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0009007": {
@@ -5016,12 +5446,13 @@
     "DISTRICT": "PARBHANI",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "At Post Jintur-431609, Taluka  Jintur, Dist  Parbhani",
-    "CONTACT": null,
+    "CONTACT": "220249",
     "MICR": "431801504",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JINTUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0009008": {
@@ -5031,12 +5462,13 @@
     "DISTRICT": "BULDHANA",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Tambatkar Galli,  At Post Taluka Deaulgoan Raja-443204  Dist Buldhana",
-    "CONTACT": null,
+    "CONTACT": "232403",
     "MICR": "431805501",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DEULGAON RAJA",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0009009": {
@@ -5046,12 +5478,13 @@
     "DISTRICT": "JALNA",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "At Post Taluka Mantha-431504, Main Road Dist  Jalna",
-    "CONTACT": null,
+    "CONTACT": "270106",
     "MICR": "431805502",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MANTHA",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0009010": {
@@ -5061,12 +5494,13 @@
     "DISTRICT": "JALNA",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Chatrapati Shivaji Maharaj Vyapari Sankul, Jalna, Dist Jalna -431023",
-    "CONTACT": null,
+    "CONTACT": "238535",
     "MICR": "431805052",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JALNA",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0009011": {
@@ -5076,12 +5510,13 @@
     "DISTRICT": "NANDED",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Jetewad Complex, VIP Road, New Mondha - Nanded",
-    "CONTACT": null,
+    "CONTACT": "236069",
     "MICR": "431809101",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NANDED",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0009012": {
@@ -5091,12 +5526,13 @@
     "DISTRICT": "AKOLA",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Juna Kapda Bazar,Akola-444001  Dist Akola",
-    "CONTACT": null,
+    "CONTACT": "2439782",
     "MICR": "444801002",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AKOLA",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0009013": {
@@ -5106,12 +5542,13 @@
     "DISTRICT": "AURANGABAD",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Devpriya Appt.Bansilal Nagar,Railway Station Road, Aurangabad Dist. - Aurangabad - 431001",
-    "CONTACT": null,
+    "CONTACT": "2347531",
     "MICR": "431569002",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AURANGABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0009014": {
@@ -5121,12 +5558,13 @@
     "DISTRICT": "YAVATMAL",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Surana Complex, Main Road  Pandharkawada Tq.kelapur Pandharkawada-445302  DistYavatmal",
-    "CONTACT": null,
+    "CONTACT": "227817",
     "MICR": "445801501",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PANDHARKAODA",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0009015": {
@@ -5136,12 +5574,13 @@
     "DISTRICT": "YAVATMAL",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Vasundhara Chambers, Near Sham taikes Tal & Dist Yavatmal, Yavatmal-445001",
-    "CONTACT": null,
+    "CONTACT": "241451",
     "MICR": "445801002",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "YAVATMAL",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0009016": {
@@ -5151,12 +5590,13 @@
     "DISTRICT": "NANDED",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Market Yard Mondha, Tal Dharmabad, Dist Nanded, Dharmabad-431809",
-    "CONTACT": null,
+    "CONTACT": "244559",
     "MICR": "431809502",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DHARMABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0009017": {
@@ -5166,12 +5606,13 @@
     "DISTRICT": "PARBHANI",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Kranti Chowk,Near Nitin Talkies Tal selu, Dist Parbhani, Selu-431503",
-    "CONTACT": null,
+    "CONTACT": "223147",
     "MICR": "431801505",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SAILU",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0009018": {
@@ -5181,12 +5622,13 @@
     "DISTRICT": "PARBHANI",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Bori-431508 ,Tal Jintur,DistParbhani",
-    "CONTACT": null,
+    "CONTACT": "242691",
     "MICR": "431801506",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JINTUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0009019": {
@@ -5196,12 +5638,13 @@
     "DISTRICT": "NANDED",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "New Mondha,Degloor-431717 Tal Degloor, Dist Nanded",
-    "CONTACT": null,
+    "CONTACT": "256741",
     "MICR": "431801452",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DEGLUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0009020": {
@@ -5211,12 +5654,13 @@
     "DISTRICT": "NANDED",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Main Road,Hadgoan-431712,Tal Hadgoan, DistNanded",
-    "CONTACT": null,
+    "CONTACT": "222719",
     "MICR": "431809503",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HADGAON",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0009021": {
@@ -5226,11 +5670,12 @@
     "DISTRICT": "ADILABAD",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "National Highway Road No.7,Near Petrol Pump,Dhanlaxmi Complex,Adilabad-504001,Andhra Pradesh.",
-    "CONTACT": null,
+    "CONTACT": "232455",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ADILABAD",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -5246,7 +5691,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHAINSA",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0009023": {
@@ -5256,12 +5702,13 @@
     "DISTRICT": "NAGPUR",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Chapur Nagar Chowk, 13,Gandhi Grain Market, Nagpur Taluka & Dist  Nagpur",
-    "CONTACT": null,
+    "CONTACT": "2733661",
     "MICR": "440183251",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NAGPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0009024": {
@@ -5271,12 +5718,13 @@
     "DISTRICT": "WARDHA",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Near Hotel Ramkrishna,Wardha, Dist  Wardha",
-    "CONTACT": null,
+    "CONTACT": "231003",
     "MICR": "442801001",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "WARDHA",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0009025": {
@@ -5286,12 +5734,13 @@
     "DISTRICT": "JALGAON",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Kamal Hospital Building, Ground Floor, Narayanwadi Road, Chopda Tq. Chopda Dist. Jalgaon",
-    "CONTACT": null,
+    "CONTACT": "221021",
     "MICR": "425809501",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHOPDA",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0009026": {
@@ -5301,12 +5750,13 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "M.G.Road 5,Tez House, Camp, Pune",
-    "CONTACT": null,
+    "CONTACT": "9423142654",
     "MICR": "411240257",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0009027": {
@@ -5316,12 +5766,13 @@
     "DISTRICT": "NANDED",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "New Mondha,Bhokar- Tal Bhokar, Dist Nanded",
-    "CONTACT": null,
+    "CONTACT": "222210",
     "MICR": "431809501",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHOKAR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0009028": {
@@ -5336,7 +5787,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0009029": {
@@ -5351,7 +5803,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0010002": {
@@ -5361,12 +5814,13 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "BHARATI VIDYAPEETH BHAVAN, GROUND FLOOR, SHASTRI ROAD, PUNE – 411 030.",
-    "CONTACT": null,
+    "CONTACT": "24333423",
     "MICR": "411355003",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0010003": {
@@ -5376,12 +5830,13 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SECTOR NO.28, PLOT NO.93, AKURDI PRADHIKARAN, PUNE – 411 044",
-    "CONTACT": null,
+    "CONTACT": "27657844",
     "MICR": "411355004",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0010004": {
@@ -5391,12 +5846,13 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SINHGAD ROAD, VADGAON-DHAIRY, PUNE – 411 041.",
-    "CONTACT": null,
+    "CONTACT": "24392190",
     "MICR": "411355006",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0010005": {
@@ -5406,12 +5862,13 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "BHARATI VIDYAPEETH EDUCATIONAL COMPLEX, PUNE – 411 043.",
-    "CONTACT": null,
+    "CONTACT": "24372875",
     "MICR": "411355005",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0010006": {
@@ -5421,12 +5878,13 @@
     "DISTRICT": "SANGLI",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "BHARATI VIDYAPEETH BHAVAN, RAJWADA CHOWK, SANGLI – 416 416.",
-    "CONTACT": null,
+    "CONTACT": "2323750",
     "MICR": "416355151",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KADEGAON",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0010007": {
@@ -5441,7 +5899,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KADEGAON",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0010008": {
@@ -5451,12 +5910,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "BHARATI VIDYAPEETH EDUCATIONAL COMPLEX, SECTOR NO.8, C.B.D., BELAPUR, NAVI MUMBAI – 400 614.",
-    "CONTACT": null,
+    "CONTACT": "27577286",
     "MICR": "400068313",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NEW BOMBAY",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0010009": {
@@ -5466,12 +5926,13 @@
     "DISTRICT": "SOLAPUR",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "BHARATI VIDYAPEETH EDUCATIONAL COMPLEX, VIJAPUR ROAD, SOLAPUR - 413 001.",
-    "CONTACT": null,
+    "CONTACT": "2343420",
     "MICR": "413589251",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SOLAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0010010": {
@@ -5481,12 +5942,13 @@
     "DISTRICT": "KOLHAPUR",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "BHARATI VIDYAPEETH BHAVAN KADAMWADI, KOLHAPUR - 416 001.",
-    "CONTACT": null,
+    "CONTACT": "2666759",
     "MICR": "416355002",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOLHAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0010011": {
@@ -5496,12 +5958,13 @@
     "DISTRICT": "SANGLI",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "BABAJI COMPLEX, OPP. S. T. STAND, VITA, TAL. KHANAPUR, DIST. SANGLI, PIN - 415 311.",
-    "CONTACT": null,
+    "CONTACT": "272079",
     "MICR": "415355476",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VITA",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0010012": {
@@ -5516,7 +5979,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PANCHGANI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0010013": {
@@ -5531,7 +5995,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KADEGAON",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0010014": {
@@ -5541,12 +6006,13 @@
     "DISTRICT": "SATARA",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "240 A, JAIHIND PRIDE, NEAR SUYASH MANGAL KARYALAYA, SHASTRINAGAR, MALKAPUR, KARAD, TAL. KARAD, DIST. SARATA, PIN - 415 539.",
-    "CONTACT": null,
+    "CONTACT": "228885",
     "MICR": "415355352",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KARAD",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0010015": {
@@ -5556,12 +6022,13 @@
     "DISTRICT": "DELHI",
     "STATE": "DELHI",
     "ADDRESS": "A-4, ROHTAK ROAD, HIGH-WAY 10, PASCHIM VIHAR, NEW DELHI - 110 063.",
-    "CONTACT": null,
+    "CONTACT": "25257230",
     "MICR": "110094282",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DELHI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0010016": {
@@ -5576,7 +6043,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PALUS",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0010017": {
@@ -5591,7 +6059,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PALUS",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0010018": {
@@ -5606,7 +6075,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ISLAMPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0010019": {
@@ -5621,7 +6091,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TASGAON",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0010020": {
@@ -5631,12 +6102,13 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "BHARATI VIDYAPEETH EDUCATIONAL COMPLEX, ERANDWANE, PUNE – 411 038",
-    "CONTACT": null,
+    "CONTACT": "25448502",
     "MICR": "411355007",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0010021": {
@@ -5651,7 +6123,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0010022": {
@@ -5666,7 +6139,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SATARA",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0010023": {
@@ -5681,7 +6155,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0010024": {
@@ -5696,53 +6171,57 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HADAPSAR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0010999": {
-    "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
+    "BANK": "Bharati Sahakari Bank Pune",
     "IFSC": "SVCB0010999",
-    "BRANCH": "BHARATI SAHAKARI BANK- HEAD OFFICE",
+    "BRANCH": "Bharati Sahakari Bank Pune IMPS",
     "CENTRE": "PUNE",
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "1ST FLOOR, BHARATI VIDYAPEETH BHAVAN, SADASHIV PETH, SHASTRI ROAD, PUNE 411030",
     "CONTACT": "02024332907",
     "IMPS": true,
+    "CITY": "PUNE",
     "UPI": true,
     "MICR": "411355002",
     "RTGS": true,
-    "NEFT": false
+    "NEFT": true
   },
   "SVCB0011002": {
-    "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
+    "BANK": "Jaihind Urban Co-op Bank",
     "IFSC": "SVCB0011002",
-    "BRANCH": "JAIHIND COOPBKWAKAD-PMPRI CHINCHWD",
+    "BRANCH": "Jaihind Urban Co-op Bank IMPS",
     "CENTRE": "PUNE",
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Kunal Market, 1st Floor, Chapekar Chowk, Chinchwad Pune 411033",
-    "CONTACT": null,
+    "CONTACT": "27614522",
     "IMPS": true,
+    "CITY": "PUNE",
     "UPI": true,
     "MICR": "411164290",
     "RTGS": true,
-    "NEFT": false
+    "NEFT": true
   },
   "SVCB0012002": {
-    "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
+    "BANK": "Shree Mahalaxmi Urban Co-operative Credit Bank",
     "IFSC": "SVCB0012002",
-    "BRANCH": "SHREE MAHALAXMI COOP CRD BK-GOKAK",
+    "BRANCH": "Shree Mahalaxmi Urban Co-operative Credit Bank IMPS",
     "CENTRE": "GOKAK",
     "DISTRICT": "BELGAUM",
     "STATE": "KARNATAKA",
     "ADDRESS": "CTS NO.3838A,Guruwarpeth Gokak, Dist Belgaum, Karnataka 591307",
-    "CONTACT": null,
+    "CONTACT": "226530",
     "IMPS": true,
+    "CITY": "GOKAK",
     "UPI": true,
     "MICR": "591851502",
     "RTGS": true,
-    "NEFT": false
+    "NEFT": true
   },
   "SVCB0012003": {
     "IFSC": "SVCB0012003",
@@ -5756,7 +6235,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BELGAUM",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0012004": {
@@ -5771,7 +6251,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GHATAPRABHA",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0012005": {
@@ -5786,7 +6267,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GOKAK",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0012006": {
@@ -5801,7 +6283,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NIPANI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0012007": {
@@ -5816,23 +6299,25 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHIKODI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0013002": {
-    "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
+    "BANK": "Sahyadri Sahakari Bank",
     "IFSC": "SVCB0013002",
-    "BRANCH": "SAHYADRI SAHAKARI BANK-CHIRA BAZAR",
+    "BRANCH": "Sahyadri Sahakari Bank IMPS",
     "CENTRE": "MUMBAI",
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "5/7, Vijay Wadi, Dr. N. N. Shaha Marg, Chira Bazar, Mumbai -400 002",
-    "CONTACT": null,
+    "CONTACT": "22054671",
     "IMPS": true,
+    "CITY": "MUMBAI",
     "UPI": true,
     "MICR": "400087002",
     "RTGS": true,
-    "NEFT": false
+    "NEFT": true
   },
   "SVCB0013003": {
     "IFSC": "SVCB0013003",
@@ -5841,12 +6326,13 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "94/96, Bhagwan Kalachi Wadi, Bhuleshwar Mar, Mumbai -400 002",
-    "CONTACT": null,
+    "CONTACT": "22425589",
     "MICR": "400087003",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0013004": {
@@ -5856,12 +6342,13 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Phanse Building, Dr. B.A. Road, Opp. Digvijay Mill, Lalbaug, Mumbai -400 012",
-    "CONTACT": null,
+    "CONTACT": "24703583",
     "MICR": "400087004",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0013005": {
@@ -5871,12 +6358,13 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Sahyadri Nagar, Charkhop, Kandivli (W), Mumbai -400 067",
-    "CONTACT": null,
+    "CONTACT": "28692529",
     "MICR": "400087005",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0013006": {
@@ -5886,12 +6374,13 @@
     "DISTRICT": "SATARA",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "City Point, Powai Naka, Satara-415001",
-    "CONTACT": null,
+    "CONTACT": "232105",
     "MICR": "415087002",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SATARA",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0013007": {
@@ -5901,12 +6390,13 @@
     "DISTRICT": "RAIGAD",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Suraj Complex, Shop No 2 & 3,Plot No. 2 &21, Sector No. 36, Kamothe Navi Mumbai -410209",
-    "CONTACT": null,
+    "CONTACT": "32194229",
     "MICR": "400087007",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KAMOTHE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0013008": {
@@ -5916,12 +6406,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shop No, 1,2, & 2-A, Arjun Sagar Apartment, Anjur Naka, Agra Road, Bhiwandi, Dist- Thane Pin- 421 302",
-    "CONTACT": null,
+    "CONTACT": "278833",
     "MICR": "400087008",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHIWANDI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0013009": {
@@ -5931,12 +6422,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shop No. 11 To 14 Chirag CHS.Ltd, Fadke Road, Dombivli (E)",
-    "CONTACT": null,
+    "CONTACT": "2439896",
     "MICR": "400087009",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DOMBIVLI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0013999": {
@@ -5951,23 +6443,25 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GREATER BOMBAY",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0014002": {
-    "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
+    "BANK": "Defence Accounts Co-operative Bank",
     "IFSC": "SVCB0014002",
-    "BRANCH": "DEFENCE ACCOUNTS COOPBKLTD-TILAKRD",
+    "BRANCH": "Defence Accounts Co-operative Bank IMPS",
     "CENTRE": "PUNE",
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "2013, SADASHIV PETH, TILAK ROAD, PUNE - 411030",
-    "CONTACT": null,
+    "CONTACT": "24472214",
     "IMPS": true,
+    "CITY": "PUNE",
     "UPI": true,
     "MICR": "411164280",
     "RTGS": true,
-    "NEFT": false
+    "NEFT": true
   },
   "SVCB0014003": {
     "IFSC": "SVCB0014003",
@@ -5976,12 +6470,13 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GOLIBAR MAIDAN, PUNE - 411001",
-    "CONTACT": null,
+    "CONTACT": "26445519",
     "MICR": "411164273",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0014004": {
@@ -5991,12 +6486,13 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "NO.1 FINANCE ROAD, PUNE-411001",
-    "CONTACT": null,
+    "CONTACT": "26134716",
     "MICR": "411164274",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0015002": {
@@ -6006,28 +6502,30 @@
     "DISTRICT": "NAGPUR",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "RADAKE LAYOUT, HINGNA ROAD, DIGDOH ,  NAGPUR  440016",
-    "CONTACT": null,
+    "CONTACT": "235830",
     "MICR": "440485251",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HINGNA",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0015003": {
-    "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
+    "BANK": "Arvind Sahakari Bank",
     "IFSC": "SVCB0015003",
-    "BRANCH": "ARVIND SAHAKARI BANK LTD- KATOL",
+    "BRANCH": "Arvind Sahakari Bank IMPS",
     "CENTRE": "NAGPUR",
     "DISTRICT": "NAGPUR",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MAIN ROAD, KATOL TAH, DISTRICT NAGPUR",
     "CONTACT": "07112222710",
     "IMPS": true,
+    "CITY": "NAGPUR",
     "UPI": true,
     "MICR": "441823152",
     "RTGS": true,
-    "NEFT": false
+    "NEFT": true
   },
   "SVCB0015004": {
     "IFSC": "SVCB0015004",
@@ -6041,7 +6539,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SAONER",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0015005": {
@@ -6056,7 +6555,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NAGPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0015006": {
@@ -6071,7 +6571,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "WARUD",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0015007": {
@@ -6086,7 +6587,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AMRAVATI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0016002": {
@@ -6101,7 +6603,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PANCHGANI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0016003": {
@@ -6116,7 +6619,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "LONAND",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0016004": {
@@ -6126,12 +6630,13 @@
     "DISTRICT": "SATARA",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "JIWALA, NEAR S. T. STAND, SHIRWAL, TAL.- KHANDALA; DIST- SATARA-415003",
-    "CONTACT": null,
+    "CONTACT": "244203",
     "MICR": "412801152",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SHIRWAL",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0016005": {
@@ -6146,7 +6651,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SATARA",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0016006": {
@@ -6161,7 +6667,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "UMBRAJ",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0016007": {
@@ -6176,7 +6683,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MEDHA",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0016008": {
@@ -6186,12 +6694,13 @@
     "DISTRICT": "SATARA",
     "STATE": "MAHARASHTRA",
     "ADDRESS": " 299/2, KALASH PRIDE, PUNE BANGLORE HIGHWAY, NEAR HOTEL SANGAM, MALKAPUR, KARAD, DIST: SATARA -415101",
-    "CONTACT": null,
+    "CONTACT": "223319",
     "MICR": "415822352",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KARAD",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0016009": {
@@ -6206,7 +6715,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "WAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0016010": {
@@ -6216,12 +6726,13 @@
     "DISTRICT": "SATARA",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "TULJABHAVANI COMPLEX, YADOGOPAL PETH, SATARA-415001",
-    "CONTACT": null,
+    "CONTACT": "280677",
     "MICR": "415822001",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SATARA",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0016011": {
@@ -6236,7 +6747,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VADUTH",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0016012": {
@@ -6246,12 +6758,13 @@
     "DISTRICT": "SATARA",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "KRISHNA HIGHTS, RAVIWAR PETH, SHIVAJI CHOWK, NEAR DHUMAL HOSPITAL, PHALTAN-115523",
-    "CONTACT": null,
+    "CONTACT": "220077",
     "MICR": "415822151",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PHALTAN",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0016013": {
@@ -6261,12 +6774,13 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "1999, SADASHIV PETH OPP ABHINAV KALA MAHAVIDYALAYA TILAK ROAD, PUNE-411030",
-    "CONTACT": null,
+    "CONTACT": "24477377",
     "MICR": "411074252",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0016014": {
@@ -6276,12 +6790,13 @@
     "DISTRICT": "SANGLI",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "25, KORE TERRACE, NEMINATH NAGAR, NEAR GANPATI MANDIR, VISHRAMBAG, SANGLI-416415",
-    "CONTACT": null,
+    "CONTACT": "2303877",
     "MICR": "416823151",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SANGLI-MIRAJ-KUPWAD",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0016015": {
@@ -6291,12 +6806,13 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "545/14, AJYANKATARA, SINHAGAD ROAD, OPP P.L. DESHPANDE GARDEN, PUNE, 411030",
-    "CONTACT": null,
+    "CONTACT": "24252777",
     "MICR": "411074254",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0016016": {
@@ -6306,12 +6822,13 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "635/2, 642,643, PLOT NO. 1, MAHESH CO-OP HOUSING SOCIETY, BIBVEWADI, PUNE- 411037",
-    "CONTACT": null,
+    "CONTACT": "24223777",
     "MICR": "411074255",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0016017": {
@@ -6321,12 +6838,13 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO 25/26, GROUND FLOOR, FORTUNE ESTATES, PLOT NO 58, PUNE-SOLAPUR ROAD, HADAPSAR- 411028",
-    "CONTACT": null,
+    "CONTACT": "24411977",
     "MICR": "411074257",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HADAPSAR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0016018": {
@@ -6336,12 +6854,13 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "NANA SMRUTI, NEAR VEGETABLE MARKET, PROPERTY NO. 515/1, 515/2, 515/3, 514, CHAKAN, TAL:KHED; DIST: PUNE, 410501",
-    "CONTACT": null,
+    "CONTACT": "249277",
     "MICR": "411074258",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHAKAN",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0016019": {
@@ -6356,7 +6875,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PIMPRI CHINCHWAD",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0016020": {
@@ -6371,7 +6891,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0016021": {
@@ -6386,7 +6907,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0016022": {
@@ -6401,7 +6923,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SHIVANE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0016023": {
@@ -6416,7 +6939,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NASARAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0016024": {
@@ -6431,7 +6955,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SANGLI-MIRAJ-KUPWAD",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0016025": {
@@ -6446,7 +6971,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NEW BOMBAY",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0016026": {
@@ -6461,7 +6987,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "WAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0016027": {
@@ -6476,7 +7003,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JAISINGPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0016028": {
@@ -6490,7 +7018,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MANGAON",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -6505,7 +7034,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GOREGAON",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -6520,24 +7050,26 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MAHAD",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
   "SVCB0016101": {
-    "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
+    "BANK": "Wai Urban Co-operative Bank",
     "IFSC": "SVCB0016101",
-    "BRANCH": "WAI URBAN COOP BK LTD-WAI",
+    "BRANCH": "Wai Urban Co-operative Bank IMPS",
     "CENTRE": "WAI",
     "DISTRICT": "SATARA",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "591, GANPATI ALI, WAI TAL. WAI, DIST SATARA-412803",
-    "CONTACT": null,
+    "CONTACT": "220007",
     "IMPS": true,
+    "CITY": "WAI",
     "UPI": true,
     "MICR": "412801002",
     "RTGS": true,
-    "NEFT": false
+    "NEFT": true
   },
   "SVCB0017002": {
     "IFSC": "SVCB0017002",
@@ -6546,12 +7078,13 @@
     "DISTRICT": "HYDERABAD",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "SUNDARA SADAN,3-4-462/5,ST. NO. 5,HIMAYATNAGAR, HYDERABAD 500 026",
-    "CONTACT": null,
+    "CONTACT": "27634914",
     "MICR": "500015252",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0018002": {
@@ -6566,7 +7099,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0018003": {
@@ -6581,7 +7115,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0018004": {
@@ -6596,7 +7131,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0018005": {
@@ -6611,7 +7147,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0018006": {
@@ -6626,7 +7163,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0018007": {
@@ -6641,23 +7179,25 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0019002": {
-    "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
+    "BANK": "Shri Ganesh Sahakari Bank",
     "IFSC": "SVCB0019002",
-    "BRANCH": "SHRI GANESH SAHAKARI BK-SANGAVI",
+    "BRANCH": "Shri Ganesh Sahakari Bank IMPS",
     "CENTRE": "SANGAVI",
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SR NO 53/1B 2 & 14, PIMPLE GURAV, NEW SANGAVI, PUNE 411061",
-    "CONTACT": null,
+    "CONTACT": "27286314",
     "IMPS": true,
+    "CITY": "SANGAVI",
     "UPI": true,
     "MICR": "411164287",
     "RTGS": true,
-    "NEFT": false
+    "NEFT": true
   },
   "SVCB0019003": {
     "IFSC": "SVCB0019003",
@@ -6666,12 +7206,13 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PARL PALLADIUM, RAHATANI CHOWK, RAHATANI, PUNE 411017",
-    "CONTACT": null,
+    "CONTACT": "9552566018",
     "MICR": "411164309",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0019004": {
@@ -6686,7 +7227,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0019005": {
@@ -6701,23 +7243,25 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BALEWADI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0020002": {
-    "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
+    "BANK": "Sree Narayana Guru Co-operative Bank",
     "IFSC": "SVCB0020002",
-    "BRANCH": "SREE NARAYAN GURU COOP BK-CHEMBUR",
+    "BRANCH": "Sree Narayana Guru Co-operative Bank IMPS",
     "CENTRE": "MUMBAI",
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SREE NARAYAN NAGAR, P.L. LOKHANDE MARG, CHEMBUR (W), MUMBAI- 400089",
-    "CONTACT": null,
+    "CONTACT": "25251740",
     "IMPS": true,
+    "CITY": "MUMBAI",
     "UPI": true,
     "MICR": "400068374",
     "RTGS": true,
-    "NEFT": false
+    "NEFT": true
   },
   "SVCB0020003": {
     "IFSC": "SVCB0020003",
@@ -6726,12 +7270,13 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "28/29; ANIRAJ TOWER, JANATA MARKET, L.B.S. MARG, BHANDUP (W); MUMBAI- 400078",
-    "CONTACT": null,
+    "CONTACT": "25961530",
     "MICR": "400068385",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0020004": {
@@ -6741,12 +7286,13 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "5, HANSA  VILLA, J.J. ROAD, MULUND (W), MUMBAI - 400080",
-    "CONTACT": null,
+    "CONTACT": "25617575",
     "MICR": "400068389",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0020005": {
@@ -6756,12 +7302,13 @@
     "DISTRICT": "RAIGAD",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "6 & 7, BALSHET APARTMENT, PLOT NO. B / 104, SECTOR 23/B, DARAVE, NERUL - 400706",
-    "CONTACT": null,
+    "CONTACT": "27710055",
     "MICR": "400068393",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KAMOTHE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0020006": {
@@ -6776,7 +7323,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NEW BOMBAY",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0020007": {
@@ -6791,7 +7339,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NEW BOMBAY",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0021002": {
@@ -6805,7 +7354,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -6816,28 +7366,30 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "2/9, LIG SANT TUKARAM NAGAR-PIMPRI - PUNE 411018",
-    "CONTACT": null,
+    "CONTACT": "27423880",
     "MICR": "411174369",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PIMPRI CHINCHWAD",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0023002": {
-    "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
+    "BANK": "Shankar Nagari Sahakari Bank",
     "IFSC": "SVCB0023002",
-    "BRANCH": "SHANKAR NAGARI SAHKARI BK-NANDED",
+    "BRANCH": "Shankar Nagari Sahakari Bank IMPS",
     "CENTRE": "NANDED",
     "DISTRICT": "NANDED",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "POKARN COMPLEX, NEW MONDHA, NANDED",
-    "CONTACT": null,
+    "CONTACT": "285566",
     "IMPS": true,
+    "CITY": "NANDED",
     "UPI": true,
     "MICR": "431811101",
     "RTGS": true,
-    "NEFT": false
+    "NEFT": true
   },
   "SVCB0023003": {
     "IFSC": "SVCB0023003",
@@ -6846,12 +7398,13 @@
     "DISTRICT": "NANDED",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MAIN ROAD, ARDHAPUR, TAL: ARDHAPUR; DIST:NANDED",
-    "CONTACT": null,
+    "CONTACT": "272697",
     "MICR": "431811501",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ARDHAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0023004": {
@@ -6861,12 +7414,13 @@
     "DISTRICT": "NANDED",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MONDHA, BHOKAR, TAL: BHOKAR; DIST: NANDED",
-    "CONTACT": null,
+    "CONTACT": "222995",
     "MICR": "431811502",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHOKAR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0023005": {
@@ -6876,12 +7430,13 @@
     "DISTRICT": "NANDED",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MARKET YARD, LOHA, TAL: LOHA; DIST: NANDED",
-    "CONTACT": null,
+    "CONTACT": "242208",
     "MICR": "431811503",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "LOHA",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0023006": {
@@ -6896,7 +7451,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NANDED",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0023007": {
@@ -6911,7 +7467,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PURNA",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0023008": {
@@ -6926,7 +7483,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NANDED",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0023009": {
@@ -6941,7 +7499,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NAIGAON",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0023010": {
@@ -6956,7 +7515,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AURANGABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0023011": {
@@ -6971,7 +7531,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HADGAON",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0024002": {
@@ -6981,12 +7542,13 @@
     "DISTRICT": "LATUR",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MARKET YARD, KAVHA ROAD, LATUR -413512",
-    "CONTACT": null,
+    "CONTACT": "249745",
     "MICR": "413807052",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "LATUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0024003": {
@@ -6996,12 +7558,13 @@
     "DISTRICT": "LATUR",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "VIVEKANAND CHOWK, LATUR -413512",
-    "CONTACT": null,
+    "CONTACT": "250726",
     "MICR": "413807053",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "LATUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0024004": {
@@ -7011,11 +7574,12 @@
     "DISTRICT": "LATUR",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "NANDED –LATUR ROAD, MAIN ROAD, AHMEDPUR -413515, DIST. LATUR",
-    "CONTACT": null,
+    "CONTACT": "264686",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AHMEDPUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -7026,28 +7590,30 @@
     "DISTRICT": "LATUR",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MAIN ROAD, SHIRUR ANANTPAL; DIST. LATUR-413544",
-    "CONTACT": null,
+    "CONTACT": "250726",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SHIRUR ANANTPAL",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
   "SVCB0025002": {
-    "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
+    "BANK": "Sircilla Co-operative Urban Bank",
     "IFSC": "SVCB0025002",
-    "BRANCH": "SIRCILLA URBAN BK-SIRICILLA",
+    "BRANCH": "Sircilla Co-operative Urban Bank IMPS",
     "CENTRE": "SIRCILLA",
     "DISTRICT": "KARIMNAGAR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "H NO 6-6-95, THSIL ROAD, POST: SIRCILLA, DIST: KARIMNAGAR, 505301",
-    "CONTACT": null,
+    "CONTACT": "232241",
     "IMPS": true,
+    "CITY": "SIRCILLA",
     "UPI": true,
     "MICR": "505850502",
     "RTGS": true,
-    "NEFT": false
+    "NEFT": true
   },
   "SVCB0025003": {
     "IFSC": "SVCB0025003",
@@ -7056,11 +7622,12 @@
     "DISTRICT": "KARIMNAGAR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "H NO 10-252/1; YELLAREDDYPET, 505 303",
-    "CONTACT": null,
+    "CONTACT": "244112",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "YELLAREDDIPET",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -7071,12 +7638,13 @@
     "DISTRICT": "KURNOOL",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "D NO. 8-13, MAIN ROAD, KOILKUNTLA - 518 134",
-    "CONTACT": null,
+    "CONTACT": "225043",
     "MICR": "518869622",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOILKUNTLA",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0026003": {
@@ -7086,12 +7654,13 @@
     "DISTRICT": "KURNOOL",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "D NO. 3-90, BYRMAL STREET, NANDYAL -  518 501",
-    "CONTACT": null,
+    "CONTACT": "220717",
     "MICR": "518869102",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NANDYAL",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0026004": {
@@ -7105,7 +7674,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NANDYAL",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -7116,12 +7686,13 @@
     "DISTRICT": "MYSORE",
     "STATE": "KARNATAKA",
     "ADDRESS": "JAGANMOHAN PALACE ROAD, MYSORE –   570 024",
-    "CONTACT": null,
+    "CONTACT": "2432938",
     "MICR": "570565002",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MYSORE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0027003": {
@@ -7131,12 +7702,13 @@
     "DISTRICT": "MYSORE",
     "STATE": "KARNATAKA",
     "ADDRESS": "BANDIPALYA BRANCH, B-BLOCK, APMC YARD, MYSORE –570 025",
-    "CONTACT": null,
+    "CONTACT": "2489564",
     "MICR": "570565003",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MYSORE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0027004": {
@@ -7151,7 +7723,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HEBBAL",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0028002": {
@@ -7161,43 +7734,46 @@
     "DISTRICT": "HYDERABAD",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "H.NO 16-10-27/105/7/5,   TIRUMALAPRIDE, I FLOOR, MALAKPET  MAIN ROAD, HYDERABAD 500036",
-    "CONTACT": null,
+    "CONTACT": "24544457",
     "MICR": "500143002",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0029002": {
-    "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
+    "BANK": "Secunderabad Co-operative Urban Bank",
     "IFSC": "SVCB0029002",
-    "BRANCH": "SECUNDERABD COOP URBN BK-MUSHEERABD",
+    "BRANCH": "Secunderabad Co-operative Urban Bank IMPS",
     "CENTRE": "HYDERABAD",
     "DISTRICT": "HYDERABAD",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "1-4-908/7/2/B/1/TO 4, MUSHEERABAD, HYDERABAD - 500020",
-    "CONTACT": null,
+    "CONTACT": "27673537",
     "IMPS": true,
+    "CITY": "HYDERABAD",
     "UPI": true,
     "MICR": "500143262",
     "RTGS": true,
-    "NEFT": false
+    "NEFT": true
   },
   "SVCB0030002": {
-    "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
+    "BANK": "Sarjeraodada Naik Shirala Sahakari Bank",
     "IFSC": "SVCB0030002",
-    "BRANCH": "SARJERAO D NAIK SHIRALA BK- SHIRALA",
+    "BRANCH": "Sarjeraodada Naik Shirala Sahakari Bank IMPS",
     "CENTRE": "SHIRALA",
     "DISTRICT": "SANGLI",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SOMWAR PETH, JADHAV BUILDING, SHIRALA",
     "CONTACT": "02345272194",
     "IMPS": true,
+    "CITY": "SHIRALA",
     "UPI": true,
     "MICR": "416869502",
     "RTGS": true,
-    "NEFT": false
+    "NEFT": true
   },
   "SVCB0030003": {
     "IFSC": "SVCB0030003",
@@ -7211,7 +7787,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MANGLE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0030004": {
@@ -7226,7 +7803,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SAGAON",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0030005": {
@@ -7241,7 +7819,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOKRUD",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0030006": {
@@ -7256,7 +7835,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SANGLI-MIRAJ-KUPWAD",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0030007": {
@@ -7271,7 +7851,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SANGLI-MIRAJ-KUPWAD",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0030008": {
@@ -7286,7 +7867,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KAMERI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0030009": {
@@ -7301,7 +7883,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOLHAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0030010": {
@@ -7316,7 +7899,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SAROOD",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0030011": {
@@ -7331,7 +7915,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SANGLI-MIRAJ-KUPWAD",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0030012": {
@@ -7346,7 +7931,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "WATEGAON",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0030013": {
@@ -7361,7 +7947,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NERLE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0030014": {
@@ -7376,23 +7963,25 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KARAD",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0033002": {
-    "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
+    "BANK": "Hubli Urban Co-operative Bank",
     "IFSC": "SVCB0033002",
-    "BRANCH": "THE HUBLI URBAN COOP BANK-HUBLI",
+    "BRANCH": "Hubli Urban Co-operative Bank IMPS",
     "CENTRE": "HUBLI-DHARWAD",
     "DISTRICT": "DHARWAD",
     "STATE": "KARNATAKA",
     "ADDRESS": "SIR SIDDAPPA KAMBLI RD, OPP - MUNCIPLE CORPORATION",
-    "CONTACT": null,
+    "CONTACT": "2228249",
     "IMPS": true,
+    "CITY": "HUBLI-DHARWAD",
     "UPI": true,
     "MICR": "580211251",
     "RTGS": true,
-    "NEFT": false
+    "NEFT": true
   },
   "SVCB0033003": {
     "IFSC": "SVCB0033003",
@@ -7401,12 +7990,13 @@
     "DISTRICT": "DHARWAD",
     "STATE": "KARNATAKA",
     "ADDRESS": "HUBLIKAR BLDG. LATTI PETH ROAD, OLD HUBLI, DURGAD BAIL",
-    "CONTACT": null,
+    "CONTACT": "2228339",
     "MICR": "580211252",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HUBLI-DHARWAD",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0033004": {
@@ -7416,12 +8006,13 @@
     "DISTRICT": "DHARWAD",
     "STATE": "KARNATAKA",
     "ADDRESS": "PREETI AASHIYANA, SIRUR PARK, VIDYA NAGAR",
-    "CONTACT": null,
+    "CONTACT": "2228279",
     "MICR": "580211253",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HUBLI-DHARWAD",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0033005": {
@@ -7431,12 +8022,13 @@
     "DISTRICT": "DHARWAD",
     "STATE": "KARNATAKA",
     "ADDRESS": "DESHPANDE BUILDING, BESIDE PETROL BUNK, BENGERI PARASWADI ROAD",
-    "CONTACT": null,
+    "CONTACT": "2228239",
     "MICR": "580211254",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HUBLI-DHARWAD",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0033006": {
@@ -7446,12 +8038,13 @@
     "DISTRICT": "DHARWAD",
     "STATE": "KARNATAKA",
     "ADDRESS": "AIYENGAR BAKERY BLDG. APOORVA NAGAR CROSS, GOKUL ROAD,",
-    "CONTACT": null,
+    "CONTACT": "2228329",
     "MICR": "580211255",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HUBLI-DHARWAD",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0033007": {
@@ -7461,12 +8054,13 @@
     "DISTRICT": "DHARWAD",
     "STATE": "KARNATAKA",
     "ADDRESS": "MUDHOLKAR BLDG, VIJAYA ROAD, BEHIND CBT",
-    "CONTACT": null,
+    "CONTACT": "2228379",
     "MICR": "580211257",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HUBLI-DHARWAD",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0033008": {
@@ -7476,28 +8070,30 @@
     "DISTRICT": "DHARWAD",
     "STATE": "KARNATAKA",
     "ADDRESS": "JABIN BLDG. AKKI HONDA HIREPET",
-    "CONTACT": null,
+    "CONTACT": "2228229",
     "MICR": "580211256",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HUBLI-DHARWAD",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0035002": {
-    "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
+    "BANK": "Kopargaon Peoples Co-operative Bank",
     "IFSC": "SVCB0035002",
-    "BRANCH": "THE KOPARGAON PEOPLES COOP BANK LTD-KOPARGAON",
+    "BRANCH": "Kopargaon Peoples Co-operative Bank IMPS",
     "CENTRE": "KOPARGAON",
     "DISTRICT": "AHMADNAGAR",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "M.PHULE MARG, BANK ROAD , KOPARGAON",
     "CONTACT": "02324226785",
     "IMPS": true,
+    "CITY": "KOPARGAON",
     "UPI": true,
     "MICR": "423802001",
     "RTGS": true,
-    "NEFT": false
+    "NEFT": true
   },
   "SVCB0035003": {
     "IFSC": "SVCB0035003",
@@ -7511,7 +8107,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SHIRDI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0035004": {
@@ -7526,7 +8123,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RAHATA",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0035005": {
@@ -7541,7 +8139,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNTAMBA",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0035006": {
@@ -7556,7 +8155,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "YEOLA",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0035007": {
@@ -7571,7 +8171,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "LASUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0035008": {
@@ -7586,7 +8187,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AURANGABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0035009": {
@@ -7601,7 +8203,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AHMADNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0036002": {
@@ -7616,7 +8219,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "LASALGAON",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0036003": {
@@ -7630,7 +8234,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "WADALI BHOI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -7645,7 +8250,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "UGAON",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -7661,7 +8267,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "UMRER",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0037003": {
@@ -7676,7 +8283,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NAGPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0037004": {
@@ -7691,7 +8299,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHIWAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0038002": {
@@ -7706,7 +8315,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KALWAN",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0038003": {
@@ -7720,7 +8330,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ABHONA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -7736,7 +8347,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0040002": {
@@ -7751,7 +8363,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NASHIK",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0041268": {
@@ -7766,7 +8379,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0041269": {
@@ -7781,7 +8395,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0041315": {
@@ -7796,7 +8411,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0041319": {
@@ -7811,7 +8427,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0041341": {
@@ -7826,7 +8443,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0041350": {
@@ -7841,8 +8459,25 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SUBRAMANYAPURA",
+    "NEFT": true,
     "IMPS": true
+  },
+  "SVCB0041385": {
+    "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
+    "IFSC": "SVCB0041385",
+    "BRANCH": "THE HOTEL INDUSTRIALISTS CO-OP BANK LTD- GANGANAGAR",
+    "ADDRESS": "NO. 18/3,1ST MAIN, OPP. 108/B BUS TERMINUS,GANGANAGAR, BANGALORE- 560032",
+    "CONTACT": "22429754",
+    "CITY": "BANGALORE URBAN",
+    "DISTRICT": "BANGALORE",
+    "STATE": "KARNATAKA",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "SVCB0041392": {
     "IFSC": "SVCB0041392",
@@ -7856,23 +8491,89 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
-  "SVCB0043002": {
+  "SVCB0042002": {
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
+    "IFSC": "SVCB0042002",
+    "BRANCH": "THE REVDANDA CO-OP URBAN BANK LTD- REVDANDA",
+    "ADDRESS": "AT POST- REVDANDA, TALUKA ALIBAG, DISTRICT RAIGAD,PIN NO 402201",
+    "CONTACT": "8407966777",
+    "CITY": "RAIGAD",
+    "DISTRICT": "Revdanda",
+    "STATE": "MAHARASHTRA",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "SVCB0042003": {
+    "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
+    "IFSC": "SVCB0042003",
+    "BRANCH": "THE REVDANDA CO-OP URBAN BANK LTD- ALIBAG",
+    "ADDRESS": "SHRIBA NO 03, RADIKA APPARTMENT, ALIBAG, TALUKA ALIBAG, DISTRICT RAIGAD, PIN NO- 402201",
+    "CONTACT": "9545069988",
+    "CITY": "RAIGAD",
+    "DISTRICT": "ALIBAG",
+    "STATE": "MAHARASHTRA",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "SVCB0042004": {
+    "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
+    "IFSC": "SVCB0042004",
+    "BRANCH": "THE REVDANDA CO-OP URBAN BANK LTD- ROHA",
+    "ADDRESS": "L.G.SHOPPING CENTRE, MEENA BAZAR, AT POST -ROHA, TALUKA ALIBAG, DISTRICT RAIGAD, PIN NO 402109",
+    "CONTACT": "9545059988",
+    "CITY": "RAIGAD",
+    "DISTRICT": "ROHA",
+    "STATE": "MAHARASHTRA",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "SVCB0042005": {
+    "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
+    "IFSC": "SVCB0042005",
+    "BRANCH": "THE REVDANDA CO-OP URBAN BANK LTD- POYNAD",
+    "ADDRESS": "AT POST- POYNAD, RADA HARI SANKUL, TALUKA ALIBAG, DISTRICT RAIGAD, PIN NO 402108",
+    "CONTACT": "8407988777",
+    "CITY": "RAIGAD",
+    "DISTRICT": "POYNAD",
+    "STATE": "MAHARASHTRA",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "SVCB0043002": {
+    "BANK": "Janata Sahakari Bank Amravati",
     "IFSC": "SVCB0043002",
-    "BRANCH": "JANATA SAHAKARI BANK LTD AMRAVATI- AMRAVATI",
+    "BRANCH": "Janata Sahakari Bank Amravati IMPS",
     "CENTRE": "AMRAVATI",
     "DISTRICT": "AMRAVATI",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PANCHSHEEL CINEMA MARG, AMRAVATI",
     "CONTACT": "07212676457",
     "IMPS": true,
+    "CITY": "AMRAVATI",
     "UPI": true,
     "MICR": "444819101",
     "RTGS": true,
-    "NEFT": false
+    "NEFT": true
   },
   "SVCB0043003": {
     "IFSC": "SVCB0043003",
@@ -7886,7 +8587,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AMRAVATI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0043004": {
@@ -7901,7 +8603,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHANDUR BAZAR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0043005": {
@@ -7916,7 +8619,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AMRAVATI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0043006": {
@@ -7931,7 +8635,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ANJANGAON SURJI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0045002": {
@@ -7946,7 +8651,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0045003": {
@@ -7961,7 +8667,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SHIMOGA",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0045004": {
@@ -7976,7 +8683,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HOSANAGARA",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0046002": {
@@ -7991,7 +8699,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0047002": {
@@ -8005,7 +8714,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOPARGAON",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -8021,7 +8731,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOPARGAON",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0047004": {
@@ -8035,7 +8746,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOPARGAON",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -8050,7 +8762,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SINNAR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -8065,7 +8778,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RAHATA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -8080,7 +8794,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "POHEGAON",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -8096,7 +8811,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RAHURI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0048003": {
@@ -8110,7 +8826,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ADONI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -8126,7 +8843,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RAJAHMUNDRY",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0049003": {
@@ -8140,7 +8858,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RAJAHMUNDRY",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -8155,7 +8874,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RAJAHMUNDRY",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -8171,7 +8891,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHOPAL",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0052002": {
@@ -8186,7 +8907,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HUBLI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0052003": {
@@ -8201,7 +8923,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GADAG",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0052004": {
@@ -8216,7 +8939,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NARGUND",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0052005": {
@@ -8231,7 +8955,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HUBLI-DHARWAD",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0052006": {
@@ -8246,7 +8971,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KERUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0053002": {
@@ -8260,7 +8986,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GOOTY",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -8275,7 +9002,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GOOTY",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -8291,7 +9019,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AHMADNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0054003": {
@@ -8306,7 +9035,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AHMADNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0054004": {
@@ -8321,7 +9051,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AHMADNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0054005": {
@@ -8336,7 +9067,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AHMADNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0055002": {
@@ -8351,7 +9083,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DUDHAGAON",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0055003": {
@@ -8366,7 +9099,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SANGLI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0055004": {
@@ -8381,7 +9115,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SANGLI",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0056002": {
@@ -8396,7 +9131,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOVVUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0057002": {
@@ -8411,7 +9147,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AHMADNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0057003": {
@@ -8426,7 +9163,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AHMADNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0057004": {
@@ -8441,7 +9179,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AHMADNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0057005": {
@@ -8456,7 +9195,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AHMADNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0057006": {
@@ -8471,7 +9211,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SHRIGONDA",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0057007": {
@@ -8486,7 +9227,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AHMADNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0057008": {
@@ -8501,7 +9243,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TISGAON",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0057009": {
@@ -8515,7 +9258,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SHIRUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -8526,12 +9270,13 @@
     "DISTRICT": "YADGIR",
     "STATE": "KARNATAKA",
     "ADDRESS": "APMC YARD, YADGIR ROAD, SHAHAPUR, DISTRICT YADGIR- 585223",
-    "CONTACT": null,
+    "CONTACT": "243019",
     "MICR": "585896511",
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SHAHAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0060002": {
@@ -8546,7 +9291,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TUMKUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0060003": {
@@ -8561,7 +9307,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NITTUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0061002": {
@@ -8576,7 +9323,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CUMBUM",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0062002": {
@@ -8591,7 +9339,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HOSPET",
+    "NEFT": true,
     "IMPS": true
   },
   "SVCB0062003": {
@@ -8605,7 +9354,8 @@
     "BANK": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KAMPLI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   }

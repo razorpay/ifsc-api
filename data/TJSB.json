@@ -1,17 +1,18 @@
 {
   "TJSB0000001": {
-    "BANK": "TJSB SAHAKARI BANK LTD.",
+    "BANK": "Thane Janata Sahakari Bank",
     "IFSC": "TJSB0000001",
-    "BRANCH": "Head Office",
+    "BRANCH": "Thane Janata Sahakari Bank IMPS",
     "CENTRE": "THANE",
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Madhukar Bhavan, Plot No 16,Wagle Estate, Thane 400 604,Maharashtra.",
-    "CONTACT": null,
+    "CONTACT": "25838500",
     "IMPS": true,
+    "CITY": "THANE",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "NEFT": true,
     "MICR": null
   },
   "TJSB0000002": {
@@ -25,7 +26,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -40,7 +42,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -55,7 +58,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -70,7 +74,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -85,7 +90,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -100,7 +106,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -115,7 +122,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -130,7 +138,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -145,7 +154,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NEW BOMBAY",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -160,7 +170,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -175,7 +186,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NEW BOMBAY",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -190,7 +202,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -205,7 +218,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -220,7 +234,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -235,7 +250,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NASHIK",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -250,7 +266,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -266,7 +283,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000019": {
@@ -280,7 +298,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -296,7 +315,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DOMBIVLI",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000021": {
@@ -310,7 +330,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NASHIK",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -325,7 +346,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -340,7 +362,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -355,7 +378,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -371,7 +395,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NARHE",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000028": {
@@ -386,7 +411,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000029": {
@@ -400,7 +426,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ALANDI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -416,7 +443,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PIMPRI CHINCHWAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000032": {
@@ -430,7 +458,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DEHU ROAD",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -445,7 +474,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PIMPRI CHINCHWAD",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -460,7 +490,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PIMPRI CHINCHWAD",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -475,7 +506,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -490,7 +522,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHAKAN",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -506,7 +539,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PIMPRI CHINCHWAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000040": {
@@ -520,7 +554,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NIGDI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -535,7 +570,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PIMPRI CHINCHWAD",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -550,7 +586,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PIMPRI CHINCHWAD",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -565,7 +602,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NASHIK",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -581,7 +619,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000047": {
@@ -595,7 +634,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHIWANDI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -610,7 +650,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -625,7 +666,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PANVEL",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -641,7 +683,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NASHIK",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000051": {
@@ -655,7 +698,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -670,7 +714,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -685,7 +730,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -700,7 +746,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MIRA-BHAYANDAR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -715,7 +762,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SATARA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -730,7 +778,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HADAPSAR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -745,7 +794,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -760,7 +810,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KALYAN",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -775,7 +826,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KALYAN",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -790,7 +842,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NASHIK",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -805,7 +858,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -820,7 +874,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NEW BOMBAY",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -835,7 +890,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -850,7 +906,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MAPUSA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -865,7 +922,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -880,7 +938,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BELGAUM",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -895,7 +954,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AURANGABAD",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -910,7 +970,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -925,7 +986,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AUSA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -940,7 +1002,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOLHAPUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -955,7 +1018,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HINGNE KHURD",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -970,7 +1034,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NAGPUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -981,11 +1046,12 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "P-81, Rabale MIDC, Thane Belapur Road, Rabale, Navi Mumbai-400701",
-    "CONTACT": null,
+    "CONTACT": "27605578",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NEW BOMBAY",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1000,7 +1066,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DHANKAWADI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1016,7 +1083,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHIPLUN",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000086": {
@@ -1026,11 +1094,12 @@
     "DISTRICT": "JALNA",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Gala No.34 B, New Mondha, Bus Stand Road, Jalna-421203",
-    "CONTACT": null,
+    "CONTACT": "243022",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JALNA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1041,11 +1110,12 @@
     "DISTRICT": "SANGLI",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shop No.1,2,3,4 Siddhivinayak Mandmark, Pushparaj Chowk, Miraj Road, Sangli-416416",
-    "CONTACT": null,
+    "CONTACT": "2321323",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SANGLI-MIRAJ-KUPWAD",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1056,11 +1126,12 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shop No.17 to 21,Shree Swami Prasad, Building No.33,Shelar Park,Khadakpada Chowk<Kalyan(W), Pin-421301",
-    "CONTACT": null,
+    "CONTACT": "2232600",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KALYAN",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1071,11 +1142,12 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Sinhgad Institute Building, Mhada Colony, Chandivali Gaon, Mumbai-400072",
-    "CONTACT": null,
+    "CONTACT": "88577115",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1086,11 +1158,12 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Harmony Plaza, Shop No.58, 156 to 158, Boisar Tarapur Road, Boisar Tarapur Road, Boisar-401501",
-    "CONTACT": null,
+    "CONTACT": "266038",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BOISAR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1101,11 +1174,12 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shop No.SF4, SF5, SF8 & SF9, 1st Flr, Utsav Comm. Complex, At Kudus Naka, Opp. Talathi Office, Tal Wada, Thane.",
-    "CONTACT": null,
+    "CONTACT": "220222",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KUDUS",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1116,11 +1190,12 @@
     "DISTRICT": "NORTH GOA",
     "STATE": "GOA",
     "ADDRESS": "Shop. No.29,30,31,32,33,34 & 35 , Raj Krishna Tower, Shanti Nagar, Ponda , Goa-403401.",
-    "CONTACT": null,
+    "CONTACT": "2311288",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PONDA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1131,11 +1206,12 @@
     "DISTRICT": "SOUTH GOA",
     "STATE": "GOA",
     "ADDRESS": "Shop No.7 & 8 Pacheco's Lotus City Centre, Behind Police Station, Comba, Margaon, Goa-403601",
-    "CONTACT": null,
+    "CONTACT": "2710179",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MARGAO",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1146,11 +1222,12 @@
     "DISTRICT": "NASIK",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shop No.1, Gayatri Apt., Near ABB circle, Opp..Kesri Tours & Travels, Mahatma Nagar, Nashik-422007.",
-    "CONTACT": null,
+    "CONTACT": "2363833",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NASHIK",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1165,7 +1242,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PEN",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1180,7 +1258,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AKOLA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1195,7 +1274,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SOLAPUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1210,7 +1290,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SURAT",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1225,7 +1306,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VADODARA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1240,7 +1322,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AHMEDABAD",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1256,7 +1339,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000103": {
@@ -1270,7 +1354,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1285,7 +1370,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DOMBIVLI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1300,7 +1386,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SHAHAPUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1315,7 +1402,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1330,7 +1418,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PANAJI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1345,7 +1434,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ULHASNAGAR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1360,7 +1450,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HUBLI-DHARWAD",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1376,7 +1467,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000111": {
@@ -1390,7 +1482,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RAJKOT",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1406,7 +1499,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SURAT",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000113": {
@@ -1421,7 +1515,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AHMADNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000114": {
@@ -1436,7 +1531,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NANDED",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000115": {
@@ -1451,7 +1547,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000116": {
@@ -1466,7 +1563,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AURANGABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000117": {
@@ -1481,7 +1579,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NAGPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000118": {
@@ -1496,7 +1595,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AHMEDABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000119": {
@@ -1510,7 +1610,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ICHALKARNJI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1526,7 +1627,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AMRAVATI",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000121": {
@@ -1540,7 +1642,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1556,7 +1659,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOLHAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000124": {
@@ -1566,12 +1670,13 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PREMISES NO.42, 'E' WING, BUILDING NO.2, VEER SAVARKAR MARG, VIKHROLI WEST, MUMBAI-400079",
-    "CONTACT": null,
+    "CONTACT": "25188588",
     "MICR": "400109048",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000125": {
@@ -1581,12 +1686,13 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SADGURU HEIGHT-I, SHOP NO.1, CTS NO.2488,2488/1 TO 14.2490.2491 & 2492(B), SHIV VALLABH ROAD, DAHISAR-EAST, MUMBAI-400068",
-    "CONTACT": null,
+    "CONTACT": "28965997",
     "MICR": "400109047",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000126": {
@@ -1601,7 +1707,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000127": {
@@ -1616,7 +1723,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VADODARA",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000128": {
@@ -1631,7 +1739,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000129": {
@@ -1646,7 +1755,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000130": {
@@ -1661,7 +1771,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000131": {
@@ -1676,7 +1787,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VAPI",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000132": {
@@ -1691,7 +1803,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SINNAR",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000133": {
@@ -1706,7 +1819,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NALLASOPARA",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000134": {
@@ -1721,7 +1835,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VIRAR",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000135": {
@@ -1736,7 +1851,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PALGHAR",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000136": {
@@ -1751,7 +1867,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MORBI",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000137": {
@@ -1766,7 +1883,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NAVI MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000138": {
@@ -1781,7 +1899,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000139": {
@@ -1796,7 +1915,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000140": {
@@ -1811,7 +1931,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VASCO-DA-GAMA",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000141": {
@@ -1826,7 +1947,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KARWAR",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000143": {
@@ -1841,7 +1963,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NAVI MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000144": {
@@ -1856,7 +1979,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHIWANDI",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000145": {
@@ -1871,7 +1995,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000146": {
@@ -1886,7 +2011,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GANDHIDHAM",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000147": {
@@ -1901,7 +2027,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000148": {
@@ -1916,7 +2043,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NASHIK",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000149": {
@@ -1931,7 +2059,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000150": {
@@ -1946,7 +2075,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SURAT",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000151": {
@@ -1961,7 +2091,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PIMPRI CHINCHWAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000152": {
@@ -1976,7 +2107,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MURBAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000153": {
@@ -1991,7 +2123,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KARAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000154": {
@@ -2006,7 +2139,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANGALORE URBAN",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000155": {
@@ -2021,7 +2155,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000156": {
@@ -2036,7 +2171,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "INDORE",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000157": {
@@ -2051,7 +2187,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "YAVATMAL",
+    "NEFT": true,
     "IMPS": true
   },
   "TJSB0000158": {
@@ -2066,7 +2203,8 @@
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true
   }
 }

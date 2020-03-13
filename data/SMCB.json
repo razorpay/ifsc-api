@@ -1,14 +1,15 @@
 {
   "SMCB0000001": {
-    "BANK": "SHIVALIK MERCANTILE CO-OPERATIVE BANK LTD.",
+    "BANK": "Shivalik Mercantile Co-operative Bank",
     "IFSC": "SMCB0000001",
-    "BRANCH": "RTGS-HO",
+    "BRANCH": "Shivalik Mercantile Co-operative Bank IMPS",
     "CENTRE": "SAHARANPUR",
     "DISTRICT": "SAHARANPUR",
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "KAKIKAT NAGAR, SAHARANPUR 247001",
     "CONTACT": "1322726125",
     "IMPS": true,
+    "CITY": "SAHARANPUR",
     "UPI": false,
     "RTGS": true,
     "NEFT": false,
@@ -25,7 +26,8 @@
     "BANK": "SHIVALIK MERCANTILE CO-OPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SAHARANPUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -41,7 +43,8 @@
     "BANK": "SHIVALIK MERCANTILE CO-OPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SAHARANPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SMCB0001002": {
@@ -56,7 +59,8 @@
     "BANK": "SHIVALIK MERCANTILE CO-OPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GANGOH",
+    "NEFT": true,
     "IMPS": true
   },
   "SMCB0001003": {
@@ -71,7 +75,8 @@
     "BANK": "SHIVALIK MERCANTILE CO-OPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SAHARANPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SMCB0001004": {
@@ -86,7 +91,8 @@
     "BANK": "SHIVALIK MERCANTILE CO-OPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DEOBAND",
+    "NEFT": true,
     "IMPS": true
   },
   "SMCB0001005": {
@@ -101,7 +107,8 @@
     "BANK": "SHIVALIK MERCANTILE CO-OPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AMBEHTA",
+    "NEFT": true,
     "IMPS": true
   },
   "SMCB0001006": {
@@ -116,7 +123,8 @@
     "BANK": "SHIVALIK MERCANTILE CO-OPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DHAR",
+    "NEFT": true,
     "IMPS": true
   },
   "SMCB0001007": {
@@ -131,7 +139,8 @@
     "BANK": "SHIVALIK MERCANTILE CO-OPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NOIDA",
+    "NEFT": true,
     "IMPS": true
   },
   "SMCB0001008": {
@@ -146,7 +155,8 @@
     "BANK": "SHIVALIK MERCANTILE CO-OPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MEERUT",
+    "NEFT": true,
     "IMPS": true
   },
   "SMCB0001009": {
@@ -161,7 +171,8 @@
     "BANK": "SHIVALIK MERCANTILE CO-OPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SAHARANPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SMCB0001010": {
@@ -176,7 +187,8 @@
     "BANK": "SHIVALIK MERCANTILE CO-OPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "INDORE",
+    "NEFT": true,
     "IMPS": true
   },
   "SMCB0001011": {
@@ -191,7 +203,8 @@
     "BANK": "SHIVALIK MERCANTILE CO-OPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NAGAL",
+    "NEFT": true,
     "IMPS": true
   },
   "SMCB0001012": {
@@ -206,7 +219,8 @@
     "BANK": "SHIVALIK MERCANTILE CO-OPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SARSAWA",
+    "NEFT": true,
     "IMPS": true
   },
   "SMCB0001013": {
@@ -221,7 +235,8 @@
     "BANK": "SHIVALIK MERCANTILE CO-OPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NANAUTA",
+    "NEFT": true,
     "IMPS": true
   },
   "SMCB0001014": {
@@ -236,7 +251,8 @@
     "BANK": "SHIVALIK MERCANTILE CO-OPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RAMPUR MANIHARAN",
+    "NEFT": true,
     "IMPS": true
   },
   "SMCB0001015": {
@@ -251,7 +267,8 @@
     "BANK": "SHIVALIK MERCANTILE CO-OPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GHAZIABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "SMCB0001016": {
@@ -266,7 +283,8 @@
     "BANK": "SHIVALIK MERCANTILE CO-OPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NOIDA",
+    "NEFT": true,
     "IMPS": true
   },
   "SMCB0001017": {
@@ -281,7 +299,8 @@
     "BANK": "SHIVALIK MERCANTILE CO-OPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SAHARANPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SMCB0001018": {
@@ -296,7 +315,8 @@
     "BANK": "SHIVALIK MERCANTILE CO-OPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GHAZIABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "SMCB0001019": {
@@ -311,7 +331,8 @@
     "BANK": "SHIVALIK MERCANTILE CO-OPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUZAFFER NAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "SMCB0001020": {
@@ -326,7 +347,8 @@
     "BANK": "SHIVALIK MERCANTILE CO-OPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KHATAULI",
+    "NEFT": true,
     "IMPS": true
   },
   "SMCB0001021": {
@@ -341,7 +363,8 @@
     "BANK": "SHIVALIK MERCANTILE CO-OPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SAHARANPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SMCB0001022": {
@@ -356,7 +379,8 @@
     "BANK": "SHIVALIK MERCANTILE CO-OPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KHARGONE",
+    "NEFT": true,
     "IMPS": true
   },
   "SMCB0001023": {
@@ -371,7 +395,8 @@
     "BANK": "SHIVALIK MERCANTILE CO-OPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "LUCKNOW",
+    "NEFT": true,
     "IMPS": true
   },
   "SMCB0001024": {
@@ -386,7 +411,8 @@
     "BANK": "SHIVALIK MERCANTILE CO-OPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "LUCKNOW",
+    "NEFT": true,
     "IMPS": true
   },
   "SMCB0001025": {
@@ -401,7 +427,8 @@
     "BANK": "SHIVALIK MERCANTILE CO-OPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SMCB0001026": {
@@ -416,7 +443,8 @@
     "BANK": "SHIVALIK MERCANTILE CO-OPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SHAMLI",
+    "NEFT": true,
     "IMPS": true
   },
   "SMCB0001027": {
@@ -431,7 +459,8 @@
     "BANK": "SHIVALIK MERCANTILE CO-OPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NOIDA",
+    "NEFT": true,
     "IMPS": true
   },
   "SMCB0001028": {
@@ -446,7 +475,8 @@
     "BANK": "SHIVALIK MERCANTILE CO-OPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MAWANA",
+    "NEFT": true,
     "IMPS": true
   },
   "SMCB0001029": {
@@ -461,7 +491,8 @@
     "BANK": "SHIVALIK MERCANTILE CO-OPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DEWAS",
+    "NEFT": true,
     "IMPS": true
   },
   "SMCB0001030": {
@@ -476,7 +507,8 @@
     "BANK": "SHIVALIK MERCANTILE CO-OPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "UJJAIN",
+    "NEFT": true,
     "IMPS": true
   },
   "SMCB0001031": {
@@ -491,7 +523,8 @@
     "BANK": "SHIVALIK MERCANTILE CO-OPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SARDHANA",
+    "NEFT": true,
     "IMPS": true
   }
 }

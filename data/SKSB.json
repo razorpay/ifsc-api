@@ -1,17 +1,18 @@
 {
   "SKSB0000001": {
-    "BANK": "SHIKSHAK SAHAKARI BANK LIMITED",
+    "BANK": "Shikshak Sahakari Bank",
     "IFSC": "SKSB0000001",
-    "BRANCH": "RTGS-HO",
+    "BRANCH": "Shikshak Sahakari Bank IMPS",
     "CENTRE": "NAGPUR",
     "DISTRICT": "NAGPUR",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "NEAR GANDHISAGAR MAHAL, NAGPUR 440018",
     "CONTACT": "07122774866",
     "IMPS": true,
+    "CITY": "NAGPUR",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "NEFT": true,
     "MICR": null
   },
   "SKSB0000002": {
@@ -25,7 +26,8 @@
     "BANK": "SHIKSHAK SAHAKARI BANK LIMITED",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NAGPUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   }

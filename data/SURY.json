@@ -1,14 +1,15 @@
 {
   "SURY0000001": {
-    "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
+    "BANK": "Suryoday Small Finance Bank",
     "IFSC": "SURY0000001",
-    "BRANCH": "RTGS HO IFSC",
+    "BRANCH": "Suryoday Small Finance Bank IMPS",
     "CENTRE": "NAVI MUMBAI",
     "DISTRICT": "Thane",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "UNIT NUMBER 302,SECTOR 11,201 IN PUJIT PLAZA BUILDING,NAVI MUMBAI",
     "CONTACT": "00",
     "IMPS": true,
+    "CITY": "NAVI MUMBAI",
     "UPI": true,
     "MICR": "400757001",
     "RTGS": true,
@@ -26,7 +27,8 @@
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NAVI MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SURY0000012": {
@@ -41,7 +43,8 @@
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SURY0000013": {
@@ -56,7 +59,8 @@
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NAVI MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SURY0000014": {
@@ -71,7 +75,8 @@
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SURY0000015": {
@@ -86,7 +91,8 @@
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SURY0000016": {
@@ -101,7 +107,8 @@
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SURY0000017": {
@@ -116,7 +123,8 @@
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SURY0000018": {
@@ -131,7 +139,8 @@
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AHMEDABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "SURY0000019": {
@@ -146,7 +155,8 @@
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "INDORE",
+    "NEFT": true,
     "IMPS": true
   },
   "SURY0000020": {
@@ -161,7 +171,8 @@
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUDUCHERRY",
+    "NEFT": true,
     "IMPS": true
   },
   "SURY0000021": {
@@ -176,7 +187,8 @@
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHENNAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SURY0000022": {
@@ -191,7 +203,8 @@
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "COIMBATORE",
+    "NEFT": true,
     "IMPS": true
   },
   "SURY0000023": {
@@ -206,7 +219,8 @@
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TIRUCHIRAPALLI",
+    "NEFT": true,
     "IMPS": true
   },
   "SURY0000024": {
@@ -221,7 +235,8 @@
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHUBANESHWAR",
+    "NEFT": true,
     "IMPS": true
   },
   "SURY0000025": {
@@ -236,7 +251,8 @@
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHENNAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SURY0000026": {
@@ -251,7 +267,8 @@
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SURY0000027": {
@@ -266,7 +283,8 @@
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SURY0000028": {
@@ -281,7 +299,8 @@
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SURY0000031": {
@@ -296,7 +315,8 @@
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SURY0000032": {
@@ -311,7 +331,8 @@
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true
   },
   "SURY0000033": {
@@ -326,7 +347,8 @@
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SURY0000034": {
@@ -341,7 +363,8 @@
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SURY0000035": {
@@ -356,7 +379,8 @@
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true
   },
   "SURY0000036": {
@@ -371,7 +395,8 @@
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true
   },
   "SURY0000037": {
@@ -386,7 +411,8 @@
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SURY0000038": {
@@ -401,7 +427,8 @@
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHENNAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SURY0050080": {
@@ -416,7 +443,8 @@
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KALYAN",
+    "NEFT": true,
     "IMPS": true
   },
   "SURY0050223": {
@@ -431,7 +459,8 @@
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TITWALA",
+    "NEFT": true,
     "IMPS": true
   },
   "SURY0BK0000": {
@@ -445,7 +474,8 @@
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NAVI MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -460,7 +490,8 @@
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NAVI MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -475,7 +506,8 @@
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NAVI MUMBAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   }

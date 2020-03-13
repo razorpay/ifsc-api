@@ -1,17 +1,18 @@
 {
   "TDCB0000001": {
-    "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
+    "BANK": "Thane District Central Co-operative Bank",
     "IFSC": "TDCB0000001",
-    "BRANCH": "Head Office (Service Branch)",
+    "BRANCH": "Thane District Central Co-operative Bank IMPS",
     "CENTRE": "THANE",
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shivaji Path, Post Box 19,Thane (W), Pin 400601,",
     "CONTACT": "02225333014",
     "IMPS": true,
+    "CITY": "THANE",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "NEFT": true,
     "MICR": null
   },
   "TDCB0000002": {
@@ -25,7 +26,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ARNALA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -41,7 +43,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VASAI",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000004": {
@@ -56,7 +59,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VASAI",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000005": {
@@ -71,7 +75,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VASAI",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000006": {
@@ -85,7 +90,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VIRAR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -101,7 +107,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VASAI",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000008": {
@@ -116,7 +123,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NALLASOPARA",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000009": {
@@ -130,7 +138,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NIRMAL",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -145,7 +154,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHIWANDI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -161,7 +171,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHIWANDI",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000012": {
@@ -176,7 +187,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PADGHA",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000013": {
@@ -191,7 +203,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHIWANDI",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000014": {
@@ -205,7 +218,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GANESHPURI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -221,7 +235,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHIWANDI",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000016": {
@@ -236,7 +251,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHIWANDI",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000017": {
@@ -250,7 +266,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DAHANU",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -265,7 +282,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DAHANU ROAD",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -280,7 +298,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BORDI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -295,7 +314,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DAHANU",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -310,7 +330,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DAHANU",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -325,7 +346,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VANGAON",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -340,7 +362,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JAWHAR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -355,7 +378,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VIKRAMGAD",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -370,7 +394,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KALYAN",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -386,7 +411,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KALYAN",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000027": {
@@ -401,7 +427,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DOMBIVLI",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000028": {
@@ -416,7 +443,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DOMBIVLI",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000029": {
@@ -430,7 +458,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MURBAD",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -445,7 +474,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MURBAD",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -460,7 +490,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SARALGAON",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -476,7 +507,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000033": {
@@ -491,7 +523,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000034": {
@@ -506,7 +539,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MIRA-BHAYANDAR",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000035": {
@@ -521,7 +555,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000036": {
@@ -536,7 +571,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000037": {
@@ -551,7 +587,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000038": {
@@ -566,7 +603,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000039": {
@@ -581,7 +619,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000040": {
@@ -596,7 +635,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000041": {
@@ -611,7 +651,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MIRA-BHAYANDAR",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000042": {
@@ -626,7 +667,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ULHASNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000043": {
@@ -641,7 +683,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ULHASNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000044": {
@@ -656,7 +699,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ULHASNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000045": {
@@ -671,8 +715,25 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ULHASNAGAR",
+    "NEFT": true,
     "IMPS": true
+  },
+  "TDCB0000046": {
+    "BANK": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+    "IFSC": "TDCB0000046",
+    "BRANCH": "VANGANI",
+    "ADDRESS": "KALPANA KUNJ,VANGANI,TAL AMBARNATH,DIST THANE PIN CODE 421 503",
+    "CONTACT": "2660404",
+    "CITY": "THANE",
+    "DISTRICT": "AMBARNATH",
+    "STATE": "MAHARASHTRA",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": false,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "TDCB0000047": {
     "IFSC": "TDCB0000047",
@@ -685,7 +746,40 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PALGHAR",
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
+  },
+  "TDCB0000048": {
+    "BANK": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+    "IFSC": "TDCB0000048",
+    "BRANCH": "BOISAR",
+    "ADDRESS": "PARAS PLAZA BUILDING, NEAR BOISAR RAILY STATION",
+    "CONTACT": null,
+    "CITY": "THANE",
+    "DISTRICT": "BOISAR",
+    "STATE": "MAHARASHTRA",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": false,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "TDCB0000049": {
+    "BANK": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+    "IFSC": "TDCB0000049",
+    "BRANCH": "TARAPUR MIDC",
+    "ADDRESS": "AT TARAPUR MIDC,GOGATE NAKA",
+    "CONTACT": null,
+    "CITY": "THANE",
+    "DISTRICT": "TARAPUR MIDC",
+    "STATE": "MAHARASHTRA",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": false,
+    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
@@ -700,7 +794,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KELWA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -715,7 +810,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MANOR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -731,7 +827,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PALGHAR",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000053": {
@@ -745,7 +842,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PALGHAR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -760,7 +858,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PALGHAR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -775,7 +874,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SHAHAPUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -790,7 +890,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SHAHAPUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -805,7 +906,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SHAHAPUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -820,7 +922,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KASARA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -835,7 +938,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KHARDI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -850,7 +954,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KINHAVALI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -866,7 +971,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "WASHIND",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000062": {
@@ -880,7 +986,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SHAHAPUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -895,7 +1002,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "WADA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -910,7 +1018,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KUDUS",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -925,7 +1034,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KANCHAD",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -940,7 +1050,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TALASARI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -955,7 +1066,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MOKHADA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -970,7 +1082,40 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KHODALA",
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
+  },
+  "TDCB0000069": {
+    "BANK": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+    "IFSC": "TDCB0000069",
+    "BRANCH": "BADLAPUR",
+    "ADDRESS": "HARSHAL  APARTMENT, 1 ST FLOOR,  NEAR TALATHI OFFI",
+    "CONTACT": null,
+    "CITY": "THANE",
+    "DISTRICT": "BADLAPUR",
+    "STATE": "MAHARASHTRA",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": false,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "TDCB0000070": {
+    "BANK": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+    "IFSC": "TDCB0000070",
+    "BRANCH": "DANDI",
+    "ADDRESS": "KOPRAN MACHIMAR DANDI SANSTHA AT & POST-DANDI,TALU",
+    "CONTACT": null,
+    "CITY": "THANE",
+    "DISTRICT": "DANDI",
+    "STATE": "MAHARASHTRA",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": false,
+    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
@@ -985,7 +1130,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PALGHAR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1000,7 +1146,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VASAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1015,7 +1162,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KHANIVALI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1031,7 +1179,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHIWANDI",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000075": {
@@ -1046,7 +1195,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KALYAN",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000076": {
@@ -1060,7 +1210,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ATGAON",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1075,7 +1226,24 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MURBAD",
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
+  },
+  "TDCB0000078": {
+    "BANK": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+    "IFSC": "TDCB0000078",
+    "BRANCH": "SHIVALE EXT. COUNTER",
+    "ADDRESS": "AT-GANDHI CAMP SHIVALE,TAL-MURBAD,PH-247097",
+    "CONTACT": null,
+    "CITY": "THANE",
+    "DISTRICT": "SHIVALE EXT. COUNTER",
+    "STATE": "MAHARASHTRA",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": false,
+    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
@@ -1091,7 +1259,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KALYAN",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000080": {
@@ -1106,7 +1275,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MIRA-BHAYANDAR",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000081": {
@@ -1121,7 +1291,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000082": {
@@ -1135,7 +1306,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BELVALI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1150,7 +1322,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MURBAD",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1165,7 +1338,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ANGAON",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1176,12 +1350,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Mukta Residensy, B-2, 1st floor, Near Khidkaleshwar Mandir,Kalyan – Shilfata,Taluka-Thane",
-    "CONTACT": null,
+    "CONTACT": "9224182032",
     "MICR": "400524053",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000086": {
@@ -1196,8 +1371,25 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true
+  },
+  "TDCB0000087": {
+    "BANK": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+    "IFSC": "TDCB0000087",
+    "BRANCH": "KUNDE-MAMNOLI",
+    "ADDRESS": "ROOM NO. 281, GR FLOOR, AT. MAMNOLI,",
+    "CONTACT": null,
+    "CITY": "THANE",
+    "DISTRICT": "KUNDE-MAMNOLI",
+    "STATE": "MAHARASHTRA",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": false,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "TDCB0000088": {
     "IFSC": "TDCB0000088",
@@ -1211,7 +1403,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KALYAN",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000089": {
@@ -1225,7 +1418,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "UDHAWA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1236,12 +1430,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shri Ganesh Complex, A-1, 1st Floor, Anjur Road, At. Mankoli, Post. Anjur, Taluka-Bhiwandi, Dist-Thane",
-    "CONTACT": null,
+    "CONTACT": "9226745828",
     "MICR": "400524050",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHIWANDI",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000091": {
@@ -1255,7 +1450,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DAHANU",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1270,7 +1466,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PALGHAR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1285,7 +1482,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AGHAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1296,11 +1494,12 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "At & Post Aalonde, Tal- Vikramgad, Dist Thane",
-    "CONTACT": null,
+    "CONTACT": "9764236712",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VIKRAMGAD",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1316,7 +1515,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SHAHAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000096": {
@@ -1326,11 +1526,12 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Sai Sangat Apt. 1 st floor Plot no:4 sector:3 ,Sanpada,Navi Mumbai,Thane. 400705",
-    "CONTACT": null,
+    "CONTACT": "27757911",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1341,11 +1542,28 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "House No.75, Ground Floor, Village Jamasar, Tal-Jawhar, Dist-Thane.",
-    "CONTACT": null,
+    "CONTACT": "9403698313",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JAWHAR",
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
+  },
+  "TDCB0000098": {
+    "BANK": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+    "IFSC": "TDCB0000098",
+    "BRANCH": "NEWALI",
+    "ADDRESS": "POST MANGRUL,TAL-AMERNATH",
+    "CONTACT": null,
+    "CITY": "THANE",
+    "DISTRICT": "NEWALI NAKA",
+    "STATE": "MAHARASHTRA",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": false,
+    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
@@ -1360,7 +1578,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KALYAN",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1371,11 +1590,12 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Mayur Apartment,Gala no:7,Gr Floor,Sector:12/A Plot no:18 ,Koparkhairane,Navi Mumbai Pin:400709",
-    "CONTACT": null,
+    "CONTACT": "27542426",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1390,7 +1610,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KALYAN",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1406,7 +1627,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000103": {
@@ -1421,7 +1643,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SHAHAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000104": {
@@ -1436,7 +1659,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000105": {
@@ -1451,7 +1675,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHIWANDI",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000106": {
@@ -1466,7 +1691,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MURBAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000107": {
@@ -1481,7 +1707,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PALGHAR",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000108": {
@@ -1496,7 +1723,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TALASARI",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000109": {
@@ -1511,7 +1739,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DAHANU",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000110": {
@@ -1526,7 +1755,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PALGHAR",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000111": {
@@ -1541,7 +1771,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VASAI",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000112": {
@@ -1556,7 +1787,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VASAI",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000113": {
@@ -1570,7 +1802,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SHIRISHPADA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1586,7 +1819,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHIWANDI",
+    "NEFT": true,
     "IMPS": true
   },
   "TDCB0000115": {
@@ -1601,7 +1835,8 @@
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JAWHAR",
+    "NEFT": true,
     "IMPS": true
   }
 }

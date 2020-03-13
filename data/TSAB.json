@@ -1,14 +1,15 @@
 {
   "TSAB0000001": {
-    "BANK": "TELANGANA STATE COOP APEX BANK",
+    "BANK": "Telangana State Co-operative Apex Bank",
     "IFSC": "TSAB0000001",
-    "BRANCH": "RTGS-HO",
+    "BRANCH": "Telangana State Co-operative Apex Bank IMPS",
     "CENTRE": "HYDERABAD",
     "DISTRICT": "RANGAREDDY",
     "STATE": "TELANGANA",
     "ADDRESS": "4-1-511/3 TROOP BAZAR,KOTI,HYDERABAD 500001",
     "CONTACT": "8499998636",
     "IMPS": true,
+    "CITY": "HYDERABAD",
     "UPI": true,
     "RTGS": true,
     "NEFT": false,
@@ -26,7 +27,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0000102": {
@@ -41,7 +43,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0000103": {
@@ -56,7 +59,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0000104": {
@@ -71,7 +75,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SECUNDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0000105": {
@@ -86,7 +91,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SECUNDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0000107": {
@@ -101,7 +107,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0000108": {
@@ -116,7 +123,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0000109": {
@@ -131,7 +139,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0000110": {
@@ -146,7 +155,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0000111": {
@@ -161,7 +171,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0000112": {
@@ -176,7 +187,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0000113": {
@@ -191,7 +203,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0000114": {
@@ -206,7 +219,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0000115": {
@@ -221,7 +235,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SECUNDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0000116": {
@@ -236,7 +251,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0000117": {
@@ -251,7 +267,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0000118": {
@@ -266,7 +283,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0000119": {
@@ -281,7 +299,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SECUNDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0000120": {
@@ -296,7 +315,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0000121": {
@@ -311,7 +331,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0000122": {
@@ -326,7 +347,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0000123": {
@@ -341,7 +363,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0000124": {
@@ -356,7 +379,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0000125": {
@@ -371,7 +395,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0000127": {
@@ -386,7 +411,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0000128": {
@@ -401,7 +427,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0000129": {
@@ -416,7 +443,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0000130": {
@@ -431,7 +459,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0000131": {
@@ -446,7 +475,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0000132": {
@@ -461,7 +491,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0000133": {
@@ -476,7 +507,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0000134": {
@@ -491,7 +523,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0000135": {
@@ -506,7 +539,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0000136": {
@@ -521,7 +555,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0000137": {
@@ -536,7 +571,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0000138": {
@@ -550,7 +586,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -565,7 +602,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -581,7 +619,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0000141": {
@@ -596,7 +635,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0000142": {
@@ -611,7 +651,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0000143": {
@@ -626,7 +667,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0000144": {
@@ -641,7 +683,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0014001": {
@@ -656,7 +699,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MAHBUBNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0014002": {
@@ -671,7 +715,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ACHAMPET",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0014003": {
@@ -686,7 +731,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ALAMPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0014004": {
@@ -701,7 +747,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AMANGAL",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0014005": {
@@ -716,7 +763,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ATMAKUR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0014006": {
@@ -731,7 +779,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BADEPALLE",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0014007": {
@@ -746,7 +795,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BIJNEPALLE",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0014008": {
@@ -761,7 +811,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DEVERKADRA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0014009": {
@@ -776,7 +827,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GADWAL",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0014010": {
@@ -791,7 +843,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KALWAKURTI",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0014011": {
@@ -806,7 +859,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KODANGAL",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0014012": {
@@ -821,7 +875,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOLLAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0014013": {
@@ -836,7 +891,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOTHAKOTA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0014014": {
@@ -851,7 +907,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MAKTHAL",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0014015": {
@@ -866,7 +923,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NAGARKURNOOL",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0014016": {
@@ -881,7 +939,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NARAYANPET",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0014017": {
@@ -896,7 +955,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SHADNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0014018": {
@@ -911,7 +971,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SHANTHINAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0014019": {
@@ -926,7 +987,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MAHBUBNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0014020": {
@@ -941,7 +1003,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "WANAPARTHI",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0014021": {
@@ -955,7 +1018,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MARIKAL",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -970,7 +1034,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "YERRAVALLI X ROAD",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -986,7 +1051,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0015002": {
@@ -1001,7 +1067,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0015003": {
@@ -1016,7 +1083,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHEVELLA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0015004": {
@@ -1031,7 +1099,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0015005": {
@@ -1046,7 +1115,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HAYATNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0015006": {
@@ -1061,7 +1131,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "IBRAHIMPATAM",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0015007": {
@@ -1076,7 +1147,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RAJENDRANAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0015008": {
@@ -1091,7 +1163,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KUKATPALLY",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0015009": {
@@ -1106,7 +1179,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0015010": {
@@ -1121,7 +1195,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MAHESHWARAM",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0015011": {
@@ -1136,7 +1211,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MEDCHAL",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0015012": {
@@ -1151,7 +1227,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MOHAMMADABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0015013": {
@@ -1166,7 +1243,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MOMINPET",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0015014": {
@@ -1181,7 +1259,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PARGI",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0015015": {
@@ -1196,7 +1275,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "UPPAL",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0015016": {
@@ -1211,7 +1291,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0015017": {
@@ -1226,7 +1307,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SHANKARAPALLI",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0015018": {
@@ -1241,7 +1323,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TANDUR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0015019": {
@@ -1256,7 +1339,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0015020": {
@@ -1271,7 +1355,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0015021": {
@@ -1286,7 +1371,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VIKARABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0015022": {
@@ -1301,7 +1387,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SECUNDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0015023": {
@@ -1316,7 +1403,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MOINABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0015024": {
@@ -1331,7 +1419,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SERILINGAMPALLY",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0015025": {
@@ -1346,7 +1435,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0015027": {
@@ -1361,7 +1451,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SHAMSHABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0015028": {
@@ -1375,7 +1466,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "YACHARAM",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1390,7 +1482,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1405,7 +1498,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1420,7 +1514,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HYDERABAD",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -1436,7 +1531,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SANGAREDDY",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0017002": {
@@ -1451,7 +1547,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHEGUNTA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0017003": {
@@ -1466,7 +1563,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DOULTHABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0017004": {
@@ -1481,7 +1579,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DUBBAK",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0017005": {
@@ -1496,7 +1595,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GAJWEL",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0017006": {
@@ -1511,7 +1611,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JOGIPET",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0017007": {
@@ -1526,7 +1627,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MEDAK",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0017008": {
@@ -1541,7 +1643,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MEDAK",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0017009": {
@@ -1556,7 +1659,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NARAYANKHED",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0017010": {
@@ -1571,7 +1675,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NARSAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0017011": {
@@ -1586,7 +1691,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PAPANNAPET",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0017012": {
@@ -1601,7 +1707,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PATANCHERU",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0017013": {
@@ -1616,7 +1723,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RAMAYANPET",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0017014": {
@@ -1631,7 +1739,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SADASHIVPET",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0017015": {
@@ -1646,7 +1755,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SANGAREDDY",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0017016": {
@@ -1661,7 +1771,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SHANKARAMPET",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0017017": {
@@ -1676,7 +1787,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SIDDIPET",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0017018": {
@@ -1691,7 +1803,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TOOPRAN",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0017019": {
@@ -1706,7 +1819,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "YELDURTHY",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0017020": {
@@ -1721,7 +1835,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ZAHEERABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0017021": {
@@ -1736,7 +1851,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SANGAREDDY",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0017022": {
@@ -1751,7 +1867,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SANGAREDDY",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0017023": {
@@ -1766,7 +1883,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JARASANGAM",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0017024": {
@@ -1781,7 +1899,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SHANKARAMPET",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0017025": {
@@ -1796,7 +1915,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MEDAK",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0017026": {
@@ -1811,7 +1931,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MEDAK",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0017027": {
@@ -1826,7 +1947,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SANGAREDDY",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0017028": {
@@ -1841,7 +1963,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MEDAK",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0017029": {
@@ -1856,7 +1979,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MEDAK",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0017030": {
@@ -1871,7 +1995,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SANGAREDDY",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0017031": {
@@ -1886,7 +2011,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SIDDIPET",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0017032": {
@@ -1901,7 +2027,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SIDDIPET",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0017033": {
@@ -1916,7 +2043,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SANGAREDDY",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0017034": {
@@ -1931,7 +2059,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SIDDIPET",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0017035": {
@@ -1946,7 +2075,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SIDDIPET",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0017036": {
@@ -1961,7 +2091,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SANGAREDDY",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0017037": {
@@ -1976,7 +2107,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SANGAREDDY",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0017038": {
@@ -1991,7 +2123,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SANGAREDDY",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0017039": {
@@ -2006,7 +2139,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SIDDIPET",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0017040": {
@@ -2020,7 +2154,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SIDDIPET",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -2035,7 +2170,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SIDDIPET",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -2050,7 +2186,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SANGAREDDY",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -2065,7 +2202,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MEDAK",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -2080,7 +2218,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SANGAREDDY",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -2095,7 +2234,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SANGAREDDY",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -2111,7 +2251,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NIZAMABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018002": {
@@ -2126,7 +2267,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ARMOOR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018003": {
@@ -2141,7 +2283,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANSWADA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018004": {
@@ -2156,7 +2299,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHEEMGAL",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018005": {
@@ -2171,7 +2315,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHIKNUR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018006": {
@@ -2186,7 +2331,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BICHKUNDA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018007": {
@@ -2201,7 +2347,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHIRKUR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018008": {
@@ -2216,7 +2363,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BODHAN",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018009": {
@@ -2231,7 +2379,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DARPALLY",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018010": {
@@ -2246,7 +2395,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DICHPALLY",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018011": {
@@ -2261,7 +2411,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DOMAKONDA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018012": {
@@ -2276,7 +2427,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GANDHARI",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018013": {
@@ -2291,7 +2443,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KAMAREDDY",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018014": {
@@ -2306,7 +2459,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOTGIRI",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018015": {
@@ -2321,7 +2475,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MADNOOR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018016": {
@@ -2336,7 +2491,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MORTAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018017": {
@@ -2351,7 +2507,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NAGIREDDIPET",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018018": {
@@ -2366,7 +2523,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NANDIPET",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018019": {
@@ -2381,7 +2539,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VARNI",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018020": {
@@ -2396,7 +2555,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NAVIPET",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018021": {
@@ -2411,7 +2571,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NIZAMABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018022": {
@@ -2426,7 +2587,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NIZAMSAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018023": {
@@ -2441,7 +2603,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PITLAM",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018024": {
@@ -2456,7 +2619,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ARMOOR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018025": {
@@ -2471,7 +2635,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RANJERLA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018026": {
@@ -2486,7 +2651,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NIZAMABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018027": {
@@ -2501,7 +2667,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SADASIVNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018028": {
@@ -2516,7 +2683,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SIRIKONDA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018029": {
@@ -2531,7 +2699,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VARNI",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018030": {
@@ -2546,7 +2715,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VELPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018031": {
@@ -2561,7 +2731,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "YELLAREDDY",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018032": {
@@ -2576,7 +2747,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "YERGATLA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018033": {
@@ -2591,7 +2763,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "LINGAMPET",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018034": {
@@ -2606,7 +2779,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TADWAI",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018035": {
@@ -2621,7 +2795,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BALKONDA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018036": {
@@ -2636,7 +2811,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JAKKARAMPALLY",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018037": {
@@ -2651,7 +2827,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BIBIPET",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018038": {
@@ -2666,7 +2843,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MACHAREDDY",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018039": {
@@ -2681,7 +2859,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MAKLOOR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018040": {
@@ -2696,7 +2875,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KAMMARPALLY",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018041": {
@@ -2711,7 +2891,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JUKKAL",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018042": {
@@ -2726,7 +2907,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BANSWADA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018043": {
@@ -2741,7 +2923,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NANDIPET",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018044": {
@@ -2756,7 +2939,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NANDIPET",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018045": {
@@ -2771,7 +2955,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KAMAREDDY",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018046": {
@@ -2786,7 +2971,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MENDORA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018047": {
@@ -2801,7 +2987,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KAMAREDDY",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018048": {
@@ -2816,7 +3003,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RAMAREDDY",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018049": {
@@ -2831,7 +3019,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHIKNOOR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018050": {
@@ -2846,7 +3035,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BODHAN",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018051": {
@@ -2861,7 +3051,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MADNOOR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018052": {
@@ -2876,7 +3067,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NIZAMABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018053": {
@@ -2891,7 +3083,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "INDALWAI",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018054": {
@@ -2906,7 +3099,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RAJAMPET",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018055": {
@@ -2921,7 +3115,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PEDDA MALLAREDDY",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018056": {
@@ -2936,7 +3131,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ARMOOR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018057": {
@@ -2951,7 +3147,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NIZAMABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018058": {
@@ -2966,7 +3163,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NIZAMABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018059": {
@@ -2981,7 +3179,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NIZAMABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018060": {
@@ -2996,7 +3195,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BODHAN",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0018061": {
@@ -3010,7 +3210,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MIRZAPUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3025,7 +3226,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VARNI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3040,7 +3242,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "WAJID NAGAR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3056,7 +3259,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ADILABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0019002": {
@@ -3071,7 +3275,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ADILABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0019003": {
@@ -3086,7 +3291,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ASIFABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0019004": {
@@ -3101,7 +3307,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BELLAMPALLI",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0019005": {
@@ -3116,7 +3323,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BOATH",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0019006": {
@@ -3131,7 +3339,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHAINSA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0019007": {
@@ -3146,7 +3355,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHINNOR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0019008": {
@@ -3161,7 +3371,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ICHODA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0019009": {
@@ -3176,7 +3387,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JAINAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0019010": {
@@ -3191,7 +3403,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KALLUR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0019011": {
@@ -3206,7 +3419,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KHANAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0019012": {
@@ -3221,7 +3435,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "LAKSHATHIPET",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0019013": {
@@ -3236,7 +3451,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MANCHERIYAL",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0019014": {
@@ -3251,7 +3467,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUDHOL",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0019015": {
@@ -3266,7 +3483,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NIRMAL",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0019016": {
@@ -3281,7 +3499,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SIRPUR KAGAZNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0019017": {
@@ -3296,7 +3515,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SARANGPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0019018": {
@@ -3311,7 +3531,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "UTNOOR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0019019": {
@@ -3325,7 +3546,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THAMSI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3340,7 +3562,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JANNARAM",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3355,7 +3578,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MANDAMARRI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3370,7 +3594,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BELA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3385,7 +3610,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DEHAGAON",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3400,7 +3626,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GUDIHATNOOR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3415,7 +3642,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JAINOOR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3430,7 +3658,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOWTHALA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3445,7 +3674,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "LAXMANCHANDA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3460,7 +3690,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SIRPUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3475,7 +3706,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TANDOOR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3490,7 +3722,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NIRMAL",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3505,7 +3738,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ADILABAD",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3520,7 +3754,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MANCHERIAL",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3535,7 +3770,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ADILABAD",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3550,7 +3786,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ADILABAD",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3565,7 +3802,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MANCHERIAL",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3580,7 +3818,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NIRMAL",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3595,7 +3834,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ADILABAD",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3610,7 +3850,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NIRMAL",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3625,7 +3866,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MANCHERIAL",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3640,7 +3882,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ASIFABAD",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -3655,7 +3898,24 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ASIFABAD",
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
+  },
+  "TSAB0019042": {
+    "BANK": "TELANGANA STATE COOP APEX BANK",
+    "IFSC": "TSAB0019042",
+    "BRANCH": "THE DISTRICT COOPERATIVE CENTRAL BANK LTD ADILABAD BEJJUR",
+    "ADDRESS": "C O PACS BUILDING SOCIETY MDL BEJJUR 504299",
+    "CONTACT": "8498053869",
+    "CITY": "KB ASIFABAD",
+    "DISTRICT": "ASIFA BAD",
+    "STATE": "TELANGANA",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
     "IMPS": true,
     "MICR": null
   },
@@ -3671,7 +3931,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KARIMNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020002": {
@@ -3686,7 +3947,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BEJJANKI",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020003": {
@@ -3701,7 +3963,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHOPPADANDI",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020004": {
@@ -3716,7 +3979,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DHARMAPURI",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020005": {
@@ -3731,7 +3995,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ELLANTHAKUNTA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020006": {
@@ -3746,7 +4011,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GAMBHIRAOPET",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020007": {
@@ -3761,7 +4027,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GANGADHARA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020008": {
@@ -3776,7 +4043,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GODAVARIKHANI",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020009": {
@@ -3791,7 +4059,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HUSNABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020010": {
@@ -3806,7 +4075,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HUZURABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020011": {
@@ -3821,7 +4091,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JAGITYAL",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020012": {
@@ -3836,7 +4107,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JAMMIKUNTA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020013": {
@@ -3851,7 +4123,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KAMALAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020014": {
@@ -3866,7 +4139,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KATARAM",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020015": {
@@ -3881,7 +4155,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KORUTLA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020016": {
@@ -3896,7 +4171,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MALLIAL",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020017": {
@@ -3911,7 +4187,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KARIMNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020018": {
@@ -3926,7 +4203,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MANTHANI",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020019": {
@@ -3941,7 +4219,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "METPALLY",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020020": {
@@ -3956,7 +4235,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUSTABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020021": {
@@ -3971,7 +4251,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PEDDAPALLY",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020022": {
@@ -3986,7 +4267,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "POTHKAPALLY",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020023": {
@@ -4001,7 +4283,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RAIKAL",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020024": {
@@ -4016,7 +4299,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SIRCILLA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020025": {
@@ -4031,7 +4315,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SULTANABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020026": {
@@ -4046,7 +4331,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TOWN BRANCH, KARIMNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020027": {
@@ -4061,7 +4347,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "V.SAIDAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020028": {
@@ -4076,7 +4363,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VEMULAWADA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020029": {
@@ -4091,7 +4379,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "YELLAREDDIPET",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020030": {
@@ -4106,7 +4395,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KONARAOPET",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020031": {
@@ -4121,7 +4411,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KODIMIAL",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020032": {
@@ -4136,7 +4427,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KAMANPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020033": {
@@ -4151,7 +4443,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SIRCILLA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020034": {
@@ -4166,7 +4459,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DHARMARAMMYDARAM",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020035": {
@@ -4181,7 +4475,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MAIDIPALLY",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020036": {
@@ -4196,7 +4491,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MALLAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020037": {
@@ -4211,7 +4507,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MANAKONDUR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020038": {
@@ -4226,7 +4523,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KARIMNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020039": {
@@ -4241,7 +4539,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KARIMNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020040": {
@@ -4256,7 +4555,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KARIMNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020041": {
@@ -4271,7 +4571,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KATHLAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020042": {
@@ -4286,7 +4587,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RUDRANGI",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020043": {
@@ -4301,7 +4603,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KALVA SRIRAMPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020044": {
@@ -4316,7 +4619,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "IBRAHIMPATNAM",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020045": {
@@ -4331,7 +4635,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PEGADAPALLI",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020046": {
@@ -4346,7 +4651,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GOLLAPALLI",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020047": {
@@ -4361,7 +4667,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VELGATOOR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020048": {
@@ -4376,7 +4683,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RAMAGUNDAM",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020049": {
@@ -4391,7 +4699,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHIGURUMAMIDI",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020050": {
@@ -4406,7 +4715,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GUNDI GOPALRAOPET",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020051": {
@@ -4421,7 +4731,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KARIMNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020052": {
@@ -4436,7 +4747,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KARIMNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020053": {
@@ -4451,7 +4763,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KARIMNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020054": {
@@ -4466,7 +4779,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KARIMNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020055": {
@@ -4481,7 +4795,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KARIMNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020056": {
@@ -4496,7 +4811,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JAGTIAL",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020057": {
@@ -4511,7 +4827,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MANTHANI",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0020058": {
@@ -4525,7 +4842,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KARIMNAGAR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -4540,7 +4858,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JAMMIKUNTA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -4555,7 +4874,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KARIMNAGAR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -4570,7 +4890,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SIRICILLA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -4585,7 +4906,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SIRICILLA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -4600,7 +4922,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PEDDAPALLY",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -4615,7 +4938,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SIRCILLA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -4630,7 +4954,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KARIMNAGAR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -4645,7 +4970,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SIRCILLA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -4660,7 +4986,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SIRCILLA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -4676,7 +5003,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "WARANGAL",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0021002": {
@@ -4691,7 +5019,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ATMAKUR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0021003": {
@@ -4706,7 +5035,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHUPALPALLY",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0021004": {
@@ -4721,7 +5051,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHERIYAL",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0021005": {
@@ -4736,7 +5067,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DORNAKAL",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0021006": {
@@ -4751,7 +5083,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GHANAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0021007": {
@@ -4766,7 +5099,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GUDUR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0021008": {
@@ -4781,7 +5115,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "WARANGAL",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0021009": {
@@ -4796,7 +5131,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JANGAON",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0021010": {
@@ -4811,7 +5147,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MAHBUBABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0021011": {
@@ -4826,7 +5163,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MARIPEDA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0021012": {
@@ -4841,7 +5179,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MULUG",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0021013": {
@@ -4856,7 +5195,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NARMETTA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0021014": {
@@ -4871,7 +5211,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NARASAMPET",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0021015": {
@@ -4886,7 +5227,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NEKKONDA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0021016": {
@@ -4901,7 +5243,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PARKAL",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0021017": {
@@ -4916,7 +5259,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THORRUR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0021018": {
@@ -4931,7 +5275,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "WARANGAL",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0021019": {
@@ -4946,7 +5291,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "WARDHANNAPET",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022001": {
@@ -4961,7 +5307,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KHAMMAM",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022002": {
@@ -4976,7 +5323,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KHAMMAM",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022003": {
@@ -4991,7 +5339,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KALLOOR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022004": {
@@ -5006,7 +5355,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MANUGUR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022005": {
@@ -5021,7 +5371,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOTHAGUDEM",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022006": {
@@ -5036,7 +5387,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MADHIRA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022007": {
@@ -5051,7 +5403,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "YELLANDU",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022008": {
@@ -5066,7 +5419,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SATHUPALLY",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022009": {
@@ -5081,7 +5435,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KUNAVARAM",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022010": {
@@ -5096,7 +5451,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KUKKUNUR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022011": {
@@ -5111,7 +5467,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NELAKONDAPALLY",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022012": {
@@ -5126,7 +5483,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GARLA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022013": {
@@ -5141,7 +5499,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TIRUMALAYAPALEM",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022014": {
@@ -5156,7 +5515,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUDIGONDA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022015": {
@@ -5171,7 +5531,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ASWARAOPETA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022016": {
@@ -5186,7 +5547,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PALVONCHA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022017": {
@@ -5201,7 +5563,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BONAKAL",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022018": {
@@ -5216,7 +5579,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "WYRA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022019": {
@@ -5231,7 +5595,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BURGAMPAHAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022020": {
@@ -5246,7 +5611,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHADRACHALAM",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022021": {
@@ -5261,7 +5627,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHERLA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022022": {
@@ -5276,7 +5643,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VENKATAPURAM",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022023": {
@@ -5291,7 +5659,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KUSUMANCHI",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022024": {
@@ -5306,7 +5675,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ENKOOR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022025": {
@@ -5321,7 +5691,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "YERRUPALEM",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022026": {
@@ -5336,7 +5707,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KHAMMAM RURAL",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022027": {
@@ -5351,7 +5723,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MARLAPADU",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022028": {
@@ -5366,7 +5739,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MULKALAPALLY",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022029": {
@@ -5381,7 +5755,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PENUBALLY",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022030": {
@@ -5396,7 +5771,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KHAMMAM",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022031": {
@@ -5411,7 +5787,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GUNDALA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022032": {
@@ -5426,7 +5803,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHINTOOR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022033": {
@@ -5441,7 +5819,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "LAXMINAGARAM",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022034": {
@@ -5456,7 +5835,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KHAMMAM",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022035": {
@@ -5471,7 +5851,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KHAMMAM",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022036": {
@@ -5486,7 +5867,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DAMMAPETA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022037": {
@@ -5501,7 +5883,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TEKULAPALLY",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022038": {
@@ -5516,7 +5899,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "JULURUPADU",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022039": {
@@ -5531,7 +5915,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TALLADA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022040": {
@@ -5546,7 +5931,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MEENAVOLU",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022041": {
@@ -5561,7 +5947,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KHAMMAM",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022042": {
@@ -5576,7 +5963,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KHAMMAM",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022043": {
@@ -5591,7 +5979,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KHAMMAM",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022044": {
@@ -5606,7 +5995,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KHAMMAM",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022045": {
@@ -5621,7 +6011,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KHAMMAM",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022046": {
@@ -5636,7 +6027,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KHAMMAM",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022047": {
@@ -5651,7 +6043,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KHAMMAM",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0022048": {
@@ -5666,8 +6059,57 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KHAMMAM",
+    "NEFT": true,
     "IMPS": true
+  },
+  "TSAB0022049": {
+    "BANK": "TELANGANA STATE COOP APEX BANK",
+    "IFSC": "TSAB0022049",
+    "BRANCH": "AYYAGARIPETA",
+    "ADDRESS": "OPP COURT SATHUPALLY 507303",
+    "CONTACT": "9550278667",
+    "CITY": "KHAMMAM",
+    "DISTRICT": "KHAMMAM",
+    "STATE": "TELANGANA",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "TSAB0022050": {
+    "BANK": "TELANGANA STATE COOP APEX BANK",
+    "IFSC": "TSAB0022050",
+    "BRANCH": "THE DISTRICT COOPERATIVE CENTRAL BANK LTD KHAMMAM",
+    "ADDRESS": "BESIDE TRS PARTY CAMP OFFICE GATTAIAH CENTER KHAMMAM 507002",
+    "CONTACT": "9100039179",
+    "CITY": "KHAMMAM",
+    "DISTRICT": "KHAMMAM",
+    "STATE": "TELANGANA",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "TSAB0022051": {
+    "BANK": "TELANGANA STATE COOP APEX BANK",
+    "IFSC": "TSAB0022051",
+    "BRANCH": "CHURCH COMPOUND",
+    "ADDRESS": "DNO 7 1 32 OPP GANDHI PARK CHURCH COMPOUND 507001",
+    "CONTACT": "9550178667",
+    "CITY": "KHAMMAM",
+    "DISTRICT": "KHAMMAM",
+    "STATE": "TELANGANA",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "TSAB0023001": {
     "IFSC": "TSAB0023001",
@@ -5681,7 +6123,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NALGONDA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0023002": {
@@ -5696,7 +6139,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ALER",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0023003": {
@@ -5711,7 +6155,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BIBINAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0023004": {
@@ -5726,7 +6171,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHONGIR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0023005": {
@@ -5741,7 +6187,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "CHOUTUPPAL",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0023006": {
@@ -5756,7 +6203,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DEVARAKONDA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0023007": {
@@ -5771,7 +6219,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GURRAMPODE",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0023008": {
@@ -5786,7 +6235,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "HUZURNAGAR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0023009": {
@@ -5801,7 +6251,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KODAD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0023010": {
@@ -5816,7 +6267,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MIRYALGUDA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0023011": {
@@ -5831,7 +6283,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MOTHKUR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0023012": {
@@ -5846,7 +6299,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUNAGALA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0023013": {
@@ -5861,7 +6315,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUNGOD",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0023014": {
@@ -5876,7 +6331,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NAKREKAL",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0023015": {
@@ -5891,7 +6347,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NALGONDA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0023016": {
@@ -5906,7 +6363,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NEREDCHERLA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0023017": {
@@ -5921,7 +6379,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NIDAMANURA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0023018": {
@@ -5936,7 +6395,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NUTANAKALU",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0023019": {
@@ -5951,7 +6411,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "RAMANNAPET",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0023020": {
@@ -5966,7 +6427,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SURYAPET",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0023021": {
@@ -5981,7 +6443,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "TRIPURARAM",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0023022": {
@@ -5996,7 +6459,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THUNGATHURTHI",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0023023": {
@@ -6011,7 +6475,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VALIGONDA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0023024": {
@@ -6026,7 +6491,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "YADAGIRIGUTTA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0023026": {
@@ -6041,7 +6507,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ANUMALA",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0023027": {
@@ -6056,7 +6523,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THIRUMALAGIRI",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0023028": {
@@ -6071,7 +6539,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KATTANGUR",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0023029": {
@@ -6086,7 +6555,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DINDI",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0023030": {
@@ -6101,7 +6571,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "METTAMPALLI",
+    "NEFT": true,
     "IMPS": true
   },
   "TSAB0023031": {
@@ -6116,7 +6587,8 @@
     "BANK": "TELANGANA STATE COOP APEX BANK",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KONDA MALLEPALLI",
+    "NEFT": true,
     "IMPS": true
   }
 }

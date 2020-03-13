@@ -10,7 +10,8 @@
     "BANK": "VASAI JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VASAI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -26,7 +27,8 @@
     "BANK": "VASAI JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VASAI",
+    "NEFT": true,
     "IMPS": true
   },
   "VASJ0000003": {
@@ -41,7 +43,8 @@
     "BANK": "VASAI JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NALASOPARA",
+    "NEFT": true,
     "IMPS": true
   },
   "VASJ0000004": {
@@ -56,7 +59,8 @@
     "BANK": "VASAI JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NALASOPARA",
+    "NEFT": true,
     "IMPS": true
   },
   "VASJ0000005": {
@@ -71,7 +75,8 @@
     "BANK": "VASAI JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHAYANDER",
+    "NEFT": true,
     "IMPS": true
   },
   "VASJ0000006": {
@@ -86,7 +91,8 @@
     "BANK": "VASAI JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VASAI E",
+    "NEFT": true,
     "IMPS": true
   },
   "VASJ0000007": {
@@ -101,7 +107,8 @@
     "BANK": "VASAI JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BOISAR",
+    "NEFT": true,
     "IMPS": true
   },
   "VASJ0000008": {
@@ -116,7 +123,8 @@
     "BANK": "VASAI JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DAHISAR E",
+    "NEFT": true,
     "IMPS": true
   },
   "VASJ0000009": {
@@ -131,7 +139,8 @@
     "BANK": "VASAI JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VIRAR E",
+    "NEFT": true,
     "IMPS": true
   },
   "VASJ0000010": {
@@ -146,7 +155,8 @@
     "BANK": "VASAI JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "DAHANU RD",
+    "NEFT": true,
     "IMPS": true
   },
   "VASJ0000011": {
@@ -161,7 +171,8 @@
     "BANK": "VASAI JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VASAI RD W",
+    "NEFT": true,
     "IMPS": true
   },
   "VASJ0000012": {
@@ -176,7 +187,8 @@
     "BANK": "VASAI JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VIRAR W",
+    "NEFT": true,
     "IMPS": true
   },
   "VASJ0000013": {
@@ -191,7 +203,8 @@
     "BANK": "VASAI JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BHAYANDER W",
+    "NEFT": true,
     "IMPS": true
   },
   "VASJ0000014": {
@@ -206,7 +219,8 @@
     "BANK": "VASAI JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PALGHAR W",
+    "NEFT": true,
     "IMPS": true
   }
 }

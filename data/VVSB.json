@@ -1,17 +1,18 @@
 {
   "VVSB0000001": {
-    "BANK": "VASAI VIKAS SAHAKARI BANK LTD.",
+    "BANK": "Vasai Vikas Sahakari Bank",
     "IFSC": "VVSB0000001",
-    "BRANCH": "HEAD OFFICE",
+    "BRANCH": "Vasai Vikas Sahakari Bank IMPS",
     "CENTRE": "VASAI",
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Samaj Mandir', Opp. New English School, Vasai (W), Dist. Thane 401 201 Tel : 0250 - 2322617, 2326984, 2326998",
-    "CONTACT": null,
+    "CONTACT": "2326984",
     "IMPS": true,
+    "CITY": "VASAI",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "NEFT": true,
     "MICR": null
   },
   "VVSB0000002": {
@@ -21,12 +22,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Samaj Mandir', Opp. New English School, Vasai (W), Dist. Thane 401 201 Tel : 0250 - 2322617, 2326984, 2326998",
-    "CONTACT": null,
+    "CONTACT": "2322617",
     "MICR": "400803002",
     "BANK": "VASAI VIKAS SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PAPADI",
+    "NEFT": true,
     "IMPS": true
   },
   "VVSB0000003": {
@@ -36,12 +38,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Thakur Arcade, Near Railway Station, Virar (W), Dist Thane - 401 303 Tel : 0250 - 2502733, 2502536",
-    "CONTACT": null,
+    "CONTACT": "2502733",
     "MICR": "400803003",
     "BANK": "VASAI VIKAS SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VIRAR",
+    "NEFT": true,
     "IMPS": true
   },
   "VVSB0000004": {
@@ -51,12 +54,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Adinath Apt., Ambadi Road, Navghar, Vasai (W), Dist. Thane - 401 201 Tel : 0250 - 2334398, 2348946",
-    "CONTACT": null,
+    "CONTACT": "2334398",
     "MICR": "400803004",
     "BANK": "VASAI VIKAS SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VASAI",
+    "NEFT": true,
     "IMPS": true
   },
   "VVSB0000005": {
@@ -66,12 +70,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Mudra Shopping Complex, Kacheri Road, Palghar (W), Dist. Thane - 401 404, Tel : 02525 - 251409,251410",
-    "CONTACT": null,
+    "CONTACT": "251409",
     "MICR": "400803005",
     "BANK": "VASAI VIKAS SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PALGHAR",
+    "NEFT": true,
     "IMPS": true
   },
   "VVSB0000006": {
@@ -81,12 +86,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shree Apartment, Near Railway Station, Nallasopara (W), Dist. Thane - 401 203, Tel : 0250 - 2403582",
-    "CONTACT": null,
+    "CONTACT": "2403582",
     "MICR": "400803006",
     "BANK": "VASAI VIKAS SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SAPHALA",
+    "NEFT": true,
     "IMPS": true
   },
   "VVSB0000007": {
@@ -96,12 +102,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Devbhoomi Commercial Complex, Near Saphale Station, Saphale (E), Dist. Thane - 401 102, Tel : 952525 - 230539",
-    "CONTACT": null,
+    "CONTACT": "230539",
     "MICR": "400803007",
     "BANK": "VASAI VIKAS SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NALLASOPARA",
+    "NEFT": true,
     "IMPS": true
   },
   "VVSB0000008": {
@@ -111,12 +118,13 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "New Krishna Niwas, Chandavarkar Cross Road, Borivali (W), Mumbai 400 092, Tel : 022 - 28956608 / 09 /10",
-    "CONTACT": null,
+    "CONTACT": "28956608",
     "MICR": "400803008",
     "BANK": "VASAI VIKAS SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "VVSB0000009": {
@@ -126,12 +134,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Vardhaman Industrial Complex premises co op. Soc. Ltd., Unit No. 3,Gokul Nagar, Opp. Jarimari Mata Mandir, Near Navnit Motors, L.B.S. Marg, Thane (W) - 400 601. Tel.:022-21721013/14",
-    "CONTACT": null,
+    "CONTACT": "21721013",
     "MICR": "400803009",
     "BANK": "VASAI VIKAS SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "THANE",
+    "NEFT": true,
     "IMPS": true
   },
   "VVSB0000010": {
@@ -141,12 +150,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Ground Floor, Gala No. 10,11,12, Sidhi Vinayak Arcade, Near Makwana Complex, V. S. Marg, Virar (E), Dist. Thane",
-    "CONTACT": null,
+    "CONTACT": "6099919",
     "MICR": "400803010",
     "BANK": "VASAI VIKAS SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VIRAR",
+    "NEFT": true,
     "IMPS": true
   },
   "VVSB0000011": {
@@ -156,12 +166,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shop No. H/11, 1st Floor, Kingston Tower, Above Dominos Pizza,  Opposite Viva College, Virar (West), Dist. Thane",
-    "CONTACT": null,
+    "CONTACT": "6512777",
     "MICR": "400803011",
     "BANK": "VASAI VIKAS SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BOLINJ",
+    "NEFT": true,
     "IMPS": true
   },
   "VVSB0000012": {
@@ -171,12 +182,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Govind Shantinagar C.H.S, Flat No.1 & Shop No.12/13/14, Sector 5, Near Jain Mandir, Bldg. No. B-31, Ground Floor, Mira Road, Dist Thane.",
-    "CONTACT": null,
+    "CONTACT": "28112347",
     "MICR": "400803012",
     "BANK": "VASAI VIKAS SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MIRA-BHAYANDAR",
+    "NEFT": true,
     "IMPS": true
   },
   "VVSB0000013": {
@@ -186,12 +198,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Yash Siddhi Residency; Boisar Palghar Road; beside Hotel Sun Rose; Boisar (West) Maharashtra,",
-    "CONTACT": null,
+    "CONTACT": "274666",
     "MICR": "401802001",
     "BANK": "VASAI VIKAS SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BOISAR",
+    "NEFT": true,
     "IMPS": true
   },
   "VVSB0000014": {
@@ -206,7 +219,8 @@
     "BANK": "VASAI VIKAS SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SATIVALI",
+    "NEFT": true,
     "IMPS": true
   },
   "VVSB0000015": {
@@ -216,12 +230,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shop No. 5, 6, 7, 13, 14 & 15 Gracy ARC CHS, 60 Feet Road, Bhayander (W), Dist. Thane 401101",
-    "CONTACT": null,
+    "CONTACT": "28141020",
     "MICR": "400803014",
     "BANK": "VASAI VIKAS SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MIRA-BHAYANDAR",
+    "NEFT": true,
     "IMPS": true
   },
   "VVSB0000016": {
@@ -231,12 +246,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shop No.6 & 7, Martin Plaza, Barampur, Vasai Station Road, Vasai (West), Tal - Vasai, Dist Thane 401202",
-    "CONTACT": null,
+    "CONTACT": "2380134",
     "MICR": "400803015",
     "BANK": "VASAI VIKAS SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MANICKPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "VVSB0000017": {
@@ -246,11 +262,12 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "M. Baria Lake View, Opp. Hanuman Temple, Bazar Peth, At Post Agashi, Taluka Vasai, Dist. Thane – 401 301",
-    "CONTACT": null,
+    "CONTACT": "2584284",
     "BANK": "VASAI VIKAS SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AGASHI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -261,12 +278,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "B-002, Ground Floor, Ornaments Co-operative Housing Society Ltd., Evershine City, Vasai (East) Dist. Thane - 401208",
-    "CONTACT": null,
+    "CONTACT": "2460173",
     "MICR": "400803017",
     "BANK": "VASAI VIKAS SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "GOKHIVERA",
+    "NEFT": true,
     "IMPS": true
   },
   "VVSB0000019": {
@@ -281,7 +299,8 @@
     "BANK": "VASAI VIKAS SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NASIK",
+    "NEFT": true,
     "IMPS": true
   },
   "VVSB0000020": {
@@ -296,7 +315,8 @@
     "BANK": "VASAI VIKAS SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AURANGABAD",
+    "NEFT": true,
     "IMPS": true
   },
   "VVSB0000021": {
@@ -311,7 +331,8 @@
     "BANK": "VASAI VIKAS SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VIRAR",
+    "NEFT": true,
     "IMPS": true
   },
   "VVSB0000022": {
@@ -326,7 +347,8 @@
     "BANK": "VASAI VIKAS SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NALASOPARA",
+    "NEFT": true,
     "IMPS": true
   }
 }

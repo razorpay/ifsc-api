@@ -1,18 +1,18 @@
 {
   "RABO0000001": {
-    "BANK": "RABOBANK INTERNATIONAL",
+    "BANK": "Rabobank International",
     "IFSC": "RABO0000001",
-    "BRANCH": "RTGS-HO",
+    "BRANCH": "Rabobank International IMPS",
     "CENTRE": "MUMBAI",
-    "DISTRICT": "MUMBAI",
+    "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
-    "ADDRESS": "LEVEL 20, TOWER A, PENINSULA BUSINESS PARK,SENAPATI BAPAT MARG,LOWER PAREL,MUMBAI 400 013.",
+    "ADDRESS": "2nd Floor, Forbes Building, Charanjit Rai Marg, Fort",
     "CONTACT": "22015566",
     "IMPS": true,
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": "400240270",
     "RTGS": true,
-    "CITY": "MUMBAI",
     "NEFT": true
   }
 }

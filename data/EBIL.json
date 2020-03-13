@@ -1,17 +1,17 @@
 {
   "EBIL0000001": {
-    "BANK": "EMIRATES NBD BANK P J S C",
+    "BANK": "Emirates NBD Bank",
     "IFSC": "EBIL0000001",
-    "BRANCH": "RTGS-HO",
+    "BRANCH": "Emirates NBD Bank IMPS",
     "CENTRE": "MUMBAI",
     "DISTRICT": "MUMBAI",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GROUND FLOOR,5TH NORTH AVENUE,MAKER MAXITY,BKC,BANDRA ( EAST),MUMBAI 400051",
-    "CONTACT": "61532330",
+    "CONTACT": "02261532330",
     "IMPS": true,
+    "CITY": "MUMBAI",
     "UPI": false,
     "RTGS": true,
-    "CITY": "MUMBAI",
     "NEFT": true,
     "MICR": null
   },
@@ -26,6 +26,7 @@
     "BANK": "EMIRATES NBD BANK (P.J.S.C)",
     "UPI": false,
     "RTGS": true,
+    "CITY": "MUMBAI",
     "NEFT": false,
     "IMPS": true,
     "MICR": null

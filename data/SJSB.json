@@ -1,18 +1,19 @@
 {
   "SJSB0000001": {
-    "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
+    "BANK": "Solapur Janata Sahakari Bank",
     "IFSC": "SJSB0000001",
-    "BRANCH": "HEAD OFFICE",
+    "BRANCH": "Solapur Janata Sahakari Bank IMPS",
     "CENTRE": "SOLAPUR",
     "DISTRICT": "SOLAPUR",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHIVSMARAK  SHINDE CHOWK GOLDFINCH PETH  SOLAPUR  413007",
     "CONTACT": "02172741100",
     "IMPS": true,
+    "CITY": "SOLAPUR",
     "UPI": false,
     "MICR": "413587002",
     "RTGS": true,
-    "NEFT": false
+    "NEFT": true
   },
   "SJSB0000002": {
     "IFSC": "SJSB0000002",
@@ -26,7 +27,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SOLAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SJSB0000003": {
@@ -41,7 +43,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SOLAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SJSB0000004": {
@@ -56,7 +59,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SOLAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SJSB0000005": {
@@ -70,7 +74,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KASBE TADWALE",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -86,7 +91,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SOLAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SJSB0000007": {
@@ -100,7 +106,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "OSMANABAD",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -116,7 +123,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SOLAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SJSB0000009": {
@@ -131,7 +139,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SOLAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SJSB0000010": {
@@ -146,7 +155,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SOLAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SJSB0000011": {
@@ -161,7 +171,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SOLAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SJSB0000012": {
@@ -176,7 +187,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SOLAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SJSB0000013": {
@@ -190,7 +202,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MADHA",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -206,7 +219,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SOLAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SJSB0000015": {
@@ -221,7 +235,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SOLAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SJSB0000016": {
@@ -236,7 +251,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SOLAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SJSB0000017": {
@@ -251,7 +267,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PANDHARPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SJSB0000018": {
@@ -266,7 +283,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MUMBAI",
+    "NEFT": true,
     "IMPS": true
   },
   "SJSB0000019": {
@@ -281,7 +299,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SANGOLA",
+    "NEFT": true,
     "IMPS": true
   },
   "SJSB0000020": {
@@ -296,7 +315,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "UDGIR",
+    "NEFT": true,
     "IMPS": true
   },
   "SJSB0000021": {
@@ -311,7 +331,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AKKALKOT",
+    "NEFT": true,
     "IMPS": true
   },
   "SJSB0000022": {
@@ -326,7 +347,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "LATUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SJSB0000023": {
@@ -340,7 +362,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "OSMANABAD",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -355,7 +378,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "MOHOL",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -370,7 +394,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SOLAPUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -386,7 +411,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SJSB0000027": {
@@ -400,7 +426,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "OSMANABAD",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -416,7 +443,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SJSB0000029": {
@@ -431,7 +459,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "LATUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SJSB0000030": {
@@ -446,7 +475,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SJSB0000031": {
@@ -461,7 +491,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SOLAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SJSB0000032": {
@@ -476,7 +507,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "WALUJ",
+    "NEFT": true,
     "IMPS": true
   },
   "SJSB0000033": {
@@ -491,7 +523,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SJSB0000034": {
@@ -506,7 +539,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NASHIK",
+    "NEFT": true,
     "IMPS": true
   },
   "SJSB0000035": {
@@ -521,7 +555,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NANDED",
+    "NEFT": true,
     "IMPS": true
   },
   "SJSB0000036": {
@@ -536,7 +571,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNE",
+    "NEFT": true,
     "IMPS": true
   },
   "SJSB0000037": {
@@ -551,7 +587,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KOLHAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SJSB0000038": {
@@ -565,7 +602,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "VIJAPUR ",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -581,7 +619,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BEED",
+    "NEFT": true,
     "IMPS": true
   },
   "SJSB0000040": {
@@ -596,7 +635,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SOLAPUR",
+    "NEFT": true,
     "IMPS": true
   },
   "SJSB0000041": {
@@ -610,7 +650,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "BARSHI",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -626,7 +667,8 @@
     "BANK": "SOLAPUR JANATA SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SOLAPUR",
+    "NEFT": true,
     "IMPS": true
   }
 }

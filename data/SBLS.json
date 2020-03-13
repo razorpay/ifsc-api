@@ -10,7 +10,8 @@
     "BANK": "SAMARTH SAHAKARI BANK LTD",
     "UPI": false,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SOLAPUR",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -25,6 +26,7 @@
     "BANK": "SAMARTH SAHAKARI BANK LTD",
     "UPI": false,
     "RTGS": true,
+    "CITY": "SOLAPUR",
     "NEFT": false,
     "IMPS": true,
     "MICR": null

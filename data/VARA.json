@@ -1,18 +1,19 @@
 {
   "VARA0000001": {
-    "BANK": "VARACHHA COOPERATIVE BANK LTD.",
+    "BANK": "Varachha Co-operative Bank",
     "IFSC": "VARA0000001",
-    "BRANCH": "Administrative Office,RTGS Dept.",
+    "BRANCH": "Varachha Co-operative Bank IMPS",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
     "STATE": "GUJARAT",
     "ADDRESS": "Mezzamaine Floor, Aadatiya Awas, Old Bombay Market, Umarwada, Surat-395010.",
     "CONTACT": "02614008157",
     "IMPS": true,
+    "CITY": "SURAT",
     "UPI": true,
     "MICR": "395289001",
     "RTGS": true,
-    "NEFT": false
+    "NEFT": true
   },
   "VARA0289001": {
     "IFSC": "VARA0289001",
@@ -26,7 +27,8 @@
     "BANK": "VARACHHA COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SURAT",
+    "NEFT": true,
     "IMPS": true
   },
   "VARA0289002": {
@@ -41,7 +43,8 @@
     "BANK": "VARACHHA COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KAMREJ",
+    "NEFT": true,
     "IMPS": true
   },
   "VARA0289003": {
@@ -56,7 +59,8 @@
     "BANK": "VARACHHA COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SURAT",
+    "NEFT": true,
     "IMPS": true
   },
   "VARA0289004": {
@@ -71,7 +75,8 @@
     "BANK": "VARACHHA COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "KADODARA",
+    "NEFT": true,
     "IMPS": true
   },
   "VARA0289005": {
@@ -86,7 +91,8 @@
     "BANK": "VARACHHA COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SURAT",
+    "NEFT": true,
     "IMPS": true
   },
   "VARA0289006": {
@@ -101,7 +107,8 @@
     "BANK": "VARACHHA COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SURAT",
+    "NEFT": true,
     "IMPS": true
   },
   "VARA0289007": {
@@ -116,7 +123,8 @@
     "BANK": "VARACHHA COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "PUNA",
+    "NEFT": true,
     "IMPS": true
   },
   "VARA0289008": {
@@ -131,7 +139,8 @@
     "BANK": "VARACHHA COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SACHIN",
+    "NEFT": true,
     "IMPS": true
   },
   "VARA0289009": {
@@ -146,7 +155,8 @@
     "BANK": "VARACHHA COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "NAVSARI",
+    "NEFT": true,
     "IMPS": true
   },
   "VARA0289010": {
@@ -160,7 +170,8 @@
     "BANK": "VARACHHA COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "AHMEDABAD",
+    "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
@@ -176,7 +187,8 @@
     "BANK": "VARACHHA COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "ANKLESHWAR",
+    "NEFT": true,
     "IMPS": true
   },
   "VARA0289012": {
@@ -191,8 +203,25 @@
     "BANK": "VARACHHA COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SURAT",
+    "NEFT": true,
     "IMPS": true
+  },
+  "VARA0289013": {
+    "BANK": "THE VARACHHA COOPERATIVE BANK LIMITED",
+    "IFSC": "VARA0289013",
+    "BRANCH": "MOTA VARACHHA BRANCH",
+    "ADDRESS": "GROUND FLOOR, ABHISHEK-III RESIDENCY, NR. SUDAMA CHOWK, MOTA VARACHHA, SURAT 394101",
+    "CONTACT": "2614007221",
+    "CITY": "SURAT",
+    "DISTRICT": "SURAT",
+    "STATE": "GUJARAT",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "VARA0289014": {
     "IFSC": "VARA0289014",
@@ -206,7 +235,8 @@
     "BANK": "VARACHHA COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SURAT",
+    "NEFT": true,
     "IMPS": true
   },
   "VARA0289015": {
@@ -221,7 +251,8 @@
     "BANK": "VARACHHA COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SURAT",
+    "NEFT": true,
     "IMPS": true
   },
   "VARA0289016": {
@@ -236,8 +267,25 @@
     "BANK": "VARACHHA COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SURAT",
+    "NEFT": true,
     "IMPS": true
+  },
+  "VARA0289017": {
+    "BANK": "THE VARACHHA COOPERATIVE BANK LIMITED",
+    "IFSC": "VARA0289017",
+    "BRANCH": "ADAJAN BRANCH",
+    "ADDRESS": "102,103,1ST FLOOR, GREEN ALINA,ANAND MAHAL ROAD,ADAJAN ,SURAT-395009",
+    "CONTACT": "4007261",
+    "CITY": "SURAT",
+    "DISTRICT": "SURAT",
+    "STATE": "GUJARAT",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "VARA0289018": {
     "IFSC": "VARA0289018",
@@ -251,7 +299,8 @@
     "BANK": "VARACHHA COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SURAT",
+    "NEFT": true,
     "IMPS": true
   },
   "VARA0289019": {
@@ -266,7 +315,8 @@
     "BANK": "VARACHHA COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SURAT",
+    "NEFT": true,
     "IMPS": true
   },
   "VARA0289020": {
@@ -281,7 +331,8 @@
     "BANK": "VARACHHA COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SURAT",
+    "NEFT": true,
     "IMPS": true
   },
   "VARA0289021": {
@@ -296,7 +347,8 @@
     "BANK": "VARACHHA COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SURAT",
+    "NEFT": true,
     "IMPS": true
   },
   "VARA0289022": {
@@ -311,7 +363,8 @@
     "BANK": "VARACHHA COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SURAT",
+    "NEFT": true,
     "IMPS": true
   },
   "VARA0289023": {
@@ -326,7 +379,8 @@
     "BANK": "VARACHHA COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
-    "NEFT": false,
+    "CITY": "SURAT",
+    "NEFT": true,
     "IMPS": true
   }
 }
