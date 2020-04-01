@@ -1,8 +1,6 @@
-# ifsc-api
+# ifsc-api ![Docker Image Version (latest semver)](https://img.shields.io/docker/v/razorpay/ifsc) ![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/razorpay/ifsc?sort=semver) ![Docker Build Status](https://img.shields.io/docker/build/razorpay/ifsc) ![Docker Pulls](https://img.shields.io/docker/pulls/razorpay/ifsc)
 
 API server that serves Razorpay's IFSC API.
-
-[![](https://images.microbadger.com/badges/image/razorpay/ifsc:1.5.1.svg)](https://microbadger.com/images/razorpay/ifsc:1.5.1) [![](https://images.microbadger.com/badges/version/razorpay/ifsc:1.5.1.svg)](https://microbadger.com/images/razorpay/ifsc:1.5.1)
 
 Current API Root is <https://ifsc.razorpay.com/>
 
@@ -32,4 +30,4 @@ Your server should now be accessible at `http://localhost:9292`
 
 ## License
 
-Code is licensed under the [MIT License](https://nemo.mit-license.org/). See LICENSE file for details. Everything under the `data/` directory is available under the Public Domain.
+Code is licensed under the MIT License. See LICENSE file for details. Everything under the `data/` directory is available under the Public Domain.
