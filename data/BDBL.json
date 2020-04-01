@@ -15423,6 +15423,22 @@
     "NEFT": true,
     "IMPS": true
   },
+  "BDBL0001974": {
+    "BANK": "BANDHAN BANK LIMITED",
+    "IFSC": "BDBL0001974",
+    "BRANCH": "GREEN PARK",
+    "ADDRESS": "S-2,GROUND FLOOR,GREEN PARK MAIN MARKET,NEW DELHI-110016",
+    "CONTACT": "66090909",
+    "CITY": "SOUTH DELHI",
+    "DISTRICT": "NEW DELHI",
+    "STATE": "DELHI",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
+  },
   "BDBL0001975": {
     "IFSC": "BDBL0001975",
     "BRANCH": "RAYAGADA",
@@ -16222,5 +16238,53 @@
     "CITY": "PATHARPRATIMA",
     "NEFT": true,
     "IMPS": true
+  },
+  "BDBL0002036": {
+    "BANK": "BANDHAN BANK LIMITED",
+    "IFSC": "BDBL0002036",
+    "BRANCH": "KUSHMANDI",
+    "ADDRESS": "VILL-UKHALIYA,PO/PS-KUSHMANDI,DIST-DAKSHIN DINAJPUR,STATE-WEST BENGAL,PIN-733132",
+    "CONTACT": "66090909",
+    "CITY": "DAKSHIN DINAJPUR",
+    "DISTRICT": "KUSHMANDI",
+    "STATE": "WEST BENGAL",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "BDBL0002037": {
+    "BANK": "BANDHAN BANK LIMITED",
+    "IFSC": "BDBL0002037",
+    "BRANCH": "LAHDOIGARH",
+    "ADDRESS": "VILL-LAHDOIGARH CHARIALI,LANDMARK-SIDDIQUE MARKET,PO-LAHDOIGARH,PS-TEOK,JORHAT,PIN-785700",
+    "CONTACT": "66090909",
+    "CITY": "JORHAT",
+    "DISTRICT": "LAHDOIGARH",
+    "STATE": "ASSAM",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
+  },
+  "BDBL0002047": {
+    "BANK": "BANDHAN BANK LIMITED",
+    "IFSC": "BDBL0002047",
+    "BRANCH": "RAJNAGAR",
+    "ADDRESS": "GROUND FLOOR VILL SOUTH RAJNAGAR P O RAJNAGAR P S P R BARI BELONIA DIST SOUTH TRIPURA STATE TRIPURA PIN 799150",
+    "CONTACT": "66090909",
+    "CITY": "SOUTH TRIPURA",
+    "DISTRICT": "BELONIA",
+    "STATE": "TRIPURA",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   }
 }
