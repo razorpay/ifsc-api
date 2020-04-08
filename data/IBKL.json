@@ -44159,6 +44159,22 @@
     "RTGS": true,
     "NEFT": true
   },
+  "IBKL0410VMB": {
+    "BANK": "IDBI BANK",
+    "IFSC": "IBKL0410VMB",
+    "BRANCH": "VIDARBHA MERCHANTS URBAN COOP BANK LTD,HINGANGHAT HEAD OFFICE",
+    "ADDRESS": "NEHRU WARD NEAR MAHESHWARI BHAVAN HINGANGHAT",
+    "CONTACT": "245402",
+    "CITY": "WARDHA",
+    "DISTRICT": "HINGANGHAT",
+    "STATE": "MAHARASHTRA",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
+  },
   "IBKL0413KSB": {
     "BANK": "Keshav Sehkari Bank",
     "IFSC": "IBKL0413KSB",

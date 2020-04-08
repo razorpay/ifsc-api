@@ -33680,20 +33680,20 @@
     "MICR": null
   },
   "YESB0HSBLM0": {
+    "BANK": "YES BANK",
     "IFSC": "YESB0HSBLM0",
-    "BRANCH": "HAVELI SAHAKARI BANK HEAD OFFICE",
+    "BRANCH": " IMPS",
     "CENTRE": "PUNE",
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "ISHWARKRUPA SADAN, AT POST MOSHI, TAL HAVELI, PUNE - 412105",
     "CONTACT": "9226769466",
-    "MICR": "411164293",
-    "BANK": "YES BANK",
-    "UPI": true,
-    "RTGS": true,
+    "IMPS": true,
     "CITY": "PUNE",
-    "NEFT": true,
-    "IMPS": true
+    "UPI": true,
+    "MICR": "411164293",
+    "RTGS": true,
+    "NEFT": true
   },
   "YESB0HSBLM1": {
     "IFSC": "YESB0HSBLM1",
