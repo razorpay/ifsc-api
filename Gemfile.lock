@@ -18,7 +18,7 @@ GEM
     mustermann (1.1.1)
       ruby2_keywords (~> 0.0.1)
     prometheus-client (2.0.0)
-    rack (2.2.2)
+    rack (2.2.3)
     rack-protection (2.0.8.1)
       rack
     rack-ssl-enforcer (0.2.9)
