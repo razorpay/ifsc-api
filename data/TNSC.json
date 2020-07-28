@@ -12,6 +12,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "CHENNAI",
+    "MICR CODE": "600091001",
     "NEFT": true,
     "IMPS": true
   },
@@ -29,6 +30,7 @@
     "UPI": false,
     "MICR": "641464002",
     "RTGS": true,
+    "MICR CODE": "641464002",
     "NEFT": true
   },
   "TNSC0010100": {
@@ -45,6 +47,7 @@
     "UPI": false,
     "MICR": "636800002",
     "RTGS": true,
+    "MICR CODE": "636800002",
     "NEFT": true
   },
   "TNSC0010200": {
@@ -61,6 +64,7 @@
     "UPI": false,
     "MICR": "600091276",
     "RTGS": true,
+    "MICR CODE": "600091276",
     "NEFT": true
   },
   "TNSC0010300": {
@@ -77,6 +81,7 @@
     "UPI": false,
     "MICR": "629800002",
     "RTGS": true,
+    "MICR CODE": "629800002",
     "NEFT": true
   },
   "TNSC0010400": {
@@ -93,6 +98,7 @@
     "UPI": false,
     "MICR": "612800002",
     "RTGS": true,
+    "MICR CODE": "612800002",
     "NEFT": true
   },
   "TNSC0010500": {
@@ -109,6 +115,7 @@
     "UPI": false,
     "MICR": "600092002",
     "RTGS": true,
+    "MICR CODE": "600092002",
     "NEFT": true
   },
   "TNSC0010600": {
@@ -125,6 +132,7 @@
     "UPI": false,
     "MICR": "625306002",
     "RTGS": true,
+    "MICR CODE": "625306002",
     "NEFT": true
   },
   "TNSC0010700": {
@@ -141,6 +149,7 @@
     "UPI": false,
     "MICR": "643800002",
     "RTGS": true,
+    "MICR CODE": "643800002",
     "NEFT": true
   },
   "TNSC0010800": {
@@ -157,6 +166,7 @@
     "UPI": false,
     "MICR": "638572002",
     "RTGS": true,
+    "MICR CODE": "638572002",
     "NEFT": true
   },
   "TNSC0010900": {
@@ -173,6 +183,7 @@
     "UPI": false,
     "MICR": "622800002",
     "RTGS": true,
+    "MICR CODE": "622800002",
     "NEFT": true
   },
   "TNSC0011000": {
@@ -189,6 +200,7 @@
     "UPI": false,
     "MICR": "623800002",
     "RTGS": true,
+    "MICR CODE": "623800002",
     "NEFT": true
   },
   "TNSC0011100": {
@@ -205,6 +217,7 @@
     "UPI": false,
     "MICR": "636624002",
     "RTGS": true,
+    "MICR CODE": "636624002",
     "NEFT": true
   },
   "TNSC0011200": {
@@ -221,6 +234,7 @@
     "UPI": false,
     "MICR": "607816002",
     "RTGS": true,
+    "MICR CODE": "607816002",
     "NEFT": true
   },
   "TNSC0011300": {
@@ -237,6 +251,7 @@
     "UPI": false,
     "MICR": "613800002",
     "RTGS": true,
+    "MICR CODE": "613800002",
     "NEFT": true
   },
   "TNSC0011400": {
@@ -253,6 +268,7 @@
     "UPI": false,
     "MICR": "620547002",
     "RTGS": true,
+    "MICR CODE": "620547002",
     "NEFT": true
   },
   "TNSC0011500": {
@@ -269,6 +285,7 @@
     "UPI": false,
     "MICR": "627803002",
     "RTGS": true,
+    "MICR CODE": "627803002",
     "NEFT": true
   },
   "TNSC0011600": {
@@ -285,6 +302,7 @@
     "UPI": false,
     "MICR": "632800002",
     "RTGS": true,
+    "MICR CODE": "632800002",
     "NEFT": true
   },
   "TNSC0011700": {
@@ -301,6 +319,7 @@
     "UPI": false,
     "MICR": "625800001",
     "RTGS": true,
+    "MICR CODE": "625800001",
     "NEFT": true
   },
   "TNSC0011800": {
@@ -317,6 +336,7 @@
     "UPI": false,
     "MICR": "626800002",
     "RTGS": true,
+    "MICR CODE": "626800002",
     "NEFT": true
   },
   "TNSC0011900": {
@@ -333,6 +353,7 @@
     "UPI": false,
     "MICR": "630800002",
     "RTGS": true,
+    "MICR CODE": "630800002",
     "NEFT": true
   },
   "TNSC0012000": {
@@ -349,6 +370,7 @@
     "UPI": false,
     "MICR": "606800002",
     "RTGS": true,
+    "MICR CODE": "606800002",
     "NEFT": true
   },
   "TNSC0012100": {
@@ -365,6 +387,7 @@
     "UPI": false,
     "MICR": "627805002",
     "RTGS": true,
+    "MICR CODE": "627805002",
     "NEFT": true
   },
   "TNSC0012200": {
@@ -381,6 +404,7 @@
     "UPI": false,
     "MICR": "605800002",
     "RTGS": true,
+    "MICR CODE": "605800002",
     "NEFT": true
   },
   "TNSC0015000": {
@@ -397,6 +421,7 @@
     "UPI": false,
     "MICR": "600411001",
     "RTGS": true,
+    "MICR CODE": "600411001",
     "NEFT": true
   },
   "TNSC0099999": {
@@ -407,10 +432,11 @@
     "DISTRICT": "CHENNAI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "233,N.S.C BOSE ROAD CHENNAI 600001",
-    "CONTACT": "25340973",
+    "CONTACT": "4425340973",
     "IMPS": true,
     "CITY": "CHENNAI",
     "UPI": false,
+    "MICR CODE": "600091001",
     "NEFT": true,
     "RTGS": false,
     "MICR": null
@@ -418,9 +444,10 @@
   "TNSC00ROUTE": {
     "BANK": "THE TAMIL NADU STATE APEX COOPERATIVE BANK",
     "IFSC": "TNSC00ROUTE",
+    "MICR CODE": "600091001",
     "BRANCH": "NEFT ROUTING",
     "ADDRESS": "233 NSC BOSE ROAD GEORGETOWN -600001",
-    "CONTACT": "25340973",
+    "CONTACT": "4425340973",
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
     "STATE": "TAMIL NADU",
@@ -445,6 +472,7 @@
     "UPI": false,
     "MICR": "605632001",
     "RTGS": true,
+    "MICR CODE": "605632001",
     "NEFT": true
   },
   "TNSC0NEFTSC": {

@@ -13,6 +13,7 @@
     "UPI": false,
     "MICR": "400234252",
     "RTGS": true,
+    "MICR CODE": "400234252",
     "NEFT": true
   },
   "DOHB0000002": {
@@ -27,6 +28,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -43,6 +45,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KOCHI",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -60,6 +63,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "CHENNAI",
+    "MICR CODE": "600746002",
     "NEFT": true,
     "IMPS": true
   }
