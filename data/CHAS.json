@@ -13,6 +13,7 @@
     "UPI": false,
     "MICR": "400500002",
     "RTGS": true,
+    "MICR CODE": "400500002",
     "NEFT": true
   },
   "CHAS0INBX02": {
@@ -27,6 +28,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "NEW DELHI",
+    "MICR CODE": "WAITING",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -43,6 +45,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "BANGALORE",
+    "MICR CODE": "WAITING",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -59,6 +62,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "CHENNAI",
+    "MICR CODE": "WAITING",
     "NEFT": true,
     "IMPS": true,
     "MICR": null

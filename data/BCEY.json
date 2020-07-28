@@ -2,9 +2,10 @@
   "BCEY0000001": {
     "BANK": "BANK OF CEYLON",
     "IFSC": "BCEY0000001",
+    "MICR CODE": "NA",
     "BRANCH": "HEAD OFFICE",
     "ADDRESS": "CHENNAI BRANCH, NO.1090, POONAMALLEE HIGH ROAD, CHENNAI 600 084",
-    "CONTACT": null,
+    "CONTACT": "00",
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
     "STATE": "TAMIL NADU",
@@ -28,6 +29,7 @@
     "CITY": "CHENNAI",
     "UPI": false,
     "RTGS": true,
+    "MICR CODE": "NA",
     "NEFT": false,
     "MICR": null
   }

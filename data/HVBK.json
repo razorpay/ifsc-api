@@ -12,6 +12,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "CHENNAI",
+    "MICR CODE": "600240253",
     "NEFT": true,
     "IMPS": true
   },
@@ -28,6 +29,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "GURGAON",
+    "MICR CODE": "110240272",
     "NEFT": true,
     "IMPS": true
   },
@@ -44,6 +46,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
+    "MICR CODE": "400240277",
     "NEFT": true,
     "IMPS": true
   },
@@ -59,6 +62,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null

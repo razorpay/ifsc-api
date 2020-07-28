@@ -13,6 +13,7 @@
     "UPI": true,
     "MICR": "500143002",
     "RTGS": true,
+    "MICR CODE": "500143002",
     "NEFT": true
   },
   "APBL0000002": {
@@ -28,6 +29,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
+    "MICR CODE": "500143037",
     "NEFT": true,
     "IMPS": true
   },
@@ -44,6 +46,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GUNTUR",
+    "MICR CODE": "520143102",
     "NEFT": true,
     "IMPS": true
   },
@@ -60,6 +63,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VIJAYAWADA",
+    "MICR CODE": "520143622",
     "NEFT": true,
     "IMPS": true
   },
@@ -76,6 +80,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VIJAYAWADA",
+    "MICR CODE": "520143004",
     "NEFT": true,
     "IMPS": true
   },
@@ -92,6 +97,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VIJAYAWADA",
+    "MICR CODE": "520143002",
     "NEFT": true,
     "IMPS": true
   },
@@ -108,6 +114,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VIJAYAWADA",
+    "MICR CODE": "520143003",
     "NEFT": true,
     "IMPS": true
   },
@@ -124,6 +131,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GUNTUR",
+    "MICR CODE": "520143103",
     "NEFT": true,
     "IMPS": true
   },
@@ -140,6 +148,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GUNTUR",
+    "MICR CODE": "522143582",
     "NEFT": true,
     "IMPS": true
   },
@@ -156,6 +165,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VIJAYAWADA",
+    "MICR CODE": "520143005",
     "NEFT": true,
     "IMPS": true
   },
@@ -172,6 +182,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VIJAYAWADA",
+    "MICR CODE": "520143006",
     "NEFT": true,
     "IMPS": true
   },
@@ -188,6 +199,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MANGALAGIRI",
+    "MICR CODE": "520143302",
     "NEFT": true,
     "IMPS": true
   },
@@ -204,6 +216,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VIJAYAWADA",
+    "MICR CODE": "520143007",
     "NEFT": true,
     "IMPS": true
   },
@@ -220,6 +233,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TENALI",
+    "MICR CODE": "520143202",
     "NEFT": true,
     "IMPS": true
   },
@@ -235,6 +249,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GUNTUR",
+    "MICR CODE": "WAITING",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -252,6 +267,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUPATI",
+    "MICR CODE": "517143002",
     "NEFT": true,
     "IMPS": true
   },
@@ -267,6 +283,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VIJAYAWADA",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -285,6 +302,7 @@
     "UPI": true,
     "MICR": "532852002",
     "RTGS": true,
+    "MICR CODE": "532852002",
     "NEFT": true
   },
   "APBL0001002": {
@@ -300,6 +318,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AMADALAVALASA",
+    "MICR CODE": "532852004",
     "NEFT": true,
     "IMPS": true
   },
@@ -316,6 +335,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ICHAPURAM",
+    "MICR CODE": "532852563",
     "NEFT": true,
     "IMPS": true
   },
@@ -332,6 +352,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOTABOMMALI",
+    "MICR CODE": "532852522",
     "NEFT": true,
     "IMPS": true
   },
@@ -348,6 +369,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOTTURU",
+    "MICR CODE": "532852662",
     "NEFT": true,
     "IMPS": true
   },
@@ -364,6 +386,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NARSANNAPET",
+    "MICR CODE": "532852542",
     "NEFT": true,
     "IMPS": true
   },
@@ -380,6 +403,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PALAKONDA",
+    "MICR CODE": "532852502",
     "NEFT": true,
     "IMPS": true
   },
@@ -396,6 +420,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PALASA",
+    "MICR CODE": "532852102",
     "NEFT": true,
     "IMPS": true
   },
@@ -412,6 +437,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PATHAPATNAM",
+    "MICR CODE": "532852582",
     "NEFT": true,
     "IMPS": true
   },
@@ -428,6 +454,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PONDURU",
+    "MICR CODE": "532852153",
     "NEFT": true,
     "IMPS": true
   },
@@ -444,6 +471,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAJAM",
+    "MICR CODE": "532852152",
     "NEFT": true,
     "IMPS": true
   },
@@ -460,6 +488,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SOMPETA",
+    "MICR CODE": "532852562",
     "NEFT": true,
     "IMPS": true
   },
@@ -476,6 +505,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SRIKAKULAM",
+    "MICR CODE": "532852003",
     "NEFT": true,
     "IMPS": true
   },
@@ -492,6 +522,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TEKKALI",
+    "MICR CODE": "532852523",
     "NEFT": true,
     "IMPS": true
   },
@@ -508,6 +539,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHALLAVANIPETA",
+    "MICR CODE": "532852006",
     "NEFT": true,
     "IMPS": true
   },
@@ -524,6 +556,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GARA",
+    "MICR CODE": "532852007",
     "NEFT": true,
     "IMPS": true
   },
@@ -540,6 +573,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SRIKAKULAM",
+    "MICR CODE": "532852005",
     "NEFT": true,
     "IMPS": true
   },
@@ -556,6 +590,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RANASTHALAM",
+    "MICR CODE": "532852008",
     "NEFT": true,
     "IMPS": true
   },
@@ -572,6 +607,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MANDASA",
+    "MICR CODE": "532852010",
     "NEFT": true,
     "IMPS": true
   },
@@ -588,8 +624,111 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HIRAMANDALAM",
+    "MICR CODE": "532852009",
     "NEFT": true,
     "IMPS": true
+  },
+  "APBL0001021": {
+    "IFSC": "APBL0001021",
+    "BRANCH": "THE DISTRICT CO-OPERATIVE CENTRAL BANK LTD SRIKAKULAM-BALAGA",
+    "CENTRE": "BALAGA",
+    "DISTRICT": "SRIKAKULAM",
+    "STATE": "ANDHRA PRADESH",
+    "ADDRESS": "THE DISTRICT CO-OPERATIVE CENTRAL BANK LTD , SRIKAKULAM , BALAGA BRANCH,MAIN ROAD, BALAGA,SRIKAKULAM, PIN-532001",
+    "CONTACT": "9160018903",
+    "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "BALAGA",
+    "MICR CODE": "WAITING",
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
+  },
+  "APBL0001022": {
+    "IFSC": "APBL0001022",
+    "BRANCH": "THE DISTRICT CO-OPERATIVE CENTRAL BANK LTD SRIKAKULAM-EEDUPURAM",
+    "CENTRE": "EEDUPURAM",
+    "DISTRICT": "SRIKAKULAM",
+    "STATE": "ANDHRA PRADESH",
+    "ADDRESS": "THE DISTRICT CO-OPERATIVE CENTRAL BANK LTD , SRIKAKULAM , EEDUPURAM,NEAR SHRIDI SAI TEMPLE,MAIN ROAD,EEDUPURAM,SRIKAKULAM, PIN-532312",
+    "CONTACT": "9160018922",
+    "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "EEDUPURAM",
+    "MICR CODE": "WAITING",
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
+  },
+  "APBL0001023": {
+    "IFSC": "APBL0001023",
+    "BRANCH": "THE DISTRICT CO-OPERATIVE CENTRAL BANK LTD SRIKAKULAM-MALEYAPUTTI",
+    "CENTRE": "MALEYAPUTTI",
+    "DISTRICT": "SRIKAKULAM",
+    "STATE": "ANDHRA PRADESH",
+    "ADDRESS": "THE DISTRICT CO-OPERATIVE CENTRAL BANK LTD , SRIKAKULAM , MALEYAPUTTI,MAIN ROAD,3 ROAD JUNCTION,PARLAKIMIDI ROAD, OPP AXIS BANK ATM,SRIKAKULAM, PIN-532215",
+    "CONTACT": "9160018934",
+    "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "MALEYAPUTTI",
+    "MICR CODE": "WAITING",
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
+  },
+  "APBL0001024": {
+    "IFSC": "APBL0001024",
+    "BRANCH": "THE DISTRICT CO-OPERATIVE CENTRAL BANK LTD SRIKAKULAM-SARAVAKOTA",
+    "CENTRE": "SARAVAKOTA",
+    "DISTRICT": "SRIKAKULAM",
+    "STATE": "ANDHRA PRADESH",
+    "ADDRESS": "THE DISTRICT CO-OPERATIVE CENTRAL BANK LTD , SRIKAKULAM , SARAVAKOTA BRANCH,MAIN ROAD,NEAR SARAVAKOTA PACS,SARAVAKOTA,SRIKAKULAM, PIN-532426",
+    "CONTACT": "9160018931",
+    "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "SARAVAKOTA",
+    "MICR CODE": "WAITING",
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
+  },
+  "APBL0001025": {
+    "IFSC": "APBL0001025",
+    "BRANCH": "THE DISTRICT CO-OPERATIVE CENTRAL BANK LTD SRIKAKULAM-PYDIBHEEMAVARAM",
+    "CENTRE": "PYDIBHEEMAVARAM",
+    "DISTRICT": "SRIKAKULAM",
+    "STATE": "ANDHRA PRADESH",
+    "ADDRESS": "THE DISTRICT CO-OPERATIVE CENTRAL BANK LTD , SRIKAKULAM , PYDIBHEEMAVARAM BRANCH,MAIN ROAD,BESIDE GRAMA SACHIVALAYAM,SRIKAKULAM, PIN-532409",
+    "CONTACT": "9133427771",
+    "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "PYDIBHEEMAVARAM",
+    "MICR CODE": "WAITING",
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
+  },
+  "APBL0001026": {
+    "IFSC": "APBL0001026",
+    "BRANCH": "THE DISTRICT CO-OPERATIVE CENTRAL BANK LTD SRIKAKULAM-VEERAGATTAM",
+    "CENTRE": "VEERAGATTAM",
+    "DISTRICT": "SRIKAKULAM",
+    "STATE": "ANDHRA PRADESH",
+    "ADDRESS": "THE DISTRICT CO-OPERATIVE CENTRAL BANK LTD , SRIKAKULAM , VEERAGATTAM BRANCH,NEAR POST OFFICE, MAIN ROAD,SRIKAKULAM, PIN-532460",
+    "CONTACT": "9160018926",
+    "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "VEERAGATTAM",
+    "MICR CODE": "WAITING",
+    "NEFT": true,
+    "IMPS": true,
+    "MICR": null
   },
   "APBL0002001": {
     "BANK": "District Co-operative Central Bank Vizianagaram",
@@ -604,6 +743,7 @@
     "CITY": "VIZIANAGARAM",
     "UPI": true,
     "RTGS": true,
+    "MICR CODE": "NA",
     "NEFT": true,
     "MICR": null
   },
@@ -620,6 +760,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BOBBILI",
+    "MICR CODE": "535824152",
     "NEFT": true,
     "IMPS": true
   },
@@ -636,6 +777,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHEEPURUPALLE",
+    "MICR CODE": "535824522",
     "NEFT": true,
     "IMPS": true
   },
@@ -652,6 +794,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GAJAPATHINAGARAM",
+    "MICR CODE": "535824502",
     "NEFT": true,
     "IMPS": true
   },
@@ -668,6 +811,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GANTYADA",
+    "MICR CODE": "535824704",
     "NEFT": true,
     "IMPS": true
   },
@@ -684,6 +828,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GARIVIDI",
+    "MICR CODE": "535824702",
     "NEFT": true,
     "IMPS": true
   },
@@ -700,6 +845,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOTHAVALASA",
+    "MICR CODE": "535824602",
     "NEFT": true,
     "IMPS": true
   },
@@ -716,6 +862,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NELLIMERLA",
+    "MICR CODE": "535824703",
     "NEFT": true,
     "IMPS": true
   },
@@ -732,6 +879,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PARVATHIPURAM",
+    "MICR CODE": "535824102",
     "NEFT": true,
     "IMPS": true
   },
@@ -748,6 +896,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "POOSAPATIREGA",
+    "MICR CODE": "535824682",
     "NEFT": true,
     "IMPS": true
   },
@@ -764,6 +913,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SRUNGAVARAPUKOTA",
+    "MICR CODE": "535824722",
     "NEFT": true,
     "IMPS": true
   },
@@ -780,6 +930,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SALUR",
+    "MICR CODE": "535824202",
     "NEFT": true,
     "IMPS": true
   },
@@ -796,6 +947,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SEETHANAGARAM",
+    "MICR CODE": "535824563",
     "NEFT": true,
     "IMPS": true
   },
@@ -812,6 +964,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TERLAM",
+    "MICR CODE": "535824662",
     "NEFT": true,
     "IMPS": true
   },
@@ -828,6 +981,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VIZIANAGARAM",
+    "MICR CODE": "535824003",
     "NEFT": true,
     "IMPS": true
   },
@@ -844,6 +998,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VIZIANAGARAM",
+    "MICR CODE": "535824002",
     "NEFT": true,
     "IMPS": true
   },
@@ -860,6 +1015,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BOBBILI",
+    "MICR CODE": "535824562",
     "NEFT": true,
     "IMPS": true
   },
@@ -877,6 +1033,7 @@
     "UPI": true,
     "MICR": "530519001",
     "RTGS": true,
+    "MICR CODE": "530519001",
     "NEFT": true
   },
   "APBL0003002": {
@@ -892,6 +1049,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ANAKAPALLE",
+    "MICR CODE": "530519102",
     "NEFT": true,
     "IMPS": true
   },
@@ -908,6 +1066,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BHEEMUNIPATNAM",
+    "MICR CODE": "530519542",
     "NEFT": true,
     "IMPS": true
   },
@@ -924,6 +1083,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHODAVARAM",
+    "MICR CODE": "530519202",
     "NEFT": true,
     "IMPS": true
   },
@@ -940,6 +1100,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DEVARAPALLI",
+    "MICR CODE": "530519642",
     "NEFT": true,
     "IMPS": true
   },
@@ -956,6 +1117,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VISAKHAPATNAM",
+    "MICR CODE": "530519003",
     "NEFT": true,
     "IMPS": true
   },
@@ -972,6 +1134,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GAJUWAKA",
+    "MICR CODE": "530519004",
     "NEFT": true,
     "IMPS": true
   },
@@ -988,6 +1151,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VISAKHAPATNAM",
+    "MICR CODE": "530519005",
     "NEFT": true,
     "IMPS": true
   },
@@ -1004,6 +1168,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GOPALAPATNAM",
+    "MICR CODE": "530519006",
     "NEFT": true,
     "IMPS": true
   },
@@ -1020,6 +1185,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "K.KOTAPADU",
+    "MICR CODE": "530519702",
     "NEFT": true,
     "IMPS": true
   },
@@ -1036,6 +1202,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VISAKHAPATNAM",
+    "MICR CODE": "530519007",
     "NEFT": true,
     "IMPS": true
   },
@@ -1052,6 +1219,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOTAURATLA",
+    "MICR CODE": "530519522",
     "NEFT": true,
     "IMPS": true
   },
@@ -1068,6 +1236,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VISAKHAPATNAM",
+    "MICR CODE": "530519010",
     "NEFT": true,
     "IMPS": true
   },
@@ -1084,6 +1253,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MADHURAVADA",
+    "MICR CODE": "530519017",
     "NEFT": true,
     "IMPS": true
   },
@@ -1100,6 +1270,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MADUGULA",
+    "MICR CODE": "530519602",
     "NEFT": true,
     "IMPS": true
   },
@@ -1116,6 +1287,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VISAKHAPATNAM",
+    "MICR CODE": "530519008",
     "NEFT": true,
     "IMPS": true
   },
@@ -1132,6 +1304,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VISAKHAPATNAM",
+    "MICR CODE": "530519009",
     "NEFT": true,
     "IMPS": true
   },
@@ -1148,6 +1321,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NARSIPATNAM",
+    "MICR CODE": "530519152",
     "NEFT": true,
     "IMPS": true
   },
@@ -1164,6 +1338,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PADERU",
+    "MICR CODE": "530519502",
     "NEFT": true,
     "IMPS": true
   },
@@ -1180,6 +1355,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PAYAKARAOPET",
+    "MICR CODE": "530519524",
     "NEFT": true,
     "IMPS": true
   },
@@ -1196,6 +1372,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PENDURTI",
+    "MICR CODE": "530519018",
     "NEFT": true,
     "IMPS": true
   },
@@ -1212,6 +1389,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VISAKHAPATNAM",
+    "MICR CODE": "530519011",
     "NEFT": true,
     "IMPS": true
   },
@@ -1228,6 +1406,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAVIKAMATAM",
+    "MICR CODE": "530519622",
     "NEFT": true,
     "IMPS": true
   },
@@ -1244,6 +1423,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VISAKHAPATNAM",
+    "MICR CODE": "530519012",
     "NEFT": true,
     "IMPS": true
   },
@@ -1260,6 +1440,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SRIHARIPURAM",
+    "MICR CODE": "530519013",
     "NEFT": true,
     "IMPS": true
   },
@@ -1276,6 +1457,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VISAKHAPATNAM",
+    "MICR CODE": "530519016",
     "NEFT": true,
     "IMPS": true
   },
@@ -1292,6 +1474,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VISAKHAPATNAM",
+    "MICR CODE": "530519002",
     "NEFT": true,
     "IMPS": true
   },
@@ -1308,6 +1491,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VISAKHAPATNAM",
+    "MICR CODE": "530519015",
     "NEFT": true,
     "IMPS": true
   },
@@ -1324,6 +1508,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "YELLAMANCHILI",
+    "MICR CODE": "530519523",
     "NEFT": true,
     "IMPS": true
   },
@@ -1339,25 +1524,27 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VISAKHAPATNAM",
+    "MICR CODE": "WAITING",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
   "APBL0003031": {
-    "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "IFSC": "APBL0003031",
     "BRANCH": "THE VISAKAHAPATNAM DISTRICT COOPERATIVE BANK LIMITED - ATCHUTHAPURAM",
-    "ADDRESS": "THE VISAKHAPATNAM DCCB, ATCHUTHAPURAM BRANCH DOOR NO 3-29, PUDIMADAKA ROAD, ATCHUTAPURAM MANDAL - 531003",
-    "CONTACT": "7331108715",
-    "CITY": "VISAKHAPATNAM",
-    "DISTRICT": "ATCHUTHAPURAM VISAKHAPATNAM",
+    "CENTRE": "ATCHUTHAPURAM VISAKHAPATNAM",
+    "DISTRICT": "VISAKHAPATNAM",
     "STATE": "ANDHRA PRADESH",
-    "NEFT": true,
-    "CENTRE": "NA",
+    "ADDRESS": "THE VISAKHAPATNAM DCCB, ATCHUTHAPURAM BRANCH DOOR NO 3-29, PUDIMADAKA ROAD, ATCHUTAPURAM MANDAL - 531003",
+    "CONTACT": "08937331108715",
+    "MICR": "531519002",
+    "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "RTGS": true,
+    "CITY": "ATCHUTHAPURAM VISAKHAPATNAM",
+    "MICR CODE": "531519002",
+    "NEFT": true,
+    "IMPS": true
   },
   "APBL0004001": {
     "BANK": "District Co-operative Central Bank Kakinada",
@@ -1373,6 +1560,7 @@
     "UPI": true,
     "MICR": "533842002",
     "RTGS": true,
+    "MICR CODE": "533842002",
     "NEFT": true
   },
   "APBL0004002": {
@@ -1388,6 +1576,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ALAMURU",
+    "MICR CODE": "533842625",
     "NEFT": true,
     "IMPS": true
   },
@@ -1404,6 +1593,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AMALAPURAM",
+    "MICR CODE": "533842664",
     "NEFT": true,
     "IMPS": true
   },
@@ -1420,6 +1610,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AMALAPURAM",
+    "MICR CODE": "533842302",
     "NEFT": true,
     "IMPS": true
   },
@@ -1436,6 +1627,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ANAPARTHI",
+    "MICR CODE": "533842722",
     "NEFT": true,
     "IMPS": true
   },
@@ -1452,6 +1644,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ANGARA",
+    "MICR CODE": "533842624",
     "NEFT": true,
     "IMPS": true
   },
@@ -1468,6 +1661,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ANNAVARAM",
+    "MICR CODE": "533842602",
     "NEFT": true,
     "IMPS": true
   },
@@ -1484,6 +1678,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ATREYAPURAM",
+    "MICR CODE": "533842626",
     "NEFT": true,
     "IMPS": true
   },
@@ -1500,6 +1695,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DRAKSHARAMA",
+    "MICR CODE": "533842403",
     "NEFT": true,
     "IMPS": true
   },
@@ -1516,6 +1712,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAJANAGARAM",
+    "MICR CODE": "533842523",
     "NEFT": true,
     "IMPS": true
   },
@@ -1532,6 +1729,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DRAKSHARAMA",
+    "MICR CODE": "533842404",
     "NEFT": true,
     "IMPS": true
   },
@@ -1548,6 +1746,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GOKAVARAM",
+    "MICR CODE": "533842782",
     "NEFT": true,
     "IMPS": true
   },
@@ -1564,6 +1763,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GOLLAPALEM",
+    "MICR CODE": "533842822",
     "NEFT": true,
     "IMPS": true
   },
@@ -1580,6 +1780,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "INAVALLI",
+    "MICR CODE": "533842644",
     "NEFT": true,
     "IMPS": true
   },
@@ -1596,6 +1797,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JAGGAMPETA",
+    "MICR CODE": "533842522",
     "NEFT": true,
     "IMPS": true
   },
@@ -1612,6 +1814,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KADIAM",
+    "MICR CODE": "533842627",
     "NEFT": true,
     "IMPS": true
   },
@@ -1628,6 +1831,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KATRENIKONA",
+    "MICR CODE": "533842642",
     "NEFT": true,
     "IMPS": true
   },
@@ -1644,6 +1848,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KORUKONDA",
+    "MICR CODE": "533842783",
     "NEFT": true,
     "IMPS": true
   },
@@ -1660,6 +1865,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOTHAPETA",
+    "MICR CODE": "533842623",
     "NEFT": true,
     "IMPS": true
   },
@@ -1676,6 +1882,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMMIDIVARAM",
+    "MICR CODE": "533842645",
     "NEFT": true,
     "IMPS": true
   },
@@ -1692,6 +1899,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MALIKIPURAM",
+    "MICR CODE": "533842742",
     "NEFT": true,
     "IMPS": true
   },
@@ -1708,6 +1916,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TATIPAKA",
+    "MICR CODE": "533842663",
     "NEFT": true,
     "IMPS": true
   },
@@ -1724,6 +1933,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MANDAPETA",
+    "MICR CODE": "533842502",
     "NEFT": true,
     "IMPS": true
   },
@@ -1740,6 +1950,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AMALAPURAM",
+    "MICR CODE": "533842802",
     "NEFT": true,
     "IMPS": true
   },
@@ -1756,6 +1967,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MURAMULLA",
+    "MICR CODE": "533842643",
     "NEFT": true,
     "IMPS": true
   },
@@ -1772,6 +1984,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PATHAGANNAVARAM",
+    "MICR CODE": "533842744",
     "NEFT": true,
     "IMPS": true
   },
@@ -1788,6 +2001,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PEDAPUDI",
+    "MICR CODE": "533842842",
     "NEFT": true,
     "IMPS": true
   },
@@ -1804,6 +2018,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PEDDAPURAM",
+    "MICR CODE": "533842525",
     "NEFT": true,
     "IMPS": true
   },
@@ -1820,6 +2035,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PITHAPURAM",
+    "MICR CODE": "533842562",
     "NEFT": true,
     "IMPS": true
   },
@@ -1836,6 +2052,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PRATHIPADU",
+    "MICR CODE": "533842582",
     "NEFT": true,
     "IMPS": true
   },
@@ -1852,6 +2069,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAMACHANDRAPURAM",
+    "MICR CODE": "533842402",
     "NEFT": true,
     "IMPS": true
   },
@@ -1868,6 +2086,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAGHUDEVAPURAM",
+    "MICR CODE": "533842784",
     "NEFT": true,
     "IMPS": true
   },
@@ -1884,6 +2103,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAJAHMUNDRY",
+    "MICR CODE": "533842102",
     "NEFT": true,
     "IMPS": true
   },
@@ -1900,6 +2120,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAJANAGARAM",
+    "MICR CODE": "533842785",
     "NEFT": true,
     "IMPS": true
   },
@@ -1916,6 +2137,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RANGAMPETA",
+    "MICR CODE": "533842524",
     "NEFT": true,
     "IMPS": true
   },
@@ -1932,6 +2154,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAVULAPALEM",
+    "MICR CODE": "533842622",
     "NEFT": true,
     "IMPS": true
   },
@@ -1948,6 +2171,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAMACHANDRAPURAM",
+    "MICR CODE": "533842405",
     "NEFT": true,
     "IMPS": true
   },
@@ -1964,6 +2188,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAZOLE",
+    "MICR CODE": "533842662",
     "NEFT": true,
     "IMPS": true
   },
@@ -1980,6 +2205,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SAMALKOT",
+    "MICR CODE": "533842526",
     "NEFT": true,
     "IMPS": true
   },
@@ -1996,6 +2222,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TALLAREVU",
+    "MICR CODE": "533842647",
     "NEFT": true,
     "IMPS": true
   },
@@ -2012,6 +2239,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TATIPAKA",
+    "MICR CODE": "533842743",
     "NEFT": true,
     "IMPS": true
   },
@@ -2028,6 +2256,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KAKINADA",
+    "MICR CODE": "533842004",
     "NEFT": true,
     "IMPS": true
   },
@@ -2044,6 +2273,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THORREDU",
+    "MICR CODE": "533842723",
     "NEFT": true,
     "IMPS": true
   },
@@ -2060,6 +2290,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TUNI",
+    "MICR CODE": "534842202",
     "NEFT": true,
     "IMPS": true
   },
@@ -2076,6 +2307,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "UPPALAGUPTAM",
+    "MICR CODE": "533842646",
     "NEFT": true,
     "IMPS": true
   },
@@ -2092,6 +2324,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "YELESWARAM",
+    "MICR CODE": "533842583",
     "NEFT": true,
     "IMPS": true
   },
@@ -2107,6 +2340,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "U.KOTHAPALLI",
+    "MICR CODE": "WAITING",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2124,6 +2358,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KAKINADA",
+    "MICR CODE": "533842628",
     "NEFT": true,
     "IMPS": true
   },
@@ -2140,6 +2375,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SAKHINETIPALLE",
+    "MICR CODE": "533842745",
     "NEFT": true,
     "IMPS": true
   },
@@ -2156,6 +2392,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAMPACHODAVARAM",
+    "MICR CODE": "533842682",
     "NEFT": true,
     "IMPS": true
   },
@@ -2172,6 +2409,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KARAPA",
+    "MICR CODE": "533842683",
     "NEFT": true,
     "IMPS": true
   },
@@ -2187,6 +2425,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DANAVAIPETA",
+    "MICR CODE": "WAITING",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2220,6 +2459,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ELURU",
+    "MICR CODE": "534837002",
     "NEFT": true,
     "IMPS": true
   },
@@ -2236,6 +2476,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AKIVIDU",
+    "MICR CODE": "534837722",
     "NEFT": true,
     "IMPS": true
   },
@@ -2252,6 +2493,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ATTILI",
+    "MICR CODE": "534837662",
     "NEFT": true,
     "IMPS": true
   },
@@ -2268,6 +2510,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BHIMADOLEDE",
+    "MICR CODE": "534837622",
     "NEFT": true,
     "IMPS": true
   },
@@ -2284,6 +2527,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BUTTAIGUDEM",
+    "MICR CODE": "534837506",
     "NEFT": true,
     "IMPS": true
   },
@@ -2300,6 +2544,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BHIMAVARAM",
+    "MICR CODE": "534837402",
     "NEFT": true,
     "IMPS": true
   },
@@ -2316,6 +2561,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BHIMAVARAM",
+    "MICR CODE": "534837403",
     "NEFT": true,
     "IMPS": true
   },
@@ -2332,6 +2578,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHINTALAPUDI",
+    "MICR CODE": "534837582",
     "NEFT": true,
     "IMPS": true
   },
@@ -2348,6 +2595,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHAGALLU",
+    "MICR CODE": "534837603",
     "NEFT": true,
     "IMPS": true
   },
@@ -2364,6 +2612,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DWARAKA TIRUMALA",
+    "MICR CODE": "534837623",
     "NEFT": true,
     "IMPS": true
   },
@@ -2380,6 +2629,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ELURU",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true
   },
@@ -2396,6 +2646,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ELAMANCHILI",
+    "MICR CODE": "534837822",
     "NEFT": true,
     "IMPS": true
   },
@@ -2412,6 +2663,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GANAPAVARAM",
+    "MICR CODE": "534837642",
     "NEFT": true,
     "IMPS": true
   },
@@ -2428,6 +2680,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GOPALAPURAM",
+    "MICR CODE": "534837542",
     "NEFT": true,
     "IMPS": true
   },
@@ -2444,6 +2697,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JANGAREDDIGUDEM",
+    "MICR CODE": "534837502",
     "NEFT": true,
     "IMPS": true
   },
@@ -2460,6 +2714,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KAMAVARAPUKOTA",
+    "MICR CODE": "534837503",
     "NEFT": true,
     "IMPS": true
   },
@@ -2476,6 +2731,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOVVUR",
+    "MICR CODE": "534837562",
     "NEFT": true,
     "IMPS": true
   },
@@ -2492,6 +2748,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOYYALAGUDEM",
+    "MICR CODE": "534837504",
     "NEFT": true,
     "IMPS": true
   },
@@ -2508,6 +2765,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MARTERU",
+    "MICR CODE": "534837763",
     "NEFT": true,
     "IMPS": true
   },
@@ -2524,6 +2782,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MOGALTUR",
+    "MICR CODE": "534837703",
     "NEFT": true,
     "IMPS": true
   },
@@ -2540,6 +2799,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NARSAPUR",
+    "MICR CODE": "534837602",
     "NEFT": true,
     "IMPS": true
   },
@@ -2556,6 +2816,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NIDADAVOLE",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true
   },
@@ -2572,6 +2833,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PALAKOL",
+    "MICR CODE": "534837762",
     "NEFT": true,
     "IMPS": true
   },
@@ -2588,6 +2850,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PENUGONDA",
+    "MICR CODE": "534837203",
     "NEFT": true,
     "IMPS": true
   },
@@ -2604,6 +2867,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PERAVALI",
+    "MICR CODE": "534837203",
     "NEFT": true,
     "IMPS": true
   },
@@ -2620,6 +2884,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ELURU",
+    "MICR CODE": "534837003",
     "NEFT": true,
     "IMPS": true
   },
@@ -2636,6 +2901,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ELURU",
+    "MICR CODE": "534837004",
     "NEFT": true,
     "IMPS": true
   },
@@ -2652,6 +2918,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TADEPALLIGUDEM",
+    "MICR CODE": "534837102",
     "NEFT": true,
     "IMPS": true
   },
@@ -2668,6 +2935,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TADEPALLIGUDEM",
+    "MICR CODE": "534837103",
     "NEFT": true,
     "IMPS": true
   },
@@ -2684,6 +2952,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TANUKU",
+    "MICR CODE": "534837202",
     "NEFT": true,
     "IMPS": true
   },
@@ -2700,6 +2969,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TALLAPUDI",
+    "MICR CODE": "534837202",
     "NEFT": true,
     "IMPS": true
   },
@@ -2716,6 +2986,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VEERAVASARAM",
+    "MICR CODE": "534837823",
     "NEFT": true,
     "IMPS": true
   },
@@ -2732,6 +3003,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "YERNAGUDEM",
+    "MICR CODE": "534837543",
     "NEFT": true,
     "IMPS": true
   },
@@ -2748,6 +3020,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JANGAREDDIGUDEM",
+    "MICR CODE": "534837505",
     "NEFT": true,
     "IMPS": true
   },
@@ -2759,11 +3032,12 @@
     "DISTRICT": "KRISHNA",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "Machilipatnam",
-    "CONTACT": "9866057711",
+    "CONTACT": "09866057711",
     "IMPS": true,
     "CITY": "MACHILIPATNAM",
     "UPI": true,
     "RTGS": true,
+    "MICR CODE": "NA",
     "NEFT": true,
     "MICR": null
   },
@@ -2780,6 +3054,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MACHILIPATNAM",
+    "MICR CODE": "520650402",
     "NEFT": true,
     "IMPS": true
   },
@@ -2796,6 +3071,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VIJAYAWADA",
+    "MICR CODE": "520650002",
     "NEFT": true,
     "IMPS": true
   },
@@ -2812,6 +3088,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JAGGAIAHPET",
+    "MICR CODE": "520650702",
     "NEFT": true,
     "IMPS": true
   },
@@ -2828,6 +3105,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NUZIVEEDU",
+    "MICR CODE": "520650742",
     "NEFT": true,
     "IMPS": true
   },
@@ -2844,6 +3122,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GUDIVADA",
+    "MICR CODE": "520650502",
     "NEFT": true,
     "IMPS": true
   },
@@ -2860,6 +3139,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VUYYURU",
+    "MICR CODE": "520650642",
     "NEFT": true,
     "IMPS": true
   },
@@ -2876,6 +3156,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUVURU",
+    "MICR CODE": "520650562",
     "NEFT": true,
     "IMPS": true
   },
@@ -2892,6 +3173,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AVANIGADDA",
+    "MICR CODE": "520650683",
     "NEFT": true,
     "IMPS": true
   },
@@ -2908,6 +3190,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NANDIGAMA",
+    "MICR CODE": "520650542",
     "NEFT": true,
     "IMPS": true
   },
@@ -2924,6 +3207,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GANNAVARAM",
+    "MICR CODE": "520650624",
     "NEFT": true,
     "IMPS": true
   },
@@ -2940,6 +3224,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KAIKALURU",
+    "MICR CODE": "520650722",
     "NEFT": true,
     "IMPS": true
   },
@@ -2956,6 +3241,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GUDLAVALLERU",
+    "MICR CODE": "520650782",
     "NEFT": true,
     "IMPS": true
   },
@@ -2972,6 +3258,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHALLAPALLI",
+    "MICR CODE": "520650682",
     "NEFT": true,
     "IMPS": true
   },
@@ -2988,6 +3275,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUDINEPALLI",
+    "MICR CODE": "520650762",
     "NEFT": true,
     "IMPS": true
   },
@@ -3004,6 +3292,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PAMARRU",
+    "MICR CODE": "520650662",
     "NEFT": true,
     "IMPS": true
   },
@@ -3020,6 +3309,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HANUMAN JUNCTION",
+    "MICR CODE": "520650623",
     "NEFT": true,
     "IMPS": true
   },
@@ -3036,6 +3326,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANTUMILLI",
+    "MICR CODE": "520650763",
     "NEFT": true,
     "IMPS": true
   },
@@ -3052,6 +3343,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MYLAVARAM",
+    "MICR CODE": "520650583",
     "NEFT": true,
     "IMPS": true
   },
@@ -3068,6 +3360,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KANKIPADU",
+    "MICR CODE": "520650622",
     "NEFT": true,
     "IMPS": true
   },
@@ -3084,6 +3377,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KANCHIKACHERLA",
+    "MICR CODE": "520650522",
     "NEFT": true,
     "IMPS": true
   },
@@ -3100,6 +3394,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PATAMATA",
+    "MICR CODE": "520650005",
     "NEFT": true,
     "IMPS": true
   },
@@ -3116,6 +3411,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MOVVA",
+    "MICR CODE": "520650664",
     "NEFT": true,
     "IMPS": true
   },
@@ -3132,6 +3428,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PEDANA",
+    "MICR CODE": "520650783",
     "NEFT": true,
     "IMPS": true
   },
@@ -3148,6 +3445,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KALIDINDI",
+    "MICR CODE": "520650723",
     "NEFT": true,
     "IMPS": true
   },
@@ -3164,6 +3462,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VISSANNAPETA",
+    "MICR CODE": "520650743",
     "NEFT": true,
     "IMPS": true
   },
@@ -3180,6 +3479,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VEERANKILOCK",
+    "MICR CODE": "520650665",
     "NEFT": true,
     "IMPS": true
   },
@@ -3196,6 +3496,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THOTLAVALLURU",
+    "MICR CODE": "520650643",
     "NEFT": true,
     "IMPS": true
   },
@@ -3212,6 +3513,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PENUGANCHIPROLU",
+    "MICR CODE": "520650822",
     "NEFT": true,
     "IMPS": true
   },
@@ -3228,6 +3530,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "IBRAHIMPATNAM",
+    "MICR CODE": "520650523",
     "NEFT": true,
     "IMPS": true
   },
@@ -3244,6 +3547,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GAMPALAGUDEM",
+    "MICR CODE": "520650802",
     "NEFT": true,
     "IMPS": true
   },
@@ -3260,6 +3564,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SURYARAOPET",
+    "MICR CODE": "520650003",
     "NEFT": true,
     "IMPS": true
   },
@@ -3276,6 +3581,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGAYALANKA",
+    "MICR CODE": "520650684",
     "NEFT": true,
     "IMPS": true
   },
@@ -3292,6 +3598,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUSUNURU",
+    "MICR CODE": "520650746",
     "NEFT": true,
     "IMPS": true
   },
@@ -3308,6 +3615,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TELAPROLU",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true
   },
@@ -3324,6 +3632,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AGIRIPALLI",
+    "MICR CODE": "520650745",
     "NEFT": true,
     "IMPS": true
   },
@@ -3340,6 +3649,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PEDDAPURAM",
+    "MICR CODE": "520650545",
     "NEFT": true,
     "IMPS": true
   },
@@ -3356,6 +3666,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHANDARLAPADU",
+    "MICR CODE": "520650544",
     "NEFT": true,
     "IMPS": true
   },
@@ -3372,6 +3683,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "G.KONDURU",
+    "MICR CODE": "520650582",
     "NEFT": true,
     "IMPS": true
   },
@@ -3388,6 +3700,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RUDRAPAKA",
+    "MICR CODE": "520650724",
     "NEFT": true,
     "IMPS": true
   },
@@ -3404,6 +3717,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GUDURU",
+    "MICR CODE": "520650784",
     "NEFT": true,
     "IMPS": true
   },
@@ -3420,6 +3734,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VATSAVAI",
+    "MICR CODE": "520650823",
     "NEFT": true,
     "IMPS": true
   },
@@ -3436,6 +3751,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KAMBHAMPADU",
+    "MICR CODE": "520650584",
     "NEFT": true,
     "IMPS": true
   },
@@ -3452,6 +3768,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KATURU",
+    "MICR CODE": "520650644",
     "NEFT": true,
     "IMPS": true
   },
@@ -3468,6 +3785,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SATYANARAYANAPURAM",
+    "MICR CODE": "520650004",
     "NEFT": true,
     "IMPS": true
   },
@@ -3484,6 +3802,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GHANTASALA",
+    "MICR CODE": "520650663",
     "NEFT": true,
     "IMPS": true
   },
@@ -3500,6 +3819,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHATRAI",
+    "MICR CODE": "520650744",
     "NEFT": true,
     "IMPS": true
   },
@@ -3516,6 +3836,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHINNAPURAM",
+    "MICR CODE": "520650785",
     "NEFT": true,
     "IMPS": true
   },
@@ -3532,6 +3853,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GUDIVADA",
+    "MICR CODE": "520650503",
     "NEFT": true,
     "IMPS": true
   },
@@ -3548,6 +3870,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KODURU",
+    "MICR CODE": "520650725",
     "NEFT": true,
     "IMPS": true
   },
@@ -3564,6 +3887,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NANDIGAMA",
+    "MICR CODE": "520650543",
     "NEFT": true,
     "IMPS": true
   },
@@ -3580,6 +3904,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VIJAYAWADA",
+    "MICR CODE": "520650007",
     "NEFT": true,
     "IMPS": true
   },
@@ -3596,6 +3921,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MACHILIPATNAM",
+    "MICR CODE": "520650403",
     "NEFT": true,
     "IMPS": true
   },
@@ -3612,6 +3938,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VIJAYAWADA",
+    "MICR CODE": "520650008",
     "NEFT": true,
     "IMPS": true
   },
@@ -3628,6 +3955,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VIJAYAWADA",
+    "MICR CODE": "520650009",
     "NEFT": true,
     "IMPS": true
   },
@@ -3643,6 +3971,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MOPIDEVI",
+    "MICR CODE": "WAITING",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3659,6 +3988,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KRISHNA",
+    "MICR CODE": "WAITING",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3675,6 +4005,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KRISHNA",
+    "MICR CODE": "WAITING",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3691,6 +4022,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "UNGUTURU",
+    "MICR CODE": "WAITING",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3709,6 +4041,7 @@
     "UPI": true,
     "MICR": "520635102",
     "RTGS": true,
+    "MICR CODE": "520635102",
     "NEFT": true
   },
   "APBL0007002": {
@@ -3724,6 +4057,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GUNTUR",
+    "MICR CODE": "520635103",
     "NEFT": true,
     "IMPS": true
   },
@@ -3740,6 +4074,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GUNTUR",
+    "MICR CODE": "520635105",
     "NEFT": true,
     "IMPS": true
   },
@@ -3756,6 +4091,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AMARAVATHI",
+    "MICR CODE": "522635582",
     "NEFT": true,
     "IMPS": true
   },
@@ -3772,6 +4108,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BAPATLA",
+    "MICR CODE": "522635302",
     "NEFT": true,
     "IMPS": true
   },
@@ -3788,6 +4125,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TENALI",
+    "MICR CODE": "520635202",
     "NEFT": true,
     "IMPS": true
   },
@@ -3804,6 +4142,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHEBROLE",
+    "MICR CODE": "522635722",
     "NEFT": true,
     "IMPS": true
   },
@@ -3820,6 +4159,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHERUKUPALLI",
+    "MICR CODE": "522635583",
     "NEFT": true,
     "IMPS": true
   },
@@ -3836,6 +4176,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHILAKALURIPET",
+    "MICR CODE": "522635402",
     "NEFT": true,
     "IMPS": true
   },
@@ -3852,6 +4193,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GUNTUR",
+    "MICR CODE": "520635104",
     "NEFT": true,
     "IMPS": true
   },
@@ -3868,6 +4210,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DACHEPALLI",
+    "MICR CODE": "522635622",
     "NEFT": true,
     "IMPS": true
   },
@@ -3884,6 +4227,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DUGGIRALA",
+    "MICR CODE": "522635662",
     "NEFT": true,
     "IMPS": true
   },
@@ -3900,6 +4244,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GURAZALA",
+    "MICR CODE": "522635703",
     "NEFT": true,
     "IMPS": true
   },
@@ -3916,6 +4261,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TENALI",
+    "MICR CODE": "520635203",
     "NEFT": true,
     "IMPS": true
   },
@@ -3932,6 +4278,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KAKUMANU",
+    "MICR CODE": "522635642",
     "NEFT": true,
     "IMPS": true
   },
@@ -3948,6 +4295,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KHAJIPALEM",
+    "MICR CODE": "522635682",
     "NEFT": true,
     "IMPS": true
   },
@@ -3964,6 +4312,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLLI PARA",
+    "MICR CODE": "522635802",
     "NEFT": true,
     "IMPS": true
   },
@@ -3980,6 +4329,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GUNTUR",
+    "MICR CODE": "520635106",
     "NEFT": true,
     "IMPS": true
   },
@@ -3996,6 +4346,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KROSUR",
+    "MICR CODE": "522635782",
     "NEFT": true,
     "IMPS": true
   },
@@ -4012,6 +4363,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MACHERLA",
+    "MICR CODE": "522635702",
     "NEFT": true,
     "IMPS": true
   },
@@ -4028,6 +4380,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MANGALAGIRI",
+    "MICR CODE": "520635302",
     "NEFT": true,
     "IMPS": true
   },
@@ -4044,6 +4397,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NARSARAOPET",
+    "MICR CODE": "520635602",
     "NEFT": true,
     "IMPS": true
   },
@@ -4060,6 +4414,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NIZAMPATNAM",
+    "MICR CODE": "522635683",
     "NEFT": true,
     "IMPS": true
   },
@@ -4076,6 +4431,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PEDAKURAPADU",
+    "MICR CODE": "522635742",
     "NEFT": true,
     "IMPS": true
   },
@@ -4092,6 +4448,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PHIRANGIPURAM",
+    "MICR CODE": "522635584",
     "NEFT": true,
     "IMPS": true
   },
@@ -4108,6 +4465,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PIDUGURALLA",
+    "MICR CODE": "522635522",
     "NEFT": true,
     "IMPS": true
   },
@@ -4124,6 +4482,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PONNUR",
+    "MICR CODE": "522635602",
     "NEFT": true,
     "IMPS": true
   },
@@ -4140,6 +4499,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PRATHIPADU",
+    "MICR CODE": "522635643",
     "NEFT": true,
     "IMPS": true
   },
@@ -4156,6 +4516,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "REPALLE",
+    "MICR CODE": "522635562",
     "NEFT": true,
     "IMPS": true
   },
@@ -4172,6 +4533,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GUNTUR",
+    "MICR CODE": "520635603",
     "NEFT": true,
     "IMPS": true
   },
@@ -4188,6 +4550,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SATTENAPALLE",
+    "MICR CODE": "522635502",
     "NEFT": true,
     "IMPS": true
   },
@@ -4204,6 +4567,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THULLUR",
+    "MICR CODE": "522635585",
     "NEFT": true,
     "IMPS": true
   },
@@ -4220,6 +4584,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VEMURU",
+    "MICR CODE": "522635803",
     "NEFT": true,
     "IMPS": true
   },
@@ -4236,6 +4601,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VINUKONDA",
+    "MICR CODE": "522635542",
     "NEFT": true,
     "IMPS": true
   },
@@ -4252,6 +4618,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MANDADAM",
+    "MICR CODE": "522635586",
     "NEFT": true,
     "IMPS": true
   },
@@ -4268,6 +4635,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BHATTIPROLU",
+    "MICR CODE": "522635563",
     "NEFT": true,
     "IMPS": true
   },
@@ -4284,6 +4652,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TADIKONDA",
+    "MICR CODE": "522635587",
     "NEFT": true,
     "IMPS": true
   },
@@ -4300,6 +4669,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GUNTUR",
+    "MICR CODE": "522635002",
     "NEFT": true,
     "IMPS": true
   },
@@ -4316,6 +4686,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GUNTUR",
+    "MICR CODE": "522635003",
     "NEFT": true,
     "IMPS": true
   },
@@ -4332,6 +4703,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GUNTUR",
+    "MICR CODE": "522635004",
     "NEFT": true,
     "IMPS": true
   },
@@ -4347,6 +4719,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGARAM",
+    "MICR CODE": "WAITING",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4363,6 +4736,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENCHUPET",
+    "MICR CODE": "WAITING",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4381,6 +4755,7 @@
     "UPI": true,
     "MICR": "523827002",
     "RTGS": true,
+    "MICR CODE": "523827002",
     "NEFT": true
   },
   "APBL0008002": {
@@ -4396,6 +4771,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ADDANKI",
+    "MICR CODE": "523827642",
     "NEFT": true,
     "IMPS": true
   },
@@ -4412,6 +4788,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "B.NIDAMANUR",
+    "MICR CODE": "523827007",
     "NEFT": true,
     "IMPS": true
   },
@@ -4428,6 +4805,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BESTAVARAPET",
+    "MICR CODE": "523827542",
     "NEFT": true,
     "IMPS": true
   },
@@ -4444,6 +4822,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHIMAKURTHI",
+    "MICR CODE": "523827582",
     "NEFT": true,
     "IMPS": true
   },
@@ -4460,6 +4839,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHIRALA",
+    "MICR CODE": "523827102",
     "NEFT": true,
     "IMPS": true
   },
@@ -4476,6 +4856,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DARSI",
+    "MICR CODE": "523827622",
     "NEFT": true,
     "IMPS": true
   },
@@ -4492,6 +4873,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GIDDALUR",
+    "MICR CODE": "523827522",
     "NEFT": true,
     "IMPS": true
   },
@@ -4508,6 +4890,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "INKOLLU",
+    "MICR CODE": "523827643",
     "NEFT": true,
     "IMPS": true
   },
@@ -4524,6 +4907,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KANDUKUR",
+    "MICR CODE": "523827682",
     "NEFT": true,
     "IMPS": true
   },
@@ -4540,6 +4924,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KANIGIRI",
+    "MICR CODE": "523827602",
     "NEFT": true,
     "IMPS": true
   },
@@ -4556,6 +4941,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KARAMCHEDU",
+    "MICR CODE": "523827662",
     "NEFT": true,
     "IMPS": true
   },
@@ -4572,6 +4958,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KONDAPI",
+    "MICR CODE": "523827803",
     "NEFT": true,
     "IMPS": true
   },
@@ -4588,6 +4975,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KURICHEDU",
+    "MICR CODE": "523827623",
     "NEFT": true,
     "IMPS": true
   },
@@ -4604,6 +4992,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ONGOLE",
+    "MICR CODE": "523827005",
     "NEFT": true,
     "IMPS": true
   },
@@ -4620,6 +5009,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ONGOLE",
+    "MICR CODE": "523827004",
     "NEFT": true,
     "IMPS": true
   },
@@ -4636,6 +5026,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "M.NIDAMALURU",
+    "MICR CODE": "523827802",
     "NEFT": true,
     "IMPS": true
   },
@@ -4652,6 +5043,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MARKAPUR",
+    "MICR CODE": "523827202",
     "NEFT": true,
     "IMPS": true
   },
@@ -4668,6 +5060,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MARTURU",
+    "MICR CODE": "523827663",
     "NEFT": true,
     "IMPS": true
   },
@@ -4684,6 +5077,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PAMUR",
+    "MICR CODE": "523827702",
     "NEFT": true,
     "IMPS": true
   },
@@ -4700,6 +5094,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PARCHOOR",
+    "MICR CODE": "523827664",
     "NEFT": true,
     "IMPS": true
   },
@@ -4716,6 +5111,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PODILI",
+    "MICR CODE": "523827583",
     "NEFT": true,
     "IMPS": true
   },
@@ -4732,6 +5128,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAVINUTHALA",
+    "MICR CODE": "523827644",
     "NEFT": true,
     "IMPS": true
   },
@@ -4748,6 +5145,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SANTHAMAGULUR",
+    "MICR CODE": "523827645",
     "NEFT": true,
     "IMPS": true
   },
@@ -4764,6 +5162,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SINGARAYAKONDA",
+    "MICR CODE": "523827683",
     "NEFT": true,
     "IMPS": true
   },
@@ -4780,6 +5179,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TANGUTURU",
+    "MICR CODE": "523827006",
     "NEFT": true,
     "IMPS": true
   },
@@ -4796,6 +5196,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ONGOLE",
+    "MICR CODE": "523827003",
     "NEFT": true,
     "IMPS": true
   },
@@ -4812,6 +5213,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "UPPUGUNDUR",
+    "MICR CODE": "523827722",
     "NEFT": true,
     "IMPS": true
   },
@@ -4828,6 +5230,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "YERRAGONDAPALEM",
+    "MICR CODE": "523827502",
     "NEFT": true,
     "IMPS": true
   },
@@ -4845,6 +5248,7 @@
     "UPI": true,
     "MICR": "524841002",
     "RTGS": true,
+    "MICR CODE": "524841002",
     "NEFT": true
   },
   "APBL0009003": {
@@ -4860,6 +5264,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ATMAKUR",
+    "MICR CODE": "524841542",
     "NEFT": true,
     "IMPS": true
   },
@@ -4876,6 +5281,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GUDUR",
+    "MICR CODE": "524841102",
     "NEFT": true,
     "IMPS": true
   },
@@ -4892,6 +5298,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KAVALI",
+    "MICR CODE": "524841202",
     "NEFT": true,
     "IMPS": true
   },
@@ -4908,6 +5315,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KAVALI",
+    "MICR CODE": "524841202",
     "NEFT": true,
     "IMPS": true
   },
@@ -4924,6 +5332,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOTA",
+    "MICR CODE": "524841664",
     "NEFT": true,
     "IMPS": true
   },
@@ -4940,6 +5349,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOVUR",
+    "MICR CODE": "524841003",
     "NEFT": true,
     "IMPS": true
   },
@@ -4956,6 +5366,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAIDUPET",
+    "MICR CODE": "524841662",
     "NEFT": true,
     "IMPS": true
   },
@@ -4972,6 +5383,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NELLORE",
+    "MICR CODE": "524841005",
     "NEFT": true,
     "IMPS": true
   },
@@ -4988,6 +5400,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PODALAKUR",
+    "MICR CODE": "524841543",
     "NEFT": true,
     "IMPS": true
   },
@@ -5004,6 +5417,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SULLURPET",
+    "MICR CODE": "524841702",
     "NEFT": true,
     "IMPS": true
   },
@@ -5020,6 +5434,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "UDAYAGIRI",
+    "MICR CODE": "524841502",
     "NEFT": true,
     "IMPS": true
   },
@@ -5036,6 +5451,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VAKADU",
+    "MICR CODE": "524841663",
     "NEFT": true,
     "IMPS": true
   },
@@ -5052,6 +5468,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VENKATAGIRI",
+    "MICR CODE": "524841302",
     "NEFT": true,
     "IMPS": true
   },
@@ -5068,6 +5485,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VINJAMUR",
+    "MICR CODE": "524841522",
     "NEFT": true,
     "IMPS": true
   },
@@ -5084,6 +5502,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NELLORE",
+    "MICR CODE": "524841005",
     "NEFT": true,
     "IMPS": true
   },
@@ -5100,6 +5519,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOVUR",
+    "MICR CODE": "524841004",
     "NEFT": true,
     "IMPS": true
   },
@@ -5116,6 +5536,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAPUR",
+    "MICR CODE": "524841662",
     "NEFT": true,
     "IMPS": true
   },
@@ -5132,6 +5553,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NELLORE",
+    "MICR CODE": "524841006",
     "NEFT": true,
     "IMPS": true
   },
@@ -5148,6 +5570,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NELLORE",
+    "MICR CODE": "524841682",
     "NEFT": true,
     "IMPS": true
   },
@@ -5165,6 +5588,7 @@
     "UPI": true,
     "MICR": "517803102",
     "RTGS": true,
+    "MICR CODE": "517803102",
     "NEFT": true
   },
   "APBL0010002": {
@@ -5174,11 +5598,12 @@
     "DISTRICT": "CHITTOOR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "D.NO.12-55-2, POKANATI STREET, B KOTHAKOTA  ,         PIN CODE - 517370",
-    "CONTACT": "9100994270",
+    "CONTACT": "09100994270",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "B.KOTHAKOTA",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5190,11 +5615,12 @@
     "DISTRICT": "CHITTOOR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "D-NO.2-92/5, M B T ROAD, BANGARUPALYAM                        PINCODE-517416",
-    "CONTACT": "9949826956",
+    "CONTACT": "09949826956",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGARUPALEM",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5206,11 +5632,12 @@
     "DISTRICT": "CHITTOOR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "D-NO.6.78/A, MAIN ROAD, CHINNA GOTTI GALLU, PINCODE-517193",
-    "CONTACT": "9949826934",
+    "CONTACT": "09949826934",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHINAGOTTIGALLU",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5222,11 +5649,12 @@
     "DISTRICT": "CHITTOOR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "DO-NO.2-47, MOTOR STREET, CHOWDEPALLE                                     PINCODE - 517257",
-    "CONTACT": "9963475286",
+    "CONTACT": "09963475286",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHOWDEPALLE",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5238,11 +5666,12 @@
     "DISTRICT": "CHITTOOR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "DO-NO. 7-381, JANDA STREET,  CHITTOOR                                           PINCODE - 517001",
-    "CONTACT": "9949826954",
+    "CONTACT": "09949826954",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHITTOOR",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5254,11 +5683,12 @@
     "DISTRICT": "CHITTOOR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "PUTTUR ROAD,                                         G D NELLORE                                           PINCODE - 517125",
-    "CONTACT": "9989777454",
+    "CONTACT": "09989777454",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "GANGADHARNALLORE",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5270,11 +5700,12 @@
     "DISTRICT": "CHITTOOR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "MAIN ROAD,                                     KANIPAKAM                                         PINCODE - 517131",
-    "CONTACT": "9908682111",
+    "CONTACT": "09908682111",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KANIPAKKAM",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5286,11 +5717,12 @@
     "DISTRICT": "CHITTOOR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "DO.NO.6-58,                               BAZAR STREET,      K NAGAR                                   PINCODE - 517582",
-    "CONTACT": "9949826951",
+    "CONTACT": "09949826951",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KARVETINAGAR",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5302,11 +5734,12 @@
     "DISTRICT": "CHITTOOR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "D NO.3-790, GREAMSPET,            OLD INDIAN BANK BUILDING,   CHITTOOR                                         PINCODE - 517001",
-    "CONTACT": "9949826949",
+    "CONTACT": "09949826949",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHITTOOR",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5318,11 +5751,12 @@
     "DISTRICT": "CHITTOOR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "DO-NO.14-378 PALACE ROAD,    KUPPAM                                                PINCODE - 517425",
-    "CONTACT": "9963499964",
+    "CONTACT": "09963499964",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KUPPAM",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5334,11 +5768,12 @@
     "DISTRICT": "CHITTOOR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "BANK STREET,                                 MADANAPALLE,                                        PINCODE - 517325",
-    "CONTACT": "9949826937",
+    "CONTACT": "09949826937",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MADANAPALLE",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5350,11 +5785,12 @@
     "DISTRICT": "CHITTOOR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "DO.NO.10-204, NAGALAPURAM ROAD,        NAGARI, PINCODE - 517590",
-    "CONTACT": "9949826948",
+    "CONTACT": "09949826948",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGARI",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5366,11 +5802,12 @@
     "DISTRICT": "CHITTOOR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "DO.NO.6,                                 MAIN ROAD,                                    P S  GATE, PINCODE - 517124",
-    "CONTACT": "9951530064",
+    "CONTACT": "09951530064",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PATHALAPATTU",
+    "MICR CODE": "524841543",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5382,11 +5819,12 @@
     "DISTRICT": "CHITTOOR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "MURALI COMPLEX,                             R T C BUS STAND,                            PAKALA, PINCODE - 517112",
-    "CONTACT": "9951530065",
+    "CONTACT": "09951530065",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PAKALA",
+    "MICR CODE": "524841702",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5398,11 +5836,12 @@
     "DISTRICT": "CHITTOOR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "DO.NO.12-312, MADANAPALLE ROAD,  PALAMANER,                             PINCODE - 517408",
-    "CONTACT": "9951530067",
+    "CONTACT": "09951530067",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PALAMANER",
+    "MICR CODE": "524841502",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5414,11 +5853,12 @@
     "DISTRICT": "CHITTOOR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "DO.NO.2-105/1,                                         L B S ROAD, PILER,                PINCODE - 517214",
-    "CONTACT": "9951530067",
+    "CONTACT": "09951530067",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PILER",
+    "MICR CODE": "524841663",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5430,11 +5870,12 @@
     "DISTRICT": "CHITTOOR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "MAIN ROAD,                        PICHATUR, PINCODE - 517587",
-    "CONTACT": "9951530069",
+    "CONTACT": "09951530069",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PITCHATURU",
+    "MICR CODE": "524841302",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5446,11 +5887,12 @@
     "DISTRICT": "CHITTOOR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "DO.NO.15/16,                                 CAR STREET,  PUNGANUR,                                 PINCODE - 517247",
-    "CONTACT": "9951530070",
+    "CONTACT": "09951530070",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNGANUR",
+    "MICR CODE": "524841522",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5462,11 +5904,12 @@
     "DISTRICT": "CHITTOOR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "DO.NO.4-24, BAZAR STREET,    PUTTUR,  PINCODE - 517583",
-    "CONTACT": "8501040022",
+    "CONTACT": "08501040022",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUTTUR",
+    "MICR CODE": "524841005",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5478,11 +5921,12 @@
     "DISTRICT": "CHITTOOR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "PALLAPU STREET,                  SATHYAVEDU,                        PINCODE - 517588",
-    "CONTACT": "8498055385",
+    "CONTACT": "08498055385",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SATYAVEDU",
+    "MICR CODE": "524841004",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5494,11 +5938,12 @@
     "DISTRICT": "CHITTOOR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "DO.NO.6/175,                          GANDHI STREET,                 SRIKALAHASTHI - 517644",
-    "CONTACT": "8501040011",
+    "CONTACT": "08501040011",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SRIKALAHASTI",
+    "MICR CODE": "524841662",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5510,11 +5955,12 @@
     "DISTRICT": "CHITTOOR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "DO.NO.12-5-526,                     TILAK ROAD,  TIRUPATI.                 PINCODE - 517501",
-    "CONTACT": "8466917271",
+    "CONTACT": "08466917271",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUPATI",
+    "MICR CODE": "524841006",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5526,11 +5972,12 @@
     "DISTRICT": "CHITTOOR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "MAIN ROAD, V KOTA,                     PINCODE - 517424",
-    "CONTACT": "9951530063",
+    "CONTACT": "09951530063",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VENKATAGIRIKOTA",
+    "MICR CODE": "524841682",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5542,11 +5989,12 @@
     "DISTRICT": "CHITTOOR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "DO.NO.9/141, KOTHAPETA STREET,   VOYALPAD,                       PINCODE - 517299",
-    "CONTACT": "9949826966",
+    "CONTACT": "09949826966",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VAYALPAD",
+    "MICR CODE": "517803102",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5558,11 +6006,12 @@
     "DISTRICT": "CHITTOOR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "DNO.19-8-110, R C ROAD, OPP.RYTHU BAZAR, TIRUPATI, PINCODE - 517501",
-    "CONTACT": "9949826966",
+    "CONTACT": "09949826966",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUPATI",
+    "MICR CODE": "517803102",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5574,11 +6023,12 @@
     "DISTRICT": "CHITTOOR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "D NO 3-28,  CO-OPBANK STREET, PAPANAIDUPETA (V) PINCODE - 517526",
-    "CONTACT": "9100994269",
+    "CONTACT": "09100994269",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PAPANAIDUPET",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5590,11 +6040,12 @@
     "DISTRICT": "CHITTOOR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "Door.No:1-18,MBT ROAD,ANGALLU-517325.",
-    "CONTACT": "9573169188",
+    "CONTACT": "09573169188",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MADANAPALLE",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5606,11 +6057,12 @@
     "DISTRICT": "CHITTOOR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "Door.No:2-250-A-2-3, RamiReddy Layout, Neerugattuvaripalle, Madanapalle-517325",
-    "CONTACT": "9963475289",
+    "CONTACT": "09963475289",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MADANAPALLE",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5622,11 +6074,12 @@
     "DISTRICT": "CHITTOOR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "DOOR NO 15 893 SRIKALAHASTHI ROAD RENIGUNTA 517520",
-    "CONTACT": "7702606444",
+    "CONTACT": "07702606444",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "RENIGUNTA",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5638,11 +6091,12 @@
     "DISTRICT": "CHITTOOR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "D.No.2-14/1,Bazar Street,Kothapeta,Chandragiri-517101.",
-    "CONTACT": "9963475283",
+    "CONTACT": "09963475283",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHANDRAGIRI",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5659,6 +6113,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VEDURUKUPPAM",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5675,6 +6130,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VARADAIAHPALEM",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5691,6 +6147,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PULICHERLA",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5707,6 +6164,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUCHANUR",
+    "MICR CODE": "WAITING",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5723,6 +6181,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "YERPEDU",
+    "MICR CODE": "WAITING",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5741,6 +6200,7 @@
     "UPI": true,
     "MICR": "516819002",
     "RTGS": true,
+    "MICR CODE": "516819002",
     "NEFT": true
   },
   "APBL0011002": {
@@ -5756,6 +6216,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BADVEL",
+    "MICR CODE": "516819502",
     "NEFT": true,
     "IMPS": true
   },
@@ -5772,6 +6233,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JAMMALAMADAGU",
+    "MICR CODE": "516819523",
     "NEFT": true,
     "IMPS": true
   },
@@ -5788,6 +6250,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KAMALAPURAM",
+    "MICR CODE": "516819562",
     "NEFT": true,
     "IMPS": true
   },
@@ -5804,6 +6267,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KODUR",
+    "MICR CODE": "516819503",
     "NEFT": true,
     "IMPS": true
   },
@@ -5820,6 +6284,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "LAKKIREDDIPALLE",
+    "MICR CODE": "516819602",
     "NEFT": true,
     "IMPS": true
   },
@@ -5836,6 +6301,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PRODDATUR",
+    "MICR CODE": "516819102",
     "NEFT": true,
     "IMPS": true
   },
@@ -5852,6 +6318,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MYDUKUR",
+    "MICR CODE": "516819563",
     "NEFT": true,
     "IMPS": true
   },
@@ -5868,6 +6335,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CUDDAPAH",
+    "MICR CODE": "516819004",
     "NEFT": true,
     "IMPS": true
   },
@@ -5884,6 +6352,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PRODDATUR",
+    "MICR CODE": "516819103",
     "NEFT": true,
     "IMPS": true
   },
@@ -5900,6 +6369,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PORUMAMILLA",
+    "MICR CODE": "516819682",
     "NEFT": true,
     "IMPS": true
   },
@@ -5916,6 +6386,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PULIVENDLA",
+    "MICR CODE": "516819582",
     "NEFT": true,
     "IMPS": true
   },
@@ -5932,6 +6403,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CUDDAPAH",
+    "MICR CODE": "516819003",
     "NEFT": true,
     "IMPS": true
   },
@@ -5948,6 +6420,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAJAMPET",
+    "MICR CODE": "516819642",
     "NEFT": true,
     "IMPS": true
   },
@@ -5964,6 +6437,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAYACHOTI",
+    "MICR CODE": "516819622",
     "NEFT": true,
     "IMPS": true
   },
@@ -5980,6 +6454,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SIDDAVATTAM",
+    "MICR CODE": "516819702",
     "NEFT": true,
     "IMPS": true
   },
@@ -5996,6 +6471,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VEMPALLE",
+    "MICR CODE": "516819782",
     "NEFT": true,
     "IMPS": true
   },
@@ -6012,6 +6488,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CUDDAPAH",
+    "MICR CODE": "516819005",
     "NEFT": true,
     "IMPS": true
   },
@@ -6028,6 +6505,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PULLAMPET",
+    "MICR CODE": "516819663",
     "NEFT": true,
     "IMPS": true
   },
@@ -6044,6 +6522,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHITVEL",
+    "MICR CODE": "516819662",
     "NEFT": true,
     "IMPS": true
   },
@@ -6060,6 +6539,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GALIVEEDU",
+    "MICR CODE": "516819762",
     "NEFT": true,
     "IMPS": true
   },
@@ -6076,6 +6556,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAYACHOTI",
+    "MICR CODE": "516819623",
     "NEFT": true,
     "IMPS": true
   },
@@ -6092,6 +6573,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TSUNDUPALLI",
+    "MICR CODE": "516819722",
     "NEFT": true,
     "IMPS": true
   },
@@ -6108,6 +6590,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DUVVUR",
+    "MICR CODE": "516819522",
     "NEFT": true,
     "IMPS": true
   },
@@ -6125,6 +6608,7 @@
     "UPI": true,
     "MICR": "515840002",
     "RTGS": true,
+    "MICR CODE": "515840002",
     "NEFT": true
   },
   "APBL0012002": {
@@ -6134,11 +6618,12 @@
     "DISTRICT": "ANANTAPUR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "1ST ROAD, NEW TOWN, ANANTAPUR",
-    "CONTACT": "9010234830",
+    "CONTACT": "09010234830",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ANANTAPUR",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6150,11 +6635,12 @@
     "DISTRICT": "ANANTAPUR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "BRAHMIN STREET, NEAR TOWN BANK, DHARMAVARAM",
-    "CONTACT": "9010234831",
+    "CONTACT": "09010234831",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DHARMAVARAM",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6166,11 +6652,12 @@
     "DISTRICT": "ANANTAPUR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "D No.7-740, (UP-STAIRS) OPP: APSRTC BUS-STAND, MAIN ROAD, GOOTY",
-    "CONTACT": "9010234832",
+    "CONTACT": "09010234832",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "GOOTY",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6182,11 +6669,12 @@
     "DISTRICT": "ANANTAPUR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "NEAR RTC BUS-STAND, GORANTLA.",
-    "CONTACT": "9010234833",
+    "CONTACT": "09010234833",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "GORANTLA",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6198,11 +6686,12 @@
     "DISTRICT": "ANANTAPUR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "ANDHRA BANK STREET, GUNTAKAL.",
-    "CONTACT": "9010234834",
+    "CONTACT": "09010234834",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "GUNTAKAL",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6214,11 +6703,12 @@
     "DISTRICT": "ANANTAPUR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "RAILWAY STATION ROAD, HINDUPUR",
-    "CONTACT": "9010234835",
+    "CONTACT": "09010234835",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "HINDUPUR",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6230,11 +6720,12 @@
     "DISTRICT": "ANANTAPUR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "D No.1-36-5-2, COLLEGE ROAD, KADIRI.",
-    "CONTACT": "9010234836",
+    "CONTACT": "09010234836",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KADIRI",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6246,11 +6737,12 @@
     "DISTRICT": "ANANTAPUR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "GOVT. JUNIOR COLLEGE ROAD, DCMS COMPOUND, KALYANADURG",
-    "CONTACT": "9010234837",
+    "CONTACT": "09010234837",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KALYANDURG",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6262,11 +6754,12 @@
     "DISTRICT": "ANANTAPUR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "NEAR SAIBABA TEMPLE, MADAKASIRA",
-    "CONTACT": "9010234838",
+    "CONTACT": "09010234838",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MADAKASIRA",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6278,11 +6771,12 @@
     "DISTRICT": "ANANTAPUR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "KADIRI MAIN ROAD, MUDIGUBBA",
-    "CONTACT": "9010234839",
+    "CONTACT": "09010234839",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUDIGUBBA",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6294,11 +6788,12 @@
     "DISTRICT": "ANANTAPUR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "D No,1/27-95, BEHIND MANASA HOTEL, PAMIDI.",
-    "CONTACT": "9010234840",
+    "CONTACT": "09010234840",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PAMIDI",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6310,11 +6805,12 @@
     "DISTRICT": "ANANTAPUR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "BEHIND RDO OFFICE, NEAR TELUGU THALLI STATUE, PENUKONDA.",
-    "CONTACT": "9010234841",
+    "CONTACT": "09010234841",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PENUKONDA",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6332,6 +6828,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUTTAPARTHI",
+    "MICR CODE": "515840602",
     "NEFT": true,
     "IMPS": true
   },
@@ -6342,11 +6839,12 @@
     "DISTRICT": "ANANTAPUR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "OPP: SBI, RAYADURG",
-    "CONTACT": "9010234843",
+    "CONTACT": "09010234843",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "RAYADURG",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6364,6 +6862,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TADPATRI",
+    "MICR CODE": "515840402",
     "NEFT": true,
     "IMPS": true
   },
@@ -6374,11 +6873,12 @@
     "DISTRICT": "ANANTAPUR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "NEAR SBI, BANK STREET, TANAKAL",
-    "CONTACT": "9010234845",
+    "CONTACT": "09010234845",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "TANAKAL",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6390,11 +6890,12 @@
     "DISTRICT": "ANANTAPUR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "D No.7-4-41, A NEAR GRAMA PANCHAYATH, URAVAKONDA.",
-    "CONTACT": "9010234846",
+    "CONTACT": "09010234846",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "URAVAKONDA",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6406,11 +6907,12 @@
     "DISTRICT": "ANANTAPUR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "D No. 7/107/C, VEMULAPADU ROAD, YADIKI.",
-    "CONTACT": "9010234847",
+    "CONTACT": "09010234847",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "YADIKI",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6422,11 +6924,12 @@
     "DISTRICT": "ANANTAPUR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "GOOTY ROAD, OLD TOWN, ANANTAPUR",
-    "CONTACT": "9010234825",
+    "CONTACT": "09010234825",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ANANTAPUR",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6438,11 +6941,12 @@
     "DISTRICT": "ANANTAPUR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "C/O SOCIETY COMPOUND, OBULADEVARA CHERUVU.",
-    "CONTACT": "8096688463",
+    "CONTACT": "08096688463",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "OBULA DEVARA CHERUVU",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6454,11 +6958,12 @@
     "DISTRICT": "ANANTAPUR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "UP-STAIRS, DHARMAVARAM ROAD,                              KOTHA CHERUVU.",
-    "CONTACT": "8096688463",
+    "CONTACT": "08096688463",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOTHACHERUVU",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6470,11 +6975,12 @@
     "DISTRICT": "ANANTAPUR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "UP-STAIRS, MAIN ROAD, ATMAKURU",
-    "CONTACT": "226898",
+    "CONTACT": "8860226898",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ATMAKUR",
+    "MICR CODE": "518823006",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6486,11 +6992,12 @@
     "DISTRICT": "ANANTAPUR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "C/O MANDALA PALLI PACS BUILDING, GUDIBANDA.",
-    "CONTACT": "9705009483",
+    "CONTACT": "09705009483",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "GUDIBANDA",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6502,11 +7009,12 @@
     "DISTRICT": "ANANTAPUR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "NEAR FLY-OVER, NH-7, RUDRAMPETA CIRCLE, ANANTAPUR",
-    "CONTACT": "8705009480",
+    "CONTACT": "08705009480",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ANANTAPUR",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6518,11 +7026,12 @@
     "DISTRICT": "ANANTAPUR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "VAJRAKARUR VILLAGE, VAJRAKARUR MANDAL.",
-    "CONTACT": "9505806007",
+    "CONTACT": "09505806007",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VAJRAKARUR",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6534,11 +7043,12 @@
     "DISTRICT": "ANANTAPUR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "MADHOODI VILLAGE, AGALI MANDAL, ANANTAPUR DIST.",
-    "CONTACT": "9505765007",
+    "CONTACT": "09505765007",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MADAKASIRA",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6550,11 +7060,12 @@
     "DISTRICT": "ANANTAPUR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "KANEKAL VILLAGE AND MANDAL",
-    "CONTACT": "9505754007",
+    "CONTACT": "09505754007",
     "BANK": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KANEKAL",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6573,6 +7084,7 @@
     "UPI": true,
     "MICR": "518823001",
     "RTGS": true,
+    "MICR CODE": "518823001",
     "NEFT": true
   },
   "APBL0013002": {
@@ -6588,6 +7100,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ADONI",
+    "MICR CODE": "518823202",
     "NEFT": true,
     "IMPS": true
   },
@@ -6604,6 +7117,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DHONE",
+    "MICR CODE": "518823643",
     "NEFT": true,
     "IMPS": true
   },
@@ -6620,6 +7134,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KURNOOL",
+    "MICR CODE": "518823562",
     "NEFT": true,
     "IMPS": true
   },
@@ -6636,6 +7151,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ATMAKU",
+    "MICR CODE": "518823522",
     "NEFT": true,
     "IMPS": true
   },
@@ -6652,6 +7168,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANAGANAPALLI",
+    "MICR CODE": "518823625",
     "NEFT": true,
     "IMPS": true
   },
@@ -6668,6 +7185,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DHONE",
+    "MICR CODE": "518823602",
     "NEFT": true,
     "IMPS": true
   },
@@ -6684,6 +7202,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GUDUR",
+    "MICR CODE": "518823543",
     "NEFT": true,
     "IMPS": true
   },
@@ -6700,6 +7219,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KODUMUR",
+    "MICR CODE": "518823542",
     "NEFT": true,
     "IMPS": true
   },
@@ -6716,6 +7236,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOILKUNTLA",
+    "MICR CODE": "518823622",
     "NEFT": true,
     "IMPS": true
   },
@@ -6732,6 +7253,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KURNOOL",
+    "MICR CODE": "518823002",
     "NEFT": true,
     "IMPS": true
   },
@@ -6748,6 +7270,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NANDIKOTKUR",
+    "MICR CODE": "518823502",
     "NEFT": true,
     "IMPS": true
   },
@@ -6764,6 +7287,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NANDYAL",
+    "MICR CODE": "518823101",
     "NEFT": true,
     "IMPS": true
   },
@@ -6780,6 +7304,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KURNOOL",
+    "MICR CODE": "518823003",
     "NEFT": true,
     "IMPS": true
   },
@@ -6796,6 +7321,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "OWK",
+    "MICR CODE": "518823623",
     "NEFT": true,
     "IMPS": true
   },
@@ -6812,6 +7338,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PANYAM",
+    "MICR CODE": "518823682",
     "NEFT": true,
     "IMPS": true
   },
@@ -6828,6 +7355,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PATTIKONDA",
+    "MICR CODE": "518823582",
     "NEFT": true,
     "IMPS": true
   },
@@ -6844,6 +7372,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SIRVEL",
+    "MICR CODE": "518823642",
     "NEFT": true,
     "IMPS": true
   },
@@ -6860,6 +7389,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VELGODU",
+    "MICR CODE": "518823523",
     "NEFT": true,
     "IMPS": true
   },
@@ -6876,6 +7406,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "YEMMIGANUR",
+    "MICR CODE": "518823302",
     "NEFT": true,
     "IMPS": true
   },
@@ -6892,6 +7423,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KURNOOL",
+    "MICR CODE": "518823624",
     "NEFT": true,
     "IMPS": true
   },
@@ -6908,6 +7440,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NANDYAL",
+    "MICR CODE": "518823004",
     "NEFT": true,
     "IMPS": true
   },
@@ -6924,6 +7457,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "UPPALAPADU",
+    "MICR CODE": "WAITING",
     "NEFT": true,
     "IMPS": true
   },
