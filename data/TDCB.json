@@ -13,6 +13,7 @@
     "UPI": false,
     "RTGS": true,
     "MICR CODE": "NA",
+    "STD CODE": "22",
     "NEFT": true,
     "MICR": null
   },
@@ -29,6 +30,7 @@
     "RTGS": true,
     "CITY": "ARNALA",
     "MICR CODE": "NA",
+    "STD CODE": "250",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -47,6 +49,7 @@
     "RTGS": true,
     "CITY": "VASAI",
     "MICR CODE": "400524004",
+    "STD CODE": "250",
     "NEFT": true,
     "IMPS": true
   },
@@ -64,6 +67,7 @@
     "RTGS": true,
     "CITY": "VASAI",
     "MICR CODE": "400524037",
+    "STD CODE": "250",
     "NEFT": true,
     "IMPS": true
   },
@@ -81,6 +85,7 @@
     "RTGS": true,
     "CITY": "VASAI",
     "MICR CODE": "400524006",
+    "STD CODE": "250",
     "NEFT": true,
     "IMPS": true
   },
@@ -97,6 +102,7 @@
     "RTGS": true,
     "CITY": "VIRAR",
     "MICR CODE": "NA",
+    "STD CODE": "250",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -115,6 +121,7 @@
     "RTGS": true,
     "CITY": "VASAI",
     "MICR CODE": "400524033",
+    "STD CODE": "250",
     "NEFT": true,
     "IMPS": true
   },
@@ -132,6 +139,7 @@
     "RTGS": true,
     "CITY": "NALLASOPARA",
     "MICR CODE": "400524003",
+    "STD CODE": "250",
     "NEFT": true,
     "IMPS": true
   },
@@ -148,6 +156,7 @@
     "RTGS": true,
     "CITY": "NIRMAL",
     "MICR CODE": "NA",
+    "STD CODE": "250",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -165,6 +174,7 @@
     "RTGS": true,
     "CITY": "BHIWANDI",
     "MICR CODE": "NA",
+    "STD CODE": "2522",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -183,6 +193,7 @@
     "RTGS": true,
     "CITY": "BHIWANDI",
     "MICR CODE": "400524046",
+    "STD CODE": "2522",
     "NEFT": true,
     "IMPS": true
   },
@@ -200,6 +211,7 @@
     "RTGS": true,
     "CITY": "PADGHA",
     "MICR CODE": "400524049",
+    "STD CODE": "2522",
     "NEFT": true,
     "IMPS": true
   },
@@ -217,6 +229,7 @@
     "RTGS": true,
     "CITY": "BHIWANDI",
     "MICR CODE": "400524031",
+    "STD CODE": "2522",
     "NEFT": true,
     "IMPS": true
   },
@@ -233,6 +246,7 @@
     "RTGS": true,
     "CITY": "GANESHPURI",
     "MICR CODE": "NA",
+    "STD CODE": "2522",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -251,6 +265,7 @@
     "RTGS": true,
     "CITY": "BHIWANDI",
     "MICR CODE": "400524030",
+    "STD CODE": "2522",
     "NEFT": true,
     "IMPS": true
   },
@@ -268,6 +283,7 @@
     "RTGS": true,
     "CITY": "BHIWANDI",
     "MICR CODE": "400524034",
+    "STD CODE": "2522",
     "NEFT": true,
     "IMPS": true
   },
@@ -284,6 +300,7 @@
     "RTGS": true,
     "CITY": "DAHANU",
     "MICR CODE": "NA",
+    "STD CODE": "2528",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -301,6 +318,7 @@
     "RTGS": true,
     "CITY": "DAHANU ROAD",
     "MICR CODE": "NA",
+    "STD CODE": "2528",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -318,6 +336,7 @@
     "RTGS": true,
     "CITY": "BORDI",
     "MICR CODE": "NA",
+    "STD CODE": "2528",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -335,6 +354,7 @@
     "RTGS": true,
     "CITY": "DAHANU",
     "MICR CODE": "NA",
+    "STD CODE": "2528",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -352,6 +372,7 @@
     "RTGS": true,
     "CITY": "DAHANU",
     "MICR CODE": "NA",
+    "STD CODE": "2528",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -369,6 +390,7 @@
     "RTGS": true,
     "CITY": "VANGAON",
     "MICR CODE": "NA",
+    "STD CODE": "2528",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -386,6 +408,7 @@
     "RTGS": true,
     "CITY": "JAWHAR",
     "MICR CODE": "NA",
+    "STD CODE": "2520",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -403,6 +426,7 @@
     "RTGS": true,
     "CITY": "VIKRAMGAD",
     "MICR CODE": "NA",
+    "STD CODE": "2520",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -420,6 +444,7 @@
     "RTGS": true,
     "CITY": "KALYAN",
     "MICR CODE": "NA",
+    "STD CODE": "251",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -438,6 +463,7 @@
     "RTGS": true,
     "CITY": "KALYAN",
     "MICR CODE": "400524025",
+    "STD CODE": "251",
     "NEFT": true,
     "IMPS": true
   },
@@ -455,6 +481,7 @@
     "RTGS": true,
     "CITY": "DOMBIVLI",
     "MICR CODE": "400524017",
+    "STD CODE": "251",
     "NEFT": true,
     "IMPS": true
   },
@@ -472,6 +499,7 @@
     "RTGS": true,
     "CITY": "DOMBIVLI",
     "MICR CODE": "400524018",
+    "STD CODE": "251",
     "NEFT": true,
     "IMPS": true
   },
@@ -488,6 +516,7 @@
     "RTGS": true,
     "CITY": "MURBAD",
     "MICR CODE": "NA",
+    "STD CODE": "2524",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -505,6 +534,7 @@
     "RTGS": true,
     "CITY": "MURBAD",
     "MICR CODE": "NA",
+    "STD CODE": "2524",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -522,6 +552,7 @@
     "RTGS": true,
     "CITY": "SARALGAON",
     "MICR CODE": "NA",
+    "STD CODE": "2524",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -540,6 +571,7 @@
     "RTGS": true,
     "CITY": "THANE",
     "MICR CODE": "400524010",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -557,6 +589,7 @@
     "RTGS": true,
     "CITY": "THANE",
     "MICR CODE": "400524009",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -574,6 +607,7 @@
     "RTGS": true,
     "CITY": "MIRA-BHAYANDAR",
     "MICR CODE": "400524007",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -591,6 +625,7 @@
     "RTGS": true,
     "CITY": "THANE",
     "MICR CODE": "400524014",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -608,6 +643,7 @@
     "RTGS": true,
     "CITY": "THANE",
     "MICR CODE": "400524016",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -625,6 +661,7 @@
     "RTGS": true,
     "CITY": "THANE",
     "MICR CODE": "400524015",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -642,6 +679,7 @@
     "RTGS": true,
     "CITY": "THANE",
     "MICR CODE": "400524011",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -659,6 +697,7 @@
     "RTGS": true,
     "CITY": "THANE",
     "MICR CODE": "400524013",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -676,6 +715,7 @@
     "RTGS": true,
     "CITY": "THANE",
     "MICR CODE": "400524012",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -693,6 +733,7 @@
     "RTGS": true,
     "CITY": "MIRA-BHAYANDAR",
     "MICR CODE": "400524008",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -710,6 +751,7 @@
     "RTGS": true,
     "CITY": "ULHASNAGAR",
     "MICR CODE": "400524021",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -727,6 +769,7 @@
     "RTGS": true,
     "CITY": "ULHASNAGAR",
     "MICR CODE": "400524024",
+    "STD CODE": "251",
     "NEFT": true,
     "IMPS": true
   },
@@ -744,6 +787,7 @@
     "RTGS": true,
     "CITY": "ULHASNAGAR",
     "MICR CODE": "400524023",
+    "STD CODE": "251",
     "NEFT": true,
     "IMPS": true
   },
@@ -761,6 +805,7 @@
     "RTGS": true,
     "CITY": "ULHASNAGAR",
     "MICR CODE": "400524022",
+    "STD CODE": "251",
     "NEFT": true,
     "IMPS": true
   },
@@ -770,7 +815,8 @@
     "MICR CODE": "400524040",
     "BRANCH": "VANGANI",
     "ADDRESS": "KALPANA KUNJ,VANGANI,TAL AMBARNATH,DIST THANE PIN CODE 421 503",
-    "CONTACT": "2512660404",
+    "STD CODE": "251",
+    "CONTACT": "2660404",
     "CITY": "THANE",
     "DISTRICT": "AMBARNATH",
     "STATE": "MAHARASHTRA",
@@ -794,6 +840,7 @@
     "RTGS": true,
     "CITY": "PALGHAR",
     "MICR CODE": "NA",
+    "STD CODE": "2525",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -804,7 +851,8 @@
     "MICR CODE": "NA",
     "BRANCH": "BOISAR",
     "ADDRESS": "PARAS PLAZA BUILDING, NEAR BOISAR RAILY STATION",
-    "CONTACT": "00",
+    "STD CODE": "0",
+    "CONTACT": null,
     "CITY": "THANE",
     "DISTRICT": "BOISAR",
     "STATE": "MAHARASHTRA",
@@ -821,7 +869,8 @@
     "MICR CODE": "NA",
     "BRANCH": "TARAPUR MIDC",
     "ADDRESS": "AT TARAPUR MIDC,GOGATE NAKA",
-    "CONTACT": "00",
+    "STD CODE": "0",
+    "CONTACT": null,
     "CITY": "THANE",
     "DISTRICT": "TARAPUR MIDC",
     "STATE": "MAHARASHTRA",
@@ -845,6 +894,7 @@
     "RTGS": true,
     "CITY": "KELWA",
     "MICR CODE": "NA",
+    "STD CODE": "2525",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -862,6 +912,7 @@
     "RTGS": true,
     "CITY": "MANOR",
     "MICR CODE": "NA",
+    "STD CODE": "2525",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -880,6 +931,7 @@
     "RTGS": true,
     "CITY": "PALGHAR",
     "MICR CODE": "400524039",
+    "STD CODE": "2525",
     "NEFT": true,
     "IMPS": true
   },
@@ -896,6 +948,7 @@
     "RTGS": true,
     "CITY": "PALGHAR",
     "MICR CODE": "NA",
+    "STD CODE": "2525",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -913,6 +966,7 @@
     "RTGS": true,
     "CITY": "PALGHAR",
     "MICR CODE": "NA",
+    "STD CODE": "2525",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -930,6 +984,7 @@
     "RTGS": true,
     "CITY": "SHAHAPUR",
     "MICR CODE": "NA",
+    "STD CODE": "2527",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -947,6 +1002,7 @@
     "RTGS": true,
     "CITY": "SHAHAPUR",
     "MICR CODE": "NA",
+    "STD CODE": "2527",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -964,6 +1020,7 @@
     "RTGS": true,
     "CITY": "SHAHAPUR",
     "MICR CODE": "NA",
+    "STD CODE": "2527",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -981,6 +1038,7 @@
     "RTGS": true,
     "CITY": "KASARA",
     "MICR CODE": "NA",
+    "STD CODE": "2527",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -998,6 +1056,7 @@
     "RTGS": true,
     "CITY": "KHARDI",
     "MICR CODE": "NA",
+    "STD CODE": "2527",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1015,6 +1074,7 @@
     "RTGS": true,
     "CITY": "KINHAVALI",
     "MICR CODE": "NA",
+    "STD CODE": "2527",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1033,6 +1093,7 @@
     "RTGS": true,
     "CITY": "WASHIND",
     "MICR CODE": "400524041",
+    "STD CODE": "2527",
     "NEFT": true,
     "IMPS": true
   },
@@ -1049,6 +1110,7 @@
     "RTGS": true,
     "CITY": "SHAHAPUR",
     "MICR CODE": "NA",
+    "STD CODE": "2527",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1066,6 +1128,7 @@
     "RTGS": true,
     "CITY": "WADA",
     "MICR CODE": "NA",
+    "STD CODE": "2526",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1083,6 +1146,7 @@
     "RTGS": true,
     "CITY": "KUDUS",
     "MICR CODE": "NA",
+    "STD CODE": "2526",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1100,6 +1164,7 @@
     "RTGS": true,
     "CITY": "KANCHAD",
     "MICR CODE": "NA",
+    "STD CODE": "2526",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1117,6 +1182,7 @@
     "RTGS": true,
     "CITY": "TALASARI",
     "MICR CODE": "NA",
+    "STD CODE": "2529",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1134,6 +1200,7 @@
     "RTGS": true,
     "CITY": "MOKHADA",
     "MICR CODE": "NA",
+    "STD CODE": "2529",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1151,6 +1218,7 @@
     "RTGS": true,
     "CITY": "KHODALA",
     "MICR CODE": "NA",
+    "STD CODE": "2529",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1161,7 +1229,8 @@
     "MICR CODE": "NA",
     "BRANCH": "BADLAPUR",
     "ADDRESS": "HARSHAL  APARTMENT, 1 ST FLOOR,  NEAR TALATHI OFFI",
-    "CONTACT": "00",
+    "STD CODE": "0",
+    "CONTACT": null,
     "CITY": "THANE",
     "DISTRICT": "BADLAPUR",
     "STATE": "MAHARASHTRA",
@@ -1178,7 +1247,8 @@
     "MICR CODE": "NA",
     "BRANCH": "DANDI",
     "ADDRESS": "KOPRAN MACHIMAR DANDI SANSTHA AT & POST-DANDI,TALU",
-    "CONTACT": "00",
+    "STD CODE": "0",
+    "CONTACT": null,
     "CITY": "THANE",
     "DISTRICT": "DANDI",
     "STATE": "MAHARASHTRA",
@@ -1202,6 +1272,7 @@
     "RTGS": true,
     "CITY": "PALGHAR",
     "MICR CODE": "NA",
+    "STD CODE": "2525",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1219,6 +1290,7 @@
     "RTGS": true,
     "CITY": "VASAI",
     "MICR CODE": "NA",
+    "STD CODE": "250",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1236,6 +1308,7 @@
     "RTGS": true,
     "CITY": "KHANIVALI",
     "MICR CODE": "NA",
+    "STD CODE": "2526",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1254,6 +1327,7 @@
     "RTGS": true,
     "CITY": "BHIWANDI",
     "MICR CODE": "400524027",
+    "STD CODE": "2522",
     "NEFT": true,
     "IMPS": true
   },
@@ -1271,6 +1345,7 @@
     "RTGS": true,
     "CITY": "KALYAN",
     "MICR CODE": "400524020",
+    "STD CODE": "251",
     "NEFT": true,
     "IMPS": true
   },
@@ -1287,6 +1362,7 @@
     "RTGS": true,
     "CITY": "ATGAON",
     "MICR CODE": "NA",
+    "STD CODE": "2527",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1304,6 +1380,7 @@
     "RTGS": true,
     "CITY": "MURBAD",
     "MICR CODE": "NA",
+    "STD CODE": "2524",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1314,7 +1391,8 @@
     "MICR CODE": "NA",
     "BRANCH": "SHIVALE EXT. COUNTER",
     "ADDRESS": "AT-GANDHI CAMP SHIVALE,TAL-MURBAD,PH-247097",
-    "CONTACT": "00",
+    "STD CODE": "0",
+    "CONTACT": null,
     "CITY": "THANE",
     "DISTRICT": "SHIVALE EXT. COUNTER",
     "STATE": "MAHARASHTRA",
@@ -1339,6 +1417,7 @@
     "RTGS": true,
     "CITY": "KALYAN",
     "MICR CODE": "400524032",
+    "STD CODE": "251",
     "NEFT": true,
     "IMPS": true
   },
@@ -1356,6 +1435,7 @@
     "RTGS": true,
     "CITY": "MIRA-BHAYANDAR",
     "MICR CODE": "400524035",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -1373,6 +1453,7 @@
     "RTGS": true,
     "CITY": "THANE",
     "MICR CODE": "400524036",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -1389,6 +1470,7 @@
     "RTGS": true,
     "CITY": "BELVALI",
     "MICR CODE": "400524040",
+    "STD CODE": "251",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1406,6 +1488,7 @@
     "RTGS": true,
     "CITY": "MURBAD",
     "MICR CODE": "NA",
+    "STD CODE": "2524",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1423,6 +1506,7 @@
     "RTGS": true,
     "CITY": "ANGAON",
     "MICR CODE": "NA",
+    "STD CODE": "2522",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1434,13 +1518,14 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Mukta Residensy, B-2, 1st floor, Near Khidkaleshwar Mandir,Kalyan – Shilfata,Taluka-Thane",
-    "CONTACT": "09224182032",
+    "CONTACT": "9224182032",
     "MICR": "400524053",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "THANE",
     "MICR CODE": "400524053",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1458,6 +1543,7 @@
     "RTGS": true,
     "CITY": "THANE",
     "MICR CODE": "400524052",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -1467,7 +1553,8 @@
     "MICR CODE": "NA",
     "BRANCH": "KUNDE-MAMNOLI",
     "ADDRESS": "ROOM NO. 281, GR FLOOR, AT. MAMNOLI,",
-    "CONTACT": "00",
+    "STD CODE": "0",
+    "CONTACT": null,
     "CITY": "THANE",
     "DISTRICT": "KUNDE-MAMNOLI",
     "STATE": "MAHARASHTRA",
@@ -1492,6 +1579,7 @@
     "RTGS": true,
     "CITY": "KALYAN",
     "MICR CODE": "400524051",
+    "STD CODE": "2521",
     "NEFT": true,
     "IMPS": true
   },
@@ -1502,12 +1590,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "At & Post-Udhava , Taluka- Talasari, Dist–Thane Pin- 401 606",
-    "CONTACT": "00",
+    "CONTACT": null,
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "UDHAWA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1519,13 +1608,14 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shri Ganesh Complex, A-1, 1st Floor, Anjur Road, At. Mankoli, Post. Anjur, Taluka-Bhiwandi, Dist-Thane",
-    "CONTACT": "09226745828",
+    "CONTACT": "9226745828",
     "MICR": "400524050",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "BHIWANDI",
     "MICR CODE": "400524050",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1542,6 +1632,7 @@
     "RTGS": true,
     "CITY": "DAHANU",
     "MICR CODE": "NA",
+    "STD CODE": "2528",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1559,6 +1650,7 @@
     "RTGS": true,
     "CITY": "PALGHAR",
     "MICR CODE": "NA",
+    "STD CODE": "2525",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1570,12 +1662,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Aghai At & Post-Aghai, Taluka-Shahapur, Dist-Thane",
-    "CONTACT": "00",
+    "CONTACT": null,
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "AGHAI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1587,12 +1680,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "At & Post Aalonde, Tal- Vikramgad, Dist Thane",
-    "CONTACT": "09764236712",
+    "CONTACT": "9764236712",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "VIKRAMGAD",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1611,6 +1705,7 @@
     "RTGS": true,
     "CITY": "SHAHAPUR",
     "MICR CODE": "400524058",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1621,12 +1716,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Sai Sangat Apt. 1 st floor Plot no:4 sector:3 ,Sanpada,Navi Mumbai,Thane. 400705",
-    "CONTACT": "2227757911",
+    "CONTACT": "27757911",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "THANE",
     "MICR CODE": "400524057",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1638,12 +1734,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "House No.75, Ground Floor, Village Jamasar, Tal-Jawhar, Dist-Thane.",
-    "CONTACT": "09403698313",
+    "CONTACT": "9403698313",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "JAWHAR",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1654,7 +1751,8 @@
     "MICR CODE": "NA",
     "BRANCH": "NEWALI",
     "ADDRESS": "POST MANGRUL,TAL-AMERNATH",
-    "CONTACT": "00",
+    "STD CODE": "0",
+    "CONTACT": null,
     "CITY": "THANE",
     "DISTRICT": "NEWALI NAKA",
     "STATE": "MAHARASHTRA",
@@ -1678,6 +1776,7 @@
     "RTGS": true,
     "CITY": "KALYAN",
     "MICR CODE": "NA",
+    "STD CODE": "251",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1689,12 +1788,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Mayur Apartment,Gala no:7,Gr Floor,Sector:12/A Plot no:18 ,Koparkhairane,Navi Mumbai Pin:400709",
-    "CONTACT": "2227542426",
+    "CONTACT": "27542426",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "THANE",
     "MICR CODE": "400524062",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1712,6 +1812,7 @@
     "RTGS": true,
     "CITY": "KALYAN",
     "MICR CODE": "NA",
+    "STD CODE": "251",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1730,6 +1831,7 @@
     "RTGS": true,
     "CITY": "THANE",
     "MICR CODE": "400524061",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -1747,6 +1849,7 @@
     "RTGS": true,
     "CITY": "SHAHAPUR",
     "MICR CODE": "400524531",
+    "STD CODE": "2527",
     "NEFT": true,
     "IMPS": true
   },
@@ -1764,6 +1867,7 @@
     "RTGS": true,
     "CITY": "THANE",
     "MICR CODE": "400524532",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -1781,6 +1885,7 @@
     "RTGS": true,
     "CITY": "BHIWANDI",
     "MICR CODE": "400524533",
+    "STD CODE": "2522",
     "NEFT": true,
     "IMPS": true
   },
@@ -1798,6 +1903,7 @@
     "RTGS": true,
     "CITY": "MURBAD",
     "MICR CODE": "400524534",
+    "STD CODE": "2524",
     "NEFT": true,
     "IMPS": true
   },
@@ -1815,6 +1921,7 @@
     "RTGS": true,
     "CITY": "PALGHAR",
     "MICR CODE": "400524535",
+    "STD CODE": "2525",
     "NEFT": true,
     "IMPS": true
   },
@@ -1832,6 +1939,7 @@
     "RTGS": true,
     "CITY": "TALASARI",
     "MICR CODE": "400524536",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -1849,6 +1957,7 @@
     "RTGS": true,
     "CITY": "DAHANU",
     "MICR CODE": "400524537",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -1866,6 +1975,7 @@
     "RTGS": true,
     "CITY": "PALGHAR",
     "MICR CODE": "400524538",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -1883,6 +1993,7 @@
     "RTGS": true,
     "CITY": "VASAI",
     "MICR CODE": "400524066",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -1900,6 +2011,7 @@
     "RTGS": true,
     "CITY": "VASAI",
     "MICR CODE": "400524067",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -1916,6 +2028,7 @@
     "RTGS": true,
     "CITY": "SHIRISHPADA",
     "MICR CODE": "NA",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1934,6 +2047,7 @@
     "RTGS": true,
     "CITY": "BHIWANDI",
     "MICR CODE": "400524068",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -1951,6 +2065,7 @@
     "RTGS": true,
     "CITY": "JAWHAR",
     "MICR CODE": "400524069",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   }

@@ -12,6 +12,7 @@
     "RTGS": true,
     "CITY": "BISHNA",
     "MICR CODE": "NA",
+    "STD CODE": "1923",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -29,6 +30,7 @@
     "RTGS": true,
     "CITY": "RAJPURA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -46,6 +48,7 @@
     "RTGS": true,
     "CITY": "BARAMULLA",
     "MICR CODE": "193051107",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -63,6 +66,7 @@
     "RTGS": true,
     "CITY": "PULWAMA",
     "MICR CODE": "NA",
+    "STD CODE": "1933",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -80,6 +84,7 @@
     "RTGS": true,
     "CITY": "KARGIL",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -97,6 +102,7 @@
     "RTGS": true,
     "CITY": "ANANTNAG",
     "MICR CODE": "192051012",
+    "STD CODE": "1932",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -114,6 +120,7 @@
     "RTGS": true,
     "CITY": "WAILOO",
     "MICR CODE": "192051064",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -131,6 +138,7 @@
     "RTGS": true,
     "CITY": "REASI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -148,6 +156,7 @@
     "RTGS": true,
     "CITY": "AHMEDABAD",
     "MICR CODE": "380051002",
+    "STD CODE": "79",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -165,6 +174,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -182,6 +192,7 @@
     "RTGS": true,
     "CITY": "BANDIPORA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -199,6 +210,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051051",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -216,6 +228,7 @@
     "RTGS": true,
     "CITY": "AJAS",
     "MICR CODE": "193051014",
+    "STD CODE": "1954",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -233,6 +246,7 @@
     "RTGS": true,
     "CITY": "POONCH",
     "MICR CODE": "185051110",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -250,6 +264,7 @@
     "RTGS": true,
     "CITY": "AJMER",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -267,6 +282,7 @@
     "RTGS": true,
     "CITY": "AKHNOOR",
     "MICR CODE": "180051064",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -284,6 +300,7 @@
     "RTGS": true,
     "CITY": "AKINGAM",
     "MICR CODE": "192051029",
+    "STD CODE": "1932",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -301,6 +318,7 @@
     "RTGS": true,
     "CITY": "ALLAHABAD",
     "MICR CODE": "211051002",
+    "STD CODE": "532",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -318,6 +336,7 @@
     "RTGS": true,
     "CITY": "ALIGARH",
     "MICR CODE": "202051002",
+    "STD CODE": "571",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -335,6 +354,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051002",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -352,6 +372,7 @@
     "RTGS": true,
     "CITY": "BADGAM",
     "MICR CODE": "191051008",
+    "STD CODE": "1951",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -369,6 +390,7 @@
     "RTGS": true,
     "CITY": "ALLOSA",
     "MICR CODE": "193051010",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -386,6 +408,7 @@
     "RTGS": true,
     "CITY": "BARAMULLA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -403,6 +426,7 @@
     "RTGS": true,
     "CITY": "AMBALA",
     "MICR CODE": "133051002",
+    "STD CODE": "171",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -420,6 +444,7 @@
     "RTGS": true,
     "CITY": "AMBH",
     "MICR CODE": "180051076",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -437,6 +462,7 @@
     "RTGS": true,
     "CITY": "LUCKNOW",
     "MICR CODE": "226051003",
+    "STD CODE": "522",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -454,6 +480,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051040",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -471,6 +498,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051004",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -482,12 +510,13 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "The Jammu and Kashmir Bank Ltd, Mahakali Caves Road, Andheri (East) Mumbai - 93",
-    "CONTACT": "2228214472",
+    "CONTACT": "28214472",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR CODE": "400051004",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -505,6 +534,7 @@
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "110051016",
+    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -522,6 +552,7 @@
     "RTGS": true,
     "CITY": "CHHAN-ARORIAN",
     "MICR CODE": "184051017",
+    "STD CODE": "1922",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -539,6 +570,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051014",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -556,6 +588,7 @@
     "RTGS": true,
     "CITY": "BARAMULLA",
     "MICR CODE": "193051108",
+    "STD CODE": "1954",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -573,6 +606,7 @@
     "RTGS": true,
     "CITY": "AREAH",
     "MICR CODE": "192051033",
+    "STD CODE": "1931",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -590,6 +624,7 @@
     "RTGS": true,
     "CITY": "DIALGAM",
     "MICR CODE": "192051067",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -607,6 +642,7 @@
     "RTGS": true,
     "CITY": "PULWAMA",
     "MICR CODE": "192051052",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -624,6 +660,7 @@
     "RTGS": true,
     "CITY": "TRAL",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -641,6 +678,7 @@
     "RTGS": true,
     "CITY": "KHAN-SAHEB",
     "MICR CODE": "191051015",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -658,6 +696,7 @@
     "RTGS": true,
     "CITY": "DRAGMULLA",
     "MICR CODE": "193051219",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -675,6 +714,7 @@
     "RTGS": true,
     "CITY": "BARAMULLA",
     "MICR CODE": "NA",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -692,6 +732,7 @@
     "RTGS": true,
     "CITY": "ARNAS",
     "MICR CODE": "182051253",
+    "STD CODE": "1991",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -703,12 +744,13 @@
     "DISTRICT": "ANANTNAG",
     "STATE": "JAMMU AND KASHMIR",
     "ADDRESS": "ARWANI DISTRICT KULGAM, J&K PIN CODE 192124",
-    "CONTACT": "09697078383",
+    "CONTACT": "9697078383",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ARWANI",
     "MICR CODE": "192051302",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -726,6 +768,7 @@
     "RTGS": true,
     "CITY": "ANANTNAG",
     "MICR CODE": "192051006",
+    "STD CODE": "1932",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -743,6 +786,7 @@
     "RTGS": true,
     "CITY": "KULGAM",
     "MICR CODE": "192051303",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -760,6 +804,7 @@
     "RTGS": true,
     "CITY": "LANGATE",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -777,6 +822,7 @@
     "RTGS": true,
     "CITY": "ASSAR",
     "MICR CODE": "182051115",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -794,6 +840,7 @@
     "RTGS": true,
     "CITY": "AURANGABAD",
     "MICR CODE": "431051003",
+    "STD CODE": "240",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -811,6 +858,7 @@
     "RTGS": true,
     "CITY": "AWANTIPURA",
     "MICR CODE": "192051106",
+    "STD CODE": "1933",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -828,6 +876,7 @@
     "RTGS": true,
     "CITY": "AOWOORA",
     "MICR CODE": "193051203",
+    "STD CODE": "1955",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -845,6 +894,7 @@
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "110051002",
+    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -862,6 +912,7 @@
     "RTGS": true,
     "CITY": "AZADGUNJ",
     "MICR CODE": "193051002",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -879,6 +930,7 @@
     "RTGS": true,
     "CITY": "SKUR BUCHAN",
     "MICR CODE": "194051016",
+    "STD CODE": "1982",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -896,6 +948,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051006",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -913,6 +966,7 @@
     "RTGS": true,
     "CITY": "BHADOHI",
     "MICR CODE": "221051102",
+    "STD CODE": "5414",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -930,6 +984,7 @@
     "RTGS": true,
     "CITY": "BARZULLA",
     "MICR CODE": "190051009",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -947,6 +1002,7 @@
     "RTGS": true,
     "CITY": "DEVSAR",
     "MICR CODE": "192051304",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -964,6 +1020,7 @@
     "RTGS": true,
     "CITY": "MAHORE",
     "MICR CODE": "182051257",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -981,6 +1038,7 @@
     "RTGS": true,
     "CITY": "KATHUA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -998,6 +1056,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051027",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1015,6 +1074,7 @@
     "RTGS": true,
     "CITY": "THANA MANDI",
     "MICR CODE": "185051015",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1032,6 +1092,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051004",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1049,6 +1110,7 @@
     "RTGS": true,
     "CITY": "DHARGALOOM",
     "MICR CODE": "NA",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1066,6 +1128,7 @@
     "RTGS": true,
     "CITY": "GANDOH BHALESA",
     "MICR CODE": "182051112",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1083,6 +1146,7 @@
     "RTGS": true,
     "CITY": "SUMB",
     "MICR CODE": "180051093",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1093,7 +1157,8 @@
     "MICR CODE": "NA",
     "BRANCH": "BALLAHAMA",
     "ADDRESS": "BALLAHAMA, SRINAGAR, JK PIN 191201",
-    "CONTACT": "1949419035397",
+    "STD CODE": "194",
+    "CONTACT": "9419035397",
     "CITY": "SRINAGAR",
     "DISTRICT": "SRINAGAR",
     "STATE": "JAMMU AND KASHMIR",
@@ -1117,6 +1182,7 @@
     "RTGS": true,
     "CITY": "SUNDER BANI",
     "MICR CODE": "NA",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1134,6 +1200,7 @@
     "RTGS": true,
     "CITY": "REASI",
     "MICR CODE": "182051258",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1145,12 +1212,13 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "The Jammu and Kashmir Bank Ltd, 182 Asha Builiding, Waterfield Road, Near THAI Connection, Bandra (West) - Mumbai - 50",
-    "CONTACT": "2226408630",
+    "CONTACT": "26408630",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR CODE": "400051010",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1168,6 +1236,7 @@
     "RTGS": true,
     "CITY": "BANNI",
     "MICR CODE": "184051019",
+    "STD CODE": "1921",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1185,6 +1254,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051037",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1203,6 +1273,7 @@
     "RTGS": true,
     "CITY": "VADODARA",
     "MICR CODE": "390051002",
+    "STD CODE": "265",
     "NEFT": true,
     "IMPS": true
   },
@@ -1219,6 +1290,7 @@
     "RTGS": true,
     "CITY": "PULWAMA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1236,6 +1308,7 @@
     "RTGS": true,
     "CITY": "DADU BASANT GARH",
     "MICR CODE": "182051021",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1253,6 +1326,7 @@
     "RTGS": true,
     "CITY": "BASHOHLI",
     "MICR CODE": "184051018",
+    "STD CODE": "1921",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1264,12 +1338,13 @@
     "DISTRICT": "JAMMU",
     "STATE": "JAMMU AND KASHMIR",
     "ADDRESS": "JAMMU AND KASHMIR BANK LTD. NAI BASTI JAMMU180003",
-    "CONTACT": "1912430034",
+    "CONTACT": "2430034",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051017",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1287,6 +1362,7 @@
     "RTGS": true,
     "CITY": "BATALA",
     "MICR CODE": "143051102",
+    "STD CODE": "187",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1304,6 +1380,7 @@
     "RTGS": true,
     "CITY": "KARGIL",
     "MICR CODE": "194051025",
+    "STD CODE": "1985",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1315,12 +1392,13 @@
     "DISTRICT": "SRINAGAR",
     "STATE": "JAMMU AND KASHMIR",
     "ADDRESS": "J&K BANK B/O BAZAR BATMALOO SRINAGAR",
-    "CONTACT": "1942471808",
+    "CONTACT": "2471808",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051087",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1338,6 +1416,7 @@
     "RTGS": true,
     "CITY": "BATOTE",
     "MICR CODE": "182051302",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1348,7 +1427,8 @@
     "MICR CODE": "NA",
     "BRANCH": "BATAPORA",
     "ADDRESS": "BATAPORA NEAR BUS STAND TEHSIL SHOPIAN JK PIN 192303",
-    "CONTACT": "19339797701717",
+    "STD CODE": "1933",
+    "CONTACT": "9797701717",
     "CITY": "SHOPIAN",
     "DISTRICT": "SHOPIAN",
     "STATE": "JAMMU AND KASHMIR",
@@ -1372,6 +1452,7 @@
     "RTGS": true,
     "CITY": "GUND",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1389,6 +1470,7 @@
     "RTGS": true,
     "CITY": "KOLKATA",
     "MICR CODE": "700051003",
+    "STD CODE": "33",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1406,6 +1488,7 @@
     "RTGS": true,
     "CITY": "ANANTNAG",
     "MICR CODE": "192051013",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1423,6 +1506,7 @@
     "RTGS": true,
     "CITY": "ANANTNAG",
     "MICR CODE": "192051009",
+    "STD CODE": "1932",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1440,6 +1524,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051086",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1457,6 +1542,7 @@
     "RTGS": true,
     "CITY": "ASSAR",
     "MICR CODE": "NA",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1474,6 +1560,7 @@
     "RTGS": true,
     "CITY": "BEERWAH",
     "MICR CODE": "191051006",
+    "STD CODE": "1951",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1491,6 +1578,7 @@
     "RTGS": true,
     "CITY": "BEMINA",
     "MICR CODE": "190051011",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1508,6 +1596,7 @@
     "RTGS": true,
     "CITY": "LEH",
     "MICR CODE": "194051022",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1525,6 +1614,7 @@
     "RTGS": true,
     "CITY": "BHADERWAH",
     "MICR CODE": "182051106",
+    "STD CODE": "1997",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1542,6 +1632,7 @@
     "RTGS": true,
     "CITY": "KATHUA",
     "MICR CODE": "184051006",
+    "STD CODE": "1921",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1559,6 +1650,7 @@
     "RTGS": true,
     "CITY": "BHAGWA",
     "MICR CODE": "182051103",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1576,6 +1668,7 @@
     "RTGS": true,
     "CITY": "BHALA",
     "MICR CODE": "182051107",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1593,6 +1686,7 @@
     "RTGS": true,
     "CITY": "BHADERWAH",
     "MICR CODE": "182051111",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1610,6 +1704,7 @@
     "RTGS": true,
     "CITY": "GANDOH BHALESA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1620,7 +1715,8 @@
     "MICR CODE": "NA",
     "BRANCH": "BHATA DHURIA",
     "ADDRESS": "BHATTA DHURIA, POST OFFICE-BHATA DURIA, TEHSIL-MENDHAR, DISTRICT-POONCH, JK, PIN-185121",
-    "CONTACT": "09622276613",
+    "STD CODE": "0",
+    "CONTACT": "9622276613",
     "CITY": "POONCH",
     "DISTRICT": "MENDHAR",
     "STATE": "JAMMU AND KASHMIR",
@@ -1644,6 +1740,7 @@
     "RTGS": true,
     "CITY": "BATHINDA",
     "MICR CODE": "151051002",
+    "STD CODE": "164",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1655,12 +1752,13 @@
     "DISTRICT": "HYDERABAD",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "PATHARGATI,HYDERABAD- 500002",
-    "CONTACT": "4066712111",
+    "CONTACT": "66712111",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR CODE": "500051003",
+    "STD CODE": "40",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1678,6 +1776,7 @@
     "RTGS": true,
     "CITY": "BHALA",
     "MICR CODE": "182051121",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1695,6 +1794,7 @@
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "110051030",
+    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1712,6 +1812,7 @@
     "RTGS": true,
     "CITY": "BHOPAL",
     "MICR CODE": "462051002",
+    "STD CODE": "755",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1729,6 +1830,7 @@
     "RTGS": true,
     "CITY": "KATHUA",
     "MICR CODE": "184051007",
+    "STD CODE": "1921",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1746,6 +1848,7 @@
     "RTGS": true,
     "CITY": "SAMBA",
     "MICR CODE": "180051052",
+    "STD CODE": "1932",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1763,6 +1866,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051029",
+    "STD CODE": "1923",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1780,6 +1884,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051005",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1797,6 +1902,7 @@
     "RTGS": true,
     "CITY": "BAGATI KANIPORA",
     "MICR CODE": "191051017",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1814,6 +1920,7 @@
     "RTGS": true,
     "CITY": "SALAR",
     "MICR CODE": "192051047",
+    "STD CODE": "1936",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1831,6 +1938,7 @@
     "RTGS": true,
     "CITY": "BANGALORE",
     "MICR CODE": "560051002",
+    "STD CODE": "80",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1842,12 +1950,13 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "The Jammu and Kashmir Bank Ltd, 79A, Mehta House, Mumbai Samachar Marg, Fort, Mumbai - 400023",
-    "CONTACT": "2222610056",
+    "CONTACT": "22610056",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR CODE": "400051002",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1865,6 +1974,7 @@
     "RTGS": true,
     "CITY": "QAZIGUND",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1882,6 +1992,7 @@
     "RTGS": true,
     "CITY": "KISHTWAR",
     "MICR CODE": "182051412",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1899,6 +2010,7 @@
     "RTGS": true,
     "CITY": "BONIYAR",
     "MICR CODE": "193051021",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1916,6 +2028,7 @@
     "RTGS": true,
     "CITY": "KULGAM",
     "MICR CODE": "192051046",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1933,6 +2046,7 @@
     "RTGS": true,
     "CITY": "POONCH",
     "MICR CODE": "185051101",
+    "STD CODE": "1965",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1950,6 +2064,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051061",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1967,6 +2082,7 @@
     "RTGS": true,
     "CITY": "POONCH ",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1984,6 +2100,7 @@
     "RTGS": true,
     "CITY": "KHILANI",
     "MICR CODE": "182051105",
+    "STD CODE": "1996",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2001,6 +2118,7 @@
     "RTGS": true,
     "CITY": "BARNOTI",
     "MICR CODE": "184051016",
+    "STD CODE": "1922",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2018,6 +2136,7 @@
     "RTGS": true,
     "CITY": "RAJOURI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2035,6 +2154,7 @@
     "RTGS": true,
     "CITY": "TRAL",
     "MICR CODE": "192051104",
+    "STD CODE": "1933",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2052,6 +2172,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051085",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2069,6 +2190,7 @@
     "RTGS": true,
     "CITY": "ANANTNAG",
     "MICR CODE": "192051003",
+    "STD CODE": "1932",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2086,6 +2208,7 @@
     "RTGS": true,
     "CITY": "BUDHAL",
     "MICR CODE": "185051010",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2103,6 +2226,7 @@
     "RTGS": true,
     "CITY": "BUDHAL",
     "MICR CODE": "185051016",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2120,6 +2244,7 @@
     "RTGS": true,
     "CITY": "POONCH",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2137,6 +2262,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051052",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2154,6 +2280,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2171,6 +2298,7 @@
     "RTGS": true,
     "CITY": "ANANTNAG",
     "MICR CODE": "192051002",
+    "STD CODE": "1932",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2188,6 +2316,7 @@
     "RTGS": true,
     "CITY": "RAJOURI",
     "MICR CODE": "185051020",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2205,6 +2334,7 @@
     "RTGS": true,
     "CITY": "KOLKATA",
     "MICR CODE": "700051002",
+    "STD CODE": "33",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2222,6 +2352,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051027",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2239,6 +2370,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051018",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2256,6 +2388,7 @@
     "RTGS": true,
     "CITY": "CHANDANWARI",
     "MICR CODE": "193051015",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2273,6 +2406,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051043",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2290,6 +2424,7 @@
     "RTGS": true,
     "CITY": "ANANTNAG",
     "MICR CODE": "192051014",
+    "STD CODE": "1932",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2307,6 +2442,7 @@
     "RTGS": true,
     "CITY": "KHREW",
     "MICR CODE": "192051107",
+    "STD CODE": "1933",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2324,6 +2460,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051001",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2341,6 +2478,7 @@
     "RTGS": true,
     "CITY": "CHADURA",
     "MICR CODE": "191051035",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2358,6 +2496,7 @@
     "RTGS": true,
     "CITY": "CHADURA",
     "MICR CODE": "191051007",
+    "STD CODE": "1951",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2375,6 +2514,7 @@
     "RTGS": true,
     "CITY": "KULGAM",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2392,6 +2532,7 @@
     "RTGS": true,
     "CITY": "KHOUR",
     "MICR CODE": "180051067",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2409,6 +2550,7 @@
     "RTGS": true,
     "CITY": "CHAKROI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2426,6 +2568,7 @@
     "RTGS": true,
     "CITY": "RAMBAN",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2443,6 +2586,7 @@
     "RTGS": true,
     "CITY": "CHANDIMARH",
     "MICR CODE": "185051109",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2460,6 +2604,7 @@
     "RTGS": true,
     "CITY": "CHANDAK",
     "MICR CODE": "185051113",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2477,6 +2622,7 @@
     "RTGS": true,
     "CITY": "GANDOH BHALESA",
     "MICR CODE": "182051118",
+    "STD CODE": "199",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2494,6 +2640,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051013",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2511,6 +2658,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2528,6 +2676,7 @@
     "RTGS": true,
     "CITY": "PAKHERPORA",
     "MICR CODE": "191051020",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2545,6 +2694,7 @@
     "RTGS": true,
     "CITY": "REASI",
     "MICR CODE": "182051020",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2562,6 +2712,7 @@
     "RTGS": true,
     "CITY": "BAGATI KANIPORA",
     "MICR CODE": "191051034",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2579,6 +2730,7 @@
     "RTGS": true,
     "CITY": "KANGAN",
     "MICR CODE": "191051115",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2596,6 +2748,7 @@
     "RTGS": true,
     "CITY": "CHATROO",
     "MICR CODE": "182051403",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2613,6 +2766,7 @@
     "RTGS": true,
     "CITY": "CHOWLGAM",
     "MICR CODE": "192051306",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2630,6 +2784,7 @@
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "110051004",
+    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2647,6 +2802,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051006",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2664,6 +2820,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "191051102",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2681,6 +2838,7 @@
     "RTGS": true,
     "CITY": "HARMAN",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2698,6 +2856,7 @@
     "RTGS": true,
     "CITY": "ANANTNAG",
     "MICR CODE": "192051004",
+    "STD CODE": "1932",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2715,6 +2874,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051007",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2732,6 +2892,7 @@
     "RTGS": true,
     "CITY": "AWANTIPURA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2749,6 +2910,7 @@
     "RTGS": true,
     "CITY": "CHATROO",
     "MICR CODE": "NA",
+    "STD CODE": "1996",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2766,6 +2928,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051056",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2783,6 +2946,7 @@
     "RTGS": true,
     "CITY": "ANANTNAG",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2800,6 +2964,7 @@
     "RTGS": true,
     "CITY": "BHADERWAH",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2811,12 +2976,13 @@
     "DISTRICT": "KUPWARA",
     "STATE": "JAMMU AND KASHMIR",
     "ADDRESS": "CHITRAKOTE, TANGDAR, DISTRICT KUPWARA, J&K PIN CODE 193225",
-    "CONTACT": "19581958",
+    "CONTACT": "1958",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "TANGDAR",
     "MICR CODE": "193051223",
+    "STD CODE": "1958",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2827,7 +2993,8 @@
     "MICR CODE": "NA",
     "BRANCH": "CHITRAGAM",
     "ADDRESS": "CHITRAGAM, SHOPIAN, KASHMIR, JK PIN 191201",
-    "CONTACT": "1949858796111",
+    "STD CODE": "194",
+    "CONTACT": "9858796111",
     "CITY": "PULWAMA",
     "DISTRICT": "SHOPIAN",
     "STATE": "JAMMU AND KASHMIR",
@@ -2851,6 +3018,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2868,6 +3036,7 @@
     "RTGS": true,
     "CITY": "KARGIL",
     "MICR CODE": "194051011",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2885,6 +3054,7 @@
     "RTGS": true,
     "CITY": "UDHAMPUR",
     "MICR CODE": "182051007",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2902,6 +3072,7 @@
     "RTGS": true,
     "CITY": "CHANDERKOT",
     "MICR CODE": "182051303",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2919,6 +3090,7 @@
     "RTGS": true,
     "CITY": "NOWSHERA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2936,6 +3108,7 @@
     "RTGS": true,
     "CITY": "CHOWKIBAL",
     "MICR CODE": "193051221",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2953,6 +3126,7 @@
     "RTGS": true,
     "CITY": "HAIGAM",
     "MICR CODE": "193051034",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2970,6 +3144,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051003",
+    "STD CODE": "1932",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2987,6 +3162,7 @@
     "RTGS": true,
     "CITY": "CHOWKI CHOWRA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2998,12 +3174,13 @@
     "DISTRICT": "SRINAGAR",
     "STATE": "JAMMU AND KASHMIR",
     "ADDRESS": "CSC SRINAGAR ,J&K",
-    "CONTACT": "1942486423",
+    "CONTACT": "2486423",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "NA",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3014,7 +3191,8 @@
     "MICR CODE": "NA",
     "BRANCH": "IBR DEPARTMENT CHQ",
     "ADDRESS": "HARI SINGH HIGH STREET",
-    "CONTACT": "1942481941",
+    "STD CODE": "194",
+    "CONTACT": "2481941",
     "CITY": "SRINAGAR",
     "DISTRICT": "SRINAGAR",
     "STATE": "JAMMU AND KASHMIR",
@@ -3038,6 +3216,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051090",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3055,6 +3234,7 @@
     "RTGS": true,
     "CITY": "KATHUA",
     "MICR CODE": "184051008",
+    "STD CODE": "1922",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3066,12 +3246,13 @@
     "DISTRICT": "DELHI",
     "STATE": "DELHI",
     "ADDRESS": "THE JAMMU AND KASHMIR BANK LTD., REGIONAL COLLECTION CENTRE, EMPORIUM BUILDING, BABA KHARAG SINGH MARG, CANNAUGHT PLACE, NEW DELHI - 110001",
-    "CONTACT": "1126252361",
+    "CONTACT": "26252361",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "110051001",
+    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3089,6 +3270,7 @@
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "110051007",
+    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3106,6 +3288,7 @@
     "RTGS": true,
     "CITY": "RAJOURI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3123,6 +3306,7 @@
     "RTGS": true,
     "CITY": "KATRA",
     "MICR CODE": "182051204",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3140,6 +3324,7 @@
     "RTGS": true,
     "CITY": "CHANDUSA",
     "MICR CODE": "193051025",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3157,6 +3342,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051030",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3174,6 +3360,7 @@
     "RTGS": true,
     "CITY": "SOPORE",
     "MICR CODE": "193051104",
+    "STD CODE": "1954",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3191,6 +3378,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3202,12 +3390,13 @@
     "DISTRICT": "COIMBATORE",
     "STATE": "TAMIL NADU",
     "ADDRESS": "NO.229, T.V. SWAMI ROAD A.S.CENTRE, R.S. PURAM, COIMBATORE- 641002 (T.N)",
-    "CONTACT": "4222542967",
+    "CONTACT": "2542967",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
     "MICR CODE": "641051002",
+    "STD CODE": "422",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3225,6 +3414,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "NA",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3242,6 +3432,7 @@
     "RTGS": true,
     "CITY": "MAGAM",
     "MICR CODE": "191051018",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3259,6 +3450,7 @@
     "RTGS": true,
     "CITY": "SHOPIAN",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3276,6 +3468,7 @@
     "RTGS": true,
     "CITY": "GANDERBAL",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3293,6 +3486,7 @@
     "RTGS": true,
     "CITY": "DABLEHAR",
     "MICR CODE": "180051082",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3304,13 +3498,14 @@
     "DISTRICT": "DODA",
     "STATE": "JAMMU AND KASHMIR",
     "ADDRESS": "DACHAN, DISTRICT KISHTWAR, J&K",
-    "CONTACT": "00",
+    "CONTACT": null,
     "MICR": "182051407",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DACCHAN",
     "MICR CODE": "182051407",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3327,6 +3522,7 @@
     "RTGS": true,
     "CITY": "OMPORA",
     "MICR CODE": "191051029",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3344,6 +3540,7 @@
     "RTGS": true,
     "CITY": "DADSARA",
     "MICR CODE": "192051122",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3361,6 +3558,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051015",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3378,6 +3576,7 @@
     "RTGS": true,
     "CITY": "DALINA",
     "MICR CODE": "193051007",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3395,6 +3594,7 @@
     "RTGS": true,
     "CITY": "DALHOSI",
     "MICR CODE": "185051011",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3412,6 +3612,7 @@
     "RTGS": true,
     "CITY": "RAMNAGAR",
     "MICR CODE": "NA",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3429,6 +3630,7 @@
     "RTGS": true,
     "CITY": "DAMHAL-HANJIPORA",
     "MICR CODE": "192051018",
+    "STD CODE": "1931",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3446,6 +3648,7 @@
     "RTGS": true,
     "CITY": "DODA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3463,6 +3666,7 @@
     "RTGS": true,
     "CITY": "DHANGRI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3480,6 +3684,7 @@
     "RTGS": true,
     "CITY": "DHANSAL",
     "MICR CODE": "180051091",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3497,6 +3702,7 @@
     "RTGS": true,
     "CITY": "DRASS",
     "MICR CODE": "194051017",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3514,6 +3720,7 @@
     "RTGS": true,
     "CITY": "DARHAL(MALKAN)",
     "MICR CODE": "185051004",
+    "STD CODE": "1962",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3531,6 +3738,7 @@
     "RTGS": true,
     "CITY": "DAYALA CHAK",
     "MICR CODE": "184051025",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3548,6 +3756,7 @@
     "RTGS": true,
     "CITY": "REASI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3560,11 +3769,12 @@
     "DISTRICT": "MUMBAI",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "NATIONAL BUSINESS CENTRE, 3RD & 4TH FLOOR, BANDRA KURLA COMPLEX, BANDRA (EAST)",
-    "CONTACT": "2226384105",
+    "CONTACT": "26384105",
     "IMPS": true,
     "CITY": "MUMBAI",
     "UPI": true,
     "MICR CODE": "400051001",
+    "STD CODE": "22",
     "NEFT": true,
     "RTGS": false,
     "MICR": null
@@ -3582,6 +3792,7 @@
     "RTGS": true,
     "CITY": "WANPORA",
     "MICR CODE": "192051112",
+    "STD CODE": "1951",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3599,6 +3810,7 @@
     "RTGS": true,
     "CITY": "DODA",
     "MICR CODE": "182051101",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3616,6 +3828,7 @@
     "RTGS": true,
     "CITY": "DEHRADUN",
     "MICR CODE": "248051002",
+    "STD CODE": "135",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3633,6 +3846,7 @@
     "RTGS": true,
     "CITY": "DESA",
     "MICR CODE": "182051104",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3650,6 +3864,7 @@
     "RTGS": true,
     "CITY": "ANANTNAG",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3667,6 +3882,7 @@
     "RTGS": true,
     "CITY": "DEHTU",
     "MICR CODE": "NA",
+    "STD CODE": "1932",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3684,6 +3900,7 @@
     "RTGS": true,
     "CITY": "REASI",
     "MICR CODE": "182051260",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3701,6 +3918,7 @@
     "RTGS": true,
     "CITY": "CHHATARGUL",
     "MICR CODE": "192051034",
+    "STD CODE": "1932",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3718,6 +3936,7 @@
     "RTGS": true,
     "CITY": "SAGAM",
     "MICR CODE": "192051021",
+    "STD CODE": "1932",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3735,6 +3954,7 @@
     "RTGS": true,
     "CITY": "SOGAM",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3752,6 +3972,7 @@
     "RTGS": true,
     "CITY": "DEVSAR",
     "MICR CODE": "192051032",
+    "STD CODE": "1931",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3769,6 +3990,7 @@
     "RTGS": true,
     "CITY": "DANGIWACHA",
     "MICR CODE": "193051009",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3786,6 +4008,7 @@
     "RTGS": true,
     "CITY": "DHARMARI",
     "MICR CODE": "182051254",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3803,6 +4026,7 @@
     "RTGS": true,
     "CITY": "KISHTWAR",
     "MICR CODE": "182051404",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3820,6 +4044,7 @@
     "RTGS": true,
     "CITY": "DAVER",
     "MICR CODE": "193051403",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3837,6 +4062,7 @@
     "RTGS": true,
     "CITY": "DIALGAM",
     "MICR CODE": "192051025",
+    "STD CODE": "1932",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3854,6 +4080,7 @@
     "RTGS": true,
     "CITY": "KATHUA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3871,6 +4098,7 @@
     "RTGS": true,
     "CITY": "NOBRA",
     "MICR CODE": "194051006",
+    "STD CODE": "1980",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3888,6 +4116,7 @@
     "RTGS": true,
     "CITY": "SHOPIAN",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3905,6 +4134,7 @@
     "RTGS": true,
     "CITY": "GURGAON",
     "MICR CODE": "110051020",
+    "STD CODE": "124",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3922,6 +4152,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051023",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3939,6 +4170,7 @@
     "RTGS": true,
     "CITY": "DUMANA RAIPUR",
     "MICR CODE": "180051083",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3956,6 +4188,7 @@
     "RTGS": true,
     "CITY": "DORUSHAHABAD",
     "MICR CODE": "192051016",
+    "STD CODE": "1932",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3973,6 +4206,7 @@
     "RTGS": true,
     "CITY": "GUND",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3990,6 +4224,7 @@
     "RTGS": true,
     "CITY": "KISHTWAR",
     "MICR CODE": "182051110",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4007,6 +4242,7 @@
     "RTGS": true,
     "CITY": "DRAGMULLA",
     "MICR CODE": "193051215",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4024,6 +4260,7 @@
     "RTGS": true,
     "CITY": "BARAMULLA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4041,6 +4278,7 @@
     "RTGS": true,
     "CITY": "DHARAMSALA",
     "MICR CODE": "176051102",
+    "STD CODE": "189",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4058,6 +4296,7 @@
     "RTGS": true,
     "CITY": "RAJPURA",
     "MICR CODE": "192051117",
+    "STD CODE": "1933",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4075,6 +4314,7 @@
     "RTGS": true,
     "CITY": "LATHI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4092,6 +4332,7 @@
     "RTGS": true,
     "CITY": "GANDER BAL",
     "MICR CODE": "191051109",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4109,6 +4350,7 @@
     "RTGS": true,
     "CITY": "GANDOH BHALESA",
     "MICR CODE": "NA",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4126,6 +4368,7 @@
     "RTGS": true,
     "CITY": "DURBUK",
     "MICR CODE": "194051013",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4143,6 +4386,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4154,12 +4398,13 @@
     "DISTRICT": "DELHI",
     "STATE": "DELHI",
     "ADDRESS": "DWARKA,SECTOR 12, PLOT NO.2, POCKET 7, ASHISH PLAZA, DWARKA, NEW DELHI--110075",
-    "CONTACT": "1111",
+    "CONTACT": "11",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "110051028",
+    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4177,6 +4422,7 @@
     "RTGS": true,
     "CITY": "DAMHAL-HANJIPORA",
     "MICR CODE": "192051050",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4194,6 +4440,7 @@
     "RTGS": true,
     "CITY": "AKHNOOR",
     "MICR CODE": "180051064",
+    "STD CODE": "1924",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4211,6 +4458,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051068",
+    "STD CODE": "1923",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4228,6 +4476,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051087",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4245,6 +4494,7 @@
     "RTGS": true,
     "CITY": "BARI BRAHAMANA",
     "MICR CODE": "180051038",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4262,6 +4512,7 @@
     "RTGS": true,
     "CITY": "KARGIL",
     "MICR CODE": "194051024",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4279,6 +4530,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051046",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4296,6 +4548,7 @@
     "RTGS": true,
     "CITY": "ANANTNAG",
     "MICR CODE": "192051007",
+    "STD CODE": "1932",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4313,6 +4566,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051016",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4324,12 +4578,13 @@
     "DISTRICT": "PULWAMA",
     "STATE": "JAMMU AND KASHMIR",
     "ADDRESS": "ISLAMIC UNIVERSITY OF SCIENCE & TEHNOLOGY AWANTIPORA DISTRICT PULWAMA",
-    "CONTACT": "09419022251",
+    "CONTACT": "9419022251",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "AWANTIPURA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4347,6 +4602,7 @@
     "RTGS": true,
     "CITY": "GANDER BAL",
     "MICR CODE": "191051104",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4364,6 +4620,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051093",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4381,6 +4638,7 @@
     "RTGS": true,
     "CITY": "SOPORE",
     "MICR CODE": "193051112",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4398,6 +4656,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051092",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4415,6 +4674,7 @@
     "RTGS": true,
     "CITY": "JIB THATHI",
     "MICR CODE": "182051017",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4432,6 +4692,7 @@
     "RTGS": true,
     "CITY": "KUPWARA",
     "MICR CODE": "193051224",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4449,6 +4710,7 @@
     "RTGS": true,
     "CITY": "UDHAMPUR",
     "MICR CODE": "182051015",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4466,6 +4728,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051044",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4483,6 +4746,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051027",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4500,6 +4764,7 @@
     "RTGS": true,
     "CITY": "GULMARG",
     "MICR CODE": "193051037",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4517,6 +4782,7 @@
     "RTGS": true,
     "CITY": "GOSHU BUGH",
     "MICR CODE": "193051024",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4534,6 +4800,7 @@
     "RTGS": true,
     "CITY": "KATHUA",
     "MICR CODE": "184051013",
+    "STD CODE": "1921",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4551,6 +4818,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051018",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4568,6 +4836,7 @@
     "RTGS": true,
     "CITY": "LEH",
     "MICR CODE": "194051005",
+    "STD CODE": "1982",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4585,6 +4854,7 @@
     "RTGS": true,
     "CITY": "KATRA",
     "MICR CODE": "182051201",
+    "STD CODE": "1991",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4602,6 +4872,7 @@
     "RTGS": true,
     "CITY": "AKHNOOR",
     "MICR CODE": "180051027",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4619,6 +4890,7 @@
     "RTGS": true,
     "CITY": "KHREW",
     "MICR CODE": "192051107",
+    "STD CODE": "1933",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4636,6 +4908,7 @@
     "RTGS": true,
     "CITY": "HIRANAGAR",
     "MICR CODE": "184051010",
+    "STD CODE": "1922",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4653,6 +4926,7 @@
     "RTGS": true,
     "CITY": "URI",
     "MICR CODE": "193051035",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4664,12 +4938,13 @@
     "DISTRICT": "JAMMU",
     "STATE": "JAMMU AND KASHMIR",
     "ADDRESS": "JAMMU AND KASHMIR BANK LTD. DISTRICT POLICE LINES GANGHI NAGAR JAMMU",
-    "CONTACT": "1912452796",
+    "CONTACT": "2452796",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051018",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4681,12 +4956,13 @@
     "DISTRICT": "JAMMU",
     "STATE": "JAMMU AND KASHMIR",
     "ADDRESS": "JAMMU AND KASHMIR BANK LTD. BOSE REHARI(RAJPURA ROAD) JAMMU",
-    "CONTACT": "1912565147",
+    "CONTACT": "2565147",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051042",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4704,6 +4980,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051041",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4721,6 +4998,7 @@
     "RTGS": true,
     "CITY": "ANANTNAG",
     "MICR CODE": "192051007",
+    "STD CODE": "1932",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4738,6 +5016,7 @@
     "RTGS": true,
     "CITY": "QAZIGUND",
     "MICR CODE": "192051062",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4755,6 +5034,7 @@
     "RTGS": true,
     "CITY": "PAMPORE",
     "MICR CODE": "190051075",
+    "STD CODE": "1933",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4772,6 +5052,7 @@
     "RTGS": true,
     "CITY": "TRAL",
     "MICR CODE": "192051126",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4789,6 +5070,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051043",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4806,6 +5088,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051045",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4823,6 +5106,7 @@
     "RTGS": true,
     "CITY": "POONCH",
     "MICR CODE": "185051115",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4834,12 +5118,13 @@
     "DISTRICT": "JAMMU",
     "STATE": "JAMMU AND KASHMIR",
     "ADDRESS": "JAMMU AND KASHMIR BANK LTD. RAIL HEAD COMPEX PANAMA CHOWK JAMMU",
-    "CONTACT": "1912470778",
+    "CONTACT": "2470778",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051051",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4857,6 +5142,7 @@
     "RTGS": true,
     "CITY": "RAMBAN",
     "MICR CODE": "182051308",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4874,6 +5160,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051017",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4891,6 +5178,7 @@
     "RTGS": true,
     "CITY": "SAMBA",
     "MICR CODE": "180051039",
+    "STD CODE": "1923",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4908,6 +5196,7 @@
     "RTGS": true,
     "CITY": "SAFAPORA",
     "MICR CODE": "193051404",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4925,6 +5214,7 @@
     "RTGS": true,
     "CITY": "KISHTWAR",
     "MICR CODE": "182051414",
+    "STD CODE": "1995",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4942,6 +5232,7 @@
     "RTGS": true,
     "CITY": "UDHAMPUR",
     "MICR CODE": "182051003",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4959,6 +5250,7 @@
     "RTGS": true,
     "CITY": "SINGHPORA",
     "MICR CODE": "193051036",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4976,6 +5268,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051038",
+    "STD CODE": "1932",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4993,6 +5286,7 @@
     "RTGS": true,
     "CITY": "SURANKOTE",
     "MICR CODE": "185051102",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5010,6 +5304,7 @@
     "RTGS": true,
     "CITY": "NEW THEED",
     "MICR CODE": "190051086",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5027,6 +5322,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051011",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5044,6 +5340,7 @@
     "RTGS": true,
     "CITY": "PULWAMA",
     "MICR CODE": "192051101",
+    "STD CODE": "1933",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5061,6 +5358,7 @@
     "RTGS": true,
     "CITY": "WAKURA",
     "MICR CODE": "191051111",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5078,6 +5376,7 @@
     "RTGS": true,
     "CITY": "BEMINA",
     "MICR CODE": "190051085",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5095,6 +5394,7 @@
     "RTGS": true,
     "CITY": "DODA",
     "MICR CODE": "182051125",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5112,6 +5412,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051034",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5129,6 +5430,7 @@
     "RTGS": true,
     "CITY": "BIJBEHARA",
     "MICR CODE": "192051043",
+    "STD CODE": "1932",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5146,6 +5448,7 @@
     "RTGS": true,
     "CITY": "SURANKOTE",
     "MICR CODE": "185051114",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5163,6 +5466,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051020",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5180,6 +5484,7 @@
     "RTGS": true,
     "CITY": "GURGAON",
     "MICR CODE": "NA",
+    "STD CODE": "124",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5191,12 +5496,13 @@
     "DISTRICT": "JAMMU",
     "STATE": "JAMMU AND KASHMIR",
     "ADDRESS": "153 WARD NO.41 FRIENDS COLONY(PATTA PALOURA) DISTRICT JAMMU, J&K PIN CODE 180002",
-    "CONTACT": "1912591171",
+    "CONTACT": "2591171",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051088",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5214,6 +5520,7 @@
     "RTGS": true,
     "CITY": "FIROZPUR",
     "MICR CODE": "152051002",
+    "STD CODE": "1632",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5231,6 +5538,7 @@
     "RTGS": true,
     "CITY": "TRAL",
     "MICR CODE": "192051123",
+    "STD CODE": "1933",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5248,6 +5556,7 @@
     "RTGS": true,
     "CITY": "KULGAM",
     "MICR CODE": "192051305",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5265,6 +5574,7 @@
     "RTGS": true,
     "CITY": "KUPWARA",
     "MICR CODE": "193051206",
+    "STD CODE": "1955",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5282,6 +5592,7 @@
     "RTGS": true,
     "CITY": "FARIDABAD",
     "MICR CODE": "110051021",
+    "STD CODE": "129",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5299,6 +5610,7 @@
     "RTGS": true,
     "CITY": "BANGALORE",
     "MICR CODE": "560051005",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5316,6 +5628,7 @@
     "RTGS": true,
     "CITY": "ANANTNAG",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5333,6 +5646,7 @@
     "RTGS": true,
     "CITY": "PHRISAL",
     "MICR CODE": "192051308",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5350,6 +5664,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051021",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5367,6 +5682,7 @@
     "RTGS": true,
     "CITY": "GAGWAL",
     "MICR CODE": "180051089",
+    "STD CODE": "1922",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5384,6 +5700,7 @@
     "RTGS": true,
     "CITY": "DESA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5401,6 +5718,7 @@
     "RTGS": true,
     "CITY": "GAJANSU",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5418,6 +5736,7 @@
     "RTGS": true,
     "CITY": "DODA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5435,6 +5754,7 @@
     "RTGS": true,
     "CITY": "GALHUTA",
     "MICR CODE": "185051104",
+    "STD CODE": "1965",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5452,6 +5772,7 @@
     "RTGS": true,
     "CITY": "SUMBAL",
     "MICR CODE": "193051408",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5469,6 +5790,7 @@
     "RTGS": true,
     "CITY": "GANDER BAL",
     "MICR CODE": "191051101",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5486,6 +5808,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051008",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5503,6 +5826,7 @@
     "RTGS": true,
     "CITY": "GANPATYAR",
     "MICR CODE": "190051022",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5520,6 +5844,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051008",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5537,6 +5862,7 @@
     "RTGS": true,
     "CITY": "BANDIPORA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5554,6 +5880,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051096",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5571,6 +5898,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5588,6 +5916,7 @@
     "RTGS": true,
     "CITY": "DODA",
     "MICR CODE": "182051119",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5605,6 +5934,7 @@
     "RTGS": true,
     "CITY": "SAHIBZADA AJIT SINGH NAGAR",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5622,6 +5952,7 @@
     "RTGS": true,
     "CITY": "NOIDA",
     "MICR CODE": "110051011",
+    "STD CODE": "120",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5639,6 +5970,7 @@
     "RTGS": true,
     "CITY": "GHORDI",
     "MICR CODE": "182051023",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5649,7 +5981,8 @@
     "MICR CODE": "NA",
     "BRANCH": "GHOU MANHASSAN",
     "ADDRESS": "GHOU MANHASSAN, NEAR FISHRIES DEPARTMENT, VPO-GHOU MANHASSAN, DISTRICT-JAMMU, J&K, PIN-181206",
-    "CONTACT": "1912644229",
+    "STD CODE": "191",
+    "CONTACT": "2644229",
     "CITY": "JAMMU",
     "DISTRICT": "GHO MANHASAN",
     "STATE": "JAMMU AND KASHMIR",
@@ -5673,6 +6006,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051047",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5690,6 +6024,7 @@
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "110051023",
+    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5707,6 +6042,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051031",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5724,6 +6060,7 @@
     "RTGS": true,
     "CITY": "GANGYAL",
     "MICR CODE": "180051009",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5741,6 +6078,7 @@
     "RTGS": true,
     "CITY": "NOIDA",
     "MICR CODE": "110051022",
+    "STD CODE": "120",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5758,6 +6096,7 @@
     "RTGS": true,
     "CITY": "GOBIND GARH",
     "MICR CODE": "147051102",
+    "STD CODE": "1765",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5775,6 +6114,7 @@
     "RTGS": true,
     "CITY": "PULWAMA",
     "MICR CODE": "192051101",
+    "STD CODE": "1933",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5792,6 +6132,7 @@
     "RTGS": true,
     "CITY": "GOOL",
     "MICR CODE": "182051018",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5809,6 +6150,7 @@
     "RTGS": true,
     "CITY": "KULGAM",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5826,6 +6168,7 @@
     "RTGS": true,
     "CITY": "GUND",
     "MICR CODE": "191051103",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5843,6 +6186,7 @@
     "RTGS": true,
     "CITY": "KATHUA",
     "MICR CODE": "184051004",
+    "STD CODE": "1922",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5860,6 +6204,7 @@
     "RTGS": true,
     "CITY": "CHADURA",
     "MICR CODE": "190051088",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5878,6 +6223,7 @@
     "UPI": true,
     "RTGS": true,
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "MICR": null
   },
@@ -5894,6 +6240,7 @@
     "RTGS": true,
     "CITY": "RAJOURI",
     "MICR CODE": "185051013",
+    "STD CODE": "1962",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5905,12 +6252,13 @@
     "DISTRICT": "JAMMU",
     "STATE": "JAMMU AND KASHMIR",
     "ADDRESS": "J&K BANK B/O GUJJAR CHARITABLE TRUST JAMMU",
-    "CONTACT": "1912460641",
+    "CONTACT": "2460641",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051055",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5928,6 +6276,7 @@
     "RTGS": true,
     "CITY": "RAJOURI",
     "MICR CODE": "185051003",
+    "STD CODE": "1962",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5945,6 +6294,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051078",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5962,6 +6312,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051028",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5979,6 +6330,7 @@
     "RTGS": true,
     "CITY": "LEH",
     "MICR CODE": "NA",
+    "STD CODE": "1982",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5996,6 +6348,7 @@
     "RTGS": true,
     "CITY": "GUNDI",
     "MICR CODE": "185051106",
+    "STD CODE": "1965",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6013,6 +6366,7 @@
     "RTGS": true,
     "CITY": "DODA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6030,6 +6384,7 @@
     "RTGS": true,
     "CITY": "SHAMACHAK",
     "MICR CODE": "180051095",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6047,6 +6402,7 @@
     "RTGS": true,
     "CITY": "GURGAON",
     "MICR CODE": "110051013",
+    "STD CODE": "124",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6064,6 +6420,7 @@
     "RTGS": true,
     "CITY": "BILLAWAR",
     "MICR CODE": "184051030",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6081,6 +6438,7 @@
     "RTGS": true,
     "CITY": "GURGAON",
     "MICR CODE": "110051031",
+    "STD CODE": "124",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6098,6 +6456,7 @@
     "RTGS": true,
     "CITY": "GURSAHI",
     "MICR CODE": "185051105",
+    "STD CODE": "1965",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6115,6 +6474,7 @@
     "RTGS": true,
     "CITY": "GURAH SALATHIAN",
     "MICR CODE": "180051092",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6132,6 +6492,7 @@
     "RTGS": true,
     "CITY": "AMRITSAR",
     "MICR CODE": "143051002",
+    "STD CODE": "183",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6149,6 +6510,7 @@
     "RTGS": true,
     "CITY": "GHAZIABAD",
     "MICR CODE": "110051029",
+    "STD CODE": "120",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6166,6 +6528,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6177,12 +6540,13 @@
     "DISTRICT": "BADGAM",
     "STATE": "JAMMU AND KASHMIR",
     "ADDRESS": "HAFROO BATPORA ,CHADOORA, DISTRICT BUDGAM, J&K PIN CODE 191113",
-    "CONTACT": "08803009765",
+    "CONTACT": "8803009765",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHADURA",
     "MICR CODE": "191051028",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6194,12 +6558,13 @@
     "DISTRICT": "HYDERABAD",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "J N ROAD,HYDERABAD-500002",
-    "CONTACT": "4024615539",
+    "CONTACT": "24615539",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR CODE": "500051002",
+    "STD CODE": "40",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6217,6 +6582,7 @@
     "RTGS": true,
     "CITY": "HAJIN",
     "MICR CODE": "193051011",
+    "STD CODE": "1957",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6234,6 +6600,7 @@
     "RTGS": true,
     "CITY": "DIALGAM",
     "MICR CODE": "192051065",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6251,6 +6618,7 @@
     "RTGS": true,
     "CITY": "KUPWARA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6268,6 +6636,7 @@
     "RTGS": true,
     "CITY": "HARDWAR",
     "MICR CODE": "NA",
+    "STD CODE": "1334",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6285,6 +6654,7 @@
     "RTGS": true,
     "CITY": "ACHABAL",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6302,6 +6672,7 @@
     "RTGS": true,
     "CITY": "KRALPORA",
     "MICR CODE": "193051220",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6319,6 +6690,7 @@
     "RTGS": true,
     "CITY": "LAWAIPORA",
     "MICR CODE": "190051095",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6336,6 +6708,7 @@
     "RTGS": true,
     "CITY": "PATTAN",
     "MICR CODE": "193051020",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6353,6 +6726,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051032",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6370,6 +6744,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051026",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6387,6 +6762,7 @@
     "RTGS": true,
     "CITY": "SHOPIAN",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6404,6 +6780,7 @@
     "RTGS": true,
     "CITY": "THIKSEY",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6421,6 +6798,7 @@
     "RTGS": true,
     "CITY": "SHOPIAN",
     "MICR CODE": "192051204",
+    "STD CODE": "1933",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6438,6 +6816,7 @@
     "RTGS": true,
     "CITY": "LEH",
     "MICR CODE": "194051015",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6455,6 +6834,7 @@
     "RTGS": true,
     "CITY": "KISHTWAR",
     "MICR CODE": "182051411",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6472,6 +6852,7 @@
     "RTGS": true,
     "CITY": "ANANTNAG",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6489,6 +6870,7 @@
     "RTGS": true,
     "CITY": "HISAR",
     "MICR CODE": "125051102",
+    "STD CODE": "166",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6506,6 +6888,7 @@
     "RTGS": true,
     "CITY": "SOPORE",
     "MICR CODE": "193051102",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6523,6 +6906,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051025",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6540,6 +6924,7 @@
     "RTGS": true,
     "CITY": "KATHUA",
     "MICR CODE": "184051009",
+    "STD CODE": "1922",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6557,6 +6942,7 @@
     "RTGS": true,
     "CITY": "HANDWARA",
     "MICR CODE": "193051301",
+    "STD CODE": "1955",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6574,6 +6960,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051060",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6591,6 +6978,7 @@
     "RTGS": true,
     "CITY": "SAS NAGAR(MOHALI)",
     "MICR CODE": "NA",
+    "STD CODE": "172",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6608,6 +6996,7 @@
     "RTGS": true,
     "CITY": "HOSHIARPUR",
     "MICR CODE": "NA",
+    "STD CODE": "1882",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6625,6 +7014,7 @@
     "RTGS": true,
     "CITY": "HARIACHAK",
     "MICR CODE": "184051021",
+    "STD CODE": "1922",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6642,6 +7032,7 @@
     "RTGS": true,
     "CITY": "TANGMARG",
     "MICR CODE": "193051027",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6659,6 +7050,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "NA",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6676,6 +7068,7 @@
     "RTGS": true,
     "CITY": "HANDWARA",
     "MICR CODE": "193051304",
+    "STD CODE": "1955",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6693,6 +7086,7 @@
     "RTGS": true,
     "CITY": "SHOPIAN",
     "MICR CODE": "192051202",
+    "STD CODE": "1933",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6710,6 +7104,7 @@
     "RTGS": true,
     "CITY": "HAIDERPORA",
     "MICR CODE": "190051028",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6727,6 +7122,7 @@
     "RTGS": true,
     "CITY": "HUMHAMA",
     "MICR CODE": "190051027",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6744,6 +7140,7 @@
     "RTGS": true,
     "CITY": "HAIGAM",
     "MICR CODE": "193051114",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6761,6 +7158,7 @@
     "RTGS": true,
     "CITY": "KUPWARA",
     "MICR CODE": "193051205",
+    "STD CODE": "1955",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6778,6 +7176,7 @@
     "RTGS": true,
     "CITY": "LUDHIANA",
     "MICR CODE": "141051003",
+    "STD CODE": "161",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6795,6 +7194,7 @@
     "RTGS": true,
     "CITY": "ICHGAM",
     "MICR CODE": "191051004",
+    "STD CODE": "1951",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6812,6 +7212,7 @@
     "RTGS": true,
     "CITY": "SAMBA",
     "MICR CODE": "180051060",
+    "STD CODE": "19230",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6829,6 +7230,7 @@
     "RTGS": true,
     "CITY": "IMAM SAHIB",
     "MICR CODE": "192051113",
+    "STD CODE": "1933",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6846,6 +7248,7 @@
     "RTGS": true,
     "CITY": "ACHABAL",
     "MICR CODE": "NA",
+    "STD CODE": "1932",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6863,6 +7266,7 @@
     "RTGS": true,
     "CITY": "BANGALORE",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6880,6 +7284,7 @@
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR CODE": "NA",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6897,6 +7302,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "560051004",
+    "STD CODE": "80",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6914,6 +7320,7 @@
     "RTGS": true,
     "CITY": "INDORE",
     "MICR CODE": "452051002",
+    "STD CODE": "731",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6931,6 +7338,7 @@
     "RTGS": true,
     "CITY": "UDHAMPUR",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6948,6 +7356,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6965,6 +7374,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051029",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6982,6 +7392,7 @@
     "RTGS": true,
     "CITY": "JAKH",
     "MICR CODE": "180051073",
+    "STD CODE": "1923",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6999,6 +7410,7 @@
     "RTGS": true,
     "CITY": "BARAMULLA",
     "MICR CODE": "193051030",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7016,6 +7428,7 @@
     "RTGS": true,
     "CITY": "JAGANOO",
     "MICR CODE": "182051006",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7033,6 +7446,7 @@
     "RTGS": true,
     "CITY": "JAGANOO",
     "MICR CODE": "182051027",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7050,6 +7464,7 @@
     "RTGS": true,
     "CITY": "NAGROTA",
     "MICR CODE": "180051072",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7067,6 +7482,7 @@
     "RTGS": true,
     "CITY": "JAIPUR",
     "MICR CODE": "302051001",
+    "STD CODE": "141",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7084,6 +7500,7 @@
     "RTGS": true,
     "CITY": "THATRI",
     "MICR CODE": "182051116",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7101,6 +7518,7 @@
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7118,6 +7536,7 @@
     "RTGS": true,
     "CITY": "ACHABAL",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7135,6 +7554,7 @@
     "RTGS": true,
     "CITY": "BHUND",
     "MICR CODE": "184051032",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7152,6 +7572,7 @@
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "110051033",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7169,6 +7590,7 @@
     "RTGS": true,
     "CITY": "SAMBA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7186,6 +7608,7 @@
     "RTGS": true,
     "CITY": "RAJOURI",
     "MICR CODE": "185051002",
+    "STD CODE": "1962",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7203,6 +7626,7 @@
     "RTGS": true,
     "CITY": "URI",
     "MICR CODE": "193051006",
+    "STD CODE": "1956",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7220,6 +7644,7 @@
     "RTGS": true,
     "CITY": "JANDRAH",
     "MICR CODE": "NA",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7237,6 +7662,7 @@
     "RTGS": true,
     "CITY": "BARAMULLA",
     "MICR CODE": "NA",
+    "STD CODE": "1952",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7254,6 +7680,7 @@
     "RTGS": true,
     "CITY": "PAMPORE",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7271,6 +7698,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7288,6 +7716,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051031",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7305,6 +7734,7 @@
     "RTGS": true,
     "CITY": "JENGRAL",
     "MICR CODE": "185051014",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7322,6 +7752,7 @@
     "RTGS": true,
     "CITY": "UDHAMPUR",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7339,6 +7770,7 @@
     "RTGS": true,
     "CITY": "JAURIAN",
     "MICR CODE": "180051080",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7356,6 +7788,7 @@
     "RTGS": true,
     "CITY": "JALANDHAR",
     "MICR CODE": "144051001",
+    "STD CODE": "181",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7373,6 +7806,7 @@
     "RTGS": true,
     "CITY": "REASI",
     "MICR CODE": "182051256",
+    "STD CODE": "1991",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7390,6 +7824,7 @@
     "RTGS": true,
     "CITY": "SHOPIAN",
     "MICR CODE": "192051206",
+    "STD CODE": "1933",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7407,6 +7842,7 @@
     "RTGS": true,
     "CITY": "PULWAMA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7424,6 +7860,7 @@
     "RTGS": true,
     "CITY": "KADDAR",
     "MICR CODE": "192051045",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7441,6 +7878,7 @@
     "RTGS": true,
     "CITY": "THATRI",
     "MICR CODE": "182051117",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7458,6 +7896,7 @@
     "RTGS": true,
     "CITY": "KAKAPORA",
     "MICR CODE": "192051115",
+    "STD CODE": "1933",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7475,6 +7914,7 @@
     "RTGS": true,
     "CITY": "WAGOORA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7486,12 +7926,13 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "The Jammu and Kashmir Bank Ltd, Shopping Arcade, Bhangwadi, Kalbadevi, Mumbai - 2",
-    "CONTACT": "2222053224",
+    "CONTACT": "22053224",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR CODE": "400051003",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7509,6 +7950,7 @@
     "RTGS": true,
     "CITY": "KATHUA",
     "MICR CODE": "184051027",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7526,6 +7968,7 @@
     "RTGS": true,
     "CITY": "SHANKERPURI(KALAKOT)",
     "MICR CODE": "185051008",
+    "STD CODE": "1964",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7543,6 +7986,7 @@
     "RTGS": true,
     "CITY": "RAJOURI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7560,6 +8004,7 @@
     "RTGS": true,
     "CITY": "BANGALORE",
     "MICR CODE": "NA",
+    "STD CODE": "180",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7577,6 +8022,7 @@
     "RTGS": true,
     "CITY": "CHADURA",
     "MICR CODE": "191051024",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7594,6 +8040,7 @@
     "RTGS": true,
     "CITY": "GANDER BAL",
     "MICR CODE": "191051110",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7611,6 +8058,7 @@
     "RTGS": true,
     "CITY": "CHARARI SHARIF",
     "MICR CODE": "191051036",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7628,6 +8076,7 @@
     "RTGS": true,
     "CITY": "KANIHAMA",
     "MICR CODE": "191051041",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7645,6 +8094,7 @@
     "RTGS": true,
     "CITY": "KANISPORA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7662,6 +8112,7 @@
     "RTGS": true,
     "CITY": "KANPUR",
     "MICR CODE": "208051002",
+    "STD CODE": "512",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7673,12 +8124,13 @@
     "DISTRICT": "ANANTNAG",
     "STATE": "JAMMU AND KASHMIR",
     "ADDRESS": "KANELWANI, DISTRICT ANANTNAG, J&K PIN CODE 192404",
-    "CONTACT": "09906694979",
+    "CONTACT": "9906694979",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KANILVAN",
     "MICR CODE": "192051057",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7696,6 +8148,7 @@
     "RTGS": true,
     "CITY": "KAPRAN",
     "MICR CODE": "192051051",
+    "STD CODE": "1933",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7713,6 +8166,7 @@
     "RTGS": true,
     "CITY": "KARGIL",
     "MICR CODE": "194051008",
+    "STD CODE": "1985",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7730,6 +8184,7 @@
     "RTGS": true,
     "CITY": "NEWA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7747,6 +8202,7 @@
     "RTGS": true,
     "CITY": "KARGIL",
     "MICR CODE": "194051021",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7764,6 +8220,7 @@
     "RTGS": true,
     "CITY": "KARNAL",
     "MICR CODE": "132051102",
+    "STD CODE": "184",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7781,6 +8238,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051059",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7798,6 +8256,7 @@
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "110051006",
+    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7815,6 +8274,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051032",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7832,6 +8292,7 @@
     "RTGS": true,
     "CITY": "BANIHAL",
     "MICR CODE": "182051309",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7849,6 +8310,7 @@
     "RTGS": true,
     "CITY": "DODA",
     "MICR CODE": "182051102",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7866,6 +8328,7 @@
     "RTGS": true,
     "CITY": "KATHUA",
     "MICR CODE": "184051001",
+    "STD CODE": "1922",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7883,6 +8346,7 @@
     "RTGS": true,
     "CITY": "KADDAR",
     "MICR CODE": "192051307",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7900,6 +8364,7 @@
     "RTGS": true,
     "CITY": "KATRA",
     "MICR CODE": "182051201",
+    "STD CODE": "1991",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7917,6 +8382,7 @@
     "RTGS": true,
     "CITY": "KERAN",
     "MICR CODE": "193051212",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7934,6 +8400,7 @@
     "RTGS": true,
     "CITY": "BARAMULLA",
     "MICR CODE": "193051026",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7951,6 +8418,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051034",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7968,6 +8436,7 @@
     "RTGS": true,
     "CITY": "KULGAM",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -7985,6 +8454,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051020",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8002,6 +8472,7 @@
     "RTGS": true,
     "CITY": "KATHUA",
     "MICR CODE": "184051031",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8019,6 +8490,7 @@
     "RTGS": true,
     "CITY": "TRIATH",
     "MICR CODE": "NA",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8036,6 +8508,7 @@
     "RTGS": true,
     "CITY": "KELLAR",
     "MICR CODE": "192051205",
+    "STD CODE": "1933",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8053,6 +8526,7 @@
     "RTGS": true,
     "CITY": "NOWGAM",
     "MICR CODE": "191051037",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8070,6 +8544,7 @@
     "RTGS": true,
     "CITY": "KELLAR",
     "MICR CODE": "192051210",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8087,6 +8562,7 @@
     "RTGS": true,
     "CITY": "KHAG",
     "MICR CODE": "191051010",
+    "STD CODE": "1951",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8104,6 +8580,7 @@
     "RTGS": true,
     "CITY": "BANIHAL",
     "MICR CODE": "NA",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8121,6 +8598,7 @@
     "RTGS": true,
     "CITY": "LEH",
     "MICR CODE": "194051007",
+    "STD CODE": "1982",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8138,6 +8616,7 @@
     "RTGS": true,
     "CITY": "ANANTNAG",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8155,6 +8634,7 @@
     "RTGS": true,
     "CITY": "NOWGAM",
     "MICR CODE": "191051013",
+    "STD CODE": "1951",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8172,6 +8652,7 @@
     "RTGS": true,
     "CITY": "KHANNA",
     "MICR CODE": "141051102",
+    "STD CODE": "1628",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8189,6 +8670,7 @@
     "RTGS": true,
     "CITY": "POONCH",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8206,6 +8688,7 @@
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8217,12 +8700,13 @@
     "DISTRICT": "RAJOURI",
     "STATE": "JAMMU AND KASHMIR",
     "ADDRESS": "KHAWAS DISTRICT RAJOURI, J&K PIN CODE 185201",
-    "CONTACT": "09906170440",
+    "CONTACT": "9906170440",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BUDHAL",
     "MICR CODE": "185051017",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8240,6 +8724,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051084",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8257,6 +8742,7 @@
     "RTGS": true,
     "CITY": "GUJJAR MARKET",
     "MICR CODE": "185051021",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8274,6 +8760,7 @@
     "RTGS": true,
     "CITY": "MATTAN",
     "MICR CODE": "192051038",
+    "STD CODE": "1932",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8291,6 +8778,7 @@
     "RTGS": true,
     "CITY": "RAMSU",
     "MICR CODE": "182051108",
+    "STD CODE": "1998",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8308,6 +8796,7 @@
     "RTGS": true,
     "CITY": "KHIRAM",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8325,6 +8814,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051078",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8342,6 +8832,7 @@
     "RTGS": true,
     "CITY": "BARAMULLA",
     "MICR CODE": "193051003",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8359,6 +8850,7 @@
     "RTGS": true,
     "CITY": "UDHAMPUR",
     "MICR CODE": "182051004",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8376,6 +8868,7 @@
     "RTGS": true,
     "CITY": "KHOUR",
     "MICR CODE": "NA",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8393,6 +8886,7 @@
     "RTGS": true,
     "CITY": "KHOUR",
     "MICR CODE": "180051094",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8410,6 +8904,7 @@
     "RTGS": true,
     "CITY": "ANANTNAG",
     "MICR CODE": "192051041",
+    "STD CODE": "1931",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8427,6 +8922,7 @@
     "RTGS": true,
     "CITY": "KHUMARYAL",
     "MICR CODE": "193051226",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8444,6 +8940,7 @@
     "RTGS": true,
     "CITY": "KISHENPUR",
     "MICR CODE": "184051020",
+    "STD CODE": "1921",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8461,6 +8958,7 @@
     "RTGS": true,
     "CITY": "KALAROOCH",
     "MICR CODE": "193051204",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8478,6 +8976,7 @@
     "RTGS": true,
     "CITY": "KRAL GUND",
     "MICR CODE": "193051217",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8495,6 +8994,7 @@
     "RTGS": true,
     "CITY": "KATHUA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8512,6 +9012,7 @@
     "RTGS": true,
     "CITY": "LAJURA",
     "MICR CODE": "192051127",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8529,6 +9030,7 @@
     "RTGS": true,
     "CITY": "KHANMOH",
     "MICR CODE": "190051079",
+    "STD CODE": "1933",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8546,6 +9048,7 @@
     "RTGS": true,
     "CITY": "KOKERNAG",
     "MICR CODE": "192051017",
+    "STD CODE": "1932",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8563,6 +9066,7 @@
     "RTGS": true,
     "CITY": "KATHUA",
     "MICR CODE": "184051010",
+    "STD CODE": "1922",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8580,6 +9084,7 @@
     "RTGS": true,
     "CITY": "GANDOH BHALESA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8597,6 +9102,7 @@
     "RTGS": true,
     "CITY": "KRERI",
     "MICR CODE": "193051012",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8614,6 +9120,7 @@
     "RTGS": true,
     "CITY": "KHAN-SAHEB",
     "MICR CODE": "191051009",
+    "STD CODE": "1951",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8631,6 +9138,7 @@
     "RTGS": true,
     "CITY": "BADGAM",
     "MICR CODE": "191051005",
+    "STD CODE": "1951",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8648,6 +9156,7 @@
     "RTGS": true,
     "CITY": "KISHTWAR",
     "MICR CODE": "182051401",
+    "STD CODE": "1995",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8659,12 +9168,13 @@
     "DISTRICT": "ERNAKULAM",
     "STATE": "KERALA",
     "ADDRESS": "ERNAKULUM, M.G. ROAD, KOCHI- 682035",
-    "CONTACT": "4842381073",
+    "CONTACT": "2381073",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOCHI",
     "MICR CODE": "682051002",
+    "STD CODE": "484",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8682,6 +9192,7 @@
     "RTGS": true,
     "CITY": "KUD",
     "MICR CODE": "NA",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8699,6 +9210,7 @@
     "RTGS": true,
     "CITY": "KISHTWAR",
     "MICR CODE": "182051409",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8716,6 +9228,7 @@
     "RTGS": true,
     "CITY": "KULGAM",
     "MICR CODE": "192051008",
+    "STD CODE": "1931",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8733,6 +9246,7 @@
     "RTGS": true,
     "CITY": "MIRAN SAHIB",
     "MICR CODE": "180051071",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8750,6 +9264,7 @@
     "RTGS": true,
     "CITY": "KUPWARA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8767,6 +9282,7 @@
     "RTGS": true,
     "CITY": "CHUGAL",
     "MICR CODE": "193051218",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8784,6 +9300,7 @@
     "RTGS": true,
     "CITY": "KULU",
     "MICR CODE": "175051002",
+    "STD CODE": "190",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8801,6 +9318,7 @@
     "RTGS": true,
     "CITY": "RAMNAGAR",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8818,6 +9336,7 @@
     "RTGS": true,
     "CITY": "SHOPIAN",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8835,6 +9354,7 @@
     "RTGS": true,
     "CITY": "KUNZAR",
     "MICR CODE": "193051022",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8852,6 +9372,7 @@
     "RTGS": true,
     "CITY": "LADHU",
     "MICR CODE": "192051108",
+    "STD CODE": "1933",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8869,6 +9390,7 @@
     "RTGS": true,
     "CITY": "SOPORE",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8886,6 +9408,7 @@
     "RTGS": true,
     "CITY": "LAJURA",
     "MICR CODE": "192051118",
+    "STD CODE": "1933",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8903,6 +9426,7 @@
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "110051012",
+    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8920,6 +9444,7 @@
     "RTGS": true,
     "CITY": "ANANTNAG",
     "MICR CODE": "192051048",
+    "STD CODE": "1932",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8937,6 +9462,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051035",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8954,6 +9480,7 @@
     "RTGS": true,
     "CITY": "LALPORA",
     "MICR CODE": "193051214",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8971,6 +9498,7 @@
     "RTGS": true,
     "CITY": "NOWSHERA",
     "MICR CODE": "NA",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8988,6 +9516,7 @@
     "RTGS": true,
     "CITY": "LANDHAR",
     "MICR CODE": "182051014",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9005,6 +9534,7 @@
     "RTGS": true,
     "CITY": "LANGATE",
     "MICR CODE": "193051302",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9022,6 +9552,7 @@
     "RTGS": true,
     "CITY": "LANDHAR",
     "MICR CODE": "182051022",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9039,6 +9570,7 @@
     "RTGS": true,
     "CITY": "LARKIPORA",
     "MICR CODE": "192051023",
+    "STD CODE": "1932",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9056,6 +9588,7 @@
     "RTGS": true,
     "CITY": "LARNOO",
     "MICR CODE": "192051022",
+    "STD CODE": "1932",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9073,6 +9606,7 @@
     "RTGS": true,
     "CITY": "LASSANA",
     "MICR CODE": "185051108",
+    "STD CODE": "1965",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9090,6 +9624,7 @@
     "RTGS": true,
     "CITY": "PULWAMA",
     "MICR CODE": "192051120",
+    "STD CODE": "1933",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9107,6 +9642,7 @@
     "RTGS": true,
     "CITY": "LASJAN",
     "MICR CODE": "190051037",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9124,6 +9660,7 @@
     "RTGS": true,
     "CITY": "LATHI",
     "MICR CODE": "182051013",
+    "STD CODE": "1992",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9141,6 +9678,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051011",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9158,6 +9696,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "NA",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9175,6 +9714,7 @@
     "RTGS": true,
     "CITY": "LETPORE",
     "MICR CODE": "192051114",
+    "STD CODE": "1933",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9192,6 +9732,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "NA",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9209,6 +9750,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051010",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9226,6 +9768,7 @@
     "RTGS": true,
     "CITY": "LITTER",
     "MICR CODE": "192051119",
+    "STD CODE": "1933",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9243,6 +9786,7 @@
     "RTGS": true,
     "CITY": "RAJOURI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9260,6 +9804,7 @@
     "RTGS": true,
     "CITY": "MANDI",
     "MICR CODE": "185051112",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9277,6 +9822,7 @@
     "RTGS": true,
     "CITY": "LUDHIANA",
     "MICR CODE": "141051002",
+    "STD CODE": "161",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9294,6 +9840,7 @@
     "RTGS": true,
     "CITY": "LUCKNOW",
     "MICR CODE": "226051002",
+    "STD CODE": "522",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9311,6 +9858,7 @@
     "RTGS": true,
     "CITY": "CHADURA",
     "MICR CODE": "191051032",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9328,6 +9876,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051023",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9345,6 +9894,7 @@
     "RTGS": true,
     "CITY": "KISHTWAR",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9362,6 +9912,7 @@
     "RTGS": true,
     "CITY": "MACHHEDI",
     "MICR CODE": "184051022",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9380,6 +9931,7 @@
     "RTGS": true,
     "CITY": "MACHIL",
     "MICR CODE": "193051213",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9390,12 +9942,13 @@
     "DISTRICT": "CHENNAI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "MOUNT ROAD, ANNA SALAI, NEAR T.N. ELECTRICITY BOARD, CHENNAI- 600002 (T.N)",
-    "CONTACT": "4428515260",
+    "CONTACT": "28515260",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "600051002",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9413,6 +9966,7 @@
     "RTGS": true,
     "CITY": "BADGAM",
     "MICR CODE": "191051014",
+    "STD CODE": "1951",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9430,6 +9984,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9447,6 +10002,7 @@
     "RTGS": true,
     "CITY": "KATHUA",
     "MICR CODE": "184051024",
+    "STD CODE": "1921",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9464,6 +10020,7 @@
     "RTGS": true,
     "CITY": "SUDHMAHADEV",
     "MICR CODE": "182051012",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9481,6 +10038,7 @@
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR CODE": "400051011",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9498,6 +10056,7 @@
     "RTGS": true,
     "CITY": "MAHORE",
     "MICR CODE": "182051255",
+    "STD CODE": "1991",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9515,6 +10074,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051038",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9532,6 +10092,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051061",
+    "STD CODE": "1923",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9549,6 +10110,7 @@
     "RTGS": true,
     "CITY": "AWANTIPURA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9566,6 +10128,7 @@
     "RTGS": true,
     "CITY": "BADGAM",
     "MICR CODE": "191051001",
+    "STD CODE": "1951",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9583,6 +10146,7 @@
     "RTGS": true,
     "CITY": "BISNAH",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9600,6 +10164,7 @@
     "RTGS": true,
     "CITY": "BISHNA",
     "MICR CODE": "180051096",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9611,12 +10176,13 @@
     "DISTRICT": "SRINAGAR",
     "STATE": "JAMMU AND KASHMIR",
     "ADDRESS": "MALLABAGH, HAZRATBAL, DISTRICT SRINAGAR, J&K, PIN CODE 190006",
-    "CONTACT": "09596425585",
+    "CONTACT": "9596425585",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BACCHAPORA",
     "MICR CODE": "190051091",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9634,6 +10200,7 @@
     "RTGS": true,
     "CITY": "NAGAM",
     "MICR CODE": "191051038",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9651,6 +10218,7 @@
     "RTGS": true,
     "CITY": "ZAINAKOTE",
     "MICR CODE": "191051097",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9668,6 +10236,7 @@
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "110051034",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9685,6 +10254,7 @@
     "RTGS": true,
     "CITY": "MUNJAKOT",
     "MICR CODE": "185051018",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9702,6 +10272,7 @@
     "RTGS": true,
     "CITY": "MANALI",
     "MICR CODE": "175051102",
+    "STD CODE": "190",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9719,6 +10290,7 @@
     "RTGS": true,
     "CITY": "MANDI",
     "MICR CODE": "185051107",
+    "STD CODE": "1965",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9736,6 +10308,7 @@
     "RTGS": true,
     "CITY": "UDHAMPUR",
     "MICR CODE": "NA",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9747,12 +10320,13 @@
     "DISTRICT": "DAKSHIN KANNAD",
     "STATE": "KARNATAKA",
     "ADDRESS": "POOJA ARCADE, K.S. RAO ROAD, MANGALORE- 575001",
-    "CONTACT": "8422440261",
+    "CONTACT": "2440261",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MANGALORE",
     "MICR CODE": "575051001",
+    "STD CODE": "842",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9770,6 +10344,7 @@
     "RTGS": true,
     "CITY": "MANIGAM",
     "MICR CODE": "191051112",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9787,6 +10362,7 @@
     "RTGS": true,
     "CITY": "SAMBA",
     "MICR CODE": "180051090",
+    "STD CODE": "1990",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9804,6 +10380,7 @@
     "RTGS": true,
     "CITY": "MANSA",
     "MICR CODE": "151051112",
+    "STD CODE": "1652",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9821,6 +10398,7 @@
     "RTGS": true,
     "CITY": "SUDHMAHADEV",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9838,6 +10416,7 @@
     "RTGS": true,
     "CITY": "KRALPORA",
     "MICR CODE": "193051208",
+    "STD CODE": "1955",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9855,6 +10434,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051007",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9872,6 +10452,7 @@
     "RTGS": true,
     "CITY": "KATHUA",
     "MICR CODE": "184051011",
+    "STD CODE": "1922",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9889,6 +10470,7 @@
     "RTGS": true,
     "CITY": "MARH",
     "MICR CODE": "180051077",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9906,6 +10488,7 @@
     "RTGS": true,
     "CITY": "MARHAMA",
     "MICR CODE": "192051035",
+    "STD CODE": "1932",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9923,6 +10506,7 @@
     "RTGS": true,
     "CITY": "SURANKOTE",
     "MICR CODE": "185051116",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9940,6 +10524,7 @@
     "RTGS": true,
     "CITY": "SOPORE",
     "MICR CODE": "193051105",
+    "STD CODE": "1954",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9957,6 +10542,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9974,6 +10560,7 @@
     "RTGS": true,
     "CITY": "KHILANI",
     "MICR CODE": "182051120",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -9985,12 +10572,13 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "The Jammu and Kashmir Bank Ltd, Noor Mohammed Co-op Society Ltd. Ground Floor, M.A.Road, Mumbai - 55",
-    "CONTACT": "2223464416",
+    "CONTACT": "23464416",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR CODE": "400051006",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10008,6 +10596,7 @@
     "RTGS": true,
     "CITY": "BASHOHLI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10019,13 +10608,14 @@
     "DISTRICT": "DODA",
     "STATE": "JAMMU AND KASHMIR",
     "ADDRESS": "MARWAH DISTRICT KISHTWAR, J&K",
-    "CONTACT": "00",
+    "CONTACT": null,
     "MICR": "182051406",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MARWAH",
     "MICR CODE": "182051406",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10035,7 +10625,8 @@
     "MICR CODE": "NA",
     "BRANCH": "APEX BRANCH",
     "ADDRESS": "APEX BRANCH J AND K BANK CHQ MA ROAD SRINAGAR",
-    "CONTACT": "00",
+    "STD CODE": "0",
+    "CONTACT": null,
     "CITY": "SRINAGAR",
     "DISTRICT": "SRINAGAR",
     "STATE": "JAMMU AND KASHMIR",
@@ -10059,6 +10650,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051014",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10076,6 +10668,7 @@
     "RTGS": true,
     "CITY": "MEERUT",
     "MICR CODE": "250051002",
+    "STD CODE": "121",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10093,6 +10686,7 @@
     "RTGS": true,
     "CITY": "SHRIGOPHWARA",
     "MICR CODE": "192051053",
+    "STD CODE": "1932",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10110,6 +10704,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051089",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10127,6 +10722,7 @@
     "RTGS": true,
     "CITY": "CHANPORA",
     "MICR CODE": "190051083",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10144,6 +10740,7 @@
     "RTGS": true,
     "CITY": "MENDHAR",
     "MICR CODE": "185051103",
+    "STD CODE": "1965",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10161,6 +10758,7 @@
     "RTGS": true,
     "CITY": "UDHAMPUR",
     "MICR CODE": "182051024",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10178,6 +10776,7 @@
     "RTGS": true,
     "CITY": "KULGAM",
     "MICR CODE": "192051040",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10195,6 +10794,7 @@
     "RTGS": true,
     "CITY": "HAWL",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10212,6 +10812,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10229,6 +10830,7 @@
     "RTGS": true,
     "CITY": "KISHTWAR",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10246,6 +10848,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051013",
+    "STD CODE": "1923",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10257,12 +10860,13 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "The Jammu and Kashmir Bank Ltd, Jangid Complex, Behind Silver Bhayander Road, Mira Road, Thane, Mumbai - 400107",
-    "CONTACT": "2228104499",
+    "CONTACT": "28104499",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR CODE": "400051005",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10280,6 +10884,7 @@
     "RTGS": true,
     "CITY": "QAZIGUND",
     "MICR CODE": "192051037",
+    "STD CODE": "1931",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10297,6 +10902,7 @@
     "RTGS": true,
     "CITY": "BADGAM",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10314,6 +10920,7 @@
     "RTGS": true,
     "CITY": "MIRGUND",
     "MICR CODE": "193051038",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10331,6 +10938,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051069",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10348,6 +10956,7 @@
     "RTGS": true,
     "CITY": "MAJALTA",
     "MICR CODE": "182051009",
+    "STD CODE": "1992",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10365,6 +10974,7 @@
     "RTGS": true,
     "CITY": "SUMBAL",
     "MICR CODE": "193051407",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10382,6 +10992,7 @@
     "RTGS": true,
     "CITY": "CHATROO",
     "MICR CODE": "182051410",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10399,6 +11010,7 @@
     "RTGS": true,
     "CITY": "MANZGAM",
     "MICR CODE": "192051044",
+    "STD CODE": "1931",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10416,6 +11028,7 @@
     "RTGS": true,
     "CITY": "MOGA",
     "MICR CODE": "142051002",
+    "STD CODE": "1636",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10433,6 +11046,7 @@
     "RTGS": true,
     "CITY": "AGRA",
     "MICR CODE": "282051002",
+    "STD CODE": "562",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10450,6 +11064,7 @@
     "RTGS": true,
     "CITY": "SAS NAGAR(MOHALI)",
     "MICR CODE": "160051002",
+    "STD CODE": "172",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10467,6 +11082,7 @@
     "RTGS": true,
     "CITY": "PANCHARI",
     "MICR CODE": "182051025",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10484,6 +11100,7 @@
     "RTGS": true,
     "CITY": "LEH",
     "MICR CODE": "NA",
+    "STD CODE": "1982",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10501,6 +11118,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051062",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10518,6 +11136,7 @@
     "RTGS": true,
     "CITY": "ZAINAKOTE",
     "MICR CODE": "190051094",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10536,6 +11155,7 @@
     "RTGS": true,
     "CITY": "SHARGOLE",
     "MICR CODE": "194051023",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10552,6 +11172,7 @@
     "RTGS": true,
     "CITY": "YARIPORA",
     "MICR CODE": "192051301",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10569,6 +11190,7 @@
     "RTGS": true,
     "CITY": "MORADABAD",
     "MICR CODE": "244051002",
+    "STD CODE": "591",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10586,6 +11208,7 @@
     "RTGS": true,
     "CITY": "RAJOURI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10603,6 +11226,7 @@
     "RTGS": true,
     "CITY": "MORAN",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10620,6 +11244,7 @@
     "RTGS": true,
     "CITY": "MORAN",
     "MICR CODE": "192051102",
+    "STD CODE": "1933",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10631,12 +11256,13 @@
     "DISTRICT": "JAMMU",
     "STATE": "JAMMU AND KASHMIR",
     "ADDRESS": "Village Muthi Goan, P. O. Muthi, District Jammu, J&K Pin 181205",
-    "CONTACT": "1912598869",
+    "CONTACT": "2598869",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUTHI",
     "MICR CODE": "180051100",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10654,6 +11280,7 @@
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "110051024",
+    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10665,12 +11292,13 @@
     "DISTRICT": "MYSORE",
     "STATE": "KARNATAKA",
     "ADDRESS": "1137, NARAYANA SHASTRI ROAD, DEVARAJ MOHALLA,MYSORE-1",
-    "CONTACT": "8212428468",
+    "CONTACT": "2428468",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MYSORE",
     "MICR CODE": "570051002",
+    "STD CODE": "821",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10688,6 +11316,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051041",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10705,6 +11334,7 @@
     "RTGS": true,
     "CITY": "NASHIK",
     "MICR CODE": "422051002",
+    "STD CODE": "253",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10722,6 +11352,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051039",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10739,6 +11370,7 @@
     "RTGS": true,
     "CITY": "BANDIPORA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10756,6 +11388,7 @@
     "RTGS": true,
     "CITY": "NAGAM",
     "MICR CODE": "191051016",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10773,6 +11406,7 @@
     "RTGS": true,
     "CITY": "NAGPUR",
     "MICR CODE": "440051002",
+    "STD CODE": "712",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10790,6 +11424,7 @@
     "RTGS": true,
     "CITY": "DODA",
     "MICR CODE": "182051123",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10807,6 +11442,7 @@
     "RTGS": true,
     "CITY": "NAGROTA",
     "MICR CODE": "180051056",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10824,6 +11460,7 @@
     "RTGS": true,
     "CITY": "KISHTWAR",
     "MICR CODE": "182051405",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10835,12 +11472,13 @@
     "DISTRICT": "PULWAMA",
     "STATE": "JAMMU AND KASHMIR",
     "ADDRESS": "NAGABAL, DISTRICT SHOPIAN, J&K PIN CODE 192305",
-    "CONTACT": "09697031927",
+    "CONTACT": "9697031927",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SHOPIAN",
     "MICR CODE": "192051208",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10858,6 +11496,7 @@
     "RTGS": true,
     "CITY": "NANILANG",
     "MICR CODE": "192051020",
+    "STD CODE": "1932",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10875,6 +11514,7 @@
     "RTGS": true,
     "CITY": "SAMBA",
     "MICR CODE": "180051070",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10892,6 +11532,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051016",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10909,6 +11550,7 @@
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "110051009",
+    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10926,6 +11568,7 @@
     "RTGS": true,
     "CITY": "BADGAM",
     "MICR CODE": "191051011",
+    "STD CODE": "1951",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10943,6 +11586,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10960,6 +11604,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051042",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10977,6 +11622,7 @@
     "RTGS": true,
     "CITY": "BADGAM",
     "MICR CODE": "191051003",
+    "STD CODE": "1951",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10994,6 +11640,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051080",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11011,6 +11658,7 @@
     "RTGS": true,
     "CITY": "NAIDKHAI",
     "MICR CODE": "193051013",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11028,6 +11676,7 @@
     "RTGS": true,
     "CITY": "NEWA",
     "MICR CODE": "192051111",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11045,6 +11694,7 @@
     "RTGS": true,
     "CITY": "KUPWARA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11062,6 +11712,7 @@
     "RTGS": true,
     "CITY": "NEHALPORA",
     "MICR CODE": "193051040",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11079,6 +11730,7 @@
     "RTGS": true,
     "CITY": "KAKAPORA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11096,6 +11748,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051015",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11113,6 +11766,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051049",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11130,6 +11784,7 @@
     "RTGS": true,
     "CITY": "SHANGAS(NOWGAM)",
     "MICR CODE": "192051056",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11147,6 +11802,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051040",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11164,6 +11820,7 @@
     "RTGS": true,
     "CITY": "KULGAM",
     "MICR CODE": "192051036",
+    "STD CODE": "1931",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11181,6 +11838,7 @@
     "RTGS": true,
     "CITY": "KULGAM",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11198,6 +11856,7 @@
     "RTGS": true,
     "CITY": "LEH",
     "MICR CODE": "194051019",
+    "STD CODE": "1982",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11215,6 +11874,7 @@
     "RTGS": true,
     "CITY": "BANDIPORA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11232,6 +11892,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051012",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11249,6 +11910,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051046",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11266,6 +11928,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051081",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11283,6 +11946,7 @@
     "RTGS": true,
     "CITY": "NOWSHERA",
     "MICR CODE": "185051009",
+    "STD CODE": "1960",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11300,6 +11964,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051075",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11311,12 +11976,13 @@
     "DISTRICT": "BADGAM",
     "STATE": "JAMMU AND KASHMIR",
     "ADDRESS": "NOWPORA ,CHADOORA, DISTRICT BUDGAM, J&K PIN CODE 191113",
-    "CONTACT": "09419408989",
+    "CONTACT": "9419408989",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHADURA",
     "MICR CODE": "191051027",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11334,6 +12000,7 @@
     "RTGS": true,
     "CITY": "NOWGAM",
     "MICR CODE": "190051045",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11351,6 +12018,7 @@
     "RTGS": true,
     "CITY": "BARAMULLA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11368,6 +12036,7 @@
     "RTGS": true,
     "CITY": "SAMBA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11385,6 +12054,7 @@
     "RTGS": true,
     "CITY": "GANDER BAL",
     "MICR CODE": "191051105",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11402,6 +12072,7 @@
     "RTGS": true,
     "CITY": "SOPORE",
     "MICR CODE": "193051113",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11419,6 +12090,7 @@
     "RTGS": true,
     "CITY": "NYOMA",
     "MICR CODE": "194051012",
+    "STD CODE": "1981",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11436,6 +12108,7 @@
     "RTGS": true,
     "CITY": "LAKHENPUR",
     "MICR CODE": "184051005",
+    "STD CODE": "1922",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11453,6 +12126,7 @@
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "110051017",
+    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11470,6 +12144,7 @@
     "RTGS": true,
     "CITY": "KATHUA",
     "MICR CODE": "184051002",
+    "STD CODE": "1922",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11487,6 +12162,7 @@
     "RTGS": true,
     "CITY": "KUPWARA",
     "MICR CODE": "193051202",
+    "STD CODE": "1955",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11504,6 +12180,7 @@
     "RTGS": true,
     "CITY": "OMPORA",
     "MICR CODE": "191051002",
+    "STD CODE": "1951",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11515,12 +12192,13 @@
     "DISTRICT": "BANGALORE URBAN",
     "STATE": "KARNATAKA",
     "ADDRESS": "SPA PLAZA, O.T.C. ROAD, BANGALORE-560002",
-    "CONTACT": "8041143120",
+    "CONTACT": "41143120",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
     "MICR CODE": "560051003",
+    "STD CODE": "80",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11538,6 +12216,7 @@
     "RTGS": true,
     "CITY": "BADGAM",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11555,6 +12234,7 @@
     "RTGS": true,
     "CITY": "PADAM-ZANSKAR",
     "MICR CODE": "194051018",
+    "STD CODE": "1983",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11572,6 +12252,7 @@
     "RTGS": true,
     "CITY": "PADDAR",
     "MICR CODE": "182051402",
+    "STD CODE": "1995",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11589,6 +12270,7 @@
     "RTGS": true,
     "CITY": "PHAGWARA",
     "MICR CODE": "144051712",
+    "STD CODE": "1824",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11606,6 +12288,7 @@
     "RTGS": true,
     "CITY": "BAGATI KANIPORA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11623,6 +12306,7 @@
     "RTGS": true,
     "CITY": "BADGAM",
     "MICR CODE": "191051012",
+    "STD CODE": "1951",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11634,12 +12318,13 @@
     "DISTRICT": "DELHI",
     "STATE": "DELHI",
     "ADDRESS": "RAJINDRA PLACE26/34, PAL MOHAN MANSION, RAJINDRA PLACE, NEW DELHI-110008",
-    "CONTACT": "1125710667",
+    "CONTACT": "25710667",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "110051008",
+    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11657,6 +12342,7 @@
     "RTGS": true,
     "CITY": "PALHALAN",
     "MICR CODE": "193051031",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11674,6 +12360,7 @@
     "RTGS": true,
     "CITY": "PALAM",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11691,6 +12378,7 @@
     "RTGS": true,
     "CITY": "KISHTWAR",
     "MICR CODE": "182051415",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11708,6 +12396,7 @@
     "RTGS": true,
     "CITY": "BISHNA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11725,6 +12414,7 @@
     "RTGS": true,
     "CITY": "PALAPORA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11742,6 +12432,7 @@
     "RTGS": true,
     "CITY": "PANAJI",
     "MICR CODE": "403051002",
+    "STD CODE": "832",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11759,6 +12450,7 @@
     "RTGS": true,
     "CITY": "PANCHKULA",
     "MICR CODE": "160051003",
+    "STD CODE": "172",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11776,6 +12468,7 @@
     "RTGS": true,
     "CITY": "LEH",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11793,6 +12486,7 @@
     "RTGS": true,
     "CITY": "PANIPAT",
     "MICR CODE": "132051002",
+    "STD CODE": "180",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11810,6 +12504,7 @@
     "RTGS": true,
     "CITY": "PANTHCHOKE",
     "MICR CODE": "190051048",
+    "STD CODE": "1933",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11827,6 +12522,7 @@
     "RTGS": true,
     "CITY": "CHADURA",
     "MICR CODE": "191051031",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11844,6 +12540,7 @@
     "RTGS": true,
     "CITY": "QAZIGUND",
     "MICR CODE": "192051059",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11861,6 +12558,7 @@
     "RTGS": true,
     "CITY": "PULWAMA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11878,6 +12576,7 @@
     "RTGS": true,
     "CITY": "KHAN-SAHEB",
     "MICR CODE": "191051025",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11895,6 +12594,7 @@
     "RTGS": true,
     "CITY": "KAKAPORA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11912,6 +12612,7 @@
     "RTGS": true,
     "CITY": "PHALAIAN",
     "MICR CODE": "180051097",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11922,7 +12623,8 @@
     "MICR CODE": "NA",
     "BRANCH": "PARNEWA",
     "ADDRESS": "PARNEWA, BUDGAM, JK PIN 191111",
-    "CONTACT": "1949419406024",
+    "STD CODE": "194",
+    "CONTACT": "9419406024",
     "CITY": "BUDGAM",
     "DISTRICT": "BADGAM",
     "STATE": "JAMMU AND KASHMIR",
@@ -11946,6 +12648,7 @@
     "RTGS": true,
     "CITY": "KATHUA",
     "MICR CODE": "184051014",
+    "STD CODE": "1922",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11957,12 +12660,13 @@
     "DISTRICT": "CHENNAI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "VOLTAS, INTERNATIONAL CENTRE, NO. 52, ARMENIAN STREET, CHENNAI (T.N)",
-    "CONTACT": "4425330478",
+    "CONTACT": "25330478",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "600051003",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11980,6 +12684,7 @@
     "RTGS": true,
     "CITY": "PATHANKOT",
     "MICR CODE": "145051002",
+    "STD CODE": "186",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11997,6 +12702,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051010",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12014,6 +12720,7 @@
     "RTGS": true,
     "CITY": "DAYALA CHAK",
     "MICR CODE": "184051029",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12031,6 +12738,7 @@
     "RTGS": true,
     "CITY": "PATIALA",
     "MICR CODE": "NA",
+    "STD CODE": "175",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12048,6 +12756,7 @@
     "RTGS": true,
     "CITY": "SAMBA",
     "MICR CODE": "180051053",
+    "STD CODE": "1923",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12065,6 +12774,7 @@
     "RTGS": true,
     "CITY": "PATTAN",
     "MICR CODE": "193051005",
+    "STD CODE": "1954",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12082,6 +12792,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051019",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12099,6 +12810,7 @@
     "RTGS": true,
     "CITY": "BANDIPUR",
     "MICR CODE": "193051405",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12116,6 +12828,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12133,6 +12846,7 @@
     "RTGS": true,
     "CITY": "KATHUA",
     "MICR CODE": "184051028",
+    "STD CODE": "1922",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12150,6 +12864,7 @@
     "RTGS": true,
     "CITY": "KISHTWAR",
     "MICR CODE": "182051416",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12167,6 +12882,7 @@
     "RTGS": true,
     "CITY": "BUDHAL",
     "MICR CODE": "185051019",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12184,6 +12900,7 @@
     "RTGS": true,
     "CITY": "KULGAM",
     "MICR CODE": "192051042",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12201,6 +12918,7 @@
     "RTGS": true,
     "CITY": "KOKERNAG",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12218,6 +12936,7 @@
     "RTGS": true,
     "CITY": "RAJOURI",
     "MICR CODE": "NA",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12235,6 +12954,7 @@
     "RTGS": true,
     "CITY": "PAHALGAM",
     "MICR CODE": "192051010",
+    "STD CODE": "1936",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12252,6 +12972,7 @@
     "RTGS": true,
     "CITY": "KATHUA",
     "MICR CODE": "184051015",
+    "STD CODE": "1921",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12269,6 +12990,7 @@
     "RTGS": true,
     "CITY": "PULWAMA",
     "MICR CODE": "192051124",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12286,6 +13008,7 @@
     "RTGS": true,
     "CITY": "PINJOORA",
     "MICR CODE": "192051203",
+    "STD CODE": "1933",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12303,6 +13026,7 @@
     "RTGS": true,
     "CITY": "PULWAMA",
     "MICR CODE": "192051128",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12320,6 +13044,7 @@
     "RTGS": true,
     "CITY": "GANDER BAL",
     "MICR CODE": "191051113",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12337,6 +13062,7 @@
     "RTGS": true,
     "CITY": "UDHAMPUR",
     "MICR CODE": "182051261",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12354,6 +13080,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051048",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12371,6 +13098,7 @@
     "RTGS": true,
     "CITY": "PANTHAL",
     "MICR CODE": "182051008",
+    "STD CODE": "1991",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12388,6 +13116,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12405,6 +13134,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051030",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12422,6 +13152,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051050",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12439,6 +13170,7 @@
     "RTGS": true,
     "CITY": "POGAL PARISTAN",
     "MICR CODE": "182051306",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12456,6 +13188,7 @@
     "RTGS": true,
     "CITY": "PUNE",
     "MICR CODE": "411051001",
+    "STD CODE": "20",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12473,6 +13206,7 @@
     "RTGS": true,
     "CITY": "KHAG",
     "MICR CODE": "191051033",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12490,6 +13224,7 @@
     "RTGS": true,
     "CITY": "REASI",
     "MICR CODE": "182051252",
+    "STD CODE": "1991",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12507,6 +13242,7 @@
     "RTGS": true,
     "CITY": "GUND",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12524,6 +13260,7 @@
     "RTGS": true,
     "CITY": "DODA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12541,6 +13278,7 @@
     "RTGS": true,
     "CITY": "LEH",
     "MICR CODE": "194051001",
+    "STD CODE": "1982",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12558,6 +13296,7 @@
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "110051026",
+    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12575,6 +13314,7 @@
     "RTGS": true,
     "CITY": "THATRI",
     "MICR CODE": "182051114",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12592,6 +13332,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051044",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12603,12 +13344,13 @@
     "DISTRICT": "DELHI",
     "STATE": "DELHI",
     "ADDRESS": "5, Prithvi Raj Road, Delhi, PIN-110001",
-    "CONTACT": "1124644744",
+    "CONTACT": "24644744",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "110051035",
+    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12626,6 +13368,7 @@
     "RTGS": true,
     "CITY": "KARGIL",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12643,6 +13386,7 @@
     "RTGS": true,
     "CITY": "BARAMULLA",
     "MICR CODE": "193051103",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12660,6 +13404,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051049",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12677,6 +13422,7 @@
     "RTGS": true,
     "CITY": "QAZIGUND",
     "MICR CODE": "192051015",
+    "STD CODE": "1931",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12694,6 +13440,7 @@
     "RTGS": true,
     "CITY": "KALAMCHAKLA",
     "MICR CODE": "193051305",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12711,6 +13458,7 @@
     "RTGS": true,
     "CITY": "RAJOURI",
     "MICR CODE": "185051001",
+    "STD CODE": "1962",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12728,6 +13476,7 @@
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR CODE": "400051001",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12745,6 +13494,7 @@
     "RTGS": true,
     "CITY": "SAMBA",
     "MICR CODE": "NA",
+    "STD CODE": "1923",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12762,6 +13512,7 @@
     "RTGS": true,
     "CITY": "DARHAL(MALKAN)",
     "MICR CODE": "185051012",
+    "STD CODE": "1962",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12779,6 +13530,7 @@
     "RTGS": true,
     "CITY": "RAIPUR",
     "MICR CODE": "492051002",
+    "STD CODE": "771",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12790,12 +13542,13 @@
     "DISTRICT": "BADGAM",
     "STATE": "JAMMU AND KASHMIR",
     "ADDRESS": "RAITHAN, DISTRICT BUDGAM, J&K",
-    "CONTACT": "09797022687",
+    "CONTACT": "9797022687",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "RAITHAN",
     "MICR CODE": "191051026",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12813,6 +13566,7 @@
     "RTGS": true,
     "CITY": "BARNOTI",
     "MICR CODE": "184051026",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12830,6 +13584,7 @@
     "RTGS": true,
     "CITY": "RAJPURA",
     "MICR CODE": "180051065",
+    "STD CODE": "1922",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12847,6 +13602,7 @@
     "RTGS": true,
     "CITY": "RAJPURA",
     "MICR CODE": "192051105",
+    "STD CODE": "1933",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12864,6 +13620,7 @@
     "RTGS": true,
     "CITY": "RAMBAN",
     "MICR CODE": "182051301",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12881,6 +13638,7 @@
     "RTGS": true,
     "CITY": "RAMGARH",
     "MICR CODE": "180051057",
+    "STD CODE": "1923",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12898,6 +13656,7 @@
     "RTGS": true,
     "CITY": "RAMKOT",
     "MICR CODE": "184051023",
+    "STD CODE": "1921",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12915,6 +13674,7 @@
     "RTGS": true,
     "CITY": "RAMNAGAR",
     "MICR CODE": "182051010",
+    "STD CODE": "1992",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12932,6 +13692,7 @@
     "RTGS": true,
     "CITY": "RAMNAGAR",
     "MICR CODE": "182051026",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12949,6 +13710,7 @@
     "RTGS": true,
     "CITY": "RANCHI",
     "MICR CODE": "834051002",
+    "STD CODE": "651",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12966,6 +13728,7 @@
     "RTGS": true,
     "CITY": "BADGAM",
     "MICR CODE": "191051023",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -12983,6 +13746,7 @@
     "RTGS": true,
     "CITY": "RANGRETH",
     "MICR CODE": "190051055",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13000,6 +13764,7 @@
     "RTGS": true,
     "CITY": "MATTAN",
     "MICR CODE": "192051039",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13017,6 +13782,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "NA",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13034,6 +13800,7 @@
     "RTGS": true,
     "CITY": "RANSOO",
     "MICR CODE": "182051259",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13051,6 +13818,7 @@
     "RTGS": true,
     "CITY": "RATNIPORA",
     "MICR CODE": "192051109",
+    "STD CODE": "1933",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13068,6 +13836,7 @@
     "RTGS": true,
     "CITY": "RATNIPORA",
     "MICR CODE": "192051211",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13085,6 +13854,7 @@
     "RTGS": true,
     "CITY": "MAGAM",
     "MICR CODE": "191051040",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13102,6 +13872,7 @@
     "RTGS": true,
     "CITY": "KHAN-SAHEB",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13119,6 +13890,7 @@
     "RTGS": true,
     "CITY": "RAWALPORA",
     "MICR CODE": "190051053",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13136,6 +13908,7 @@
     "RTGS": true,
     "CITY": "ANANTNAG",
     "MICR CODE": "192051001",
+    "STD CODE": "1932",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13153,6 +13926,7 @@
     "RTGS": true,
     "CITY": "SOPORE",
     "MICR CODE": "193051101",
+    "STD CODE": "1951",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13170,6 +13944,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "NA",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13187,6 +13962,7 @@
     "RTGS": true,
     "CITY": "REASI",
     "MICR CODE": "182051251",
+    "STD CODE": "1991",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13204,6 +13980,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051054",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13221,6 +13998,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051002",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13238,6 +14016,7 @@
     "RTGS": true,
     "CITY": "KUPWARA",
     "MICR CODE": "193051227",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13255,6 +14034,7 @@
     "RTGS": true,
     "CITY": "RIHAL DHAMALIAN",
     "MICR CODE": "NA",
+    "STD CODE": "1923",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13272,6 +14052,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051021",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13289,6 +14070,7 @@
     "RTGS": true,
     "CITY": "KATHUA",
     "MICR CODE": "184051003",
+    "STD CODE": "1922",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13306,6 +14088,7 @@
     "RTGS": true,
     "CITY": "UDHAMPUR",
     "MICR CODE": "182051005",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13323,6 +14106,7 @@
     "RTGS": true,
     "CITY": "REHAMA",
     "MICR CODE": "193051023",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13340,6 +14124,7 @@
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "110051019",
+    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13357,6 +14142,7 @@
     "RTGS": true,
     "CITY": "ROHMU",
     "MICR CODE": "192051121",
+    "STD CODE": "1933",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13374,6 +14160,7 @@
     "RTGS": true,
     "CITY": "ROHTAK",
     "MICR CODE": "124051002",
+    "STD CODE": "1262",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13384,7 +14171,8 @@
     "MICR CODE": "NA",
     "BRANCH": "ROOP NAGAR",
     "ADDRESS": "1A, SECTOR 2, LOWER ROOP NAGAR, NEAR GREEN LAND PALACE, PO ROOP NAGAR, JAMMU, JK PIN 180013",
-    "CONTACT": "1949697244824",
+    "STD CODE": "194",
+    "CONTACT": "9697244824",
     "CITY": "JAMMU",
     "DISTRICT": "JAMMU",
     "STATE": "JAMMU AND KASHMIR",
@@ -13408,6 +14196,7 @@
     "RTGS": true,
     "CITY": "ROORKEE",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13425,6 +14214,7 @@
     "RTGS": true,
     "CITY": "RANBIR SINGH PORA",
     "MICR CODE": "180051022",
+    "STD CODE": "1923",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13442,6 +14232,7 @@
     "RTGS": true,
     "CITY": "BANGALORE",
     "MICR CODE": "NA",
+    "STD CODE": "180",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13459,6 +14250,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051057",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13476,6 +14268,7 @@
     "RTGS": true,
     "CITY": "ANANTNAG",
     "MICR CODE": "192051005",
+    "STD CODE": "1932",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13493,6 +14286,7 @@
     "RTGS": true,
     "CITY": "SALIA",
     "MICR CODE": "192051054",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13510,6 +14304,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051070",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13527,6 +14322,7 @@
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "110051005",
+    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13544,6 +14340,7 @@
     "RTGS": true,
     "CITY": "BANDIPORA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13561,6 +14358,7 @@
     "RTGS": true,
     "CITY": "GANDER BAL",
     "MICR CODE": "191051106",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13578,6 +14376,7 @@
     "RTGS": true,
     "CITY": "PAMPORE",
     "MICR CODE": "190051047",
+    "STD CODE": "1933",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13588,7 +14387,8 @@
     "MICR CODE": "NA",
     "BRANCH": "SAINIK COLONY",
     "ADDRESS": "SAINIK COLONY PLOT NO 335 SECTOR E JAMMU JK PIN 180011",
-    "CONTACT": "1949419204895",
+    "STD CODE": "194",
+    "CONTACT": "9419204895",
     "CITY": "JAMMU",
     "DISTRICT": "JAMMU",
     "STATE": "JAMMU AND KASHMIR",
@@ -13612,6 +14412,7 @@
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13629,6 +14430,7 @@
     "RTGS": true,
     "CITY": "THANA MANDI",
     "MICR CODE": "185051022",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13646,6 +14448,7 @@
     "RTGS": true,
     "CITY": "PARGWAL",
     "MICR CODE": "180051098",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13663,6 +14466,7 @@
     "RTGS": true,
     "CITY": "AISHMUQAM",
     "MICR CODE": "192051011",
+    "STD CODE": "1936",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13680,6 +14484,7 @@
     "RTGS": true,
     "CITY": "MENDHAR",
     "MICR CODE": "NA",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13697,6 +14502,7 @@
     "RTGS": true,
     "CITY": "URI",
     "MICR CODE": "193051041",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13714,6 +14520,7 @@
     "RTGS": true,
     "CITY": "RANBIR SINGH PORA",
     "MICR CODE": "180051062",
+    "STD CODE": "1923",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13731,6 +14538,7 @@
     "RTGS": true,
     "CITY": "GHAZIABAD",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13748,6 +14556,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051063",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13765,6 +14574,7 @@
     "RTGS": true,
     "CITY": "SUMB",
     "MICR CODE": "180051039",
+    "STD CODE": "1923",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13782,6 +14592,7 @@
     "RTGS": true,
     "CITY": "PULWAMA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13799,6 +14610,7 @@
     "RTGS": true,
     "CITY": "DISKIT-NOBRA",
     "MICR CODE": "194051010",
+    "STD CODE": "1980",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13816,6 +14628,7 @@
     "RTGS": true,
     "CITY": "SURANKOTE",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13833,6 +14646,7 @@
     "RTGS": true,
     "CITY": "SANGALDAN",
     "MICR CODE": "182051019",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13850,6 +14664,7 @@
     "RTGS": true,
     "CITY": "SAGAM",
     "MICR CODE": "192051055",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13867,6 +14682,7 @@
     "RTGS": true,
     "CITY": "MENDHAR",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13884,6 +14700,7 @@
     "RTGS": true,
     "CITY": "SHANGAS(NOWGAM)",
     "MICR CODE": "192051019",
+    "STD CODE": "1932",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13901,6 +14718,7 @@
     "RTGS": true,
     "CITY": "KARGIL",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13918,6 +14736,7 @@
     "RTGS": true,
     "CITY": "AGRA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13935,6 +14754,7 @@
     "RTGS": true,
     "CITY": "KARGIL",
     "MICR CODE": "194051009",
+    "STD CODE": "1985",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13953,6 +14773,7 @@
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR CODE": "400051012",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -13969,6 +14790,7 @@
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "110051018",
+    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -13986,6 +14808,7 @@
     "RTGS": true,
     "CITY": "KISHTWAR",
     "MICR CODE": "182051413",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14003,6 +14826,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051084",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14020,6 +14844,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051069",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14030,7 +14855,8 @@
     "MICR CODE": "NA",
     "BRANCH": "SATHRA",
     "ADDRESS": "VILLAGE & POST OFFICE- SATHRA, TEHSIL-MANDI, DISTRICT-POONCH, J&K, PIN-185102",
-    "CONTACT": "09697241403",
+    "STD CODE": "0",
+    "CONTACT": "9697241403",
     "CITY": "POONCH",
     "DISTRICT": "MANDI",
     "STATE": "JAMMU AND KASHMIR",
@@ -14054,6 +14880,7 @@
     "RTGS": true,
     "CITY": "AHMEDABAD",
     "MICR CODE": "380051003",
+    "STD CODE": "79",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14071,6 +14898,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "NA",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14088,6 +14916,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051036",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14105,6 +14934,7 @@
     "RTGS": true,
     "CITY": "SECUNDERABAD CANTONMENT",
     "MICR CODE": "500051004",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14122,6 +14952,7 @@
     "RTGS": true,
     "CITY": "BANDIPORA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14139,6 +14970,7 @@
     "RTGS": true,
     "CITY": "CHANDIGARH",
     "MICR CODE": "160051001",
+    "STD CODE": "172",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14156,6 +14988,7 @@
     "RTGS": true,
     "CITY": "SERI",
     "MICR CODE": "182051124",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14173,6 +15006,7 @@
     "RTGS": true,
     "CITY": "SEELO",
     "MICR CODE": "193051110",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14190,6 +15024,7 @@
     "RTGS": true,
     "CITY": "NOWSHERA",
     "MICR CODE": "185051006",
+    "STD CODE": "1960",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14207,6 +15042,7 @@
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "110051014",
+    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14224,6 +15060,7 @@
     "RTGS": true,
     "CITY": "SHADIMARG",
     "MICR CODE": "192051110",
+    "STD CODE": "1933",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14241,6 +15078,7 @@
     "RTGS": true,
     "CITY": "BANDIPORA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14258,6 +15096,7 @@
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "110051010",
+    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14275,6 +15114,7 @@
     "RTGS": true,
     "CITY": "RAJOURI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14292,6 +15132,7 @@
     "RTGS": true,
     "CITY": "UDHAMPUR",
     "MICR CODE": "182051002",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14309,6 +15150,7 @@
     "RTGS": true,
     "CITY": "DIALGAM",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14326,6 +15168,7 @@
     "RTGS": true,
     "CITY": "SAHARANPUR",
     "MICR CODE": "247051002",
+    "STD CODE": "132",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14343,6 +15186,7 @@
     "RTGS": true,
     "CITY": "PATNA",
     "MICR CODE": "800051002",
+    "STD CODE": "612",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14360,6 +15204,7 @@
     "RTGS": true,
     "CITY": "SHIREEN",
     "MICR CODE": "193051028",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14370,7 +15215,8 @@
     "MICR CODE": "NA",
     "BRANCH": "SHEY",
     "ADDRESS": "BLOCK CHUCHOT├╜JK PIN 194104",
-    "CONTACT": "19829906991898",
+    "STD CODE": "1982",
+    "CONTACT": "9906991898",
     "CITY": "LEH",
     "DISTRICT": "LEH",
     "STATE": "JAMMU AND KASHMIR",
@@ -14394,6 +15240,7 @@
     "RTGS": true,
     "CITY": "SHERABAD",
     "MICR CODE": "193051017",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14411,6 +15258,7 @@
     "RTGS": true,
     "CITY": "BANDIPORA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14428,6 +15276,7 @@
     "RTGS": true,
     "CITY": "SIMLA",
     "MICR CODE": "171051002",
+    "STD CODE": "177",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14445,6 +15294,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051033",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14462,6 +15312,7 @@
     "RTGS": true,
     "CITY": "UDHAMPUR",
     "MICR CODE": "182051016",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14479,6 +15330,7 @@
     "RTGS": true,
     "CITY": "KISHTWAR",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14496,6 +15348,7 @@
     "RTGS": true,
     "CITY": "BADGAM",
     "MICR CODE": "191051022",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14513,6 +15366,7 @@
     "RTGS": true,
     "CITY": "SHOPIAN",
     "MICR CODE": "192051201",
+    "STD CODE": "1933",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14530,6 +15384,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "191051107",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14547,6 +15402,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051044",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14557,7 +15413,8 @@
     "MICR CODE": "NA",
     "BRANCH": "SHUHAMA ALUSTENG",
     "ADDRESS": "SHUHAMA ALUSTENG, SRINAGAR, JK PIN 190006",
-    "CONTACT": "1942262012",
+    "STD CODE": "194",
+    "CONTACT": "2262012",
     "CITY": "SRINAGAR",
     "DISTRICT": "SRINAGAR",
     "STATE": "JAMMU AND KASHMIR",
@@ -14581,6 +15438,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051036",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14598,6 +15456,7 @@
     "RTGS": true,
     "CITY": "KISHTWAR",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14615,6 +15474,7 @@
     "RTGS": true,
     "CITY": "AISHMUQAM",
     "MICR CODE": "192051068",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14632,6 +15492,7 @@
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "110051003",
+    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14649,6 +15510,7 @@
     "RTGS": true,
     "CITY": "HIRA NAGAR MORE",
     "MICR CODE": "184051012",
+    "STD CODE": "1922",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14666,6 +15528,7 @@
     "RTGS": true,
     "CITY": "TRAL",
     "MICR CODE": "192051130",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14683,6 +15546,7 @@
     "RTGS": true,
     "CITY": "SINGHPORA",
     "MICR CODE": "193051016",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14694,12 +15558,13 @@
     "DISTRICT": "ANANTNAG",
     "STATE": "JAMMU AND KASHMIR",
     "ADDRESS": "SIRHAMA DISTRICT ANANTNAG, J&K PIN CODE 192401",
-    "CONTACT": "09858408215",
+    "CONTACT": "9858408215",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SHRIGOPHWARA",
     "MICR CODE": "192051058",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14717,6 +15582,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "NA",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14734,6 +15600,7 @@
     "RTGS": true,
     "CITY": "LEH",
     "MICR CODE": "194051002",
+    "STD CODE": "1982",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14751,6 +15618,7 @@
     "RTGS": true,
     "CITY": "SEER KANLIGUND",
     "MICR CODE": "192051030",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14768,6 +15636,7 @@
     "RTGS": true,
     "CITY": "POONCH",
     "MICR CODE": "185051111",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14785,6 +15654,7 @@
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR CODE": "NA",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14802,6 +15672,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051058",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14819,6 +15690,7 @@
     "RTGS": true,
     "CITY": "SHALAMAR",
     "MICR CODE": "190051064",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14836,6 +15708,7 @@
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "110051027",
+    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14853,6 +15726,7 @@
     "RTGS": true,
     "CITY": "MAGAM(HANDWARA)",
     "MICR CODE": "193051303",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14870,6 +15744,7 @@
     "RTGS": true,
     "CITY": "UDHAMPUR",
     "MICR CODE": "182051202",
+    "STD CODE": "1991",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14887,6 +15762,7 @@
     "RTGS": true,
     "CITY": "LEH",
     "MICR CODE": "194051026",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14904,6 +15780,7 @@
     "RTGS": true,
     "CITY": "SOGAM",
     "MICR CODE": "193051209",
+    "STD CODE": "1955",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14921,6 +15798,7 @@
     "RTGS": true,
     "CITY": "SOHAL",
     "MICR CODE": "180051063",
+    "STD CODE": "1924",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14938,6 +15816,7 @@
     "RTGS": true,
     "CITY": "SOIBUG",
     "MICR CODE": "191051019",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14955,6 +15834,7 @@
     "RTGS": true,
     "CITY": "SOLAN",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14972,6 +15852,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051065",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -14989,6 +15870,7 @@
     "RTGS": true,
     "CITY": "KUNZAR",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15006,6 +15888,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051082",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15023,6 +15906,7 @@
     "RTGS": true,
     "CITY": "SURAT",
     "MICR CODE": "395051002",
+    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15040,6 +15924,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051066",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15057,6 +15942,7 @@
     "RTGS": true,
     "CITY": "SOPORE",
     "MICR CODE": "193051111",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15074,6 +15960,7 @@
     "RTGS": true,
     "CITY": "BARAMULLA",
     "MICR CODE": "193051004",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15091,6 +15978,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051003",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15108,6 +15996,7 @@
     "RTGS": true,
     "CITY": "SHRIGOPHWARA",
     "MICR CODE": "192051024",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15125,6 +16014,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051059",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15142,6 +16032,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051024",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15159,6 +16050,7 @@
     "RTGS": true,
     "CITY": "SUMBAL",
     "MICR CODE": "193051008",
+    "STD CODE": "1954",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15176,6 +16068,7 @@
     "RTGS": true,
     "CITY": "LASJAN",
     "MICR CODE": "NA",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15193,6 +16086,7 @@
     "RTGS": true,
     "CITY": "SUNDER BANI",
     "MICR CODE": "185051007",
+    "STD CODE": "1960",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15210,6 +16104,7 @@
     "RTGS": true,
     "CITY": "CHADURA",
     "MICR CODE": "191051030",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15227,6 +16122,7 @@
     "RTGS": true,
     "CITY": "SAMBA",
     "MICR CODE": "180051079",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15244,6 +16140,7 @@
     "RTGS": true,
     "CITY": "SURANKOTE",
     "MICR CODE": "185051102",
+    "STD CODE": "1965",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15261,6 +16158,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "NA",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15278,6 +16176,7 @@
     "RTGS": true,
     "CITY": "THAB",
     "MICR CODE": "192051125",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15295,6 +16194,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15312,6 +16212,7 @@
     "RTGS": true,
     "CITY": "RAJOURI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15329,6 +16230,7 @@
     "RTGS": true,
     "CITY": "SINGHPORA KALAN",
     "MICR CODE": "193051033",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15346,6 +16248,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051068",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15363,6 +16266,7 @@
     "RTGS": true,
     "CITY": "TARATPORA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15380,6 +16284,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051005",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15397,6 +16302,7 @@
     "RTGS": true,
     "CITY": "KULGAM",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15414,6 +16320,7 @@
     "RTGS": true,
     "CITY": "BARAMULLA",
     "MICR CODE": "193051109",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15425,12 +16332,13 @@
     "DISTRICT": "CHENNAI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "RAINBOW ARCADE, NO.60, PONDY BAZAR, T.NAGAR, CHENNAI- 600017 (T.N)",
-    "CONTACT": "4424313851",
+    "CONTACT": "24313851",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "600051004",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15448,6 +16356,7 @@
     "RTGS": true,
     "CITY": "ACHABAL",
     "MICR CODE": "192051066",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15465,6 +16374,7 @@
     "RTGS": true,
     "CITY": "BARAMULLA",
     "MICR CODE": "193051001",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15482,6 +16392,7 @@
     "RTGS": true,
     "CITY": "SKUR BUCHAN",
     "MICR CODE": "194051028",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15499,6 +16410,7 @@
     "RTGS": true,
     "CITY": "MAJITHA",
     "MICR CODE": "143051003",
+    "STD CODE": "183",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15516,6 +16428,7 @@
     "RTGS": true,
     "CITY": "SARTENGAL",
     "MICR CODE": "182051113",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15533,6 +16446,7 @@
     "RTGS": true,
     "CITY": "BANIHAL",
     "MICR CODE": "182051307",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15550,6 +16464,7 @@
     "RTGS": true,
     "CITY": "RAJOURI",
     "MICR CODE": "185051005",
+    "STD CODE": "1962",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15567,6 +16482,7 @@
     "RTGS": true,
     "CITY": "THATRI",
     "MICR CODE": "182051109",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15584,6 +16500,7 @@
     "RTGS": true,
     "CITY": "PULWAMA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15601,6 +16518,7 @@
     "RTGS": true,
     "CITY": "TIKRI",
     "MICR CODE": "182051011",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15618,6 +16536,7 @@
     "RTGS": true,
     "CITY": "KISHTWAR",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15635,6 +16554,7 @@
     "RTGS": true,
     "CITY": "TANGDAR",
     "MICR CODE": "193051207",
+    "STD CODE": "1958",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15652,6 +16572,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051025",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15669,6 +16590,7 @@
     "RTGS": true,
     "CITY": "PULWAMA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15686,6 +16608,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051033",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15703,6 +16626,7 @@
     "RTGS": true,
     "CITY": "TOOTAN-DI-KHUI",
     "MICR CODE": "180051054",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15720,6 +16644,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051058",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15737,6 +16662,7 @@
     "RTGS": true,
     "CITY": "BANDIPORA",
     "MICR CODE": "193051402",
+    "STD CODE": "1957",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15754,6 +16680,7 @@
     "RTGS": true,
     "CITY": "ANANTNAG",
     "MICR CODE": "192051049",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15765,12 +16692,13 @@
     "DISTRICT": "THIRUVANANTHAPURAM",
     "STATE": "KERALA",
     "ADDRESS": "T.C. NO. 28/2222 (4) M.G. ROAD,PAZHAVANGODI, P O FORT, THIRUVANATHAPURAM-695023",
-    "CONTACT": "4712468337",
+    "CONTACT": "2468337",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "THIRUVANANTHAPURAM",
     "MICR CODE": "695051002",
+    "STD CODE": "471",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15788,6 +16716,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051067",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15805,6 +16734,7 @@
     "RTGS": true,
     "CITY": "PINJOORA",
     "MICR CODE": "192051129",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15822,6 +16752,7 @@
     "RTGS": true,
     "CITY": "TREHGAM",
     "MICR CODE": "193051210",
+    "STD CODE": "1955",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15839,6 +16770,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051026",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15849,7 +16781,8 @@
     "MICR CODE": "NA",
     "BRANCH": "MARBLE MARKET",
     "ADDRESS": "MARBLE MARKET, TRIKURA NAGAR, JAMMU, JK, PIN 180020",
-    "CONTACT": "1949469370050",
+    "STD CODE": "194",
+    "CONTACT": "9469370050",
     "CITY": "JAMMU",
     "DISTRICT": "JAMMU",
     "STATE": "JAMMU AND KASHMIR",
@@ -15873,6 +16806,7 @@
     "RTGS": true,
     "CITY": "KARGIL",
     "MICR CODE": "194051020",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15890,6 +16824,7 @@
     "RTGS": true,
     "CITY": "SOPORE",
     "MICR CODE": "193051106",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15907,6 +16842,7 @@
     "RTGS": true,
     "CITY": "TSURU",
     "MICR CODE": "194051014",
+    "STD CODE": "1985",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15924,6 +16860,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051050",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15935,12 +16872,13 @@
     "DISTRICT": "JAMMU",
     "STATE": "JAMMU AND KASHMIR",
     "ADDRESS": "JAMMU AND KASHMIR BANK LTD. TALAB TILLO JAMMU 180002",
-    "CONTACT": "1912505294",
+    "CONTACT": "2505294",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "TALAB-TILLO",
     "MICR CODE": "180051024",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15951,7 +16889,8 @@
     "MICR CODE": "NA",
     "BRANCH": "TALAB TILLO",
     "ADDRESS": "JAMMU AND KASHMIR BANK LTD  TALAB TILLO JAMMU 180002",
-    "CONTACT": "00",
+    "STD CODE": "0",
+    "CONTACT": null,
     "CITY": "JAMMU",
     "DISTRICT": "JAMMU",
     "STATE": "JAMMU AND KASHMIR",
@@ -15975,6 +16914,7 @@
     "RTGS": true,
     "CITY": "TUJAR SHARIF",
     "MICR CODE": "193051032",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -15986,12 +16926,13 @@
     "DISTRICT": "BANDIPORA",
     "STATE": "JAMMU AND KASHMIR",
     "ADDRESS": "BADUGAM TULAIL, DISTRICT BANDIPORA, J&K",
-    "CONTACT": "09469785996",
+    "CONTACT": "9469785996",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BANDIPORA",
     "MICR CODE": "193051406",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16009,6 +16950,7 @@
     "RTGS": true,
     "CITY": "PULWAMA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16026,6 +16968,7 @@
     "RTGS": true,
     "CITY": "BANIHAL",
     "MICR CODE": "182051304",
+    "STD CODE": "1998",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16043,6 +16986,7 @@
     "RTGS": true,
     "CITY": "SHOPIAN",
     "MICR CODE": "192051207",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16060,6 +17004,7 @@
     "RTGS": true,
     "CITY": "DISKIT-NOBRA",
     "MICR CODE": "194051027",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16077,6 +17022,7 @@
     "RTGS": true,
     "CITY": "URI",
     "MICR CODE": "193051018",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16095,6 +17041,7 @@
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR CODE": "180051081",
+    "STD CODE": "191",
     "NEFT": true,
     "IMPS": true
   },
@@ -16111,6 +17058,7 @@
     "RTGS": true,
     "CITY": "UDHAMPUR",
     "MICR CODE": "182051001",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16128,6 +17076,7 @@
     "RTGS": true,
     "CITY": "UDRANA",
     "MICR CODE": "182051122",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16145,6 +17094,7 @@
     "RTGS": true,
     "CITY": "PANCHAL-UKHRAL",
     "MICR CODE": "182051305",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16162,6 +17112,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "NA",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16179,6 +17130,7 @@
     "RTGS": true,
     "CITY": "LEH",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16196,6 +17148,7 @@
     "RTGS": true,
     "CITY": "BARAMULLA",
     "MICR CODE": "193051039",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16213,6 +17166,7 @@
     "RTGS": true,
     "CITY": "WAILOO",
     "MICR CODE": "192051061",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16230,6 +17184,7 @@
     "RTGS": true,
     "CITY": "VARANASI",
     "MICR CODE": "221051002",
+    "STD CODE": "542",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16241,12 +17196,13 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "The Jammu and Kashmir Bank Ltd, Sarnarth Vaibhav Building, Shop No. 241, Oshiwara, Andheri (West) Mumbai -",
-    "CONTACT": "2266931093",
+    "CONTACT": "66931093",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR CODE": "400051009",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16264,6 +17220,7 @@
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "110051015",
+    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16275,12 +17232,13 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "The Jammu and Kashmir Bank Ltd, A 1/1 Groma Building, Plot No. 140, Sector 19, Vashi Navi Mumbai - Thane 400 705",
-    "CONTACT": "2227354517",
+    "CONTACT": "27354517",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR CODE": "400051007",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16298,6 +17256,7 @@
     "RTGS": true,
     "CITY": "KATRA",
     "MICR CODE": "182051203",
+    "STD CODE": "1991",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16315,6 +17274,7 @@
     "RTGS": true,
     "CITY": "ANANTNAG",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16332,6 +17292,7 @@
     "RTGS": true,
     "CITY": "SHOPIAN",
     "MICR CODE": "192051209",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16349,6 +17310,7 @@
     "RTGS": true,
     "CITY": "VERINAG",
     "MICR CODE": "192051027",
+    "STD CODE": "1932",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16366,6 +17328,7 @@
     "RTGS": true,
     "CITY": "VESU",
     "MICR CODE": "192051060",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16383,6 +17346,7 @@
     "RTGS": true,
     "CITY": "VIJAYPUR(BAJPUR)",
     "MICR CODE": "180051099",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16400,6 +17364,7 @@
     "RTGS": true,
     "CITY": "SAMBA",
     "MICR CODE": "180051035",
+    "STD CODE": "1923",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16417,6 +17382,7 @@
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "110051025",
+    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16434,6 +17400,7 @@
     "RTGS": true,
     "CITY": "WILGAM",
     "MICR CODE": "193051211",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16451,6 +17418,7 @@
     "RTGS": true,
     "CITY": "ZAINAPORA",
     "MICR CODE": "192051212",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16468,6 +17436,7 @@
     "RTGS": true,
     "CITY": "WADURA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16485,6 +17454,7 @@
     "RTGS": true,
     "CITY": "KISHTWAR",
     "MICR CODE": "182051408",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16502,6 +17472,7 @@
     "RTGS": true,
     "CITY": "WAGOORA",
     "MICR CODE": "193051019",
+    "STD CODE": "1952",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16519,6 +17490,7 @@
     "RTGS": true,
     "CITY": "PULWAMA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16530,12 +17502,13 @@
     "DISTRICT": "SRINAGAR",
     "STATE": "JAMMU AND KASHMIR",
     "ADDRESS": "WALIWAR, DISTRICT GANDERBAL, J&K",
-    "CONTACT": "09906805000",
+    "CONTACT": "9906805000",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "LAR",
     "MICR CODE": "191051114",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16553,6 +17526,7 @@
     "RTGS": true,
     "CITY": "WAILOO",
     "MICR CODE": "192051063",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16570,6 +17544,7 @@
     "RTGS": true,
     "CITY": "KANGAN",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16587,6 +17562,7 @@
     "RTGS": true,
     "CITY": "WANPOH",
     "MICR CODE": "192051026",
+    "STD CODE": "1932",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16604,6 +17580,7 @@
     "RTGS": true,
     "CITY": "PULWAMA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16621,6 +17598,7 @@
     "RTGS": true,
     "CITY": "WATRA-HAIL",
     "MICR CODE": "191051021",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16638,6 +17616,7 @@
     "RTGS": true,
     "CITY": "KRALAPORA",
     "MICR CODE": "191051039",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16655,6 +17634,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "191051108",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16672,6 +17652,7 @@
     "RTGS": true,
     "CITY": "SOGAM",
     "MICR CODE": "193051216",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16683,12 +17664,13 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "The Jammu and Kashmir Bank Ltd, Block D North Side, 1st Floor, Shiv Sagar Estate, Annie Besant Road, Worli Mumbai - 18",
-    "CONTACT": "2226384220",
+    "CONTACT": "26384220",
     "BANK": "JAMMU AND KASHMIR BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR CODE": "400051008",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16706,6 +17688,7 @@
     "RTGS": true,
     "CITY": "WATHERGAM",
     "MICR CODE": "193051029",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16723,6 +17706,7 @@
     "RTGS": true,
     "CITY": "BANDIPORA",
     "MICR CODE": "193051501",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16740,6 +17724,7 @@
     "RTGS": true,
     "CITY": "PAMPORE",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16757,6 +17742,7 @@
     "RTGS": true,
     "CITY": "YAMUNANAGAR",
     "MICR CODE": "NA",
+    "STD CODE": "1732",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16774,6 +17760,7 @@
     "RTGS": true,
     "CITY": "YARIPORA",
     "MICR CODE": "192051031",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16791,6 +17778,7 @@
     "RTGS": true,
     "CITY": "YUNIS-WHIPORA",
     "MICR CODE": "193051225",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16808,6 +17796,7 @@
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "110051032",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16825,6 +17814,7 @@
     "RTGS": true,
     "CITY": "BIJBEHARA",
     "MICR CODE": "192051028",
+    "STD CODE": "1932",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16842,6 +17832,7 @@
     "RTGS": true,
     "CITY": "ZACHALDARA",
     "MICR CODE": "193051222",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16859,6 +17850,7 @@
     "RTGS": true,
     "CITY": "ZAKURA",
     "MICR CODE": "190051072",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16876,6 +17868,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051073",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16893,6 +17886,7 @@
     "RTGS": true,
     "CITY": "LEH",
     "MICR CODE": "194051004",
+    "STD CODE": "1982",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16910,6 +17904,7 @@
     "RTGS": true,
     "CITY": "ZAINAKOTE",
     "MICR CODE": "190051071",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16927,6 +17922,7 @@
     "RTGS": true,
     "CITY": "ZAINAPORA",
     "MICR CODE": "192051116",
+    "STD CODE": "1933",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16945,6 +17941,7 @@
     "RTGS": true,
     "CITY": "SAHIBZADA AJIT SINGH NAGAR",
     "MICR CODE": "160051004",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -16962,6 +17959,7 @@
     "RTGS": true,
     "CITY": "BANGLORE",
     "MICR CODE": "NA",
+    "STD CODE": "80",
     "NEFT": true,
     "IMPS": true
   },
@@ -16978,6 +17976,7 @@
     "RTGS": true,
     "CITY": "SOPORE",
     "MICR CODE": "NA",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -16995,6 +17994,7 @@
     "RTGS": true,
     "CITY": "UDHAMPUR",
     "MICR CODE": "NA",
+    "STD CODE": "1992",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -17012,6 +18012,7 @@
     "RTGS": true,
     "CITY": "KATHUA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -17029,6 +18030,7 @@
     "RTGS": true,
     "CITY": "ANANTNAG",
     "MICR CODE": "NA",
+    "STD CODE": "1932",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -17046,6 +18048,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -17063,6 +18066,7 @@
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR CODE": "190051074",
+    "STD CODE": "194",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -17080,6 +18084,7 @@
     "RTGS": true,
     "CITY": "PULWAMA",
     "MICR CODE": "NA",
+    "STD CODE": "1933",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -17097,6 +18102,7 @@
     "RTGS": true,
     "CITY": "RAJOURI",
     "MICR CODE": "NA",
+    "STD CODE": "1962",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -17114,6 +18120,7 @@
     "RTGS": true,
     "CITY": "DODA",
     "MICR CODE": "NA",
+    "STD CODE": "1996",
     "NEFT": true,
     "IMPS": true,
     "MICR": null

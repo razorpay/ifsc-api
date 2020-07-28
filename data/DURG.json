@@ -12,6 +12,7 @@
     "RTGS": true,
     "CITY": "DURGAPUR",
     "MICR CODE": "NA",
+    "STD CODE": "343",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -29,6 +30,7 @@
     "RTGS": true,
     "CITY": "DURGAPUR",
     "MICR CODE": "NA",
+    "STD CODE": "343",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -47,6 +49,7 @@
     "RTGS": true,
     "CITY": "DURGAPUR",
     "MICR CODE": "713836203",
+    "STD CODE": "343",
     "NEFT": true,
     "IMPS": true
   },
@@ -64,6 +67,7 @@
     "RTGS": true,
     "CITY": "DURGAPUR",
     "MICR CODE": "713836204",
+    "STD CODE": "343",
     "NEFT": true,
     "IMPS": true
   },
@@ -74,13 +78,14 @@
     "DISTRICT": "PASCHIM BARDHAMAN",
     "STATE": "WEST BENGAL",
     "ADDRESS": "YURIGAGARIN PATH MRITYUNJOY HOUSING COMPLEX",
-    "CONTACT": "00",
+    "CONTACT": null,
     "MICR": "713836205",
     "BANK": "DURGAPUR STEEL PEOPLES CO-OPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "DURGAPUR",
     "MICR CODE": "713836205",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -98,6 +103,7 @@
     "RTGS": true,
     "CITY": "DURGAPUR",
     "MICR CODE": "713836207",
+    "STD CODE": "343",
     "NEFT": true,
     "IMPS": true
   }

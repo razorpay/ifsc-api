@@ -12,6 +12,7 @@
     "RTGS": true,
     "CITY": "IRINJALAKUDA",
     "MICR CODE": "NA",
+    "STD CODE": "480",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -29,6 +30,7 @@
     "RTGS": true,
     "CITY": "IRINJALAKUDA",
     "MICR CODE": "NA",
+    "STD CODE": "480",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -47,6 +49,7 @@
     "RTGS": true,
     "CITY": "IRINJALAKUDA",
     "MICR CODE": "680814203",
+    "STD CODE": "480",
     "NEFT": true,
     "IMPS": true
   },
@@ -64,6 +67,7 @@
     "RTGS": true,
     "CITY": "THALORE",
     "MICR CODE": "680814209",
+    "STD CODE": "487",
     "NEFT": true,
     "IMPS": true
   },
@@ -81,6 +85,7 @@
     "RTGS": true,
     "CITY": "MALA",
     "MICR CODE": "680814204",
+    "STD CODE": "480",
     "NEFT": true,
     "IMPS": true
   },
@@ -98,6 +103,7 @@
     "RTGS": true,
     "CITY": "CHALAKUDY",
     "MICR CODE": "680814208",
+    "STD CODE": "480",
     "NEFT": true,
     "IMPS": true
   },
@@ -115,6 +121,7 @@
     "RTGS": true,
     "CITY": "KODAKARA",
     "MICR CODE": "680814207",
+    "STD CODE": "480",
     "NEFT": true,
     "IMPS": true
   },
@@ -132,6 +139,7 @@
     "RTGS": true,
     "CITY": "AMBALLOOR",
     "MICR CODE": "680814206",
+    "STD CODE": "480",
     "NEFT": true,
     "IMPS": true
   },
@@ -149,6 +157,7 @@
     "RTGS": true,
     "CITY": "VELLANGALLOOR",
     "MICR CODE": "680814205",
+    "STD CODE": "480",
     "NEFT": true,
     "IMPS": true
   },
@@ -166,6 +175,7 @@
     "RTGS": true,
     "CITY": "KORATTY",
     "MICR CODE": "680814212",
+    "STD CODE": "480",
     "NEFT": true,
     "IMPS": true
   },
@@ -183,6 +193,7 @@
     "RTGS": true,
     "CITY": "KARUVANNUR",
     "MICR CODE": "680814211",
+    "STD CODE": "480",
     "NEFT": true,
     "IMPS": true
   },
@@ -200,6 +211,7 @@
     "RTGS": true,
     "CITY": "KATTOOR",
     "MICR CODE": "680814210",
+    "STD CODE": "480",
     "NEFT": true,
     "IMPS": true
   },
@@ -217,6 +229,7 @@
     "RTGS": true,
     "CITY": "KODALY",
     "MICR CODE": "680814213",
+    "STD CODE": "480",
     "NEFT": true,
     "IMPS": true
   },
@@ -234,6 +247,7 @@
     "RTGS": true,
     "CITY": "ALOOR",
     "MICR CODE": "680814215",
+    "STD CODE": "480",
     "NEFT": true,
     "IMPS": true
   },
@@ -251,6 +265,7 @@
     "RTGS": true,
     "CITY": "ANNAMANADA",
     "MICR CODE": "680814214",
+    "STD CODE": "480",
     "NEFT": true,
     "IMPS": true
   },
@@ -268,6 +283,7 @@
     "RTGS": true,
     "CITY": "WADAKKANCHERY",
     "MICR CODE": "680814216",
+    "STD CODE": "4884",
     "NEFT": true,
     "IMPS": true
   },
@@ -285,6 +301,7 @@
     "RTGS": true,
     "CITY": "CHELAKKARA",
     "MICR CODE": "680814217",
+    "STD CODE": "4884",
     "NEFT": true,
     "IMPS": true
   },
@@ -295,13 +312,14 @@
     "DISTRICT": "THRISSUR",
     "STATE": "KERALA",
     "ADDRESS": "NEAR GOVT HOSPITAL,ERUMAPETTY,680584",
-    "CONTACT": "00",
+    "CONTACT": null,
     "MICR": "680814218",
     "BANK": "IRINJALAKUDA TOWN CO-OPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "ERUMAPETTY",
     "MICR CODE": "680814218",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -319,6 +337,7 @@
     "RTGS": true,
     "CITY": "ATHANI",
     "MICR CODE": "680814219",
+    "STD CODE": "487",
     "NEFT": true,
     "IMPS": true
   },
@@ -336,6 +355,7 @@
     "RTGS": true,
     "CITY": "CHERUTHURUTHI",
     "MICR CODE": "680814220",
+    "STD CODE": "4884",
     "NEFT": true,
     "IMPS": true
   }
