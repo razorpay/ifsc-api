@@ -13,6 +13,7 @@
     "UPI": false,
     "MICR": "110040002",
     "RTGS": true,
+    "MICR CODE": "110040002",
     "NEFT": true
   },
   "SMBC0000002": {
@@ -28,6 +29,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
+    "MICR CODE": "400040002",
     "NEFT": true,
     "IMPS": true
   }

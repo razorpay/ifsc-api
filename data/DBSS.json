@@ -13,6 +13,7 @@
     "UPI": true,
     "MICR": "400641002",
     "RTGS": true,
+    "MICR CODE": "400641002",
     "NEFT": true
   },
   "DBSS0IN0820": {
@@ -28,6 +29,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NEW DELHI",
+    "MICR CODE": "110641002",
     "NEFT": true,
     "IMPS": true
   },
@@ -44,6 +46,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
+    "MICR CODE": "600641002",
     "NEFT": true,
     "IMPS": true
   },
@@ -60,6 +63,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
+    "MICR CODE": "560641002",
     "NEFT": true,
     "IMPS": true
   },
@@ -76,6 +80,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATTA",
+    "MICR CODE": "700641002",
     "NEFT": true,
     "IMPS": true
   },
@@ -92,6 +97,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NASIK",
+    "MICR CODE": "422641002",
     "NEFT": true,
     "IMPS": true
   },
@@ -108,6 +114,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
+    "MICR CODE": "411641002",
     "NEFT": true,
     "IMPS": true
   },
@@ -124,6 +131,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
+    "MICR CODE": "395641002",
     "NEFT": true,
     "IMPS": true
   },
@@ -140,6 +148,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SALEM",
+    "MICR CODE": "636641002",
     "NEFT": true,
     "IMPS": true
   },
@@ -156,6 +165,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MORADABAD",
+    "MICR CODE": "244641002",
     "NEFT": true,
     "IMPS": true
   },
@@ -172,6 +182,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLHAPUR",
+    "MICR CODE": "416641002",
     "NEFT": true,
     "IMPS": true
   },
@@ -188,6 +199,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CUDDALORE",
+    "MICR CODE": "605641002",
     "NEFT": true,
     "IMPS": true
   },
@@ -204,6 +216,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ANDHERI",
+    "MICR CODE": "400641003",
     "NEFT": true,
     "IMPS": true
   },
@@ -220,6 +233,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VIKHROLI",
+    "MICR CODE": "400641004",
     "NEFT": true,
     "IMPS": true
   },
@@ -236,6 +250,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
+    "MICR CODE": "380641002",
     "NEFT": true,
     "IMPS": true
   },
@@ -252,6 +267,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
+    "MICR CODE": "500641002",
     "NEFT": true,
     "IMPS": true
   },
@@ -268,6 +284,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NOIDA",
+    "MICR CODE": "110641004",
     "NEFT": true,
     "IMPS": true
   },
@@ -284,6 +301,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GURGAON",
+    "MICR CODE": "110641003",
     "NEFT": true,
     "IMPS": true
   },
@@ -300,6 +318,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
+    "MICR CODE": "641641002",
     "NEFT": true,
     "IMPS": true
   },
@@ -316,6 +335,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "INDORE",
+    "MICR CODE": "452641001",
     "NEFT": true,
     "IMPS": true
   },
@@ -332,6 +352,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VADODARA",
+    "MICR CODE": "390641002",
     "NEFT": true,
     "IMPS": true
   },
@@ -348,6 +369,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "LUDHIANA",
+    "MICR CODE": "141641002",
     "NEFT": true,
     "IMPS": true
   },
@@ -364,24 +386,26 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHINCHWAD",
+    "MICR CODE": "411641003",
     "NEFT": true,
     "IMPS": true
   },
   "DBSS0IN0867": {
-    "BANK": "DBS BANK INDIA LIMITED",
     "IFSC": "DBSS0IN0867",
     "BRANCH": "BHUBANESHWAR",
-    "ADDRESS": "UNIT NO 301,ESPLANADE ONE MALL,721 RASULGARH,BHUBANESHWAR - 751010",
-    "CONTACT": null,
-    "CITY": "BHUBANESHWAR",
+    "CENTRE": "BHUBANESHWAR",
     "DISTRICT": "BHUBANESHWAR",
     "STATE": "ODISHA",
-    "NEFT": true,
-    "CENTRE": "NA",
+    "ADDRESS": "UNIT NO 301,ESPLANADE ONE MALL,721 RASULGARH,BHUBANESHWAR - 751010",
+    "CONTACT": "00",
+    "MICR": "751641002",
+    "BANK": "DEVELOPMENT BANK OF SINGAPORE",
     "UPI": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "RTGS": true,
+    "CITY": "BHUBANESHWAR",
+    "MICR CODE": "751641002",
+    "NEFT": true,
+    "IMPS": true
   },
   "DBSS0IN0868": {
     "IFSC": "DBSS0IN0868",
@@ -396,6 +420,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VASHI",
+    "MICR CODE": "400641005",
     "NEFT": true,
     "IMPS": true
   },
@@ -412,31 +437,34 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAJKOT",
+    "MICR CODE": "360641002",
     "NEFT": true,
     "IMPS": true
   },
   "DBSS0IN0871": {
-    "BANK": "DBS BANK INDIA LIMITED",
     "IFSC": "DBSS0IN0871",
     "BRANCH": "NAGPUR",
-    "ADDRESS": "GROUND FLOOR, IMPERIAL COURT, H NO.373,RANGOLE MARG, KHARE TOWN,DHARAMPETH, NAGPUR-440010",
-    "CONTACT": null,
-    "CITY": "NAGPUR",
+    "CENTRE": "NAGPUR",
     "DISTRICT": "NAGPUR",
     "STATE": "MAHARASHTRA",
-    "NEFT": true,
-    "CENTRE": "NA",
+    "ADDRESS": "GROUND FLOOR, IMPERIAL COURT, H NO.373,RANGOLE MARG, KHARE TOWN,DHARAMPETH, NAGPUR-440010",
+    "CONTACT": "00",
+    "MICR": "440641002",
+    "BANK": "DEVELOPMENT BANK OF SINGAPORE",
     "UPI": true,
-    "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "RTGS": true,
+    "CITY": "NAGPUR",
+    "MICR CODE": "440641002",
+    "NEFT": true,
+    "IMPS": true
   },
   "DBSS0IN0873": {
     "BANK": "DBS BANK INDIA LIMITED",
     "IFSC": "DBSS0IN0873",
+    "MICR CODE": "302641002",
     "BRANCH": "JAIPUR",
     "ADDRESS": "UNIT NO. G5 TO 8,GROUND FLOOR,FELICITY TOWER,PLOT NO.1,SHANKAR MARG,LAL KOTHI, JAIPUR-302015",
-    "CONTACT": "2740181",
+    "CONTACT": "1412740181",
     "CITY": "JAIPUR",
     "DISTRICT": "JAIPUR",
     "STATE": "RAJASTHAN",
@@ -460,6 +488,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLHAPUR",
+    "MICR CODE": "416641501",
     "NEFT": true,
     "IMPS": true
   },
@@ -476,6 +505,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLHAPUR",
+    "MICR CODE": "416641502",
     "NEFT": true,
     "IMPS": true
   },
@@ -492,6 +522,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLHAPUR",
+    "MICR CODE": "416641503",
     "NEFT": true,
     "IMPS": true
   },
@@ -508,6 +539,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLHAPUR",
+    "MICR CODE": "416641504",
     "NEFT": true,
     "IMPS": true
   },
@@ -524,6 +556,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLHAPUR",
+    "MICR CODE": "416641505",
     "NEFT": true,
     "IMPS": true
   },
@@ -540,6 +573,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLHAPUR",
+    "MICR CODE": "416641506",
     "NEFT": true,
     "IMPS": true
   },
@@ -556,6 +590,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLHAPUR",
+    "MICR CODE": "416641507",
     "NEFT": true,
     "IMPS": true
   },

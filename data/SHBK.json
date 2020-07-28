@@ -7,12 +7,13 @@
     "DISTRICT": "MUMBAI",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Peninsula Corporate Park, 701,702, Tower 1, Ganpatrao Kadam Marg, Lower Parel, Mumbai 400013",
-    "CONTACT": "61992000",
+    "CONTACT": "2261992000",
     "IMPS": true,
     "CITY": "MUMBAI",
     "UPI": false,
     "MICR": "400659002",
     "RTGS": true,
+    "MICR CODE": "400659002",
     "NEFT": true
   },
   "SHBK0000002": {
@@ -38,12 +39,13 @@
     "DISTRICT": "MUMBAI",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Unit No 001, Ground Floor, Peninsula Tower 1, Peninsula Corporate Park, G K Marg, Lower Parel, Mumbai  400 013",
-    "CONTACT": "61992000",
+    "CONTACT": "2261992000",
     "MICR": "400659002",
     "BANK": "SHINHAN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
+    "MICR CODE": "400659002",
     "NEFT": true,
     "IMPS": true
   },
@@ -60,6 +62,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "NEW DELHI",
+    "MICR CODE": "110017254",
     "NEFT": true,
     "IMPS": true
   },
@@ -70,11 +73,12 @@
     "DISTRICT": "VELLORE",
     "STATE": "TAMIL NADU",
     "ADDRESS": "SHINHAN BANK, NO. 8 THIRUMALAI MUDALI STREET, WALAJPET 632 513, VELLORE DISTRICT, TAMILNADU",
-    "CONTACT": "278200",
+    "CONTACT": "4172278200",
     "BANK": "SHINHAN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "WALAJAPET",
+    "MICR CODE": "632659102",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -91,6 +95,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "PUNE",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -107,6 +112,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "RANGA REDDY",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -123,6 +129,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "AHMEDABAD",
+    "MICR CODE": "NA",
     "NEFT": true,
     "IMPS": true,
     "MICR": null

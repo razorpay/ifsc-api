@@ -1,0 +1,35 @@
+{
+  "KBKB0000001": {
+    "IFSC": "KBKB0000001",
+    "BRANCH": "GURUGRAM BRANCH",
+    "CENTRE": "GURUGRAM",
+    "DISTRICT": "GURUGRAM",
+    "STATE": "HARYANA",
+    "ADDRESS": "UNIT 2B/2, 2nd FLOOR, TWO HORIZON CENTER, GOLF COURSE ROAD, PHASE 5, SECTOR 43, GURUGRAM 122002",
+    "CONTACT": "4532222",
+    "MICR": "110240273",
+    "BANK": "KOOKMIN BANK",
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "GURUGRAM",
+    "MICR CODE": "110240273",
+    "NEFT": true,
+    "IMPS": true
+  },
+  "KBKB00000SC": {
+    "IFSC": "KBKB00000SC",
+    "BRANCH": "NEFT SERVICE CENTER",
+    "CENTRE": "GURUGRAM",
+    "DISTRICT": "GURUGRAM",
+    "STATE": "HARYANA",
+    "ADDRESS": "UNIT 2B/2, 2nd FLOOR, TWO HORIZON CENTER, GOLF COURSE ROAD, PHASE 5, SECTOR 43, GURUGRAM 122002",
+    "CONTACT": "4532222",
+    "BANK": "KOOKMIN BANK",
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "GURUGRAM",
+    "NEFT": false,
+    "IMPS": true,
+    "MICR": null
+  }
+}
