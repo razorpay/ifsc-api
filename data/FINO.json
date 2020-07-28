@@ -13,6 +13,7 @@
     "UPI": true,
     "RTGS": true,
     "MICR CODE": "NA",
+    "STD CODE": "22",
     "NEFT": true,
     "MICR": null
   },
@@ -29,6 +30,7 @@
     "RTGS": true,
     "CITY": "THANA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -46,6 +48,7 @@
     "RTGS": true,
     "CITY": "NORTH WEST DELHI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -64,6 +67,7 @@
     "RTGS": true,
     "CITY": "RANGAREDDI",
     "MICR CODE": "500771006",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -81,23 +85,8 @@
     "RTGS": true,
     "CITY": "AHMEDABAD",
     "MICR CODE": "380771002",
+    "STD CODE": "0",
     "NEFT": true,
-    "IMPS": true
-  },
-  "FINO0001010": {
-    "IFSC": "FINO0001010",
-    "BRANCH": "KALAMB",
-    "CENTRE": "OSMANABAD",
-    "DISTRICT": "OSMANABAD",
-    "STATE": "MAHARASHTRA",
-    "ADDRESS": "ASHIRWAD NIVAS,NEAR ICICI BANK,DHOKI ROAD,KALAMB 413507",
-    "CONTACT": "09850412704",
-    "MICR": "413882603",
-    "BANK": "FINO PAYMENTS BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "OSMANABAD",
-    "NEFT": false,
     "IMPS": true
   },
   "FINO0001012": {
@@ -113,6 +102,7 @@
     "RTGS": true,
     "CITY": "KHAGARIA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -130,6 +120,7 @@
     "RTGS": true,
     "CITY": "SARAN",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -148,6 +139,7 @@
     "RTGS": true,
     "CITY": "VALSAD",
     "MICR CODE": "396771151",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -165,6 +157,7 @@
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR CODE": "500771003",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -182,6 +175,7 @@
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR CODE": "500771002",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -199,6 +193,7 @@
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR CODE": "500771004",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -215,6 +210,7 @@
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -233,6 +229,7 @@
     "RTGS": true,
     "CITY": "SANGANEER",
     "MICR CODE": "302771002",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -249,6 +246,7 @@
     "RTGS": true,
     "CITY": "GAUTAM BUDDHA NAGAR",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -266,6 +264,7 @@
     "RTGS": true,
     "CITY": "THANA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -283,6 +282,7 @@
     "RTGS": true,
     "CITY": "THANA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -300,6 +300,7 @@
     "RTGS": true,
     "CITY": "PUNE",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -317,23 +318,8 @@
     "RTGS": true,
     "CITY": "MUZAFFARPUR",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
-  },
-  "FINO0001051": {
-    "IFSC": "FINO0001051",
-    "BRANCH": "AKKALKOT",
-    "CENTRE": "SOLAPUR",
-    "DISTRICT": "SOLAPUR",
-    "STATE": "MAHARASHTRA",
-    "ADDRESS": "C/O HOUSE NO2059,FATTESINGH CHOWK,NEAR IDBI BANK,MAIN ROAD AKKALKOT 413216",
-    "CONTACT": "07588386072",
-    "BANK": "FINO PAYMENTS BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "SOLAPUR",
-    "NEFT": false,
     "IMPS": true,
     "MICR": null
   },
@@ -343,7 +329,8 @@
     "MICR CODE": "NA",
     "BRANCH": "MUDHALTITTA",
     "ADDRESS": "BORAVADE,MAIN CIRCLE,BEHIND HOTEL,JANATA MUDHALTITTA,MUDHALTITTA,PANCHGAON BORAVADE BO",
-    "CONTACT": "00",
+    "STD CODE": "0",
+    "CONTACT": null,
     "CITY": "KOLHAPUR",
     "DISTRICT": "KOLHAPUR",
     "STATE": "MAHARASHTRA",
@@ -367,6 +354,7 @@
     "RTGS": true,
     "CITY": "NORTH DELHI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -385,6 +373,7 @@
     "RTGS": true,
     "CITY": "ALWAR",
     "MICR CODE": "301771002",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -401,6 +390,7 @@
     "RTGS": true,
     "CITY": "BEGUSARAI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -411,7 +401,8 @@
     "MICR CODE": "NA",
     "BRANCH": "BAMBAVADE",
     "ADDRESS": "AT POST BAMBAWADE DIST KOLHAPUR,NEAR BUS STAND AND POLICE STATION,MAHARASHTRA 416213",
-    "CONTACT": "00",
+    "STD CODE": "0",
+    "CONTACT": null,
     "CITY": "KOLHAPUR",
     "DISTRICT": "KOLHAPUR",
     "STATE": "MAHARASHTRA",
@@ -435,6 +426,7 @@
     "RTGS": true,
     "CITY": "WEST DELHI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -452,6 +444,7 @@
     "RTGS": true,
     "CITY": "FARIDABAD",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -469,6 +462,7 @@
     "RTGS": true,
     "CITY": "CENTRAL DELHI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -486,6 +480,7 @@
     "RTGS": true,
     "CITY": "NEW DELHI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -503,6 +498,7 @@
     "RTGS": true,
     "CITY": "GHAZIABAD",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -520,23 +516,8 @@
     "RTGS": true,
     "CITY": "GURGAON",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
-  },
-  "FINO0001097": {
-    "IFSC": "FINO0001097",
-    "BRANCH": "AKLUJ",
-    "CENTRE": "SOLAPUR",
-    "DISTRICT": "SOLAPUR",
-    "STATE": "MAHARASHTRA",
-    "ADDRESS": "GANDHI CHOWK,MALSHIRAS ROAD,FRONT OF BHARAT PETROL PUMP,AKLUJ 413101",
-    "CONTACT": "08208051285",
-    "BANK": "FINO PAYMENTS BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "SOLAPUR",
-    "NEFT": false,
     "IMPS": true,
     "MICR": null
   },
@@ -553,6 +534,7 @@
     "RTGS": true,
     "CITY": "SOUTH DELHI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -570,6 +552,7 @@
     "RTGS": true,
     "CITY": "NARAINGARH",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -587,6 +570,7 @@
     "RTGS": true,
     "CITY": "PUNE",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -604,6 +588,7 @@
     "RTGS": true,
     "CITY": "NASIK",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -622,6 +607,7 @@
     "RTGS": true,
     "CITY": "VIJAYWADA",
     "MICR CODE": "500771002",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -638,6 +624,7 @@
     "RTGS": true,
     "CITY": "SOLAN",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -655,6 +642,7 @@
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -673,6 +661,7 @@
     "RTGS": true,
     "CITY": "BANGALORE",
     "MICR CODE": "560771002",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -690,6 +679,7 @@
     "RTGS": true,
     "CITY": "SURAT",
     "MICR CODE": "395771002",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -707,6 +697,7 @@
     "RTGS": true,
     "CITY": "BHARUCH",
     "MICR CODE": "392771071",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -723,6 +714,7 @@
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -741,6 +733,7 @@
     "RTGS": true,
     "CITY": "ANKLESHWAR",
     "MICR CODE": "393771051",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -757,6 +750,7 @@
     "RTGS": true,
     "CITY": "EAST DELHI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -774,6 +768,7 @@
     "RTGS": true,
     "CITY": "LUDHIANA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -791,6 +786,7 @@
     "RTGS": true,
     "CITY": "LUDHIANA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -808,6 +804,7 @@
     "RTGS": true,
     "CITY": "RAIGAD",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -825,6 +822,7 @@
     "RTGS": true,
     "CITY": "SOUTH DELHI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -835,7 +833,8 @@
     "MICR CODE": "NA",
     "BRANCH": "KALWA W",
     "ADDRESS": "SHOP NO9 GROUND FLOOR,ROOP SANGAM COOPERATIVE 400605",
-    "CONTACT": "00",
+    "STD CODE": "0",
+    "CONTACT": null,
     "CITY": "THANE",
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
@@ -859,6 +858,7 @@
     "RTGS": true,
     "CITY": "PUNE",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -876,6 +876,7 @@
     "RTGS": true,
     "CITY": "NOIDA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -894,6 +895,7 @@
     "RTGS": true,
     "CITY": "SURAT",
     "MICR CODE": "395771003",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -910,6 +912,7 @@
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -928,6 +931,7 @@
     "RTGS": true,
     "CITY": "AHMEDABAD",
     "MICR CODE": "380771003",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -944,6 +948,7 @@
     "RTGS": true,
     "CITY": "LUDHIANA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -962,6 +967,7 @@
     "RTGS": true,
     "CITY": "SURAT",
     "MICR CODE": "395771004",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -978,6 +984,7 @@
     "RTGS": true,
     "CITY": "SOUTH WEST DELHI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -995,6 +1002,7 @@
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1012,6 +1020,7 @@
     "RTGS": true,
     "CITY": "JALANDHAR",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1030,6 +1039,7 @@
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR CODE": "500771005",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1046,6 +1056,7 @@
     "RTGS": true,
     "CITY": "PUNE",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1063,6 +1074,7 @@
     "RTGS": true,
     "CITY": "NORTH WEST DELHI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1080,6 +1092,7 @@
     "RTGS": true,
     "CITY": "YAMUNANAGAR",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1097,6 +1110,7 @@
     "RTGS": true,
     "CITY": "VAISHALI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1107,7 +1121,8 @@
     "MICR CODE": "NA",
     "BRANCH": "ICHALKARANJI",
     "ADDRESS": "19 110111 PRATIK PLAZA,KOLHAPUR ROAD,ICHALKARANJI 416115",
-    "CONTACT": "00",
+    "STD CODE": "0",
+    "CONTACT": null,
     "CITY": "KOLHAPUR",
     "DISTRICT": "ICHALKARANJI",
     "STATE": "MAHARASHTRA",
@@ -1131,55 +1146,8 @@
     "RTGS": true,
     "CITY": "GOPALGANJ",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
-  },
-  "FINO0001216": {
-    "IFSC": "FINO0001216",
-    "BRANCH": "OSMANABAD TER",
-    "CENTRE": "OSMANABAD",
-    "DISTRICT": "OSMANABAD",
-    "STATE": "MAHARASHTRA",
-    "ADDRESS": "OLD BUS STAND,MAIN ROAD,TER,DIST-OSMANABAD,MAH-413509",
-    "CONTACT": "09922687785",
-    "MICR": "413882606",
-    "BANK": "FINO PAYMENTS BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "OSMANABAD",
-    "NEFT": false,
-    "IMPS": true
-  },
-  "FINO0001218": {
-    "IFSC": "FINO0001218",
-    "BRANCH": "NALDURGA",
-    "CENTRE": "OSMANABAD",
-    "DISTRICT": "OSMANABAD",
-    "STATE": "MAHARASHTRA",
-    "ADDRESS": "MAIN ROAD,NEAR KAZI MEDICAL AND GENERAL STORES,NALDURGA,TAL.TULJAPUR& DIST.OSMANABAD,MAHARASHTRA -413602",
-    "CONTACT": "09665808571",
-    "MICR": "413882603",
-    "BANK": "FINO PAYMENTS BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "OSMANABAD",
-    "NEFT": false,
-    "IMPS": true
-  },
-  "FINO0001219": {
-    "IFSC": "FINO0001219",
-    "BRANCH": "BARAUNI",
-    "CENTRE": "BEGUSARAI",
-    "DISTRICT": "BEGUSARAI",
-    "STATE": "BIHAR",
-    "ADDRESS": "RAJENDRA ROAD,BARAUNI,DIST -BEGUSARAI,BIHAR -851112",
-    "CONTACT": "07631937430",
-    "BANK": "FINO PAYMENTS BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "BEGUSARAI",
-    "NEFT": false,
     "IMPS": true,
     "MICR": null
   },
@@ -1196,23 +1164,8 @@
     "RTGS": true,
     "CITY": "PATNA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
-  },
-  "FINO0001223": {
-    "IFSC": "FINO0001223",
-    "BRANCH": "BIHTA",
-    "CENTRE": "PATNA",
-    "DISTRICT": "PATNA",
-    "STATE": "BIHAR",
-    "ADDRESS": "ARYA SAMAJ ROAD,BIHTA,BIHAR -801103",
-    "CONTACT": "07004182207",
-    "BANK": "FINO PAYMENTS BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "PATNA",
-    "NEFT": false,
     "IMPS": true,
     "MICR": null
   },
@@ -1229,6 +1182,7 @@
     "RTGS": true,
     "CITY": "MUZAFFARPUR",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1246,87 +1200,8 @@
     "RTGS": true,
     "CITY": "GOPALGANJ",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
-  },
-  "FINO0001234": {
-    "IFSC": "FINO0001234",
-    "BRANCH": "MOKAMA",
-    "CENTRE": "PATNA",
-    "DISTRICT": "PATNA",
-    "STATE": "BIHAR",
-    "ADDRESS": "GOSALA ROAD,MOKAMA,BIHAR -803302",
-    "CONTACT": "07050728018",
-    "BANK": "FINO PAYMENTS BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "PATNA",
-    "NEFT": false,
-    "IMPS": true,
-    "MICR": null
-  },
-  "FINO0001240": {
-    "IFSC": "FINO0001240",
-    "BRANCH": "MIRAJ MALGAON",
-    "CENTRE": "SANGLI",
-    "DISTRICT": "SANGLI",
-    "STATE": "MAHARASHTRA",
-    "ADDRESS": "MORE BUILDING,NEAR ST STAND,AT-POST-MALGAON,TAL-MIRAJ,DIST-SANGLI,MAHARASHTRA-416407",
-    "CONTACT": "09730139797",
-    "BANK": "FINO PAYMENTS BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "SANGLI",
-    "NEFT": false,
-    "IMPS": true,
-    "MICR": null
-  },
-  "FINO0001253": {
-    "IFSC": "FINO0001253",
-    "BRANCH": "BHOOM",
-    "CENTRE": "OSMANABAD",
-    "DISTRICT": "OSMANABAD",
-    "STATE": "MAHARASHTRA",
-    "ADDRESS": "H.N.2894,NEAR ICICI BANK,PARDI ROAD,BHOOM 413504",
-    "CONTACT": "09881322489",
-    "MICR": "413882601",
-    "BANK": "FINO PAYMENTS BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "OSMANABAD",
-    "NEFT": false,
-    "IMPS": true
-  },
-  "FINO0001256": {
-    "IFSC": "FINO0001256",
-    "BRANCH": "MANGALWEDHA",
-    "CENTRE": "SOLAPUR",
-    "DISTRICT": "SOLAPUR",
-    "STATE": "MAHARASHTRA",
-    "ADDRESS": "VISHWAYUG COMPLEX,BAZAR CHOWK,NEAR BHAJI MANDAI,MANGALWEDHA,DIST-PANDHARPUR,MAHARASHTRA-413305",
-    "CONTACT": "08788997461",
-    "BANK": "FINO PAYMENTS BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "SOLAPUR",
-    "NEFT": false,
-    "IMPS": true,
-    "MICR": null
-  },
-  "FINO0001257": {
-    "IFSC": "FINO0001257",
-    "BRANCH": "BARSHI KURDWADI",
-    "CENTRE": "SOLAPUR",
-    "DISTRICT": "SOLAPUR",
-    "STATE": "MAHARASHTRA",
-    "ADDRESS": "SHANPE HOUSE,SHIVAJI CHOUK,KURUDWADI 413208",
-    "CONTACT": "09765794442",
-    "BANK": "FINO PAYMENTS BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "SOLAPUR",
-    "NEFT": false,
     "IMPS": true,
     "MICR": null
   },
@@ -1336,7 +1211,8 @@
     "MICR CODE": "NA",
     "BRANCH": "KADAMWADI",
     "ADDRESS": "1284 MAJULA BUILDING,MAIN ROAD KASBA BAWDA,KADAMWADI KOLHAPUR 416006",
-    "CONTACT": "00",
+    "STD CODE": "0",
+    "CONTACT": null,
     "CITY": "KOLHAPUR",
     "DISTRICT": "KOLHAPUR",
     "STATE": "MAHARASHTRA",
@@ -1360,6 +1236,7 @@
     "RTGS": true,
     "CITY": "KHAGARIA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1377,6 +1254,7 @@
     "RTGS": true,
     "CITY": "SANGLI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1394,6 +1272,7 @@
     "RTGS": true,
     "CITY": "OSMANABAD",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1411,6 +1290,7 @@
     "RTGS": true,
     "CITY": "DARBHANGA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1428,25 +1308,10 @@
     "RTGS": true,
     "CITY": "PATNA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
-  },
-  "FINO0001291": {
-    "IFSC": "FINO0001291",
-    "BRANCH": "KAIJ",
-    "CENTRE": "OSMANABAD",
-    "DISTRICT": "OSMANABAD",
-    "STATE": "MAHARASHTRA",
-    "ADDRESS": "BEED PAREL ROAD,NEAR BUS STAND,KAIJ,MAH-431123",
-    "CONTACT": "08421647278",
-    "MICR": "413882602",
-    "BANK": "FINO PAYMENTS BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "OSMANABAD",
-    "NEFT": false,
-    "IMPS": true
   },
   "FINO0001292": {
     "IFSC": "FINO0001292",
@@ -1461,23 +1326,8 @@
     "RTGS": true,
     "CITY": "SATARA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
-  },
-  "FINO0001293": {
-    "IFSC": "FINO0001293",
-    "BRANCH": "TAJPUR",
-    "CENTRE": "SAMASTIPUR",
-    "DISTRICT": "SAMASTIPUR",
-    "STATE": "BIHAR",
-    "ADDRESS": "NEAR DARGHA ROAD,NEEM CHAWK,TAJPUR,SAMASTIPUR,BIHAR -848130",
-    "CONTACT": "07250811491",
-    "BANK": "FINO PAYMENTS BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "SAMASTIPUR",
-    "NEFT": false,
     "IMPS": true,
     "MICR": null
   },
@@ -1495,6 +1345,7 @@
     "RTGS": true,
     "CITY": "OSMANABAD",
     "MICR CODE": "413882609",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1511,23 +1362,8 @@
     "RTGS": true,
     "CITY": "BUXAR",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
-  },
-  "FINO0001302": {
-    "IFSC": "FINO0001302",
-    "BRANCH": "TASGAON",
-    "CENTRE": "SANGLI",
-    "DISTRICT": "SANGLI",
-    "STATE": "MAHARASHTRA",
-    "ADDRESS": "VISWAPRIYA BLDG,OPP.BANK OF INDIA,TASGAON,MAH-416312",
-    "CONTACT": "09860681945",
-    "BANK": "FINO PAYMENTS BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "SANGLI",
-    "NEFT": false,
     "IMPS": true,
     "MICR": null
   },
@@ -1544,6 +1380,7 @@
     "RTGS": true,
     "CITY": "SARAN",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1561,6 +1398,7 @@
     "RTGS": true,
     "CITY": "SAMASTIPUR",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1578,6 +1416,7 @@
     "RTGS": true,
     "CITY": "SATARA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1595,39 +1434,8 @@
     "RTGS": true,
     "CITY": "SOLAPUR",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
-  },
-  "FINO0001314": {
-    "IFSC": "FINO0001314",
-    "BRANCH": "KOREGAON",
-    "CENTRE": "SATARA",
-    "DISTRICT": "SATARA",
-    "STATE": "MAHARASHTRA",
-    "ADDRESS": "1ST FLOOR,PAWAR COMPLEX,AZAD CHOWK,KOREGAON,MAH-425501",
-    "CONTACT": "08830477329",
-    "BANK": "FINO PAYMENTS BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "SATARA",
-    "NEFT": false,
-    "IMPS": true,
-    "MICR": null
-  },
-  "FINO0001315": {
-    "IFSC": "FINO0001315",
-    "BRANCH": "AKLUJ NATEPOTE",
-    "CENTRE": "SOLAPUR",
-    "DISTRICT": "SOLAPUR",
-    "STATE": "MAHARASHTRA",
-    "ADDRESS": "AHILYADEVI ROAD,MAIN ROAD,BEHIND VIDHARBA KOKAN BANK,NATEPUTE,MAH-413109",
-    "CONTACT": "09766339391",
-    "BANK": "FINO PAYMENTS BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "SOLAPUR",
-    "NEFT": false,
     "IMPS": true,
     "MICR": null
   },
@@ -1644,6 +1452,7 @@
     "RTGS": true,
     "CITY": "MUZAFFARPUR",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1661,6 +1470,7 @@
     "RTGS": true,
     "CITY": "BHOJPUR",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1678,6 +1488,7 @@
     "RTGS": true,
     "CITY": "SANGLI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1695,6 +1506,7 @@
     "RTGS": true,
     "CITY": "BEGUSARAI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1712,6 +1524,7 @@
     "RTGS": true,
     "CITY": "SAMASTIPUR",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1729,6 +1542,7 @@
     "RTGS": true,
     "CITY": "VAISHALI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1746,6 +1560,7 @@
     "RTGS": true,
     "CITY": "VAISHALI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1763,6 +1578,7 @@
     "RTGS": true,
     "CITY": "SIWAN",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1780,6 +1596,7 @@
     "RTGS": true,
     "CITY": "MUZAFFARPUR",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1798,6 +1615,7 @@
     "RTGS": true,
     "CITY": "OSMANABAD",
     "MICR CODE": "413882610",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1807,7 +1625,8 @@
     "MICR CODE": "NA",
     "BRANCH": "KALE",
     "ADDRESS": "DESAI GALLI,MAIN ROAD,KALE MAHARASHTRA",
-    "CONTACT": "00",
+    "STD CODE": "0",
+    "CONTACT": null,
     "CITY": "KOLHAPUR",
     "DISTRICT": "KOLHAPUR",
     "STATE": "MAHARASHTRA",
@@ -1817,38 +1636,6 @@
     "RTGS": false,
     "IMPS": true,
     "MICR": null
-  },
-  "FINO0001354": {
-    "IFSC": "FINO0001354",
-    "BRANCH": "PARANDA",
-    "CENTRE": "OSMANABAD",
-    "DISTRICT": "OSMANABAD",
-    "STATE": "MAHARASHTRA",
-    "ADDRESS": "H.N.12/56,NEAR BANK OF INDIA,PATEL COMPLEX,BARSHI ROAD,PARANDA,MAH-413502",
-    "CONTACT": "09730242758",
-    "MICR": "413882607",
-    "BANK": "FINO PAYMENTS BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "OSMANABAD",
-    "NEFT": false,
-    "IMPS": true
-  },
-  "FINO0001355": {
-    "IFSC": "FINO0001355",
-    "BRANCH": "TULJAPUR",
-    "CENTRE": "OSMANABAD",
-    "DISTRICT": "OSMANABAD",
-    "STATE": "MAHARASHTRA",
-    "ADDRESS": "1ST FLOOR,SUNIL PLAZA,BACK SIDE OF OLD BUS STAND,BHAVANI ROAD,TULJAPUR,MAH-413601",
-    "CONTACT": "08975603151",
-    "MICR": "413882608",
-    "BANK": "FINO PAYMENTS BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "OSMANABAD",
-    "NEFT": false,
-    "IMPS": true
   },
   "FINO0001356": {
     "IFSC": "FINO0001356",
@@ -1863,23 +1650,8 @@
     "RTGS": true,
     "CITY": "SOLAPUR",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
-  },
-  "FINO0001358": {
-    "IFSC": "FINO0001358",
-    "BRANCH": "VADGAON",
-    "CENTRE": "SANGLI",
-    "DISTRICT": "SANGLI",
-    "STATE": "MAHARASHTRA",
-    "ADDRESS": "CTS NO.683,DHANYA LINE,GANDHI CHOWK,VADGAON,TAL-HATKANANGALE,DIST-KOLHAPUR,MAH-416112",
-    "CONTACT": "09552540610",
-    "BANK": "FINO PAYMENTS BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "SANGLI",
-    "NEFT": false,
     "IMPS": true,
     "MICR": null
   },
@@ -1897,24 +1669,9 @@
     "RTGS": true,
     "CITY": "OSMANABAD",
     "MICR CODE": "413882604",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
-  },
-  "FINO0001360": {
-    "IFSC": "FINO0001360",
-    "BRANCH": "SHIRALA",
-    "CENTRE": "SANGLI",
-    "DISTRICT": "SANGLI",
-    "STATE": "MAHARASHTRA",
-    "ADDRESS": "PROPERTY NO.1942,SOMVAR PETH,TAL-SHIRALA,DIST-SANGLI,MAH-415408",
-    "CONTACT": "07798000167",
-    "BANK": "FINO PAYMENTS BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "SANGLI",
-    "NEFT": false,
-    "IMPS": true,
-    "MICR": null
   },
   "FINO0001407": {
     "BANK": "FINO PAYMENTS BANK",
@@ -1922,7 +1679,8 @@
     "MICR CODE": "NA",
     "BRANCH": "HADAPSAR",
     "ADDRESS": "SHOP NO 4 AMI PARK CO OP HSG SOC,156 2A 1MP 1 SOLAPUR ROAD HADAPSAR,PUNE 411028",
-    "CONTACT": "00",
+    "STD CODE": "0",
+    "CONTACT": null,
     "CITY": "PUNE",
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
@@ -1947,6 +1705,7 @@
     "RTGS": true,
     "CITY": "VAPI",
     "MICR CODE": "396771031",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1963,6 +1722,7 @@
     "RTGS": true,
     "CITY": "DARBHANGA",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1980,6 +1740,7 @@
     "RTGS": true,
     "CITY": "SANGLI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1997,23 +1758,8 @@
     "RTGS": true,
     "CITY": "Patna",
     "MICR CODE": "NA",
+    "STD CODE": "612",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
-  },
-  "FINO0001446": {
-    "IFSC": "FINO0001446",
-    "BRANCH": "Solapur-2",
-    "CENTRE": "Solapur",
-    "DISTRICT": "Solapur",
-    "STATE": "MAHARASHTRA",
-    "ADDRESS": "CS NO. 10389, P.N. 35/10, 70FT ROAD, VEGETABLE MARKET ROAD, SOLAPUR-413006",
-    "CONTACT": "07554212797",
-    "BANK": "FINO PAYMENTS BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "Solapur",
-    "NEFT": false,
     "IMPS": true,
     "MICR": null
   },
@@ -2030,6 +1776,7 @@
     "RTGS": true,
     "CITY": "Solapur",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2047,6 +1794,7 @@
     "RTGS": true,
     "CITY": "Danapur",
     "MICR CODE": "NA",
+    "STD CODE": "542",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2064,6 +1812,7 @@
     "RTGS": true,
     "CITY": "NAVI MUMBAI",
     "MICR CODE": "NA",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2081,6 +1830,7 @@
     "RTGS": true,
     "CITY": "RANCHI",
     "MICR CODE": "NA",
+    "STD CODE": "651",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2098,6 +1848,7 @@
     "RTGS": true,
     "CITY": "NAVI MUMBAI",
     "MICR CODE": "NA",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2115,6 +1866,7 @@
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null

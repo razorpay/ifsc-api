@@ -13,6 +13,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "600054003",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true
   },
@@ -30,6 +31,7 @@
     "RTGS": true,
     "CITY": "THANJAVUR",
     "MICR CODE": "613054002",
+    "STD CODE": "4362",
     "NEFT": true,
     "IMPS": true
   },
@@ -40,12 +42,13 @@
     "DISTRICT": "THANJAVUR",
     "STATE": "TAMIL NADU",
     "ADDRESS": "NO.42. MUTT STREET,KUMBAKONAM TOWN612001",
-    "CONTACT": "4352421176",
+    "CONTACT": "2421176",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KUMBAKONAM",
     "MICR CODE": "612054003",
+    "STD CODE": "435",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -64,6 +67,7 @@
     "RTGS": true,
     "CITY": "KUMBAKONAM",
     "MICR CODE": "612054002",
+    "STD CODE": "435",
     "NEFT": true,
     "IMPS": true
   },
@@ -81,6 +85,7 @@
     "RTGS": true,
     "CITY": "MAYILADUTHURAI",
     "MICR CODE": "609054002",
+    "STD CODE": "4364",
     "NEFT": true,
     "IMPS": true
   },
@@ -91,12 +96,13 @@
     "DISTRICT": "NAGAPATTINAM",
     "STATE": "TAMIL NADU",
     "ADDRESS": "39 NEELA,SOUTH STREET,NAGAPATTINAM611001",
-    "CONTACT": "4365242852",
+    "CONTACT": "242852",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGAPATTINAM",
     "MICR CODE": "611054002",
+    "STD CODE": "4365",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -108,12 +114,13 @@
     "DISTRICT": "THIRUVARUR",
     "STATE": "TAMIL NADU",
     "ADDRESS": "174 GANDHI ROAD, MANNARGUDI- 614001",
-    "CONTACT": "4367252815",
+    "CONTACT": "252815",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "Mannargudi",
     "MICR CODE": "614054002",
+    "STD CODE": "4367",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -132,6 +139,7 @@
     "RTGS": true,
     "CITY": "TIRUVARUR",
     "MICR CODE": "610054002",
+    "STD CODE": "4366",
     "NEFT": true,
     "IMPS": true
   },
@@ -149,6 +157,7 @@
     "RTGS": true,
     "CITY": "ADUTHURAI",
     "MICR CODE": "612054009",
+    "STD CODE": "435",
     "NEFT": true,
     "IMPS": true
   },
@@ -159,12 +168,13 @@
     "DISTRICT": "THANJAVUR",
     "STATE": "TAMIL NADU",
     "ADDRESS": "240, SALAI STREET, MAIN ROAD, AYYAMPET -614 201",
-    "CONTACT": "4374242287",
+    "CONTACT": "242287",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "AYYAMPET",
     "MICR CODE": "613054003",
+    "STD CODE": "4374",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -176,12 +186,13 @@
     "DISTRICT": "THIRUVARUR",
     "STATE": "TAMIL NADU",
     "ADDRESS": "DOOR NO.2/332, MAIN ROAD, ERAVANCHERY - 609 501",
-    "CONTACT": "4366273429",
+    "CONTACT": "273429",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ERAVANCHERI",
     "MICR CODE": "612054010",
+    "STD CODE": "4366",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -193,12 +204,13 @@
     "DISTRICT": "THIRUVARUR",
     "STATE": "TAMIL NADU",
     "ADDRESS": "220 VKM BUILDINGS, KAMRAJ SALAI, KORADACHERY- 613 703",
-    "CONTACT": "4366232422",
+    "CONTACT": "232422",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KORADACHERI",
     "MICR CODE": "610054005",
+    "STD CODE": "4366",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -210,12 +222,13 @@
     "DISTRICT": "THIRUVARUR",
     "STATE": "TAMIL NADU",
     "ADDRESS": "45 MAIN ROAD, KODAVASAL - 612 601",
-    "CONTACT": "4366262033",
+    "CONTACT": "262033",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "Kodavasal",
     "MICR CODE": "610054007",
+    "STD CODE": "4366",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -227,12 +240,13 @@
     "DISTRICT": "NAGAPATTINAM",
     "STATE": "TAMIL NADU",
     "ADDRESS": "67, MELACHETTY ST, KUTTALAM - 609 801",
-    "CONTACT": "4364234024",
+    "CONTACT": "234024",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "Kuttalam",
     "MICR CODE": "609054003",
+    "STD CODE": "4364",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -244,12 +258,13 @@
     "DISTRICT": "THIRUVARUR",
     "STATE": "TAMIL NADU",
     "ADDRESS": "53-B BAZAAR STREET, NANILLAM - 610 105",
-    "CONTACT": "4366230437",
+    "CONTACT": "230437",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "Nannilam",
     "MICR CODE": "610054006",
+    "STD CODE": "4366",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -261,12 +276,13 @@
     "DISTRICT": "THIRUVARUR",
     "STATE": "TAMIL NADU",
     "ADDRESS": "32/2, GROUND FLOOR, NAGAPATTINAM MAIN ROAD, SANANALLUR",
-    "CONTACT": "4366230512",
+    "CONTACT": "230512",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "Sannanallur",
     "MICR CODE": "610054008",
+    "STD CODE": "4366",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -278,12 +294,13 @@
     "DISTRICT": "NAGAPATTINAM",
     "STATE": "TAMIL NADU",
     "ADDRESS": "SHANDEVELI STREET, PORAYAR",
-    "CONTACT": "4364289431",
+    "CONTACT": "289431",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "Porayar",
     "MICR CODE": "609054103",
+    "STD CODE": "4364",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -295,12 +312,13 @@
     "DISTRICT": "NAGAPATTINAM",
     "STATE": "TAMIL NADU",
     "ADDRESS": "1/34 MAIN ROAD, SEMBARNARKOIL",
-    "CONTACT": "4364282438",
+    "CONTACT": "282438",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "Sembanarkoil",
     "MICR CODE": "609054004",
+    "STD CODE": "4364",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -312,12 +330,13 @@
     "DISTRICT": "THANJAVUR",
     "STATE": "TAMIL NADU",
     "ADDRESS": "30 BAZAAR STREET, THIRUKATTUPALLI",
-    "CONTACT": "4362280461",
+    "CONTACT": "280461",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUKATTUPALLI",
     "MICR CODE": "613054004",
+    "STD CODE": "4362",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -336,6 +355,7 @@
     "RTGS": true,
     "CITY": "TIRUPANANDAL",
     "MICR CODE": "612054012",
+    "STD CODE": "435",
     "NEFT": true,
     "IMPS": true
   },
@@ -346,12 +366,13 @@
     "DISTRICT": "THANJAVUR",
     "STATE": "TAMIL NADU",
     "ADDRESS": "103 NORTH STREET, TIRUVIDAIMARDUR - 612 104.",
-    "CONTACT": "4352460124",
+    "CONTACT": "2460124",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "THIRUVIDAIMARUDUR",
     "MICR CODE": "612054005",
+    "STD CODE": "435",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -363,12 +384,13 @@
     "DISTRICT": "THIRUVARUR",
     "STATE": "TAMIL NADU",
     "ADDRESS": "\"SRIRAM NIVAS\", DOOR NO.27, KAILASANATHAR SOUTH ST, VALANGAIMAN - 612 804",
-    "CONTACT": "4374264422",
+    "CONTACT": "264422",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "Valangaiman",
     "MICR CODE": "612054006",
+    "STD CODE": "4374",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -380,12 +402,13 @@
     "DISTRICT": "TIRUCHIRAPALLI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "KALIAMHAN KOIL ST,INDIRA GANDHI COLLEGE COMPUS,TRICHY620002",
-    "CONTACT": "4312704180",
+    "CONTACT": "2704180",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUCHIRAPPALLI",
     "MICR CODE": "620054002",
+    "STD CODE": "431",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -404,6 +427,7 @@
     "RTGS": true,
     "CITY": "ARIYALUR",
     "MICR CODE": "621054002",
+    "STD CODE": "4329",
     "NEFT": true,
     "IMPS": true
   },
@@ -414,12 +438,13 @@
     "DISTRICT": "PERAMBALUR",
     "STATE": "TAMIL NADU",
     "ADDRESS": "63A SANNATHI STREET, JAYAMKONDAM - 621 802",
-    "CONTACT": "4331250268",
+    "CONTACT": "250268",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAYAMKONDACHOLAPURAM",
     "MICR CODE": "621054004",
+    "STD CODE": "4331",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -438,6 +463,7 @@
     "RTGS": true,
     "CITY": "MANAPPARAI",
     "MICR CODE": "620054006",
+    "STD CODE": "4332",
     "NEFT": true,
     "IMPS": true
   },
@@ -455,6 +481,7 @@
     "RTGS": true,
     "CITY": "MADURAI",
     "MICR CODE": "625054002",
+    "STD CODE": "452",
     "NEFT": true,
     "IMPS": true
   },
@@ -472,6 +499,7 @@
     "RTGS": true,
     "CITY": "DINDIGUL",
     "MICR CODE": "625054005",
+    "STD CODE": "451",
     "NEFT": true,
     "IMPS": true
   },
@@ -489,6 +517,7 @@
     "RTGS": true,
     "CITY": "KEELAPALUVUR",
     "MICR CODE": "621054003",
+    "STD CODE": "4329",
     "NEFT": true,
     "IMPS": true
   },
@@ -499,12 +528,13 @@
     "DISTRICT": "THIRUVARUR",
     "STATE": "TAMIL NADU",
     "ADDRESS": "NO.1/85 MAIN ROAD, THIRUMAKOTTAI- 614 017",
-    "CONTACT": "4367272437",
+    "CONTACT": "272437",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "THIRUMAKOTTAI",
     "MICR CODE": "614054003",
+    "STD CODE": "4367",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -516,12 +546,13 @@
     "DISTRICT": "THIRUVARUR",
     "STATE": "TAMIL NADU",
     "ADDRESS": "3/551 MAIN ROAD, KOTTUR- 614 708",
-    "CONTACT": "4367279440",
+    "CONTACT": "279440",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "Kottur",
     "MICR CODE": "614054005",
+    "STD CODE": "4367",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -533,12 +564,13 @@
     "DISTRICT": "THANJAVUR",
     "STATE": "TAMIL NADU",
     "ADDRESS": "149, TSR Big Street, Kumbakonam 612001",
-    "CONTACT": "4352402322",
+    "CONTACT": "2402322",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KUMBAKONAM",
     "MICR CODE": "610054003",
+    "STD CODE": "435",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -550,12 +582,13 @@
     "DISTRICT": "THIRUVARUR",
     "STATE": "TAMIL NADU",
     "ADDRESS": "\"GRT BUILDING\" 45/F, SOUTH MAIN STREET, TIRUVARUR TOWN- 610 002",
-    "CONTACT": "4366242224",
+    "CONTACT": "242224",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUVARUR",
     "MICR CODE": "641054002",
+    "STD CODE": "4366",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -567,12 +600,13 @@
     "DISTRICT": "COIMBATORE",
     "STATE": "TAMIL NADU",
     "ADDRESS": "27-30. SAROJINI STREET,RAMNAGARCOIMBATORE641009",
-    "CONTACT": "4222232393",
+    "CONTACT": "2232393",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
     "MICR CODE": "625054202",
+    "STD CODE": "422",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -584,12 +618,13 @@
     "DISTRICT": "THENI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "VAIGAIDAM ROAD,  THENKARAI,PERIYAKULAM626501",
-    "CONTACT": "4546231330",
+    "CONTACT": "231330",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PERIYAKULAM",
     "MICR CODE": "600054002",
+    "STD CODE": "4546",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -601,12 +636,13 @@
     "DISTRICT": "CHENNAI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "\"KEERTHIS\", NO.67. MANDAVELI STREET,MANDAVELI CHENNAI600028",
-    "CONTACT": "4424937874",
+    "CONTACT": "24937874",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "614054102",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -625,6 +661,7 @@
     "RTGS": true,
     "CITY": "PATTUKOTTAI",
     "MICR CODE": "600054004",
+    "STD CODE": "4373",
     "NEFT": true,
     "IMPS": true
   },
@@ -635,12 +672,13 @@
     "DISTRICT": "CHENNAI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "\"SHREYAN'S BHAVAN\",OLD NO.57-62.(NEW NO.111), WALLAJAH ROAD,TRIPLICANE, CHENNAI600002",
-    "CONTACT": "4428524262",
+    "CONTACT": "28524262",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "605054003",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -659,6 +697,7 @@
     "RTGS": true,
     "CITY": "CUDDALORE",
     "MICR CODE": "622054002",
+    "STD CODE": "4142",
     "NEFT": true,
     "IMPS": true
   },
@@ -676,6 +715,7 @@
     "RTGS": true,
     "CITY": "PUDUKKOTTAI",
     "MICR CODE": "605054005",
+    "STD CODE": "4322",
     "NEFT": true,
     "IMPS": true
   },
@@ -686,12 +726,13 @@
     "DISTRICT": "CUDDALORE",
     "STATE": "TAMIL NADU",
     "ADDRESS": "164 WEST CAR STREET, CHIDAMBARAM - 608 001",
-    "CONTACT": "4144222114",
+    "CONTACT": "222114",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "Chidambaram",
     "MICR CODE": "636054002",
+    "STD CODE": "4144",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -710,6 +751,7 @@
     "RTGS": true,
     "CITY": "SALEM",
     "MICR CODE": "600054006",
+    "STD CODE": "4272",
     "NEFT": true,
     "IMPS": true
   },
@@ -720,12 +762,13 @@
     "DISTRICT": "CHENNAI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "50,AREMENIAN STREET,GEORGE TOWNCHENNAI600001",
-    "CONTACT": "4425342340",
+    "CONTACT": "25342340",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "611054004",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -737,12 +780,13 @@
     "DISTRICT": "NAGAPATTINAM",
     "STATE": "TAMIL NADU",
     "ADDRESS": "3/61, B-1 MAIN ROAD, TIRUPOONDI - 611 110, KEEVALUR T.K",
-    "CONTACT": "4365265423",
+    "CONTACT": "265423",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "Tirupoondi",
     "MICR CODE": "610054004",
+    "STD CODE": "4365",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -754,12 +798,13 @@
     "DISTRICT": "THIRUVARUR",
     "STATE": "TAMIL NADU",
     "ADDRESS": "2/128 EAST STREET, TIRUNELLIKAVAL- 610 205, NEEDAMANGALAM TK.",
-    "CONTACT": "4369237443",
+    "CONTACT": "9237443",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "THIRUNELLIKKAVAL",
     "MICR CODE": "611054003",
+    "STD CODE": "436",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -771,12 +816,13 @@
     "DISTRICT": "NAGAPATTINAM",
     "STATE": "TAMIL NADU",
     "ADDRESS": "1/74, WEST STREET, TIRUMARUGAL - 609 702",
-    "CONTACT": "4366270433",
+    "CONTACT": "270433",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "THIRUMARUGAL",
     "MICR CODE": "614054004",
+    "STD CODE": "4366",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -788,12 +834,13 @@
     "DISTRICT": "THIRUVARUR",
     "STATE": "TAMIL NADU",
     "ADDRESS": "1/18 A-1 MAIN ROAD, ULLIKOTTAI- 614 018",
-    "CONTACT": "4367270445",
+    "CONTACT": "270445",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "Ullikkottai",
     "MICR CODE": "627054002",
+    "STD CODE": "4367",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -812,6 +859,7 @@
     "RTGS": true,
     "CITY": "TIRUNELVELI",
     "MICR CODE": "600054005",
+    "STD CODE": "4622",
     "NEFT": true,
     "IMPS": true
   },
@@ -829,6 +877,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "630054002",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true
   },
@@ -839,12 +888,13 @@
     "DISTRICT": "SIVAGANGA",
     "STATE": "TAMIL NADU",
     "ADDRESS": "\"KRISHNA ARCADE\",333/1. SEKKALAI ROAD,KARAIKUDI630001",
-    "CONTACT": "4565236524",
+    "CONTACT": "236524",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KARAIKUDI",
     "MICR CODE": "614054103",
+    "STD CODE": "4565",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -856,12 +906,13 @@
     "DISTRICT": "THANJAVUR",
     "STATE": "TAMIL NADU",
     "ADDRESS": "23 MUTHUPETTAI ROAD, MUTHUPETTAI ROAD, THAMARANGKOTTAI - 614 613",
-    "CONTACT": "4373283441",
+    "CONTACT": "283441",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "Thamarangkottai",
     "MICR CODE": "606054104",
+    "STD CODE": "4373",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -873,12 +924,13 @@
     "DISTRICT": "VILLUPURAM",
     "STATE": "TAMIL NADU",
     "ADDRESS": "5/63A NEW NO3/110, MAHATMA GANDHI ROAD, RISHIVANDIYAM,- 606 205",
-    "CONTACT": "4151243246",
+    "CONTACT": "243246",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "Rishivandiyam",
     "MICR CODE": "641054004",
+    "STD CODE": "4151",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -897,6 +949,7 @@
     "RTGS": true,
     "CITY": "COIMBATORE",
     "MICR CODE": "560054002",
+    "STD CODE": "422",
     "NEFT": true,
     "IMPS": true
   },
@@ -914,6 +967,7 @@
     "RTGS": true,
     "CITY": "BENGALURU",
     "MICR CODE": "607054202",
+    "STD CODE": "80",
     "NEFT": true,
     "IMPS": true
   },
@@ -924,12 +978,13 @@
     "DISTRICT": "VILLUPURAM",
     "STATE": "TAMIL NADU",
     "ADDRESS": "979 VINAYAKAR KOIL ST, SENGURICHI- 606 115",
-    "CONTACT": "4149222229",
+    "CONTACT": "222229",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "Sengurichi",
     "MICR CODE": "607054203",
+    "STD CODE": "4149",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -941,12 +996,13 @@
     "DISTRICT": "VILLUPURAM",
     "STATE": "TAMIL NADU",
     "ADDRESS": "MUSLIM ST, VEERAPANDI - 605 758",
-    "CONTACT": "4153221107",
+    "CONTACT": "221107",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "Veerapandi",
     "MICR CODE": "605054006",
+    "STD CODE": "4153",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -958,12 +1014,13 @@
     "DISTRICT": "VILLUPURAM",
     "STATE": "TAMIL NADU",
     "ADDRESS": "2/48 KAMMAVAR STREET, MADURAPAKKAM",
-    "CONTACT": "4132688486",
+    "CONTACT": "2688486",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "Madurapakkam",
     "MICR CODE": "624054103",
+    "STD CODE": "413",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -982,6 +1039,7 @@
     "RTGS": true,
     "CITY": "THALAIYUTHU",
     "MICR CODE": "638054002",
+    "STD CODE": "4545",
     "NEFT": true,
     "IMPS": true
   },
@@ -992,12 +1050,13 @@
     "DISTRICT": "ERODE",
     "STATE": "TAMIL NADU",
     "ADDRESS": "DOOR NO.907. PANNER SELVAM PARK,BROUGH ROAD,ERODE638001",
-    "CONTACT": "4242258821",
+    "CONTACT": "258821",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ERODE",
     "MICR CODE": "622054003",
+    "STD CODE": "4242",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1009,12 +1068,13 @@
     "DISTRICT": "PUDUKKOTTAI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "3/16 NORTH STREET, SILATTUR - 614 622",
-    "CONTACT": "4371236287",
+    "CONTACT": "236287",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "Silattur",
     "MICR CODE": "500054002",
+    "STD CODE": "4371",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1026,12 +1086,13 @@
     "DISTRICT": "HYDERABAD",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "SAMA TOWERS, LIBERTY\"X\"ROADS,HIMAYATNAGAR,HYDERABADHYDERABAD500029",
-    "CONTACT": "4023228358",
+    "CONTACT": "228358",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR CODE": "600054024",
+    "STD CODE": "4023",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1043,12 +1104,13 @@
     "DISTRICT": "THIRUVALLUR",
     "STATE": "TAMIL NADU",
     "ADDRESS": "61 RAILWAY STATION ROAD, VEPPAMPATTU- 602 024",
-    "CONTACT": "4427689762",
+    "CONTACT": "27689762",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VEPPAMPATTU",
     "MICR CODE": "607054204",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1060,12 +1122,13 @@
     "DISTRICT": "CUDDALORE",
     "STATE": "TAMIL NADU",
     "ADDRESS": "305 VEERARAGHAVA PERUMAL KOIL STREET, VEERAPERUMANALLUR- 607 101",
-    "CONTACT": "4142247638",
+    "CONTACT": "247638",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "Veeraperumanallur",
     "MICR CODE": "620054008",
+    "STD CODE": "4142",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1077,12 +1140,13 @@
     "DISTRICT": "KARUR",
     "STATE": "TAMIL NADU",
     "ADDRESS": "2/151-A, MELA KODI THERU, TRICHY-KARUR MAIN ROAD, THIMMACHIPURAM- 639 105",
-    "CONTACT": "4323242242",
+    "CONTACT": "242242",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "THIMACHIPURAM",
     "MICR CODE": "632054002",
+    "STD CODE": "4323",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1094,12 +1158,13 @@
     "DISTRICT": "VELLORE",
     "STATE": "TAMIL NADU",
     "ADDRESS": "138/54,GANDHI ROAD,VELLORE632004",
-    "CONTACT": "4162232564",
+    "CONTACT": "232564",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VELLORE",
     "MICR CODE": "641054102",
+    "STD CODE": "4162",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1111,12 +1176,13 @@
     "DISTRICT": "COIMBATORE",
     "STATE": "TAMIL NADU",
     "ADDRESS": "94, 94(1),COURT STREET,TIRUPPURCOIMBATORE DIST.641601",
-    "CONTACT": "4212247248",
+    "CONTACT": "247248",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
     "MICR CODE": "600054007",
+    "STD CODE": "4212",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1135,6 +1201,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "612054007",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true
   },
@@ -1145,12 +1212,13 @@
     "DISTRICT": "THIRUVARUR",
     "STATE": "TAMIL NADU",
     "ADDRESS": "2/58 BAZAAR STREET, ALANGUDI - 614 801",
-    "CONTACT": "4374269434",
+    "CONTACT": "269434",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "Alangudi",
     "MICR CODE": "622054005",
+    "STD CODE": "4374",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1162,12 +1230,13 @@
     "DISTRICT": "PUDUKKOTTAI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "BLOCK NO.3,TANJORE-PUDUKOTTAI ROAD, MAIN ROAD, ATHANKOTTAI- 622 203",
-    "CONTACT": "4322241244",
+    "CONTACT": "241244",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ADANAKKOTTAI",
     "MICR CODE": "612054008",
+    "STD CODE": "4322",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1179,12 +1248,13 @@
     "DISTRICT": "THANJAVUR",
     "STATE": "TAMIL NADU",
     "ADDRESS": "D NO.50, MAIN ROAD, KURICHI- 612 504",
-    "CONTACT": "4352458453",
+    "CONTACT": "2458453",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "Kurichi",
     "MICR CODE": "600054017",
+    "STD CODE": "435",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1196,12 +1266,13 @@
     "DISTRICT": "KANCHEEPURAM",
     "STATE": "TAMIL NADU",
     "ADDRESS": "68,VALLAL PACHAIYAPPAN STREET,KANCHEEPURAM631501",
-    "CONTACT": "4427223883",
+    "CONTACT": "27223883",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KANCHIPURAM",
     "MICR CODE": "624054102",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1213,12 +1284,13 @@
     "DISTRICT": "DINDIGUL",
     "STATE": "TAMIL NADU",
     "ADDRESS": "5-44 MAIN ROAD, MANJANAICKENPATTI- 624 614",
-    "CONTACT": "4545220246",
+    "CONTACT": "220246",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MANJANAICKENPATTI",
     "MICR CODE": "625054006",
+    "STD CODE": "4545",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1230,12 +1302,13 @@
     "DISTRICT": "TIRUCHIRAPALLI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "D NO. 4/221, DINDIGUL MAIN ROAD, VAIYAMPATTY BLOCK, NADUPATTI - 621 315",
-    "CONTACT": "4332276222",
+    "CONTACT": "276222",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "Nadupatti",
     "MICR CODE": "641054011",
+    "STD CODE": "4332",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1254,6 +1327,7 @@
     "RTGS": true,
     "CITY": "POLLACHI",
     "MICR CODE": "641054011",
+    "STD CODE": "4259",
     "NEFT": true,
     "IMPS": true
   },
@@ -1264,30 +1338,32 @@
     "DISTRICT": "VILLUPURAM",
     "STATE": "TAMIL NADU",
     "ADDRESS": "G S T ROAD, PADMINI BUILDINGS, MADAPATTU - 607 207",
-    "CONTACT": "4149224229",
+    "CONTACT": "224229",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "Madapattu",
     "MICR CODE": "500054003",
+    "STD CODE": "4149",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
   },
   "CIUB0000076": {
     "IFSC": "CIUB0000076",
-    "BRANCH": "SECUNDERABAD  ",
+    "BRANCH": "SECUNDERABAD ",
     "CENTRE": "SECUNDERABAD",
     "DISTRICT": "HYDERABAD",
     "STATE": "ANDHRA PRADESH",
-    "ADDRESS": "5 4 94, M G ROAD, RANIGUNJ, SECUNDERABAD, HYDERABAD",
-    "CONTACT": "4027544334",
+    "ADDRESS": "Ground Floor, 5-2-183 and 184, Modi Square, M.G.Road,Boats Club X Road Junction,SECUNDERABAD",
+    "CONTACT": "27544334",
     "MICR": "626054102",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SECUNDERABAD",
     "MICR CODE": "626054102",
+    "STD CODE": "40",
     "NEFT": true,
     "IMPS": true
   },
@@ -1298,12 +1374,13 @@
     "DISTRICT": "TIRUNELVALI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "406 . TENKASI ROAD,RAJAPALAYAM626117",
-    "CONTACT": "4563230432",
+    "CONTACT": "230432",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "TENKASI",
     "MICR CODE": "641054003",
+    "STD CODE": "4563",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1322,6 +1399,7 @@
     "RTGS": true,
     "CITY": "COIMBATORE",
     "MICR CODE": "622054004",
+    "STD CODE": "4222",
     "NEFT": true,
     "IMPS": true
   },
@@ -1339,6 +1417,7 @@
     "RTGS": true,
     "CITY": "KULATHUR",
     "MICR CODE": "520054103",
+    "STD CODE": "4339",
     "NEFT": true,
     "IMPS": true
   },
@@ -1356,6 +1435,7 @@
     "RTGS": true,
     "CITY": "GUNTUR",
     "MICR CODE": "620054009",
+    "STD CODE": "8632",
     "NEFT": true,
     "IMPS": true
   },
@@ -1366,12 +1446,13 @@
     "DISTRICT": "THANJAVUR",
     "STATE": "TAMIL NADU",
     "ADDRESS": "AGRAHARAM, THOGOOR - 613 102",
-    "CONTACT": "4312404025",
+    "CONTACT": "2404025",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "Thogur",
     "MICR CODE": "524054002",
+    "STD CODE": "431",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1384,12 +1465,13 @@
     "DISTRICT": "CHENNAI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "706, ANNASALAITHOUSAND LIGHTSCHENNAI600006",
-    "CONTACT": "4428297903",
+    "CONTACT": "28297903",
     "IMPS": true,
     "CITY": "CHENNAI",
     "UPI": true,
     "RTGS": true,
     "MICR CODE": "400054002",
+    "STD CODE": "44",
     "NEFT": true,
     "MICR": null
   },
@@ -1400,12 +1482,13 @@
     "DISTRICT": "NELLORE",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "13/356,ACHARI ST.,PEDDA BAZAR,NELLORE524001",
-    "CONTACT": "8612326001",
+    "CONTACT": "2326001",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NELLORE",
     "MICR CODE": "627054003",
+    "STD CODE": "861",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1424,6 +1507,7 @@
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR CODE": "682054002",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -1441,6 +1525,7 @@
     "RTGS": true,
     "CITY": "TUTICORIN",
     "MICR CODE": "605054002",
+    "STD CODE": "461",
     "NEFT": true,
     "IMPS": true
   },
@@ -1458,6 +1543,7 @@
     "RTGS": true,
     "CITY": "ERNAKULAM",
     "MICR CODE": "636054008",
+    "STD CODE": "484",
     "NEFT": true,
     "IMPS": true
   },
@@ -1475,6 +1561,7 @@
     "RTGS": true,
     "CITY": "PUDUCHERRY",
     "MICR CODE": "639054002",
+    "STD CODE": "413",
     "NEFT": true,
     "IMPS": true
   },
@@ -1485,12 +1572,13 @@
     "DISTRICT": "NAMAKKAL",
     "STATE": "TAMIL NADU",
     "ADDRESS": "DOOR NO.169-C-1,THURAIYUR RD.,NAMAKKAL637002",
-    "CONTACT": "4286221096",
+    "CONTACT": "221096",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NAMAKKAL",
     "MICR CODE": "626054302",
+    "STD CODE": "4286",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1502,12 +1590,13 @@
     "DISTRICT": "KARUR",
     "STATE": "TAMIL NADU",
     "ADDRESS": "\"NAVARANG BUILDING\", NO.18. RAMAKRISHNAPURAM,KARUR639001",
-    "CONTACT": "4324230346",
+    "CONTACT": "230346",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KARUR",
     "MICR CODE": "605054004",
+    "STD CODE": "4324",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1526,6 +1615,7 @@
     "RTGS": true,
     "CITY": "VIRUDHUNAGAR",
     "MICR CODE": "638054004",
+    "STD CODE": "4562",
     "NEFT": true,
     "IMPS": true
   },
@@ -1536,12 +1626,13 @@
     "DISTRICT": "VILLUPURAM",
     "STATE": "TAMIL NADU",
     "ADDRESS": "DOOR NO8,CHAIRMAN SUBBARAYAN STREET  WEST,VILLUPURAM605602",
-    "CONTACT": "4146222313",
+    "CONTACT": "222313",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VILLUPURAM",
     "MICR CODE": "572054202",
+    "STD CODE": "4146",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1553,12 +1644,13 @@
     "DISTRICT": "ERODE",
     "STATE": "TAMIL NADU",
     "ADDRESS": "25 RAJA STREET, PUDUPALAYAM, ERODE MAIN ROAD, GOBICHETTIPALAYAM- 638 476",
-    "CONTACT": "4285223539",
+    "CONTACT": "223539",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "GOBICHETTIPALAYAM",
     "MICR CODE": "520054502",
+    "STD CODE": "4285",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1570,12 +1662,13 @@
     "DISTRICT": "TUMKUR",
     "STATE": "KARNATAKA",
     "ADDRESS": "721/1 B H ROAD, CHANDRAMOULI COMPLEX, BANGALORE - HONNAVER ROAD, TIPTUR - 572 201",
-    "CONTACT": "8134250282",
+    "CONTACT": "250282",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "Tiptur",
     "MICR CODE": "680054102",
+    "STD CODE": "8134",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1594,6 +1687,7 @@
     "RTGS": true,
     "CITY": "GUDIVADA",
     "MICR CODE": "689054002",
+    "STD CODE": "8674",
     "NEFT": true,
     "IMPS": true
   },
@@ -1611,6 +1705,7 @@
     "RTGS": true,
     "CITY": "CHAVAKKAD",
     "MICR CODE": "641054005",
+    "STD CODE": "487",
     "NEFT": true,
     "IMPS": true
   },
@@ -1621,12 +1716,13 @@
     "DISTRICT": "PATHANAMTHITTA",
     "STATE": "KERALA",
     "ADDRESS": "\"ILLAMPALLIL TOWERS\",M.C.ROAD,THIRUVALLA689101",
-    "CONTACT": "4692602650",
+    "CONTACT": "2602650",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "THIRUVALLA",
     "MICR CODE": "400054003",
+    "STD CODE": "469",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1645,6 +1741,7 @@
     "RTGS": true,
     "CITY": "SOMANUR",
     "MICR CODE": "641054103",
+    "STD CODE": "421",
     "NEFT": true,
     "IMPS": true
   },
@@ -1655,12 +1752,13 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "RASHMI PARK,  SHOP NO.79 & 80,OPP. SHANTHI PARK, MTNL ROAD,MIRA ROAD (E), MUMBAI401107",
-    "CONTACT": "2228119808",
+    "CONTACT": "28119808",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR CODE": "395054002",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1672,12 +1770,13 @@
     "DISTRICT": "COIMBATORE",
     "STATE": "TAMIL NADU",
     "ADDRESS": "1ST FLOOR 3/212 TIRUCHY ROAD, PALLADAM 641 664",
-    "CONTACT": "4255253800",
+    "CONTACT": "253800",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "Palladam",
     "MICR CODE": "380054002",
+    "STD CODE": "4255",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1689,12 +1788,13 @@
     "DISTRICT": "SURAT",
     "STATE": "GUJARAT",
     "ADDRESS": "I FLOOR BELGIUM CHAMBERS,RING ROAD,SURAT395003",
-    "CONTACT": "2612422877",
+    "CONTACT": "2422877",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
     "MICR CODE": "110054002",
+    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1706,12 +1806,13 @@
     "DISTRICT": "AHMADABAD",
     "STATE": "GUJARAT",
     "ADDRESS": "G-19 NIRMAN COMPLEX,BEHIND BUS STAND,AHMEDABAD380009",
-    "CONTACT": "7926448828",
+    "CONTACT": "26448828",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
     "MICR CODE": "609054102",
+    "STD CODE": "79",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1730,6 +1831,7 @@
     "RTGS": true,
     "CITY": "NEW DELHI",
     "MICR CODE": "600054008",
+    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true
   },
@@ -1747,6 +1849,7 @@
     "RTGS": true,
     "CITY": "KARAIKKAL",
     "MICR CODE": "520054001",
+    "STD CODE": "4368",
     "NEFT": true,
     "IMPS": true
   },
@@ -1757,12 +1860,13 @@
     "DISTRICT": "CHENNAI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "SWARNAM COMPLEX, 20-A. 4TH MAIN ROAD,NANGANALLUR(CHENNAI)600061",
-    "CONTACT": "4422243839",
+    "CONTACT": "2243839",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "530054001",
+    "STD CODE": "442",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1774,12 +1878,13 @@
     "DISTRICT": "KRISHNA",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "27-14-1-5/2 FLOOR 1,M.S.ROAD,GOVERNORPET,VIJAYAWADA500002",
-    "CONTACT": "8662432436",
+    "CONTACT": "2432436",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VIJAYAWADA",
     "MICR CODE": "695054002",
+    "STD CODE": "866",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1798,6 +1903,7 @@
     "RTGS": true,
     "CITY": "VISHAKHAPATNAM",
     "MICR CODE": "390054002",
+    "STD CODE": "891",
     "NEFT": true,
     "IMPS": true
   },
@@ -1808,12 +1914,13 @@
     "DISTRICT": "THIRUVANANTHAPURAM",
     "STATE": "KERALA",
     "ADDRESS": "TC 38/553/5&6. I FLOOR,POWER HOUSE ROAD,THIRUVANANTHAPURAM695036",
-    "CONTACT": "4712467303",
+    "CONTACT": "2467303",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "THIRUVANANTHAPURAM",
     "MICR CODE": "560054003",
+    "STD CODE": "471",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1832,6 +1939,7 @@
     "RTGS": true,
     "CITY": "VADODARA",
     "MICR CODE": "700054002",
+    "STD CODE": "265",
     "NEFT": true,
     "IMPS": true
   },
@@ -1849,6 +1957,7 @@
     "RTGS": true,
     "CITY": "BENGALURU",
     "MICR CODE": "411054002",
+    "STD CODE": "80",
     "NEFT": true,
     "IMPS": true
   },
@@ -1859,12 +1968,13 @@
     "DISTRICT": "KOLKATA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "2,LAL BAZAAR STREET,CALCUTTA700001",
-    "CONTACT": "3322107140",
+    "CONTACT": "22107140",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
     "MICR CODE": "600054009",
+    "STD CODE": "33",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1876,12 +1986,13 @@
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "309,FIRST LANE,RASTAPETH,KESBETH,PUNE411011",
-    "CONTACT": "2026139034",
+    "CONTACT": "26139034",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "MICR CODE": "600054010",
+    "STD CODE": "20",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1900,6 +2011,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "626054002",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true
   },
@@ -1917,6 +2029,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "620054003",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true
   },
@@ -1927,12 +2040,13 @@
     "DISTRICT": "VIRUDHUNAGAR",
     "STATE": "TAMIL NADU",
     "ADDRESS": "NO.13,CHAIRMAN NPSN ARUMUGA NADAR ROAD,SIVAKASI626123",
-    "CONTACT": "4562220181",
+    "CONTACT": "220181",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SIVAKASI",
     "MICR CODE": "625054003",
+    "STD CODE": "4562",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1944,12 +2058,13 @@
     "DISTRICT": "TIRUCHIRAPALLI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "NO.29,EVS SCHARI ROAD,RANGANAGAR, SRIRANGAM,TIRUCHIRAPALLI620006",
-    "CONTACT": "4312436800",
+    "CONTACT": "2436800",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUCHIRAPPALLI",
     "MICR CODE": "600054011",
+    "STD CODE": "431",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1961,12 +2076,13 @@
     "DISTRICT": "MADURAI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "NO.85L,VADAKKUVASAL STREET,S.S. COLONYMADURAI625010",
-    "CONTACT": "4522610973",
+    "CONTACT": "2610973",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MADURAI",
     "MICR CODE": "600054012",
+    "STD CODE": "452",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1985,6 +2101,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "572054002",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true
   },
@@ -2002,6 +2119,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "533054102",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true
   },
@@ -2012,12 +2130,13 @@
     "DISTRICT": "TUMKUR",
     "STATE": "KARNATAKA",
     "ADDRESS": "PARIJATHA ARCADE, OPP TO GAYATHRI TALKIES, BH ROAD, TUMKUR- 572 101",
-    "CONTACT": "8162254343",
+    "CONTACT": "2254343",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "TUMKUR",
     "MICR CODE": "600054001",
+    "STD CODE": "816",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2036,6 +2155,7 @@
     "RTGS": true,
     "CITY": "RAJAHMUNDURY",
     "MICR CODE": "400054004",
+    "STD CODE": "883",
     "NEFT": true,
     "IMPS": true
   },
@@ -2062,12 +2182,13 @@
     "DISTRICT": "GREATER BOMBAY",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "10-15-39 & 40/1, MAIN ROAD,FORT GATE,RAJAHMUNDRY533101",
-    "CONTACT": "2222677376",
+    "CONTACT": "2677376",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR CODE": "533054002",
+    "STD CODE": "222",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2086,6 +2207,7 @@
     "RTGS": true,
     "CITY": "THRISSUR",
     "MICR CODE": "520054202",
+    "STD CODE": "487",
     "NEFT": true,
     "IMPS": true
   },
@@ -2096,12 +2218,13 @@
     "DISTRICT": "EAST GODAVARI",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "NO.20-1-10 A, \"L\" TYPE, MAIN ROAD, SUPER BAZAR, KAKINADA- 533 001",
-    "CONTACT": "8842341124",
+    "CONTACT": "2341124",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KAKINADA",
     "MICR CODE": "678054002",
+    "STD CODE": "884",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2113,12 +2236,13 @@
     "DISTRICT": "GUNTUR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "NO.16-1-38, MAIN ROAD, TENALI 522 201",
-    "CONTACT": "8644232216",
+    "CONTACT": "232216",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "TENALI",
     "MICR CODE": "534054402",
+    "STD CODE": "8644",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2137,6 +2261,7 @@
     "RTGS": true,
     "CITY": "PALAKKAD",
     "MICR CODE": "627054004",
+    "STD CODE": "491",
     "NEFT": true,
     "IMPS": true
   },
@@ -2147,12 +2272,13 @@
     "DISTRICT": "WEST GODAVARI",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "17/2/50,Rest House Road, BHIMAVARAM- 534 201",
-    "CONTACT": "8816230280",
+    "CONTACT": "230280",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "Bhimavaram",
     "MICR CODE": "641054006",
+    "STD CODE": "8816",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2164,12 +2290,13 @@
     "DISTRICT": "TOOTHUKUDI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "Rajakumari Towrs, 18/40, AKS Theatre Road, Koilpatti - 628 502",
-    "CONTACT": "4632228954",
+    "CONTACT": "228954",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOVILPATTI",
     "MICR CODE": "600054013",
+    "STD CODE": "4632",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2188,6 +2315,7 @@
     "RTGS": true,
     "CITY": "COIMBATORE",
     "MICR CODE": "500054004",
+    "STD CODE": "422",
     "NEFT": true,
     "IMPS": true
   },
@@ -2198,12 +2326,13 @@
     "DISTRICT": "CHENNAI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "Ashok Manasarover, 51 (Old No.12), First Avenue, 100 Feet Road, Ashok Nagar, Chennai 600083",
-    "CONTACT": "4423717171",
+    "CONTACT": "23717171",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "560054004",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2222,6 +2351,7 @@
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR CODE": "673054002",
+    "STD CODE": "40",
     "NEFT": true,
     "IMPS": true
   },
@@ -2239,6 +2369,7 @@
     "RTGS": true,
     "CITY": "BENGALURU",
     "MICR CODE": "629054002",
+    "STD CODE": "80",
     "NEFT": true,
     "IMPS": true
   },
@@ -2256,6 +2387,7 @@
     "RTGS": true,
     "CITY": "KOZHICODE, CALICUT",
     "MICR CODE": "534054002",
+    "STD CODE": "495",
     "NEFT": true,
     "IMPS": true
   },
@@ -2266,12 +2398,13 @@
     "DISTRICT": "KANYAKUMARI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "Thasor Press Building, No.35, I Floor, Cape Road, Veepamoodu Junction, Nagarcoil 629001",
-    "CONTACT": "4652225353",
+    "CONTACT": "225353",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGERCOIL",
     "MICR CODE": "523054002",
+    "STD CODE": "4652",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2283,12 +2416,13 @@
     "DISTRICT": "WEST GODAVARI",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "Agraj Plaza, No.23-A-10-5, R.R.Pet, Eluru 534002",
-    "CONTACT": "881240340",
+    "CONTACT": "240340",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ELURU",
     "MICR CODE": "625054102",
+    "STD CODE": "881",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2300,12 +2434,13 @@
     "DISTRICT": "PRAKASAM",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "MCBH Complex, 3-2-19, Kurnool Road, Opp. RTC Bus Stand, Ongole 523002",
-    "CONTACT": "8592282912",
+    "CONTACT": "282912",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ONGOLE",
     "MICR CODE": "642054102",
+    "STD CODE": "8592",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2317,12 +2452,13 @@
     "DISTRICT": "THENI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "I Floor, 914-915, Cumbum Road, Theni 626531",
-    "CONTACT": "4546255700",
+    "CONTACT": "255700",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "THENI",
     "MICR CODE": "560054005",
+    "STD CODE": "4546",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2341,6 +2477,7 @@
     "RTGS": true,
     "CITY": "UDUMALAIPET",
     "MICR CODE": "516054002",
+    "STD CODE": "4252",
     "NEFT": true,
     "IMPS": true
   },
@@ -2358,6 +2495,7 @@
     "RTGS": true,
     "CITY": "BENGALURU",
     "MICR CODE": "518054002",
+    "STD CODE": "80",
     "NEFT": true,
     "IMPS": true
   },
@@ -2375,6 +2513,7 @@
     "RTGS": true,
     "CITY": "CUDDAPAH",
     "MICR CODE": "400054005",
+    "STD CODE": "8562",
     "NEFT": true,
     "IMPS": true
   },
@@ -2385,12 +2524,13 @@
     "DISTRICT": "KURNOOL",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "40-304, Baghya Nagar, Mouriya Inn, Kurnool 518004",
-    "CONTACT": "8518276611",
+    "CONTACT": "276611",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KURNOOL",
     "MICR CODE": "638054003",
+    "STD CODE": "8518",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2402,12 +2542,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "108,109,110, Shivaji Market, I Floor, Plot No. 8 & 9, Sector 19 - D, Vashi, Navi Mumbai 400705",
-    "CONTACT": "2227836992",
+    "CONTACT": "27836992",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NEW BOMBAY",
     "MICR CODE": "520054002",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2426,6 +2567,7 @@
     "RTGS": true,
     "CITY": "TIRUCHENGODE",
     "MICR CODE": "520054104",
+    "STD CODE": "4288",
     "NEFT": true,
     "IMPS": true
   },
@@ -2443,6 +2585,7 @@
     "RTGS": true,
     "CITY": "VIJAYAWADA",
     "MICR CODE": "670054002",
+    "STD CODE": "866",
     "NEFT": true,
     "IMPS": true
   },
@@ -2453,12 +2596,13 @@
     "DISTRICT": "GUNTUR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "I Floor,D.No.5/37/21, 4/2 BRODIEPET, GUNTUR - 522 002",
-    "CONTACT": "8632219091",
+    "CONTACT": "2219091",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "GUNTUR",
     "MICR CODE": "635054402",
+    "STD CODE": "863",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2470,12 +2614,13 @@
     "DISTRICT": "CANNUR",
     "STATE": "KERALA",
     "ADDRESS": "\"THE FORTE\" I FLOOR",
-    "CONTACT": "4972700135",
+    "CONTACT": "2700135",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CANNUR",
     "MICR CODE": "560054006",
+    "STD CODE": "497",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2494,6 +2639,7 @@
     "RTGS": true,
     "CITY": "HOSUR",
     "MICR CODE": "570054002",
+    "STD CODE": "4344",
     "NEFT": true,
     "IMPS": true
   },
@@ -2511,6 +2657,7 @@
     "RTGS": true,
     "CITY": "BENGALURU",
     "MICR CODE": "600054014",
+    "STD CODE": "80",
     "NEFT": true,
     "IMPS": true
   },
@@ -2521,12 +2668,13 @@
     "DISTRICT": "MYSORE",
     "STATE": "KARNATAKA",
     "ADDRESS": "28-D, DEVARAJ URS ROAD",
-    "CONTACT": "8212449966",
+    "CONTACT": "2449966",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MYSORE",
     "MICR CODE": "600054015",
+    "STD CODE": "821",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2545,6 +2693,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "600054016",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true
   },
@@ -2555,12 +2704,13 @@
     "DISTRICT": "CHENNAI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "168, MEDAVAKKAM MAIN ROAD",
-    "CONTACT": "4422473456",
+    "CONTACT": "22473456",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "620054004",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2572,12 +2722,13 @@
     "DISTRICT": "CHENNAI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "NO. 1, CUSTOMERS COLONY",
-    "CONTACT": "4424580772",
+    "CONTACT": "24580772",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "686054002",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2595,6 +2746,7 @@
     "RTGS": true,
     "CITY": "TIRUCHIRAPPALLI",
     "MICR CODE": "500054005",
+    "STD CODE": "431",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2606,12 +2758,13 @@
     "DISTRICT": "KOTTAYAM",
     "STATE": "KERALA",
     "ADDRESS": "I FLOOR, CSI COMML. CENTRE",
-    "CONTACT": "4812300580",
+    "CONTACT": "2300580",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOTTAYAM",
     "MICR CODE": "532054002",
+    "STD CODE": "481",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2629,6 +2782,7 @@
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR CODE": "520054402",
+    "STD CODE": "40",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2640,12 +2794,13 @@
     "DISTRICT": "KRISHNA",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "9-4-10, 7 ROAD JUNCTION",
-    "CONTACT": "8942228311",
+    "CONTACT": "228311",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SRIKAKULAM",
     "MICR CODE": "638054005",
+    "STD CODE": "8942",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2657,12 +2812,13 @@
     "DISTRICT": "KRISHNA",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "24/32, MAIN ROAD,",
-    "CONTACT": "8672221861",
+    "CONTACT": "221861",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MACHILIPATNAM",
     "MICR CODE": "636054005",
+    "STD CODE": "8672",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2680,6 +2836,7 @@
     "RTGS": true,
     "CITY": "KANGEYAM",
     "MICR CODE": "606054103",
+    "STD CODE": "4257",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2697,6 +2854,7 @@
     "RTGS": true,
     "CITY": "RASIPURAM",
     "MICR CODE": "638054302",
+    "STD CODE": "4287",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2714,6 +2872,7 @@
     "RTGS": true,
     "CITY": "TIRUKOILUR",
     "MICR CODE": "626054402",
+    "STD CODE": "4153",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2731,6 +2890,7 @@
     "RTGS": true,
     "CITY": "DHARAPURAM",
     "MICR CODE": "635054002",
+    "STD CODE": "4258",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2749,6 +2909,7 @@
     "RTGS": true,
     "CITY": "SATTUR",
     "MICR CODE": "623054102",
+    "STD CODE": "4562",
     "NEFT": true,
     "IMPS": true
   },
@@ -2765,6 +2926,7 @@
     "RTGS": true,
     "CITY": "KRISHNAGIRI",
     "MICR CODE": "590054002",
+    "STD CODE": "4343",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2782,6 +2944,7 @@
     "RTGS": true,
     "CITY": "PARAMAGUDI",
     "MICR CODE": "580054002",
+    "STD CODE": "4564",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2793,12 +2956,13 @@
     "DISTRICT": "BELGAUM",
     "STATE": "KARNATAKA",
     "ADDRESS": "I FLOOR, G-5",
-    "CONTACT": "8312465564",
+    "CONTACT": "2465564",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BELGAUM",
     "MICR CODE": "575054002",
+    "STD CODE": "831",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2810,12 +2974,13 @@
     "DISTRICT": "DHARWAD",
     "STATE": "KARNATAKA",
     "ADDRESS": "GROUND FLOOR,",
-    "CONTACT": "8362361208",
+    "CONTACT": "2361208",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "HUBLI-DHARWAD",
     "MICR CODE": "577054002",
+    "STD CODE": "836",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2834,6 +2999,7 @@
     "RTGS": true,
     "CITY": "MANGALORE",
     "MICR CODE": "516054102",
+    "STD CODE": "824",
     "NEFT": true,
     "IMPS": true
   },
@@ -2850,6 +3016,7 @@
     "RTGS": true,
     "CITY": "DAVANGERE",
     "MICR CODE": "506054002",
+    "STD CODE": "8192",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2867,6 +3034,7 @@
     "RTGS": true,
     "CITY": "PRODDATUR",
     "MICR CODE": "612054004",
+    "STD CODE": "8564",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2885,6 +3053,7 @@
     "RTGS": true,
     "CITY": "WARANGAL",
     "MICR CODE": "606054002",
+    "STD CODE": "870",
     "NEFT": true,
     "IMPS": true
   },
@@ -2901,6 +3070,7 @@
     "RTGS": true,
     "CITY": "KUMBAKONAM",
     "MICR CODE": "630054202",
+    "STD CODE": "435",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2918,6 +3088,7 @@
     "RTGS": true,
     "CITY": "TIRUVANNAMALAI",
     "MICR CODE": "518054102",
+    "STD CODE": "4175",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2935,6 +3106,7 @@
     "RTGS": true,
     "CITY": "SIVAGANGA",
     "MICR CODE": "623054002",
+    "STD CODE": "4575",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -2953,6 +3125,7 @@
     "RTGS": true,
     "CITY": "NANDYAL",
     "MICR CODE": "400054006",
+    "STD CODE": "8514",
     "NEFT": true,
     "IMPS": true
   },
@@ -2970,6 +3143,7 @@
     "RTGS": true,
     "CITY": "RAMANATHAPURAM",
     "MICR CODE": "518054102",
+    "STD CODE": "4567",
     "NEFT": true,
     "IMPS": true
   },
@@ -2987,6 +3161,7 @@
     "RTGS": true,
     "CITY": "THANE WEST",
     "MICR CODE": "440054002",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -2997,12 +3172,13 @@
     "DISTRICT": "KOLHAPUR",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "10/286, BUNGALOW ROAD",
-    "CONTACT": "2302422772",
+    "CONTACT": "2422772",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ICHALKARNJI",
     "MICR CODE": "515054002",
+    "STD CODE": "230",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3021,6 +3197,7 @@
     "RTGS": true,
     "CITY": "NAGPUR",
     "MICR CODE": "515054202",
+    "STD CODE": "712",
     "NEFT": true,
     "IMPS": true
   },
@@ -3031,12 +3208,13 @@
     "DISTRICT": "ANANTAPUR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "I FLOOR, M. C. H. NO. 18/161-A",
-    "CONTACT": "8554279777",
+    "CONTACT": "279777",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ANANTAPUR",
     "MICR CODE": "360054002",
+    "STD CODE": "8554",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3055,6 +3233,7 @@
     "RTGS": true,
     "CITY": "DHARMAVARAM",
     "MICR CODE": "422054002",
+    "STD CODE": "8559",
     "NEFT": true,
     "IMPS": true
   },
@@ -3071,6 +3250,7 @@
     "RTGS": true,
     "CITY": "RAJKOT",
     "MICR CODE": "630054102",
+    "STD CODE": "281",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3088,6 +3268,7 @@
     "RTGS": true,
     "CITY": "NASHIK",
     "MICR CODE": "600054019",
+    "STD CODE": "253",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3105,6 +3286,7 @@
     "RTGS": true,
     "CITY": "DEVAKOTTAI",
     "MICR CODE": "600054018",
+    "STD CODE": "4561",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3116,12 +3298,13 @@
     "DISTRICT": "CHENNAI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "GROUND FLOOR,PLOTNO - 590, D.NO 30,OLD(35), ALAGIRISAMI SALAI, K K NAGAR CHENNAI.PIN:- 600078",
-    "CONTACT": "4423661477",
+    "CONTACT": "23661477",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "641054104",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3133,12 +3316,13 @@
     "DISTRICT": "KANCHEEPURAM",
     "STATE": "TAMIL NADU",
     "ADDRESS": "GROUND FLOOR, 1/73,PAVENDAR STREET,MARAIMALAI NAGAR CHENGLEPUT DIST - 603209",
-    "CONTACT": "4427454141",
+    "CONTACT": "27454141",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MARAIMALAI NAGAR",
     "MICR CODE": "600054020",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3150,12 +3334,13 @@
     "DISTRICT": "ERODE",
     "STATE": "TAMIL NADU",
     "ADDRESS": "32/6 TIRUPUR ROAD , UTHUKULI . PIN :- 638751",
-    "CONTACT": "4294260666",
+    "CONTACT": "260666",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "UTHUKULI",
     "MICR CODE": "636054004",
+    "STD CODE": "4294",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3174,6 +3359,7 @@
     "RTGS": true,
     "CITY": "CHENGALPET",
     "MICR CODE": "636054003",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true
   },
@@ -3184,12 +3370,13 @@
     "DISTRICT": "SALEM",
     "STATE": "TAMIL NADU",
     "ADDRESS": "GROUND FLOOR , 44, BRINDAVAN ROAD, FAIRLANDS , SALEM. PIN:- 636016",
-    "CONTACT": "4272333654",
+    "CONTACT": "2333654",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SALEM",
     "MICR CODE": "613054005",
+    "STD CODE": "427",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3201,12 +3388,13 @@
     "DISTRICT": "SALEM",
     "STATE": "TAMIL NADU",
     "ADDRESS": "14-261/489, D. MAIN ROAD,NEAR BUS STAND, ELLAMPILLAI , SALEM DISTRICT",
-    "CONTACT": "4272491455",
+    "CONTACT": "2491455",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SALEM",
     "MICR CODE": "638054006",
+    "STD CODE": "427",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3218,12 +3406,13 @@
     "DISTRICT": "THANJAVUR",
     "STATE": "TAMIL NADU",
     "ADDRESS": "GROUND FLOOR,1/114 MAIN ROAD, NADUKKADAI , THANJAVUR DISTRICT",
-    "CONTACT": "4362261277",
+    "CONTACT": "261277",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "THANJAVUR",
     "MICR CODE": "641054007",
+    "STD CODE": "4362",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3242,6 +3431,7 @@
     "RTGS": true,
     "CITY": "PALLIPALAYAM",
     "MICR CODE": "600054021",
+    "STD CODE": "4288",
     "NEFT": true,
     "IMPS": true
   },
@@ -3259,6 +3449,7 @@
     "RTGS": true,
     "CITY": "COIMBATORE",
     "MICR CODE": "700054003",
+    "STD CODE": "422",
     "NEFT": true,
     "IMPS": true
   },
@@ -3269,12 +3460,13 @@
     "DISTRICT": "KANCHEEPURAM",
     "STATE": "TAMIL NADU",
     "ADDRESS": "1/61,K.S.S.STREET,KELAMBAKKAM,KANCHEEPURAM DISTRICT",
-    "CONTACT": "4427475925",
+    "CONTACT": "27475925",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KELAMBAKKAM",
     "MICR CODE": "625054004",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3286,12 +3478,13 @@
     "DISTRICT": "KOLKATA",
     "STATE": "WEST BENGAL",
     "ADDRESS": "SURNA HOUSE, 208/1A,RASH BEHARI AVENUE,KOLKATA – 700 029",
-    "CONTACT": "3324197193",
+    "CONTACT": "24197193",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
     "MICR CODE": "612054011",
+    "STD CODE": "33",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3303,12 +3496,13 @@
     "DISTRICT": "MADURAI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "80 FEET ROAD ,(OPP AMBIGA THEATRE) ,ANNA NAGAR , MADURAI - 625020",
-    "CONTACT": "4522525485",
+    "CONTACT": "2525485",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MADURAI",
     "MICR CODE": "621054302",
+    "STD CODE": "452",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3327,6 +3521,7 @@
     "RTGS": true,
     "CITY": "NACHIAR KOIL",
     "MICR CODE": "625054004",
+    "STD CODE": "435",
     "NEFT": true,
     "IMPS": true
   },
@@ -3337,12 +3532,13 @@
     "DISTRICT": "PERAMBALUR",
     "STATE": "TAMIL NADU",
     "ADDRESS": "GROUND FLOOR, 25/1,ELANGO STREET,(TRICHY MAIN ROAD),PERAMBALUR – 621 212",
-    "CONTACT": "4328277233",
+    "CONTACT": "277233",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PERAMBALUR",
     "MICR CODE": "560054007",
+    "STD CODE": "4328",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3354,12 +3550,13 @@
     "DISTRICT": "BANGALORE RURAL",
     "STATE": "KARNATAKA",
     "ADDRESS": "GROUND FLOOR,B.M.ROAD, 316, IJOOR I STAGE, NEAR BUS STAND, BANGALORE-MYSORE MAIN ROAD,RAMANAGARA.KARNATAKA - 571511",
-    "CONTACT": "8027276688",
+    "CONTACT": "27276688",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "RAMANAGARAM",
     "MICR CODE": "691054002",
+    "STD CODE": "80",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3371,12 +3568,13 @@
     "DISTRICT": "BANGALORE URBAN",
     "STATE": "KARNATAKA",
     "ADDRESS": "1002/55,KRK CHAMBERS, FIRST MAIN, FOURTH BLOCK,80 FEET DR.RAJKUMAR ROAD,BANGALORE -560010",
-    "CONTACT": "8023155151",
+    "CONTACT": "23155151",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
     "MICR CODE": "620054007",
+    "STD CODE": "80",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3388,12 +3586,13 @@
     "DISTRICT": "KOLLAM",
     "STATE": "KERALA",
     "ADDRESS": "FIRST FLOOR,SAIT TOWER,BEACH ROAD,CHINAKKADA,KOLLAM - 691001",
-    "CONTACT": "4742767622",
+    "CONTACT": "2767622",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLLAM",
     "MICR CODE": "609054202",
+    "STD CODE": "474",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3405,12 +3604,13 @@
     "DISTRICT": "TIRUCHIRAPALLI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "GROUND FLOOR,TRICHY MAIN ROAD,OPP TO GANAPATHY THIRUMANAMANDAPAM,MATHURAPURI - 621010",
-    "CONTACT": "4327255777",
+    "CONTACT": "255777",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MATHURAPURI",
     "MICR CODE": "560054008",
+    "STD CODE": "4327",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3422,12 +3622,13 @@
     "DISTRICT": "NAGAPATTINAM",
     "STATE": "TAMIL NADU",
     "ADDRESS": "GROUND FLOOR,PIDARI NORTH STREET,SIRKALI - 609110",
-    "CONTACT": "4364265145",
+    "CONTACT": "265145",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SIRKALI",
     "MICR CODE": "515054102",
+    "STD CODE": "4364",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3439,12 +3640,13 @@
     "DISTRICT": "BANGALORE URBAN",
     "STATE": "KARNATAKA",
     "ADDRESS": "784,II PHASE,7TH BLOCK,BANASHANKARI,III STAGE,100 FT ROAD,BANGALORE KARNATAKA -560085",
-    "CONTACT": "8026423599",
+    "CONTACT": "26423599",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
     "MICR CODE": "638054007",
+    "STD CODE": "80",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3456,12 +3658,13 @@
     "DISTRICT": "ANANTAPUR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "DOOR NO-13-2C,SVR COMPLEX,PENUKONDA ROAD,HINDUPUR ,ANATAPUR DIST,ANDHRA PRADESH - 515201",
-    "CONTACT": "8556221223",
+    "CONTACT": "221223",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "HINDUPUR",
     "MICR CODE": "500054006",
+    "STD CODE": "8556",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3473,12 +3676,13 @@
     "DISTRICT": "ERODE",
     "STATE": "TAMIL NADU",
     "ADDRESS": "SF.NO.15/2A,PERUNDURAI ROAD,THINDAL , ERODE,TAMIL NADU  -638002",
-    "CONTACT": "4242430111",
+    "CONTACT": "2430111",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ERODE",
     "MICR CODE": "500054007",
+    "STD CODE": "424",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3490,12 +3694,13 @@
     "DISTRICT": "HYDERABAD",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "H.NO:16-11-741/C/1,SRI DATTA SAI COMPLEX,PLOT NO.14,GADDIANARAM,DILSUKHNAGAR,HYDERABAD - 500060",
-    "CONTACT": "4024141900",
+    "CONTACT": "24141900",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR CODE": "110054003",
+    "STD CODE": "40",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3514,6 +3719,7 @@
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR CODE": "211054002",
+    "STD CODE": "40",
     "NEFT": true,
     "IMPS": true
   },
@@ -3524,12 +3730,13 @@
     "DISTRICT": "DELHI",
     "STATE": "DELHI",
     "ADDRESS": "GROUND FLOOR,DOOR NO:30,BLOCK-B1,JANAKPURI,NEW DELHI-110058",
-    "CONTACT": "1125555343",
+    "CONTACT": "25555343",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "620054005",
+    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3541,12 +3748,13 @@
     "DISTRICT": "ALLAHABAD",
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "2/2B,BHAGWAN RAM MANDIR MARG(NEAR VISHAL MEGA MART),CIVIL LINES,ALLAHABAD UTTAR PRADESH -211001",
-    "CONTACT": "5322421098",
+    "CONTACT": "2421098",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ALLAHABAD",
     "MICR CODE": "641054008",
+    "STD CODE": "532",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3558,12 +3766,13 @@
     "DISTRICT": "TIRUCHIRAPALLI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "OLD NO.8/55,ANNA SALAI,THUVAKUDI MALAI NORTH,NEAR ANNA ARCH,TIRUCHIRAPALLI - 620022",
-    "CONTACT": "4312551100",
+    "CONTACT": "2551100",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "THUVAKUDI",
     "MICR CODE": "600054022",
+    "STD CODE": "431",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3575,12 +3784,13 @@
     "DISTRICT": "COIMBATORE",
     "STATE": "TAMIL NADU",
     "ADDRESS": "THACHIL COMPLEX,10,ANNAMALAI ROAD,SAIBABA COLONY,COIMBATORE -641011",
-    "CONTACT": "4222444601",
+    "CONTACT": "2444601",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
     "MICR CODE": "431054002",
+    "STD CODE": "422",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3592,12 +3802,13 @@
     "DISTRICT": "KANCHEEPURAM",
     "STATE": "TAMIL NADU",
     "ADDRESS": "67,GANDHI ROAD,GROUND FLOOR,SRIPERUMBUDUR,CHENNAI-602105",
-    "CONTACT": "4427163996",
+    "CONTACT": "27163996",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SRIPERUMBUDUR",
     "MICR CODE": "641054010",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3609,12 +3820,13 @@
     "DISTRICT": "AURANGABAD",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "NO,6 ANNAPURNA TOWER,KUSHAL NAGAR,JALNA ROAD,AURANGABAD-431005",
-    "CONTACT": "2402364798",
+    "CONTACT": "2364798",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "AURANGABAD",
     "MICR CODE": "641054012",
+    "STD CODE": "240",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3633,6 +3845,7 @@
     "RTGS": true,
     "CITY": "COIMBATORE",
     "MICR CODE": "416054002",
+    "STD CODE": "422",
     "NEFT": true,
     "IMPS": true
   },
@@ -3643,12 +3856,13 @@
     "DISTRICT": "COIMBATORE",
     "STATE": "TAMIL NADU",
     "ADDRESS": "62,UPSTAIRS OF SOUTH INDIAN BANK LTD,COIMBATORE-POLLACHI MAIN ROAD,KINATHUKADAVU,POLLACHI-642109",
-    "CONTACT": "4259242190",
+    "CONTACT": "242190",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "POLLACHI",
     "MICR CODE": "641054009",
+    "STD CODE": "4259",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3660,12 +3874,13 @@
     "DISTRICT": "KOLHAPUR",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "520/2,E WARD,S.L.BENADIKAR PATH,NEAR CBS,SHAHUPURIKOLHAPUR-416001",
-    "CONTACT": "2312667607",
+    "CONTACT": "2667607",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLHAPUR",
     "MICR CODE": "600054023",
+    "STD CODE": "231",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3677,12 +3892,13 @@
     "DISTRICT": "COIMBATORE",
     "STATE": "TAMIL NADU",
     "ADDRESS": "189,GROUND FLOOR,MADHAVANPATTY MAIN ROAD,9TH WARD,THONDAMUTHUR-641109",
-    "CONTACT": "4222617797",
+    "CONTACT": "2617797",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "THONDAMUTHUR",
     "MICR CODE": "141054002",
+    "STD CODE": "422",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3694,12 +3910,13 @@
     "DISTRICT": "CHENNAI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "NO 1,THANDAVAMOORTHY NAGAR,VALASARAWALKAM,CHENNAI-600087",
-    "CONTACT": "4424869500",
+    "CONTACT": "24869500",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "452054002",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3711,12 +3928,13 @@
     "DISTRICT": "LUDHIANA",
     "STATE": "PUNJAB",
     "ADDRESS": "NO 925 A SALH COMPLEX,DASMESH NAGAR,GILL ROAD,LUDHIANA-141003",
-    "CONTACT": "1612540076",
+    "CONTACT": "2540076",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "LUDHIANA",
     "MICR CODE": "302054002",
+    "STD CODE": "161",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3728,12 +3946,13 @@
     "DISTRICT": "INDORE",
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "6/1,THE MAGNATE,NEW PALASIA,CURE WELL HOSPITAL ROAD,INDORE-452001",
-    "CONTACT": "7312530408",
+    "CONTACT": "2530408",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "INDORE",
     "MICR CODE": "311054002",
+    "STD CODE": "731",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3745,12 +3964,13 @@
     "DISTRICT": "JAIPUR",
     "STATE": "RAJASTHAN",
     "ADDRESS": "PLOT NO 12 EMERALD HOTEL BUILDING,M I ROAD,JAIPUR-302001",
-    "CONTACT": "1412378003",
+    "CONTACT": "2378003",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "MICR CODE": "400054007",
+    "STD CODE": "141",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3762,12 +3982,13 @@
     "DISTRICT": "BHILWARA",
     "STATE": "RAJASTHAN",
     "ADDRESS": "SHOP NO 3-7,SRINATH TOWER,GANGAPUR CHORAHA,PUR ROAD,BHILWARA-311001",
-    "CONTACT": "1482247722",
+    "CONTACT": "247722",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BHILWARA",
     "MICR CODE": "364054002",
+    "STD CODE": "1482",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3779,12 +4000,13 @@
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO 1&2,BUILDING NO 9,ELLORA COMPLEX-2,CO-OP HSG SOCIETY LTD,GHANSHYAM GUPTE ROAD,DOMBIVILI(WEST)-421201",
-    "CONTACT": "2512485680",
+    "CONTACT": "2485680",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DOMBIVLI",
     "MICR CODE": "395054003",
+    "STD CODE": "251",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3803,6 +4025,7 @@
     "RTGS": true,
     "CITY": "BHAVNAGAR",
     "MICR CODE": "400054007",
+    "STD CODE": "278",
     "NEFT": true,
     "IMPS": true
   },
@@ -3820,6 +4043,7 @@
     "RTGS": true,
     "CITY": "SURAT",
     "MICR CODE": "641054105",
+    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
@@ -3836,6 +4060,7 @@
     "RTGS": true,
     "CITY": "MARTHANDAM",
     "MICR CODE": "631054102",
+    "STD CODE": "4651",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3854,6 +4079,7 @@
     "RTGS": true,
     "CITY": "TIRUPPUR",
     "MICR CODE": "629054003",
+    "STD CODE": "421",
     "NEFT": true,
     "IMPS": true
   },
@@ -3870,6 +4096,7 @@
     "RTGS": true,
     "CITY": "ARKONAM",
     "MICR CODE": "627054005",
+    "STD CODE": "4177",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3887,6 +4114,7 @@
     "RTGS": true,
     "CITY": "VEDARANYAM",
     "MICR CODE": "636054102",
+    "STD CODE": "4369",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3904,6 +4132,7 @@
     "RTGS": true,
     "CITY": "PALAYAMKOTTAI",
     "MICR CODE": "636054007",
+    "STD CODE": "462",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3921,6 +4150,7 @@
     "RTGS": true,
     "CITY": "DHARMAPURI",
     "MICR CODE": "560054010",
+    "STD CODE": "4342",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3938,6 +4168,7 @@
     "RTGS": true,
     "CITY": "JALAKANTAPURAM",
     "MICR CODE": "560054011",
+    "STD CODE": "4298",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3955,6 +4186,7 @@
     "RTGS": true,
     "CITY": "BANGALORE",
     "MICR CODE": "636054006",
+    "STD CODE": "80",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3972,6 +4204,7 @@
     "RTGS": true,
     "CITY": "BANGALORE",
     "MICR CODE": "560054009",
+    "STD CODE": "80",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -3989,6 +4222,7 @@
     "RTGS": true,
     "CITY": "SALEM",
     "MICR CODE": "560054012",
+    "STD CODE": "427",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4006,6 +4240,7 @@
     "RTGS": true,
     "CITY": "BANGALORE",
     "MICR CODE": "636054009",
+    "STD CODE": "80",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4023,6 +4258,7 @@
     "RTGS": true,
     "CITY": "YELAHANKA",
     "MICR CODE": "517054102",
+    "STD CODE": "80",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4040,6 +4276,7 @@
     "RTGS": true,
     "CITY": "ATTUR",
     "MICR CODE": "505054002",
+    "STD CODE": "4282",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4057,6 +4294,7 @@
     "RTGS": true,
     "CITY": "CHITTOOR",
     "MICR CODE": "638054008",
+    "STD CODE": "8572",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4074,6 +4312,7 @@
     "RTGS": true,
     "CITY": "KARIMNAGAR",
     "MICR CODE": "600054025",
+    "STD CODE": "878",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4091,6 +4330,7 @@
     "RTGS": true,
     "CITY": "PERUNDURAI",
     "MICR CODE": "600054026",
+    "STD CODE": "4294",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4109,6 +4349,7 @@
     "RTGS": true,
     "CITY": "MANALI",
     "MICR CODE": "110054004",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true
   },
@@ -4125,6 +4366,7 @@
     "RTGS": true,
     "CITY": "TIRUVALLUR",
     "MICR CODE": "144054002",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4142,6 +4384,7 @@
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "600054027",
+    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4159,6 +4402,7 @@
     "RTGS": true,
     "CITY": "JALANDHAR",
     "MICR CODE": "632054302",
+    "STD CODE": "181",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4177,6 +4421,7 @@
     "RTGS": true,
     "CITY": "MADURAVOYAL",
     "MICR CODE": "606054102",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true
   },
@@ -4193,6 +4438,7 @@
     "RTGS": true,
     "CITY": "GUDIYATHAM",
     "MICR CODE": "638054009",
+    "STD CODE": "4171",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4210,6 +4456,7 @@
     "RTGS": true,
     "CITY": "KALLAKURICHI",
     "MICR CODE": "583054102",
+    "STD CODE": "4151",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4227,6 +4474,7 @@
     "RTGS": true,
     "CITY": "BHAVANI",
     "MICR CODE": "600054028",
+    "STD CODE": "4256",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4245,6 +4493,7 @@
     "RTGS": true,
     "CITY": "BELLARY",
     "MICR CODE": "632054202",
+    "STD CODE": "8392",
     "NEFT": true,
     "IMPS": true
   },
@@ -4262,6 +4511,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "110054005",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true
   },
@@ -4278,6 +4528,7 @@
     "RTGS": true,
     "CITY": "ARNI",
     "MICR CODE": "638054010",
+    "STD CODE": "4173",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4295,6 +4546,7 @@
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "600054029",
+    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4312,6 +4564,7 @@
     "RTGS": true,
     "CITY": "VELLAKOVIL",
     "MICR CODE": "503054002",
+    "STD CODE": "4257",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4329,6 +4582,7 @@
     "RTGS": true,
     "CITY": "PAMMAL",
     "MICR CODE": "614054202",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4346,6 +4600,7 @@
     "RTGS": true,
     "CITY": "NIZAMABAD",
     "MICR CODE": "221054002",
+    "STD CODE": "8462",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4363,6 +4618,7 @@
     "RTGS": true,
     "CITY": "TIRUTURAIPUNDI",
     "MICR CODE": "632054102",
+    "STD CODE": "4369",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4380,6 +4636,7 @@
     "RTGS": true,
     "CITY": "VARANASI",
     "MICR CODE": "600054030",
+    "STD CODE": "542",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4397,6 +4654,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "600054031",
+    "STD CODE": "4172",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4414,6 +4672,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "600054032",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4431,6 +4690,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "620054010",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4448,6 +4708,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "500054008",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4465,6 +4726,7 @@
     "RTGS": true,
     "CITY": "TIRUCHIRAPPALLI",
     "MICR CODE": "507054002",
+    "STD CODE": "431",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4482,6 +4744,7 @@
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR CODE": "600054033",
+    "STD CODE": "40",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4499,6 +4762,7 @@
     "RTGS": true,
     "CITY": "KHAMMAM",
     "MICR CODE": "627054006",
+    "STD CODE": "8742",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4516,6 +4780,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "625054007",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4534,6 +4799,7 @@
     "RTGS": true,
     "CITY": "KADAYANALLUR",
     "MICR CODE": "400054008",
+    "STD CODE": "4633",
     "NEFT": true,
     "IMPS": true
   },
@@ -4550,6 +4816,7 @@
     "RTGS": true,
     "CITY": "MADURAI",
     "MICR CODE": "400054009",
+    "STD CODE": "452",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4567,6 +4834,7 @@
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR CODE": "600054034",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4584,6 +4852,7 @@
     "RTGS": true,
     "CITY": "KALYAN",
     "MICR CODE": "613054006",
+    "STD CODE": "251",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4602,6 +4871,7 @@
     "RTGS": true,
     "CITY": "CHENGALPAT",
     "MICR CODE": "625054008",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true
   },
@@ -4618,6 +4888,7 @@
     "RTGS": true,
     "CITY": "THANJAVUR",
     "MICR CODE": "641054013",
+    "STD CODE": "4362",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4635,6 +4906,7 @@
     "RTGS": true,
     "CITY": "TIRUMANGALAM",
     "MICR CODE": "613054007",
+    "STD CODE": "4549",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4652,6 +4924,7 @@
     "RTGS": true,
     "CITY": "VADAVALLI",
     "MICR CODE": "623054003",
+    "STD CODE": "422",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4669,6 +4942,7 @@
     "RTGS": true,
     "CITY": "VALLAM",
     "MICR CODE": "400054010",
+    "STD CODE": "4362",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4686,6 +4960,7 @@
     "RTGS": true,
     "CITY": "KILAKARAI",
     "MICR CODE": "611054005",
+    "STD CODE": "4567",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4704,6 +4979,7 @@
     "RTGS": true,
     "CITY": "NAVI MUMBAI",
     "MICR CODE": "600054035",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -4720,6 +4996,7 @@
     "RTGS": true,
     "CITY": "NAGORE",
     "MICR CODE": "612054013",
+    "STD CODE": "4365",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4737,6 +5014,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "400054011",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4754,6 +5032,7 @@
     "RTGS": true,
     "CITY": "DHARASURAM",
     "MICR CODE": "641054014",
+    "STD CODE": "435",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4771,6 +5050,7 @@
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR CODE": "625054009",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4788,6 +5068,7 @@
     "RTGS": true,
     "CITY": "PERUR",
     "MICR CODE": "607054102",
+    "STD CODE": "422",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4806,6 +5087,7 @@
     "RTGS": true,
     "CITY": "MADURAI",
     "MICR CODE": "600054036",
+    "STD CODE": "452",
     "NEFT": true,
     "IMPS": true
   },
@@ -4822,6 +5104,7 @@
     "RTGS": true,
     "CITY": "NEYVELI",
     "MICR CODE": "600054037",
+    "STD CODE": "4142",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4839,6 +5122,7 @@
     "RTGS": true,
     "CITY": "POONAMALLE",
     "MICR CODE": "492054002",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4856,6 +5140,7 @@
     "RTGS": true,
     "CITY": "SELAIYUR",
     "MICR CODE": "751054002",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4874,6 +5159,7 @@
     "RTGS": true,
     "CITY": "RAIPUR",
     "MICR CODE": "641054015",
+    "STD CODE": "771",
     "NEFT": true,
     "IMPS": true
   },
@@ -4890,6 +5176,7 @@
     "RTGS": true,
     "CITY": "BHUBANESWAR",
     "MICR CODE": "612054014",
+    "STD CODE": "674",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4907,6 +5194,7 @@
     "RTGS": true,
     "CITY": "SULUR",
     "MICR CODE": "614054104",
+    "STD CODE": "422",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4924,6 +5212,7 @@
     "RTGS": true,
     "CITY": "KUMBAKONAM",
     "MICR CODE": "610054009",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4941,6 +5230,7 @@
     "RTGS": true,
     "CITY": "MADUKKUR",
     "MICR CODE": "632054004",
+    "STD CODE": "4373",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4958,6 +5248,7 @@
     "RTGS": true,
     "CITY": "KODAVASAL",
     "MICR CODE": "632054003",
+    "STD CODE": "4366",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4975,6 +5266,7 @@
     "RTGS": true,
     "CITY": "KATPADI",
     "MICR CODE": "600054040",
+    "STD CODE": "416",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4992,6 +5284,7 @@
     "RTGS": true,
     "CITY": "SATHUVANCHARY",
     "MICR CODE": "600054039",
+    "STD CODE": "416",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5009,6 +5302,7 @@
     "RTGS": true,
     "CITY": "CHITLAMBAKKAM",
     "MICR CODE": "605054007",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5026,6 +5320,7 @@
     "RTGS": true,
     "CITY": "TAMBARAM",
     "MICR CODE": "612054016",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5043,6 +5338,7 @@
     "RTGS": true,
     "CITY": "TINDIVANAM",
     "MICR CODE": "606054202",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5060,6 +5356,7 @@
     "RTGS": true,
     "CITY": "KUMBAKONAM",
     "MICR CODE": "600054038",
+    "STD CODE": "435",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5077,6 +5374,7 @@
     "RTGS": true,
     "CITY": "VRIDHACHALAM",
     "MICR CODE": "614054006",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5094,6 +5392,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "614054016",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5111,6 +5410,7 @@
     "RTGS": true,
     "CITY": "KUTHANALLUR",
     "MICR CODE": "612054015",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5128,6 +5428,7 @@
     "RTGS": true,
     "CITY": "METTUPALAYAM",
     "MICR CODE": "600054041",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5145,6 +5446,7 @@
     "RTGS": true,
     "CITY": "KUMBAKONAM",
     "MICR CODE": "600054042",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5162,6 +5464,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "638054011",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5179,6 +5482,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "600054045",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5197,6 +5501,7 @@
     "RTGS": true,
     "CITY": "ERODE",
     "MICR CODE": "600054046",
+    "STD CODE": "424",
     "NEFT": true,
     "IMPS": true
   },
@@ -5214,6 +5519,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "600054043",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5231,6 +5537,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "600054044",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5248,6 +5555,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "641054017",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5265,6 +5573,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "600054047",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5282,6 +5591,7 @@
     "RTGS": true,
     "CITY": "COIMBATORE",
     "MICR CODE": "600054048",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5292,13 +5602,14 @@
     "DISTRICT": "KANCHEEPURAM",
     "STATE": "TAMIL NADU",
     "ADDRESS": "No.16, Thuluka Street,Kundrathur,Chennai – 600 069 Kancheepuram – Dist",
-    "CONTACT": "09344023512",
+    "CONTACT": "9344023512",
     "MICR": "600054047",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KUNRATHUR",
     "MICR CODE": "636054010",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5316,6 +5627,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "600054049",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true
   },
@@ -5326,13 +5638,14 @@
     "DISTRICT": "SALEM",
     "STATE": "TAMIL NADU",
     "ADDRESS": "No.2, Bazaar Street,Idappadi – 637 101.Salem – Dist.",
-    "CONTACT": "42832223456",
+    "CONTACT": "2223456",
     "MICR": "636054010",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SALEM",
     "MICR CODE": "632054005",
+    "STD CODE": "4283",
     "NEFT": true,
     "IMPS": true
   },
@@ -5343,12 +5656,13 @@
     "DISTRICT": "CHENNAI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "OLD NO.1/161, NEW NO.1/618, EAST COAST ROAD, KOTTIVAKKAM,CHENNAI – 600 041.",
-    "CONTACT": "4424481557",
+    "CONTACT": "24481557",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "600054050",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5360,12 +5674,13 @@
     "DISTRICT": "VELLORE",
     "STATE": "TAMIL NADU",
     "ADDRESS": "C.ABDUL HAKEEM COLLEGE OF ENGINEERING AND TECHNOLOGY,HAKEEM NAGAR,MELVISHARAM – 632 509,VELLORE – DIST",
-    "CONTACT": "09344023517",
+    "CONTACT": "9344023517",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MELVISHARAM",
     "MICR CODE": "560054013",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5377,12 +5692,13 @@
     "DISTRICT": "CHENNAI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "NEW NO.645, OLD NO.336, T.H.ROAD, TIRUVOTTIYUR,CHENNAI – 600 019.",
-    "CONTACT": "09344023516",
+    "CONTACT": "9344023516",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "600054051",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5401,6 +5717,7 @@
     "RTGS": true,
     "CITY": "BENGALURU",
     "MICR CODE": "625054010",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5411,12 +5728,13 @@
     "DISTRICT": "KANCHEEPURAM",
     "STATE": "TAMIL NADU",
     "ADDRESS": "NO.1/14, OMR ROAD, KARAPAKKAM, CHENNAI – 600 097. KANCHEEPURAM – DIST.",
-    "CONTACT": "4424500116",
+    "CONTACT": "24500116",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KANCHIPURAM",
     "MICR CODE": "624054104",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5428,12 +5746,13 @@
     "DISTRICT": "DINDIGUL",
     "STATE": "TAMIL NADU",
     "ADDRESS": "DINDIGUL-PALANI MAIN ROAD, NEAR GANDHI MARKET, OPP.TO BUS STAND, ODDANCHATRAM -624 619 DINDIGUL – DIST",
-    "CONTACT": "09344023518",
+    "CONTACT": "9344023518",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ODDANCHATRAM",
     "MICR CODE": "533054302",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5445,12 +5764,13 @@
     "DISTRICT": "DINDIGUL",
     "STATE": "TAMIL NADU",
     "ADDRESS": "72-A PALANI - DINDIGUL MAIN ROAD, NEAR KV HOSPITAL, PALANI – 624 601. DINDIGUL - DIST",
-    "CONTACT": "09344023519",
+    "CONTACT": "9344023519",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PALANI",
     "MICR CODE": "635054102",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5462,12 +5782,13 @@
     "DISTRICT": "EAST GODAVARI",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "D.No.3-1-141, Opp. Head PostOffice,K.Agraharam,",
-    "CONTACT": "09395361234",
+    "CONTACT": "9395361234",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "AMALAPURAM",
     "MICR CODE": "641054018",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5485,6 +5806,7 @@
     "RTGS": true,
     "CITY": "TIRUPATTUR",
     "MICR CODE": "641054019",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5496,12 +5818,13 @@
     "DISTRICT": "COIMBATORE",
     "STATE": "TAMIL NADU",
     "ADDRESS": "21/23-1,South Car Street, Karamadai",
-    "CONTACT": "09344023525",
+    "CONTACT": "9344023525",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KARAMADAI",
     "MICR CODE": "600054052",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5519,6 +5842,7 @@
     "RTGS": true,
     "CITY": "COIMBATORE",
     "MICR CODE": "625054011",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5530,12 +5854,13 @@
     "DISTRICT": "KANCHEEPURAM",
     "STATE": "TAMIL NADU",
     "ADDRESS": "S.No.168/3-D,Kamarajar Salai, Anakaputhur",
-    "CONTACT": "4422483667",
+    "CONTACT": "22483667",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ANAKAPUTHUR",
     "MICR CODE": "626054505",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5547,12 +5872,13 @@
     "DISTRICT": "MADURAI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "2/109,Melur Main Road,Othakadai",
-    "CONTACT": "09344023528",
+    "CONTACT": "9344023528",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MADURAI",
     "MICR CODE": "523054102",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5570,6 +5896,7 @@
     "RTGS": true,
     "CITY": "SRIVILLIPUTTUR",
     "MICR CODE": "524054202",
+    "STD CODE": "4563",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5581,12 +5908,13 @@
     "DISTRICT": "PRAKASAM",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "14-21-85, Dharbav Road,Opp. State Bank of India,Chirala",
-    "CONTACT": "8594238883",
+    "CONTACT": "238883",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHIRALA",
     "MICR CODE": "620054011",
+    "STD CODE": "8594",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5598,12 +5926,13 @@
     "DISTRICT": "NELLORE",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "D.No.10-15-39A, Ground Floor,G.T.Road,Near R.D.O.Office,Kavali",
-    "CONTACT": "8626242434",
+    "CONTACT": "242434",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KAVALI",
     "MICR CODE": "620054012",
+    "STD CODE": "8626",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5621,6 +5950,7 @@
     "RTGS": true,
     "CITY": "MUSIRI",
     "MICR CODE": "560054014",
+    "STD CODE": "4326",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5638,6 +5968,7 @@
     "RTGS": true,
     "CITY": "TIRUCHIRAPPALLI",
     "MICR CODE": "560054015",
+    "STD CODE": "431",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5655,6 +5986,7 @@
     "RTGS": true,
     "CITY": "BOMMASANDRA",
     "MICR CODE": "607054206",
+    "STD CODE": "80",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5672,6 +6004,7 @@
     "RTGS": true,
     "CITY": "DODDABALLAPUR",
     "MICR CODE": "600054053",
+    "STD CODE": "80",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5689,6 +6022,7 @@
     "RTGS": true,
     "CITY": "PANRUTI",
     "MICR CODE": "600054054",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5706,6 +6040,7 @@
     "RTGS": true,
     "CITY": "GUDUVANCHERI",
     "MICR CODE": "600054055",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5723,6 +6058,7 @@
     "RTGS": true,
     "CITY": "KANCHIPURAM",
     "MICR CODE": "600054056",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5740,6 +6076,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "518054202",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5757,6 +6094,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "504054002",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5768,12 +6106,13 @@
     "DISTRICT": "KURNOOL",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "SY.NO.79/1A, ESI HOSPITAL ROAD, BEHIND NTR STATUE, ADONI – 518 301 \nKURNOOL – DIST.",
-    "CONTACT": "09393098158",
+    "CONTACT": "9393098158",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ADONI",
     "MICR CODE": "530054002",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5785,12 +6124,13 @@
     "DISTRICT": "ADILABAD",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "DOOR NO.4-3-75/2, HAMEEDPURA, NEAR NETAJI CHOWK, ADILABAD – 504 001\nADILABAD – DIST.",
-    "CONTACT": "09391729543",
+    "CONTACT": "9391729543",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ADILABAD",
     "MICR CODE": "534054202",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5802,12 +6142,13 @@
     "DISTRICT": "VISHAKHAPATNAM",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "DOOR NO.12-1-41, RAMACHANDRA COMPLEX, OPP – NTR STADIUM, ANAKAPALLI – 531 001 VISAKHAPATNAM – DIST",
-    "CONTACT": "09392607769",
+    "CONTACT": "9392607769",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ANAKAPALLE",
     "MICR CODE": "641054020",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5819,12 +6160,13 @@
     "DISTRICT": "WEST GODAVARI",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "D.NO.18-5-8, 9&10, RASHTRAPATHI ROAD, TANUKU –534 211 WEST GODAVARI – DIST",
-    "CONTACT": "09390545673",
+    "CONTACT": "9390545673",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "TANUKU",
     "MICR CODE": "641054021",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5836,12 +6178,13 @@
     "DISTRICT": "COIMBATORE",
     "STATE": "TAMIL NADU",
     "ADDRESS": "S.F.NO.319/1E, METTUPALAYAM MAIN ROAD, (OPP. TO PRICOL PLANT NO.1), PERIYANAIKENPALAYAM, COIMBATORE – 641 020",
-    "CONTACT": "09344085037",
+    "CONTACT": "9344085037",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PERIYANAICKANPALAYAM",
     "MICR CODE": "625054302",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5853,12 +6196,13 @@
     "DISTRICT": "COIMBATORE",
     "STATE": "TAMIL NADU",
     "ADDRESS": "ALIPRI COMPLEX, GROUND FLOOR, S.F.NO.55/1, PANNIMADAI MAIN ROAD, COIMBATORE –641 017",
-    "CONTACT": "09344085036",
+    "CONTACT": "9344085036",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
     "MICR CODE": "625054012",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5870,12 +6214,13 @@
     "DISTRICT": "THENI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "NEAR LIC OFFICE, THEVARAM ROAD, BODINAYAKANUR – 625 513. THENI – DIST",
-    "CONTACT": "09344085038",
+    "CONTACT": "9344085038",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BODINAYAKANUR",
     "MICR CODE": "627054007",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5887,12 +6232,13 @@
     "DISTRICT": "THENI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "WARD NO.21, D.NO.79, 79A, VELAPPAR KOIL STREET, CUMBUM – 625 516. THENI – DIST",
-    "CONTACT": "09344085039",
+    "CONTACT": "9344085039",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CUMBUM",
     "MICR CODE": "627054008",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5904,12 +6250,13 @@
     "DISTRICT": "TIRUNELVALI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "NO.6, SOUTH CAR STREET, SANKARANKOIL – 627 756. TIRUNELVELI – DIST",
-    "CONTACT": "09344085040",
+    "CONTACT": "9344085040",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SANKARANKOIL",
     "MICR CODE": "520054602",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5921,12 +6268,13 @@
     "DISTRICT": "TIRUNELVALI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "158-C, GROUND FLOOR, MAIN ROAD, (NEAR BSNL OFFICE), PULIANGUDI – 627 855. TIRUNELVELI – DIST",
-    "CONTACT": "09344023549",
+    "CONTACT": "9344023549",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PULIYANGUDI",
     "MICR CODE": "522054402",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5938,12 +6286,13 @@
     "DISTRICT": "GUNTUR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "D.NO.9-7-47, BANK STREET, ARUNDELPET, NARASARAOPET – 522 601 GUNTUR – DIST",
-    "CONTACT": "09393824509",
+    "CONTACT": "9393824509",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NARSARAOPET",
     "MICR CODE": "524054102",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5955,12 +6304,13 @@
     "DISTRICT": "GUNTUR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "7-376/1, GANDHIPETTA, (OPP. TO INDIAN BANK), N.R.T.CENTER, CHILAKALURIPET - 522 616 GUNTUR – DIST",
-    "CONTACT": "09398314148",
+    "CONTACT": "9398314148",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHILAKALURIPET",
     "MICR CODE": "517054002",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5972,12 +6322,13 @@
     "DISTRICT": "NELLORE",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "8/202 HOSPITAL ROAD, OPP. SANGAM THEATRE, MITTA PALEM, GUDUR-524101 NELLORE – DIST",
-    "CONTACT": "09393561937",
+    "CONTACT": "9393561937",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "GUDUR",
     "MICR CODE": "560054016",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5989,12 +6340,13 @@
     "DISTRICT": "CHITTOOR",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "TIRUMALA BY-PASS ROAD, NEAR LEELA MAHAL JUNCTION, TIRUPATI – 517 501 CHITTOOR – DIST",
-    "CONTACT": "09391002968",
+    "CONTACT": "9391002968",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUPATI",
     "MICR CODE": "110054007",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6012,6 +6364,7 @@
     "RTGS": true,
     "CITY": "PEENYA",
     "MICR CODE": "110054008",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6029,6 +6382,7 @@
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "110054006",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6046,6 +6400,7 @@
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "160054002",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6063,6 +6418,7 @@
     "RTGS": true,
     "CITY": "GURGAON",
     "MICR CODE": "143054002",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6080,6 +6436,7 @@
     "RTGS": true,
     "CITY": "CHANDIGARH",
     "MICR CODE": "600054057",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6097,6 +6454,7 @@
     "RTGS": true,
     "CITY": "AMRITSAR",
     "MICR CODE": "600054058",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6114,6 +6472,7 @@
     "RTGS": true,
     "CITY": "KANCHIPURAM",
     "MICR CODE": "600054059",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6131,6 +6490,7 @@
     "RTGS": true,
     "CITY": "PERUNGALATHUR",
     "MICR CODE": "606054003",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6148,6 +6508,7 @@
     "RTGS": true,
     "CITY": "PADAPPAI",
     "MICR CODE": "626054303",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6165,6 +6526,7 @@
     "RTGS": true,
     "CITY": "TIRUVATTIPURAM(CHEYYAR)",
     "MICR CODE": "600054060",
+    "STD CODE": "4182",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6182,6 +6544,7 @@
     "RTGS": true,
     "CITY": "DHALAVOIPURAM",
     "MICR CODE": "605054008",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6199,6 +6562,7 @@
     "RTGS": true,
     "CITY": "GUMMIDIPUNDI",
     "MICR CODE": "600054062",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6216,6 +6580,7 @@
     "RTGS": true,
     "CITY": "KATTUMANNARKOIL",
     "MICR CODE": "600054061",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6233,6 +6598,7 @@
     "RTGS": true,
     "CITY": "MANGADU",
     "MICR CODE": "503054102",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6250,6 +6616,7 @@
     "RTGS": true,
     "CITY": "MINJUR",
     "MICR CODE": "500054010",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6267,6 +6634,7 @@
     "RTGS": true,
     "CITY": "KAMAREDDY",
     "MICR CODE": "500054011",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6284,6 +6652,7 @@
     "RTGS": true,
     "CITY": "MEDCHAL",
     "MICR CODE": "500054009",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6301,6 +6670,7 @@
     "RTGS": true,
     "CITY": "MEERKHANPET",
     "MICR CODE": "641054022",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6318,6 +6688,7 @@
     "RTGS": true,
     "CITY": "UPPAL",
     "MICR CODE": "626054202",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6335,6 +6706,7 @@
     "RTGS": true,
     "CITY": "AVANASHI",
     "MICR CODE": "625054013",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6352,6 +6724,7 @@
     "RTGS": true,
     "CITY": "ARUPPUKOTTAI",
     "MICR CODE": "627054009",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6369,6 +6742,7 @@
     "RTGS": true,
     "CITY": "USILAMPATTI",
     "MICR CODE": "627054010",
+    "STD CODE": "4552",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6386,6 +6760,7 @@
     "RTGS": true,
     "CITY": "TENKASI",
     "MICR CODE": "625054014",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6403,6 +6778,7 @@
     "RTGS": true,
     "CITY": "AMBASAMUDRAM",
     "MICR CODE": "682054003",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6420,6 +6796,7 @@
     "RTGS": true,
     "CITY": "TIRUNAGAR",
     "MICR CODE": "688054002",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6431,12 +6808,13 @@
     "DISTRICT": "ERNAKULAM",
     "STATE": "KERALA",
     "ADDRESS": "KANNETH BUILDING, NEAR GOVT. HOSPITAL, THRIPUNITHURA – 682 301. ERNAKULAM – DIST",
-    "CONTACT": "09387058561",
+    "CONTACT": "9387058561",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "TRIPPUNITHURA",
     "MICR CODE": "600054063",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6448,12 +6826,13 @@
     "DISTRICT": "ALAPUZHA",
     "STATE": "KERALA",
     "ADDRESS": "17/420, NANA’S COMPLEX, CULLEN ROAD, MULLACKAL ALAPUZHA – 688 011 ALAPUZHA – DIST",
-    "CONTACT": "09387965422",
+    "CONTACT": "9387965422",
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ALAPPUZHA",
     "MICR CODE": "600054064",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6471,6 +6850,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "600054065",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6488,6 +6868,7 @@
     "RTGS": true,
     "CITY": "KANCHIPURAM",
     "MICR CODE": "226054002",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6505,6 +6886,7 @@
     "RTGS": true,
     "CITY": "TIRUPPORUR",
     "MICR CODE": "444054101",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6522,6 +6904,7 @@
     "RTGS": true,
     "CITY": "LUCKNOW",
     "MICR CODE": "500054012",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6539,6 +6922,7 @@
     "RTGS": true,
     "CITY": "AMRAVATI",
     "MICR CODE": "306054002",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6556,6 +6940,7 @@
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR CODE": "344054051",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6573,6 +6958,7 @@
     "RTGS": true,
     "CITY": "PALI",
     "MICR CODE": "600054066",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6590,6 +6976,7 @@
     "RTGS": true,
     "CITY": "BALOTRA",
     "MICR CODE": "600054067",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6607,6 +6994,7 @@
     "RTGS": true,
     "CITY": "RED HILLS",
     "MICR CODE": "629054102",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6624,6 +7012,7 @@
     "RTGS": true,
     "CITY": "KANCHIPURAM",
     "MICR CODE": "625054015",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6641,6 +7030,7 @@
     "RTGS": true,
     "CITY": "MARTHANDAM",
     "MICR CODE": "462054001",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6658,6 +7048,7 @@
     "RTGS": true,
     "CITY": "BATLAGUNDU",
     "MICR CODE": "613054008",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6675,6 +7066,7 @@
     "RTGS": true,
     "CITY": "BHOPAL",
     "MICR CODE": "600054068",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6693,6 +7085,7 @@
     "RTGS": true,
     "CITY": "NANJIKOTTAI",
     "MICR CODE": "600054069",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6703,12 +7096,13 @@
     "DISTRICT": "THIRUVALLUR",
     "STATE": "TAMIL NADU",
     "ADDRESS": "NO.135, POONAMALLEE HIGH ROAD, BHUVANA NURSERY AVENUE, VELAPPANCHAVADI CHENNAI – 600  077. THIRUVALLUR – DIST",
-    "CONTACT": "00",
+    "CONTACT": null,
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUVALLUR",
     "MICR CODE": "600054070",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6720,12 +7114,13 @@
     "DISTRICT": "KANCHEEPURAM",
     "STATE": "TAMIL NADU",
     "ADDRESS": "VANDALUR – KELAMBAKKAM ROAD, NEAR VIT CHENNAI CAMPUS, MELAKOTTAIYUR CHENNAI – 600  048. KANCHIPURAM – DIST",
-    "CONTACT": "00",
+    "CONTACT": null,
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KANCHIPURAM",
     "MICR CODE": "600054071",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6737,12 +7132,13 @@
     "DISTRICT": "THIRUVALLUR",
     "STATE": "TAMIL NADU",
     "ADDRESS": "114A, TH ROAD, THIRUMAZHISAI, CHENNAI – 600 124 THIRUVALLUR – DIST",
-    "CONTACT": "00",
+    "CONTACT": null,
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUVALLUR",
     "MICR CODE": "600054072",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6754,12 +7150,13 @@
     "DISTRICT": "THIRUVALLUR",
     "STATE": "TAMIL NADU",
     "ADDRESS": "D.NO.6284, THIRUVERKADU MAIN ROAD, AYAPPAKKAM, CHENNAI – 600 077 THIRUVALLUR – DIST",
-    "CONTACT": "00",
+    "CONTACT": null,
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUVALLUR",
     "MICR CODE": "600054073",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6771,12 +7168,13 @@
     "DISTRICT": "THIRUVALLUR",
     "STATE": "TAMIL NADU",
     "ADDRESS": "PLOT NO.2, C.T.H.ROAD, THIRUNINDRAVUR, CHENNAI – 602 024 THIRUVALLUR – DIST",
-    "CONTACT": "00",
+    "CONTACT": null,
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "THIRUNINRAVUR",
     "MICR CODE": "625054016",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6788,12 +7186,13 @@
     "DISTRICT": "KANCHEEPURAM",
     "STATE": "TAMIL NADU",
     "ADDRESS": "NO.80/92, THIRUMUDIVAKKAM MAIN ROAD, THIRUMUDIVAKKAM, CHENNAI – 600 044 KANCHEEPURAM– DIST",
-    "CONTACT": "00",
+    "CONTACT": null,
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KANCHIPURAM",
     "MICR CODE": "625054017",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6805,12 +7204,13 @@
     "DISTRICT": "DINDIGUL",
     "STATE": "TAMIL NADU",
     "ADDRESS": "11-3-6, KAMARAJ SALAI, CHINNALAPATTI – 624301 DINDIGUL – DIST",
-    "CONTACT": "00",
+    "CONTACT": null,
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHINNALAPATTI",
     "MICR CODE": "600054074",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6822,12 +7222,13 @@
     "DISTRICT": "DINDIGUL",
     "STATE": "TAMIL NADU",
     "ADDRESS": "5, MASILAMANIPURAM, BALAKRISHNAPURAM – 624005 PUTHOOR – POST DINDIGUL – DIST",
-    "CONTACT": "00",
+    "CONTACT": null,
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DINDIGUL",
     "MICR CODE": "500054013",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6839,12 +7240,13 @@
     "DISTRICT": "CHENNAI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "25/59, GROUND FLOOR, K.B.DHASAN ROAD, TEYNAMPET CHENNAI – 600 018",
-    "CONTACT": "00",
+    "CONTACT": null,
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "613054009",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6856,12 +7258,13 @@
     "DISTRICT": "HYDERABAD",
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "PLOT NO.16 & 17, SRI SAI ELITE, ALLWYN CROSS, MIYAPUR HYDERABAD – 500 050",
-    "CONTACT": "00",
+    "CONTACT": null,
     "BANK": "CITY UNION BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR CODE": "613054010",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -6880,6 +7283,7 @@
     "RTGS": true,
     "CITY": "THANJAVUR",
     "MICR CODE": "500054013",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6897,6 +7301,7 @@
     "RTGS": true,
     "CITY": "THANJAVUR",
     "MICR CODE": "613054009",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6914,6 +7319,7 @@
     "RTGS": true,
     "CITY": "THANJAVUR",
     "MICR CODE": "613054010",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6931,6 +7337,7 @@
     "RTGS": true,
     "CITY": "THANJAVUR",
     "MICR CODE": "613054011",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6948,6 +7355,7 @@
     "RTGS": true,
     "CITY": "THANJAVUR",
     "MICR CODE": "612054017",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6965,6 +7373,7 @@
     "RTGS": true,
     "CITY": "VERAPANDIPUDUR",
     "MICR CODE": "612054018",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6982,6 +7391,7 @@
     "RTGS": true,
     "CITY": "VADAKUTHU",
     "MICR CODE": "641054023",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6999,6 +7409,7 @@
     "RTGS": true,
     "CITY": "NEDUNGUNDRAM",
     "MICR CODE": "607054103",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7016,6 +7427,7 @@
     "RTGS": true,
     "CITY": "THIRUVENCHERY",
     "MICR CODE": "600054075",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7033,6 +7445,7 @@
     "RTGS": true,
     "CITY": "PADUR",
     "MICR CODE": "600054076",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7050,6 +7463,7 @@
     "RTGS": true,
     "CITY": "PUDUKKOTTAI",
     "MICR CODE": "600054077",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7067,6 +7481,7 @@
     "RTGS": true,
     "CITY": "TIRUVDAIMARUDUR",
     "MICR CODE": "622054006",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7084,6 +7499,7 @@
     "RTGS": true,
     "CITY": "TIRUVDAIMARUDUR",
     "MICR CODE": "612054019",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7101,6 +7517,7 @@
     "RTGS": true,
     "CITY": "TIRUVALLUR",
     "MICR CODE": "612054020",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7118,6 +7535,7 @@
     "RTGS": true,
     "CITY": "AMBUR",
     "MICR CODE": "600054078",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7135,6 +7553,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "635054302",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7152,6 +7571,7 @@
     "RTGS": true,
     "CITY": "PONDICHERRY",
     "MICR CODE": "600054079",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7169,6 +7589,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "605054009",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7186,6 +7607,7 @@
     "RTGS": true,
     "CITY": "VILLIANUR",
     "MICR CODE": "600054080",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7203,6 +7625,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "605054010",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7220,6 +7643,7 @@
     "RTGS": true,
     "CITY": "SALEM",
     "MICR CODE": "600054081",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7237,6 +7661,7 @@
     "RTGS": true,
     "CITY": "SANKARI",
     "MICR CODE": "636054103",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7254,6 +7679,7 @@
     "RTGS": true,
     "CITY": "ANTHIYUR",
     "MICR CODE": "638054012",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7271,6 +7697,7 @@
     "RTGS": true,
     "CITY": "COIMBATORE",
     "MICR CODE": "638054013",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7288,6 +7715,7 @@
     "RTGS": true,
     "CITY": "ANGAMALY",
     "MICR CODE": "641054024",
+    "STD CODE": "484",
     "NEFT": true,
     "IMPS": true
   },
@@ -7305,6 +7733,7 @@
     "RTGS": true,
     "CITY": "VALAJANAGARAM",
     "MICR CODE": "683054002",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7322,6 +7751,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "621054005",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7339,6 +7769,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "600054082",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7356,6 +7787,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "600054083",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7373,6 +7805,7 @@
     "RTGS": true,
     "CITY": "NILAKOTTAI",
     "MICR CODE": "600054084",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7390,6 +7823,7 @@
     "RTGS": true,
     "CITY": "NATHAM",
     "MICR CODE": "625054018",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7407,6 +7841,7 @@
     "RTGS": true,
     "CITY": "MELUR",
     "MICR CODE": "625054019",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7424,6 +7859,7 @@
     "RTGS": true,
     "CITY": "VEERAPURAM",
     "MICR CODE": "625054020",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7441,6 +7877,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "600054085",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7458,6 +7895,7 @@
     "RTGS": true,
     "CITY": "PONNERI",
     "MICR CODE": "600054086",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7475,6 +7913,7 @@
     "RTGS": true,
     "CITY": "COIMBATORE",
     "MICR CODE": "600054087",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7492,6 +7931,7 @@
     "RTGS": true,
     "CITY": "KATTUR",
     "MICR CODE": "641054025",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7509,6 +7949,7 @@
     "RTGS": true,
     "CITY": "VISAKHAPATNAM",
     "MICR CODE": "620054013",
+    "STD CODE": "871",
     "NEFT": true,
     "IMPS": true
   },
@@ -7526,6 +7967,7 @@
     "RTGS": true,
     "CITY": "VIZIANAGARAM",
     "MICR CODE": "530054003",
+    "STD CODE": "8922",
     "NEFT": true,
     "IMPS": true
   },
@@ -7543,6 +7985,7 @@
     "RTGS": true,
     "CITY": "THIMMAVARAM",
     "MICR CODE": "535054002",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7560,6 +8003,7 @@
     "RTGS": true,
     "CITY": "NARANAMANGALAM",
     "MICR CODE": "600054088",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7577,6 +8021,7 @@
     "RTGS": true,
     "CITY": "SITHARKADU",
     "MICR CODE": "610054010",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7594,6 +8039,7 @@
     "RTGS": true,
     "CITY": "VILANDHAKANDAM",
     "MICR CODE": "609054005",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7611,6 +8057,7 @@
     "RTGS": true,
     "CITY": "TUNI",
     "MICR CODE": "613054012",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7628,6 +8075,7 @@
     "RTGS": true,
     "CITY": "KOMARAPALAYAM",
     "MICR CODE": "533054202",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7645,6 +8093,7 @@
     "RTGS": true,
     "CITY": "BARGUR",
     "MICR CODE": "638054014",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7662,6 +8111,7 @@
     "RTGS": true,
     "CITY": "VANDAVASI",
     "MICR CODE": "635054003",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7679,6 +8129,7 @@
     "RTGS": true,
     "CITY": "COIMBATORE",
     "MICR CODE": "606054004",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7696,6 +8147,7 @@
     "RTGS": true,
     "CITY": "COIMBATORE",
     "MICR CODE": "641054026",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7713,6 +8165,7 @@
     "RTGS": true,
     "CITY": "KOILAMBAKKAM",
     "MICR CODE": "641054027",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7730,6 +8183,7 @@
     "RTGS": true,
     "CITY": "VANAGARAM",
     "MICR CODE": "600054089",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7747,6 +8201,7 @@
     "RTGS": true,
     "CITY": "BANGALORE",
     "MICR CODE": "600054090",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7764,6 +8219,7 @@
     "RTGS": true,
     "CITY": "BANGALORE",
     "MICR CODE": "560054018",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7781,6 +8237,7 @@
     "RTGS": true,
     "CITY": "VALAPADI",
     "MICR CODE": "560054017",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7798,6 +8255,7 @@
     "RTGS": true,
     "CITY": "THARAMANGALAM",
     "MICR CODE": "636054011",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7815,6 +8273,7 @@
     "RTGS": true,
     "CITY": "SATHYAMANGALAM",
     "MICR CODE": "636054012",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7832,6 +8291,7 @@
     "RTGS": true,
     "CITY": "MANAMADURAI",
     "MICR CODE": "638054015",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7849,6 +8309,7 @@
     "RTGS": true,
     "CITY": "MANJAKOLLAI",
     "MICR CODE": "630054203",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7866,6 +8327,7 @@
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR CODE": "611054007",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7883,6 +8345,7 @@
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR CODE": "500054015",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7900,6 +8363,7 @@
     "RTGS": true,
     "CITY": "ANKLESHWAR",
     "MICR CODE": "500054014",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7917,6 +8381,7 @@
     "RTGS": true,
     "CITY": "VAPI",
     "MICR CODE": "393054051",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7934,6 +8399,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "396054031",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7951,6 +8417,7 @@
     "RTGS": true,
     "CITY": "KANCHIPURAM",
     "MICR CODE": "600054091",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7968,6 +8435,7 @@
     "RTGS": true,
     "CITY": "GNIGEE",
     "MICR CODE": "600054092",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7985,6 +8453,7 @@
     "RTGS": true,
     "CITY": "EDAPPALLY",
     "MICR CODE": "606054005",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8002,6 +8471,7 @@
     "RTGS": true,
     "CITY": "ALUVA",
     "MICR CODE": "682054005",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8019,6 +8489,7 @@
     "RTGS": true,
     "CITY": "GANDHIDHAM",
     "MICR CODE": "682054004",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8036,6 +8507,7 @@
     "RTGS": true,
     "CITY": "MELAKABISTHALAM",
     "MICR CODE": "370054001",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8053,6 +8525,7 @@
     "RTGS": true,
     "CITY": "TIRUTTANI",
     "MICR CODE": "613054013",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8070,6 +8543,7 @@
     "RTGS": true,
     "CITY": "TRICHY",
     "MICR CODE": "631054202",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8087,6 +8561,7 @@
     "RTGS": true,
     "CITY": "TRICHY",
     "MICR CODE": "620054014",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8104,6 +8579,7 @@
     "RTGS": true,
     "CITY": "TRICHY",
     "MICR CODE": "620054015",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8121,6 +8597,7 @@
     "RTGS": true,
     "CITY": "PONNAMARAVATHY",
     "MICR CODE": "620054016",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8138,6 +8615,7 @@
     "RTGS": true,
     "CITY": "JAGTIAL",
     "MICR CODE": "622054007",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8155,6 +8633,7 @@
     "RTGS": true,
     "CITY": "MANCHERIAL",
     "MICR CODE": "505054102",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8172,6 +8651,7 @@
     "RTGS": true,
     "CITY": "CUDDALORE",
     "MICR CODE": "504054202",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8189,6 +8669,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "605054011",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8206,6 +8687,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "600054093",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8223,6 +8705,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "600054094",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8240,6 +8723,7 @@
     "RTGS": true,
     "CITY": "KONDAPUR",
     "MICR CODE": "600054095",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8257,6 +8741,7 @@
     "RTGS": true,
     "CITY": "COIMBATORE",
     "MICR CODE": "500054016",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8274,6 +8759,7 @@
     "RTGS": true,
     "CITY": "COIMBATORE",
     "MICR CODE": "641054028",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8291,6 +8777,7 @@
     "RTGS": true,
     "CITY": "JODHPUR",
     "MICR CODE": "641054029",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8308,6 +8795,7 @@
     "RTGS": true,
     "CITY": "VANIYAMBADI",
     "MICR CODE": "342054002",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8325,6 +8813,7 @@
     "RTGS": true,
     "CITY": "TAMBARAM",
     "MICR CODE": "635054202",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8342,6 +8831,7 @@
     "RTGS": true,
     "CITY": "TIRUVALLUR",
     "MICR CODE": "600054096",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8359,6 +8849,7 @@
     "RTGS": true,
     "CITY": "ARIYALUR",
     "MICR CODE": "600054097",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8376,6 +8867,7 @@
     "RTGS": true,
     "CITY": "TIRUPUR",
     "MICR CODE": "621054006",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8393,6 +8885,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "641054107",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8410,6 +8903,7 @@
     "RTGS": true,
     "CITY": "MADANA PALLE",
     "MICR CODE": "600054098",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8427,6 +8921,7 @@
     "RTGS": true,
     "CITY": "THIRUNINRAVUR",
     "MICR CODE": "600054003",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8444,6 +8939,7 @@
     "RTGS": true,
     "CITY": "NIRMAL",
     "MICR CODE": "600054099",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8461,6 +8957,7 @@
     "RTGS": true,
     "CITY": "JAMNAGAR",
     "MICR CODE": "504054102",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8478,6 +8975,7 @@
     "RTGS": true,
     "CITY": "RAIPUR",
     "MICR CODE": "361054001",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8495,6 +8993,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "380054003",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8512,6 +9011,7 @@
     "RTGS": true,
     "CITY": "KANPUR",
     "MICR CODE": "600054100",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8529,6 +9029,7 @@
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "208054002",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8546,6 +9047,7 @@
     "RTGS": true,
     "CITY": "ARIYALUR",
     "MICR CODE": "110054009",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8563,6 +9065,7 @@
     "RTGS": true,
     "CITY": "ALANGULAM",
     "MICR CODE": "621054007",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8580,6 +9083,7 @@
     "RTGS": true,
     "CITY": "TUTICORIN",
     "MICR CODE": "627054011",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8597,6 +9101,7 @@
     "RTGS": true,
     "CITY": "MADURAI",
     "MICR CODE": "627054012",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8614,6 +9119,7 @@
     "RTGS": true,
     "CITY": "MADURAI",
     "MICR CODE": "625054021",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8631,6 +9137,7 @@
     "RTGS": true,
     "CITY": "KANYAKUMARI",
     "MICR CODE": "625054022",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8648,6 +9155,7 @@
     "RTGS": true,
     "CITY": "NAGAPATTINAM",
     "MICR CODE": "629054004",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8665,6 +9173,7 @@
     "RTGS": true,
     "CITY": "CHIDAMBARAM",
     "MICR CODE": "609054006",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8682,6 +9191,7 @@
     "RTGS": true,
     "CITY": "FARIDABAD",
     "MICR CODE": "605054012",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8699,6 +9209,7 @@
     "RTGS": true,
     "CITY": "BANGALORE",
     "MICR CODE": "110054010",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8716,6 +9227,7 @@
     "RTGS": true,
     "CITY": "BANGALORE",
     "MICR CODE": "560054019",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8733,6 +9245,7 @@
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR CODE": "560054020",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8750,6 +9263,7 @@
     "RTGS": true,
     "CITY": "THULLUR",
     "MICR CODE": "500054017",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8767,6 +9281,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "522054582",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8784,6 +9299,7 @@
     "RTGS": true,
     "CITY": "RAMAPURAM",
     "MICR CODE": "600054101",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8801,6 +9317,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "600054102",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8818,6 +9335,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "600054103",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8835,6 +9353,7 @@
     "RTGS": true,
     "CITY": "COIMBATORE",
     "MICR CODE": "600054104",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8852,6 +9371,7 @@
     "RTGS": true,
     "CITY": "COIMBATORE",
     "MICR CODE": "641054030",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8869,6 +9389,7 @@
     "RTGS": true,
     "CITY": "COIMBATORE",
     "MICR CODE": "641054031",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8886,6 +9407,7 @@
     "RTGS": true,
     "CITY": "TIRUPUR",
     "MICR CODE": "641054032",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8903,6 +9425,7 @@
     "RTGS": true,
     "CITY": "TIRUNELVELI",
     "MICR CODE": "641054108",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8920,6 +9443,7 @@
     "RTGS": true,
     "CITY": "CHINNAMANUR",
     "MICR CODE": "627054013",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8937,6 +9461,7 @@
     "RTGS": true,
     "CITY": "SALEM",
     "MICR CODE": "625054103",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8954,6 +9479,7 @@
     "RTGS": true,
     "CITY": "TIRUVARUR",
     "MICR CODE": "636054013",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8971,6 +9497,7 @@
     "RTGS": true,
     "CITY": "THANJAVUR",
     "MICR CODE": "610054011",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8988,6 +9515,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "613054014",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9005,6 +9533,7 @@
     "RTGS": true,
     "CITY": "COIMBATORE",
     "MICR CODE": "600054105",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9022,6 +9551,7 @@
     "RTGS": true,
     "CITY": "NAGAPATTINAM",
     "MICR CODE": "641054033",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9039,6 +9569,7 @@
     "RTGS": true,
     "CITY": "PUDUCHERRY",
     "MICR CODE": "609054203",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9056,6 +9587,7 @@
     "RTGS": true,
     "CITY": "BENGALURU",
     "MICR CODE": "605054013",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9073,6 +9605,7 @@
     "RTGS": true,
     "CITY": "THIRUMULLAIVOYAL",
     "MICR CODE": "560054021",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9090,6 +9623,7 @@
     "RTGS": true,
     "CITY": "SIVAGANGA",
     "MICR CODE": "600054106",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9107,6 +9641,7 @@
     "RTGS": true,
     "CITY": "SIVAGANGA",
     "MICR CODE": "630054204",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9124,6 +9659,7 @@
     "RTGS": true,
     "CITY": "COIMBATORE",
     "MICR CODE": "630054205",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9141,6 +9677,7 @@
     "RTGS": true,
     "CITY": "THANJAVUR",
     "MICR CODE": "641054034",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9158,6 +9695,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "613054015",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9175,6 +9713,7 @@
     "RTGS": true,
     "CITY": "MADURAI",
     "MICR CODE": "600054107",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9192,6 +9731,7 @@
     "RTGS": true,
     "CITY": "COIMBATORE",
     "MICR CODE": "625054023",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9209,6 +9749,7 @@
     "RTGS": true,
     "CITY": "ERODE",
     "MICR CODE": "641054035",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9226,6 +9767,7 @@
     "RTGS": true,
     "CITY": "BENGALURU",
     "MICR CODE": "638054016",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9243,6 +9785,7 @@
     "RTGS": true,
     "CITY": "NALGONDA",
     "MICR CODE": "560054022",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9260,6 +9803,7 @@
     "RTGS": true,
     "CITY": "SALEM",
     "MICR CODE": "508054002",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9277,6 +9821,7 @@
     "RTGS": true,
     "CITY": "KANCHEEPURAM",
     "MICR CODE": "636054014",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9294,6 +9839,7 @@
     "RTGS": true,
     "CITY": "ALANGANALLUR",
     "MICR CODE": "600054108",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9311,6 +9857,7 @@
     "RTGS": true,
     "CITY": "KOODAL NAGAR",
     "MICR CODE": "625054024",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9328,6 +9875,7 @@
     "RTGS": true,
     "CITY": "UTHIRAMERUR",
     "MICR CODE": "625054025",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9345,6 +9893,7 @@
     "RTGS": true,
     "CITY": "NORTH POIGAINALLUR",
     "MICR CODE": "600054109",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9362,6 +9911,7 @@
     "RTGS": true,
     "CITY": "SALEM",
     "MICR CODE": "611054008",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9379,6 +9929,7 @@
     "RTGS": true,
     "CITY": "PERUMALNALLUR",
     "MICR CODE": "636054015",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9396,6 +9947,7 @@
     "RTGS": true,
     "CITY": "THRISSUR EAST FORT",
     "MICR CODE": "641054109",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9413,6 +9965,7 @@
     "RTGS": true,
     "CITY": "MADURAI",
     "MICR CODE": "680054003",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9430,6 +9983,7 @@
     "RTGS": true,
     "CITY": "TRICHY",
     "MICR CODE": "625054026",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9447,6 +10001,7 @@
     "RTGS": true,
     "CITY": "MANIKONDA HYDERABAD",
     "MICR CODE": "620054017",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9464,6 +10019,7 @@
     "RTGS": true,
     "CITY": "KUMBAKONAM",
     "MICR CODE": "500054018",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9481,6 +10037,7 @@
     "RTGS": true,
     "CITY": "MUTHUPET",
     "MICR CODE": "612054021",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9498,6 +10055,7 @@
     "RTGS": true,
     "CITY": "TIRUPPUR",
     "MICR CODE": "614054203",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9515,6 +10073,7 @@
     "RTGS": true,
     "CITY": "COIMBATORE",
     "MICR CODE": "641054110",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9532,6 +10091,7 @@
     "RTGS": true,
     "CITY": "CHINNASALEM",
     "MICR CODE": "641054036",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9549,6 +10109,7 @@
     "RTGS": true,
     "CITY": "KETTAVARAMPALAYAM",
     "MICR CODE": "606054105",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9566,6 +10127,7 @@
     "RTGS": true,
     "CITY": "VADAMADURAI",
     "MICR CODE": "606054006",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9583,6 +10145,7 @@
     "RTGS": true,
     "CITY": "KHARGHAR",
     "MICR CODE": "625054027",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9600,6 +10163,7 @@
     "RTGS": true,
     "CITY": "ARANTHANGI",
     "MICR CODE": "400054012",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9617,6 +10181,7 @@
     "RTGS": true,
     "CITY": "BENGALURU",
     "MICR CODE": "622054008",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9634,6 +10199,7 @@
     "RTGS": true,
     "CITY": "BENGALURU",
     "MICR CODE": "560054025",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9651,6 +10217,7 @@
     "RTGS": true,
     "CITY": "BENGALURU",
     "MICR CODE": "560054023",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9668,6 +10235,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "560054024",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9685,6 +10253,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "600054110",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9702,6 +10271,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "600054111",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9719,6 +10289,7 @@
     "RTGS": true,
     "CITY": "COIMBATORE",
     "MICR CODE": "600054112",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9736,6 +10307,7 @@
     "RTGS": true,
     "CITY": "TIRUPPUR",
     "MICR CODE": "641054037",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9753,6 +10325,7 @@
     "RTGS": true,
     "CITY": "DINDIGUL",
     "MICR CODE": "641054111",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9770,6 +10343,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "625054028",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9787,6 +10361,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "600054113",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9804,6 +10379,7 @@
     "RTGS": true,
     "CITY": "THANJAVUR",
     "MICR CODE": "600054114",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9821,6 +10397,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "614054007",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9838,6 +10415,7 @@
     "RTGS": true,
     "CITY": "TIRUVARUR",
     "MICR CODE": "600054115",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9855,6 +10433,7 @@
     "RTGS": true,
     "CITY": "SALEM",
     "MICR CODE": "610054012",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9872,6 +10451,7 @@
     "RTGS": true,
     "CITY": "COIMBATORE",
     "MICR CODE": "636054016",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9889,6 +10469,7 @@
     "RTGS": true,
     "CITY": "TIRUNELVELI",
     "MICR CODE": "641054112",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9906,6 +10487,7 @@
     "RTGS": true,
     "CITY": "BANGALORE",
     "MICR CODE": "627054014",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9923,6 +10505,7 @@
     "RTGS": true,
     "CITY": "VELLORE",
     "MICR CODE": "560054026",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9940,6 +10523,7 @@
     "RTGS": true,
     "CITY": "THANE",
     "MICR CODE": "631054103",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9957,6 +10541,7 @@
     "RTGS": true,
     "CITY": "HASSAN",
     "MICR CODE": "400054013",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9974,6 +10559,7 @@
     "RTGS": true,
     "CITY": "SHIMOGA",
     "MICR CODE": "573054302",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9991,6 +10577,7 @@
     "RTGS": true,
     "CITY": "MADURAI",
     "MICR CODE": "577054202",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10008,6 +10595,7 @@
     "RTGS": true,
     "CITY": "ANATAPUR",
     "MICR CODE": "625054029",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10025,6 +10613,7 @@
     "RTGS": true,
     "CITY": "MAYILADUTHURAI",
     "MICR CODE": "515054003",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10042,6 +10631,7 @@
     "RTGS": true,
     "CITY": "KALAHASTINAPURAM",
     "MICR CODE": "609054007",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10059,6 +10649,7 @@
     "RTGS": true,
     "CITY": "MUDIKONDAN",
     "MICR CODE": "609054008",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10076,6 +10667,7 @@
     "RTGS": true,
     "CITY": "KADAGAMBADI",
     "MICR CODE": "609054009",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10093,6 +10685,7 @@
     "RTGS": true,
     "CITY": "KAPPANAMANGALAM",
     "MICR CODE": "609054010",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10110,6 +10703,7 @@
     "RTGS": true,
     "CITY": "MADAGUDI",
     "MICR CODE": "612054023",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10127,6 +10721,7 @@
     "RTGS": true,
     "CITY": "THIMMAKUDI",
     "MICR CODE": "600054003",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10144,6 +10739,7 @@
     "RTGS": true,
     "CITY": "THANJAVUR",
     "MICR CODE": "612054025",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10161,6 +10757,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "612054022",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10178,6 +10775,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "600054116",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10195,6 +10793,7 @@
     "RTGS": true,
     "CITY": "KOTA",
     "MICR CODE": "600054117",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10212,6 +10811,7 @@
     "RTGS": true,
     "CITY": "AJMER",
     "MICR CODE": "324054002",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10229,6 +10829,7 @@
     "RTGS": true,
     "CITY": "AJMER",
     "MICR CODE": "305054002",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10246,6 +10847,7 @@
     "RTGS": true,
     "CITY": "UDAIPUR",
     "MICR CODE": "305054003",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10263,6 +10865,7 @@
     "RTGS": true,
     "CITY": "MAHABUBNAGAR",
     "MICR CODE": "313054002",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10279,6 +10882,7 @@
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10296,6 +10900,7 @@
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10313,6 +10918,7 @@
     "RTGS": true,
     "CITY": "TIRUPPUR",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10330,6 +10936,7 @@
     "RTGS": true,
     "CITY": "PUNE",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10347,6 +10954,7 @@
     "RTGS": true,
     "CITY": "THIRUVALLUR",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10364,6 +10972,7 @@
     "RTGS": true,
     "CITY": "TIRUNELVELI",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10381,6 +10990,7 @@
     "RTGS": true,
     "CITY": "TIRUVALLUR",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10398,6 +11008,7 @@
     "RTGS": true,
     "CITY": "VELLORE",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10415,6 +11026,7 @@
     "RTGS": true,
     "CITY": "SURAT",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10432,6 +11044,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10449,6 +11062,7 @@
     "RTGS": true,
     "CITY": "VIRUDHUNAGAR",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10466,6 +11080,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10483,6 +11098,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10500,6 +11116,7 @@
     "RTGS": true,
     "CITY": "THIRUVALLUR",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10517,6 +11134,7 @@
     "RTGS": true,
     "CITY": "THANJAVUR",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10534,6 +11152,7 @@
     "RTGS": true,
     "CITY": "TUTICORIN",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10544,7 +11163,8 @@
     "MICR CODE": "WAITING",
     "BRANCH": "PANDARAVADAI MAPPADUGAI",
     "ADDRESS": "NO 4 BY 53C,MAIN ROAD,OPP TO MARUTHI NURSERY SCHOOL,MAYILADUTHURAI TK,MAPPADUGAI,NAGAPATTINAM",
-    "CONTACT": "06379900248",
+    "STD CODE": "0",
+    "CONTACT": "6379900248",
     "CITY": "NAGAPATTINAM",
     "DISTRICT": "NAGAPATTINAM",
     "STATE": "TAMIL NADU",
@@ -10561,7 +11181,8 @@
     "MICR CODE": "WAITING",
     "BRANCH": "TIRUCHERAI",
     "ADDRESS": "NO 253,NORTH STREET,KUMBAKONAM TK,TIRUCHERAI,THANJAVUR",
-    "CONTACT": "06379900247",
+    "STD CODE": "0",
+    "CONTACT": "6379900247",
     "CITY": "THANJAVUR",
     "DISTRICT": "KUMBAKONAM",
     "STATE": "TAMIL NADU",
@@ -10585,6 +11206,7 @@
     "RTGS": true,
     "CITY": "CUDDALORE",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10602,6 +11224,7 @@
     "RTGS": true,
     "CITY": "ERODE",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10619,6 +11242,7 @@
     "RTGS": true,
     "CITY": "ERODE",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10636,6 +11260,7 @@
     "RTGS": true,
     "CITY": "COIMBATORE",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10653,6 +11278,7 @@
     "RTGS": true,
     "CITY": "ERODE",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10670,6 +11296,7 @@
     "RTGS": true,
     "CITY": "KANCHEEPURAM",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10687,6 +11314,7 @@
     "RTGS": true,
     "CITY": "SALEM",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10704,6 +11332,7 @@
     "RTGS": true,
     "CITY": "ARIYALUR",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10721,6 +11350,7 @@
     "RTGS": true,
     "CITY": "ARIYALUR",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10738,6 +11368,7 @@
     "RTGS": true,
     "CITY": "THIRUVARUR",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10755,6 +11386,7 @@
     "RTGS": true,
     "CITY": "TIRUNELVELI",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10772,6 +11404,7 @@
     "RTGS": true,
     "CITY": "KANCHEEPURAM",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10789,6 +11422,7 @@
     "RTGS": true,
     "CITY": "ERODE",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10806,6 +11440,7 @@
     "RTGS": true,
     "CITY": "ERODE",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10823,6 +11458,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10840,6 +11476,7 @@
     "RTGS": true,
     "CITY": "THIRUVALLUR",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10857,6 +11494,7 @@
     "RTGS": true,
     "CITY": "COIMBATORE",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10874,6 +11512,7 @@
     "RTGS": true,
     "CITY": "BENGALURU",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10891,6 +11530,7 @@
     "RTGS": true,
     "CITY": "BENGALURU",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10908,6 +11548,7 @@
     "RTGS": true,
     "CITY": "BENGALURU",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10925,6 +11566,7 @@
     "RTGS": true,
     "CITY": "WARANGAL",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10942,6 +11584,7 @@
     "RTGS": true,
     "CITY": "NAGAPATTINAM",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10959,6 +11602,7 @@
     "RTGS": true,
     "CITY": "RAICHUR",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10976,6 +11620,7 @@
     "RTGS": true,
     "CITY": "THANJAVUR",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -10993,6 +11638,7 @@
     "RTGS": true,
     "CITY": "KANYAKUMARI",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11010,6 +11656,7 @@
     "RTGS": true,
     "CITY": "VIRUDHUNAGAR",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11027,6 +11674,7 @@
     "RTGS": true,
     "CITY": "COIMBATORE",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11044,6 +11692,7 @@
     "RTGS": true,
     "CITY": "KANCHEEPURAM",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11061,6 +11710,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11078,6 +11728,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11095,6 +11746,7 @@
     "RTGS": true,
     "CITY": "THANJAVUR",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11112,6 +11764,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11122,7 +11775,8 @@
     "MICR CODE": "WAITING",
     "BRANCH": "VALLIOOR",
     "ADDRESS": "GVK TOWER,274 BY 7,RADHAPURAM ROAD,VALLIOOR,TIRUNELVELI",
-    "CONTACT": "09384029483",
+    "STD CODE": "0",
+    "CONTACT": "9384029483",
     "CITY": "TIRUNELVELI",
     "DISTRICT": "TIRUNELVELI",
     "STATE": "TAMIL NADU",
@@ -11139,7 +11793,8 @@
     "MICR CODE": "WAITING",
     "BRANCH": "AZHINJIVAKKAM",
     "ADDRESS": "2 BY 190,BAAKIYAAMMAL STREET,GNT ROAD,JANAPANCHATHIRAM KOOT ROAD,AZHINJIVAKKAM,CHENNAI",
-    "CONTACT": "09384029473",
+    "STD CODE": "0",
+    "CONTACT": "9384029473",
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
     "STATE": "TAMIL NADU",
@@ -11156,7 +11811,8 @@
     "MICR CODE": "WAITING",
     "BRANCH": "TADA",
     "ADDRESS": "S.NO 38 1,FLAT NO 001,SUJATHA NAGAR,G.N.T ROAD,TADA,NELLORE,ANDHRA PRADESH.PIN CODE 524401",
-    "CONTACT": "09384029482",
+    "STD CODE": "0",
+    "CONTACT": "9384029482",
     "CITY": "NELLORE",
     "DISTRICT": "NELLORE",
     "STATE": "ANDHRA PRADESH",
@@ -11180,6 +11836,7 @@
     "RTGS": true,
     "CITY": "MYLAVARAM",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11197,6 +11854,7 @@
     "RTGS": true,
     "CITY": "BENGALURU",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11214,6 +11872,7 @@
     "RTGS": true,
     "CITY": "RANIPET",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11231,6 +11890,7 @@
     "RTGS": true,
     "CITY": "TIRUPPUR",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11248,6 +11908,7 @@
     "RTGS": true,
     "CITY": "CHENGALPATTU",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11265,6 +11926,7 @@
     "RTGS": true,
     "CITY": "SALEM",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11282,6 +11944,7 @@
     "RTGS": true,
     "CITY": "THENI",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11299,6 +11962,7 @@
     "RTGS": true,
     "CITY": "NAGAPATNAM",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11316,6 +11980,7 @@
     "RTGS": true,
     "CITY": "KANCHEEPURAM",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11333,6 +11998,7 @@
     "RTGS": true,
     "CITY": "THANJAVUR",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11350,6 +12016,7 @@
     "RTGS": true,
     "CITY": "THANJAVUR",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11367,6 +12034,7 @@
     "RTGS": true,
     "CITY": "THANJAVUR",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11384,6 +12052,7 @@
     "RTGS": true,
     "CITY": "NAGAPATTINAM",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11401,6 +12070,7 @@
     "RTGS": true,
     "CITY": "KANCHEEPURAM",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11418,6 +12088,7 @@
     "RTGS": true,
     "CITY": "TIRUVARUR",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11435,6 +12106,7 @@
     "RTGS": true,
     "CITY": "KANCHEEPURAM",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11452,6 +12124,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11469,6 +12142,7 @@
     "RTGS": true,
     "CITY": "UTTAR PRADESH",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11486,6 +12160,7 @@
     "RTGS": true,
     "CITY": "CHENGALPATTU ",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11503,6 +12178,7 @@
     "RTGS": true,
     "CITY": "PUDUCHERRY",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11520,6 +12196,7 @@
     "RTGS": true,
     "CITY": "GUJARAT",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11537,6 +12214,7 @@
     "RTGS": true,
     "CITY": "NAGAPATTINAM",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11554,6 +12232,7 @@
     "RTGS": true,
     "CITY": "THENI",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11571,6 +12250,7 @@
     "RTGS": true,
     "CITY": "CUDDALORE",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11588,6 +12268,7 @@
     "RTGS": true,
     "CITY": "KOLLAM",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11605,6 +12286,7 @@
     "RTGS": true,
     "CITY": "CHATTISGARH",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11622,6 +12304,7 @@
     "RTGS": true,
     "CITY": "RAMANATHAPURAM",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11639,6 +12322,7 @@
     "RTGS": true,
     "CITY": "GUNTUR",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11656,6 +12340,7 @@
     "RTGS": true,
     "CITY": "VIJAYAWADA",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11673,6 +12358,7 @@
     "RTGS": true,
     "CITY": "MORBI",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11690,6 +12376,7 @@
     "RTGS": true,
     "CITY": "WEST GODAVERI",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11707,6 +12394,7 @@
     "RTGS": true,
     "CITY": "BIKANER",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11724,6 +12412,7 @@
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11741,6 +12430,7 @@
     "RTGS": true,
     "CITY": "THANJAVUR",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11758,6 +12448,7 @@
     "RTGS": true,
     "CITY": "THRISSUR",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11775,6 +12466,7 @@
     "RTGS": true,
     "CITY": "MADURAI",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11792,6 +12484,7 @@
     "RTGS": true,
     "CITY": "COIMBATORE",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11809,6 +12502,7 @@
     "RTGS": true,
     "CITY": "NELLORE",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11826,6 +12520,7 @@
     "RTGS": true,
     "CITY": "NAMAKKAL",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11843,6 +12538,7 @@
     "RTGS": true,
     "CITY": "CUDDALORE",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11860,6 +12556,7 @@
     "RTGS": true,
     "CITY": "RANIPET",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11877,6 +12574,7 @@
     "RTGS": true,
     "CITY": "NEW DELHI",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11894,6 +12592,7 @@
     "RTGS": true,
     "CITY": "RANGAREDDY",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11911,6 +12610,7 @@
     "RTGS": true,
     "CITY": "KANCHEEPURAM",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11928,6 +12628,7 @@
     "RTGS": true,
     "CITY": "DEWAS",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11945,6 +12646,7 @@
     "RTGS": true,
     "CITY": "UJJAIN",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11962,6 +12664,7 @@
     "RTGS": true,
     "CITY": "KANCHEEPURAM",
     "MICR CODE": "WAITING",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -11979,6 +12682,7 @@
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR CODE": "WAITING",
+    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true,
     "MICR": null

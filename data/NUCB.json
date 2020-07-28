@@ -21,7 +21,8 @@
     "MICR CODE": "NA",
     "BRANCH": "AHMEDNAGAR",
     "ADDRESS": "BANK ROAD,POST BOX NO 7, AHMEDNAGAR.414001,MAHARASHTRA",
-    "CONTACT": "00",
+    "STD CODE": "0",
+    "CONTACT": null,
     "CITY": "AHMEDNAGAR",
     "DISTRICT": "AHMEDNAGAR",
     "STATE": "MAHARASHTRA",
@@ -46,6 +47,7 @@
     "RTGS": true,
     "CITY": "SANGAMNER",
     "MICR CODE": "422729201",
+    "STD CODE": "2425",
     "NEFT": true,
     "IMPS": true
   },
@@ -63,6 +65,7 @@
     "RTGS": true,
     "CITY": "SHRIRAMPUR",
     "MICR CODE": "413729301",
+    "STD CODE": "2422",
     "NEFT": true,
     "IMPS": true
   },
@@ -79,6 +82,7 @@
     "RTGS": true,
     "CITY": "VAMBORI",
     "MICR CODE": "414729501",
+    "STD CODE": "2426",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -96,6 +100,7 @@
     "RTGS": true,
     "CITY": "SHRIGONDA",
     "MICR CODE": "414729502",
+    "STD CODE": "2487",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -113,6 +118,7 @@
     "RTGS": true,
     "CITY": "SHEVGAON",
     "MICR CODE": "414729503",
+    "STD CODE": "2429",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -130,6 +136,7 @@
     "RTGS": true,
     "CITY": "BELAPUR",
     "MICR CODE": "413729501",
+    "STD CODE": "2422",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -147,6 +154,7 @@
     "RTGS": true,
     "CITY": "PATHARDI",
     "MICR CODE": "414729504",
+    "STD CODE": "2428",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -164,6 +172,7 @@
     "RTGS": true,
     "CITY": "NEWASA",
     "MICR CODE": "414729505",
+    "STD CODE": "2427",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -181,6 +190,7 @@
     "RTGS": true,
     "CITY": "JAMKHED",
     "MICR CODE": "414729506",
+    "STD CODE": "2421",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -198,6 +208,7 @@
     "RTGS": true,
     "CITY": "MIRAJGAON",
     "MICR CODE": "414729507",
+    "STD CODE": "2489",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -215,6 +226,7 @@
     "RTGS": true,
     "CITY": "AKOLA",
     "MICR CODE": "422729501",
+    "STD CODE": "2424",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -233,6 +245,7 @@
     "RTGS": true,
     "CITY": "JALNA",
     "MICR CODE": "431729052",
+    "STD CODE": "2482",
     "NEFT": true,
     "IMPS": true
   },
@@ -249,6 +262,7 @@
     "RTGS": true,
     "CITY": "PARLI-VAIJNATH",
     "MICR CODE": "440729352",
+    "STD CODE": "2446",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -266,6 +280,7 @@
     "RTGS": true,
     "CITY": "SONAI",
     "MICR CODE": "414729509",
+    "STD CODE": "2427",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -283,6 +298,7 @@
     "RTGS": true,
     "CITY": "ASHWI BUDRUK",
     "MICR CODE": "422729502",
+    "STD CODE": "2425",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -301,6 +317,7 @@
     "RTGS": true,
     "CITY": "AHMADNAGAR",
     "MICR CODE": "414729003",
+    "STD CODE": "241",
     "NEFT": true,
     "IMPS": true
   },
@@ -317,6 +334,7 @@
     "RTGS": true,
     "CITY": "RAHATA",
     "MICR CODE": "423729501",
+    "STD CODE": "2423",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -334,6 +352,7 @@
     "RTGS": true,
     "CITY": "KUKANE",
     "MICR CODE": "414729510",
+    "STD CODE": "2427",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -352,6 +371,7 @@
     "RTGS": true,
     "CITY": "AHMADNAGAR",
     "MICR CODE": "414729004",
+    "STD CODE": "241",
     "NEFT": true,
     "IMPS": true
   },
@@ -369,6 +389,7 @@
     "RTGS": true,
     "CITY": "AHMADNAGAR",
     "MICR CODE": "414729007",
+    "STD CODE": "241",
     "NEFT": true,
     "IMPS": true
   },
@@ -386,6 +407,7 @@
     "RTGS": true,
     "CITY": "RAHURI",
     "MICR CODE": "413729376",
+    "STD CODE": "2426",
     "NEFT": true,
     "IMPS": true
   },
@@ -402,6 +424,7 @@
     "RTGS": true,
     "CITY": "KASTHI",
     "MICR CODE": "414729511",
+    "STD CODE": "2487",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -420,6 +443,7 @@
     "RTGS": true,
     "CITY": "KEDGAON",
     "MICR CODE": "414729005",
+    "STD CODE": "241",
     "NEFT": true,
     "IMPS": true
   },
@@ -436,6 +460,7 @@
     "RTGS": true,
     "CITY": "AHMADNAGAR",
     "MICR CODE": "414729508",
+    "STD CODE": "2429",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -453,6 +478,7 @@
     "RTGS": true,
     "CITY": "KOLHAR",
     "MICR CODE": "414729512",
+    "STD CODE": "2422",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -470,6 +496,7 @@
     "RTGS": true,
     "CITY": "PARNER",
     "MICR CODE": "414729513",
+    "STD CODE": "2488",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -488,6 +515,7 @@
     "RTGS": true,
     "CITY": "AHMADNAGAR",
     "MICR CODE": "414729006",
+    "STD CODE": "241",
     "NEFT": true,
     "IMPS": true
   },
@@ -504,6 +532,7 @@
     "RTGS": true,
     "CITY": "KHARDA",
     "MICR CODE": "414729515",
+    "STD CODE": "2421",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -521,6 +550,7 @@
     "RTGS": true,
     "CITY": "KARJAT",
     "MICR CODE": "414729514",
+    "STD CODE": "2489",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -538,6 +568,7 @@
     "RTGS": true,
     "CITY": "KOLHAR",
     "MICR CODE": "414729516",
+    "STD CODE": "2426",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -556,6 +587,7 @@
     "RTGS": true,
     "CITY": "PUNE",
     "MICR CODE": "411729002",
+    "STD CODE": "20",
     "NEFT": true,
     "IMPS": true
   },
@@ -573,6 +605,7 @@
     "RTGS": true,
     "CITY": "AHMADNAGAR",
     "MICR CODE": "414729002",
+    "STD CODE": "241",
     "NEFT": true,
     "IMPS": true
   },
@@ -589,6 +622,7 @@
     "RTGS": true,
     "CITY": "SHIRUR",
     "MICR CODE": "411729501",
+    "STD CODE": "2138",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -607,6 +641,7 @@
     "RTGS": true,
     "CITY": "KOPARGAON",
     "MICR CODE": "423729002",
+    "STD CODE": "2423",
     "NEFT": true,
     "IMPS": true
   },
@@ -624,6 +659,7 @@
     "RTGS": true,
     "CITY": "PUNE",
     "MICR CODE": "411729003",
+    "STD CODE": "20",
     "NEFT": true,
     "IMPS": true
   },
@@ -641,6 +677,7 @@
     "RTGS": true,
     "CITY": "SHIRDI",
     "MICR CODE": "423729302",
+    "STD CODE": "2423",
     "NEFT": true,
     "IMPS": true
   },
@@ -658,6 +695,7 @@
     "RTGS": true,
     "CITY": "NASHIK",
     "MICR CODE": "422729002",
+    "STD CODE": "253",
     "NEFT": true,
     "IMPS": true
   },
@@ -674,6 +712,7 @@
     "RTGS": true,
     "CITY": "KARKAMLE",
     "MICR CODE": "414729517",
+    "STD CODE": "2182",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -692,6 +731,7 @@
     "RTGS": true,
     "CITY": "AURANGABAD",
     "MICR CODE": "431729002",
+    "STD CODE": "240",
     "NEFT": true,
     "IMPS": true
   },
@@ -709,6 +749,7 @@
     "RTGS": true,
     "CITY": "CHAKAN",
     "MICR CODE": "411729004",
+    "STD CODE": "2135",
     "NEFT": true,
     "IMPS": true
   },
@@ -726,6 +767,7 @@
     "RTGS": true,
     "CITY": "PUNE",
     "MICR CODE": "411729005",
+    "STD CODE": "20",
     "NEFT": true,
     "IMPS": true
   },
@@ -743,6 +785,7 @@
     "RTGS": true,
     "CITY": "PUNE",
     "MICR CODE": "411729006",
+    "STD CODE": "20",
     "NEFT": true,
     "IMPS": true
   },
@@ -760,6 +803,7 @@
     "RTGS": true,
     "CITY": "AHMADNAGAR",
     "MICR CODE": "414729519",
+    "STD CODE": "2428",
     "NEFT": true,
     "IMPS": true
   },
@@ -776,6 +820,7 @@
     "RTGS": true,
     "CITY": "KADA",
     "MICR CODE": "414729518",
+    "STD CODE": "2441",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -793,6 +838,7 @@
     "RTGS": true,
     "CITY": "DAUND",
     "MICR CODE": "413729502",
+    "STD CODE": "2117",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -810,6 +856,7 @@
     "RTGS": true,
     "CITY": "JUNNAR",
     "MICR CODE": "411729502",
+    "STD CODE": "2132",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -827,6 +874,7 @@
     "RTGS": true,
     "CITY": "SINNAR",
     "MICR CODE": "422729503",
+    "STD CODE": "2551",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -844,6 +892,7 @@
     "RTGS": true,
     "CITY": "AHMEDNAGAR",
     "MICR CODE": "NA",
+    "STD CODE": "414003",
     "NEFT": true,
     "IMPS": true,
     "MICR": null

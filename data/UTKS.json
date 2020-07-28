@@ -29,6 +29,7 @@
     "RTGS": true,
     "CITY": "VARANASI",
     "MICR CODE": "221762003",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -46,6 +47,7 @@
     "RTGS": true,
     "CITY": "VARANASI",
     "MICR CODE": "221762006",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -63,6 +65,7 @@
     "RTGS": true,
     "CITY": "VARANASI",
     "MICR CODE": "221762005",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -80,6 +83,7 @@
     "RTGS": true,
     "CITY": "VARANASI",
     "MICR CODE": "221762502",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -97,6 +101,7 @@
     "RTGS": true,
     "CITY": "VARANASI",
     "MICR CODE": "221762501",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -114,6 +119,7 @@
     "RTGS": true,
     "CITY": "JAUNPUR",
     "MICR CODE": "222762051",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -131,6 +137,7 @@
     "RTGS": true,
     "CITY": "JAUNPUR",
     "MICR CODE": "222762003",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -148,6 +155,7 @@
     "RTGS": true,
     "CITY": "ALLAHABAD",
     "MICR CODE": "211762007",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -165,6 +173,7 @@
     "RTGS": true,
     "CITY": "MARIAHU",
     "MICR CODE": "222762004",
+    "STD CODE": "5452",
     "NEFT": true,
     "IMPS": true
   },
@@ -182,6 +191,7 @@
     "RTGS": true,
     "CITY": "GHAZIPUR",
     "MICR CODE": "233762002",
+    "STD CODE": "548",
     "NEFT": true,
     "IMPS": true
   },
@@ -199,6 +209,7 @@
     "RTGS": true,
     "CITY": "ALLAHABAD",
     "MICR CODE": "211762008",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -216,6 +227,7 @@
     "RTGS": true,
     "CITY": "MIRZAPUR",
     "MICR CODE": "224762302",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -233,6 +245,7 @@
     "RTGS": true,
     "CITY": "GOPIGANJ",
     "MICR CODE": "221762104",
+    "STD CODE": "5414",
     "NEFT": true,
     "IMPS": true
   },
@@ -250,6 +263,7 @@
     "RTGS": true,
     "CITY": "MIRZAPUR",
     "MICR CODE": "221762102",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -267,6 +281,7 @@
     "RTGS": true,
     "CITY": "ALLAHABAD",
     "MICR CODE": "211762009",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -284,6 +299,7 @@
     "RTGS": true,
     "CITY": "ALLAHABAD",
     "MICR CODE": "211762006",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -301,6 +317,7 @@
     "RTGS": true,
     "CITY": "GHAZIPUR",
     "MICR CODE": "233762501",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -311,13 +328,14 @@
     "DISTRICT": "MIRZAPUR",
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "UTKARSH SMALL FINANCE BANK LIMITED,JOGIYABARI ROAD NEAR AMBEDAKAR PARKALY GHURAHU PATTI MIRZAPUR(UP),PIN CODE 231001",
-    "CONTACT": "00",
+    "CONTACT": null,
     "MICR": "231762003",
     "BANK": "UTKARSH SMALL FINANCE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MIRZAPUR",
     "MICR CODE": "231762003",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -335,6 +353,7 @@
     "RTGS": true,
     "CITY": "JAUNPUR",
     "MICR CODE": "222762052",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -352,6 +371,7 @@
     "RTGS": true,
     "CITY": "SULTANPUR",
     "MICR CODE": "228762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -369,6 +389,7 @@
     "RTGS": true,
     "CITY": "GHAZIPUR",
     "MICR CODE": "233762502",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -386,6 +407,7 @@
     "RTGS": true,
     "CITY": "VARANASI",
     "MICR CODE": "221762009",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -403,6 +425,7 @@
     "RTGS": true,
     "CITY": "MIRZAPUR",
     "MICR CODE": "231762054",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -420,6 +443,7 @@
     "RTGS": true,
     "CITY": "SULTANPUR",
     "MICR CODE": "228762501",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -437,6 +461,7 @@
     "RTGS": true,
     "CITY": "GORAKHPUR",
     "MICR CODE": "273762004",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -454,6 +479,7 @@
     "RTGS": true,
     "CITY": "GORAKHPUR",
     "MICR CODE": "274762001",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -471,6 +497,7 @@
     "RTGS": true,
     "CITY": "SANT RAVIDAS NAGAR, BHADOHI",
     "MICR CODE": "221762103",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -488,6 +515,7 @@
     "RTGS": true,
     "CITY": "ALLAHABAD",
     "MICR CODE": "211762001",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -505,6 +533,7 @@
     "RTGS": true,
     "CITY": "SAIDPUR",
     "MICR CODE": "233762101",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -522,6 +551,7 @@
     "RTGS": true,
     "CITY": "CHANDAULI",
     "MICR CODE": "232762053",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -539,6 +569,7 @@
     "RTGS": true,
     "CITY": "CHANDAULI",
     "MICR CODE": "232762051",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -556,6 +587,7 @@
     "RTGS": true,
     "CITY": "AZAMGARH",
     "MICR CODE": "276762002",
+    "STD CODE": "546",
     "NEFT": true,
     "IMPS": true
   },
@@ -573,6 +605,7 @@
     "RTGS": true,
     "CITY": "GORAKHPUR",
     "MICR CODE": "273762006",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -590,6 +623,7 @@
     "RTGS": true,
     "CITY": "DULLAHPUR",
     "MICR CODE": "233762504",
+    "STD CODE": "548",
     "NEFT": true,
     "IMPS": true
   },
@@ -607,6 +641,7 @@
     "RTGS": true,
     "CITY": "JAUNPUR",
     "MICR CODE": "222762054",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -624,6 +659,7 @@
     "RTGS": true,
     "CITY": "SULTANPUR",
     "MICR CODE": "228762001",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -641,6 +677,7 @@
     "RTGS": true,
     "CITY": "MIRZAPUR",
     "MICR CODE": "231762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -658,6 +695,7 @@
     "RTGS": true,
     "CITY": "SORAON",
     "MICR CODE": "211762011",
+    "STD CODE": "5335",
     "NEFT": true,
     "IMPS": true
   },
@@ -675,6 +713,7 @@
     "RTGS": true,
     "CITY": "MIRZAPUR",
     "MICR CODE": "231762053",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -692,6 +731,7 @@
     "RTGS": true,
     "CITY": "ALINAGAR",
     "MICR CODE": "232762054",
+    "STD CODE": "5412",
     "NEFT": true,
     "IMPS": true
   },
@@ -709,6 +749,7 @@
     "RTGS": true,
     "CITY": "GYANPUR",
     "MICR CODE": "221762101",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -726,6 +767,7 @@
     "RTGS": true,
     "CITY": "SULTANPUR",
     "MICR CODE": "228762502",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -743,6 +785,7 @@
     "RTGS": true,
     "CITY": "GORAKHPUR",
     "MICR CODE": "273762501",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -760,6 +803,7 @@
     "RTGS": true,
     "CITY": "BEHEA",
     "MICR CODE": "802762104",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -770,12 +814,13 @@
     "DISTRICT": "MIRZAPUR",
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "MOHALLA SIKANDARPUR,PARAGANA BHUALI TAHSIL - CHUNAR DIS MIRZAPUR PIN - 231302 NAGAR HOSPITAL ROAD DIS-BALARAMPUR CG PIN-497225,PUSTIKA 15914 PATWARI CIRCLE 22 KHESARA720",
-    "CONTACT": "00",
+    "CONTACT": null,
     "BANK": "UTKARSH SMALL FINANCE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "JAMALPUR",
     "MICR CODE": "NA",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -794,6 +839,7 @@
     "RTGS": true,
     "CITY": "PATNA",
     "MICR CODE": "800762003",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -811,6 +857,7 @@
     "RTGS": true,
     "CITY": "ARRAH",
     "MICR CODE": "802762103",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -828,6 +875,7 @@
     "RTGS": true,
     "CITY": "LALGANJ",
     "MICR CODE": "276762203",
+    "STD CODE": "5463",
     "NEFT": true,
     "IMPS": true
   },
@@ -845,6 +893,7 @@
     "RTGS": true,
     "CITY": "JAUNPUR",
     "MICR CODE": "222762053",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -862,6 +911,7 @@
     "RTGS": true,
     "CITY": "AZAMGARH",
     "MICR CODE": "276762202",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -879,6 +929,7 @@
     "RTGS": true,
     "CITY": "DEORIA",
     "MICR CODE": "274762004",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -896,6 +947,7 @@
     "RTGS": true,
     "CITY": "PATNA",
     "MICR CODE": "801762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -913,6 +965,7 @@
     "RTGS": true,
     "CITY": "PIRO",
     "MICR CODE": "802762003",
+    "STD CODE": "6181",
     "NEFT": true,
     "IMPS": true
   },
@@ -930,6 +983,7 @@
     "RTGS": true,
     "CITY": "MIRZAPUR",
     "MICR CODE": "231762001",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -947,6 +1001,7 @@
     "RTGS": true,
     "CITY": "DEORIA",
     "MICR CODE": "274762003",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -964,6 +1019,7 @@
     "RTGS": true,
     "CITY": "BUXAR",
     "MICR CODE": "802762002",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -981,6 +1037,7 @@
     "RTGS": true,
     "CITY": "NANDAN - PURANA BHOJPUR",
     "MICR CODE": "802762107",
+    "STD CODE": "6183",
     "NEFT": true,
     "IMPS": true
   },
@@ -998,6 +1055,7 @@
     "RTGS": true,
     "CITY": "DHARAHARA - DEHRIONSONE",
     "MICR CODE": "821762205",
+    "STD CODE": "6188",
     "NEFT": true,
     "IMPS": true
   },
@@ -1015,6 +1073,7 @@
     "RTGS": true,
     "CITY": "TAKIA - SASARAM",
     "MICR CODE": "821762204",
+    "STD CODE": "6184",
     "NEFT": true,
     "IMPS": true
   },
@@ -1032,6 +1091,7 @@
     "RTGS": true,
     "CITY": "KAIMUR",
     "MICR CODE": "821762202",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -1049,6 +1109,7 @@
     "RTGS": true,
     "CITY": "KAIMOOR",
     "MICR CODE": "821762104",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -1066,6 +1127,7 @@
     "RTGS": true,
     "CITY": "MANOHARPUR - DURGAWATI",
     "MICR CODE": "821762302",
+    "STD CODE": "6189",
     "NEFT": true,
     "IMPS": true
   },
@@ -1083,6 +1145,7 @@
     "RTGS": true,
     "CITY": "KAIMOOR",
     "MICR CODE": "821762103",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -1100,6 +1163,7 @@
     "RTGS": true,
     "CITY": "BRAHMPUR",
     "MICR CODE": "802762106",
+    "STD CODE": "6183",
     "NEFT": true,
     "IMPS": true
   },
@@ -1117,6 +1181,7 @@
     "RTGS": true,
     "CITY": "KUSHINAGAR",
     "MICR CODE": "274762106",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -1134,6 +1199,7 @@
     "RTGS": true,
     "CITY": "ALLAHABAD TICO TOWN",
     "MICR CODE": "211762003",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -1151,6 +1217,7 @@
     "RTGS": true,
     "CITY": "ALLAHABAD",
     "MICR CODE": "211762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -1161,13 +1228,14 @@
     "DISTRICT": "BUXAR",
     "STATE": "BIHAR",
     "ADDRESS": "UTKARSH SMALL FINANCE BANK-KURAN SARAI,NIRMAL TIWARI MARHILA ROAD KURAN SARAI POST KURAN SARAI BUXAR",
-    "CONTACT": "00",
+    "CONTACT": null,
     "MICR": "802762108",
     "BANK": "UTKARSH SMALL FINANCE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KURAN SARAI",
     "MICR CODE": "802762108",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1185,6 +1253,7 @@
     "RTGS": true,
     "CITY": "KOCHAS",
     "MICR CODE": "821762203",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -1202,6 +1271,7 @@
     "RTGS": true,
     "CITY": "SARAN",
     "MICR CODE": "841762005",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1219,6 +1289,7 @@
     "RTGS": true,
     "CITY": "GARKHA",
     "MICR CODE": "841762009",
+    "STD CODE": "6152",
     "NEFT": true,
     "IMPS": true
   },
@@ -1236,6 +1307,7 @@
     "RTGS": true,
     "CITY": "BANIYAPUR",
     "MICR CODE": "841762008",
+    "STD CODE": "6152",
     "NEFT": true,
     "IMPS": true
   },
@@ -1253,6 +1325,7 @@
     "RTGS": true,
     "CITY": "NOKHA",
     "MICR CODE": "802762302",
+    "STD CODE": "6188",
     "NEFT": true,
     "IMPS": true
   },
@@ -1270,6 +1343,7 @@
     "RTGS": true,
     "CITY": "KAUSHAMBI",
     "MICR CODE": "211762102",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -1287,6 +1361,7 @@
     "RTGS": true,
     "CITY": "DEORIA",
     "MICR CODE": "274762502",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -1304,6 +1379,7 @@
     "RTGS": true,
     "CITY": "GORAKHPUR",
     "MICR CODE": "273762001",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -1321,6 +1397,7 @@
     "RTGS": true,
     "CITY": "VARANASI",
     "MICR CODE": "221762004",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -1337,6 +1414,7 @@
     "RTGS": true,
     "CITY": "SATNA",
     "MICR CODE": "NA",
+    "STD CODE": "7672",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -1355,6 +1433,7 @@
     "RTGS": true,
     "CITY": "HARIDWAR",
     "MICR CODE": "249762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -1372,6 +1451,7 @@
     "RTGS": true,
     "CITY": "MIRZAPUR",
     "MICR CODE": "231762052",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -1389,6 +1469,7 @@
     "RTGS": true,
     "CITY": "SATNA",
     "MICR CODE": "485762001",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -1406,6 +1487,7 @@
     "RTGS": true,
     "CITY": "JHABREDA",
     "MICR CODE": "247762103",
+    "STD CODE": "1332",
     "NEFT": true,
     "IMPS": true
   },
@@ -1423,6 +1505,7 @@
     "RTGS": true,
     "CITY": "DIGHWARA",
     "MICR CODE": "841762007",
+    "STD CODE": "6152",
     "NEFT": true,
     "IMPS": true
   },
@@ -1440,6 +1523,7 @@
     "RTGS": true,
     "CITY": "CHAPRA",
     "MICR CODE": "841762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -1457,6 +1541,7 @@
     "RTGS": true,
     "CITY": "HARIDWAR",
     "MICR CODE": "247762102",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -1474,6 +1559,7 @@
     "RTGS": true,
     "CITY": "REWA",
     "MICR CODE": "486762001",
+    "STD CODE": "7662",
     "NEFT": true,
     "IMPS": true
   },
@@ -1491,6 +1577,7 @@
     "RTGS": true,
     "CITY": "SONEPUR",
     "MICR CODE": "841762010",
+    "STD CODE": "6152",
     "NEFT": true,
     "IMPS": true
   },
@@ -1508,6 +1595,7 @@
     "RTGS": true,
     "CITY": "MANGAWAN",
     "MICR CODE": "486762501",
+    "STD CODE": "7662",
     "NEFT": true,
     "IMPS": true
   },
@@ -1525,6 +1613,7 @@
     "RTGS": true,
     "CITY": "DEHRADUN",
     "MICR CODE": "248762501",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -1542,6 +1631,7 @@
     "RTGS": true,
     "CITY": "CHAPRA",
     "MICR CODE": "841762003",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -1559,6 +1649,7 @@
     "RTGS": true,
     "CITY": "GAZIPUR DELHI",
     "MICR CODE": "110762003",
+    "STD CODE": "548",
     "NEFT": true,
     "IMPS": true
   },
@@ -1576,6 +1667,7 @@
     "RTGS": true,
     "CITY": "GORAKHPUR",
     "MICR CODE": "273762005",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -1593,6 +1685,7 @@
     "RTGS": true,
     "CITY": "NAINI",
     "MICR CODE": "211762010",
+    "STD CODE": "532",
     "NEFT": true,
     "IMPS": true
   },
@@ -1610,6 +1703,7 @@
     "RTGS": true,
     "CITY": "PATHARDEWA",
     "MICR CODE": "274762503",
+    "STD CODE": "5568",
     "NEFT": true,
     "IMPS": true
   },
@@ -1627,6 +1721,7 @@
     "RTGS": true,
     "CITY": "DEORIA",
     "MICR CODE": "274762501",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -1644,6 +1739,7 @@
     "RTGS": true,
     "CITY": "MANJHI",
     "MICR CODE": "841762006",
+    "STD CODE": "6152",
     "NEFT": true,
     "IMPS": true
   },
@@ -1661,6 +1757,7 @@
     "RTGS": true,
     "CITY": "VARANASI",
     "MICR CODE": "221762011",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -1678,6 +1775,7 @@
     "RTGS": true,
     "CITY": "SARAN",
     "MICR CODE": "841762004",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1695,6 +1793,7 @@
     "RTGS": true,
     "CITY": "PREM NAGAR",
     "MICR CODE": "248762003",
+    "STD CODE": "135",
     "NEFT": true,
     "IMPS": true
   },
@@ -1712,6 +1811,7 @@
     "RTGS": true,
     "CITY": "AMARPATAN",
     "MICR CODE": "485762002",
+    "STD CODE": "7675",
     "NEFT": true,
     "IMPS": true
   },
@@ -1729,6 +1829,7 @@
     "RTGS": true,
     "CITY": "REWA",
     "MICR CODE": "486762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -1746,6 +1847,7 @@
     "RTGS": true,
     "CITY": "SIWAN",
     "MICR CODE": "841762206",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -1763,6 +1865,7 @@
     "RTGS": true,
     "CITY": "MAIRWA",
     "MICR CODE": "841762203",
+    "STD CODE": "6157",
     "NEFT": true,
     "IMPS": true
   },
@@ -1780,6 +1883,7 @@
     "RTGS": true,
     "CITY": "ALLAHABAD",
     "MICR CODE": "211762005",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -1797,6 +1901,7 @@
     "RTGS": true,
     "CITY": "SIWAN, STATE- BIHAR",
     "MICR CODE": "841762202",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -1814,6 +1919,7 @@
     "RTGS": true,
     "CITY": "DILSHAD GARDEN",
     "MICR CODE": "110762017",
+    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true
   },
@@ -1831,6 +1937,7 @@
     "RTGS": true,
     "CITY": "VARANASI",
     "MICR CODE": "221762007",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -1848,6 +1955,7 @@
     "RTGS": true,
     "CITY": "KASYA",
     "MICR CODE": "274762107",
+    "STD CODE": "5564",
     "NEFT": true,
     "IMPS": true
   },
@@ -1865,6 +1973,7 @@
     "RTGS": true,
     "CITY": "SHAHARANPUR",
     "MICR CODE": "247762501",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -1882,6 +1991,7 @@
     "RTGS": true,
     "CITY": "SIWAN",
     "MICR CODE": "841762205",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -1899,6 +2009,7 @@
     "RTGS": true,
     "CITY": "BASANTPUR",
     "MICR CODE": "841762207",
+    "STD CODE": "6154",
     "NEFT": true,
     "IMPS": true
   },
@@ -1916,6 +2027,7 @@
     "RTGS": true,
     "CITY": "SIRATHU",
     "MICR CODE": "211762151",
+    "STD CODE": "5331",
     "NEFT": true,
     "IMPS": true
   },
@@ -1933,6 +2045,7 @@
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "110762006",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -1950,6 +2063,7 @@
     "RTGS": true,
     "CITY": "BELTHARA ROAD",
     "MICR CODE": "221762202",
+    "STD CODE": "5491",
     "NEFT": true,
     "IMPS": true
   },
@@ -1967,6 +2081,7 @@
     "RTGS": true,
     "CITY": "SIRMAUR",
     "MICR CODE": "173762102",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -1984,6 +2099,7 @@
     "RTGS": true,
     "CITY": "KHANPUR - BADHARIYA",
     "MICR CODE": "841762208",
+    "STD CODE": "6154",
     "NEFT": true,
     "IMPS": true
   },
@@ -2001,6 +2117,7 @@
     "RTGS": true,
     "CITY": "BURARI",
     "MICR CODE": "110762015",
+    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true
   },
@@ -2018,6 +2135,7 @@
     "RTGS": true,
     "CITY": "NANGLOI",
     "MICR CODE": "110762018",
+    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true
   },
@@ -2035,6 +2153,7 @@
     "RTGS": true,
     "CITY": "UTTAM NAGAR",
     "MICR CODE": "110762019",
+    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true
   },
@@ -2052,6 +2171,7 @@
     "RTGS": true,
     "CITY": "KOTWARI MOD, RASRA",
     "MICR CODE": "221762203",
+    "STD CODE": "5496",
     "NEFT": true,
     "IMPS": true
   },
@@ -2069,6 +2189,7 @@
     "RTGS": true,
     "CITY": "BALLIYA",
     "MICR CODE": "277762502",
+    "STD CODE": "5496",
     "NEFT": true,
     "IMPS": true
   },
@@ -2086,6 +2207,7 @@
     "RTGS": true,
     "CITY": "GOPALGANJ",
     "MICR CODE": "841762104",
+    "STD CODE": "6156",
     "NEFT": true,
     "IMPS": true
   },
@@ -2103,6 +2225,7 @@
     "RTGS": true,
     "CITY": "HARIDWAR",
     "MICR CODE": "249762051",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -2120,6 +2243,7 @@
     "RTGS": true,
     "CITY": "BALLIA",
     "MICR CODE": "277762501",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -2137,6 +2261,7 @@
     "RTGS": true,
     "CITY": "GOPALGANJ",
     "MICR CODE": "841762102",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -2154,6 +2279,7 @@
     "RTGS": true,
     "CITY": "CHANDAULI",
     "MICR CODE": "232762052",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -2171,6 +2297,7 @@
     "RTGS": true,
     "CITY": "GOPALGANJ",
     "MICR CODE": "841762103",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -2188,6 +2315,7 @@
     "RTGS": true,
     "CITY": "KUSHINAGAR",
     "MICR CODE": "274762104",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -2205,6 +2333,7 @@
     "RTGS": true,
     "CITY": "RISHIKESH",
     "MICR CODE": "249762102",
+    "STD CODE": "135",
     "NEFT": true,
     "IMPS": true
   },
@@ -2222,6 +2351,7 @@
     "RTGS": true,
     "CITY": "BADARPUR",
     "MICR CODE": "110762021",
+    "STD CODE": "128",
     "NEFT": true,
     "IMPS": true
   },
@@ -2239,6 +2369,7 @@
     "RTGS": true,
     "CITY": "DATTWADI",
     "MICR CODE": "440762006",
+    "STD CODE": "7104",
     "NEFT": true,
     "IMPS": true
   },
@@ -2256,6 +2387,7 @@
     "RTGS": true,
     "CITY": "KATOL",
     "MICR CODE": "440762512",
+    "STD CODE": "712",
     "NEFT": true,
     "IMPS": true
   },
@@ -2273,6 +2405,7 @@
     "RTGS": true,
     "CITY": "BARIYARPUR - MOTIHARI",
     "MICR CODE": "845762007",
+    "STD CODE": "6252",
     "NEFT": true,
     "IMPS": true
   },
@@ -2290,6 +2423,7 @@
     "RTGS": true,
     "CITY": "KATANI",
     "MICR CODE": "483762001",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -2307,6 +2441,7 @@
     "RTGS": true,
     "CITY": "EAST CHAMPARAN",
     "MICR CODE": "845762005",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -2324,6 +2459,7 @@
     "RTGS": true,
     "CITY": "BARA CHAKIA",
     "MICR CODE": "845762006",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -2341,6 +2477,7 @@
     "RTGS": true,
     "CITY": "GADARWARA",
     "MICR CODE": "487762501",
+    "STD CODE": "7791",
     "NEFT": true,
     "IMPS": true
   },
@@ -2358,6 +2495,7 @@
     "RTGS": true,
     "CITY": "SIHORA",
     "MICR CODE": "482762004",
+    "STD CODE": "7624",
     "NEFT": true,
     "IMPS": true
   },
@@ -2375,6 +2513,7 @@
     "RTGS": true,
     "CITY": "BALLABHGARH, FARIDABAD",
     "MICR CODE": "110762020",
+    "STD CODE": "129",
     "NEFT": true,
     "IMPS": true
   },
@@ -2392,6 +2531,7 @@
     "RTGS": true,
     "CITY": "NARELA",
     "MICR CODE": "110762016",
+    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true
   },
@@ -2409,6 +2549,7 @@
     "RTGS": true,
     "CITY": "SAONER",
     "MICR CODE": "441762501",
+    "STD CODE": "7113",
     "NEFT": true,
     "IMPS": true
   },
@@ -2426,6 +2567,7 @@
     "RTGS": true,
     "CITY": "NAGPUR",
     "MICR CODE": "440762003",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -2443,6 +2585,7 @@
     "RTGS": true,
     "CITY": "MAHARAJGANJ",
     "MICR CODE": "273762252",
+    "STD CODE": "5523",
     "NEFT": true,
     "IMPS": true
   },
@@ -2460,6 +2603,7 @@
     "RTGS": true,
     "CITY": "ORA - AURANGABAD",
     "MICR CODE": "824762006",
+    "STD CODE": "6186",
     "NEFT": true,
     "IMPS": true
   },
@@ -2477,6 +2621,7 @@
     "RTGS": true,
     "CITY": "NAGPUR",
     "MICR CODE": "440762004",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -2494,6 +2639,7 @@
     "RTGS": true,
     "CITY": "KUTUMBA",
     "MICR CODE": "824762003",
+    "STD CODE": "6332",
     "NEFT": true,
     "IMPS": true
   },
@@ -2511,6 +2657,7 @@
     "RTGS": true,
     "CITY": "WEST CHAMPARAN",
     "MICR CODE": "845762104",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -2528,6 +2675,7 @@
     "RTGS": true,
     "CITY": "JAKIYARI",
     "MICR CODE": "845762004",
+    "STD CODE": "6255",
     "NEFT": true,
     "IMPS": true
   },
@@ -2545,6 +2693,7 @@
     "RTGS": true,
     "CITY": "PADRAUNA",
     "MICR CODE": "274762103",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -2562,6 +2711,7 @@
     "RTGS": true,
     "CITY": "WEST CHAMPARAN",
     "MICR CODE": "845762102",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -2579,6 +2729,7 @@
     "RTGS": true,
     "CITY": "KUSHINAGAR",
     "MICR CODE": "274762105",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -2596,6 +2747,7 @@
     "RTGS": true,
     "CITY": "GORAKHPUR",
     "MICR CODE": "273762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -2613,6 +2765,7 @@
     "RTGS": true,
     "CITY": "JABALPUR",
     "MICR CODE": "482762001",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2630,6 +2783,7 @@
     "RTGS": true,
     "CITY": "RAMTEK",
     "MICR CODE": "440762501",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -2647,6 +2801,7 @@
     "RTGS": true,
     "CITY": "SANTKABIR NAGAR",
     "MICR CODE": "272762202",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -2664,6 +2819,7 @@
     "RTGS": true,
     "CITY": "GAYA",
     "MICR CODE": "823762006",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -2681,6 +2837,7 @@
     "RTGS": true,
     "CITY": "REPURA - DAUDNAGAR",
     "MICR CODE": "824762007",
+    "STD CODE": "6186",
     "NEFT": true,
     "IMPS": true
   },
@@ -2698,6 +2855,7 @@
     "RTGS": true,
     "CITY": "WEST CHAMPARAN",
     "MICR CODE": "845762103",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -2715,6 +2873,7 @@
     "RTGS": true,
     "CITY": "AURANGABAD",
     "MICR CODE": "824762004",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -2732,6 +2891,7 @@
     "RTGS": true,
     "CITY": "SUGAULI",
     "MICR CODE": "845762003",
+    "STD CODE": "6252",
     "NEFT": true,
     "IMPS": true
   },
@@ -2749,6 +2909,7 @@
     "RTGS": true,
     "CITY": "NARKHED",
     "MICR CODE": "440762513",
+    "STD CODE": "7105",
     "NEFT": true,
     "IMPS": true
   },
@@ -2766,6 +2927,7 @@
     "RTGS": true,
     "CITY": "MUZAFFARPUR",
     "MICR CODE": "842762007",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -2783,6 +2945,7 @@
     "RTGS": true,
     "CITY": "AURANGABAD",
     "MICR CODE": "824762005",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -2800,6 +2963,7 @@
     "RTGS": true,
     "CITY": "JABALPUR",
     "MICR CODE": "482762501",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -2817,6 +2981,7 @@
     "RTGS": true,
     "CITY": "MADANPUR",
     "MICR CODE": "824762002",
+    "STD CODE": "6476",
     "NEFT": true,
     "IMPS": true
   },
@@ -2834,6 +2999,7 @@
     "RTGS": true,
     "CITY": "YAVATMAL URBAN",
     "MICR CODE": "445762002",
+    "STD CODE": "7232",
     "NEFT": true,
     "IMPS": true
   },
@@ -2851,6 +3017,7 @@
     "RTGS": true,
     "CITY": "KUSHINAGAR",
     "MICR CODE": "274762102",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2868,6 +3035,7 @@
     "RTGS": true,
     "CITY": "GAYA",
     "MICR CODE": "823762003",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -2885,6 +3053,7 @@
     "RTGS": true,
     "CITY": "YAVATMALRURAL",
     "MICR CODE": "445762003",
+    "STD CODE": "7201",
     "NEFT": true,
     "IMPS": true
   },
@@ -2902,6 +3071,7 @@
     "RTGS": true,
     "CITY": "GORAKHPUR",
     "MICR CODE": "273762502",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -2919,6 +3089,7 @@
     "RTGS": true,
     "CITY": "KORADI",
     "MICR CODE": "441762502",
+    "STD CODE": "712",
     "NEFT": true,
     "IMPS": true
   },
@@ -2936,6 +3107,7 @@
     "RTGS": true,
     "CITY": "GAYA",
     "MICR CODE": "823762008",
+    "STD CODE": "631",
     "NEFT": true,
     "IMPS": true
   },
@@ -2953,6 +3125,7 @@
     "RTGS": true,
     "CITY": "SUSTA",
     "MICR CODE": "842762008",
+    "STD CODE": "6272",
     "NEFT": true,
     "IMPS": true
   },
@@ -2970,6 +3143,7 @@
     "RTGS": true,
     "CITY": "KASHIPUR",
     "MICR CODE": "244762202",
+    "STD CODE": "5947",
     "NEFT": true,
     "IMPS": true
   },
@@ -2987,6 +3161,7 @@
     "RTGS": true,
     "CITY": "RUDRAPUR",
     "MICR CODE": "263762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -3004,6 +3179,7 @@
     "RTGS": true,
     "CITY": "MAHARAJGANJ",
     "MICR CODE": "273762251",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -3021,6 +3197,7 @@
     "RTGS": true,
     "CITY": "PALWAL",
     "MICR CODE": "121762452",
+    "STD CODE": "1275",
     "NEFT": true,
     "IMPS": true
   },
@@ -3038,6 +3215,7 @@
     "RTGS": true,
     "CITY": "BASTI",
     "MICR CODE": "272762004",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -3055,6 +3233,7 @@
     "RTGS": true,
     "CITY": "SONIPAT",
     "MICR CODE": "110762013",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -3072,6 +3251,7 @@
     "RTGS": true,
     "CITY": "BAHADURGARH",
     "MICR CODE": "110762014",
+    "STD CODE": "1251",
     "NEFT": true,
     "IMPS": true
   },
@@ -3089,6 +3269,7 @@
     "RTGS": true,
     "CITY": "NAGPUR",
     "MICR CODE": "440762005",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -3106,6 +3287,7 @@
     "RTGS": true,
     "CITY": "BILHARI",
     "MICR CODE": "482762005",
+    "STD CODE": "7621",
     "NEFT": true,
     "IMPS": true
   },
@@ -3123,6 +3305,7 @@
     "RTGS": true,
     "CITY": "SITARGANJ",
     "MICR CODE": "262762502",
+    "STD CODE": "5948",
     "NEFT": true,
     "IMPS": true
   },
@@ -3140,6 +3323,7 @@
     "RTGS": true,
     "CITY": "KARELI",
     "MICR CODE": "487762002",
+    "STD CODE": "7793",
     "NEFT": true,
     "IMPS": true
   },
@@ -3157,6 +3341,7 @@
     "RTGS": true,
     "CITY": "GADARPUR",
     "MICR CODE": "263762402",
+    "STD CODE": "5949",
     "NEFT": true,
     "IMPS": true
   },
@@ -3174,6 +3359,7 @@
     "RTGS": true,
     "CITY": "WARDHA",
     "MICR CODE": "442762001",
+    "STD CODE": "7152",
     "NEFT": true,
     "IMPS": true
   },
@@ -3191,6 +3377,7 @@
     "RTGS": true,
     "CITY": "DARVHA",
     "MICR CODE": "445762503",
+    "STD CODE": "7238",
     "NEFT": true,
     "IMPS": true
   },
@@ -3208,6 +3395,7 @@
     "RTGS": true,
     "CITY": "HINGANGHAT",
     "MICR CODE": "442762152",
+    "STD CODE": "7153",
     "NEFT": true,
     "IMPS": true
   },
@@ -3225,6 +3413,7 @@
     "RTGS": true,
     "CITY": "ARVI",
     "MICR CODE": "442762302",
+    "STD CODE": "7152",
     "NEFT": true,
     "IMPS": true
   },
@@ -3242,6 +3431,7 @@
     "RTGS": true,
     "CITY": "ARNI",
     "MICR CODE": "445762505",
+    "STD CODE": "7232",
     "NEFT": true,
     "IMPS": true
   },
@@ -3259,6 +3449,7 @@
     "RTGS": true,
     "CITY": "GHAZIPUR",
     "MICR CODE": "233762503",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -3276,6 +3467,7 @@
     "RTGS": true,
     "CITY": "EAST CHAMPARAN",
     "MICR CODE": "845762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -3293,6 +3485,7 @@
     "RTGS": true,
     "CITY": "HALDWANI",
     "MICR CODE": "263762503",
+    "STD CODE": "5946",
     "NEFT": true,
     "IMPS": true
   },
@@ -3310,6 +3503,7 @@
     "RTGS": true,
     "CITY": "GAYA",
     "MICR CODE": "823762005",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -3320,13 +3514,14 @@
     "DISTRICT": "MUZAFFARPUR",
     "STATE": "BIHAR",
     "ADDRESS": "MAUZA - SHADIPUR,P.S - PARU,BLOCK ROAD,SARAIYA,DISTRICT - MUZAFFARPUR,STATE - BIHAR,PIN CODE - 843126",
-    "CONTACT": "00",
+    "CONTACT": null,
     "MICR": "842762005",
     "BANK": "UTKARSH SMALL FINANCE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SARAIYA",
     "MICR CODE": "842762005",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3344,6 +3539,7 @@
     "RTGS": true,
     "CITY": "MUZAFFARPUR",
     "MICR CODE": "842762004",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3361,6 +3557,7 @@
     "RTGS": true,
     "CITY": "MUZAFFARPUR",
     "MICR CODE": "842762003",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3378,6 +3575,7 @@
     "RTGS": true,
     "CITY": "GOTEGAON",
     "MICR CODE": "487762001",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -3395,6 +3593,7 @@
     "RTGS": true,
     "CITY": "GONAWA - NAWADA",
     "MICR CODE": "805762004",
+    "STD CODE": "6324",
     "NEFT": true,
     "IMPS": true
   },
@@ -3412,6 +3611,7 @@
     "RTGS": true,
     "CITY": "FATEHPUR",
     "MICR CODE": "823762004",
+    "STD CODE": "631",
     "NEFT": true,
     "IMPS": true
   },
@@ -3429,6 +3629,7 @@
     "RTGS": true,
     "CITY": "PATNA",
     "MICR CODE": "800762007",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -3446,6 +3647,7 @@
     "RTGS": true,
     "CITY": "PUNAWAN - WAZIRGANJ",
     "MICR CODE": "823762009",
+    "STD CODE": "631",
     "NEFT": true,
     "IMPS": true
   },
@@ -3463,6 +3665,7 @@
     "RTGS": true,
     "CITY": "KHATIMA",
     "MICR CODE": "262762302",
+    "STD CODE": "5943",
     "NEFT": true,
     "IMPS": true
   },
@@ -3480,6 +3683,7 @@
     "RTGS": true,
     "CITY": "YAMUNA NAGAR",
     "MICR CODE": "135762003",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -3497,6 +3701,7 @@
     "RTGS": true,
     "CITY": "NAWADA",
     "MICR CODE": "805762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -3514,6 +3719,7 @@
     "RTGS": true,
     "CITY": "BAIJNATHPUR - KHIZERSARAI",
     "MICR CODE": "823762007",
+    "STD CODE": "631",
     "NEFT": true,
     "IMPS": true
   },
@@ -3531,6 +3737,7 @@
     "RTGS": true,
     "CITY": "PATAN",
     "MICR CODE": "482762003",
+    "STD CODE": "7621",
     "NEFT": true,
     "IMPS": true
   },
@@ -3548,6 +3755,7 @@
     "RTGS": true,
     "CITY": "SIDDHARTHNAGAR",
     "MICR CODE": "272762052",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -3565,6 +3773,7 @@
     "RTGS": true,
     "CITY": "SIDDHARTHNAGAR",
     "MICR CODE": "272762053",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -3582,6 +3791,7 @@
     "RTGS": true,
     "CITY": "KURUKSHETRA",
     "MICR CODE": "136762102",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -3599,6 +3809,7 @@
     "RTGS": true,
     "CITY": "PANDHARKAWADA",
     "MICR CODE": "445762504",
+    "STD CODE": "7235",
     "NEFT": true,
     "IMPS": true
   },
@@ -3616,6 +3827,7 @@
     "RTGS": true,
     "CITY": "WANI",
     "MICR CODE": "445762506",
+    "STD CODE": "7239",
     "NEFT": true,
     "IMPS": true
   },
@@ -3633,6 +3845,7 @@
     "RTGS": true,
     "CITY": "BASTI",
     "MICR CODE": "272762002",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3650,6 +3863,7 @@
     "RTGS": true,
     "CITY": "BAIRIYA",
     "MICR CODE": "800762009",
+    "STD CODE": "612",
     "NEFT": true,
     "IMPS": true
   },
@@ -3667,6 +3881,7 @@
     "RTGS": true,
     "CITY": "DHOLI",
     "MICR CODE": "842762006",
+    "STD CODE": "621",
     "NEFT": true,
     "IMPS": true
   },
@@ -3684,6 +3899,7 @@
     "RTGS": true,
     "CITY": "AMRAVATI RURAL",
     "MICR CODE": "444762101",
+    "STD CODE": "721",
     "NEFT": true,
     "IMPS": true
   },
@@ -3701,6 +3917,7 @@
     "RTGS": true,
     "CITY": "MORSHI",
     "MICR CODE": "444762515",
+    "STD CODE": "7228",
     "NEFT": true,
     "IMPS": true
   },
@@ -3718,6 +3935,7 @@
     "RTGS": true,
     "CITY": "WARUD",
     "MICR CODE": "444762352",
+    "STD CODE": "7224",
     "NEFT": true,
     "IMPS": true
   },
@@ -3728,13 +3946,14 @@
     "DISTRICT": "AMRAVATI",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PLAT NO 25 RAJESHWAR NAGAR NEAR BHAMKAR HOSPITAL PARATWADA,DIST - AMARAVATI,PIN CODE 444805",
-    "CONTACT": "00",
+    "CONTACT": null,
     "MICR": "444762052",
     "BANK": "UTKARSH SMALL FINANCE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "ACHALPUR",
     "MICR CODE": "444762052",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3752,6 +3971,7 @@
     "RTGS": true,
     "CITY": "PULGAON",
     "MICR CODE": "442762511",
+    "STD CODE": "7158",
     "NEFT": true,
     "IMPS": true
   },
@@ -3769,6 +3989,7 @@
     "RTGS": true,
     "CITY": "DHAMANGAON",
     "MICR CODE": "444762510",
+    "STD CODE": "7228",
     "NEFT": true,
     "IMPS": true
   },
@@ -3786,6 +4007,7 @@
     "RTGS": true,
     "CITY": "CHANDUR RAILWAY",
     "MICR CODE": "444762514",
+    "STD CODE": "7222",
     "NEFT": true,
     "IMPS": true
   },
@@ -3803,6 +4025,7 @@
     "RTGS": true,
     "CITY": "AMBALA",
     "MICR CODE": "133762003",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -3820,6 +4043,7 @@
     "RTGS": true,
     "CITY": "KURUKSHETRA",
     "MICR CODE": "136762002",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3837,6 +4061,7 @@
     "RTGS": true,
     "CITY": "SHAHDOL",
     "MICR CODE": "484762001",
+    "STD CODE": "7652",
     "NEFT": true,
     "IMPS": true
   },
@@ -3847,13 +4072,14 @@
     "DISTRICT": "SHAHDOL",
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "VILLAGE - DHANPURI,MUNICIPAL AREA WARD NO 01 DHANPURI CENERAL NO - 38,HALKA PATWARI,DHANPURI,NO.- 25,TEHSIL - BURHAR,DISTRICT - SHAHDOL,STATE - MP,484114",
-    "CONTACT": "00",
+    "CONTACT": null,
     "MICR": "484762501",
     "BANK": "UTKARSH SMALL FINANCE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "BURHAR",
     "MICR CODE": "484762501",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3871,6 +4097,7 @@
     "RTGS": true,
     "CITY": "ANUPPUR",
     "MICR CODE": "484762101",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -3888,6 +4115,7 @@
     "RTGS": true,
     "CITY": "CHANDUR BAZAR",
     "MICR CODE": "444762508",
+    "STD CODE": "7227",
     "NEFT": true,
     "IMPS": true
   },
@@ -3905,6 +4133,7 @@
     "RTGS": true,
     "CITY": "SAMSTIPUR",
     "MICR CODE": "848762003",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -3922,6 +4151,7 @@
     "RTGS": true,
     "CITY": "VAISHALI",
     "MICR CODE": "844762004",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -3939,6 +4169,7 @@
     "RTGS": true,
     "CITY": "PATNA",
     "MICR CODE": "800762008",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -3956,6 +4187,7 @@
     "RTGS": true,
     "CITY": "AUTA",
     "MICR CODE": "800762011",
+    "STD CODE": "6279",
     "NEFT": true,
     "IMPS": true
   },
@@ -3973,6 +4205,7 @@
     "RTGS": true,
     "CITY": "NALANDA",
     "MICR CODE": "803762004",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -3990,6 +4223,7 @@
     "RTGS": true,
     "CITY": "NARAINGARH",
     "MICR CODE": "134762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -4007,6 +4241,7 @@
     "RTGS": true,
     "CITY": "MEHDAWAL",
     "MICR CODE": "272762003",
+    "STD CODE": "5548",
     "NEFT": true,
     "IMPS": true
   },
@@ -4024,6 +4259,7 @@
     "RTGS": true,
     "CITY": "NAWADA",
     "MICR CODE": "805762003",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -4041,6 +4277,7 @@
     "RTGS": true,
     "CITY": "AKBARPUR",
     "MICR CODE": "805762005",
+    "STD CODE": "6324",
     "NEFT": true,
     "IMPS": true
   },
@@ -4058,6 +4295,7 @@
     "RTGS": true,
     "CITY": "DAHAUR",
     "MICR CODE": "800762010",
+    "STD CODE": "6132",
     "NEFT": true,
     "IMPS": true
   },
@@ -4075,6 +4313,7 @@
     "RTGS": true,
     "CITY": "AMBALA",
     "MICR CODE": "133762004",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -4092,6 +4331,7 @@
     "RTGS": true,
     "CITY": "SAMSTIPUR",
     "MICR CODE": "848762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -4109,6 +4349,7 @@
     "RTGS": true,
     "CITY": "AZAMGARH",
     "MICR CODE": "276762001",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -4126,6 +4367,7 @@
     "RTGS": true,
     "CITY": "GAYA",
     "MICR CODE": "823762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -4143,6 +4385,7 @@
     "RTGS": true,
     "CITY": "BASTI",
     "MICR CODE": "272762051",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4160,6 +4403,7 @@
     "RTGS": true,
     "CITY": "SILAO",
     "MICR CODE": "803762005",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -4177,6 +4421,7 @@
     "RTGS": true,
     "CITY": "AMBEDAKAR NAGAR",
     "MICR CODE": "224762001",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -4194,6 +4439,7 @@
     "RTGS": true,
     "CITY": "BARBIGHA",
     "MICR CODE": "811762302",
+    "STD CODE": "6341",
     "NEFT": true,
     "IMPS": true
   },
@@ -4211,6 +4457,7 @@
     "RTGS": true,
     "CITY": "AMBEDAKAR NAGAR",
     "MICR CODE": "224762003",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4228,6 +4475,7 @@
     "RTGS": true,
     "CITY": "KARNAL",
     "MICR CODE": "132762102",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -4245,6 +4493,7 @@
     "RTGS": true,
     "CITY": "BILASPUR",
     "MICR CODE": "135762004",
+    "STD CODE": "832",
     "NEFT": true,
     "IMPS": true
   },
@@ -4261,6 +4510,7 @@
     "RTGS": true,
     "CITY": "SILAO",
     "MICR CODE": "NA",
+    "STD CODE": "6112",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -4279,6 +4529,7 @@
     "RTGS": true,
     "CITY": "AMBEDAKAR NAGAR",
     "MICR CODE": "224762501",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4296,6 +4547,7 @@
     "RTGS": true,
     "CITY": "FAIZABAD",
     "MICR CODE": "224762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -4313,6 +4565,7 @@
     "RTGS": true,
     "CITY": "BEGUSARAI",
     "MICR CODE": "851762103",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -4330,6 +4583,7 @@
     "RTGS": true,
     "CITY": "PHULWARIYA",
     "MICR CODE": "851762104",
+    "STD CODE": "6279",
     "NEFT": true,
     "IMPS": true
   },
@@ -4347,6 +4601,7 @@
     "RTGS": true,
     "CITY": "BEGUSARAI",
     "MICR CODE": "851762102",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -4364,6 +4619,7 @@
     "RTGS": true,
     "CITY": "GHARAUNDA",
     "MICR CODE": "132762202",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -4381,6 +4637,7 @@
     "RTGS": true,
     "CITY": "KHAGARIA",
     "MICR CODE": "851762002",
+    "STD CODE": "6244",
     "NEFT": true,
     "IMPS": true
   },
@@ -4398,6 +4655,7 @@
     "RTGS": true,
     "CITY": "KARANJA LAD",
     "MICR CODE": "444762452",
+    "STD CODE": "7248",
     "NEFT": true,
     "IMPS": true
   },
@@ -4415,6 +4673,7 @@
     "RTGS": true,
     "CITY": "BHAGALPUR",
     "MICR CODE": "812762003",
+    "STD CODE": "641",
     "NEFT": true,
     "IMPS": true
   },
@@ -4432,6 +4691,7 @@
     "RTGS": true,
     "CITY": "SAMASTIPUR",
     "MICR CODE": "848762202",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4449,6 +4709,7 @@
     "RTGS": true,
     "CITY": "BOOTY MORE",
     "MICR CODE": "834762004",
+    "STD CODE": "651",
     "NEFT": true,
     "IMPS": true
   },
@@ -4466,6 +4727,7 @@
     "RTGS": true,
     "CITY": "RATU ROAD",
     "MICR CODE": "834762003",
+    "STD CODE": "651",
     "NEFT": true,
     "IMPS": true
   },
@@ -4483,6 +4745,7 @@
     "RTGS": true,
     "CITY": "GOGARI",
     "MICR CODE": "851762003",
+    "STD CODE": "6245",
     "NEFT": true,
     "IMPS": true
   },
@@ -4500,6 +4763,7 @@
     "RTGS": true,
     "CITY": "BAKHARI",
     "MICR CODE": "851762105",
+    "STD CODE": "6243",
     "NEFT": true,
     "IMPS": true
   },
@@ -4517,6 +4781,7 @@
     "RTGS": true,
     "CITY": "KAITHAL",
     "MICR CODE": "136762152",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -4534,6 +4799,7 @@
     "RTGS": true,
     "CITY": "TUMSAR",
     "MICR CODE": "441762202",
+    "STD CODE": "7183",
     "NEFT": true,
     "IMPS": true
   },
@@ -4551,6 +4817,7 @@
     "RTGS": true,
     "CITY": "CHHINDWARA",
     "MICR CODE": "480762001",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -4568,6 +4835,7 @@
     "RTGS": true,
     "CITY": "HATIA",
     "MICR CODE": "834762005",
+    "STD CODE": "651",
     "NEFT": true,
     "IMPS": true
   },
@@ -4585,6 +4853,7 @@
     "RTGS": true,
     "CITY": "PARASIYA",
     "MICR CODE": "480762002",
+    "STD CODE": "7161",
     "NEFT": true,
     "IMPS": true
   },
@@ -4602,6 +4871,7 @@
     "RTGS": true,
     "CITY": "DIMNA",
     "MICR CODE": "831762004",
+    "STD CODE": "6582",
     "NEFT": true,
     "IMPS": true
   },
@@ -4619,6 +4889,7 @@
     "RTGS": true,
     "CITY": "ASSANDH",
     "MICR CODE": "132762352",
+    "STD CODE": "1749",
     "NEFT": true,
     "IMPS": true
   },
@@ -4636,6 +4907,7 @@
     "RTGS": true,
     "CITY": "YAVATMAL",
     "MICR CODE": "445762501",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -4653,6 +4925,7 @@
     "RTGS": true,
     "CITY": "DARYAPUR",
     "MICR CODE": "444762252",
+    "STD CODE": "7224",
     "NEFT": true,
     "IMPS": true
   },
@@ -4670,6 +4943,7 @@
     "RTGS": true,
     "CITY": "SAUSAR",
     "MICR CODE": "480762003",
+    "STD CODE": "7164",
     "NEFT": true,
     "IMPS": true
   },
@@ -4687,6 +4961,7 @@
     "RTGS": true,
     "CITY": "CHITRAKUT",
     "MICR CODE": "210762051",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -4704,6 +4979,7 @@
     "RTGS": true,
     "CITY": "MANDLA",
     "MICR CODE": "481762101",
+    "STD CODE": "7642",
     "NEFT": true,
     "IMPS": true
   },
@@ -4721,6 +4997,7 @@
     "RTGS": true,
     "CITY": "NAINPUR",
     "MICR CODE": "481762501",
+    "STD CODE": "7646",
     "NEFT": true,
     "IMPS": true
   },
@@ -4738,6 +5015,7 @@
     "RTGS": true,
     "CITY": "SONBHADRA",
     "MICR CODE": "231762103",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4755,6 +5033,7 @@
     "RTGS": true,
     "CITY": "BHAGALPUR",
     "MICR CODE": "812762004",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -4772,6 +5051,7 @@
     "RTGS": true,
     "CITY": "SULTANGANJ",
     "MICR CODE": "812762005",
+    "STD CODE": "641",
     "NEFT": true,
     "IMPS": true
   },
@@ -4789,6 +5069,7 @@
     "RTGS": true,
     "CITY": "DARBHANGA",
     "MICR CODE": "846762004",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -4806,6 +5087,7 @@
     "RTGS": true,
     "CITY": "BETUL",
     "MICR CODE": "460762001",
+    "STD CODE": "7141",
     "NEFT": true,
     "IMPS": true
   },
@@ -4823,6 +5105,7 @@
     "RTGS": true,
     "CITY": "MURTIJAPUR",
     "MICR CODE": "444762507",
+    "STD CODE": "7256",
     "NEFT": true,
     "IMPS": true
   },
@@ -4840,6 +5123,7 @@
     "RTGS": true,
     "CITY": "MULTAI",
     "MICR CODE": "460762501",
+    "STD CODE": "7147",
     "NEFT": true,
     "IMPS": true
   },
@@ -4857,6 +5141,7 @@
     "RTGS": true,
     "CITY": "HAZARIBAGH",
     "MICR CODE": "825762003",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -4874,6 +5159,7 @@
     "RTGS": true,
     "CITY": "SONBHADRA",
     "MICR CODE": "231762104",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4891,6 +5177,7 @@
     "RTGS": true,
     "CITY": "ROBERTSGANJ",
     "MICR CODE": "231762105",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -4908,6 +5195,7 @@
     "RTGS": true,
     "CITY": "SHAHPUR PATORI",
     "MICR CODE": "848762004",
+    "STD CODE": "6132",
     "NEFT": true,
     "IMPS": true
   },
@@ -4925,6 +5213,7 @@
     "RTGS": true,
     "CITY": "PANDHURNA",
     "MICR CODE": "480762004",
+    "STD CODE": "7164",
     "NEFT": true,
     "IMPS": true
   },
@@ -4942,6 +5231,7 @@
     "RTGS": true,
     "CITY": "PEHOWA",
     "MICR CODE": "132762252",
+    "STD CODE": "1741",
     "NEFT": true,
     "IMPS": true
   },
@@ -4959,6 +5249,7 @@
     "RTGS": true,
     "CITY": "PARSUDIH",
     "MICR CODE": "831762005",
+    "STD CODE": "6582",
     "NEFT": true,
     "IMPS": true
   },
@@ -4976,6 +5267,7 @@
     "RTGS": true,
     "CITY": "RAMGARH",
     "MICR CODE": "829762202",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -4992,6 +5284,7 @@
     "RTGS": true,
     "CITY": "MURAMKALAN - RAMGARH - JH",
     "MICR CODE": "NA",
+    "STD CODE": "6553",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5010,6 +5303,7 @@
     "RTGS": true,
     "CITY": "CHRIAKOOT",
     "MICR CODE": "210762052",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -5027,6 +5321,7 @@
     "RTGS": true,
     "CITY": "KARWI",
     "MICR CODE": "210762053",
+    "STD CODE": "5198",
     "NEFT": true,
     "IMPS": true
   },
@@ -5044,6 +5339,7 @@
     "RTGS": true,
     "CITY": "AKOLA",
     "MICR CODE": "444762002",
+    "STD CODE": "724",
     "NEFT": true,
     "IMPS": true
   },
@@ -5061,6 +5357,7 @@
     "RTGS": true,
     "CITY": "AMARPUR",
     "MICR CODE": "813762003",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -5078,6 +5375,7 @@
     "RTGS": true,
     "CITY": "CHAURAI",
     "MICR CODE": "480762005",
+    "STD CODE": "7166",
     "NEFT": true,
     "IMPS": true
   },
@@ -5095,6 +5393,7 @@
     "RTGS": true,
     "CITY": "SEONI",
     "MICR CODE": "480762101",
+    "STD CODE": "7692",
     "NEFT": true,
     "IMPS": true
   },
@@ -5112,6 +5411,7 @@
     "RTGS": true,
     "CITY": "PUSAD",
     "MICR CODE": "445762102",
+    "STD CODE": "7233",
     "NEFT": true,
     "IMPS": true
   },
@@ -5129,6 +5429,7 @@
     "RTGS": true,
     "CITY": "DARBHANGA",
     "MICR CODE": "846762003",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -5146,6 +5447,7 @@
     "RTGS": true,
     "CITY": "BANKA",
     "MICR CODE": "813762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -5163,6 +5465,7 @@
     "RTGS": true,
     "CITY": "LAKHISARAI",
     "MICR CODE": "811762102",
+    "STD CODE": "6346",
     "NEFT": true,
     "IMPS": true
   },
@@ -5180,6 +5483,7 @@
     "RTGS": true,
     "CITY": "BARAMASIA - BARGANDA",
     "MICR CODE": "815762005",
+    "STD CODE": "6532",
     "NEFT": true,
     "IMPS": true
   },
@@ -5196,6 +5500,7 @@
     "RTGS": true,
     "CITY": "CHAIBASA",
     "MICR CODE": "NA",
+    "STD CODE": "6582",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5214,6 +5519,7 @@
     "RTGS": true,
     "CITY": "AMARWARA",
     "MICR CODE": "480762501",
+    "STD CODE": "7162",
     "NEFT": true,
     "IMPS": true
   },
@@ -5231,6 +5537,7 @@
     "RTGS": true,
     "CITY": "PRATAPGARH",
     "MICR CODE": "230762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -5248,6 +5555,7 @@
     "RTGS": true,
     "CITY": "BIRGAON",
     "MICR CODE": "492762004",
+    "STD CODE": "771",
     "NEFT": true,
     "IMPS": true
   },
@@ -5265,6 +5573,7 @@
     "RTGS": true,
     "CITY": "MUNGER",
     "MICR CODE": "811762202",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -5282,6 +5591,7 @@
     "RTGS": true,
     "CITY": "EAST SINGHBHUM",
     "MICR CODE": "832762002",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5299,6 +5609,7 @@
     "RTGS": true,
     "CITY": "VAISHALI",
     "MICR CODE": "844762003",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5316,6 +5627,7 @@
     "RTGS": true,
     "CITY": "RAIPUR",
     "MICR CODE": "492762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -5333,6 +5645,7 @@
     "RTGS": true,
     "CITY": "JAMUI - BIHAR",
     "MICR CODE": "811762003",
+    "STD CODE": "6345",
     "NEFT": true,
     "IMPS": true
   },
@@ -5350,6 +5663,7 @@
     "RTGS": true,
     "CITY": "SIWAN",
     "MICR CODE": "841762204",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -5367,6 +5681,7 @@
     "RTGS": true,
     "CITY": "RAIPUR",
     "MICR CODE": "492762003",
+    "STD CODE": "771",
     "NEFT": true,
     "IMPS": true
   },
@@ -5384,6 +5699,7 @@
     "RTGS": true,
     "CITY": "KALYANDIH - PACHAMBA",
     "MICR CODE": "815762006",
+    "STD CODE": "6532",
     "NEFT": true,
     "IMPS": true
   },
@@ -5401,6 +5717,7 @@
     "RTGS": true,
     "CITY": "WEST SINGHBHUM",
     "MICR CODE": "833762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -5418,6 +5735,7 @@
     "RTGS": true,
     "CITY": "HAZARIBAGH",
     "MICR CODE": "825762002",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5435,6 +5753,7 @@
     "RTGS": true,
     "CITY": "PURNIA",
     "MICR CODE": "854762103",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -5452,6 +5771,7 @@
     "RTGS": true,
     "CITY": "SIKANDRA",
     "MICR CODE": "811762002",
+    "STD CODE": "6345",
     "NEFT": true,
     "IMPS": true
   },
@@ -5469,6 +5789,7 @@
     "RTGS": true,
     "CITY": "KODERMA",
     "MICR CODE": "825762102",
+    "STD CODE": "6534",
     "NEFT": true,
     "IMPS": true
   },
@@ -5486,6 +5807,7 @@
     "RTGS": true,
     "CITY": "PRATAPGARH",
     "MICR CODE": "230762003",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -5503,6 +5825,7 @@
     "RTGS": true,
     "CITY": "KATIHAR",
     "MICR CODE": "854762203",
+    "STD CODE": "1746",
     "NEFT": true,
     "IMPS": true
   },
@@ -5520,6 +5843,7 @@
     "RTGS": true,
     "CITY": "PURNIA",
     "MICR CODE": "854762102",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -5537,6 +5861,7 @@
     "RTGS": true,
     "CITY": "GRIDIH",
     "MICR CODE": "815762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -5554,6 +5879,7 @@
     "RTGS": true,
     "CITY": "RAIPUR",
     "MICR CODE": "492762501",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -5571,6 +5897,7 @@
     "RTGS": true,
     "CITY": "SONEBHADRA",
     "MICR CODE": "231762102",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -5588,6 +5915,7 @@
     "RTGS": true,
     "CITY": "MIRZAPUR",
     "MICR CODE": "231762051",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5605,6 +5933,7 @@
     "RTGS": true,
     "CITY": "HALDI POKHAR",
     "MICR CODE": "831762003",
+    "STD CODE": "6582",
     "NEFT": true,
     "IMPS": true
   },
@@ -5622,6 +5951,7 @@
     "RTGS": true,
     "CITY": "MADHEPURA",
     "MICR CODE": "852762202",
+    "STD CODE": "6476",
     "NEFT": true,
     "IMPS": true
   },
@@ -5639,6 +5969,7 @@
     "RTGS": true,
     "CITY": "WASHIM",
     "MICR CODE": "444762202",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -5656,6 +5987,7 @@
     "RTGS": true,
     "CITY": "GRIDIH",
     "MICR CODE": "815762003",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -5673,6 +6005,7 @@
     "RTGS": true,
     "CITY": "PHUSRO",
     "MICR CODE": "827762004",
+    "STD CODE": "6542",
     "NEFT": true,
     "IMPS": true
   },
@@ -5690,6 +6023,7 @@
     "RTGS": true,
     "CITY": "RANIGANJ",
     "MICR CODE": "854762002",
+    "STD CODE": "6461",
     "NEFT": true,
     "IMPS": true
   },
@@ -5707,6 +6041,7 @@
     "RTGS": true,
     "CITY": "KURSELA",
     "MICR CODE": "854762202",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -5724,6 +6059,7 @@
     "RTGS": true,
     "CITY": "AMBHORA - GONDIA",
     "MICR CODE": "441762002",
+    "STD CODE": "7182",
     "NEFT": true,
     "IMPS": true
   },
@@ -5741,6 +6077,7 @@
     "RTGS": true,
     "CITY": "SAMALKHA",
     "MICR CODE": "132762152",
+    "STD CODE": "171",
     "NEFT": true,
     "IMPS": true
   },
@@ -5758,6 +6095,7 @@
     "RTGS": true,
     "CITY": "BOKARO",
     "MICR CODE": "827762003",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -5775,6 +6113,7 @@
     "RTGS": true,
     "CITY": "JALGAON",
     "MICR CODE": "425762001",
+    "STD CODE": "257",
     "NEFT": true,
     "IMPS": true
   },
@@ -5792,6 +6131,7 @@
     "RTGS": true,
     "CITY": "TILDA",
     "MICR CODE": "492762005",
+    "STD CODE": "7721",
     "NEFT": true,
     "IMPS": true
   },
@@ -5809,6 +6149,7 @@
     "RTGS": true,
     "CITY": "PACHORA",
     "MICR CODE": "424762102",
+    "STD CODE": "2596",
     "NEFT": true,
     "IMPS": true
   },
@@ -5826,6 +6167,7 @@
     "RTGS": true,
     "CITY": "SITAMADHI",
     "MICR CODE": "843762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -5836,13 +6178,14 @@
     "DISTRICT": "DUMKA",
     "STATE": "JHARKHAND",
     "ADDRESS": "MAUZA BANDARJORI NO12 TALUK GHAT DUMKA,MUNICIPAL WARD NO16(OLD ) NEW ( 22 ) OF BASOURI JAMABANDI NO 30/20 PLOT NO4 PART LIC CHAUK,PIN - 814101",
-    "CONTACT": "00",
+    "CONTACT": null,
     "MICR": "814762004",
     "BANK": "UTKARSH SMALL FINANCE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "DUMKA",
     "MICR CODE": "814762004",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5860,6 +6203,7 @@
     "RTGS": true,
     "CITY": "MADHUBANI",
     "MICR CODE": "847762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -5877,6 +6221,7 @@
     "RTGS": true,
     "CITY": "DHAMATARI",
     "MICR CODE": "493762001",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5894,6 +6239,7 @@
     "RTGS": true,
     "CITY": "GRIDIH",
     "MICR CODE": "815762004",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -5911,6 +6257,7 @@
     "RTGS": true,
     "CITY": "JHANJHARPUR",
     "MICR CODE": "847762003",
+    "STD CODE": "6273",
     "NEFT": true,
     "IMPS": true
   },
@@ -5928,6 +6275,7 @@
     "RTGS": true,
     "CITY": "DHAMTARI",
     "MICR CODE": "493762002",
+    "STD CODE": "7722",
     "NEFT": true,
     "IMPS": true
   },
@@ -5944,6 +6292,7 @@
     "RTGS": true,
     "CITY": "VARANASI",
     "MICR CODE": "221762012",
+    "STD CODE": "542",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -5962,6 +6311,7 @@
     "RTGS": true,
     "CITY": "ALLAHABAD",
     "MICR CODE": "211762004",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -5979,6 +6329,7 @@
     "RTGS": true,
     "CITY": "PATNA",
     "MICR CODE": "800762006",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -5996,6 +6347,7 @@
     "RTGS": true,
     "CITY": "GORAKHPUR",
     "MICR CODE": "273762003",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -6013,6 +6365,7 @@
     "RTGS": true,
     "CITY": "CHHAPRA",
     "MICR CODE": "841762011",
+    "STD CODE": "6152",
     "NEFT": true,
     "IMPS": true
   },
@@ -6030,6 +6383,7 @@
     "RTGS": true,
     "CITY": "BHOJPUR",
     "MICR CODE": "802762102",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -6047,6 +6401,7 @@
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "110762002",
+    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true
   },
@@ -6064,6 +6419,7 @@
     "RTGS": true,
     "CITY": "MUZAFFARPUR",
     "MICR CODE": "842762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -6081,6 +6437,7 @@
     "RTGS": true,
     "CITY": "GAYA",
     "MICR CODE": "823762010",
+    "STD CODE": "631",
     "NEFT": true,
     "IMPS": true
   },
@@ -6098,6 +6455,7 @@
     "RTGS": true,
     "CITY": "DEORIA",
     "MICR CODE": "274762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -6115,6 +6473,7 @@
     "RTGS": true,
     "CITY": "JAUNPUR",
     "MICR CODE": "222762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -6124,7 +6483,8 @@
     "MICR CODE": "440762007",
     "BRANCH": "NAGPUR",
     "ADDRESS": "UPPER GROUND FLOOR,SHOP NO.1,2,3,80,81,82SANSKRUTIK SANSKUL,RANI JHANSI CHOWK,SITABULDI,NAGPUR MAHARASHTRA 440012",
-    "CONTACT": "7129604891536",
+    "STD CODE": "712",
+    "CONTACT": "9604891536",
     "CITY": "NAGPUR",
     "DISTRICT": "NAGPUR",
     "STATE": "MAHARASHTRA",
@@ -6149,6 +6509,7 @@
     "RTGS": true,
     "CITY": "SIWAN",
     "MICR CODE": "841762209",
+    "STD CODE": "6154",
     "NEFT": true,
     "IMPS": true
   },
@@ -6166,6 +6527,7 @@
     "RTGS": true,
     "CITY": "ROORKEE",
     "MICR CODE": "247762001",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -6176,13 +6538,14 @@
     "DISTRICT": "RANCHI",
     "STATE": "JHARKHAND",
     "ADDRESS": "GROUND FLOOR, NARAYANI COMPLEX, 5 MAIN ROAD, RANCHI-834001, JHARKHAND",
-    "CONTACT": "7897074410",
+    "CONTACT": "1239878",
     "MICR": "834762002",
     "BANK": "UTKARSH SMALL FINANCE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "RANCHI",
     "MICR CODE": "834762002",
+    "STD CODE": "1800",
     "NEFT": true,
     "IMPS": true
   },
@@ -6200,6 +6563,7 @@
     "RTGS": true,
     "CITY": "FARIDABAD",
     "MICR CODE": "110762008",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -6217,6 +6581,7 @@
     "RTGS": true,
     "CITY": "VARANASI",
     "MICR CODE": "221762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -6234,6 +6599,7 @@
     "RTGS": true,
     "CITY": "GURUGRAM",
     "MICR CODE": "110762005",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -6251,6 +6617,7 @@
     "RTGS": true,
     "CITY": "PATNA",
     "MICR CODE": "800762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -6268,6 +6635,7 @@
     "RTGS": true,
     "CITY": "GURUGRAM",
     "MICR CODE": "110762004",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -6285,6 +6653,7 @@
     "RTGS": true,
     "CITY": "NAGPUR",
     "MICR CODE": "440762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -6302,6 +6671,7 @@
     "RTGS": true,
     "CITY": "PATNA",
     "MICR CODE": "803762102",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -6319,6 +6689,7 @@
     "RTGS": true,
     "CITY": "DUMKA",
     "MICR CODE": "814762002",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6336,6 +6707,7 @@
     "RTGS": true,
     "CITY": "JARMUNDI",
     "MICR CODE": "814762003",
+    "STD CODE": "6431",
     "NEFT": true,
     "IMPS": true
   },
@@ -6353,6 +6725,7 @@
     "RTGS": true,
     "CITY": "GODDA",
     "MICR CODE": "814762202",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -6370,6 +6743,7 @@
     "RTGS": true,
     "CITY": "VARANASI",
     "MICR CODE": "221762008",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -6387,6 +6761,7 @@
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR CODE": "400762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -6404,6 +6779,7 @@
     "RTGS": true,
     "CITY": "NEW DELHI",
     "MICR CODE": "110762007",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -6421,6 +6797,7 @@
     "RTGS": true,
     "CITY": "CHALISGAON",
     "MICR CODE": "424762509",
+    "STD CODE": "257",
     "NEFT": true,
     "IMPS": true
   },
@@ -6438,6 +6815,7 @@
     "RTGS": true,
     "CITY": "SONIPAT",
     "MICR CODE": "110762010",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -6455,6 +6833,7 @@
     "RTGS": true,
     "CITY": "YAMUNANAGAR",
     "MICR CODE": "135762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -6472,6 +6851,7 @@
     "RTGS": true,
     "CITY": "BASTI",
     "MICR CODE": "272762001",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -6489,6 +6869,7 @@
     "RTGS": true,
     "CITY": "AMBALA",
     "MICR CODE": "133762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -6506,6 +6887,7 @@
     "RTGS": true,
     "CITY": "DHANBAD",
     "MICR CODE": "826762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -6523,6 +6905,7 @@
     "RTGS": true,
     "CITY": "RAMGARH CANTT",
     "MICR CODE": "829762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -6540,6 +6923,7 @@
     "RTGS": true,
     "CITY": "HARIDWAR",
     "MICR CODE": "249762001",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -6557,6 +6941,7 @@
     "RTGS": true,
     "CITY": "BOKARO",
     "MICR CODE": "827762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -6574,6 +6959,7 @@
     "RTGS": true,
     "CITY": "DARBHANGA",
     "MICR CODE": "846762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -6591,6 +6977,7 @@
     "RTGS": true,
     "CITY": "RAIPUR",
     "MICR CODE": "492762001",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -6608,6 +6995,7 @@
     "RTGS": true,
     "CITY": "NEW DELHI",
     "MICR CODE": "110762009",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -6625,6 +7013,7 @@
     "RTGS": true,
     "CITY": "HAJIPUR",
     "MICR CODE": "844762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -6642,6 +7031,7 @@
     "RTGS": true,
     "CITY": "BIHAR SHARIFF",
     "MICR CODE": "803762002",
+    "STD CODE": "6112",
     "NEFT": true,
     "IMPS": true
   },
@@ -6659,6 +7049,7 @@
     "RTGS": true,
     "CITY": "RASRA",
     "MICR CODE": "221762201",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -6676,6 +7067,7 @@
     "RTGS": true,
     "CITY": "KAIMUR",
     "MICR CODE": "821762102",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -6693,6 +7085,7 @@
     "RTGS": true,
     "CITY": "PRATAPGARH",
     "MICR CODE": "230762001",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -6710,6 +7103,7 @@
     "RTGS": true,
     "CITY": "JAMSHEDPUR",
     "MICR CODE": "831762002",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6727,6 +7121,7 @@
     "RTGS": true,
     "CITY": "PATNA",
     "MICR CODE": "800762005",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6744,6 +7139,7 @@
     "RTGS": true,
     "CITY": "RUDRAPUR",
     "MICR CODE": "263762001",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -6754,13 +7150,14 @@
     "DISTRICT": "KANKER",
     "STATE": "CHHATTISGARH",
     "ADDRESS": "MAUZA- BARDEBHATAWRNO-18,GHNICHOWK,SRONRO,KNKER,TEHSIL-KNKER,DISRIC-KNKER,CHHISGRH,PINCOE-494334,KHESRNO-465/3/K/5",
-    "CONTACT": "00",
+    "CONTACT": null,
     "MICR": "494762101",
     "BANK": "UTKARSH SMALL FINANCE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KANKER",
     "MICR CODE": "494762101",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6778,6 +7175,7 @@
     "RTGS": true,
     "CITY": "NAGAR UNTARI",
     "MICR CODE": "822762103",
+    "STD CODE": "6561",
     "NEFT": true,
     "IMPS": true
   },
@@ -6795,6 +7193,7 @@
     "RTGS": true,
     "CITY": "GOVINDPUR",
     "MICR CODE": "826762003",
+    "STD CODE": "6542",
     "NEFT": true,
     "IMPS": true
   },
@@ -6812,6 +7211,7 @@
     "RTGS": true,
     "CITY": "WADRAF NAGAR",
     "MICR CODE": "497762501",
+    "STD CODE": "7772",
     "NEFT": true,
     "IMPS": true
   },
@@ -6829,6 +7229,7 @@
     "RTGS": true,
     "CITY": "JASHPUR",
     "MICR CODE": "496762501",
+    "STD CODE": "7763",
     "NEFT": true,
     "IMPS": true
   },
@@ -6846,6 +7247,7 @@
     "RTGS": true,
     "CITY": "PAKUR",
     "MICR CODE": "814762005",
+    "STD CODE": "6435",
     "NEFT": true,
     "IMPS": true
   },
@@ -6863,6 +7265,7 @@
     "RTGS": true,
     "CITY": "UDAYPUR",
     "MICR CODE": "497762503",
+    "STD CODE": "7833",
     "NEFT": true,
     "IMPS": true
   },
@@ -6880,6 +7283,7 @@
     "RTGS": true,
     "CITY": "PANKI",
     "MICR CODE": "822762005",
+    "STD CODE": "6562",
     "NEFT": true,
     "IMPS": true
   },
@@ -6897,6 +7301,7 @@
     "RTGS": true,
     "CITY": "PADWA MOD",
     "MICR CODE": "822762003",
+    "STD CODE": "6562",
     "NEFT": true,
     "IMPS": true
   },
@@ -6914,6 +7319,7 @@
     "RTGS": true,
     "CITY": "RAMANUGANJ",
     "MICR CODE": "497762151",
+    "STD CODE": "7779",
     "NEFT": true,
     "IMPS": true
   },
@@ -6931,6 +7337,7 @@
     "RTGS": true,
     "CITY": "JAPLA",
     "MICR CODE": "822762004",
+    "STD CODE": "6566",
     "NEFT": true,
     "IMPS": true
   },
@@ -6948,6 +7355,7 @@
     "RTGS": true,
     "CITY": "GARIYABAND",
     "MICR CODE": "493762003",
+    "STD CODE": "7706",
     "NEFT": true,
     "IMPS": true
   },
@@ -6965,6 +7373,7 @@
     "RTGS": true,
     "CITY": "MERAL",
     "MICR CODE": "822762104",
+    "STD CODE": "6561",
     "NEFT": true,
     "IMPS": true
   },
@@ -6982,6 +7391,7 @@
     "RTGS": true,
     "CITY": "GARHAWA",
     "MICR CODE": "822762102",
+    "STD CODE": "6561",
     "NEFT": true,
     "IMPS": true
   },
@@ -6999,6 +7409,7 @@
     "RTGS": true,
     "CITY": "MOHAMMADGANJ",
     "MICR CODE": "822762105",
+    "STD CODE": "6566",
     "NEFT": true,
     "IMPS": true
   },
@@ -7016,6 +7427,7 @@
     "RTGS": true,
     "CITY": "BALRAMPUR",
     "MICR CODE": "497762502",
+    "STD CODE": "172",
     "NEFT": true,
     "IMPS": true
   },
@@ -7033,6 +7445,7 @@
     "RTGS": true,
     "CITY": "BARHARWA",
     "MICR CODE": "816762102",
+    "STD CODE": "6426",
     "NEFT": true,
     "IMPS": true
   },
@@ -7050,6 +7463,7 @@
     "RTGS": true,
     "CITY": "SAHEBGANJ",
     "MICR CODE": "816762103",
+    "STD CODE": "6436",
     "NEFT": true,
     "IMPS": true
   },
@@ -7067,6 +7481,7 @@
     "RTGS": true,
     "CITY": "DUDDHI",
     "MICR CODE": "231762106",
+    "STD CODE": "5447",
     "NEFT": true,
     "IMPS": true
   },
@@ -7084,6 +7499,7 @@
     "RTGS": true,
     "CITY": "MAHGAMA",
     "MICR CODE": "814762203",
+    "STD CODE": "6437",
     "NEFT": true,
     "IMPS": true
   },
@@ -7101,6 +7517,7 @@
     "RTGS": true,
     "CITY": "DALTONGANJ",
     "MICR CODE": "822762002",
+    "STD CODE": "6562",
     "NEFT": true,
     "IMPS": true
   },
@@ -7118,6 +7535,7 @@
     "RTGS": true,
     "CITY": "ANJANI - ERSTWHILE ANPARA",
     "MICR CODE": "231762151",
+    "STD CODE": "5444",
     "NEFT": true,
     "IMPS": true
   },
@@ -7135,6 +7553,7 @@
     "RTGS": true,
     "CITY": "SITAMARHI",
     "MICR CODE": "843762003",
+    "STD CODE": "6226",
     "NEFT": true,
     "IMPS": true
   },
@@ -7152,6 +7571,7 @@
     "RTGS": true,
     "CITY": "CUTTACK",
     "MICR CODE": "754762002",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7169,6 +7589,7 @@
     "RTGS": true,
     "CITY": "CUTTACK",
     "MICR CODE": "754762302",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7186,6 +7607,7 @@
     "RTGS": true,
     "CITY": "CHATRAPUR",
     "MICR CODE": "761762002",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7203,6 +7625,7 @@
     "RTGS": true,
     "CITY": "BHANJANAGAR",
     "MICR CODE": "761762302",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7220,6 +7643,7 @@
     "RTGS": true,
     "CITY": "NARSINGHPUR",
     "MICR CODE": "754762003",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7237,6 +7661,7 @@
     "RTGS": true,
     "CITY": "MAYURBHANJ",
     "MICR CODE": "757762002",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7254,6 +7679,7 @@
     "RTGS": true,
     "CITY": "ANGUL",
     "MICR CODE": "759762102",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7271,6 +7697,7 @@
     "RTGS": true,
     "CITY": "KEONJHAR",
     "MICR CODE": "758762002",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7288,6 +7715,7 @@
     "RTGS": true,
     "CITY": "KARANJIYA",
     "MICR CODE": "757762003",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7305,6 +7733,7 @@
     "RTGS": true,
     "CITY": "BARIPADA",
     "MICR CODE": "757762004",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7322,6 +7751,7 @@
     "RTGS": true,
     "CITY": "RAIRANGPUR",
     "MICR CODE": "757762102",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7339,6 +7769,7 @@
     "RTGS": true,
     "CITY": "ANANDPUR",
     "MICR CODE": "758762003",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7356,6 +7787,7 @@
     "RTGS": true,
     "CITY": "TALCHER",
     "MICR CODE": "759762202",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7373,6 +7805,7 @@
     "RTGS": true,
     "CITY": "DHENKANAL",
     "MICR CODE": "759762002",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7390,6 +7823,7 @@
     "RTGS": true,
     "CITY": "DEOGARH",
     "MICR CODE": "768762102",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7407,6 +7841,7 @@
     "RTGS": true,
     "CITY": "NABRANGPUR",
     "MICR CODE": "764762202",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7424,6 +7859,7 @@
     "RTGS": true,
     "CITY": "NUAPADA",
     "MICR CODE": "766762102",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7441,6 +7877,7 @@
     "RTGS": true,
     "CITY": "JEYPORE",
     "MICR CODE": "764762102",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7458,6 +7895,7 @@
     "RTGS": true,
     "CITY": "LUCKNOW",
     "MICR CODE": "226762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -7475,6 +7913,7 @@
     "RTGS": true,
     "CITY": "SULT",
     "MICR CODE": "263762102",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -7492,6 +7931,7 @@
     "RTGS": true,
     "CITY": "JABALPUR",
     "MICR CODE": "482762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -7509,6 +7949,7 @@
     "RTGS": true,
     "CITY": "KANPUR",
     "MICR CODE": "208762002",
+    "STD CODE": "1800",
     "NEFT": true,
     "IMPS": true
   },
@@ -7526,6 +7967,7 @@
     "RTGS": true,
     "CITY": "BAREILLY",
     "MICR CODE": "243762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -7543,6 +7985,7 @@
     "RTGS": true,
     "CITY": "MORADABAD",
     "MICR CODE": "244762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -7560,6 +8003,7 @@
     "RTGS": true,
     "CITY": "PANCHKULA",
     "MICR CODE": "160762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -7577,6 +8021,7 @@
     "RTGS": true,
     "CITY": "BHOPAL",
     "MICR CODE": "462762001",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -7594,6 +8039,7 @@
     "RTGS": true,
     "CITY": "KOLKATA",
     "MICR CODE": "700762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -7611,6 +8057,7 @@
     "RTGS": true,
     "CITY": "BHAGALPUR",
     "MICR CODE": "812762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -7628,6 +8075,7 @@
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "110762012",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -7645,6 +8093,7 @@
     "RTGS": true,
     "CITY": "VARANASI",
     "MICR CODE": "221762010",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -7662,6 +8111,7 @@
     "RTGS": true,
     "CITY": "NOIDA",
     "MICR CODE": "110762011",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -7679,6 +8129,7 @@
     "RTGS": true,
     "CITY": "INDORE",
     "MICR CODE": "452762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -7696,6 +8147,7 @@
     "RTGS": true,
     "CITY": "AGRA",
     "MICR CODE": "282762002",
+    "STD CODE": "91",
     "NEFT": true,
     "IMPS": true
   },
@@ -7706,13 +8158,14 @@
     "DISTRICT": "DEHRADUN",
     "STATE": "UTTARAKHAND",
     "ADDRESS": "GROUND FLOOR MUNICIPAL NUMBER 1 ASHOK VIHAR GMS ROAD KHASRA NO 504/2 MIN MAUZA KANWALI PARGANA CENTRAL DOON DISTT DEHRADUN UTTARAKHAND 248001",
-    "CONTACT": "1359719028884",
+    "CONTACT": "9719028884",
     "MICR": "248762002",
     "BANK": "UTKARSH SMALL FINANCE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "DEHRADUN",
     "MICR CODE": "248762002",
+    "STD CODE": "135",
     "NEFT": true,
     "IMPS": true
   },
@@ -7730,6 +8183,7 @@
     "RTGS": true,
     "CITY": "MEERUT",
     "MICR CODE": "250762002",
+    "STD CODE": "121",
     "NEFT": true,
     "IMPS": true
   },
@@ -7747,6 +8201,7 @@
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "110762024",
+    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true
   },
@@ -7764,6 +8219,7 @@
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "110762023",
+    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true
   },
@@ -7781,6 +8237,7 @@
     "RTGS": true,
     "CITY": "DELHI",
     "MICR CODE": "110762025",
+    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true
   },
@@ -7798,6 +8255,7 @@
     "RTGS": true,
     "CITY": "GHAZIABAD",
     "MICR CODE": "110762026",
+    "STD CODE": "120",
     "NEFT": true,
     "IMPS": true
   },
@@ -7815,6 +8273,7 @@
     "RTGS": true,
     "CITY": "UJJAIN",
     "MICR CODE": "456762001",
+    "STD CODE": "734",
     "NEFT": true,
     "IMPS": true
   },
@@ -7832,6 +8291,7 @@
     "RTGS": true,
     "CITY": "RANCHI",
     "MICR CODE": "834762006",
+    "STD CODE": "651",
     "NEFT": true,
     "IMPS": true
   },
@@ -7849,6 +8309,7 @@
     "RTGS": true,
     "CITY": "HAJIPUR",
     "MICR CODE": "844762005",
+    "STD CODE": "6224",
     "NEFT": true,
     "IMPS": true
   },
@@ -7866,6 +8327,7 @@
     "RTGS": true,
     "CITY": "ALIGARH",
     "MICR CODE": "202762002",
+    "STD CODE": "571",
     "NEFT": true,
     "IMPS": true
   },
@@ -7883,6 +8345,7 @@
     "RTGS": true,
     "CITY": "CHANDIGARH",
     "MICR CODE": "160762003",
+    "STD CODE": "1800",
     "NEFT": true,
     "IMPS": true
   },
@@ -7900,6 +8363,7 @@
     "RTGS": true,
     "CITY": "GWALIOR",
     "MICR CODE": "474762001",
+    "STD CODE": "751",
     "NEFT": true,
     "IMPS": true
   },
@@ -7917,6 +8381,7 @@
     "RTGS": true,
     "CITY": "BHILAI",
     "MICR CODE": "490762001",
+    "STD CODE": "788",
     "NEFT": true,
     "IMPS": true
   },
@@ -7934,6 +8399,7 @@
     "RTGS": true,
     "CITY": "JAMSHEDPUR",
     "MICR CODE": "831762006",
+    "STD CODE": "657",
     "NEFT": true,
     "IMPS": true
   },
@@ -7951,6 +8417,7 @@
     "RTGS": true,
     "CITY": "NOIDA",
     "MICR CODE": "110762022",
+    "STD CODE": "120",
     "NEFT": true,
     "IMPS": true
   },
@@ -7968,6 +8435,7 @@
     "RTGS": true,
     "CITY": "JAIPUR",
     "MICR CODE": "302762002",
+    "STD CODE": "1800",
     "NEFT": true,
     "IMPS": true
   },
@@ -7985,6 +8453,7 @@
     "RTGS": true,
     "CITY": "GURUGRAM",
     "MICR CODE": "110762027",
+    "STD CODE": "124",
     "NEFT": true,
     "IMPS": true
   },
@@ -8002,6 +8471,7 @@
     "RTGS": true,
     "CITY": "VADODARA",
     "MICR CODE": "390762002",
+    "STD CODE": "265",
     "NEFT": true,
     "IMPS": true
   },
@@ -8019,6 +8489,7 @@
     "RTGS": true,
     "CITY": "LUCKNOW-II",
     "MICR CODE": "226762003",
+    "STD CODE": "522",
     "NEFT": true,
     "IMPS": true
   },
@@ -8036,6 +8507,7 @@
     "RTGS": true,
     "CITY": "MATHURA",
     "MICR CODE": "281762002",
+    "STD CODE": "565",
     "NEFT": true,
     "IMPS": true
   },
@@ -8053,6 +8525,7 @@
     "RTGS": true,
     "CITY": "BHUBANESWAR",
     "MICR CODE": "751762002",
+    "STD CODE": "674",
     "NEFT": true,
     "IMPS": true
   },
@@ -8070,6 +8543,7 @@
     "RTGS": true,
     "CITY": "PANIPAT",
     "MICR CODE": "132762002",
+    "STD CODE": "1800",
     "NEFT": true,
     "IMPS": true
   },
@@ -8087,6 +8561,7 @@
     "RTGS": true,
     "CITY": "FAIZABAD",
     "MICR CODE": "224762004",
+    "STD CODE": "5278",
     "NEFT": true,
     "IMPS": true
   },
@@ -8104,6 +8579,7 @@
     "RTGS": true,
     "CITY": "SURAT",
     "MICR CODE": "395762002",
+    "STD CODE": "80",
     "NEFT": true,
     "IMPS": true
   },
@@ -8120,6 +8596,7 @@
     "RTGS": true,
     "CITY": "AHMEDABAD",
     "MICR CODE": "380762002",
+    "STD CODE": "79",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -8138,6 +8615,7 @@
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR CODE": "500762002",
+    "STD CODE": "1800",
     "NEFT": true,
     "IMPS": true
   },
@@ -8155,6 +8633,7 @@
     "RTGS": true,
     "CITY": "AZAMGARH",
     "MICR CODE": "276762003",
+    "STD CODE": "5462",
     "NEFT": true,
     "IMPS": true
   },
@@ -8172,6 +8651,7 @@
     "RTGS": true,
     "CITY": "GIRIDIH",
     "MICR CODE": "815762007",
+    "STD CODE": "6532",
     "NEFT": true,
     "IMPS": true
   },
@@ -8189,6 +8669,7 @@
     "RTGS": true,
     "CITY": "GUWAHATI",
     "MICR CODE": "781762002",
+    "STD CODE": "361",
     "NEFT": true,
     "IMPS": true
   },
@@ -8206,6 +8687,7 @@
     "RTGS": true,
     "CITY": "RAEBARELI",
     "MICR CODE": "229762002",
+    "STD CODE": "535",
     "NEFT": true,
     "IMPS": true
   },
@@ -8223,6 +8705,7 @@
     "RTGS": true,
     "CITY": "PUNE",
     "MICR CODE": "411762002",
+    "STD CODE": "20",
     "NEFT": true,
     "IMPS": true
   },
@@ -8240,6 +8723,7 @@
     "RTGS": true,
     "CITY": "KOLKATA",
     "MICR CODE": "700762003",
+    "STD CODE": "33",
     "NEFT": true,
     "IMPS": true
   },
@@ -8257,6 +8741,7 @@
     "RTGS": true,
     "CITY": "BILASPUR",
     "MICR CODE": "495762001",
+    "STD CODE": "7752",
     "NEFT": true,
     "IMPS": true
   },
@@ -8274,6 +8759,7 @@
     "RTGS": true,
     "CITY": "ROHTAK",
     "MICR CODE": "124762002",
+    "STD CODE": "1800",
     "NEFT": true,
     "IMPS": true
   },
@@ -8291,6 +8777,7 @@
     "RTGS": true,
     "CITY": "SAHARANPUR",
     "MICR CODE": "247762002",
+    "STD CODE": "132",
     "NEFT": true,
     "IMPS": true
   },
@@ -8308,6 +8795,7 @@
     "RTGS": true,
     "CITY": "KANPUR",
     "MICR CODE": "208762003",
+    "STD CODE": "512",
     "NEFT": true,
     "IMPS": true
   },
@@ -8325,6 +8813,7 @@
     "RTGS": true,
     "CITY": "MIRZAPUR",
     "MICR CODE": "231762004",
+    "STD CODE": "5442",
     "NEFT": true,
     "IMPS": true
   },
@@ -8342,6 +8831,7 @@
     "RTGS": true,
     "CITY": "THANE",
     "MICR CODE": "400762003",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -8359,6 +8849,7 @@
     "RTGS": true,
     "CITY": "JHANSI",
     "MICR CODE": "284762002",
+    "STD CODE": "5174",
     "NEFT": true,
     "IMPS": true
   },
@@ -8376,8 +8867,27 @@
     "RTGS": true,
     "CITY": "NERUL",
     "MICR CODE": "400762004",
+    "STD CODE": "215",
     "NEFT": true,
     "IMPS": true
+  },
+  "UTKS0001559": {
+    "BANK": "UTKARSH SMALL FINANCE BANK",
+    "IFSC": "UTKS0001559",
+    "MICR CODE": "800762012",
+    "BRANCH": "DOCTORS COLONY, KANKARBAGH",
+    "ADDRESS": "UTKARSH SMALL FINANCE BANK GROUND FLOOR PLOT.NO.C-34,PATRAKAR NAGAR DOCTORS COLONY ROAD P-LOHIA NAGAR THANA-PATRAKAR NAGAR,DISTT-PATNA STATE-BIHAR,PIN-800001",
+    "STD CODE": "0",
+    "CONTACT": null,
+    "CITY": "PATNA",
+    "DISTRICT": "PATNA",
+    "STATE": "BIHAR",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": false,
+    "RTGS": false,
+    "IMPS": true,
+    "MICR": null
   },
   "UTKS0001566": {
     "IFSC": "UTKS0001566",
@@ -8386,13 +8896,14 @@
     "DISTRICT": "MUMBAI",
     "STATE": "MAHARASHTRA",
     "ADDRESS": "UTKARSH SMALL FINANCE BANK,SHIV CENTRE CHS PREMISES LTD,SHOP NOS 34,35,44& 45,PLOT NO 72,VASHI,SECTOR 17 NAVI MUMBAI - 400703",
-    "CONTACT": "00",
+    "CONTACT": null,
     "MICR": "400762005",
     "BANK": "UTKARSH SMALL FINANCE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR CODE": "400762005",
+    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   }

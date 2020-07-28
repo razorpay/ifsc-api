@@ -12,6 +12,7 @@
     "RTGS": true,
     "CITY": "VASAI",
     "MICR CODE": "NA",
+    "STD CODE": "250",
     "NEFT": true,
     "IMPS": true,
     "MICR": null
@@ -30,6 +31,7 @@
     "RTGS": true,
     "CITY": "VASAI",
     "MICR CODE": "400758001",
+    "STD CODE": "250",
     "NEFT": true,
     "IMPS": true
   },
@@ -47,6 +49,7 @@
     "RTGS": true,
     "CITY": "NALASOPARA",
     "MICR CODE": "400758002",
+    "STD CODE": "250",
     "NEFT": true,
     "IMPS": true
   },
@@ -64,6 +67,7 @@
     "RTGS": true,
     "CITY": "NALASOPARA",
     "MICR CODE": "400758003",
+    "STD CODE": "250",
     "NEFT": true,
     "IMPS": true
   },
@@ -81,6 +85,7 @@
     "RTGS": true,
     "CITY": "BHAYANDER",
     "MICR CODE": "400758004",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -98,6 +103,7 @@
     "RTGS": true,
     "CITY": "VASAI E",
     "MICR CODE": "400758005",
+    "STD CODE": "250",
     "NEFT": true,
     "IMPS": true
   },
@@ -115,6 +121,7 @@
     "RTGS": true,
     "CITY": "BOISAR",
     "MICR CODE": "400758006",
+    "STD CODE": "2525",
     "NEFT": true,
     "IMPS": true
   },
@@ -132,6 +139,7 @@
     "RTGS": true,
     "CITY": "DAHISAR E",
     "MICR CODE": "400758007",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -149,6 +157,7 @@
     "RTGS": true,
     "CITY": "VIRAR E",
     "MICR CODE": "400758008",
+    "STD CODE": "250",
     "NEFT": true,
     "IMPS": true
   },
@@ -166,6 +175,7 @@
     "RTGS": true,
     "CITY": "DAHANU RD",
     "MICR CODE": "400758009",
+    "STD CODE": "2528",
     "NEFT": true,
     "IMPS": true
   },
@@ -183,6 +193,7 @@
     "RTGS": true,
     "CITY": "VASAI RD W",
     "MICR CODE": "400758010",
+    "STD CODE": "250",
     "NEFT": true,
     "IMPS": true
   },
@@ -200,6 +211,7 @@
     "RTGS": true,
     "CITY": "VIRAR W",
     "MICR CODE": "400758011",
+    "STD CODE": "250",
     "NEFT": true,
     "IMPS": true
   },
@@ -217,6 +229,7 @@
     "RTGS": true,
     "CITY": "BHAYANDER W",
     "MICR CODE": "400758012",
+    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -234,6 +247,7 @@
     "RTGS": true,
     "CITY": "PALGHAR W",
     "MICR CODE": "400758013",
+    "STD CODE": "2525",
     "NEFT": true,
     "IMPS": true
   }
