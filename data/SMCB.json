@@ -27,11 +27,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SAHARANPUR",
-    "MICR CODE": "NA",
-    "STD CODE": "132",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SMCB0001001": {
     "IFSC": "SMCB0001001",
@@ -46,8 +44,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SAHARANPUR",
-    "MICR CODE": "247721002",
-    "STD CODE": "132",
     "NEFT": true,
     "IMPS": true
   },
@@ -64,8 +60,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "GANGOH",
-    "MICR CODE": "247721602",
-    "STD CODE": "132",
     "NEFT": true,
     "IMPS": true
   },
@@ -82,8 +76,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SAHARANPUR",
-    "MICR CODE": "247721003",
-    "STD CODE": "1331",
     "NEFT": true,
     "IMPS": true
   },
@@ -100,8 +92,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "DEOBAND",
-    "MICR CODE": "247721202",
-    "STD CODE": "132",
     "NEFT": true,
     "IMPS": true
   },
@@ -118,8 +108,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "AMBEHTA",
-    "MICR CODE": "247721051",
-    "STD CODE": "1336",
     "NEFT": true,
     "IMPS": true
   },
@@ -136,8 +124,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "DHAR",
-    "MICR CODE": "454721001",
-    "STD CODE": "1331",
     "NEFT": true,
     "IMPS": true
   },
@@ -154,8 +140,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "NOIDA",
-    "MICR CODE": "110721002",
-    "STD CODE": "7292",
     "NEFT": true,
     "IMPS": true
   },
@@ -172,8 +156,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MEERUT",
-    "MICR CODE": "250721002",
-    "STD CODE": "120",
     "NEFT": true,
     "IMPS": true
   },
@@ -190,8 +172,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SAHARANPUR",
-    "MICR CODE": "247721004",
-    "STD CODE": "121",
     "NEFT": true,
     "IMPS": true
   },
@@ -208,8 +188,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "INDORE",
-    "MICR CODE": "452721001",
-    "STD CODE": "132",
     "NEFT": true,
     "IMPS": true
   },
@@ -226,8 +204,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "NAGAL",
-    "MICR CODE": "247721054",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -244,8 +220,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SARSAWA",
-    "MICR CODE": "247721053",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -262,8 +236,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "NANAUTA",
-    "MICR CODE": "247721651",
-    "STD CODE": "1331",
     "NEFT": true,
     "IMPS": true
   },
@@ -280,8 +252,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "RAMPUR MANIHARAN",
-    "MICR CODE": "247721052",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -298,8 +268,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "GHAZIABAD",
-    "MICR CODE": "110721003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -316,8 +284,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "NOIDA",
-    "MICR CODE": "110721005",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -334,8 +300,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SAHARANPUR",
-    "MICR CODE": "247721005",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -352,8 +316,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "GHAZIABAD",
-    "MICR CODE": "251721002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -370,8 +332,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MUZAFFER NAGAR",
-    "MICR CODE": "110721004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -388,8 +348,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KHATAULI",
-    "MICR CODE": "251721102",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -406,8 +364,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SAHARANPUR",
-    "MICR CODE": "247721006",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -424,8 +380,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KHARGONE",
-    "MICR CODE": "451721001",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -442,8 +396,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "LUCKNOW",
-    "MICR CODE": "226721003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -460,8 +412,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "LUCKNOW",
-    "MICR CODE": "226721002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -478,8 +428,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "HAPUR",
-    "MICR CODE": "245721002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -496,8 +444,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SHAMLI",
-    "MICR CODE": "247721302",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -514,8 +460,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "NOIDA",
-    "MICR CODE": "110721006",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -532,8 +476,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MAWANA",
-    "MICR CODE": "250721202",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -550,8 +492,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "DEWAS",
-    "MICR CODE": "455721001",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -568,8 +508,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "UJJAIN",
-    "MICR CODE": "456721001",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -586,8 +524,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SARDHANA",
-    "MICR CODE": "250721102",
-    "STD CODE": "1237",
     "NEFT": true,
     "IMPS": true
   }

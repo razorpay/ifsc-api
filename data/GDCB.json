@@ -10,11 +10,9 @@
     "CONTACT": "232965",
     "IMPS": true,
     "CITY": "GADCHIROLI",
-    "UPI": false,
+    "UPI": true,
     "RTGS": true,
-    "MICR CODE": "442833204",
-    "STD CODE": "7132",
-    "NEFT": true,
-    "MICR": null
+    "MICR": "442833204",
+    "NEFT": true
   }
 }

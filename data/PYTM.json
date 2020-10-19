@@ -12,10 +12,8 @@
     "CITY": "NOIDA",
     "UPI": true,
     "RTGS": true,
-    "MICR CODE": "NA",
-    "STD CODE": "11",
-    "NEFT": true,
-    "MICR": null
+    "MICR": "NA",
+    "NEFT": true
   },
   "PYTM00000SC": {
     "IFSC": "PYTM00000SC",
@@ -45,10 +43,8 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NOIDA",
-    "MICR CODE": "NA",
-    "STD CODE": "11",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   }
 }

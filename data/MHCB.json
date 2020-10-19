@@ -2,20 +2,18 @@
   "MHCB0000002": {
     "BANK": "MIZUHO BANK LTD",
     "IFSC": "MHCB0000002",
-    "MICR CODE": "400694002",
     "BRANCH": "NARIMAN POINT",
     "ADDRESS": "Level 17, Tower A, Peninsula Business Park, Senapati Bapat Marg, Lower Parel, Mumbai 400 013",
-    "STD CODE": "22",
     "CONTACT": "22886638",
     "CITY": "GREATER MUMBAI",
     "DISTRICT": "MUMBAI",
     "STATE": "MAHARASHTRA",
+    "MICR": "400694002",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "MHCB0000532": {
     "BANK": "Mizuho Bank",
@@ -30,10 +28,8 @@
     "CITY": "MUMBAI",
     "UPI": false,
     "RTGS": true,
-    "MICR CODE": "400694002",
-    "STD CODE": "22",
-    "NEFT": true,
-    "MICR": null
+    "MICR": "400694002",
+    "NEFT": true
   },
   "MHCB0000716": {
     "IFSC": "MHCB0000716",
@@ -48,8 +44,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "DEVANAHALLI",
-    "MICR CODE": "560017251",
-    "STD CODE": "80",
     "NEFT": true,
     "IMPS": true
   },
@@ -66,8 +60,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600694002",
-    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true
   },
@@ -84,8 +76,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "AHMEDABAD",
-    "MICR CODE": "380694002",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -101,10 +91,8 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "DELHI",
-    "MICR CODE": "100694002",
-    "STD CODE": "11",
+    "MICR": "100694002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   }
 }

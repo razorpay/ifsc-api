@@ -28,8 +28,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "560033002",
-    "STD CODE": "80",
     "NEFT": true,
     "IMPS": true
   },
@@ -45,11 +43,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "BOTM0MB3612": {
     "IFSC": "BOTM0MB3612",
@@ -63,11 +59,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "BOTM0ND3611": {
     "IFSC": "BOTM0ND3611",
@@ -81,11 +75,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "NEW DELHI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "BOTM0NEEMRA": {
     "IFSC": "BOTM0NEEMRA",
@@ -99,10 +91,8 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "ALWAR",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   }
 }

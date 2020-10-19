@@ -12,10 +12,8 @@
     "CITY": "NAGPUR",
     "UPI": false,
     "RTGS": true,
-    "MICR CODE": "NA",
-    "STD CODE": "712",
-    "NEFT": true,
-    "MICR": null
+    "MICR": "NA",
+    "NEFT": true
   },
   "SKSB0000002": {
     "IFSC": "SKSB0000002",
@@ -29,10 +27,8 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "NAGPUR",
-    "MICR CODE": "NA",
-    "STD CODE": "712",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   }
 }

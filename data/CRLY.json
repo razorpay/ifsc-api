@@ -27,11 +27,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "DELHI",
-    "MICR CODE": "110240252",
-    "STD CODE": "11",
+    "MICR": "110240252",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CRLY0000004": {
     "IFSC": "CRLY0000004",
@@ -45,11 +43,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600151001",
-    "STD CODE": "44",
+    "MICR": "600151001",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CRLY0000005": {
     "IFSC": "CRLY0000005",
@@ -63,29 +59,25 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "560151002",
-    "STD CODE": "80",
+    "MICR": "560151002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CRLY0000006": {
     "BANK": "CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK CALYON BANK",
     "IFSC": "CRLY0000006",
-    "MICR CODE": "411240252",
     "BRANCH": "PUNE",
     "ADDRESS": "A203 2ND FLOOR, ICC TRADE TOWER S B ROAD",
-    "STD CODE": "20",
     "CONTACT": "66141800",
     "CITY": "PUNE",
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
+    "MICR": "411240252",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CRLY0000010": {
     "IFSC": "CRLY0000010",
@@ -100,8 +92,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400151002",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   }

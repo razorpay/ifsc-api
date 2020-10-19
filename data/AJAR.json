@@ -11,11 +11,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "AJARA",
-    "MICR CODE": "NA",
-    "STD CODE": "2323",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "AJAR0000002": {
     "IFSC": "AJAR0000002",
@@ -30,8 +28,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "UTTUR",
-    "MICR CODE": "416394502",
-    "STD CODE": "2323",
     "NEFT": true,
     "IMPS": true
   },
@@ -48,8 +44,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "GARGOTI",
-    "MICR CODE": "416394503",
-    "STD CODE": "2324",
     "NEFT": true,
     "IMPS": true
   },
@@ -66,8 +60,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "NESARI",
-    "MICR CODE": "416394504",
-    "STD CODE": "2327",
     "NEFT": true,
     "IMPS": true
   },
@@ -84,8 +76,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400014251",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -102,8 +92,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "CHANDGAD",
-    "MICR CODE": "416394505",
-    "STD CODE": "2320",
     "NEFT": true,
     "IMPS": true
   },
@@ -120,8 +108,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MALAKAPUR",
-    "MICR CODE": "416394506",
-    "STD CODE": "2329",
     "NEFT": true,
     "IMPS": true
   },
@@ -138,8 +124,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SENAPATI KAPSHI",
-    "MICR CODE": "416394507",
-    "STD CODE": "2325",
     "NEFT": true,
     "IMPS": true
   },
@@ -156,8 +140,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KOLHAPUR",
-    "MICR CODE": "416394002",
-    "STD CODE": "231",
     "NEFT": true,
     "IMPS": true
   },
@@ -174,8 +156,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "RADHANAGARI",
-    "MICR CODE": "416394508",
-    "STD CODE": "2321",
     "NEFT": true,
     "IMPS": true
   },
@@ -192,8 +172,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KABNOOR",
-    "MICR CODE": "416394513",
-    "STD CODE": "230",
     "NEFT": true,
     "IMPS": true
   },
@@ -210,8 +188,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "GADHINGLAJ",
-    "MICR CODE": "416394476",
-    "STD CODE": "2327",
     "NEFT": true,
     "IMPS": true
   },
@@ -228,8 +204,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KOLHAPUR",
-    "MICR CODE": "416394003",
-    "STD CODE": "231",
     "NEFT": true,
     "IMPS": true
   },
@@ -246,8 +220,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "TARALE",
-    "MICR CODE": "416394509",
-    "STD CODE": "2321",
     "NEFT": true,
     "IMPS": true
   },
@@ -264,8 +236,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SANGAV",
-    "MICR CODE": "416394510",
-    "STD CODE": "2325",
     "NEFT": true,
     "IMPS": true
   },
@@ -282,8 +252,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400014253",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -300,8 +268,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "BAMBAVADE",
-    "MICR CODE": "416394511",
-    "STD CODE": "2329",
     "NEFT": true,
     "IMPS": true
   },
@@ -318,8 +284,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KARVE",
-    "MICR CODE": "416394512",
-    "STD CODE": "2320",
     "NEFT": true,
     "IMPS": true
   },
@@ -336,8 +300,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MALAVAN",
-    "MICR CODE": "416394126",
-    "STD CODE": "2365",
     "NEFT": true,
     "IMPS": true
   },
@@ -354,8 +316,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "THANE",
-    "MICR CODE": "400014255",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -372,8 +332,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "NAVI MUMBAI",
-    "MICR CODE": "400014256",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -389,11 +347,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "DOMBIVALI",
-    "MICR CODE": "NA",
-    "STD CODE": "251",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "AJAR0000023": {
     "IFSC": "AJAR0000023",
@@ -408,8 +364,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "PUNE",
-    "MICR CODE": "411394256",
-    "STD CODE": "20",
     "NEFT": true,
     "IMPS": true
   },
@@ -426,8 +380,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KOLHAPUR",
-    "MICR CODE": "416394004",
-    "STD CODE": "231",
     "NEFT": true,
     "IMPS": true
   },
@@ -444,8 +396,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "GOKUL SHIRGAON",
-    "MICR CODE": "416394005",
-    "STD CODE": "231",
     "NEFT": true,
     "IMPS": true
   },
@@ -462,8 +412,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KARAD",
-    "MICR CODE": "415394355",
-    "STD CODE": "2164",
     "NEFT": true,
     "IMPS": true
   },
@@ -480,8 +428,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MUDHAL TITTA",
-    "MICR CODE": "416394514",
-    "STD CODE": "2325",
     "NEFT": true,
     "IMPS": true
   },
@@ -498,8 +444,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "PUNE",
-    "MICR CODE": "411394002",
-    "STD CODE": "20",
     "NEFT": true,
     "IMPS": true
   },
@@ -516,8 +460,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KADAGAON",
-    "MICR CODE": "416394515",
-    "STD CODE": "2324",
     "NEFT": true,
     "IMPS": true
   },
@@ -534,8 +476,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "BELGAVI",
-    "MICR CODE": "590394002",
-    "STD CODE": "831",
     "NEFT": true,
     "IMPS": true
   },
@@ -552,8 +492,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "HALIYAL",
-    "MICR CODE": "581394552",
-    "STD CODE": "8284",
     "NEFT": true,
     "IMPS": true
   },
@@ -570,8 +508,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "NIPPANI",
-    "MICR CODE": "591394302",
-    "STD CODE": "8338",
     "NEFT": true,
     "IMPS": true
   },
@@ -588,8 +524,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "AJARA",
-    "MICR CODE": "416394501",
-    "STD CODE": "2323",
     "NEFT": true,
     "IMPS": true
   },

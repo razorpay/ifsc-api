@@ -11,11 +11,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "NA",
-    "STD CODE": "44",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KOEX0000002": {
     "IFSC": "KOEX0000002",
@@ -29,11 +27,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "GURUGRAM",
-    "MICR CODE": "NA",
-    "STD CODE": "124",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KOEX00000SC": {
     "IFSC": "KOEX00000SC",

@@ -12,10 +12,8 @@
     "CITY": "HUBLI-DHARWAD",
     "UPI": true,
     "RTGS": true,
-    "MICR CODE": "NA",
-    "STD CODE": "836",
-    "NEFT": true,
-    "MICR": null
+    "MICR": "NA",
+    "NEFT": true
   },
   "KVGB0001001": {
     "IFSC": "KVGB0001001",
@@ -30,8 +28,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BADAMI",
-    "MICR CODE": "587483501",
-    "STD CODE": "8357",
     "NEFT": true,
     "IMPS": true
   },
@@ -48,8 +44,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BELUR",
-    "MICR CODE": "587483502",
-    "STD CODE": "8357",
     "NEFT": true,
     "IMPS": true
   },
@@ -66,8 +60,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHOLACHAGUDDA",
-    "MICR CODE": "587483503",
-    "STD CODE": "8357",
     "NEFT": true,
     "IMPS": true
   },
@@ -84,8 +76,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HEBBALLI",
-    "MICR CODE": "587483504",
-    "STD CODE": "8357",
     "NEFT": true,
     "IMPS": true
   },
@@ -102,8 +92,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KATAGERI",
-    "MICR CODE": "587483505",
-    "STD CODE": "8357",
     "NEFT": true,
     "IMPS": true
   },
@@ -120,8 +108,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUSTIGERI",
-    "MICR CODE": "587483506",
-    "STD CODE": "8357",
     "NEFT": true,
     "IMPS": true
   },
@@ -138,8 +124,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NANDIKESHWAR",
-    "MICR CODE": "587483507",
-    "STD CODE": "8357",
     "NEFT": true,
     "IMPS": true
   },
@@ -156,8 +140,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NEELAGUND",
-    "MICR CODE": "587483508",
-    "STD CODE": "8357",
     "NEFT": true,
     "IMPS": true
   },
@@ -174,8 +156,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GULEDAGUDDA",
-    "MICR CODE": "587483509",
-    "STD CODE": "8357",
     "NEFT": true,
     "IMPS": true
   },
@@ -191,29 +171,25 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BADAMI",
-    "MICR CODE": "NA",
-    "STD CODE": "8354",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0001012": {
     "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
     "IFSC": "KVGB0001012",
-    "MICR CODE": "WAITING",
     "BRANCH": "KERUR",
     "ADDRESS": "├╜KARNATAKA VIKAS GRAMEENA BANK, SRI M B KATTI BUILDING, OPPOSIT GOVT HOSPITAL, SOLAPUR-HUBLI MAIN ROAD, KERUR, KARNATAKA",
-    "STD CODE": "91",
     "CONTACT": "7022599717",
     "CITY": "BAGALKOT",
     "DISTRICT": "KERUR",
     "STATE": "KARNATAKA",
+    "MICR": "WAITING",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0001013": {
     "IFSC": "KVGB0001013",
@@ -227,11 +203,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BADAMI",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0001014": {
     "IFSC": "KVGB0001014",
@@ -245,11 +219,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BAGALKOT",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0001100": {
     "IFSC": "KVGB0001100",
@@ -263,11 +235,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BAGALKOT",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0001101": {
     "IFSC": "KVGB0001101",
@@ -282,8 +252,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BAGALKOT",
-    "MICR CODE": "587483102",
-    "STD CODE": "8354",
     "NEFT": true,
     "IMPS": true
   },
@@ -300,8 +268,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BENAKATTI",
-    "MICR CODE": "587483510",
-    "STD CODE": "8354",
     "NEFT": true,
     "IMPS": true
   },
@@ -318,8 +284,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GADDANKERI",
-    "MICR CODE": "587483511",
-    "STD CODE": "8354",
     "NEFT": true,
     "IMPS": true
   },
@@ -336,8 +300,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SUTAGUNDAR",
-    "MICR CODE": "587483512",
-    "STD CODE": "8354",
     "NEFT": true,
     "IMPS": true
   },
@@ -353,11 +315,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BAGALKOT",
-    "MICR CODE": "587483103",
-    "STD CODE": "8354",
+    "MICR": "587483103",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0001106": {
     "IFSC": "KVGB0001106",
@@ -372,8 +332,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KALADGI",
-    "MICR CODE": "587483549",
-    "STD CODE": "8354",
     "NEFT": true,
     "IMPS": true
   },
@@ -390,8 +348,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BADAMI",
-    "MICR CODE": "587483553",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -408,8 +364,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUDHOL",
-    "MICR CODE": "587483555",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -426,46 +380,40 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BAGALKOT",
-    "MICR CODE": "587483559",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "KVGB0001110": {
     "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
     "IFSC": "KVGB0001110",
-    "MICR CODE": "WAITING",
     "BRANCH": "VIDYAGIRI BAGALAKOT",
     "ADDRESS": "KARNATAKA VIKAS GRAMMENA BANK, SRI B V V SANGH KATTI BUILDING, OPPOSIT ENGINEERING COLLEGE, BAGALAKOT-587103, KARNATAKA",
-    "STD CODE": "91",
     "CONTACT": "7022599719",
     "CITY": "BAGALKOT",
     "DISTRICT": "BAGALKOT",
     "STATE": "KARNATAKA",
+    "MICR": "WAITING",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0001111": {
     "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
     "IFSC": "KVGB0001111",
-    "MICR CODE": "WAITING",
     "BRANCH": "TULASIGERI",
     "ADDRESS": "KARNATAKA VIKAS GRAMMENA BANK, NO 196 B, GPC BUILDING, TULASIGERI-587204, DT BAGALAKOT, KARNATAKA",
-    "STD CODE": "91",
     "CONTACT": "7022599718",
     "CITY": "BAGALKOT",
     "DISTRICT": "BAGALKOT",
     "STATE": "KARNATAKA",
+    "MICR": "WAITING",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0001201": {
     "IFSC": "KVGB0001201",
@@ -480,8 +428,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AMALZARI",
-    "MICR CODE": "587483553",
-    "STD CODE": "8350",
     "NEFT": true,
     "IMPS": true
   },
@@ -498,8 +444,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ANAGWADI",
-    "MICR CODE": "587483514",
-    "STD CODE": "8354",
     "NEFT": true,
     "IMPS": true
   },
@@ -516,8 +460,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BILGI",
-    "MICR CODE": "587483515",
-    "STD CODE": "8354",
     "NEFT": true,
     "IMPS": true
   },
@@ -534,8 +476,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KATARKI",
-    "MICR CODE": "587483516",
-    "STD CODE": "8354",
     "NEFT": true,
     "IMPS": true
   },
@@ -552,8 +492,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SUNAG",
-    "MICR CODE": "587483517",
-    "STD CODE": "8425",
     "NEFT": true,
     "IMPS": true
   },
@@ -569,11 +507,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TEGGI",
-    "MICR CODE": "587483518",
-    "STD CODE": "0",
+    "MICR": "587483518",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0001207": {
     "IFSC": "KVGB0001207",
@@ -587,11 +523,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BILAGI",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0001301": {
     "IFSC": "KVGB0001301",
@@ -606,8 +540,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AIHOLE",
-    "MICR CODE": "587483519",
-    "STD CODE": "8351",
     "NEFT": true,
     "IMPS": true
   },
@@ -624,8 +556,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHITTARGI",
-    "MICR CODE": "587483520",
-    "STD CODE": "8351",
     "NEFT": true,
     "IMPS": true
   },
@@ -642,8 +572,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DHANNUR",
-    "MICR CODE": "587483521",
-    "STD CODE": "8351",
     "NEFT": true,
     "IMPS": true
   },
@@ -660,8 +588,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GANJIHAL",
-    "MICR CODE": "587483522",
-    "STD CODE": "8351",
     "NEFT": true,
     "IMPS": true
   },
@@ -678,8 +604,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUNGUND",
-    "MICR CODE": "587483523",
-    "STD CODE": "8351",
     "NEFT": true,
     "IMPS": true
   },
@@ -696,8 +620,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KANDAGAL",
-    "MICR CODE": "587483524",
-    "STD CODE": "8351",
     "NEFT": true,
     "IMPS": true
   },
@@ -714,8 +636,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGUR",
-    "MICR CODE": "587483525",
-    "STD CODE": "8351",
     "NEFT": true,
     "IMPS": true
   },
@@ -732,8 +652,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ILKAL",
-    "MICR CODE": "587483526",
-    "STD CODE": "8351",
     "NEFT": true,
     "IMPS": true
   },
@@ -750,8 +668,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOODAL SANGAM",
-    "MICR CODE": "587483550",
-    "STD CODE": "8351",
     "NEFT": true,
     "IMPS": true
   },
@@ -768,8 +684,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KAMATGI",
-    "MICR CODE": "587483560",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -785,11 +699,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUNAGUND",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0001312": {
     "IFSC": "KVGB0001312",
@@ -803,11 +715,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUNAGUND",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0001313": {
     "IFSC": "KVGB0001313",
@@ -821,11 +731,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BAGALKOT",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0001401": {
     "IFSC": "KVGB0001401",
@@ -840,8 +748,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ALAGUR",
-    "MICR CODE": "587483527",
-    "STD CODE": "8353",
     "NEFT": true,
     "IMPS": true
   },
@@ -858,8 +764,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RABKAVI BANHATTI",
-    "MICR CODE": "587483352",
-    "STD CODE": "8353",
     "NEFT": true,
     "IMPS": true
   },
@@ -876,8 +780,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BIDRI",
-    "MICR CODE": "587483529",
-    "STD CODE": "8353",
     "NEFT": true,
     "IMPS": true
   },
@@ -894,8 +796,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GOTHE",
-    "MICR CODE": "587483530",
-    "STD CODE": "8353",
     "NEFT": true,
     "IMPS": true
   },
@@ -912,8 +812,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HALINGALI",
-    "MICR CODE": "587483544",
-    "STD CODE": "8353",
     "NEFT": true,
     "IMPS": true
   },
@@ -930,8 +828,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HIPPARGI",
-    "MICR CODE": "587483532",
-    "STD CODE": "8353",
     "NEFT": true,
     "IMPS": true
   },
@@ -948,8 +844,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HIREPADASALGI",
-    "MICR CODE": "587483533",
-    "STD CODE": "8353",
     "NEFT": true,
     "IMPS": true
   },
@@ -966,8 +860,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JAKANUR",
-    "MICR CODE": "587483534",
-    "STD CODE": "8353",
     "NEFT": true,
     "IMPS": true
   },
@@ -984,8 +876,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JAMKHANDI",
-    "MICR CODE": "587483302",
-    "STD CODE": "8353",
     "NEFT": true,
     "IMPS": true
   },
@@ -1002,8 +892,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KONNUR",
-    "MICR CODE": "587483535",
-    "STD CODE": "8353",
     "NEFT": true,
     "IMPS": true
   },
@@ -1020,8 +908,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAVALAGI",
-    "MICR CODE": "587483545",
-    "STD CODE": "8353",
     "NEFT": true,
     "IMPS": true
   },
@@ -1038,8 +924,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SASALATTI",
-    "MICR CODE": "587483546",
-    "STD CODE": "8353",
     "NEFT": true,
     "IMPS": true
   },
@@ -1056,8 +940,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TERDAL",
-    "MICR CODE": "587483547",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1074,8 +956,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JAMKHANDI",
-    "MICR CODE": "587483552",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1092,8 +972,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JAMKHANDI",
-    "MICR CODE": "587483551",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1110,8 +988,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MAHALINGPUR",
-    "MICR CODE": "587483558",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1127,11 +1003,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JAMKHANDI",
-    "MICR CODE": "587483303",
-    "STD CODE": "0",
+    "MICR": "587483303",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0001501": {
     "IFSC": "KVGB0001501",
@@ -1146,8 +1020,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BELAGALI",
-    "MICR CODE": "587483548",
-    "STD CODE": "8350",
     "NEFT": true,
     "IMPS": true
   },
@@ -1164,8 +1036,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHINCHKHANDI(K D)",
-    "MICR CODE": "587483540",
-    "STD CODE": "8350",
     "NEFT": true,
     "IMPS": true
   },
@@ -1182,8 +1052,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HOSAKOTI",
-    "MICR CODE": "587483541",
-    "STD CODE": "8350",
     "NEFT": true,
     "IMPS": true
   },
@@ -1200,8 +1068,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MACHAKNUR",
-    "MICR CODE": "587483528",
-    "STD CODE": "8350",
     "NEFT": true,
     "IMPS": true
   },
@@ -1218,8 +1084,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MAHALINGPUR",
-    "MICR CODE": "587483513",
-    "STD CODE": "8350",
     "NEFT": true,
     "IMPS": true
   },
@@ -1236,8 +1100,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUDDAPUR",
-    "MICR CODE": "587483542",
-    "STD CODE": "8350",
     "NEFT": true,
     "IMPS": true
   },
@@ -1254,8 +1116,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUDHOL",
-    "MICR CODE": "587483543",
-    "STD CODE": "8350",
     "NEFT": true,
     "IMPS": true
   },
@@ -1272,8 +1132,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUGALKHOD",
-    "MICR CODE": "587483531",
-    "STD CODE": "8350",
     "NEFT": true,
     "IMPS": true
   },
@@ -1290,8 +1148,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SHIROL",
-    "MICR CODE": "587483536",
-    "STD CODE": "8350",
     "NEFT": true,
     "IMPS": true
   },
@@ -1308,8 +1164,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "UTTUR",
-    "MICR CODE": "587483537",
-    "STD CODE": "8350",
     "NEFT": true,
     "IMPS": true
   },
@@ -1326,8 +1180,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VAJJARMATTI",
-    "MICR CODE": "587483538",
-    "STD CODE": "8350",
     "NEFT": true,
     "IMPS": true
   },
@@ -1344,8 +1196,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "LOKAPUR",
-    "MICR CODE": "587483539",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1362,8 +1212,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUGALKHOD",
-    "MICR CODE": "587483554",
-    "STD CODE": "8350",
     "NEFT": true,
     "IMPS": true
   },
@@ -1380,8 +1228,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUDHOL",
-    "MICR CODE": "587483556",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1397,11 +1243,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MADABHAVI",
-    "MICR CODE": "WAITING",
-    "STD CODE": "8352",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002000": {
     "IFSC": "KVGB0002000",
@@ -1415,11 +1259,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BELGAUM ",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002001": {
     "IFSC": "KVGB0002001",
@@ -1434,8 +1276,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ADHALLI",
-    "MICR CODE": "591483521",
-    "STD CODE": "8289",
     "NEFT": true,
     "IMPS": true
   },
@@ -1452,8 +1292,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ATHANI",
-    "MICR CODE": "591483402",
-    "STD CODE": "8289",
     "NEFT": true,
     "IMPS": true
   },
@@ -1470,8 +1308,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HALYAL",
-    "MICR CODE": "591483522",
-    "STD CODE": "8289",
     "NEFT": true,
     "IMPS": true
   },
@@ -1488,8 +1324,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KAGWAD",
-    "MICR CODE": "591483523",
-    "STD CODE": "8339",
     "NEFT": true,
     "IMPS": true
   },
@@ -1506,8 +1340,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KHILEGAON",
-    "MICR CODE": "591483524",
-    "STD CODE": "8289",
     "NEFT": true,
     "IMPS": true
   },
@@ -1524,8 +1356,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOKATNUR",
-    "MICR CODE": "591483525",
-    "STD CODE": "8289",
     "NEFT": true,
     "IMPS": true
   },
@@ -1542,8 +1372,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MADABHAVI",
-    "MICR CODE": "591483526",
-    "STD CODE": "8289",
     "NEFT": true,
     "IMPS": true
   },
@@ -1560,8 +1388,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MANGSULI",
-    "MICR CODE": "591483527",
-    "STD CODE": "8339",
     "NEFT": true,
     "IMPS": true
   },
@@ -1578,8 +1404,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MOLE",
-    "MICR CODE": "591483528",
-    "STD CODE": "8339",
     "NEFT": true,
     "IMPS": true
   },
@@ -1596,8 +1420,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SHANKRATTI",
-    "MICR CODE": "591483529",
-    "STD CODE": "8289",
     "NEFT": true,
     "IMPS": true
   },
@@ -1614,8 +1436,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SHIRGUPPI",
-    "MICR CODE": "591483530",
-    "STD CODE": "8339",
     "NEFT": true,
     "IMPS": true
   },
@@ -1632,8 +1452,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SHIRHATTI",
-    "MICR CODE": "591483531",
-    "STD CODE": "8289",
     "NEFT": true,
     "IMPS": true
   },
@@ -1650,8 +1468,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TELSANG",
-    "MICR CODE": "591483532",
-    "STD CODE": "8289",
     "NEFT": true,
     "IMPS": true
   },
@@ -1668,28 +1484,24 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ATHANI",
-    "MICR CODE": "591483598",
-    "STD CODE": "8289",
     "NEFT": true,
     "IMPS": true
   },
   "KVGB0002016": {
     "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
     "IFSC": "KVGB0002016",
-    "MICR CODE": "WAITING",
     "BRANCH": "KAKAMARI",
     "ADDRESS": "├╜KARNATAKA VIKAS GRAMEENA BANK, SRI G S DYASHAL BUILDING, MAIN MARKET, KAKAMARI, TQ ATHANI, DT BELGAUM, KARNATAKA",
-    "STD CODE": "91",
     "CONTACT": "7022599714",
     "CITY": "CHIKKODI",
     "DISTRICT": "ATHANI",
     "STATE": "KARNATAKA",
+    "MICR": "WAITING",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002017": {
     "IFSC": "KVGB0002017",
@@ -1703,11 +1515,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MALABAD",
-    "MICR CODE": "WAITING",
-    "STD CODE": "91836",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002018": {
     "IFSC": "KVGB0002018",
@@ -1721,11 +1531,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ATHANI",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002019": {
     "IFSC": "KVGB0002019",
@@ -1739,11 +1547,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BELGAUM",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002101": {
     "IFSC": "KVGB0002101",
@@ -1758,8 +1564,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BAILHONGAL",
-    "MICR CODE": "590483501",
-    "STD CODE": "8288",
     "NEFT": true,
     "IMPS": true
   },
@@ -1776,8 +1580,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BAILUR",
-    "MICR CODE": "590483502",
-    "STD CODE": "8288",
     "NEFT": true,
     "IMPS": true
   },
@@ -1794,8 +1596,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DODAWAD",
-    "MICR CODE": "590483503",
-    "STD CODE": "8288",
     "NEFT": true,
     "IMPS": true
   },
@@ -1812,8 +1612,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ITGI",
-    "MICR CODE": "590483504",
-    "STD CODE": "8288",
     "NEFT": true,
     "IMPS": true
   },
@@ -1830,8 +1628,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KITTUR",
-    "MICR CODE": "590483505",
-    "STD CODE": "8288",
     "NEFT": true,
     "IMPS": true
   },
@@ -1848,8 +1644,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUGUTKHAN HUBLI",
-    "MICR CODE": "590483506",
-    "STD CODE": "8288",
     "NEFT": true,
     "IMPS": true
   },
@@ -1866,8 +1660,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NEGINAHAL",
-    "MICR CODE": "590483507",
-    "STD CODE": "8288",
     "NEFT": true,
     "IMPS": true
   },
@@ -1884,8 +1676,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NESARGI",
-    "MICR CODE": "590483508",
-    "STD CODE": "8288",
     "NEFT": true,
     "IMPS": true
   },
@@ -1902,8 +1692,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SANGOLLI",
-    "MICR CODE": "590483509",
-    "STD CODE": "8288",
     "NEFT": true,
     "IMPS": true
   },
@@ -1920,8 +1708,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIGADI",
-    "MICR CODE": "590483510",
-    "STD CODE": "8288",
     "NEFT": true,
     "IMPS": true
   },
@@ -1938,8 +1724,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "UDAKERI",
-    "MICR CODE": "590483511",
-    "STD CODE": "8288",
     "NEFT": true,
     "IMPS": true
   },
@@ -1956,8 +1740,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VANNUR",
-    "MICR CODE": "591483594",
-    "STD CODE": "8288",
     "NEFT": true,
     "IMPS": true
   },
@@ -1973,11 +1755,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BAILHONGAL",
-    "MICR CODE": "NA",
-    "STD CODE": "831",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002114": {
     "IFSC": "KVGB0002114",
@@ -1991,11 +1771,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BAILHONGAL",
-    "MICR CODE": "NA",
-    "STD CODE": "831",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002115": {
     "IFSC": "KVGB0002115",
@@ -2009,11 +1787,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BAILHONGAL",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002116": {
     "IFSC": "KVGB0002116",
@@ -2027,11 +1803,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DEVARSHIGIHALLI",
-    "MICR CODE": "WAITING",
-    "STD CODE": "8288",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002117": {
     "IFSC": "KVGB0002117",
@@ -2045,11 +1819,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BAILHONGAL",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002200": {
     "IFSC": "KVGB0002200",
@@ -2063,11 +1835,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHIKODI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002201": {
     "IFSC": "KVGB0002201",
@@ -2082,8 +1852,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BELGAUM",
-    "MICR CODE": "590483008",
-    "STD CODE": "831",
     "NEFT": true,
     "IMPS": true
   },
@@ -2100,8 +1868,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BELGAUM",
-    "MICR CODE": "590483002",
-    "STD CODE": "831",
     "NEFT": true,
     "IMPS": true
   },
@@ -2118,8 +1884,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BELGAUM",
-    "MICR CODE": "590483003",
-    "STD CODE": "831",
     "NEFT": true,
     "IMPS": true
   },
@@ -2136,8 +1900,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BELGAUM",
-    "MICR CODE": "590483007",
-    "STD CODE": "831",
     "NEFT": true,
     "IMPS": true
   },
@@ -2154,8 +1916,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HINDALAGE",
-    "MICR CODE": "590483005",
-    "STD CODE": "831",
     "NEFT": true,
     "IMPS": true
   },
@@ -2172,8 +1932,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HIRE BAGEWADI",
-    "MICR CODE": "590483512",
-    "STD CODE": "831",
     "NEFT": true,
     "IMPS": true
   },
@@ -2190,8 +1948,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUDLI",
-    "MICR CODE": "590483513",
-    "STD CODE": "831",
     "NEFT": true,
     "IMPS": true
   },
@@ -2208,8 +1964,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KANAVI-KARAVIN-KOP",
-    "MICR CODE": "590483514",
-    "STD CODE": "831",
     "NEFT": true,
     "IMPS": true
   },
@@ -2226,8 +1980,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MARIHAL",
-    "MICR CODE": "590483515",
-    "STD CODE": "831",
     "NEFT": true,
     "IMPS": true
   },
@@ -2244,8 +1996,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PEERANAWADI",
-    "MICR CODE": "590483006",
-    "STD CODE": "831",
     "NEFT": true,
     "IMPS": true
   },
@@ -2262,8 +2012,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BELGAUM",
-    "MICR CODE": "590483004",
-    "STD CODE": "831",
     "NEFT": true,
     "IMPS": true
   },
@@ -2280,8 +2028,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "UCHAGAON",
-    "MICR CODE": "590483516",
-    "STD CODE": "831",
     "NEFT": true,
     "IMPS": true
   },
@@ -2298,8 +2044,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BELGAUM",
-    "MICR CODE": "590483009",
-    "STD CODE": "831",
     "NEFT": true,
     "IMPS": true
   },
@@ -2316,8 +2060,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SAMBRA",
-    "MICR CODE": "590483010",
-    "STD CODE": "831",
     "NEFT": true,
     "IMPS": true
   },
@@ -2334,8 +2076,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BELGAUM",
-    "MICR CODE": "590483011",
-    "STD CODE": "831",
     "NEFT": true,
     "IMPS": true
   },
@@ -2352,8 +2092,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BELGAUM",
-    "MICR CODE": "590483012",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2369,11 +2107,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DESHNUR",
-    "MICR CODE": "590483529",
-    "STD CODE": "0",
+    "MICR": "590483529",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002218": {
     "IFSC": "KVGB0002218",
@@ -2387,11 +2123,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BELGAUM",
-    "MICR CODE": "590483013",
-    "STD CODE": "0",
+    "MICR": "590483013",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002219": {
     "IFSC": "KVGB0002219",
@@ -2405,11 +2139,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BELGAUM",
-    "MICR CODE": "NA",
-    "STD CODE": "831",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002220": {
     "IFSC": "KVGB0002220",
@@ -2423,29 +2155,25 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BELGAUM",
-    "MICR CODE": "NA",
-    "STD CODE": "831",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002221": {
     "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
     "IFSC": "KVGB0002221",
-    "MICR CODE": "WAITING",
     "BRANCH": "RANICHANNAMMANAGAR, BELGAUM",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK,├╜SRI S N HEBBAR BUILDING, 1ST STAGE, RANI CHANAMMA NAGAR, BELGAUM-590016, KARNATAKA",
-    "STD CODE": "91",
     "CONTACT": "7022599720",
     "CITY": "BELGAUM",
     "DISTRICT": "BELGAUM",
     "STATE": "KARNATAKA",
+    "MICR": "WAITING",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002222": {
     "IFSC": "KVGB0002222",
@@ -2459,47 +2187,41 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BELGAUM",
-    "MICR CODE": "WAITING",
-    "STD CODE": "91836",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002223": {
     "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
     "IFSC": "KVGB0002223",
-    "MICR CODE": "WAITING",
     "BRANCH": "BADALANKALAGI",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK, SMT. P C PATIL BUILDING, MAIN ROAD, NEAR BUS STAND, BADALANKALAGI, TQ BELGAUM DT BELGAUM, KARNATAKA",
-    "STD CODE": "91",
     "CONTACT": "7022599723",
     "CITY": "BELGAUM",
     "DISTRICT": "BELGAUM",
     "STATE": "KARNATAKA",
+    "MICR": "WAITING",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002224": {
     "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
     "IFSC": "KVGB0002224",
-    "MICR CODE": "WAITING",
     "BRANCH": "KANABARGI",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK, NEAR BUS STAND, PLOT 12, RS NO 429 2, TQ AND DT BELGAUM, KARNATAKA",
-    "STD CODE": "91",
     "CONTACT": "7022599722",
     "CITY": "BELGAUM",
     "DISTRICT": "BELGAUM",
     "STATE": "KARNATAKA",
+    "MICR": "WAITING",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002225": {
     "IFSC": "KVGB0002225",
@@ -2513,11 +2235,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BELGAUM",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002226": {
     "IFSC": "KVGB0002226",
@@ -2531,11 +2251,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BELGAUM",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002300": {
     "IFSC": "KVGB0002300",
@@ -2549,11 +2267,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHIKODI",
-    "MICR CODE": "NA",
-    "STD CODE": "8338",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002301": {
     "IFSC": "KVGB0002301",
@@ -2568,8 +2284,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BENADI",
-    "MICR CODE": "591483533",
-    "STD CODE": "8338",
     "NEFT": true,
     "IMPS": true
   },
@@ -2586,8 +2300,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BHOJ",
-    "MICR CODE": "591483534",
-    "STD CODE": "8338",
     "NEFT": true,
     "IMPS": true
   },
@@ -2604,8 +2316,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BORGAON",
-    "MICR CODE": "591483535",
-    "STD CODE": "8338",
     "NEFT": true,
     "IMPS": true
   },
@@ -2622,8 +2332,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHIKODI",
-    "MICR CODE": "591483202",
-    "STD CODE": "8338",
     "NEFT": true,
     "IMPS": true
   },
@@ -2640,8 +2348,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HIREKUDI",
-    "MICR CODE": "591483563",
-    "STD CODE": "8338",
     "NEFT": true,
     "IMPS": true
   },
@@ -2658,8 +2364,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "INGALI",
-    "MICR CODE": "591483555",
-    "STD CODE": "8338",
     "NEFT": true,
     "IMPS": true
   },
@@ -2676,8 +2380,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KABBUR",
-    "MICR CODE": "591483556",
-    "STD CODE": "8338",
     "NEFT": true,
     "IMPS": true
   },
@@ -2694,8 +2396,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KALLOL",
-    "MICR CODE": "591483557",
-    "STD CODE": "8338",
     "NEFT": true,
     "IMPS": true
   },
@@ -2712,8 +2412,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KERUR",
-    "MICR CODE": "591483558",
-    "STD CODE": "8338",
     "NEFT": true,
     "IMPS": true
   },
@@ -2730,8 +2428,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KONGANOLLI",
-    "MICR CODE": "591483536",
-    "STD CODE": "8338",
     "NEFT": true,
     "IMPS": true
   },
@@ -2748,8 +2444,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KURLI",
-    "MICR CODE": "591483537",
-    "STD CODE": "8338",
     "NEFT": true,
     "IMPS": true
   },
@@ -2766,8 +2460,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MANJARI",
-    "MICR CODE": "591483559",
-    "STD CODE": "8338",
     "NEFT": true,
     "IMPS": true
   },
@@ -2784,8 +2476,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGARMUNOLI",
-    "MICR CODE": "591483560",
-    "STD CODE": "8338",
     "NEFT": true,
     "IMPS": true
   },
@@ -2802,8 +2492,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NIPPANAL",
-    "MICR CODE": "591483573",
-    "STD CODE": "8338",
     "NEFT": true,
     "IMPS": true
   },
@@ -2820,8 +2508,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PATTANAKUDI",
-    "MICR CODE": "591483538",
-    "STD CODE": "8338",
     "NEFT": true,
     "IMPS": true
   },
@@ -2838,8 +2524,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "YADUR",
-    "MICR CODE": "591483561",
-    "STD CODE": "8338",
     "NEFT": true,
     "IMPS": true
   },
@@ -2856,8 +2540,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "EXAMBA",
-    "MICR CODE": "591483562",
-    "STD CODE": "8338",
     "NEFT": true,
     "IMPS": true
   },
@@ -2873,11 +2555,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GALATGA",
-    "MICR CODE": "591483542",
-    "STD CODE": "0",
+    "MICR": "591483542",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002319": {
     "IFSC": "KVGB0002319",
@@ -2892,8 +2572,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHIKODI",
-    "MICR CODE": "591483601",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2910,28 +2588,24 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHIKODI",
-    "MICR CODE": "591483605",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "KVGB0002321": {
     "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
     "IFSC": "KVGB0002321",
-    "MICR CODE": "WAITING",
     "BRANCH": "BASAVA CIRCLE, CHIKKODI",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK,├╜├╜VANTAMUTTE BUILDING, CHIKKODI-BIJAPUR MAIN ROAD, CHIKKODI-591201, KARNATAKA",
-    "STD CODE": "91",
     "CONTACT": "7022599715",
     "CITY": "CHIKODI",
     "DISTRICT": "CHIKODI",
     "STATE": "KARNATAKA",
+    "MICR": "WAITING",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002322": {
     "IFSC": "KVGB0002322",
@@ -2945,47 +2619,41 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SADALGA",
-    "MICR CODE": "NA",
-    "STD CODE": "831",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002324": {
     "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
     "IFSC": "KVGB0002324",
-    "MICR CODE": "WAITING",
     "BRANCH": "KHADAKLAT",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK, RAJASHREE BUILDING, CO ANNA LINGAOUDA PATIL, KHADALAKAT TQ CHIKKODI, DT BELGAUM, KARNATAKA",
-    "STD CODE": "91",
     "CONTACT": "7022599725",
     "CITY": "BELGAUM",
     "DISTRICT": "CHIKODI",
     "STATE": "KARNATAKA",
+    "MICR": "WAITING",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002325": {
     "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
     "IFSC": "KVGB0002325",
-    "MICR CODE": "WAITING",
     "BRANCH": "SHIRGOAN",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK, CO BEERAPPA SIDAPPA BANNE, SHIRGAON, TQ CHIKKODI, DT BELGAUM, KARNATAKA",
-    "STD CODE": "91",
     "CONTACT": "7022599724",
     "CITY": "BELGAUM",
     "DISTRICT": "CHIKODI",
     "STATE": "KARNATAKA",
+    "MICR": "WAITING",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002326": {
     "IFSC": "KVGB0002326",
@@ -2999,11 +2667,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHIKKODI",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002327": {
     "IFSC": "KVGB0002327",
@@ -3017,11 +2683,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BELAGAVI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002400": {
     "IFSC": "KVGB0002400",
@@ -3035,11 +2699,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GOKAK",
-    "MICR CODE": "NA",
-    "STD CODE": "8332",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002401": {
     "IFSC": "KVGB0002401",
@@ -3054,8 +2716,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ARABHAVI",
-    "MICR CODE": "591483502",
-    "STD CODE": "8332",
     "NEFT": true,
     "IMPS": true
   },
@@ -3072,8 +2732,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GOKAK",
-    "MICR CODE": "591483543",
-    "STD CODE": "8332",
     "NEFT": true,
     "IMPS": true
   },
@@ -3090,8 +2748,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KALLOLLI",
-    "MICR CODE": "591483544",
-    "STD CODE": "8332",
     "NEFT": true,
     "IMPS": true
   },
@@ -3108,8 +2764,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KHANAGAON",
-    "MICR CODE": "591483545",
-    "STD CODE": "8332",
     "NEFT": true,
     "IMPS": true
   },
@@ -3126,8 +2780,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOUJALAGI",
-    "MICR CODE": "591483546",
-    "STD CODE": "8334",
     "NEFT": true,
     "IMPS": true
   },
@@ -3144,8 +2796,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MAMADAPUR",
-    "MICR CODE": "591483547",
-    "STD CODE": "8332",
     "NEFT": true,
     "IMPS": true
   },
@@ -3162,8 +2812,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUDALGI",
-    "MICR CODE": "591483548",
-    "STD CODE": "8334",
     "NEFT": true,
     "IMPS": true
   },
@@ -3180,8 +2828,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGANUR",
-    "MICR CODE": "591483549",
-    "STD CODE": "8334",
     "NEFT": true,
     "IMPS": true
   },
@@ -3198,8 +2844,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SHINDIKURBET",
-    "MICR CODE": "591483550",
-    "STD CODE": "8332",
     "NEFT": true,
     "IMPS": true
   },
@@ -3216,8 +2860,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SUNADHOLI",
-    "MICR CODE": "591483551",
-    "STD CODE": "8334",
     "NEFT": true,
     "IMPS": true
   },
@@ -3234,8 +2876,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "YADWAD",
-    "MICR CODE": "591483551",
-    "STD CODE": "8334",
     "NEFT": true,
     "IMPS": true
   },
@@ -3252,8 +2892,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GOKAK",
-    "MICR CODE": "591483597",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3269,11 +2907,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ANKALGI",
-    "MICR CODE": "590483517",
-    "STD CODE": "0",
+    "MICR": "590483517",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002414": {
     "IFSC": "KVGB0002414",
@@ -3287,29 +2923,25 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KONNUR",
-    "MICR CODE": "591483552",
-    "STD CODE": "0",
+    "MICR": "591483552",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002415": {
     "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
     "IFSC": "KVGB0002415",
-    "MICR CODE": "WAITING",
     "BRANCH": "AKKATANGEERAHAL",
     "ADDRESS": "KARANATAKA VIKAS GRAMEENA BANK, CO NINGAPPA ADIVEPPA SATIGERI, AKKATANGERHAL, TQ GOKAK, DT BELGAUM, KARNATAKA",
-    "STD CODE": "91",
     "CONTACT": "7022599726",
     "CITY": "BELGAUM",
     "DISTRICT": "GOKAK",
     "STATE": "KARNATAKA",
+    "MICR": "WAITING",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002416": {
     "IFSC": "KVGB0002416",
@@ -3323,11 +2955,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GOKAK",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002417": {
     "IFSC": "KVGB0002417",
@@ -3341,11 +2971,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GOKAK",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002418": {
     "IFSC": "KVGB0002418",
@@ -3359,11 +2987,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GOKAK",
-    "MICR CODE": "NA",
-    "STD CODE": "8332",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002419": {
     "IFSC": "KVGB0002419",
@@ -3377,11 +3003,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GOKAK",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002501": {
     "IFSC": "KVGB0002501",
@@ -3396,8 +3020,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BASAPUR",
-    "MICR CODE": "591483553",
-    "STD CODE": "8333",
     "NEFT": true,
     "IMPS": true
   },
@@ -3414,8 +3036,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GUDAS",
-    "MICR CODE": "591483539",
-    "STD CODE": "8333",
     "NEFT": true,
     "IMPS": true
   },
@@ -3431,11 +3051,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HIDKAL",
-    "MICR CODE": "591483540",
-    "STD CODE": "8333",
+    "MICR": "591483540",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002504": {
     "IFSC": "KVGB0002504",
@@ -3450,8 +3068,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUKKERI",
-    "MICR CODE": "591483576",
-    "STD CODE": "8333",
     "NEFT": true,
     "IMPS": true
   },
@@ -3468,8 +3084,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KANAGALE",
-    "MICR CODE": "591483541",
-    "STD CODE": "8333",
     "NEFT": true,
     "IMPS": true
   },
@@ -3486,8 +3100,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NIDASOSI",
-    "MICR CODE": "591483577",
-    "STD CODE": "8333",
     "NEFT": true,
     "IMPS": true
   },
@@ -3504,8 +3116,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SANKESHWAR",
-    "MICR CODE": "591483541",
-    "STD CODE": "8333",
     "NEFT": true,
     "IMPS": true
   },
@@ -3522,8 +3132,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BELLAD BAGEWADI",
-    "MICR CODE": "591483577",
-    "STD CODE": "8333",
     "NEFT": true,
     "IMPS": true
   },
@@ -3539,11 +3147,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NIDASOSI",
-    "MICR CODE": "NA",
-    "STD CODE": "8333",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002510": {
     "IFSC": "KVGB0002510",
@@ -3558,8 +3164,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUKKERI",
-    "MICR CODE": "591483595",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3576,8 +3180,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUKKERI",
-    "MICR CODE": "590483528",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3593,47 +3195,41 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUKKERI",
-    "MICR CODE": "NA",
-    "STD CODE": "831",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002513": {
     "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
     "IFSC": "KVGB0002513",
-    "MICR CODE": "WAITING",
     "BRANCH": "SOLAPUR",
     "ADDRESS": "KARANATA VIKAS GRAMEENA BANK, S P K P SAHAKARI SANGH BUILDING, NEAR GRAM PANCHYAT BUILDING, TQ HUKKERI DT BELGAUM, KARNATAKA",
-    "STD CODE": "91",
     "CONTACT": "7022599728",
     "CITY": "BELGAUM",
     "DISTRICT": "HUKKERI",
     "STATE": "KARNATAKA",
+    "MICR": "WAITING",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002514": {
     "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
     "IFSC": "KVGB0002514",
-    "MICR CODE": "WAITING",
     "BRANCH": "SULTANPUR",
     "ADDRESS": "KARANATA VIKAS GRAMEENA BANK, SR. S D MULLA BUILDING, BASAVESHWAR CIRCLE, SULTANPUR, TQ HUKKERI, DT BELGAUM, KARNATAKA",
-    "STD CODE": "91",
     "CONTACT": "7022599729",
     "CITY": "BELGAUM",
     "DISTRICT": "HUKKERI",
     "STATE": "KARNATAKA",
+    "MICR": "WAITING",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002601": {
     "IFSC": "KVGB0002601",
@@ -3648,8 +3244,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BIDI",
-    "MICR CODE": "590483520",
-    "STD CODE": "8336",
     "NEFT": true,
     "IMPS": true
   },
@@ -3666,8 +3260,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GANDIGWAD",
-    "MICR CODE": "590483521",
-    "STD CODE": "8336",
     "NEFT": true,
     "IMPS": true
   },
@@ -3684,8 +3276,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GARLAGUNJI",
-    "MICR CODE": "590483522",
-    "STD CODE": "8336",
     "NEFT": true,
     "IMPS": true
   },
@@ -3702,8 +3292,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GUNJI",
-    "MICR CODE": "590483523",
-    "STD CODE": "8336",
     "NEFT": true,
     "IMPS": true
   },
@@ -3720,8 +3308,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HALASI",
-    "MICR CODE": "590483524",
-    "STD CODE": "8336",
     "NEFT": true,
     "IMPS": true
   },
@@ -3738,8 +3324,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JAMBOTI",
-    "MICR CODE": "590483525",
-    "STD CODE": "8336",
     "NEFT": true,
     "IMPS": true
   },
@@ -3756,8 +3340,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KHANAPUR",
-    "MICR CODE": "590483526",
-    "STD CODE": "8336",
     "NEFT": true,
     "IMPS": true
   },
@@ -3774,8 +3356,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "LINGANMATH",
-    "MICR CODE": "590483525",
-    "STD CODE": "8336",
     "NEFT": true,
     "IMPS": true
   },
@@ -3792,8 +3372,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "LONDA",
-    "MICR CODE": "590483526",
-    "STD CODE": "8336",
     "NEFT": true,
     "IMPS": true
   },
@@ -3809,11 +3387,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NANDGAD",
-    "MICR CODE": "591483564",
-    "STD CODE": "0",
+    "MICR": "591483564",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002611": {
     "IFSC": "KVGB0002611",
@@ -3827,11 +3403,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PARISHWAD",
-    "MICR CODE": "591483565",
-    "STD CODE": "0",
+    "MICR": "591483565",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002701": {
     "IFSC": "KVGB0002701",
@@ -3846,8 +3420,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BHENDWAD",
-    "MICR CODE": "591483566",
-    "STD CODE": "8331",
     "NEFT": true,
     "IMPS": true
   },
@@ -3864,8 +3436,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHINCHALI",
-    "MICR CODE": "591483567",
-    "STD CODE": "8331",
     "NEFT": true,
     "IMPS": true
   },
@@ -3882,8 +3452,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HANDIGUND",
-    "MICR CODE": "591483568",
-    "STD CODE": "8331",
     "NEFT": true,
     "IMPS": true
   },
@@ -3900,8 +3468,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HARUGERI",
-    "MICR CODE": "591483569",
-    "STD CODE": "8331",
     "NEFT": true,
     "IMPS": true
   },
@@ -3918,8 +3484,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HIDAKAL",
-    "MICR CODE": "591483570",
-    "STD CODE": "8331",
     "NEFT": true,
     "IMPS": true
   },
@@ -3936,8 +3500,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KANKANWADI",
-    "MICR CODE": "591483571",
-    "STD CODE": "8331",
     "NEFT": true,
     "IMPS": true
   },
@@ -3954,8 +3516,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MEKHALI",
-    "MICR CODE": "591483572",
-    "STD CODE": "8331",
     "NEFT": true,
     "IMPS": true
   },
@@ -3972,8 +3532,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MORAB",
-    "MICR CODE": "591483302",
-    "STD CODE": "8331",
     "NEFT": true,
     "IMPS": true
   },
@@ -3990,8 +3548,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUGALKHOD",
-    "MICR CODE": "591483574",
-    "STD CODE": "8331",
     "NEFT": true,
     "IMPS": true
   },
@@ -4008,8 +3564,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NIPANI",
-    "MICR CODE": "591483575",
-    "STD CODE": "8331",
     "NEFT": true,
     "IMPS": true
   },
@@ -4026,8 +3580,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PARAMANANDAWADI",
-    "MICR CODE": "591483574",
-    "STD CODE": "8331",
     "NEFT": true,
     "IMPS": true
   },
@@ -4044,8 +3596,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAIBAG",
-    "MICR CODE": "591483554",
-    "STD CODE": "8331",
     "NEFT": true,
     "IMPS": true
   },
@@ -4062,8 +3612,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAIBAG",
-    "MICR CODE": "591483602",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4079,11 +3627,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAIBAG",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002715": {
     "IFSC": "KVGB0002715",
@@ -4097,11 +3643,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAIBHAG",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002801": {
     "IFSC": "KVGB0002801",
@@ -4116,8 +3660,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BATAKURKI",
-    "MICR CODE": "591483579",
-    "STD CODE": "8335",
     "NEFT": true,
     "IMPS": true
   },
@@ -4134,8 +3676,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HOSAKOTI",
-    "MICR CODE": "591483580",
-    "STD CODE": "8335",
     "NEFT": true,
     "IMPS": true
   },
@@ -4152,8 +3692,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HULKUND",
-    "MICR CODE": "591483581",
-    "STD CODE": "8335",
     "NEFT": true,
     "IMPS": true
   },
@@ -4170,8 +3708,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KATKOL",
-    "MICR CODE": "591483582",
-    "STD CODE": "8335",
     "NEFT": true,
     "IMPS": true
   },
@@ -4188,8 +3724,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAMDURG",
-    "MICR CODE": "591483581",
-    "STD CODE": "8335",
     "NEFT": true,
     "IMPS": true
   },
@@ -4206,8 +3740,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SALAHALLI",
-    "MICR CODE": "591483583",
-    "STD CODE": "8335",
     "NEFT": true,
     "IMPS": true
   },
@@ -4224,8 +3756,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAMDURG",
-    "MICR CODE": "591483596",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4241,11 +3771,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAMDURG",
-    "MICR CODE": "WAITING",
-    "STD CODE": "8335",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002809": {
     "IFSC": "KVGB0002809",
@@ -4259,11 +3787,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAMADURG",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002901": {
     "IFSC": "KVGB0002901",
@@ -4278,8 +3804,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HANCHINAL",
-    "MICR CODE": "591483585",
-    "STD CODE": "8330",
     "NEFT": true,
     "IMPS": true
   },
@@ -4296,8 +3820,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HOSUR",
-    "MICR CODE": "591483586",
-    "STD CODE": "8337",
     "NEFT": true,
     "IMPS": true
   },
@@ -4314,8 +3836,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HULIKATTI",
-    "MICR CODE": "591483587",
-    "STD CODE": "8330",
     "NEFT": true,
     "IMPS": true
   },
@@ -4332,8 +3852,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "INAMHONGAL",
-    "MICR CODE": "591483588",
-    "STD CODE": "8330",
     "NEFT": true,
     "IMPS": true
   },
@@ -4350,8 +3868,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "INCHAL",
-    "MICR CODE": "591483589",
-    "STD CODE": "8337",
     "NEFT": true,
     "IMPS": true
   },
@@ -4368,8 +3884,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MANOLI",
-    "MICR CODE": "591483588",
-    "STD CODE": "8330",
     "NEFT": true,
     "IMPS": true
   },
@@ -4386,8 +3900,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SIRASANGI",
-    "MICR CODE": "591483590",
-    "STD CODE": "8330",
     "NEFT": true,
     "IMPS": true
   },
@@ -4404,8 +3916,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SAUNDATTI",
-    "MICR CODE": "591483591",
-    "STD CODE": "8330",
     "NEFT": true,
     "IMPS": true
   },
@@ -4422,8 +3932,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TALLUR",
-    "MICR CODE": "591483592",
-    "STD CODE": "8337",
     "NEFT": true,
     "IMPS": true
   },
@@ -4440,8 +3948,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "UGARGOL",
-    "MICR CODE": "590483527",
-    "STD CODE": "8330",
     "NEFT": true,
     "IMPS": true
   },
@@ -4458,8 +3964,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "YAKKUNDI",
-    "MICR CODE": "591483592",
-    "STD CODE": "8337",
     "NEFT": true,
     "IMPS": true
   },
@@ -4476,8 +3980,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "YARAGATTI",
-    "MICR CODE": "586483501",
-    "STD CODE": "8337",
     "NEFT": true,
     "IMPS": true
   },
@@ -4494,8 +3996,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SAUNDATTI",
-    "MICR CODE": "591483604",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4511,47 +4011,41 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MURGOD",
-    "MICR CODE": "NA",
-    "STD CODE": "831",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002915": {
     "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
     "IFSC": "KVGB0002915",
-    "MICR CODE": "WAITING",
     "BRANCH": "HOOLI",
     "ADDRESS": "KARNATAKA VIKAS GRAMEEN BANK, HOOLI UNNE UTPADAKAR KAIGARIKA SAHAKARI SANGH LTD, HOOLI, TQ SOUNDATTI, DT BELGAUM, KARNATAKA",
-    "STD CODE": "91",
     "CONTACT": "7022599730",
     "CITY": "BELGAUM",
     "DISTRICT": "SAUNDATTI",
     "STATE": "KARNATAKA",
+    "MICR": "WAITING",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0002916": {
     "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
     "IFSC": "KVGB0002916",
-    "MICR CODE": "WAITING",
     "BRANCH": "SATTIGERI",
     "ADDRESS": "KARNATAKA VIKAS GRAMEEN BANK, ANGADI BUILDING, NEAR BUS STAND, TQ SAUNDATTI, DT BELGAUM, KARNATAKA",
-    "STD CODE": "91",
     "CONTACT": "7022599731",
     "CITY": "BELGAUM",
     "DISTRICT": "SAUNDATTI",
     "STATE": "KARNATAKA",
+    "MICR": "WAITING",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0003000": {
     "IFSC": "KVGB0003000",
@@ -4565,11 +4059,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BIJAPUR",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0003001": {
     "IFSC": "KVGB0003001",
@@ -4584,8 +4076,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BASAVANA BAGEVADI",
-    "MICR CODE": "586483503",
-    "STD CODE": "8358",
     "NEFT": true,
     "IMPS": true
   },
@@ -4602,8 +4092,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ITAGI",
-    "MICR CODE": "586483504",
-    "STD CODE": "8426",
     "NEFT": true,
     "IMPS": true
   },
@@ -4620,8 +4108,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLHAR",
-    "MICR CODE": "586483505",
-    "STD CODE": "8426",
     "NEFT": true,
     "IMPS": true
   },
@@ -4638,8 +4124,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MASUTI",
-    "MICR CODE": "586483506",
-    "STD CODE": "8426",
     "NEFT": true,
     "IMPS": true
   },
@@ -4656,8 +4140,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MULAWAD",
-    "MICR CODE": "586483507",
-    "STD CODE": "8426",
     "NEFT": true,
     "IMPS": true
   },
@@ -4674,8 +4156,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUTTAGI",
-    "MICR CODE": "586483508",
-    "STD CODE": "8426",
     "NEFT": true,
     "IMPS": true
   },
@@ -4692,8 +4172,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "UKKALI",
-    "MICR CODE": "586483507",
-    "STD CODE": "8358",
     "NEFT": true,
     "IMPS": true
   },
@@ -4710,8 +4188,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NIDAGUNDI",
-    "MICR CODE": "582483527",
-    "STD CODE": "8426",
     "NEFT": true,
     "IMPS": true
   },
@@ -4728,8 +4204,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BASAVANA BAGEVADI",
-    "MICR CODE": "586483552",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4745,11 +4219,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MANAGULI",
-    "MICR CODE": "586483002",
-    "STD CODE": "0",
+    "MICR": "586483002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0003011": {
     "IFSC": "KVGB0003011",
@@ -4764,8 +4236,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BASAVANA BAGEVADI",
-    "MICR CODE": "586483557",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4781,11 +4251,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BIJAPUR",
-    "MICR CODE": "WAITING",
-    "STD CODE": "8358",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0003101": {
     "IFSC": "KVGB0003101",
@@ -4800,8 +4268,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ARJUNAGI",
-    "MICR CODE": "586483511",
-    "STD CODE": "8355",
     "NEFT": true,
     "IMPS": true
   },
@@ -4818,8 +4284,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BIJAPUR",
-    "MICR CODE": "586483510",
-    "STD CODE": "8352",
     "NEFT": true,
     "IMPS": true
   },
@@ -4836,8 +4300,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HONNUTAGI",
-    "MICR CODE": "586483517",
-    "STD CODE": "8352",
     "NEFT": true,
     "IMPS": true
   },
@@ -4854,8 +4316,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HONWAD",
-    "MICR CODE": "586483512",
-    "STD CODE": "8352",
     "NEFT": true,
     "IMPS": true
   },
@@ -4872,8 +4332,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JAINAPUR",
-    "MICR CODE": "586483513",
-    "STD CODE": "8355",
     "NEFT": true,
     "IMPS": true
   },
@@ -4890,8 +4348,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JAMBAGI(A)",
-    "MICR CODE": "586483514",
-    "STD CODE": "8352",
     "NEFT": true,
     "IMPS": true
   },
@@ -4908,8 +4364,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KANAMADI",
-    "MICR CODE": "586483515",
-    "STD CODE": "8352",
     "NEFT": true,
     "IMPS": true
   },
@@ -4926,8 +4380,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGATHAN",
-    "MICR CODE": "586483516",
-    "STD CODE": "8352",
     "NEFT": true,
     "IMPS": true
   },
@@ -4944,8 +4396,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SARAWAD",
-    "MICR CODE": "586483003",
-    "STD CODE": "8355",
     "NEFT": true,
     "IMPS": true
   },
@@ -4962,8 +4412,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIKOTA",
-    "MICR CODE": "586483518",
-    "STD CODE": "8352",
     "NEFT": true,
     "IMPS": true
   },
@@ -4980,8 +4428,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BIJAPUR",
-    "MICR CODE": "586483004",
-    "STD CODE": "8352",
     "NEFT": true,
     "IMPS": true
   },
@@ -4998,8 +4444,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BABALESHWAR",
-    "MICR CODE": "586483005",
-    "STD CODE": "8355",
     "NEFT": true,
     "IMPS": true
   },
@@ -5016,8 +4460,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BIJAPUR",
-    "MICR CODE": "586483547",
-    "STD CODE": "8352",
     "NEFT": true,
     "IMPS": true
   },
@@ -5034,8 +4476,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BIJAPUR",
-    "MICR CODE": "586483006",
-    "STD CODE": "8352",
     "NEFT": true,
     "IMPS": true
   },
@@ -5052,8 +4492,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BIJAPUR",
-    "MICR CODE": "586483547",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5070,8 +4508,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BIJAPUR",
-    "MICR CODE": "586483521",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5088,8 +4524,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BIJAPUR",
-    "MICR CODE": "586483548",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5106,8 +4540,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BIJAPUR",
-    "MICR CODE": "586483558",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5123,11 +4555,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BIJAPUR",
-    "MICR CODE": "586483007",
-    "STD CODE": "0",
+    "MICR": "586483007",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0003120": {
     "IFSC": "KVGB0003120",
@@ -5141,29 +4571,25 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BIJAPUR",
-    "MICR CODE": "NA",
-    "STD CODE": "8352",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0003121": {
     "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
     "IFSC": "KVGB0003121",
-    "MICR CODE": "WAITING",
     "BRANCH": "VAJRA HANUMAN NAGAR, BIJAPUR",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK, SRI M S KAMALAPUR BUILDING, NEAR SAINT JOSEPH SCHOOL, MAIN ROAD, VAJRA HANUMAN NAGAR, BIJAPUR 586103, KARNATAKA",
-    "STD CODE": "91",
     "CONTACT": "7022599716",
     "CITY": "BIJAPUR",
     "DISTRICT": "BIJAPUR",
     "STATE": "KARNATAKA",
+    "MICR": "WAITING",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0003122": {
     "IFSC": "KVGB0003122",
@@ -5177,11 +4603,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BIJAPUR",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0003201": {
     "IFSC": "KVGB0003201",
@@ -5196,8 +4620,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BHATAGUNAKI",
-    "MICR CODE": "586483523",
-    "STD CODE": "8422",
     "NEFT": true,
     "IMPS": true
   },
@@ -5214,8 +4636,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DHULAKHED",
-    "MICR CODE": "586483524",
-    "STD CODE": "8422",
     "NEFT": true,
     "IMPS": true
   },
@@ -5232,8 +4652,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "INDI",
-    "MICR CODE": "586483525",
-    "STD CODE": "8359",
     "NEFT": true,
     "IMPS": true
   },
@@ -5250,8 +4668,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JIGAJEEVANI",
-    "MICR CODE": "586483526",
-    "STD CODE": "8422",
     "NEFT": true,
     "IMPS": true
   },
@@ -5268,8 +4684,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "LONI(B.K.)",
-    "MICR CODE": "586483527",
-    "STD CODE": "8422",
     "NEFT": true,
     "IMPS": true
   },
@@ -5286,8 +4700,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAD(B.K.)",
-    "MICR CODE": "586483526",
-    "STD CODE": "8359",
     "NEFT": true,
     "IMPS": true
   },
@@ -5304,8 +4716,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHADCHAN",
-    "MICR CODE": "586483527",
-    "STD CODE": "8422",
     "NEFT": true,
     "IMPS": true
   },
@@ -5322,8 +4732,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "INDI",
-    "MICR CODE": "586483553",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5340,8 +4748,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "INDI",
-    "MICR CODE": "586483551",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5357,11 +4763,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TAMBA",
-    "MICR CODE": "586483529",
-    "STD CODE": "0",
+    "MICR": "586483529",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0003211": {
     "IFSC": "KVGB0003211",
@@ -5375,11 +4779,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "INDI",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0003212": {
     "IFSC": "KVGB0003212",
@@ -5393,11 +4795,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MASALI BK",
-    "MICR CODE": "WAITING",
-    "STD CODE": "8359",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0003213": {
     "IFSC": "KVGB0003213",
@@ -5411,11 +4811,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BIKAPUR",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0003301": {
     "IFSC": "KVGB0003301",
@@ -5430,8 +4828,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ALUR",
-    "MICR CODE": "586483530",
-    "STD CODE": "8356",
     "NEFT": true,
     "IMPS": true
   },
@@ -5448,8 +4844,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MINAJAGI",
-    "MICR CODE": "586483531",
-    "STD CODE": "8356",
     "NEFT": true,
     "IMPS": true
   },
@@ -5466,8 +4860,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUDDEBIHAL",
-    "MICR CODE": "586483532",
-    "STD CODE": "8356",
     "NEFT": true,
     "IMPS": true
   },
@@ -5484,8 +4876,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TALIKOTI",
-    "MICR CODE": "586483533",
-    "STD CODE": "8356",
     "NEFT": true,
     "IMPS": true
   },
@@ -5501,11 +4891,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUDDEBIHAL",
-    "MICR CODE": "NA",
-    "STD CODE": "8352",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0003306": {
     "IFSC": "KVGB0003306",
@@ -5519,11 +4907,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUDDEBIHAL",
-    "MICR CODE": "WAITING",
-    "STD CODE": "91836",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0003307": {
     "IFSC": "KVGB0003307",
@@ -5537,11 +4923,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BIKAPUR",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0003308": {
     "IFSC": "KVGB0003308",
@@ -5555,11 +4939,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BIKAPUR",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0003401": {
     "IFSC": "KVGB0003401",
@@ -5574,8 +4956,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ALMEL",
-    "MICR CODE": "586483534",
-    "STD CODE": "8488",
     "NEFT": true,
     "IMPS": true
   },
@@ -5592,8 +4972,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ASKI",
-    "MICR CODE": "586483535",
-    "STD CODE": "8424",
     "NEFT": true,
     "IMPS": true
   },
@@ -5610,8 +4988,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BALAGANUR",
-    "MICR CODE": "586483536",
-    "STD CODE": "8488",
     "NEFT": true,
     "IMPS": true
   },
@@ -5628,8 +5004,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHANDKAVATHE",
-    "MICR CODE": "586483537",
-    "STD CODE": "8488",
     "NEFT": true,
     "IMPS": true
   },
@@ -5645,11 +5019,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RUGI",
-    "MICR CODE": "586483538",
-    "STD CODE": "8424",
+    "MICR": "586483538",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0003406": {
     "IFSC": "KVGB0003406",
@@ -5664,8 +5036,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DEVANGAO",
-    "MICR CODE": "586483539",
-    "STD CODE": "8488",
     "NEFT": true,
     "IMPS": true
   },
@@ -5682,8 +5052,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DEVARNAVADGI",
-    "MICR CODE": "586483540",
-    "STD CODE": "8488",
     "NEFT": true,
     "IMPS": true
   },
@@ -5700,8 +5068,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GABASAVALGI",
-    "MICR CODE": "586483541",
-    "STD CODE": "8488",
     "NEFT": true,
     "IMPS": true
   },
@@ -5718,8 +5084,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GOLGERI",
-    "MICR CODE": "586483542",
-    "STD CODE": "8424",
     "NEFT": true,
     "IMPS": true
   },
@@ -5736,8 +5100,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GUBBEWAD",
-    "MICR CODE": "586483543",
-    "STD CODE": "8424",
     "NEFT": true,
     "IMPS": true
   },
@@ -5754,8 +5116,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JALWAD",
-    "MICR CODE": "586483544",
-    "STD CODE": "8424",
     "NEFT": true,
     "IMPS": true
   },
@@ -5772,8 +5132,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KANNOLLI",
-    "MICR CODE": "586483520",
-    "STD CODE": "8424",
     "NEFT": true,
     "IMPS": true
   },
@@ -5790,8 +5148,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KONDGULI",
-    "MICR CODE": "586483519",
-    "STD CODE": "8424",
     "NEFT": true,
     "IMPS": true
   },
@@ -5808,8 +5164,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MALAGHAN",
-    "MICR CODE": "586483545",
-    "STD CODE": "8488",
     "NEFT": true,
     "IMPS": true
   },
@@ -5826,8 +5180,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SINDGI",
-    "MICR CODE": "586483546",
-    "STD CODE": "8488",
     "NEFT": true,
     "IMPS": true
   },
@@ -5844,8 +5196,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "YANKANCHI",
-    "MICR CODE": "586483549",
-    "STD CODE": "8488",
     "NEFT": true,
     "IMPS": true
   },
@@ -5862,8 +5212,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "YARGAL(BK)",
-    "MICR CODE": "586483546",
-    "STD CODE": "8488",
     "NEFT": true,
     "IMPS": true
   },
@@ -5880,8 +5228,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SINDGI",
-    "MICR CODE": "586483549",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5898,8 +5244,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SINDGI",
-    "MICR CODE": "586483550",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5916,28 +5260,24 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SINDGI",
-    "MICR CODE": "586483556",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "KVGB0003421": {
     "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
     "IFSC": "KVGB0003421",
-    "MICR CODE": "WAITING",
     "BRANCH": "DEVARAHIPPARAGI",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK, SRI. SIDDESHWAR JANA KALYAN SANSTHE BUILDING, DEVAR HIPPARAGI, TQ SINDAGI, DT BIJAPUR, KARNATAKA",
-    "STD CODE": "91",
     "CONTACT": "7022599737",
     "CITY": "BIJAPUR",
     "DISTRICT": "SINDGI",
     "STATE": "KARNATAKA",
+    "MICR": "WAITING",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0003422": {
     "IFSC": "KVGB0003422",
@@ -5951,11 +5291,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SINDGI",
-    "MICR CODE": "WAITING",
-    "STD CODE": "91836",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0003423": {
     "IFSC": "KVGB0003423",
@@ -5969,11 +5307,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "YALGOD",
-    "MICR CODE": "WAITING",
-    "STD CODE": "8424",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0003424": {
     "IFSC": "KVGB0003424",
@@ -5987,11 +5323,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOKATNUR",
-    "MICR CODE": "WAITING",
-    "STD CODE": "8424",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0004000": {
     "IFSC": "KVGB0004000",
@@ -6005,11 +5339,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUBLI-DHARWAD",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0004001": {
     "IFSC": "KVGB0004001",
@@ -6024,8 +5356,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ALNAWAR",
-    "MICR CODE": "580483502",
-    "STD CODE": "836",
     "NEFT": true,
     "IMPS": true
   },
@@ -6041,11 +5371,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUBLI-DHARWAD",
-    "MICR CODE": "580483014",
-    "STD CODE": "836",
+    "MICR": "580483014",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0004003": {
     "IFSC": "KVGB0004003",
@@ -6060,8 +5388,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ARWATGI",
-    "MICR CODE": "580483013",
-    "STD CODE": "836",
     "NEFT": true,
     "IMPS": true
   },
@@ -6077,11 +5403,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUBLI-DHARWAD",
-    "MICR CODE": "580483019",
-    "STD CODE": "836",
+    "MICR": "580483019",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0004005": {
     "IFSC": "KVGB0004005",
@@ -6095,11 +5419,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUBLI-DHARWAD",
-    "MICR CODE": "580483015",
-    "STD CODE": "836",
+    "MICR": "580483015",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0004006": {
     "IFSC": "KVGB0004006",
@@ -6113,11 +5435,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUBLI-DHARWAD",
-    "MICR CODE": "580483016",
-    "STD CODE": "836",
+    "MICR": "580483016",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0004007": {
     "IFSC": "KVGB0004007",
@@ -6131,11 +5451,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUBLI-DHARWAD",
-    "MICR CODE": "580483020",
-    "STD CODE": "836",
+    "MICR": "580483020",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0004008": {
     "IFSC": "KVGB0004008",
@@ -6149,11 +5467,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUBLI-DHARWAD",
-    "MICR CODE": "580483017",
-    "STD CODE": "836",
+    "MICR": "580483017",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0004009": {
     "IFSC": "KVGB0004009",
@@ -6167,11 +5483,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUBLI-DHARWAD",
-    "MICR CODE": "580483503",
-    "STD CODE": "836",
+    "MICR": "580483503",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0004010": {
     "IFSC": "KVGB0004010",
@@ -6185,11 +5499,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUBLI-DHARWAD",
-    "MICR CODE": "580483504",
-    "STD CODE": "836",
+    "MICR": "580483504",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0004011": {
     "IFSC": "KVGB0004011",
@@ -6204,8 +5516,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUGAD",
-    "MICR CODE": "580483505",
-    "STD CODE": "836",
     "NEFT": true,
     "IMPS": true
   },
@@ -6222,8 +5532,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMMIGATTI",
-    "MICR CODE": "580483506",
-    "STD CODE": "836",
     "NEFT": true,
     "IMPS": true
   },
@@ -6240,8 +5548,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAVALUR",
-    "MICR CODE": "580483507",
-    "STD CODE": "836",
     "NEFT": true,
     "IMPS": true
   },
@@ -6258,8 +5564,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NIGADI",
-    "MICR CODE": "580483508",
-    "STD CODE": "836",
     "NEFT": true,
     "IMPS": true
   },
@@ -6276,8 +5580,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SHIVALLI",
-    "MICR CODE": "580483509",
-    "STD CODE": "836",
     "NEFT": true,
     "IMPS": true
   },
@@ -6294,8 +5596,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TADAKOD",
-    "MICR CODE": "580483510",
-    "STD CODE": "836",
     "NEFT": true,
     "IMPS": true
   },
@@ -6312,8 +5612,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TEGUR",
-    "MICR CODE": "580483511",
-    "STD CODE": "836",
     "NEFT": true,
     "IMPS": true
   },
@@ -6330,8 +5628,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "UPPIN BETAGERE",
-    "MICR CODE": "580483022",
-    "STD CODE": "836",
     "NEFT": true,
     "IMPS": true
   },
@@ -6347,11 +5643,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUBLI-DHARWAD",
-    "MICR CODE": "580483511",
-    "STD CODE": "836",
+    "MICR": "580483511",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0004020": {
     "IFSC": "KVGB0004020",
@@ -6365,11 +5659,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUBLI-DHARWAD",
-    "MICR CODE": "580483022",
-    "STD CODE": "836",
+    "MICR": "580483022",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0004021": {
     "IFSC": "KVGB0004021",
@@ -6384,8 +5676,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUBLI-DHARWAD",
-    "MICR CODE": "580483543",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6402,8 +5692,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUBLI-DHARWAD",
-    "MICR CODE": "580483544",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6419,11 +5707,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUBLI-DHARWAD",
-    "MICR CODE": "580483311",
-    "STD CODE": "0",
+    "MICR": "580483311",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0004024": {
     "IFSC": "KVGB0004024",
@@ -6437,11 +5723,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUBLI-DHARWAD",
-    "MICR CODE": "580483023",
-    "STD CODE": "0",
+    "MICR": "580483023",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0004025": {
     "IFSC": "KVGB0004025",
@@ -6455,11 +5739,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUBLI-DHARWAD",
-    "MICR CODE": "580483024",
-    "STD CODE": "0",
+    "MICR": "580483024",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0004026": {
     "IFSC": "KVGB0004026",
@@ -6473,11 +5755,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUBLI-DHARWAD",
-    "MICR CODE": "WAITING",
-    "STD CODE": "91",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0004027": {
     "IFSC": "KVGB0004027",
@@ -6491,11 +5771,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUBLI-DHARWAD",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0004028": {
     "IFSC": "KVGB0004028",
@@ -6509,11 +5787,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MANAGUNDI",
-    "MICR CODE": "WAITING",
-    "STD CODE": "836",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0004101": {
     "IFSC": "KVGB0004101",
@@ -6528,8 +5804,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BHANDIWAD",
-    "MICR CODE": "580483520",
-    "STD CODE": "836",
     "NEFT": true,
     "IMPS": true
   },
@@ -6545,11 +5819,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUBLI-DHARWAD",
-    "MICR CODE": "580483002",
-    "STD CODE": "836",
+    "MICR": "580483002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0004103": {
     "IFSC": "KVGB0004103",
@@ -6564,8 +5836,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HALLIHAL",
-    "MICR CODE": "580483521",
-    "STD CODE": "836",
     "NEFT": true,
     "IMPS": true
   },
@@ -6582,8 +5852,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUBLI-DHARWAD",
-    "MICR CODE": "580483008",
-    "STD CODE": "836",
     "NEFT": true,
     "IMPS": true
   },
@@ -6600,8 +5868,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "INGALAHALLI",
-    "MICR CODE": "580483522",
-    "STD CODE": "836",
     "NEFT": true,
     "IMPS": true
   },
@@ -6618,8 +5884,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KESHWAPUR",
-    "MICR CODE": "580483010",
-    "STD CODE": "836",
     "NEFT": true,
     "IMPS": true
   },
@@ -6636,8 +5900,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KUSUGAL",
-    "MICR CODE": "580483523",
-    "STD CODE": "836",
     "NEFT": true,
     "IMPS": true
   },
@@ -6654,8 +5916,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUBLI-DHARWAD",
-    "MICR CODE": "580483009",
-    "STD CODE": "836",
     "NEFT": true,
     "IMPS": true
   },
@@ -6672,8 +5932,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NULVI",
-    "MICR CODE": "580483004",
-    "STD CODE": "836",
     "NEFT": true,
     "IMPS": true
   },
@@ -6690,8 +5948,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUBLI-DHARWAD",
-    "MICR CODE": "580483003",
-    "STD CODE": "836",
     "NEFT": true,
     "IMPS": true
   },
@@ -6708,8 +5964,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUBLI-DHARWAD",
-    "MICR CODE": "580483006",
-    "STD CODE": "836",
     "NEFT": true,
     "IMPS": true
   },
@@ -6726,8 +5980,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUBLI-DHARWAD",
-    "MICR CODE": "580483524",
-    "STD CODE": "836",
     "NEFT": true,
     "IMPS": true
   },
@@ -6744,8 +5996,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUBLI-DHARWAD",
-    "MICR CODE": "580483021",
-    "STD CODE": "836",
     "NEFT": true,
     "IMPS": true
   },
@@ -6762,8 +6012,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "WARUR",
-    "MICR CODE": "580483011",
-    "STD CODE": "836",
     "NEFT": true,
     "IMPS": true
   },
@@ -6780,8 +6028,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Hubli ",
-    "MICR CODE": "580483012",
-    "STD CODE": "836",
     "NEFT": true,
     "IMPS": true
   },
@@ -6798,8 +6044,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUBLI-DHARWAD",
-    "MICR CODE": "580483011",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6816,8 +6060,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUBLI-DHARWAD",
-    "MICR CODE": "580483542",
-    "STD CODE": "836",
     "NEFT": true,
     "IMPS": true
   },
@@ -6834,8 +6076,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUBLI-DHARWAD",
-    "MICR CODE": "580483011",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6852,8 +6092,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUBLI-DHARWAD",
-    "MICR CODE": "580483542",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6870,8 +6108,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUBLI-DHARWAD",
-    "MICR CODE": "580483545",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6888,8 +6124,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUBLI-DHARWAD",
-    "MICR CODE": "NA",
-    "STD CODE": "836",
     "NEFT": true,
     "IMPS": true
   },
@@ -6906,8 +6140,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BOMMIGATTI",
-    "MICR CODE": "580483533",
-    "STD CODE": "8370",
     "NEFT": true,
     "IMPS": true
   },
@@ -6924,8 +6156,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GHALGI HULKOPPA",
-    "MICR CODE": "580483534",
-    "STD CODE": "8370",
     "NEFT": true,
     "IMPS": true
   },
@@ -6942,8 +6172,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HIREHONNIHALLI",
-    "MICR CODE": "580483535",
-    "STD CODE": "8370",
     "NEFT": true,
     "IMPS": true
   },
@@ -6960,8 +6188,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KALGHATGI",
-    "MICR CODE": "580483536",
-    "STD CODE": "8370",
     "NEFT": true,
     "IMPS": true
   },
@@ -6978,8 +6204,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MISHRIKOTI",
-    "MICR CODE": "580483537",
-    "STD CODE": "8370",
     "NEFT": true,
     "IMPS": true
   },
@@ -6996,8 +6220,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUTTIAGI",
-    "MICR CODE": "580483525",
-    "STD CODE": "836",
     "NEFT": true,
     "IMPS": true
   },
@@ -7014,8 +6236,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TABAKADAHONNIHALLI",
-    "MICR CODE": "580483526",
-    "STD CODE": "8370",
     "NEFT": true,
     "IMPS": true
   },
@@ -7031,29 +6251,25 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KALGHATGI",
-    "MICR CODE": "580483547",
-    "STD CODE": "0",
+    "MICR": "580483547",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0004209": {
     "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
     "IFSC": "KVGB0004209",
-    "MICR CODE": "WAITING",
     "BRANCH": "TAVARGERI",
     "ADDRESS": "KARNATAKA VIKAS GRAMEEN BANK, GRAM PANCHYAT BLDG, TAWARAGERI TQ KALAGHATAGI DT DHARWAD, KARNATAKA",
-    "STD CODE": "91",
     "CONTACT": "7022599713",
     "CITY": "DHARWAD",
     "DISTRICT": "KALGHATGI",
     "STATE": "KARNATAKA",
+    "MICR": "WAITING",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0004301": {
     "IFSC": "KVGB0004301",
@@ -7068,8 +6284,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "INGALAGI",
-    "MICR CODE": "580483527",
-    "STD CODE": "8304",
     "NEFT": true,
     "IMPS": true
   },
@@ -7086,8 +6300,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KALASA",
-    "MICR CODE": "580483528",
-    "STD CODE": "8304",
     "NEFT": true,
     "IMPS": true
   },
@@ -7104,8 +6316,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KAMADOLLI",
-    "MICR CODE": "580483530",
-    "STD CODE": "8304",
     "NEFT": true,
     "IMPS": true
   },
@@ -7122,8 +6332,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KUNDGOL",
-    "MICR CODE": "580483529",
-    "STD CODE": "8304",
     "NEFT": true,
     "IMPS": true
   },
@@ -7140,8 +6348,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "YERAGUPPI",
-    "MICR CODE": "580483512",
-    "STD CODE": "8304",
     "NEFT": true,
     "IMPS": true
   },
@@ -7158,8 +6364,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "YAREBUDIHAL",
-    "MICR CODE": "580483513",
-    "STD CODE": "8304",
     "NEFT": true,
     "IMPS": true
   },
@@ -7175,29 +6379,25 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUBLI",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0004308": {
     "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
     "IFSC": "KVGB0004308",
-    "MICR CODE": "WAITING",
     "BRANCH": "HIREHARAKUNI",
     "ADDRESS": "KARNATAKA VIKAS GRAMEEN BANK, GRAM PANCHYAT BUILDING, HIREHARAKUNI, TQ KUNDGOL, DT DHARWAD, KARNATAKA",
-    "STD CODE": "91",
     "CONTACT": "7022599732",
     "CITY": "DHARWAD",
     "DISTRICT": "KUNDGOL",
     "STATE": "KARNATAKA",
+    "MICR": "WAITING",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0004309": {
     "IFSC": "KVGB0004309",
@@ -7211,11 +6411,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GUDAGERI",
-    "MICR CODE": "WAITING",
-    "STD CODE": "8304",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0004401": {
     "IFSC": "KVGB0004401",
@@ -7230,8 +6428,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ALAGAWADI",
-    "MICR CODE": "580483514",
-    "STD CODE": "8380",
     "NEFT": true,
     "IMPS": true
   },
@@ -7248,8 +6444,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AREKURAHATT",
-    "MICR CODE": "580483515",
-    "STD CODE": "8380",
     "NEFT": true,
     "IMPS": true
   },
@@ -7266,8 +6460,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HALLIKERI",
-    "MICR CODE": "580483516",
-    "STD CODE": "8384",
     "NEFT": true,
     "IMPS": true
   },
@@ -7284,8 +6476,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NALAWADI",
-    "MICR CODE": "580483517",
-    "STD CODE": "8380",
     "NEFT": true,
     "IMPS": true
   },
@@ -7302,8 +6492,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAVALGUND",
-    "MICR CODE": "580483518",
-    "STD CODE": "8380",
     "NEFT": true,
     "IMPS": true
   },
@@ -7319,11 +6507,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SHELAVADI",
-    "MICR CODE": "580483519",
-    "STD CODE": "8380",
+    "MICR": "580483519",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0004407": {
     "IFSC": "KVGB0004407",
@@ -7338,8 +6524,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SHIRKOL",
-    "MICR CODE": "580483518",
-    "STD CODE": "8380",
     "NEFT": true,
     "IMPS": true
   },
@@ -7356,8 +6540,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRLAPUR",
-    "MICR CODE": "575483004",
-    "STD CODE": "8380",
     "NEFT": true,
     "IMPS": true
   },
@@ -7373,11 +6555,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MORAB",
-    "MICR CODE": "575483504",
-    "STD CODE": "0",
+    "MICR": "575483504",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0004411": {
     "IFSC": "KVGB0004411",
@@ -7391,11 +6571,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ANNIGERI",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0005000": {
     "IFSC": "KVGB0005000",
@@ -7409,11 +6587,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MANGALORE",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0005001": {
     "IFSC": "KVGB0005001",
@@ -7428,8 +6604,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "B.C.ROAD",
-    "MICR CODE": "575483009",
-    "STD CODE": "8225",
     "NEFT": true,
     "IMPS": true
   },
@@ -7446,8 +6620,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KALLADKA",
-    "MICR CODE": "575483501",
-    "STD CODE": "8255",
     "NEFT": true,
     "IMPS": true
   },
@@ -7464,8 +6636,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VITTAL",
-    "MICR CODE": "575483502",
-    "STD CODE": "8255",
     "NEFT": true,
     "IMPS": true
   },
@@ -7481,29 +6651,25 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "FARANGIPET",
-    "MICR CODE": "NA",
-    "STD CODE": "824",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0005005": {
     "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
     "IFSC": "KVGB0005005",
-    "MICR CODE": "WAITING",
     "BRANCH": "SIDDAKATTE",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK SWAGATH COMPLEX SIDDAKATTE BANTWALA DK 574237",
-    "STD CODE": "8255",
     "CONTACT": "9108699760",
     "CITY": "DAKSHIN KANNADA",
     "DISTRICT": "SIDDAKATTE",
     "STATE": "KARNATAKA",
+    "MICR": "WAITING",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0005101": {
     "IFSC": "KVGB0005101",
@@ -7517,11 +6683,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "REKHYA",
-    "MICR CODE": "575483503",
-    "STD CODE": "8251",
+    "MICR": "575483503",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0005102": {
     "IFSC": "KVGB0005102",
@@ -7536,8 +6700,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "UJRE",
-    "MICR CODE": "575483005",
-    "STD CODE": "8256",
     "NEFT": true,
     "IMPS": true
   },
@@ -7554,8 +6716,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VENOOR",
-    "MICR CODE": "575483002",
-    "STD CODE": "8256",
     "NEFT": true,
     "IMPS": true
   },
@@ -7572,8 +6732,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ALADANGADY",
-    "MICR CODE": "575483510",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7590,8 +6748,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KAIKAMBA",
-    "MICR CODE": "575483006",
-    "STD CODE": "824",
     "NEFT": true,
     "IMPS": true
   },
@@ -7608,8 +6764,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MANGALORE",
-    "MICR CODE": "575483002",
-    "STD CODE": "824",
     "NEFT": true,
     "IMPS": true
   },
@@ -7626,8 +6780,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MOODABIDRI",
-    "MICR CODE": "575483003",
-    "STD CODE": "8258",
     "NEFT": true,
     "IMPS": true
   },
@@ -7643,11 +6795,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MANGALORE",
-    "MICR CODE": "575483014",
-    "STD CODE": "824",
+    "MICR": "575483014",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0005205": {
     "IFSC": "KVGB0005205",
@@ -7662,8 +6812,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MANGALORE",
-    "MICR CODE": "575483011",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7680,8 +6828,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TALPADY",
-    "MICR CODE": "575483012",
-    "STD CODE": "8242",
     "NEFT": true,
     "IMPS": true
   },
@@ -7698,8 +6844,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KATEEL",
-    "MICR CODE": "575483013",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7716,8 +6860,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MANGALORE",
-    "MICR CODE": "575483007",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7734,8 +6876,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MANGALORE",
-    "MICR CODE": "575483010",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7752,8 +6892,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BELWAI",
-    "MICR CODE": "575483508",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7769,11 +6907,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MANGALORE",
-    "MICR CODE": "575483015",
-    "STD CODE": "0",
+    "MICR": "575483015",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0005401": {
     "IFSC": "KVGB0005401",
@@ -7788,8 +6924,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUTTUR",
-    "MICR CODE": "574483501",
-    "STD CODE": "8251",
     "NEFT": true,
     "IMPS": true
   },
@@ -7806,8 +6940,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "UPPINANGADY",
-    "MICR CODE": "574483302",
-    "STD CODE": "8251",
     "NEFT": true,
     "IMPS": true
   },
@@ -7824,8 +6956,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KABAKA",
-    "MICR CODE": "575483509",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7841,11 +6971,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KANIYUR",
-    "MICR CODE": "NA",
-    "STD CODE": "824",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0005501": {
     "IFSC": "KVGB0005501",
@@ -7860,8 +6988,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BELLARE",
-    "MICR CODE": "574483502",
-    "STD CODE": "8257",
     "NEFT": true,
     "IMPS": true
   },
@@ -7878,8 +7004,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SULLIA",
-    "MICR CODE": "582483501",
-    "STD CODE": "8257",
     "NEFT": true,
     "IMPS": true
   },
@@ -7896,8 +7020,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SUBRAMANYA",
-    "MICR CODE": "582483003",
-    "STD CODE": "8257",
     "NEFT": true,
     "IMPS": true
   },
@@ -7913,11 +7035,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GADAG",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0006001": {
     "IFSC": "KVGB0006001",
@@ -7932,8 +7052,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BALAGANUR",
-    "MICR CODE": "582483002",
-    "STD CODE": "8372",
     "NEFT": true,
     "IMPS": true
   },
@@ -7950,8 +7068,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GADAG-BETIGERI",
-    "MICR CODE": "582483502",
-    "STD CODE": "8372",
     "NEFT": true,
     "IMPS": true
   },
@@ -7968,8 +7084,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GADAG",
-    "MICR CODE": "582483503",
-    "STD CODE": "8372",
     "NEFT": true,
     "IMPS": true
   },
@@ -7986,8 +7100,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HARTI",
-    "MICR CODE": "582483504",
-    "STD CODE": "8372",
     "NEFT": true,
     "IMPS": true
   },
@@ -8004,8 +7116,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HOMBAL",
-    "MICR CODE": "582483004",
-    "STD CODE": "8372",
     "NEFT": true,
     "IMPS": true
   },
@@ -8022,8 +7132,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KURTAKOTI",
-    "MICR CODE": "582483505",
-    "STD CODE": "8372",
     "NEFT": true,
     "IMPS": true
   },
@@ -8040,8 +7148,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GADAG",
-    "MICR CODE": "582483506",
-    "STD CODE": "8372",
     "NEFT": true,
     "IMPS": true
   },
@@ -8058,8 +7164,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGAVI",
-    "MICR CODE": "582483507",
-    "STD CODE": "8372",
     "NEFT": true,
     "IMPS": true
   },
@@ -8076,8 +7180,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SORTUR",
-    "MICR CODE": "582483508",
-    "STD CODE": "8372",
     "NEFT": true,
     "IMPS": true
   },
@@ -8094,8 +7196,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MULGUND",
-    "MICR CODE": "582483509",
-    "STD CODE": "8372",
     "NEFT": true,
     "IMPS": true
   },
@@ -8112,8 +7212,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GADAG",
-    "MICR CODE": "582483510",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8130,46 +7228,40 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GADAG",
-    "MICR CODE": "582483548",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "KVGB0006013": {
     "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
     "IFSC": "KVGB0006013",
-    "MICR CODE": "WAITING",
     "BRANCH": "LAKKUNDI",
     "ADDRESS": "KARNATAKA VIKAS GRAMEEN BANK, GRAM PANCHYAT BUILDING, LAKKUNDI, DT GADAG, KARNATAKA",
-    "STD CODE": "91",
     "CONTACT": "7022599733",
     "CITY": "GADAG",
     "DISTRICT": "LAKKUNDI",
     "STATE": "KARNATAKA",
+    "MICR": "WAITING",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0006014": {
     "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
     "IFSC": "KVGB0006014",
-    "MICR CODE": "WAITING",
     "BRANCH": "HULKOTI",
     "ADDRESS": "KARNATAKA VIKAS GRAMEEN BANK, PATIL BUILDING, HARTI ROAD, HULKOTI, TQ AND DT GADAG 582205, KARNATAKA",
-    "STD CODE": "91",
     "CONTACT": "7022599734",
     "CITY": "GADAG",
     "DISTRICT": "HULKOTI",
     "STATE": "KARNATAKA",
+    "MICR": "WAITING",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0006015": {
     "IFSC": "KVGB0006015",
@@ -8183,11 +7275,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GADAG",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0006016": {
     "IFSC": "KVGB0006016",
@@ -8201,11 +7291,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GADAG",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0006017": {
     "IFSC": "KVGB0006017",
@@ -8219,11 +7307,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GADAG",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0006101": {
     "IFSC": "KVGB0006101",
@@ -8238,8 +7324,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BAGEWADI",
-    "MICR CODE": "582483511",
-    "STD CODE": "8371",
     "NEFT": true,
     "IMPS": true
   },
@@ -8256,8 +7340,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DAMBAL",
-    "MICR CODE": "582483512",
-    "STD CODE": "8371",
     "NEFT": true,
     "IMPS": true
   },
@@ -8274,8 +7356,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HALLIGULI",
-    "MICR CODE": "582483513",
-    "STD CODE": "8371",
     "NEFT": true,
     "IMPS": true
   },
@@ -8292,8 +7372,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HAMMIGI",
-    "MICR CODE": "582483514",
-    "STD CODE": "8371",
     "NEFT": true,
     "IMPS": true
   },
@@ -8310,8 +7388,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KALKERI",
-    "MICR CODE": "582483515",
-    "STD CODE": "8371",
     "NEFT": true,
     "IMPS": true
   },
@@ -8328,8 +7404,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KORLHALLI",
-    "MICR CODE": "582483516",
-    "STD CODE": "8371",
     "NEFT": true,
     "IMPS": true
   },
@@ -8346,8 +7420,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MEUNDI",
-    "MICR CODE": "582483515",
-    "STD CODE": "8371",
     "NEFT": true,
     "IMPS": true
   },
@@ -8364,8 +7436,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUNDARGI",
-    "MICR CODE": "582483516",
-    "STD CODE": "8371",
     "NEFT": true,
     "IMPS": true
   },
@@ -8382,8 +7452,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DAMBAL",
-    "MICR CODE": "582483541",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8400,8 +7468,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HALLIGULI",
-    "MICR CODE": "582483543",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8417,11 +7483,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUNDAWAD",
-    "MICR CODE": "WAITING",
-    "STD CODE": "8399",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0006201": {
     "IFSC": "KVGB0006201",
@@ -8436,8 +7500,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHIKKANARGUND",
-    "MICR CODE": "582483519",
-    "STD CODE": "8377",
     "NEFT": true,
     "IMPS": true
   },
@@ -8454,8 +7516,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HADLI",
-    "MICR CODE": "582483520",
-    "STD CODE": "8377",
     "NEFT": true,
     "IMPS": true
   },
@@ -8472,8 +7532,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NARGUND",
-    "MICR CODE": "582483521",
-    "STD CODE": "8377",
     "NEFT": true,
     "IMPS": true
   },
@@ -8490,8 +7548,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KONNUR",
-    "MICR CODE": "582483522",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8507,11 +7563,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SHIROL",
-    "MICR CODE": "582483548",
-    "STD CODE": "0",
+    "MICR": "582483548",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0006301": {
     "IFSC": "KVGB0006301",
@@ -8526,8 +7580,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ABBIGERI",
-    "MICR CODE": "582483523",
-    "STD CODE": "8381",
     "NEFT": true,
     "IMPS": true
   },
@@ -8544,8 +7596,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GAJENDRAGAD",
-    "MICR CODE": "582483524",
-    "STD CODE": "8381",
     "NEFT": true,
     "IMPS": true
   },
@@ -8562,8 +7612,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HIREHAL",
-    "MICR CODE": "582483525",
-    "STD CODE": "8381",
     "NEFT": true,
     "IMPS": true
   },
@@ -8580,8 +7628,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MENASIGI",
-    "MICR CODE": "582483526",
-    "STD CODE": "8377",
     "NEFT": true,
     "IMPS": true
   },
@@ -8598,8 +7644,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUSHIGERI",
-    "MICR CODE": "582483527",
-    "STD CODE": "8381",
     "NEFT": true,
     "IMPS": true
   },
@@ -8616,8 +7660,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAREGAL",
-    "MICR CODE": "582483528",
-    "STD CODE": "8381",
     "NEFT": true,
     "IMPS": true
   },
@@ -8634,8 +7676,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NIDAGUNDI",
-    "MICR CODE": "582483529",
-    "STD CODE": "8381",
     "NEFT": true,
     "IMPS": true
   },
@@ -8652,8 +7692,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RON",
-    "MICR CODE": "582483530",
-    "STD CODE": "8381",
     "NEFT": true,
     "IMPS": true
   },
@@ -8670,8 +7708,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SAWADI",
-    "MICR CODE": "582483531",
-    "STD CODE": "8381",
     "NEFT": true,
     "IMPS": true
   },
@@ -8688,8 +7724,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SUDI",
-    "MICR CODE": "582483538",
-    "STD CODE": "8381",
     "NEFT": true,
     "IMPS": true
   },
@@ -8706,8 +7740,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HOLE ALUR",
-    "MICR CODE": "582483539",
-    "STD CODE": "8381",
     "NEFT": true,
     "IMPS": true
   },
@@ -8724,8 +7756,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NARGUND",
-    "MICR CODE": "582483538",
-    "STD CODE": "8377",
     "NEFT": true,
     "IMPS": true
   },
@@ -8742,8 +7772,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HOLE ALUR",
-    "MICR CODE": "582483539",
-    "STD CODE": "8381",
     "NEFT": true,
     "IMPS": true
   },
@@ -8760,8 +7788,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SUDI",
-    "MICR CODE": "582483544",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8777,11 +7803,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RON",
-    "MICR CODE": "NA",
-    "STD CODE": "8372",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0006316": {
     "IFSC": "KVGB0006316",
@@ -8795,11 +7819,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RON",
-    "MICR CODE": "NA",
-    "STD CODE": "8372",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0006317": {
     "IFSC": "KVGB0006317",
@@ -8813,11 +7835,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RON",
-    "MICR CODE": "WAITING",
-    "STD CODE": "91836",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0006401": {
     "IFSC": "KVGB0006401",
@@ -8832,8 +7852,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HOLE-ITAGI",
-    "MICR CODE": "582483534",
-    "STD CODE": "8487",
     "NEFT": true,
     "IMPS": true
   },
@@ -8850,8 +7868,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "LAKSHMESHWAR",
-    "MICR CODE": "582483535",
-    "STD CODE": "8487",
     "NEFT": true,
     "IMPS": true
   },
@@ -8868,8 +7884,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SHIRAHATTI",
-    "MICR CODE": "582483536",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8886,8 +7900,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SURANGGI",
-    "MICR CODE": "582483537",
-    "STD CODE": "8487",
     "NEFT": true,
     "IMPS": true
   },
@@ -8904,8 +7916,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "YALAVATTI",
-    "MICR CODE": "582483540",
-    "STD CODE": "8487",
     "NEFT": true,
     "IMPS": true
   },
@@ -8922,8 +7932,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BELLATTI",
-    "MICR CODE": "582483537",
-    "STD CODE": "8487",
     "NEFT": true,
     "IMPS": true
   },
@@ -8940,8 +7948,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HOLE-ITAGI",
-    "MICR CODE": "582483540",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8958,8 +7964,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SURANGGI",
-    "MICR CODE": "582483542",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8975,11 +7979,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SHIGLI",
-    "MICR CODE": "581483542",
-    "STD CODE": "0",
+    "MICR": "581483542",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0006410": {
     "IFSC": "KVGB0006410",
@@ -8994,8 +7996,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SHIRAHATTI",
-    "MICR CODE": "582483546",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9011,11 +8011,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HAVERI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0007001": {
     "IFSC": "KVGB0007001",
@@ -9030,8 +8028,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BYADGI",
-    "MICR CODE": "581483565",
-    "STD CODE": "8375",
     "NEFT": true,
     "IMPS": true
   },
@@ -9048,8 +8044,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHIKKABASUR",
-    "MICR CODE": "581483557",
-    "STD CODE": "8375",
     "NEFT": true,
     "IMPS": true
   },
@@ -9066,8 +8060,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KADARMANDALGI",
-    "MICR CODE": "581483567",
-    "STD CODE": "8375",
     "NEFT": true,
     "IMPS": true
   },
@@ -9084,8 +8076,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KAGINELLI",
-    "MICR CODE": "581483540",
-    "STD CODE": "8375",
     "NEFT": true,
     "IMPS": true
   },
@@ -9102,8 +8092,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MOTEBENNUR",
-    "MICR CODE": "581483541",
-    "STD CODE": "8375",
     "NEFT": true,
     "IMPS": true
   },
@@ -9119,11 +8107,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BYADGI",
-    "MICR CODE": "NA",
-    "STD CODE": "8375",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0007101": {
     "IFSC": "KVGB0007101",
@@ -9138,8 +8124,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ADUR",
-    "MICR CODE": "581483564",
-    "STD CODE": "8379",
     "NEFT": true,
     "IMPS": true
   },
@@ -9156,8 +8140,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AKKIALUR",
-    "MICR CODE": "581483543",
-    "STD CODE": "8379",
     "NEFT": true,
     "IMPS": true
   },
@@ -9174,8 +8156,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHIKKABASUR",
-    "MICR CODE": "581483566",
-    "STD CODE": "8379",
     "NEFT": true,
     "IMPS": true
   },
@@ -9192,8 +8172,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HANGAL",
-    "MICR CODE": "581483545",
-    "STD CODE": "8379",
     "NEFT": true,
     "IMPS": true
   },
@@ -9210,8 +8188,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KUSNUR",
-    "MICR CODE": "581483546",
-    "STD CODE": "8379",
     "NEFT": true,
     "IMPS": true
   },
@@ -9228,8 +8204,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAREGAL",
-    "MICR CODE": "581483554",
-    "STD CODE": "8379",
     "NEFT": true,
     "IMPS": true
   },
@@ -9246,8 +8220,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SHESHAGIRI",
-    "MICR CODE": "581483546",
-    "STD CODE": "8379",
     "NEFT": true,
     "IMPS": true
   },
@@ -9264,8 +8236,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TILAVALLI",
-    "MICR CODE": "581483592",
-    "STD CODE": "8379",
     "NEFT": true,
     "IMPS": true
   },
@@ -9281,11 +8251,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BOMMANAHALLI",
-    "MICR CODE": "581483521",
-    "STD CODE": "0",
+    "MICR": "581483521",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0007110": {
     "IFSC": "KVGB0007110",
@@ -9300,8 +8268,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HANGAL",
-    "MICR CODE": "581483602",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9317,11 +8283,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HANGAL",
-    "MICR CODE": "NA",
-    "STD CODE": "8375",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0007112": {
     "IFSC": "KVGB0007112",
@@ -9335,11 +8299,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HANGAL",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0007113": {
     "IFSC": "KVGB0007113",
@@ -9353,11 +8315,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HERUR",
-    "MICR CODE": "WAITING",
-    "STD CODE": "8378",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0007201": {
     "IFSC": "KVGB0007201",
@@ -9372,8 +8332,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AGADI",
-    "MICR CODE": "581483526",
-    "STD CODE": "8375",
     "NEFT": true,
     "IMPS": true
   },
@@ -9390,8 +8348,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BELAVIGI",
-    "MICR CODE": "581483527",
-    "STD CODE": "8375",
     "NEFT": true,
     "IMPS": true
   },
@@ -9408,8 +8364,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DEVGIRI",
-    "MICR CODE": "581483528",
-    "STD CODE": "8375",
     "NEFT": true,
     "IMPS": true
   },
@@ -9426,8 +8380,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DEVI.HOSUR",
-    "MICR CODE": "581483052",
-    "STD CODE": "8375",
     "NEFT": true,
     "IMPS": true
   },
@@ -9444,8 +8396,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HAVANUR",
-    "MICR CODE": "581483529",
-    "STD CODE": "8375",
     "NEFT": true,
     "IMPS": true
   },
@@ -9462,8 +8412,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HAVERI",
-    "MICR CODE": "581483523",
-    "STD CODE": "8375",
     "NEFT": true,
     "IMPS": true
   },
@@ -9480,8 +8428,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HOSARITTI",
-    "MICR CODE": "581483524",
-    "STD CODE": "8375",
     "NEFT": true,
     "IMPS": true
   },
@@ -9498,8 +8444,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HAVERI",
-    "MICR CODE": "581483523",
-    "STD CODE": "8375",
     "NEFT": true,
     "IMPS": true
   },
@@ -9516,8 +8460,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SANGUR",
-    "MICR CODE": "581483530",
-    "STD CODE": "8375",
     "NEFT": true,
     "IMPS": true
   },
@@ -9534,8 +8476,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HAVERI",
-    "MICR CODE": "581483053",
-    "STD CODE": "8375",
     "NEFT": true,
     "IMPS": true
   },
@@ -9552,8 +8492,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GUTTAL",
-    "MICR CODE": "581483590",
-    "STD CODE": "8375",
     "NEFT": true,
     "IMPS": true
   },
@@ -9569,11 +8507,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HAVERI",
-    "MICR CODE": "NA",
-    "STD CODE": "8375",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0007213": {
     "IFSC": "KVGB0007213",
@@ -9588,8 +8524,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HAVERI",
-    "MICR CODE": "581483590",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9606,8 +8540,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HAVERI",
-    "MICR CODE": "581483601",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9624,8 +8556,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HAVERI",
-    "MICR CODE": "581483600",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9641,11 +8571,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HAVERI",
-    "MICR CODE": "WAITING",
-    "STD CODE": "91836",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0007218": {
     "IFSC": "KVGB0007218",
@@ -9659,11 +8587,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HAVERI",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0007301": {
     "IFSC": "KVGB0007301",
@@ -9678,8 +8604,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HAUNSBHAVI",
-    "MICR CODE": "581483550",
-    "STD CODE": "8376",
     "NEFT": true,
     "IMPS": true
   },
@@ -9696,8 +8620,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HIREKERUR",
-    "MICR CODE": "581483538",
-    "STD CODE": "8376",
     "NEFT": true,
     "IMPS": true
   },
@@ -9714,8 +8636,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HIREKERUR",
-    "MICR CODE": "581483550",
-    "STD CODE": "8376",
     "NEFT": true,
     "IMPS": true
   },
@@ -9732,8 +8652,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KUDAPALI",
-    "MICR CODE": "581483553",
-    "STD CODE": "8376",
     "NEFT": true,
     "IMPS": true
   },
@@ -9750,8 +8668,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RATTIHALLI",
-    "MICR CODE": "581483554",
-    "STD CODE": "8376",
     "NEFT": true,
     "IMPS": true
   },
@@ -9768,8 +8684,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TADAKANAHALLI",
-    "MICR CODE": "581483589",
-    "STD CODE": "8376",
     "NEFT": true,
     "IMPS": true
   },
@@ -9785,11 +8699,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "YATTINAHALLI",
-    "MICR CODE": "581483554",
-    "STD CODE": "8376",
+    "MICR": "581483554",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0007308": {
     "IFSC": "KVGB0007308",
@@ -9804,8 +8716,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HIREKERUR",
-    "MICR CODE": "581483589",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9821,11 +8731,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHIKKERUR",
-    "MICR CODE": "581483560",
-    "STD CODE": "0",
+    "MICR": "581483560",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0007310": {
     "IFSC": "KVGB0007310",
@@ -9839,29 +8747,25 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HIREKERUR",
-    "MICR CODE": "581483606",
-    "STD CODE": "0",
+    "MICR": "581483606",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0007311": {
     "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
     "IFSC": "KVGB0007311",
-    "MICR CODE": "WAITING",
     "BRANCH": "NESHWI",
     "ADDRESS": "KARNATAKA VIKAS GRAMEEN BANK, PATIL BUILDING, NESHWI, TQ HIREKERUR, DT HAVERI, KARNATAKA",
-    "STD CODE": "91",
     "CONTACT": "7022599712",
     "CITY": "HAVERI",
     "DISTRICT": "HIREKERUR",
     "STATE": "KARNATAKA",
+    "MICR": "WAITING",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0007312": {
     "IFSC": "KVGB0007312",
@@ -9875,11 +8779,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HIREKERUR",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0007401": {
     "IFSC": "KVGB0007401",
@@ -9894,8 +8796,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AREMALLAPUR",
-    "MICR CODE": "581483561",
-    "STD CODE": "8373",
     "NEFT": true,
     "IMPS": true
   },
@@ -9912,8 +8812,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHALAGERI",
-    "MICR CODE": "581483562",
-    "STD CODE": "8373",
     "NEFT": true,
     "IMPS": true
   },
@@ -9930,8 +8828,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HALGERI",
-    "MICR CODE": "581483563",
-    "STD CODE": "8373",
     "NEFT": true,
     "IMPS": true
   },
@@ -9948,8 +8844,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HARANAGIRI",
-    "MICR CODE": "581483555",
-    "STD CODE": "8373",
     "NEFT": true,
     "IMPS": true
   },
@@ -9966,8 +8860,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HONNATTI",
-    "MICR CODE": "581483551",
-    "STD CODE": "8373",
     "NEFT": true,
     "IMPS": true
   },
@@ -9984,8 +8876,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KAKOL",
-    "MICR CODE": "581483556",
-    "STD CODE": "8373",
     "NEFT": true,
     "IMPS": true
   },
@@ -10002,8 +8892,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KUMARAPATNAM",
-    "MICR CODE": "581483544",
-    "STD CODE": "8373",
     "NEFT": true,
     "IMPS": true
   },
@@ -10020,8 +8908,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KUPPELUR",
-    "MICR CODE": "581483102",
-    "STD CODE": "8373",
     "NEFT": true,
     "IMPS": true
   },
@@ -10038,8 +8924,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MEDLERI",
-    "MICR CODE": "581483547",
-    "STD CODE": "8373",
     "NEFT": true,
     "IMPS": true
   },
@@ -10056,8 +8940,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RANEBENNUR",
-    "MICR CODE": "581483103",
-    "STD CODE": "8373",
     "NEFT": true,
     "IMPS": true
   },
@@ -10074,8 +8956,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SUNKALBIDRI",
-    "MICR CODE": "581483547",
-    "STD CODE": "8373",
     "NEFT": true,
     "IMPS": true
   },
@@ -10092,8 +8972,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RANEBENNUR",
-    "MICR CODE": "581483531",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10110,8 +8988,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RANEBENNUR",
-    "MICR CODE": "581483596",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10127,11 +9003,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RANEBENNUR",
-    "MICR CODE": "NA",
-    "STD CODE": "8373",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0007415": {
     "IFSC": "KVGB0007415",
@@ -10145,11 +9019,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RANEBENNUR",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0007501": {
     "IFSC": "KVGB0007501",
@@ -10164,8 +9036,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HATTIMATTUR",
-    "MICR CODE": "581483525",
-    "STD CODE": "8378",
     "NEFT": true,
     "IMPS": true
   },
@@ -10182,8 +9052,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SAVANUR",
-    "MICR CODE": "581483534",
-    "STD CODE": "8378",
     "NEFT": true,
     "IMPS": true
   },
@@ -10200,8 +9068,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TAVARMELLIHALLI",
-    "MICR CODE": "581483588",
-    "STD CODE": "8378",
     "NEFT": true,
     "IMPS": true
   },
@@ -10218,8 +9084,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "YELAVIGI",
-    "MICR CODE": "581483534",
-    "STD CODE": "8378",
     "NEFT": true,
     "IMPS": true
   },
@@ -10236,8 +9100,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SAVANUR",
-    "MICR CODE": "581483588",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10254,8 +9116,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SAVANUR",
-    "MICR CODE": "581483593",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10272,8 +9132,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SAVANUR",
-    "MICR CODE": "581483594",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10289,11 +9147,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SAVANUR",
-    "MICR CODE": "NA",
-    "STD CODE": "8375",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0007509": {
     "IFSC": "KVGB0007509",
@@ -10307,11 +9163,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SAVANUR",
-    "MICR CODE": "WAITING",
-    "STD CODE": "91836",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0007601": {
     "IFSC": "KVGB0007601",
@@ -10326,8 +9180,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANKAPUR",
-    "MICR CODE": "581483537",
-    "STD CODE": "8378",
     "NEFT": true,
     "IMPS": true
   },
@@ -10344,8 +9196,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DHUNDSHI",
-    "MICR CODE": "581483550",
-    "STD CODE": "8378",
     "NEFT": true,
     "IMPS": true
   },
@@ -10362,8 +9212,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HIREBENDIGERI",
-    "MICR CODE": "581483539",
-    "STD CODE": "8378",
     "NEFT": true,
     "IMPS": true
   },
@@ -10380,8 +9228,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KONANKERI",
-    "MICR CODE": "581483533",
-    "STD CODE": "8379",
     "NEFT": true,
     "IMPS": true
   },
@@ -10398,8 +9244,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SHIGGAON",
-    "MICR CODE": "581483539",
-    "STD CODE": "8378",
     "NEFT": true,
     "IMPS": true
   },
@@ -10416,8 +9260,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TADAS",
-    "MICR CODE": "576483504",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10434,8 +9276,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SHIGGAON",
-    "MICR CODE": "581483595",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10452,8 +9292,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HULGUR",
-    "MICR CODE": "581483605",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10470,8 +9308,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BELMAN",
-    "MICR CODE": "575483506",
-    "STD CODE": "8258",
     "NEFT": true,
     "IMPS": true
   },
@@ -10488,8 +9324,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HEBRI",
-    "MICR CODE": "575483008",
-    "STD CODE": "8253",
     "NEFT": true,
     "IMPS": true
   },
@@ -10505,11 +9339,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "IDU",
-    "MICR CODE": "575483507",
-    "STD CODE": "8258",
+    "MICR": "575483507",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0008004": {
     "IFSC": "KVGB0008004",
@@ -10524,8 +9356,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KARKALA",
-    "MICR CODE": "576483501",
-    "STD CODE": "8258",
     "NEFT": true,
     "IMPS": true
   },
@@ -10542,8 +9372,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KARKALA",
-    "MICR CODE": "575483507",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10560,8 +9388,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BYNDOOR",
-    "MICR CODE": "576483503",
-    "STD CODE": "8254",
     "NEFT": true,
     "IMPS": true
   },
@@ -10578,8 +9404,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HALLIHOLE",
-    "MICR CODE": "576483202",
-    "STD CODE": "8259",
     "NEFT": true,
     "IMPS": true
   },
@@ -10596,8 +9420,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HEMMADI",
-    "MICR CODE": "576483508",
-    "STD CODE": "8254",
     "NEFT": true,
     "IMPS": true
   },
@@ -10614,8 +9436,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "COONDAPUR",
-    "MICR CODE": "576483202",
-    "STD CODE": "8254",
     "NEFT": true,
     "IMPS": true
   },
@@ -10632,8 +9452,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SIDDAPUR",
-    "MICR CODE": "576483508",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10650,8 +9468,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KAMBADAKONE",
-    "MICR CODE": "576483509",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10668,8 +9484,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "COONDAPUR",
-    "MICR CODE": "576483510",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10685,11 +9499,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HANDADI",
-    "MICR CODE": "576483511",
-    "STD CODE": "0",
+    "MICR": "576483511",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0008109": {
     "IFSC": "KVGB0008109",
@@ -10703,11 +9515,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BYNDOOR",
-    "MICR CODE": "NA",
-    "STD CODE": "820",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0008110": {
     "IFSC": "KVGB0008110",
@@ -10721,11 +9531,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KUNDAPUR",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0008201": {
     "IFSC": "KVGB0008201",
@@ -10740,8 +9548,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BRAHMAVARA",
-    "MICR CODE": "576483506",
-    "STD CODE": "820",
     "NEFT": true,
     "IMPS": true
   },
@@ -10758,8 +9564,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "UDUPI",
-    "MICR CODE": "576483507",
-    "STD CODE": "820",
     "NEFT": true,
     "IMPS": true
   },
@@ -10776,8 +9580,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOKKARNE",
-    "MICR CODE": "576483003",
-    "STD CODE": "820",
     "NEFT": true,
     "IMPS": true
   },
@@ -10793,11 +9595,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NADSAL",
-    "MICR CODE": "581483568",
-    "STD CODE": "820",
+    "MICR": "581483568",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0008205": {
     "IFSC": "KVGB0008205",
@@ -10811,11 +9611,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "UDUPI",
-    "MICR CODE": "581483302",
-    "STD CODE": "820",
+    "MICR": "581483302",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0008206": {
     "IFSC": "KVGB0008206",
@@ -10829,11 +9627,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AMBAGILU",
-    "MICR CODE": "576483005",
-    "STD CODE": "0",
+    "MICR": "576483005",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0008207": {
     "IFSC": "KVGB0008207",
@@ -10847,11 +9643,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SAIBARAKATTE",
-    "MICR CODE": "NA",
-    "STD CODE": "820",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0008208": {
     "IFSC": "KVGB0008208",
@@ -10865,11 +9659,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HIRIADKA",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0009000": {
     "IFSC": "KVGB0009000",
@@ -10883,11 +9675,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KUMTA",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0009001": {
     "IFSC": "KVGB0009001",
@@ -10902,8 +9692,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AGSUR",
-    "MICR CODE": "581483569",
-    "STD CODE": "8388",
     "NEFT": true,
     "IMPS": true
   },
@@ -10920,8 +9708,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ANKOLA",
-    "MICR CODE": "581483352",
-    "STD CODE": "8388",
     "NEFT": true,
     "IMPS": true
   },
@@ -10938,8 +9724,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HILLUR",
-    "MICR CODE": "581483573",
-    "STD CODE": "8388",
     "NEFT": true,
     "IMPS": true
   },
@@ -10956,8 +9740,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BHATKAL",
-    "MICR CODE": "581483574",
-    "STD CODE": "8385",
     "NEFT": true,
     "IMPS": true
   },
@@ -10974,8 +9756,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KONAR",
-    "MICR CODE": "581483502",
-    "STD CODE": "8385",
     "NEFT": true,
     "IMPS": true
   },
@@ -10992,8 +9772,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MURDESHWAR",
-    "MICR CODE": "581483577",
-    "STD CODE": "8385",
     "NEFT": true,
     "IMPS": true
   },
@@ -11010,8 +9788,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DANDELI",
-    "MICR CODE": "581483552",
-    "STD CODE": "8284",
     "NEFT": true,
     "IMPS": true
   },
@@ -11028,8 +9804,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BELWATGI",
-    "MICR CODE": "581483578",
-    "STD CODE": "8284",
     "NEFT": true,
     "IMPS": true
   },
@@ -11046,8 +9820,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HALIYAL",
-    "MICR CODE": "581483602",
-    "STD CODE": "8284",
     "NEFT": true,
     "IMPS": true
   },
@@ -11064,8 +9836,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ALLANKI",
-    "MICR CODE": "581483579",
-    "STD CODE": "8387",
     "NEFT": true,
     "IMPS": true
   },
@@ -11082,8 +9852,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HONAVAR",
-    "MICR CODE": "581483580",
-    "STD CODE": "8387",
     "NEFT": true,
     "IMPS": true
   },
@@ -11100,8 +9868,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MELIN-IDGUNJI",
-    "MICR CODE": "581483575",
-    "STD CODE": "8387",
     "NEFT": true,
     "IMPS": true
   },
@@ -11117,11 +9883,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KHARWA",
-    "MICR CODE": "581483576",
-    "STD CODE": "8387",
+    "MICR": "581483576",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0009205": {
     "IFSC": "KVGB0009205",
@@ -11135,29 +9899,25 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HONAVAR",
-    "MICR CODE": "581483604",
-    "STD CODE": "0",
+    "MICR": "581483604",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0009207": {
     "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
     "IFSC": "KVGB0009207",
-    "MICR CODE": "WAITING",
     "BRANCH": "KASARKOD",
     "ADDRESS": "KARNATAKA VIKAS GRAMEEN BANK, SRI GOPAL KRISHNA TEMPLE BUILDING, KASARKOD, TQ HONNAVAR, DT UTTARA KANNADA, KARNATAKA",
-    "STD CODE": "91",
     "CONTACT": "7022599736",
     "CITY": "UTTARA KANNADA",
     "DISTRICT": "KASARKOD",
     "STATE": "KARNATAKA",
+    "MICR": "WAITING",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0009208": {
     "IFSC": "KVGB0009208",
@@ -11171,11 +9931,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KADLE",
-    "MICR CODE": "WAITING",
-    "STD CODE": "8387",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0009251": {
     "IFSC": "KVGB0009251",
@@ -11190,8 +9948,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JOIDA",
-    "MICR CODE": "581483575",
-    "STD CODE": "8383",
     "NEFT": true,
     "IMPS": true
   },
@@ -11208,8 +9964,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ULVI KSHETRA",
-    "MICR CODE": "581483576",
-    "STD CODE": "8383",
     "NEFT": true,
     "IMPS": true
   },
@@ -11226,8 +9980,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KARWAR",
-    "MICR CODE": "581483570",
-    "STD CODE": "8382",
     "NEFT": true,
     "IMPS": true
   },
@@ -11244,8 +9996,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AVERSA",
-    "MICR CODE": "581483603",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -11261,11 +10011,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KARWAR",
-    "MICR CODE": "WAITING",
-    "STD CODE": "91",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0009351": {
     "IFSC": "KVGB0009351",
@@ -11280,8 +10028,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GOKARN",
-    "MICR CODE": "581483652",
-    "STD CODE": "8386",
     "NEFT": true,
     "IMPS": true
   },
@@ -11298,8 +10044,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KAGAL",
-    "MICR CODE": "581483572",
-    "STD CODE": "8386",
     "NEFT": true,
     "IMPS": true
   },
@@ -11316,8 +10060,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KUMTA",
-    "MICR CODE": "581483652",
-    "STD CODE": "8386",
     "NEFT": true,
     "IMPS": true
   },
@@ -11334,8 +10076,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SANTEGULI",
-    "MICR CODE": "580483538",
-    "STD CODE": "8386",
     "NEFT": true,
     "IMPS": true
   },
@@ -11351,11 +10091,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KUMTA",
-    "MICR CODE": "580483539",
-    "STD CODE": "8386",
+    "MICR": "580483539",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0009356": {
     "IFSC": "KVGB0009356",
@@ -11369,11 +10107,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KUMTA",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0009401": {
     "IFSC": "KVGB0009401",
@@ -11388,8 +10124,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUNGUNDA",
-    "MICR CODE": "580483538",
-    "STD CODE": "8301",
     "NEFT": true,
     "IMPS": true
   },
@@ -11406,8 +10140,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUNDGOD",
-    "MICR CODE": "581483581",
-    "STD CODE": "8301",
     "NEFT": true,
     "IMPS": true
   },
@@ -11424,8 +10156,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUNDGOD",
-    "MICR CODE": "581483598",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -11441,11 +10171,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUNDAGOD",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0009451": {
     "IFSC": "KVGB0009451",
@@ -11460,8 +10188,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HARSHIKATTA",
-    "MICR CODE": "581483583",
-    "STD CODE": "8389",
     "NEFT": true,
     "IMPS": true
   },
@@ -11478,8 +10204,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SIDDAPUR",
-    "MICR CODE": "581483582",
-    "STD CODE": "8389",
     "NEFT": true,
     "IMPS": true
   },
@@ -11496,8 +10220,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VANDANE",
-    "MICR CODE": "581483584",
-    "STD CODE": "8389",
     "NEFT": true,
     "IMPS": true
   },
@@ -11513,11 +10235,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VANDANE",
-    "MICR CODE": "581483402",
-    "STD CODE": "8389",
+    "MICR": "581483402",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0009455": {
     "IFSC": "KVGB0009455",
@@ -11531,11 +10251,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SIDDAPUR",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0009456": {
     "IFSC": "KVGB0009456",
@@ -11549,11 +10267,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SIDDAPUR",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0009501": {
     "IFSC": "KVGB0009501",
@@ -11568,8 +10284,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KORLAKATTA",
-    "MICR CODE": "581483585",
-    "STD CODE": "8384",
     "NEFT": true,
     "IMPS": true
   },
@@ -11586,8 +10300,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SIRSI",
-    "MICR CODE": "581483586",
-    "STD CODE": "8384",
     "NEFT": true,
     "IMPS": true
   },
@@ -11604,8 +10316,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VANALLI",
-    "MICR CODE": "580483540",
-    "STD CODE": "8283",
     "NEFT": true,
     "IMPS": true
   },
@@ -11621,11 +10331,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SIRSI",
-    "MICR CODE": "WAITING",
-    "STD CODE": "8384",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "KVGB0009551": {
     "IFSC": "KVGB0009551",
@@ -11640,8 +10348,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KUNDARGI",
-    "MICR CODE": "580483541",
-    "STD CODE": "8419",
     "NEFT": true,
     "IMPS": true
   },
@@ -11658,8 +10364,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VAJRALLI",
-    "MICR CODE": "580483540",
-    "STD CODE": "8419",
     "NEFT": true,
     "IMPS": true
   },
@@ -11676,8 +10380,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "YELLAPUR",
-    "MICR CODE": "580483541",
-    "STD CODE": "8419",
     "NEFT": true,
     "IMPS": true
   },
@@ -11694,8 +10396,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "YELLAPUR",
-    "MICR CODE": "581483597",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -11712,8 +10412,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "YELLAPUR",
-    "MICR CODE": "581483599",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -11729,10 +10427,8 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DHARWAD",
-    "MICR CODE": "WAITING",
-    "STD CODE": "836",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   }
 }

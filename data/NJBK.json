@@ -11,11 +11,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "ULHASNAGAR",
-    "MICR CODE": "NA",
-    "STD CODE": "251",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NJBK00000SC": {
     "IFSC": "NJBK00000SC",
@@ -45,11 +43,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "ULHASNAGAR",
-    "MICR CODE": "NA",
-    "STD CODE": "251",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NJBK0790002": {
     "IFSC": "NJBK0790002",
@@ -64,8 +60,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "ULHASNAGAR",
-    "MICR CODE": "400082458",
-    "STD CODE": "251",
     "NEFT": true,
     "IMPS": true
   },
@@ -82,8 +76,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "ULHASNAGAR",
-    "MICR CODE": "400082507",
-    "STD CODE": "251",
     "NEFT": true,
     "IMPS": true
   },
@@ -100,8 +92,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "ULHASNAGAR",
-    "MICR CODE": "400082589",
-    "STD CODE": "251",
     "NEFT": true,
     "IMPS": true
   },
@@ -118,8 +108,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "ULHASNAGAR",
-    "MICR CODE": "400082498",
-    "STD CODE": "251",
     "NEFT": true,
     "IMPS": true
   },
@@ -136,8 +124,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "ULHASNAGAR",
-    "MICR CODE": "400082627",
-    "STD CODE": "251",
     "NEFT": true,
     "IMPS": true
   },
@@ -154,8 +140,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "ULHASNAGAR",
-    "MICR CODE": "400082546",
-    "STD CODE": "251",
     "NEFT": true,
     "IMPS": true
   },
@@ -172,8 +156,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "THANE",
-    "MICR CODE": "400082644",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   }

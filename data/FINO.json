@@ -12,10 +12,8 @@
     "CITY": "NAVI MUMBAI",
     "UPI": true,
     "RTGS": true,
-    "MICR CODE": "NA",
-    "STD CODE": "22",
-    "NEFT": true,
-    "MICR": null
+    "MICR": "NA",
+    "NEFT": true
   },
   "FINO0001001": {
     "IFSC": "FINO0001001",
@@ -29,11 +27,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANA",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001002": {
     "IFSC": "FINO0001002",
@@ -47,11 +43,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NORTH WEST DELHI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001005": {
     "IFSC": "FINO0001005",
@@ -66,8 +60,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RANGAREDDI",
-    "MICR CODE": "500771006",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -84,8 +76,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
-    "MICR CODE": "380771002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -101,11 +91,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KHAGARIA",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001023": {
     "IFSC": "FINO0001023",
@@ -119,11 +107,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SARAN",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001024": {
     "IFSC": "FINO0001024",
@@ -138,8 +124,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VALSAD",
-    "MICR CODE": "396771151",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -156,8 +140,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
-    "MICR CODE": "500771003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -174,8 +156,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
-    "MICR CODE": "500771002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -192,8 +172,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
-    "MICR CODE": "500771004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -209,11 +187,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001043": {
     "IFSC": "FINO0001043",
@@ -228,8 +204,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SANGANEER",
-    "MICR CODE": "302771002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -245,11 +219,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GAUTAM BUDDHA NAGAR",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001045": {
     "IFSC": "FINO0001045",
@@ -263,11 +235,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANA",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001046": {
     "IFSC": "FINO0001046",
@@ -281,11 +251,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANA",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001047": {
     "IFSC": "FINO0001047",
@@ -299,11 +267,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001048": {
     "IFSC": "FINO0001048",
@@ -317,29 +283,25 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUZAFFARPUR",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001052": {
     "BANK": "FINO PAYMENTS BANK",
     "IFSC": "FINO0001052",
-    "MICR CODE": "NA",
     "BRANCH": "MUDHALTITTA",
     "ADDRESS": "BORAVADE,MAIN CIRCLE,BEHIND HOTEL,JANATA MUDHALTITTA,MUDHALTITTA,PANCHGAON BORAVADE BO",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "KOLHAPUR",
     "DISTRICT": "KOLHAPUR",
     "STATE": "MAHARASHTRA",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001057": {
     "IFSC": "FINO0001057",
@@ -353,11 +315,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NORTH DELHI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001060": {
     "IFSC": "FINO0001060",
@@ -372,8 +332,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ALWAR",
-    "MICR CODE": "301771002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -389,29 +347,25 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BEGUSARAI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001067": {
     "BANK": "FINO PAYMENTS BANK",
     "IFSC": "FINO0001067",
-    "MICR CODE": "NA",
     "BRANCH": "BAMBAVADE",
     "ADDRESS": "AT POST BAMBAWADE DIST KOLHAPUR,NEAR BUS STAND AND POLICE STATION,MAHARASHTRA 416213",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "KOLHAPUR",
     "DISTRICT": "KOLHAPUR",
     "STATE": "MAHARASHTRA",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001072": {
     "IFSC": "FINO0001072",
@@ -425,11 +379,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "WEST DELHI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001076": {
     "IFSC": "FINO0001076",
@@ -443,11 +395,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "FARIDABAD",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001086": {
     "IFSC": "FINO0001086",
@@ -461,11 +411,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CENTRAL DELHI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001089": {
     "IFSC": "FINO0001089",
@@ -479,11 +427,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NEW DELHI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001091": {
     "IFSC": "FINO0001091",
@@ -497,11 +443,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GHAZIABAD",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001093": {
     "IFSC": "FINO0001093",
@@ -515,11 +459,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GURGAON",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001107": {
     "IFSC": "FINO0001107",
@@ -533,11 +475,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SOUTH DELHI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001108": {
     "IFSC": "FINO0001108",
@@ -551,11 +491,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NARAINGARH",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001109": {
     "IFSC": "FINO0001109",
@@ -569,11 +507,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001111": {
     "IFSC": "FINO0001111",
@@ -587,11 +523,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NASIK",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001112": {
     "IFSC": "FINO0001112",
@@ -606,8 +540,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VIJAYWADA",
-    "MICR CODE": "500771002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -623,11 +555,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SOLAN",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001115": {
     "IFSC": "FINO0001115",
@@ -641,11 +571,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001116": {
     "IFSC": "FINO0001116",
@@ -660,8 +588,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "560771002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -678,8 +604,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395771002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -696,8 +620,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BHARUCH",
-    "MICR CODE": "392771071",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -713,11 +635,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001128": {
     "IFSC": "FINO0001128",
@@ -732,8 +652,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ANKLESHWAR",
-    "MICR CODE": "393771051",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -749,11 +667,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "EAST DELHI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001131": {
     "IFSC": "FINO0001131",
@@ -767,11 +683,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "LUDHIANA",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001138": {
     "IFSC": "FINO0001138",
@@ -785,11 +699,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "LUDHIANA",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001141": {
     "IFSC": "FINO0001141",
@@ -803,11 +715,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAIGAD",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001142": {
     "IFSC": "FINO0001142",
@@ -821,29 +731,25 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SOUTH DELHI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001143": {
     "BANK": "FINO PAYMENTS BANK",
     "IFSC": "FINO0001143",
-    "MICR CODE": "NA",
     "BRANCH": "KALWA W",
     "ADDRESS": "SHOP NO9 GROUND FLOOR,ROOP SANGAM COOPERATIVE 400605",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "THANE",
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001146": {
     "IFSC": "FINO0001146",
@@ -857,11 +763,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001147": {
     "IFSC": "FINO0001147",
@@ -875,11 +779,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NOIDA",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001150": {
     "IFSC": "FINO0001150",
@@ -894,8 +796,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395771003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -911,11 +811,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001165": {
     "IFSC": "FINO0001165",
@@ -930,8 +828,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
-    "MICR CODE": "380771003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -947,11 +843,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "LUDHIANA",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001179": {
     "IFSC": "FINO0001179",
@@ -966,8 +860,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395771004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -983,11 +875,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SOUTH WEST DELHI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001183": {
     "IFSC": "FINO0001183",
@@ -1001,11 +891,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001185": {
     "IFSC": "FINO0001185",
@@ -1019,11 +907,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JALANDHAR",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001192": {
     "IFSC": "FINO0001192",
@@ -1038,8 +924,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
-    "MICR CODE": "500771005",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1055,11 +939,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001196": {
     "IFSC": "FINO0001196",
@@ -1073,11 +955,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NORTH WEST DELHI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001198": {
     "IFSC": "FINO0001198",
@@ -1091,11 +971,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "YAMUNANAGAR",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001200": {
     "IFSC": "FINO0001200",
@@ -1109,29 +987,25 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VAISHALI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001202": {
     "BANK": "FINO PAYMENTS BANK",
     "IFSC": "FINO0001202",
-    "MICR CODE": "NA",
     "BRANCH": "ICHALKARANJI",
     "ADDRESS": "19 110111 PRATIK PLAZA,KOLHAPUR ROAD,ICHALKARANJI 416115",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "KOLHAPUR",
     "DISTRICT": "ICHALKARANJI",
     "STATE": "MAHARASHTRA",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001207": {
     "IFSC": "FINO0001207",
@@ -1145,11 +1019,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GOPALGANJ",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001220": {
     "IFSC": "FINO0001220",
@@ -1163,11 +1035,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PATNA",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001226": {
     "IFSC": "FINO0001226",
@@ -1181,11 +1051,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUZAFFARPUR",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001231": {
     "IFSC": "FINO0001231",
@@ -1199,29 +1067,25 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GOPALGANJ",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001269": {
     "BANK": "FINO PAYMENTS BANK",
     "IFSC": "FINO0001269",
-    "MICR CODE": "NA",
     "BRANCH": "KADAMWADI",
     "ADDRESS": "1284 MAJULA BUILDING,MAIN ROAD KASBA BAWDA,KADAMWADI KOLHAPUR 416006",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "KOLHAPUR",
     "DISTRICT": "KOLHAPUR",
     "STATE": "MAHARASHTRA",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001273": {
     "IFSC": "FINO0001273",
@@ -1235,11 +1099,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KHAGARIA",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001281": {
     "IFSC": "FINO0001281",
@@ -1253,11 +1115,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SANGLI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001284": {
     "IFSC": "FINO0001284",
@@ -1271,11 +1131,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "OSMANABAD",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001289": {
     "IFSC": "FINO0001289",
@@ -1289,11 +1147,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DARBHANGA",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001290": {
     "IFSC": "FINO0001290",
@@ -1307,11 +1163,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PATNA",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001292": {
     "IFSC": "FINO0001292",
@@ -1325,11 +1179,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SATARA",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001296": {
     "IFSC": "FINO0001296",
@@ -1344,8 +1196,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "OSMANABAD",
-    "MICR CODE": "413882609",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1361,11 +1211,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BUXAR",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001306": {
     "IFSC": "FINO0001306",
@@ -1379,11 +1227,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SARAN",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001308": {
     "IFSC": "FINO0001308",
@@ -1397,11 +1243,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SAMASTIPUR",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001309": {
     "IFSC": "FINO0001309",
@@ -1415,11 +1259,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SATARA",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001310": {
     "IFSC": "FINO0001310",
@@ -1433,11 +1275,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SOLAPUR",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001325": {
     "IFSC": "FINO0001325",
@@ -1451,11 +1291,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUZAFFARPUR",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001326": {
     "IFSC": "FINO0001326",
@@ -1469,11 +1307,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BHOJPUR",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001327": {
     "IFSC": "FINO0001327",
@@ -1487,11 +1323,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SANGLI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001337": {
     "IFSC": "FINO0001337",
@@ -1505,11 +1339,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BEGUSARAI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001339": {
     "IFSC": "FINO0001339",
@@ -1523,11 +1355,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SAMASTIPUR",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001342": {
     "IFSC": "FINO0001342",
@@ -1541,11 +1371,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VAISHALI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001346": {
     "IFSC": "FINO0001346",
@@ -1559,11 +1387,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VAISHALI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001347": {
     "IFSC": "FINO0001347",
@@ -1577,11 +1403,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SIWAN",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001349": {
     "IFSC": "FINO0001349",
@@ -1595,11 +1419,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUZAFFARPUR",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001350": {
     "IFSC": "FINO0001350",
@@ -1614,28 +1436,24 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "OSMANABAD",
-    "MICR CODE": "413882610",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "FINO0001351": {
     "BANK": "FINO PAYMENTS BANK",
     "IFSC": "FINO0001351",
-    "MICR CODE": "NA",
     "BRANCH": "KALE",
     "ADDRESS": "DESAI GALLI,MAIN ROAD,KALE MAHARASHTRA",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "KOLHAPUR",
     "DISTRICT": "KOLHAPUR",
     "STATE": "MAHARASHTRA",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001356": {
     "IFSC": "FINO0001356",
@@ -1649,11 +1467,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SOLAPUR",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001359": {
     "IFSC": "FINO0001359",
@@ -1668,28 +1484,24 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "OSMANABAD",
-    "MICR CODE": "413882604",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "FINO0001407": {
     "BANK": "FINO PAYMENTS BANK",
     "IFSC": "FINO0001407",
-    "MICR CODE": "NA",
     "BRANCH": "HADAPSAR",
     "ADDRESS": "SHOP NO 4 AMI PARK CO OP HSG SOC,156 2A 1MP 1 SOLAPUR ROAD HADAPSAR,PUNE 411028",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "PUNE",
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001414": {
     "IFSC": "FINO0001414",
@@ -1704,8 +1516,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VAPI",
-    "MICR CODE": "396771031",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1721,11 +1531,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DARBHANGA",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001437": {
     "IFSC": "FINO0001437",
@@ -1739,11 +1547,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SANGLI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001445": {
     "IFSC": "FINO0001445",
@@ -1757,11 +1563,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Patna",
-    "MICR CODE": "NA",
-    "STD CODE": "612",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001447": {
     "IFSC": "FINO0001447",
@@ -1775,11 +1579,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Solapur",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0001448": {
     "IFSC": "FINO0001448",
@@ -1793,11 +1595,121 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Danapur",
-    "MICR CODE": "NA",
-    "STD CODE": "542",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
+  },
+  "FINO0001550": {
+    "BANK": "FINO PAYMENTS BANK",
+    "IFSC": "FINO0001550",
+    "BRANCH": "DUNETHA B O",
+    "ADDRESS": "ASHAPURA MOBILE AND GENERAL STORE SHOP NO 3 OPPO PATELBAR O I D C, DABHEL DAMAN CHHAILSINGH DEORA 362520",
+    "CONTACT": null,
+    "CITY": "DIU",
+    "DISTRICT": "DIU",
+    "STATE": "DAMAN AND DIU",
+    "MICR": "NA",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
+  },
+  "FINO0001551": {
+    "BANK": "FINO PAYMENTS BANK",
+    "IFSC": "FINO0001551",
+    "BRANCH": "VEHLA GOA S O",
+    "ADDRESS": "B 003, CASA AMORA, PHASE 1, KADAMBA PLATUE, BAINGINIUM, OLD GOA, TISWADI, GOA 403402",
+    "CONTACT": null,
+    "CITY": "NORTH GOA",
+    "DISTRICT": "NORTH GOA",
+    "STATE": "GOA",
+    "MICR": "NA",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
+  },
+  "FINO0001552": {
+    "BANK": "FINO PAYMENTS BANK",
+    "IFSC": "FINO0001552",
+    "BRANCH": "TRILANGA S O",
+    "ADDRESS": "FINO PAYMENTS BANK LTD SECOND FLOOR, PLOT NO 143, MAHAKALI SOCIETY, TRILANGA, BHOPAL DISTT BHOPAL M P 462039",
+    "CONTACT": null,
+    "CITY": "BHOPAL",
+    "DISTRICT": "BHOPAL",
+    "STATE": "MADHYA PRADESH",
+    "MICR": "NA",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
+  },
+  "FINO0001553": {
+    "BANK": "FINO PAYMENTS BANK",
+    "IFSC": "FINO0001553",
+    "BRANCH": "BYRON BAZAR S O",
+    "ADDRESS": "OFFICE NO 317 AND 318, 3RD FLOOR, ORBIT MALL, SUNDER NAGAR CHOWK, MAHADEV GHAT ROAD, RAIPUR C G 492001",
+    "CONTACT": null,
+    "CITY": "RAIPUR",
+    "DISTRICT": "RAIPUR",
+    "STATE": "CHHATTISGARH",
+    "MICR": "NA",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
+  },
+  "FINO0001555": {
+    "BANK": "FINO PAYMENTS BANK",
+    "IFSC": "FINO0001555",
+    "BRANCH": "COCHIN OFFICE",
+    "ADDRESS": "LRA 1, 1ST FLOOR, SUBHASH CHANDRA BOSE RD, PONNURUNNI, VYTTILA, ERNAKULAM, KERALA 682019",
+    "CONTACT": null,
+    "CITY": "ERNAKULAM",
+    "DISTRICT": "ERNAKULAM",
+    "STATE": "KERALA",
+    "MICR": "NA",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
+  },
+  "FINO0001556": {
+    "BANK": "FINO PAYMENTS BANK",
+    "IFSC": "FINO0001556",
+    "BRANCH": "MADURAI OFFICE",
+    "ADDRESS": "NO 337 PSM NAGAR, MELAKKAL MAIN ROAD, KOCHADAI",
+    "CONTACT": null,
+    "CITY": "MADURAI",
+    "DISTRICT": "KOCHADAI",
+    "STATE": "TAMIL NADU",
+    "MICR": "NA",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
+  },
+  "FINO0001557": {
+    "BANK": "FINO PAYMENTS BANK",
+    "IFSC": "FINO0001557",
+    "BRANCH": "SELAQUI S O",
+    "ADDRESS": "E 17, FRIENDS ENCLAVE, VIDHAN SABHA, RISHIKESH ROAD BEHIND DEFENSE COLONY NEAR RAILWAY CROSSING DEHRADUN 248012, UTTARAKHAND",
+    "CONTACT": null,
+    "CITY": "DEHRADUN",
+    "DISTRICT": "DEHRADUN",
+    "STATE": "UTTARAKHAND",
+    "MICR": "NA",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
   },
   "FINO0009001": {
     "IFSC": "FINO0009001",
@@ -1811,11 +1723,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAVI MUMBAI",
-    "MICR CODE": "NA",
-    "STD CODE": "22",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0009002": {
     "IFSC": "FINO0009002",
@@ -1829,11 +1739,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RANCHI",
-    "MICR CODE": "NA",
-    "STD CODE": "651",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0009003": {
     "IFSC": "FINO0009003",
@@ -1847,11 +1755,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAVI MUMBAI",
-    "MICR CODE": "NA",
-    "STD CODE": "22",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "FINO0009009": {
     "IFSC": "FINO0009009",
@@ -1865,10 +1771,8 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   }
 }

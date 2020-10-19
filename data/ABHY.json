@@ -12,10 +12,8 @@
     "CITY": "MUMBAI",
     "UPI": true,
     "RTGS": true,
-    "MICR CODE": "400065001",
-    "STD CODE": "22",
-    "NEFT": true,
-    "MICR": null
+    "MICR": "400065001",
+    "NEFT": true
   },
   "ABHY0065002": {
     "IFSC": "ABHY0065002",
@@ -30,8 +28,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400065002",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -47,11 +43,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400065003",
-    "STD CODE": "22",
+    "MICR": "400065003",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065004": {
     "IFSC": "ABHY0065004",
@@ -65,11 +59,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400065004",
-    "STD CODE": "22",
+    "MICR": "400065004",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065005": {
     "IFSC": "ABHY0065005",
@@ -83,11 +75,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400065005",
-    "STD CODE": "22",
+    "MICR": "400065005",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065006": {
     "IFSC": "ABHY0065006",
@@ -101,11 +91,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400065006",
-    "STD CODE": "22",
+    "MICR": "400065006",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065007": {
     "IFSC": "ABHY0065007",
@@ -119,11 +107,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400065007",
-    "STD CODE": "22",
+    "MICR": "400065007",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065008": {
     "IFSC": "ABHY0065008",
@@ -137,11 +123,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400065008",
-    "STD CODE": "22",
+    "MICR": "400065008",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065009": {
     "IFSC": "ABHY0065009",
@@ -155,11 +139,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400065009",
-    "STD CODE": "22",
+    "MICR": "400065009",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065010": {
     "IFSC": "ABHY0065010",
@@ -173,11 +155,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400065010",
-    "STD CODE": "22",
+    "MICR": "400065010",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065011": {
     "IFSC": "ABHY0065011",
@@ -191,11 +171,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400065011",
-    "STD CODE": "22",
+    "MICR": "400065011",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065012": {
     "IFSC": "ABHY0065012",
@@ -209,11 +187,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400065012",
-    "STD CODE": "22",
+    "MICR": "400065012",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065013": {
     "IFSC": "ABHY0065013",
@@ -227,11 +203,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400065013",
-    "STD CODE": "22",
+    "MICR": "400065013",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065014": {
     "IFSC": "ABHY0065014",
@@ -245,11 +219,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
-    "MICR CODE": "400065014",
-    "STD CODE": "22",
+    "MICR": "400065014",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065015": {
     "IFSC": "ABHY0065015",
@@ -264,8 +236,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NEW BOMBAY",
-    "MICR CODE": "400065015",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -281,11 +251,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NEW BOMBAY",
-    "MICR CODE": "400065016",
-    "STD CODE": "22",
+    "MICR": "400065016",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065017": {
     "IFSC": "ABHY0065017",
@@ -299,11 +267,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NEW BOMBAY",
-    "MICR CODE": "400065017",
-    "STD CODE": "22",
+    "MICR": "400065017",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065018": {
     "IFSC": "ABHY0065018",
@@ -317,11 +283,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PANVEL",
-    "MICR CODE": "400065018",
-    "STD CODE": "22",
+    "MICR": "400065018",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065019": {
     "IFSC": "ABHY0065019",
@@ -335,11 +299,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KALAMBOLI",
-    "MICR CODE": "400065019",
-    "STD CODE": "22",
+    "MICR": "400065019",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065020": {
     "IFSC": "ABHY0065020",
@@ -353,11 +315,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400065020",
-    "STD CODE": "22",
+    "MICR": "400065020",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065021": {
     "IFSC": "ABHY0065021",
@@ -371,11 +331,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400065021",
-    "STD CODE": "22",
+    "MICR": "400065021",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065022": {
     "IFSC": "ABHY0065022",
@@ -389,11 +347,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NEW BOMBAY",
-    "MICR CODE": "400065022",
-    "STD CODE": "22",
+    "MICR": "400065022",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065023": {
     "IFSC": "ABHY0065023",
@@ -407,11 +363,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BHIWANDI",
-    "MICR CODE": "400065023",
-    "STD CODE": "2522",
+    "MICR": "400065023",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065024": {
     "IFSC": "ABHY0065024",
@@ -425,11 +379,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400065024",
-    "STD CODE": "22",
+    "MICR": "400065024",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065025": {
     "IFSC": "ABHY0065025",
@@ -443,11 +395,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400065025",
-    "STD CODE": "22",
+    "MICR": "400065025",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065026": {
     "IFSC": "ABHY0065026",
@@ -461,11 +411,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400065026",
-    "STD CODE": "22",
+    "MICR": "400065026",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065027": {
     "IFSC": "ABHY0065027",
@@ -479,11 +427,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400065027",
-    "STD CODE": "22",
+    "MICR": "400065027",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065028": {
     "IFSC": "ABHY0065028",
@@ -497,11 +443,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400065028",
-    "STD CODE": "22",
+    "MICR": "400065028",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065029": {
     "IFSC": "ABHY0065029",
@@ -515,11 +459,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400065029",
-    "STD CODE": "22",
+    "MICR": "400065029",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065030": {
     "IFSC": "ABHY0065030",
@@ -533,11 +475,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400065030",
-    "STD CODE": "22",
+    "MICR": "400065030",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065031": {
     "IFSC": "ABHY0065031",
@@ -551,11 +491,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NEW BOMBAY",
-    "MICR CODE": "400065031",
-    "STD CODE": "22",
+    "MICR": "400065031",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065032": {
     "IFSC": "ABHY0065032",
@@ -569,11 +507,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NEW BOMBAY",
-    "MICR CODE": "400065032",
-    "STD CODE": "22",
+    "MICR": "400065032",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065034": {
     "IFSC": "ABHY0065034",
@@ -587,11 +523,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400065034",
-    "STD CODE": "22",
+    "MICR": "400065034",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065035": {
     "IFSC": "ABHY0065035",
@@ -605,11 +539,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NHAVA SHEVA",
-    "MICR CODE": "400065035",
-    "STD CODE": "22",
+    "MICR": "400065035",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065036": {
     "IFSC": "ABHY0065036",
@@ -623,11 +555,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NEW BOMBAY",
-    "MICR CODE": "400065036",
-    "STD CODE": "22",
+    "MICR": "400065036",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065037": {
     "IFSC": "ABHY0065037",
@@ -641,11 +571,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NEW BOMBAY",
-    "MICR CODE": "400065037",
-    "STD CODE": "22",
+    "MICR": "400065037",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065038": {
     "IFSC": "ABHY0065038",
@@ -660,8 +588,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400065038",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -677,11 +603,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400065039",
-    "STD CODE": "22",
+    "MICR": "400065039",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065040": {
     "IFSC": "ABHY0065040",
@@ -696,8 +620,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
-    "MICR CODE": "400065040",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -713,11 +635,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
-    "MICR CODE": "400065041",
-    "STD CODE": "22",
+    "MICR": "400065041",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065042": {
     "IFSC": "ABHY0065042",
@@ -731,11 +651,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PANVEL",
-    "MICR CODE": "400065042",
-    "STD CODE": "22",
+    "MICR": "400065042",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065043": {
     "IFSC": "ABHY0065043",
@@ -749,11 +667,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VASAI",
-    "MICR CODE": "400065043",
-    "STD CODE": "250",
+    "MICR": "400065043",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065044": {
     "IFSC": "ABHY0065044",
@@ -767,11 +683,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NEW BOMBAY",
-    "MICR CODE": "400065044",
-    "STD CODE": "22",
+    "MICR": "400065044",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065045": {
     "IFSC": "ABHY0065045",
@@ -785,11 +699,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KAMOTHE",
-    "MICR CODE": "400065045",
-    "STD CODE": "22",
+    "MICR": "400065045",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065046": {
     "IFSC": "ABHY0065046",
@@ -803,11 +715,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MIRA-BHAYANDAR",
-    "MICR CODE": "400065046",
-    "STD CODE": "22",
+    "MICR": "400065046",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065047": {
     "IFSC": "ABHY0065047",
@@ -821,11 +731,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400065047",
-    "STD CODE": "22",
+    "MICR": "400065047",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065048": {
     "IFSC": "ABHY0065048",
@@ -839,11 +747,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KALYAN",
-    "MICR CODE": "400065048",
-    "STD CODE": "251",
+    "MICR": "400065048",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065049": {
     "IFSC": "ABHY0065049",
@@ -857,11 +763,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DOMBIVLI",
-    "MICR CODE": "400065049",
-    "STD CODE": "251",
+    "MICR": "400065049",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065050": {
     "IFSC": "ABHY0065050",
@@ -875,11 +779,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PANVEL",
-    "MICR CODE": "400065050",
-    "STD CODE": "22",
+    "MICR": "400065050",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065051": {
     "IFSC": "ABHY0065051",
@@ -893,11 +795,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400065051",
-    "STD CODE": "22",
+    "MICR": "400065051",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065052": {
     "IFSC": "ABHY0065052",
@@ -911,11 +811,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MIRA-BHAYANDAR",
-    "MICR CODE": "400065052",
-    "STD CODE": "22",
+    "MICR": "400065052",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065053": {
     "IFSC": "ABHY0065053",
@@ -929,11 +827,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KALYAN",
-    "MICR CODE": "400065053",
-    "STD CODE": "251",
+    "MICR": "400065053",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065054": {
     "IFSC": "ABHY0065054",
@@ -947,11 +843,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400065054",
-    "STD CODE": "251",
+    "MICR": "400065054",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065055": {
     "IFSC": "ABHY0065055",
@@ -965,11 +859,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VIRAR",
-    "MICR CODE": "400065055",
-    "STD CODE": "250",
+    "MICR": "400065055",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065056": {
     "IFSC": "ABHY0065056",
@@ -983,11 +875,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400065056",
-    "STD CODE": "22",
+    "MICR": "400065056",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065057": {
     "IFSC": "ABHY0065057",
@@ -1001,11 +891,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
-    "MICR CODE": "400065057",
-    "STD CODE": "22",
+    "MICR": "400065057",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065058": {
     "IFSC": "ABHY0065058",
@@ -1020,8 +908,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400065058",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -1037,11 +923,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
-    "MICR CODE": "400065059",
-    "STD CODE": "250",
+    "MICR": "400065059",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065060": {
     "IFSC": "ABHY0065060",
@@ -1055,11 +939,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400065060",
-    "STD CODE": "22",
+    "MICR": "400065060",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065061": {
     "IFSC": "ABHY0065061",
@@ -1073,11 +955,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PANVEL",
-    "MICR CODE": "400065061",
-    "STD CODE": "22",
+    "MICR": "400065061",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065062": {
     "IFSC": "ABHY0065062",
@@ -1091,11 +971,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
-    "MICR CODE": "400065062",
-    "STD CODE": "22",
+    "MICR": "400065062",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065063": {
     "IFSC": "ABHY0065063",
@@ -1109,11 +987,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DOMBIVLI",
-    "MICR CODE": "400065063",
-    "STD CODE": "251",
+    "MICR": "400065063",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065064": {
     "IFSC": "ABHY0065064",
@@ -1127,11 +1003,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400065064",
-    "STD CODE": "22",
+    "MICR": "400065064",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065065": {
     "IFSC": "ABHY0065065",
@@ -1145,11 +1019,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400065065",
-    "STD CODE": "251",
+    "MICR": "400065065",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065066": {
     "IFSC": "ABHY0065066",
@@ -1163,11 +1035,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KALYAN",
-    "MICR CODE": "400065066",
-    "STD CODE": "251",
+    "MICR": "400065066",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065067": {
     "IFSC": "ABHY0065067",
@@ -1181,11 +1051,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
-    "MICR CODE": "400065067",
-    "STD CODE": "22",
+    "MICR": "400065067",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065068": {
     "IFSC": "ABHY0065068",
@@ -1199,11 +1067,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BHIWANDI",
-    "MICR CODE": "400065068",
-    "STD CODE": "252",
+    "MICR": "400065068",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065069": {
     "IFSC": "ABHY0065069",
@@ -1217,11 +1083,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400065069",
-    "STD CODE": "22",
+    "MICR": "400065069",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065070": {
     "IFSC": "ABHY0065070",
@@ -1236,8 +1100,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400065070",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -1254,8 +1116,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400065071",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -1272,8 +1132,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400065072",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -1290,8 +1148,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400065073",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -1308,8 +1164,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
-    "MICR CODE": "400065074",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -1326,8 +1180,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PANVEL",
-    "MICR CODE": "400065075",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1344,8 +1196,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400065076",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -1362,8 +1212,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PEN",
-    "MICR CODE": "402065051",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -1379,11 +1227,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
-    "MICR CODE": "411065002",
-    "STD CODE": "20",
+    "MICR": "411065002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065103": {
     "IFSC": "ABHY0065103",
@@ -1397,11 +1243,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
-    "MICR CODE": "411065003",
-    "STD CODE": "20",
+    "MICR": "411065003",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065104": {
     "IFSC": "ABHY0065104",
@@ -1416,8 +1260,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
-    "MICR CODE": "411065004",
-    "STD CODE": "20",
     "NEFT": true,
     "IMPS": true
   },
@@ -1434,8 +1276,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
-    "MICR CODE": "411065006",
-    "STD CODE": "20",
     "NEFT": true,
     "IMPS": true
   },
@@ -1451,11 +1291,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
-    "MICR CODE": "411065007",
-    "STD CODE": "20",
+    "MICR": "411065007",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065107": {
     "IFSC": "ABHY0065107",
@@ -1470,8 +1308,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
-    "MICR CODE": "411065008",
-    "STD CODE": "20",
     "NEFT": true,
     "IMPS": true
   },
@@ -1487,11 +1323,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
-    "MICR CODE": "411065011",
-    "STD CODE": "20",
+    "MICR": "411065011",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065109": {
     "IFSC": "ABHY0065109",
@@ -1505,11 +1339,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
-    "MICR CODE": "411065012",
-    "STD CODE": "20",
+    "MICR": "411065012",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065110": {
     "IFSC": "ABHY0065110",
@@ -1524,8 +1356,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
-    "MICR CODE": "411065013",
-    "STD CODE": "20",
     "NEFT": true,
     "IMPS": true
   },
@@ -1541,11 +1371,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
-    "MICR CODE": "411065015",
-    "STD CODE": "20",
+    "MICR": "411065015",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065112": {
     "IFSC": "ABHY0065112",
@@ -1559,11 +1387,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGPUR",
-    "MICR CODE": "440211251",
-    "STD CODE": "71",
+    "MICR": "440211251",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065113": {
     "IFSC": "ABHY0065113",
@@ -1577,11 +1403,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AURANGABAD",
-    "MICR CODE": "431065003",
-    "STD CODE": "240",
+    "MICR": "431065003",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065114": {
     "IFSC": "ABHY0065114",
@@ -1595,11 +1419,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KANKAVLI",
-    "MICR CODE": "416065501",
-    "STD CODE": "2367",
+    "MICR": "416065501",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065115": {
     "IFSC": "ABHY0065115",
@@ -1613,11 +1435,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NASHIK",
-    "MICR CODE": "422065002",
-    "STD CODE": "253",
+    "MICR": "422065002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065116": {
     "IFSC": "ABHY0065116",
@@ -1631,11 +1451,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHAKAN",
-    "MICR CODE": "411065016",
-    "STD CODE": "2135",
+    "MICR": "411065016",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065117": {
     "IFSC": "ABHY0065117",
@@ -1649,11 +1467,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NASHIK",
-    "MICR CODE": "422065003",
-    "STD CODE": "253",
+    "MICR": "422065003",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065118": {
     "IFSC": "ABHY0065118",
@@ -1667,11 +1483,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NASHIK",
-    "MICR CODE": "422065004",
-    "STD CODE": "253",
+    "MICR": "422065004",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065119": {
     "IFSC": "ABHY0065119",
@@ -1685,11 +1499,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AURANGABAD",
-    "MICR CODE": "431065004",
-    "STD CODE": "240",
+    "MICR": "431065004",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065120": {
     "IFSC": "ABHY0065120",
@@ -1703,11 +1515,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NANDED",
-    "MICR CODE": "431065102",
-    "STD CODE": "2462",
+    "MICR": "431065102",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065121": {
     "IFSC": "ABHY0065121",
@@ -1721,11 +1531,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGPUR",
-    "MICR CODE": "440211252",
-    "STD CODE": "712",
+    "MICR": "440211252",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065122": {
     "IFSC": "ABHY0065122",
@@ -1740,8 +1548,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TALEGAON DABHADE",
-    "MICR CODE": "411065017",
-    "STD CODE": "2114",
     "NEFT": true,
     "IMPS": true
   },
@@ -1757,11 +1563,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NANDED",
-    "MICR CODE": "431065103",
-    "STD CODE": "2462",
+    "MICR": "431065103",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065124": {
     "IFSC": "ABHY0065124",
@@ -1775,11 +1579,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NASHIK",
-    "MICR CODE": "422065005",
-    "STD CODE": "253",
+    "MICR": "422065005",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065125": {
     "IFSC": "ABHY0065125",
@@ -1793,11 +1595,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NASHIK",
-    "MICR CODE": "422065006",
-    "STD CODE": "253",
+    "MICR": "422065006",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065126": {
     "IFSC": "ABHY0065126",
@@ -1812,8 +1612,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMADNAGAR",
-    "MICR CODE": "414065001",
-    "STD CODE": "241",
     "NEFT": true,
     "IMPS": true
   },
@@ -1829,11 +1627,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VADODARA",
-    "MICR CODE": "390065002",
-    "STD CODE": "265",
+    "MICR": "390065002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065202": {
     "IFSC": "ABHY0065202",
@@ -1847,11 +1643,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
-    "MICR CODE": "380065002",
-    "STD CODE": "79",
+    "MICR": "380065002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065203": {
     "IFSC": "ABHY0065203",
@@ -1865,11 +1659,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
-    "MICR CODE": "380065003",
-    "STD CODE": "79",
+    "MICR": "380065003",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065204": {
     "IFSC": "ABHY0065204",
@@ -1883,11 +1675,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
-    "MICR CODE": "380065004",
-    "STD CODE": "79",
+    "MICR": "380065004",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065205": {
     "IFSC": "ABHY0065205",
@@ -1901,11 +1691,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
-    "MICR CODE": "380065005",
-    "STD CODE": "79",
+    "MICR": "380065005",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065208": {
     "IFSC": "ABHY0065208",
@@ -1919,11 +1707,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GHATLODIYA",
-    "MICR CODE": "380065008",
-    "STD CODE": "79",
+    "MICR": "380065008",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065301": {
     "IFSC": "ABHY0065301",
@@ -1937,11 +1723,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "UDUPI",
-    "MICR CODE": "576065002",
-    "STD CODE": "820",
+    "MICR": "576065002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065302": {
     "IFSC": "ABHY0065302",
@@ -1956,8 +1740,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "UDUPI",
-    "MICR CODE": "576065003",
-    "STD CODE": "820",
     "NEFT": true,
     "IMPS": true
   },
@@ -1973,11 +1755,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SHIRVA",
-    "MICR CODE": "576065004",
-    "STD CODE": "820",
+    "MICR": "576065004",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065305": {
     "IFSC": "ABHY0065305",
@@ -1991,11 +1771,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "UDUPI",
-    "MICR CODE": "576065005",
-    "STD CODE": "820",
+    "MICR": "576065005",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "ABHY0065306": {
     "IFSC": "ABHY0065306",
@@ -2010,8 +1788,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MANGALORE",
-    "MICR CODE": "575065002",
-    "STD CODE": "820",
     "NEFT": true,
     "IMPS": true
   }

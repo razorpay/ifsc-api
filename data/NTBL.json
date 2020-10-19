@@ -11,11 +11,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AGRA",
-    "MICR CODE": "282184002",
-    "STD CODE": "562",
+    "MICR": "282184002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0ALM002": {
     "IFSC": "NTBL0ALM002",
@@ -29,11 +27,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ALMORA",
-    "MICR CODE": "263184014",
-    "STD CODE": "5962",
+    "MICR": "263184014",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0ALM082": {
     "IFSC": "NTBL0ALM082",
@@ -47,11 +43,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ALMORA",
-    "MICR CODE": "263184082",
-    "STD CODE": "5962",
+    "MICR": "263184082",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0AMB115": {
     "IFSC": "NTBL0AMB115",
@@ -66,8 +60,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AMBALA",
-    "MICR CODE": "133184002",
-    "STD CODE": "184",
     "NEFT": true,
     "IMPS": true
   },
@@ -83,11 +75,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BAGESHWAR",
-    "MICR CODE": "263184702",
-    "STD CODE": "5963",
+    "MICR": "263184702",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0BAH018": {
     "IFSC": "NTBL0BAH018",
@@ -101,11 +91,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BAHERI",
-    "MICR CODE": "243184102",
-    "STD CODE": "5822",
+    "MICR": "243184102",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0BAI019": {
     "IFSC": "NTBL0BAI019",
@@ -119,11 +107,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BAILPARAO",
-    "MICR CODE": "226184019",
-    "STD CODE": "5947",
+    "MICR": "226184019",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0BAL132": {
     "IFSC": "NTBL0BAL132",
@@ -138,8 +124,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "FARIDABAD",
-    "MICR CODE": "110184025",
-    "STD CODE": "129",
     "NEFT": true,
     "IMPS": true
   },
@@ -155,11 +139,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AKSORA",
-    "MICR CODE": "262184035",
-    "STD CODE": "5963",
+    "MICR": "262184035",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0BAN127": {
     "IFSC": "NTBL0BAN127",
@@ -174,8 +156,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANBASA",
-    "MICR CODE": "262184304",
-    "STD CODE": "5943",
     "NEFT": true,
     "IMPS": true
   },
@@ -191,11 +171,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BAREILLY",
-    "MICR CODE": "243184002",
-    "STD CODE": "581",
+    "MICR": "243184002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0BAR029": {
     "IFSC": "NTBL0BAR029",
@@ -209,11 +187,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BARA",
-    "MICR CODE": "263184029",
-    "STD CODE": "5944",
+    "MICR": "263184029",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0BAR075": {
     "IFSC": "NTBL0BAR075",
@@ -227,11 +203,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BAREILLY",
-    "MICR CODE": "226184075",
-    "STD CODE": "581",
+    "MICR": "226184075",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0BAR141": {
     "IFSC": "NTBL0BAR141",
@@ -245,11 +219,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BAREILLY",
-    "MICR CODE": "243184004",
-    "STD CODE": "581",
+    "MICR": "243184004",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0BAZ009": {
     "IFSC": "NTBL0BAZ009",
@@ -263,11 +235,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BAZPUR",
-    "MICR CODE": "226184009",
-    "STD CODE": "5949",
+    "MICR": "226184009",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0BAZ104": {
     "IFSC": "NTBL0BAZ104",
@@ -282,28 +252,24 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BAZPUR",
-    "MICR CODE": "262184203",
-    "STD CODE": "5949",
     "NEFT": true,
     "IMPS": true
   },
   "NTBL0BAZ117": {
     "BANK": "THE NAINITAL BANK LIMITED",
     "IFSC": "NTBL0BAZ117",
-    "MICR CODE": "262184204",
     "BRANCH": "BARHANI BAZPUR",
     "ADDRESS": "ANAND FARM,VILLAGE BAHHANI BAZPUR",
-    "STD CODE": "5949",
     "CONTACT": "8881803830",
     "CITY": "UDAM SINGH NAGAR",
     "DISTRICT": "BAZPUR",
     "STATE": "UTTARAKHAND",
+    "MICR": "262184204",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0BAZ136": {
     "IFSC": "NTBL0BAZ136",
@@ -318,9 +284,23 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BAZPUR",
-    "MICR CODE": "262184206",
-    "STD CODE": "5949",
     "NEFT": true,
+    "IMPS": true
+  },
+  "NTBL0BHA149": {
+    "BANK": "THE NAINITAL BANK LIMITED",
+    "IFSC": "NTBL0BHA149",
+    "BRANCH": "BHANIYAWALA DEHRADUN",
+    "ADDRESS": "THE NAINITAL BANK LTD FIRST FLOOR NEAR UGB DURGA CHOWK BHANIYAWALA DEHRADUN UTTARAKHAND 248140",
+    "CONTACT": "7060300113",
+    "CITY": "DEHRADUN",
+    "DISTRICT": "DEHRADUN",
+    "STATE": "UTTARAKHAND",
+    "MICR": "248184009",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
     "IMPS": true
   },
   "NTBL0BHI010": {
@@ -335,11 +315,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BHIMTAL",
-    "MICR CODE": "263184010",
-    "STD CODE": "5942",
+    "MICR": "263184010",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0BHI043": {
     "IFSC": "NTBL0BHI043",
@@ -353,11 +331,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BHINGARARA",
-    "MICR CODE": "262184043",
-    "STD CODE": "0",
+    "MICR": "262184043",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0BHO084": {
     "IFSC": "NTBL0BHO084",
@@ -371,11 +347,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KHATIMA",
-    "MICR CODE": "262184084",
-    "STD CODE": "5943",
+    "MICR": "262184084",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0BHO090": {
     "IFSC": "NTBL0BHO090",
@@ -389,11 +363,25 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BHOWALI",
-    "MICR CODE": "263184090",
-    "STD CODE": "5942",
+    "MICR": "263184090",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
+  },
+  "NTBL0BHW150": {
+    "BANK": "THE NAINITAL BANK LIMITED",
+    "IFSC": "NTBL0BHW150",
+    "BRANCH": "BHAUWALA DEHRADUN",
+    "ADDRESS": "THE NAINITAL BANK LTD,NEAR UNION BANK OF INDIA,RAMPUR BHAUWALA,TEHSIL VIKASNAGAR,DEHRADUN,UTTARAKHAND-248007",
+    "CONTACT": "7455800233",
+    "CITY": "DEHRADUN",
+    "DISTRICT": "DEHRADUN",
+    "STATE": "UTTARAKHAND",
+    "MICR": "248184010",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
   },
   "NTBL0BIJ119": {
     "IFSC": "NTBL0BIJ119",
@@ -408,8 +396,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BIJNOR",
-    "MICR CODE": "246184002",
-    "STD CODE": "1342",
     "NEFT": true,
     "IMPS": true
   },
@@ -425,11 +411,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BILASPUR",
-    "MICR CODE": "244184702",
-    "STD CODE": "595",
+    "MICR": "244184702",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0BUL048": {
     "IFSC": "NTBL0BUL048",
@@ -443,11 +427,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BULANDSHAHR",
-    "MICR CODE": "203184048",
-    "STD CODE": "5732",
+    "MICR": "203184048",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0CHA015": {
     "IFSC": "NTBL0CHA015",
@@ -461,11 +443,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHAMPAWAT",
-    "MICR CODE": "262184002",
-    "STD CODE": "5965",
+    "MICR": "262184002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0CHA042": {
     "IFSC": "NTBL0CHA042",
@@ -479,11 +459,25 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHAUMEL",
-    "MICR CODE": "242184042",
-    "STD CODE": "5965",
+    "MICR": "242184042",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
+  },
+  "NTBL0DAN147": {
+    "BANK": "THE NAINITAL BANK LIMITED",
+    "IFSC": "NTBL0DAN147",
+    "BRANCH": "DANPUR",
+    "ADDRESS": "BINDUKHERA MOD SPT PETROL PUMP OFFICE OPP DANPUR VILLAGE RUDRAPUR UDHAM SINGH NAGAR UTTARAKHAND",
+    "CONTACT": "7455801952",
+    "CITY": "UDHAM SINGH NAGAR",
+    "DISTRICT": "RUDRAPUR",
+    "STATE": "UTTARAKHAND",
+    "MICR": "263184208",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
   },
   "NTBL0DEH057": {
     "IFSC": "NTBL0DEH057",
@@ -497,11 +491,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DEHRADUN",
-    "MICR CODE": "248184002",
-    "STD CODE": "135",
+    "MICR": "248184002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0DEH100": {
     "IFSC": "NTBL0DEH100",
@@ -515,11 +507,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DEHRADUN",
-    "MICR CODE": "248184100",
-    "STD CODE": "135",
+    "MICR": "248184100",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0DEH101": {
     "IFSC": "NTBL0DEH101",
@@ -533,11 +523,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DEHRADUN",
-    "MICR CODE": "248184101",
-    "STD CODE": "135",
+    "MICR": "248184101",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0DEH113": {
     "IFSC": "NTBL0DEH113",
@@ -552,8 +540,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DEHRADUN",
-    "MICR CODE": "248184005",
-    "STD CODE": "135",
     "NEFT": true,
     "IMPS": true
   },
@@ -570,8 +556,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHAKRATA",
-    "MICR CODE": "248184006",
-    "STD CODE": "135",
     "NEFT": true,
     "IMPS": true
   },
@@ -588,8 +572,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DEHRADUN",
-    "MICR CODE": "248184007",
-    "STD CODE": "135",
     "NEFT": true,
     "IMPS": true
   },
@@ -606,8 +588,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DEHRADUN",
-    "MICR CODE": "248184008",
-    "STD CODE": "135",
     "NEFT": true,
     "IMPS": true
   },
@@ -623,11 +603,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
-    "MICR CODE": "110184019",
-    "STD CODE": "11",
+    "MICR": "110184019",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0DEL038": {
     "IFSC": "NTBL0DEL038",
@@ -641,11 +619,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
-    "MICR CODE": "110184002",
-    "STD CODE": "11",
+    "MICR": "110184002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0DEL039": {
     "IFSC": "NTBL0DEL039",
@@ -659,11 +635,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
-    "MICR CODE": "110184004",
-    "STD CODE": "11",
+    "MICR": "110184004",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0DEL040": {
     "IFSC": "NTBL0DEL040",
@@ -677,11 +651,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
-    "MICR CODE": "110184003",
-    "STD CODE": "11",
+    "MICR": "110184003",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0DEL047": {
     "IFSC": "NTBL0DEL047",
@@ -695,11 +667,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
-    "MICR CODE": "110184005",
-    "STD CODE": "11",
+    "MICR": "110184005",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0DEL049": {
     "IFSC": "NTBL0DEL049",
@@ -713,11 +683,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
-    "MICR CODE": "110184006",
-    "STD CODE": "11",
+    "MICR": "110184006",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0DEL053": {
     "IFSC": "NTBL0DEL053",
@@ -731,11 +699,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
-    "MICR CODE": "110184009",
-    "STD CODE": "11",
+    "MICR": "110184009",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0DEL059": {
     "IFSC": "NTBL0DEL059",
@@ -749,11 +715,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KAPAS  HERA",
-    "MICR CODE": "110184011",
-    "STD CODE": "11",
+    "MICR": "110184011",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0DEL065": {
     "IFSC": "NTBL0DEL065",
@@ -767,11 +731,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
-    "MICR CODE": "110184015",
-    "STD CODE": "11",
+    "MICR": "110184015",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0DEL066": {
     "IFSC": "NTBL0DEL066",
@@ -785,11 +747,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
-    "MICR CODE": "110184012",
-    "STD CODE": "11",
+    "MICR": "110184012",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0DEL073": {
     "IFSC": "NTBL0DEL073",
@@ -803,11 +763,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
-    "MICR CODE": "110184016",
-    "STD CODE": "11",
+    "MICR": "110184016",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0DEL076": {
     "IFSC": "NTBL0DEL076",
@@ -821,11 +779,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
-    "MICR CODE": "110184018",
-    "STD CODE": "11",
+    "MICR": "110184018",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0DEL080": {
     "BANK": "Nainital Bank",
@@ -840,10 +796,8 @@
     "CITY": "DELHI",
     "UPI": true,
     "RTGS": true,
-    "MICR CODE": "110184001",
-    "STD CODE": "11",
-    "NEFT": true,
-    "MICR": null
+    "MICR": "110184001",
+    "NEFT": true
   },
   "NTBL0DEL105": {
     "IFSC": "NTBL0DEL105",
@@ -858,8 +812,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
-    "MICR CODE": "110184020",
-    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true
   },
@@ -876,8 +828,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
-    "MICR CODE": "110184021",
-    "STD CODE": "512",
     "NEFT": true,
     "IMPS": true
   },
@@ -894,8 +844,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
-    "MICR CODE": "110184023",
-    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true
   },
@@ -911,11 +859,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DEVIDHURA",
-    "MICR CODE": "263184030",
-    "STD CODE": "5965",
+    "MICR": "263184030",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0DHA085": {
     "IFSC": "NTBL0DHA085",
@@ -929,11 +875,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DHARCHULA",
-    "MICR CODE": "262184085",
-    "STD CODE": "5967",
+    "MICR": "262184085",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0DHA123": {
     "IFSC": "NTBL0DHA123",
@@ -948,8 +892,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DHAMPUR",
-    "MICR CODE": "246184602",
-    "STD CODE": "1344",
     "NEFT": true,
     "IMPS": true
   },
@@ -966,8 +908,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RUDRAPUR",
-    "MICR CODE": "263184205",
-    "STD CODE": "5944",
     "NEFT": true,
     "IMPS": true
   },
@@ -983,11 +923,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DOIWALA",
-    "MICR CODE": "248184092",
-    "STD CODE": "135",
+    "MICR": "248184092",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0DWA096": {
     "IFSC": "NTBL0DWA096",
@@ -1001,11 +939,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ALMORA",
-    "MICR CODE": "263184096",
-    "STD CODE": "5966",
+    "MICR": "263184096",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0FAR064": {
     "IFSC": "NTBL0FAR064",
@@ -1019,11 +955,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "FARIDABAD",
-    "MICR CODE": "110184014",
-    "STD CODE": "129",
+    "MICR": "110184014",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0FAR106": {
     "IFSC": "NTBL0FAR106",
@@ -1037,11 +971,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BAREILLY",
-    "MICR CODE": "243184106",
-    "STD CODE": "5821",
+    "MICR": "243184106",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0GAD052": {
     "IFSC": "NTBL0GAD052",
@@ -1055,11 +987,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GADARPUR",
-    "MICR CODE": "263184052",
-    "STD CODE": "5949",
+    "MICR": "263184052",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0GHA026": {
     "IFSC": "NTBL0GHA026",
@@ -1073,11 +1003,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GHAZIABAD",
-    "MICR CODE": "110184008",
-    "STD CODE": "120",
+    "MICR": "110184008",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0GHA054": {
     "IFSC": "NTBL0GHA054",
@@ -1091,11 +1019,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GHAZIABAD",
-    "MICR CODE": "110184010",
-    "STD CODE": "120",
+    "MICR": "110184010",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0GHA126": {
     "IFSC": "NTBL0GHA126",
@@ -1110,9 +1036,23 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GHAZIABAD",
-    "MICR CODE": "110184024",
-    "STD CODE": "120",
     "NEFT": true,
+    "IMPS": true
+  },
+  "NTBL0GHA148": {
+    "BANK": "THE NAINITAL BANK LIMITED",
+    "IFSC": "NTBL0GHA148",
+    "BRANCH": "GOVINDPURAM",
+    "ADDRESS": "142 VISHNU ENCLAVE OPP ANAJ MANDI GOVINDPURAM MAIN HAPUR ROAD UTTAR PRADESH 201013",
+    "CONTACT": "7455801951",
+    "CITY": "GHAZIABAD",
+    "DISTRICT": "GHAZIABAD",
+    "STATE": "UTTAR PRADESH",
+    "MICR": "110184027",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
     "IMPS": true
   },
   "NTBL0GUR051": {
@@ -1127,11 +1067,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GURGAON",
-    "MICR CODE": "110184007",
-    "STD CODE": "124",
+    "MICR": "110184007",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0GUR133": {
     "IFSC": "NTBL0GUR133",
@@ -1146,8 +1084,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GURUGRAM",
-    "MICR CODE": "110184026",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1163,11 +1099,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HALDWANI",
-    "MICR CODE": "263184003",
-    "STD CODE": "5946",
+    "MICR": "263184003",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0HAL050": {
     "IFSC": "NTBL0HAL050",
@@ -1181,11 +1115,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HALDWANI",
-    "MICR CODE": "263184050",
-    "STD CODE": "5946",
+    "MICR": "263184050",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0HAL056": {
     "IFSC": "NTBL0HAL056",
@@ -1199,11 +1131,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HALDWANI",
-    "MICR CODE": "263184056",
-    "STD CODE": "5946",
+    "MICR": "263184056",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0HAL071": {
     "IFSC": "NTBL0HAL071",
@@ -1217,11 +1147,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HALDWANI",
-    "MICR CODE": "263184004",
-    "STD CODE": "5946",
+    "MICR": "263184004",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0HAL103": {
     "IFSC": "NTBL0HAL103",
@@ -1236,8 +1164,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HALDWANI",
-    "MICR CODE": "263184006",
-    "STD CODE": "5946",
     "NEFT": true,
     "IMPS": true
   },
@@ -1254,8 +1180,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HALDWANI",
-    "MICR CODE": "263184008",
-    "STD CODE": "5946",
     "NEFT": true,
     "IMPS": true
   },
@@ -1272,8 +1196,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HALDWANI",
-    "MICR CODE": "263184007",
-    "STD CODE": "5946",
     "NEFT": true,
     "IMPS": true
   },
@@ -1290,8 +1212,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HALDWANI",
-    "MICR CODE": "263184009",
-    "STD CODE": "5946",
     "NEFT": true,
     "IMPS": true
   },
@@ -1308,8 +1228,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HALDWANI",
-    "MICR CODE": "263184101",
-    "STD CODE": "5946",
     "NEFT": true,
     "IMPS": true
   },
@@ -1326,28 +1244,24 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HALDWANI",
-    "MICR CODE": "263184012",
-    "STD CODE": "5946",
     "NEFT": true,
     "IMPS": true
   },
   "NTBL0HAL146": {
     "BANK": "THE NAINITAL BANK LIMITED",
     "IFSC": "NTBL0HAL146",
-    "MICR CODE": "263184015",
     "BRANCH": "JAIL ROAD HALDWANI",
     "ADDRESS": "JAIL ROAD CHAURAHA,KALADHUNGI ROAD,HALDWANI,DISTT. NAINITAL,UTTARAKHAND-263139",
-    "STD CODE": "5946",
     "CONTACT": "7060119993",
     "CITY": "NAINITAL",
     "DISTRICT": "HALDWANI",
     "STATE": "UTTARAKHAND",
+    "MICR": "263184015",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0HAR067": {
     "IFSC": "NTBL0HAR067",
@@ -1361,11 +1275,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HARDWAR",
-    "MICR CODE": "249184002",
-    "STD CODE": "1334",
+    "MICR": "249184002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0HAR097": {
     "IFSC": "NTBL0HAR097",
@@ -1379,11 +1291,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HARDWAR",
-    "MICR CODE": "249184004",
-    "STD CODE": "1334",
+    "MICR": "249184004",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0JAI069": {
     "IFSC": "NTBL0JAI069",
@@ -1397,11 +1307,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
-    "MICR CODE": "302184002",
-    "STD CODE": "141",
+    "MICR": "302184002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0JAI125": {
     "IFSC": "NTBL0JAI125",
@@ -1416,8 +1324,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
-    "MICR CODE": "302184003",
-    "STD CODE": "141",
     "NEFT": true,
     "IMPS": true
   },
@@ -1433,11 +1339,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JASPUR",
-    "MICR CODE": "244184046",
-    "STD CODE": "5947",
+    "MICR": "244184046",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0JOS086": {
     "IFSC": "NTBL0JOS086",
@@ -1451,11 +1355,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JOSHIMATH",
-    "MICR CODE": "246184086",
-    "STD CODE": "1389",
+    "MICR": "246184086",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0KAN023": {
     "IFSC": "NTBL0KAN023",
@@ -1469,11 +1371,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KANPUR",
-    "MICR CODE": "208184002",
-    "STD CODE": "512",
+    "MICR": "208184002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0KAN109": {
     "IFSC": "NTBL0KAN109",
@@ -1488,8 +1388,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KANPUR",
-    "MICR CODE": "208184003",
-    "STD CODE": "5946",
     "NEFT": true,
     "IMPS": true
   },
@@ -1506,8 +1404,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MEERUT",
-    "MICR CODE": "250184003",
-    "STD CODE": "121",
     "NEFT": true,
     "IMPS": true
   },
@@ -1523,11 +1419,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KAPKOTE",
-    "MICR CODE": "263184089",
-    "STD CODE": "5963",
+    "MICR": "263184089",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0KAR087": {
     "IFSC": "NTBL0KAR087",
@@ -1541,11 +1435,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KARAN PRAYAG",
-    "MICR CODE": "246184087",
-    "STD CODE": "1363",
+    "MICR": "246184087",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0KAR116": {
     "IFSC": "NTBL0KAR116",
@@ -1560,8 +1452,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KARNAL",
-    "MICR CODE": "132184002",
-    "STD CODE": "171",
     "NEFT": true,
     "IMPS": true
   },
@@ -1577,11 +1467,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KASHIPUR",
-    "MICR CODE": "244184006",
-    "STD CODE": "5947",
+    "MICR": "244184006",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0KAS129": {
     "IFSC": "NTBL0KAS129",
@@ -1596,8 +1484,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KASHIPUR",
-    "MICR CODE": "244184203",
-    "STD CODE": "5947",
     "NEFT": true,
     "IMPS": true
   },
@@ -1613,11 +1499,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KICHHA",
-    "MICR CODE": "263184502",
-    "STD CODE": "5944",
+    "MICR": "263184502",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0KIL014": {
     "IFSC": "NTBL0KIL014",
@@ -1631,11 +1515,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KILAKHERA",
-    "MICR CODE": "262184014",
-    "STD CODE": "5949",
+    "MICR": "262184014",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0KOT055": {
     "IFSC": "NTBL0KOT055",
@@ -1649,11 +1531,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOTDWARA",
-    "MICR CODE": "246184802",
-    "STD CODE": "1382",
+    "MICR": "246184802",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0KOT107": {
     "IFSC": "NTBL0KOT107",
@@ -1667,11 +1547,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
-    "MICR CODE": "302184107",
-    "STD CODE": "1421",
+    "MICR": "302184107",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0LAL016": {
     "IFSC": "NTBL0LAL016",
@@ -1685,11 +1563,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "LALKUAN",
-    "MICR CODE": "262184016",
-    "STD CODE": "5945",
+    "MICR": "262184016",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0LOH013": {
     "IFSC": "NTBL0LOH013",
@@ -1703,11 +1579,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "LOHAGHAT",
-    "MICR CODE": "262184013",
-    "STD CODE": "5965",
+    "MICR": "262184013",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0LUC017": {
     "IFSC": "NTBL0LUC017",
@@ -1721,11 +1595,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "LUCKNOW",
-    "MICR CODE": "226184002",
-    "STD CODE": "522",
+    "MICR": "226184002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0LUC041": {
     "IFSC": "NTBL0LUC041",
@@ -1739,11 +1611,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "LUCKNOW",
-    "MICR CODE": "226184003",
-    "STD CODE": "522",
+    "MICR": "226184003",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0LUC058": {
     "IFSC": "NTBL0LUC058",
@@ -1757,11 +1627,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "LUCKNOW",
-    "MICR CODE": "226184004",
-    "STD CODE": "522",
+    "MICR": "226184004",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0LUC068": {
     "IFSC": "NTBL0LUC068",
@@ -1775,11 +1643,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "LUCKNOW",
-    "MICR CODE": "226184005",
-    "STD CODE": "522",
+    "MICR": "226184005",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0LUC079": {
     "IFSC": "NTBL0LUC079",
@@ -1793,11 +1659,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "LUCKNOW",
-    "MICR CODE": "226184007",
-    "STD CODE": "522",
+    "MICR": "226184007",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0LUC112": {
     "IFSC": "NTBL0LUC112",
@@ -1812,8 +1676,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "LUCKNOW",
-    "MICR CODE": "226184008",
-    "STD CODE": "963",
     "NEFT": true,
     "IMPS": true
   },
@@ -1829,11 +1691,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MEERUT",
-    "MICR CODE": "250184001",
-    "STD CODE": "121",
+    "MICR": "250184001",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0MOR031": {
     "IFSC": "NTBL0MOR031",
@@ -1847,11 +1707,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MORADABAD",
-    "MICR CODE": "244184001",
-    "STD CODE": "591",
+    "MICR": "244184001",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0MOR131": {
     "IFSC": "NTBL0MOR131",
@@ -1866,8 +1724,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MORADABAD",
-    "MICR CODE": "244184003",
-    "STD CODE": "591",
     "NEFT": true,
     "IMPS": true
   },
@@ -1883,11 +1739,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUSSOORIE",
-    "MICR CODE": "248184102",
-    "STD CODE": "135",
+    "MICR": "248184102",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0MUZ033": {
     "IFSC": "NTBL0MUZ033",
@@ -1901,11 +1755,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUZAFFARNAGAR",
-    "MICR CODE": "251184002",
-    "STD CODE": "131",
+    "MICR": "251184002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0NAG024": {
     "IFSC": "NTBL0NAG024",
@@ -1919,11 +1771,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGLA",
-    "MICR CODE": "226184024",
-    "STD CODE": "5944",
+    "MICR": "226184024",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0NAG135": {
     "IFSC": "NTBL0NAG135",
@@ -1938,8 +1788,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGINA",
-    "MICR CODE": "246184202",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1955,11 +1803,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAINITAL",
-    "MICR CODE": "263184001",
-    "STD CODE": "5942",
+    "MICR": "263184001",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0NAI037": {
     "IFSC": "NTBL0NAI037",
@@ -1973,11 +1819,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAINITAL",
-    "MICR CODE": "263184002",
-    "STD CODE": "5942",
+    "MICR": "263184002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0NAI999": {
     "IFSC": "NTBL0NAI999",
@@ -1991,11 +1835,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAINITAL",
-    "MICR CODE": "NA",
-    "STD CODE": "5942",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0NAJ061": {
     "IFSC": "NTBL0NAJ061",
@@ -2009,11 +1851,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAJIBABAD",
-    "MICR CODE": "246184302",
-    "STD CODE": "1341",
+    "MICR": "246184302",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0NAN140": {
     "IFSC": "NTBL0NAN140",
@@ -2028,8 +1868,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SITARGANJ",
-    "MICR CODE": "262184501",
-    "STD CODE": "5948",
     "NEFT": true,
     "IMPS": true
   },
@@ -2045,11 +1883,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TEHRI",
-    "MICR CODE": "249184902",
-    "STD CODE": "1376",
+    "MICR": "249184902",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0NOI063": {
     "IFSC": "NTBL0NOI063",
@@ -2063,11 +1899,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NOIDA",
-    "MICR CODE": "110184013",
-    "STD CODE": "120",
+    "MICR": "110184013",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0NOI070": {
     "IFSC": "NTBL0NOI070",
@@ -2081,11 +1915,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NOIDA",
-    "MICR CODE": "110184017",
-    "STD CODE": "120",
+    "MICR": "110184017",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0NOI120": {
     "IFSC": "NTBL0NOI120",
@@ -2100,8 +1932,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NOIDA",
-    "MICR CODE": "110184022",
-    "STD CODE": "120",
     "NEFT": true,
     "IMPS": true
   },
@@ -2117,11 +1947,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PAHARPANI",
-    "MICR CODE": "263184028",
-    "STD CODE": "5942",
+    "MICR": "263184028",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0PAN062": {
     "IFSC": "NTBL0PAN062",
@@ -2135,11 +1963,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PANIPAT",
-    "MICR CODE": "132184001",
-    "STD CODE": "180",
+    "MICR": "132184001",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0PAN091": {
     "IFSC": "NTBL0PAN091",
@@ -2153,11 +1979,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PANTNAGAR",
-    "MICR CODE": "263184203",
-    "STD CODE": "5944",
+    "MICR": "263184203",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0PAU098": {
     "IFSC": "NTBL0PAU098",
@@ -2171,11 +1995,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PAURI",
-    "MICR CODE": "246184098",
-    "STD CODE": "1368",
+    "MICR": "246184098",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0PEE143": {
     "IFSC": "NTBL0PEE143",
@@ -2190,8 +2012,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAMNAGAR",
-    "MICR CODE": "244184404",
-    "STD CODE": "5947",
     "NEFT": true,
     "IMPS": true
   },
@@ -2207,11 +2027,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PILIBHIT",
-    "MICR CODE": "262184021",
-    "STD CODE": "5882",
+    "MICR": "262184021",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0PIT007": {
     "IFSC": "NTBL0PIT007",
@@ -2225,11 +2043,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PITHORAGARH",
-    "MICR CODE": "262184102",
-    "STD CODE": "5964",
+    "MICR": "262184102",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0PUR128": {
     "IFSC": "NTBL0PUR128",
@@ -2244,8 +2060,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "UTTARKASHI",
-    "MICR CODE": "249184302",
-    "STD CODE": "1373",
     "NEFT": true,
     "IMPS": true
   },
@@ -2261,11 +2075,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAMNAGAR",
-    "MICR CODE": "263184005",
-    "STD CODE": "5947",
+    "MICR": "263184005",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0RAM011": {
     "IFSC": "NTBL0RAM011",
@@ -2279,11 +2091,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAMGARH",
-    "MICR CODE": "263184011",
-    "STD CODE": "5942",
+    "MICR": "263184011",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0RAM036": {
     "IFSC": "NTBL0RAM036",
@@ -2297,11 +2107,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAMPUR",
-    "MICR CODE": "244184102",
-    "STD CODE": "595",
+    "MICR": "244184102",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0RAN004": {
     "IFSC": "NTBL0RAN004",
@@ -2315,11 +2123,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RANIKHET",
-    "MICR CODE": "226184014",
-    "STD CODE": "5966",
+    "MICR": "226184014",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0RAN034": {
     "IFSC": "NTBL0RAN034",
@@ -2333,11 +2139,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RANIBAGH",
-    "MICR CODE": "263184034",
-    "STD CODE": "5946",
+    "MICR": "263184034",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0RIS099": {
     "IFSC": "NTBL0RIS099",
@@ -2351,11 +2155,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RISHIKESH",
-    "MICR CODE": "249184001",
-    "STD CODE": "135",
+    "MICR": "249184001",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0ROO077": {
     "IFSC": "NTBL0ROO077",
@@ -2369,11 +2171,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ROORKEE",
-    "MICR CODE": "247184102",
-    "STD CODE": "1332",
+    "MICR": "247184102",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0RUD045": {
     "IFSC": "NTBL0RUD045",
@@ -2387,11 +2187,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RUDRAPUR",
-    "MICR CODE": "263184045",
-    "STD CODE": "5944",
+    "MICR": "263184045",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0RUD093": {
     "IFSC": "NTBL0RUD093",
@@ -2405,11 +2203,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RUDRAPRAYAG",
-    "MICR CODE": "246184093",
-    "STD CODE": "1364",
+    "MICR": "246184093",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0RUD134": {
     "IFSC": "NTBL0RUD134",
@@ -2424,8 +2220,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RUDARPUR",
-    "MICR CODE": "263184204",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2441,11 +2235,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SAHARANPUR",
-    "MICR CODE": "247184002",
-    "STD CODE": "132",
+    "MICR": "247184002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0SAT138": {
     "IFSC": "NTBL0SAT138",
@@ -2460,8 +2252,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SHAHBAZNAGAR",
-    "MICR CODE": "242184003",
-    "STD CODE": "5842",
     "NEFT": true,
     "IMPS": true
   },
@@ -2477,11 +2267,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SHAHJAHANPUR",
-    "MICR CODE": "242184002",
-    "STD CODE": "5842",
+    "MICR": "242184002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0SHI137": {
     "IFSC": "NTBL0SHI137",
@@ -2496,8 +2284,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RUDRAPUR",
-    "MICR CODE": "263184206",
-    "STD CODE": "5944",
     "NEFT": true,
     "IMPS": true
   },
@@ -2513,11 +2299,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SITAPUR",
-    "MICR CODE": "261184001",
-    "STD CODE": "5862",
+    "MICR": "261184001",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0SIT094": {
     "IFSC": "NTBL0SIT094",
@@ -2531,11 +2315,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SITARGANJ",
-    "MICR CODE": "262184094",
-    "STD CODE": "5948",
+    "MICR": "262184094",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0SRI044": {
     "IFSC": "NTBL0SRI044",
@@ -2549,11 +2331,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SRIPUR BICHWA",
-    "MICR CODE": "262184044",
-    "STD CODE": "5943",
+    "MICR": "262184044",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0SRI083": {
     "IFSC": "NTBL0SRI083",
@@ -2567,11 +2347,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SRINAGAR",
-    "MICR CODE": "246184902",
-    "STD CODE": "1346",
+    "MICR": "246184902",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0TAN095": {
     "IFSC": "NTBL0TAN095",
@@ -2585,29 +2363,25 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TANAKPUR",
-    "MICR CODE": "263184095",
-    "STD CODE": "5943",
+    "MICR": "263184095",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0TAP122": {
     "BANK": "THE NAINITAL BANK LIMITED",
     "IFSC": "NTBL0TAP122",
-    "MICR CODE": "249184103",
     "BRANCH": "TAPOVAN- RISHIKESH",
     "ADDRESS": "VILLAGE TAPOVAN BADRINATH ROAD OPP GANGA HOTEL PO SARAI RISHIKESH",
-    "STD CODE": "135",
     "CONTACT": "2437600",
     "CITY": "RISHIKESH",
     "DISTRICT": "RISHIKESH",
     "STATE": "UTTARAKHAND",
+    "MICR": "249184103",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NTBL0VIK078": {
     "IFSC": "NTBL0VIK078",
@@ -2621,10 +2395,8 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VIKAS NAGAR",
-    "MICR CODE": "248184003",
-    "STD CODE": "1360",
+    "MICR": "248184003",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   }
 }

@@ -12,10 +12,8 @@
     "CITY": "THANE",
     "UPI": false,
     "RTGS": true,
-    "MICR CODE": "NA",
-    "STD CODE": "22",
-    "NEFT": true,
-    "MICR": null
+    "MICR": "NA",
+    "NEFT": true
   },
   "TDCB0000002": {
     "IFSC": "TDCB0000002",
@@ -29,11 +27,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "ARNALA",
-    "MICR CODE": "NA",
-    "STD CODE": "250",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000003": {
     "IFSC": "TDCB0000003",
@@ -48,8 +44,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "VASAI",
-    "MICR CODE": "400524004",
-    "STD CODE": "250",
     "NEFT": true,
     "IMPS": true
   },
@@ -66,8 +60,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "VASAI",
-    "MICR CODE": "400524037",
-    "STD CODE": "250",
     "NEFT": true,
     "IMPS": true
   },
@@ -84,8 +76,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "VASAI",
-    "MICR CODE": "400524006",
-    "STD CODE": "250",
     "NEFT": true,
     "IMPS": true
   },
@@ -101,11 +91,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "VIRAR",
-    "MICR CODE": "NA",
-    "STD CODE": "250",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000007": {
     "IFSC": "TDCB0000007",
@@ -120,8 +108,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "VASAI",
-    "MICR CODE": "400524033",
-    "STD CODE": "250",
     "NEFT": true,
     "IMPS": true
   },
@@ -138,8 +124,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "NALLASOPARA",
-    "MICR CODE": "400524003",
-    "STD CODE": "250",
     "NEFT": true,
     "IMPS": true
   },
@@ -155,11 +139,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "NIRMAL",
-    "MICR CODE": "NA",
-    "STD CODE": "250",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000010": {
     "IFSC": "TDCB0000010",
@@ -173,11 +155,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "BHIWANDI",
-    "MICR CODE": "NA",
-    "STD CODE": "2522",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000011": {
     "IFSC": "TDCB0000011",
@@ -192,8 +172,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "BHIWANDI",
-    "MICR CODE": "400524046",
-    "STD CODE": "2522",
     "NEFT": true,
     "IMPS": true
   },
@@ -210,8 +188,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "PADGHA",
-    "MICR CODE": "400524049",
-    "STD CODE": "2522",
     "NEFT": true,
     "IMPS": true
   },
@@ -228,8 +204,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "BHIWANDI",
-    "MICR CODE": "400524031",
-    "STD CODE": "2522",
     "NEFT": true,
     "IMPS": true
   },
@@ -245,11 +219,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "GANESHPURI",
-    "MICR CODE": "NA",
-    "STD CODE": "2522",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000015": {
     "IFSC": "TDCB0000015",
@@ -264,8 +236,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "BHIWANDI",
-    "MICR CODE": "400524030",
-    "STD CODE": "2522",
     "NEFT": true,
     "IMPS": true
   },
@@ -282,8 +252,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "BHIWANDI",
-    "MICR CODE": "400524034",
-    "STD CODE": "2522",
     "NEFT": true,
     "IMPS": true
   },
@@ -299,11 +267,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "DAHANU",
-    "MICR CODE": "NA",
-    "STD CODE": "2528",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000018": {
     "IFSC": "TDCB0000018",
@@ -317,11 +283,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "DAHANU ROAD",
-    "MICR CODE": "NA",
-    "STD CODE": "2528",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000019": {
     "IFSC": "TDCB0000019",
@@ -335,11 +299,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "BORDI",
-    "MICR CODE": "NA",
-    "STD CODE": "2528",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000020": {
     "IFSC": "TDCB0000020",
@@ -353,11 +315,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "DAHANU",
-    "MICR CODE": "NA",
-    "STD CODE": "2528",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000021": {
     "IFSC": "TDCB0000021",
@@ -371,11 +331,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "DAHANU",
-    "MICR CODE": "NA",
-    "STD CODE": "2528",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000022": {
     "IFSC": "TDCB0000022",
@@ -389,11 +347,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "VANGAON",
-    "MICR CODE": "NA",
-    "STD CODE": "2528",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000023": {
     "IFSC": "TDCB0000023",
@@ -407,11 +363,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "JAWHAR",
-    "MICR CODE": "NA",
-    "STD CODE": "2520",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000024": {
     "IFSC": "TDCB0000024",
@@ -425,11 +379,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "VIKRAMGAD",
-    "MICR CODE": "NA",
-    "STD CODE": "2520",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000025": {
     "IFSC": "TDCB0000025",
@@ -443,11 +395,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KALYAN",
-    "MICR CODE": "NA",
-    "STD CODE": "251",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000026": {
     "IFSC": "TDCB0000026",
@@ -462,8 +412,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KALYAN",
-    "MICR CODE": "400524025",
-    "STD CODE": "251",
     "NEFT": true,
     "IMPS": true
   },
@@ -480,8 +428,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "DOMBIVLI",
-    "MICR CODE": "400524017",
-    "STD CODE": "251",
     "NEFT": true,
     "IMPS": true
   },
@@ -498,8 +444,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "DOMBIVLI",
-    "MICR CODE": "400524018",
-    "STD CODE": "251",
     "NEFT": true,
     "IMPS": true
   },
@@ -515,11 +459,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MURBAD",
-    "MICR CODE": "NA",
-    "STD CODE": "2524",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000030": {
     "IFSC": "TDCB0000030",
@@ -533,11 +475,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MURBAD",
-    "MICR CODE": "NA",
-    "STD CODE": "2524",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000031": {
     "IFSC": "TDCB0000031",
@@ -551,11 +491,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SARALGAON",
-    "MICR CODE": "NA",
-    "STD CODE": "2524",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000032": {
     "IFSC": "TDCB0000032",
@@ -570,8 +508,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "THANE",
-    "MICR CODE": "400524010",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -588,8 +524,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "THANE",
-    "MICR CODE": "400524009",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -606,8 +540,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MIRA-BHAYANDAR",
-    "MICR CODE": "400524007",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -624,8 +556,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "THANE",
-    "MICR CODE": "400524014",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -642,8 +572,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "THANE",
-    "MICR CODE": "400524016",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -660,8 +588,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "THANE",
-    "MICR CODE": "400524015",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -678,8 +604,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "THANE",
-    "MICR CODE": "400524011",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -696,8 +620,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "THANE",
-    "MICR CODE": "400524013",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -714,8 +636,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "THANE",
-    "MICR CODE": "400524012",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -732,8 +652,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MIRA-BHAYANDAR",
-    "MICR CODE": "400524008",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -750,8 +668,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "ULHASNAGAR",
-    "MICR CODE": "400524021",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -768,8 +684,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "ULHASNAGAR",
-    "MICR CODE": "400524024",
-    "STD CODE": "251",
     "NEFT": true,
     "IMPS": true
   },
@@ -786,8 +700,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "ULHASNAGAR",
-    "MICR CODE": "400524023",
-    "STD CODE": "251",
     "NEFT": true,
     "IMPS": true
   },
@@ -804,28 +716,24 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "ULHASNAGAR",
-    "MICR CODE": "400524022",
-    "STD CODE": "251",
     "NEFT": true,
     "IMPS": true
   },
   "TDCB0000046": {
     "BANK": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
     "IFSC": "TDCB0000046",
-    "MICR CODE": "400524040",
     "BRANCH": "VANGANI",
     "ADDRESS": "KALPANA KUNJ,VANGANI,TAL AMBARNATH,DIST THANE PIN CODE 421 503",
-    "STD CODE": "251",
     "CONTACT": "2660404",
     "CITY": "THANE",
     "DISTRICT": "AMBARNATH",
     "STATE": "MAHARASHTRA",
+    "MICR": "400524040",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000047": {
     "IFSC": "TDCB0000047",
@@ -839,47 +747,41 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "PALGHAR",
-    "MICR CODE": "NA",
-    "STD CODE": "2525",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000048": {
     "BANK": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
     "IFSC": "TDCB0000048",
-    "MICR CODE": "NA",
     "BRANCH": "BOISAR",
     "ADDRESS": "PARAS PLAZA BUILDING, NEAR BOISAR RAILY STATION",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "THANE",
     "DISTRICT": "BOISAR",
     "STATE": "MAHARASHTRA",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000049": {
     "BANK": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
     "IFSC": "TDCB0000049",
-    "MICR CODE": "NA",
     "BRANCH": "TARAPUR MIDC",
     "ADDRESS": "AT TARAPUR MIDC,GOGATE NAKA",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "THANE",
     "DISTRICT": "TARAPUR MIDC",
     "STATE": "MAHARASHTRA",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000050": {
     "IFSC": "TDCB0000050",
@@ -893,11 +795,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KELWA",
-    "MICR CODE": "NA",
-    "STD CODE": "2525",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000051": {
     "IFSC": "TDCB0000051",
@@ -911,11 +811,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MANOR",
-    "MICR CODE": "NA",
-    "STD CODE": "2525",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000052": {
     "IFSC": "TDCB0000052",
@@ -930,8 +828,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "PALGHAR",
-    "MICR CODE": "400524039",
-    "STD CODE": "2525",
     "NEFT": true,
     "IMPS": true
   },
@@ -947,11 +843,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "PALGHAR",
-    "MICR CODE": "NA",
-    "STD CODE": "2525",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000054": {
     "IFSC": "TDCB0000054",
@@ -965,11 +859,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "PALGHAR",
-    "MICR CODE": "NA",
-    "STD CODE": "2525",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000055": {
     "IFSC": "TDCB0000055",
@@ -983,11 +875,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SHAHAPUR",
-    "MICR CODE": "NA",
-    "STD CODE": "2527",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000056": {
     "IFSC": "TDCB0000056",
@@ -1001,11 +891,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SHAHAPUR",
-    "MICR CODE": "NA",
-    "STD CODE": "2527",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000057": {
     "IFSC": "TDCB0000057",
@@ -1019,11 +907,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SHAHAPUR",
-    "MICR CODE": "NA",
-    "STD CODE": "2527",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000058": {
     "IFSC": "TDCB0000058",
@@ -1037,11 +923,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KASARA",
-    "MICR CODE": "NA",
-    "STD CODE": "2527",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000059": {
     "IFSC": "TDCB0000059",
@@ -1055,11 +939,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KHARDI",
-    "MICR CODE": "NA",
-    "STD CODE": "2527",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000060": {
     "IFSC": "TDCB0000060",
@@ -1073,11 +955,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KINHAVALI",
-    "MICR CODE": "NA",
-    "STD CODE": "2527",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000061": {
     "IFSC": "TDCB0000061",
@@ -1092,8 +972,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "WASHIND",
-    "MICR CODE": "400524041",
-    "STD CODE": "2527",
     "NEFT": true,
     "IMPS": true
   },
@@ -1109,11 +987,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SHAHAPUR",
-    "MICR CODE": "NA",
-    "STD CODE": "2527",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000063": {
     "IFSC": "TDCB0000063",
@@ -1127,11 +1003,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "WADA",
-    "MICR CODE": "NA",
-    "STD CODE": "2526",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000064": {
     "IFSC": "TDCB0000064",
@@ -1145,11 +1019,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KUDUS",
-    "MICR CODE": "NA",
-    "STD CODE": "2526",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000065": {
     "IFSC": "TDCB0000065",
@@ -1163,11 +1035,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KANCHAD",
-    "MICR CODE": "NA",
-    "STD CODE": "2526",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000066": {
     "IFSC": "TDCB0000066",
@@ -1181,11 +1051,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "TALASARI",
-    "MICR CODE": "NA",
-    "STD CODE": "2529",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000067": {
     "IFSC": "TDCB0000067",
@@ -1199,11 +1067,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MOKHADA",
-    "MICR CODE": "NA",
-    "STD CODE": "2529",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000068": {
     "IFSC": "TDCB0000068",
@@ -1217,47 +1083,41 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KHODALA",
-    "MICR CODE": "NA",
-    "STD CODE": "2529",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000069": {
     "BANK": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
     "IFSC": "TDCB0000069",
-    "MICR CODE": "NA",
     "BRANCH": "BADLAPUR",
     "ADDRESS": "HARSHAL  APARTMENT, 1 ST FLOOR,  NEAR TALATHI OFFI",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "THANE",
     "DISTRICT": "BADLAPUR",
     "STATE": "MAHARASHTRA",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000070": {
     "BANK": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
     "IFSC": "TDCB0000070",
-    "MICR CODE": "NA",
     "BRANCH": "DANDI",
     "ADDRESS": "KOPRAN MACHIMAR DANDI SANSTHA AT & POST-DANDI,TALU",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "THANE",
     "DISTRICT": "DANDI",
     "STATE": "MAHARASHTRA",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000071": {
     "IFSC": "TDCB0000071",
@@ -1271,11 +1131,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "PALGHAR",
-    "MICR CODE": "NA",
-    "STD CODE": "2525",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000072": {
     "IFSC": "TDCB0000072",
@@ -1289,11 +1147,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "VASAI",
-    "MICR CODE": "NA",
-    "STD CODE": "250",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000073": {
     "IFSC": "TDCB0000073",
@@ -1307,11 +1163,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KHANIVALI",
-    "MICR CODE": "NA",
-    "STD CODE": "2526",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000074": {
     "IFSC": "TDCB0000074",
@@ -1326,8 +1180,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "BHIWANDI",
-    "MICR CODE": "400524027",
-    "STD CODE": "2522",
     "NEFT": true,
     "IMPS": true
   },
@@ -1344,8 +1196,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KALYAN",
-    "MICR CODE": "400524020",
-    "STD CODE": "251",
     "NEFT": true,
     "IMPS": true
   },
@@ -1361,11 +1211,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "ATGAON",
-    "MICR CODE": "NA",
-    "STD CODE": "2527",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000077": {
     "IFSC": "TDCB0000077",
@@ -1379,29 +1227,25 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MURBAD",
-    "MICR CODE": "NA",
-    "STD CODE": "2524",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000078": {
     "BANK": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
     "IFSC": "TDCB0000078",
-    "MICR CODE": "NA",
     "BRANCH": "SHIVALE EXT. COUNTER",
     "ADDRESS": "AT-GANDHI CAMP SHIVALE,TAL-MURBAD,PH-247097",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "THANE",
     "DISTRICT": "SHIVALE EXT. COUNTER",
     "STATE": "MAHARASHTRA",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000079": {
     "IFSC": "TDCB0000079",
@@ -1416,8 +1260,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KALYAN",
-    "MICR CODE": "400524032",
-    "STD CODE": "251",
     "NEFT": true,
     "IMPS": true
   },
@@ -1434,8 +1276,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MIRA-BHAYANDAR",
-    "MICR CODE": "400524035",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -1452,8 +1292,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "THANE",
-    "MICR CODE": "400524036",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -1469,11 +1307,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "BELVALI",
-    "MICR CODE": "400524040",
-    "STD CODE": "251",
+    "MICR": "400524040",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000083": {
     "IFSC": "TDCB0000083",
@@ -1487,11 +1323,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MURBAD",
-    "MICR CODE": "NA",
-    "STD CODE": "2524",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000084": {
     "IFSC": "TDCB0000084",
@@ -1505,11 +1339,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "ANGAON",
-    "MICR CODE": "NA",
-    "STD CODE": "2522",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000085": {
     "IFSC": "TDCB0000085",
@@ -1524,8 +1356,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "THANE",
-    "MICR CODE": "400524053",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1542,28 +1372,24 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "THANE",
-    "MICR CODE": "400524052",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
   "TDCB0000087": {
     "BANK": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
     "IFSC": "TDCB0000087",
-    "MICR CODE": "NA",
     "BRANCH": "KUNDE-MAMNOLI",
     "ADDRESS": "ROOM NO. 281, GR FLOOR, AT. MAMNOLI,",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "THANE",
     "DISTRICT": "KUNDE-MAMNOLI",
     "STATE": "MAHARASHTRA",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000088": {
     "IFSC": "TDCB0000088",
@@ -1578,8 +1404,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KALYAN",
-    "MICR CODE": "400524051",
-    "STD CODE": "2521",
     "NEFT": true,
     "IMPS": true
   },
@@ -1595,11 +1419,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "UDHAWA",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000090": {
     "IFSC": "TDCB0000090",
@@ -1614,8 +1436,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "BHIWANDI",
-    "MICR CODE": "400524050",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1631,11 +1451,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "DAHANU",
-    "MICR CODE": "NA",
-    "STD CODE": "2528",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000092": {
     "IFSC": "TDCB0000092",
@@ -1649,11 +1467,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "PALGHAR",
-    "MICR CODE": "NA",
-    "STD CODE": "2525",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000093": {
     "IFSC": "TDCB0000093",
@@ -1667,11 +1483,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "AGHAI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000094": {
     "IFSC": "TDCB0000094",
@@ -1685,11 +1499,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "VIKRAMGAD",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000095": {
     "IFSC": "TDCB0000095",
@@ -1704,8 +1516,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SHAHAPUR",
-    "MICR CODE": "400524058",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1721,11 +1531,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "THANE",
-    "MICR CODE": "400524057",
-    "STD CODE": "22",
+    "MICR": "400524057",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000097": {
     "IFSC": "TDCB0000097",
@@ -1739,29 +1547,25 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "JAWHAR",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000098": {
     "BANK": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
     "IFSC": "TDCB0000098",
-    "MICR CODE": "NA",
     "BRANCH": "NEWALI",
     "ADDRESS": "POST MANGRUL,TAL-AMERNATH",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "THANE",
     "DISTRICT": "NEWALI NAKA",
     "STATE": "MAHARASHTRA",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000099": {
     "IFSC": "TDCB0000099",
@@ -1775,11 +1579,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KALYAN",
-    "MICR CODE": "NA",
-    "STD CODE": "251",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000100": {
     "IFSC": "TDCB0000100",
@@ -1793,11 +1595,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "THANE",
-    "MICR CODE": "400524062",
-    "STD CODE": "22",
+    "MICR": "400524062",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000101": {
     "IFSC": "TDCB0000101",
@@ -1811,11 +1611,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KALYAN",
-    "MICR CODE": "NA",
-    "STD CODE": "251",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000102": {
     "IFSC": "TDCB0000102",
@@ -1830,8 +1628,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "THANE",
-    "MICR CODE": "400524061",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -1848,8 +1644,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SHAHAPUR",
-    "MICR CODE": "400524531",
-    "STD CODE": "2527",
     "NEFT": true,
     "IMPS": true
   },
@@ -1866,8 +1660,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "THANE",
-    "MICR CODE": "400524532",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -1884,8 +1676,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "BHIWANDI",
-    "MICR CODE": "400524533",
-    "STD CODE": "2522",
     "NEFT": true,
     "IMPS": true
   },
@@ -1902,8 +1692,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MURBAD",
-    "MICR CODE": "400524534",
-    "STD CODE": "2524",
     "NEFT": true,
     "IMPS": true
   },
@@ -1920,8 +1708,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "PALGHAR",
-    "MICR CODE": "400524535",
-    "STD CODE": "2525",
     "NEFT": true,
     "IMPS": true
   },
@@ -1938,8 +1724,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "TALASARI",
-    "MICR CODE": "400524536",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -1956,8 +1740,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "DAHANU",
-    "MICR CODE": "400524537",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -1974,8 +1756,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "PALGHAR",
-    "MICR CODE": "400524538",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -1992,8 +1772,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "VASAI",
-    "MICR CODE": "400524066",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -2010,8 +1788,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "VASAI",
-    "MICR CODE": "400524067",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -2027,11 +1803,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIRISHPADA",
-    "MICR CODE": "NA",
-    "STD CODE": "22",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TDCB0000114": {
     "IFSC": "TDCB0000114",
@@ -2046,8 +1820,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "BHIWANDI",
-    "MICR CODE": "400524068",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -2064,8 +1836,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "JAWHAR",
-    "MICR CODE": "400524069",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   }

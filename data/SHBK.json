@@ -13,8 +13,6 @@
     "UPI": false,
     "MICR": "400659002",
     "RTGS": true,
-    "MICR CODE": "400659002",
-    "STD CODE": "22",
     "NEFT": true
   },
   "SHBK0000002": {
@@ -46,8 +44,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400659002",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -64,8 +60,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "NEW DELHI",
-    "MICR CODE": "110017254",
-    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true
   },
@@ -81,11 +75,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "WALAJAPET",
-    "MICR CODE": "632659102",
-    "STD CODE": "4172",
+    "MICR": "632659102",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SHBK0000006": {
     "IFSC": "SHBK0000006",
@@ -99,11 +91,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "PUNE",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SHBK0000007": {
     "IFSC": "SHBK0000007",
@@ -117,11 +107,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "RANGA REDDY",
-    "MICR CODE": "NA",
-    "STD CODE": "40",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SHBK0000008": {
     "IFSC": "SHBK0000008",
@@ -135,10 +123,8 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "AHMEDABAD",
-    "MICR CODE": "NA",
-    "STD CODE": "79",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   }
 }

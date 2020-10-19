@@ -11,11 +11,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "DURGAPUR",
-    "MICR CODE": "NA",
-    "STD CODE": "343",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "DURG0000002": {
     "IFSC": "DURG0000002",
@@ -29,11 +27,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "DURGAPUR",
-    "MICR CODE": "NA",
-    "STD CODE": "343",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "DURG0000003": {
     "IFSC": "DURG0000003",
@@ -48,8 +44,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "DURGAPUR",
-    "MICR CODE": "713836203",
-    "STD CODE": "343",
     "NEFT": true,
     "IMPS": true
   },
@@ -66,8 +60,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "DURGAPUR",
-    "MICR CODE": "713836204",
-    "STD CODE": "343",
     "NEFT": true,
     "IMPS": true
   },
@@ -84,8 +76,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "DURGAPUR",
-    "MICR CODE": "713836205",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -102,8 +92,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "DURGAPUR",
-    "MICR CODE": "713836207",
-    "STD CODE": "343",
     "NEFT": true,
     "IMPS": true
   }

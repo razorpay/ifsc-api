@@ -11,11 +11,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "DELHI",
-    "MICR CODE": "110239002",
-    "STD CODE": "11",
+    "MICR": "110239002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "NOSC0000MUM": {
     "BANK": "Bank of Nova Scotia",
@@ -30,9 +28,7 @@
     "CITY": "MUMBAI",
     "UPI": false,
     "RTGS": true,
-    "MICR CODE": "NA",
-    "STD CODE": "22",
-    "NEFT": true,
-    "MICR": null
+    "MICR": "NA",
+    "NEFT": true
   }
 }

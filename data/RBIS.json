@@ -2,92 +2,82 @@
   "RBIS0AGPA01": {
     "BANK": "RESERVE BANK OF INDIA",
     "IFSC": "RBIS0AGPA01",
-    "MICR CODE": "NA",
     "BRANCH": "AGARTALA",
     "ADDRESS": "II FLOOR,JACKSON GATE BUILDING LENIN SARANI,AGARTALA",
-    "STD CODE": "381",
     "CONTACT": "2381051",
     "CITY": "AGARTALA",
     "DISTRICT": "TRIPURA",
     "STATE": "TRIPURA",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0AHPA01": {
     "BANK": "RESERVE BANK OF INDIA",
     "IFSC": "RBIS0AHPA01",
-    "MICR CODE": "NA",
     "BRANCH": "AHMEDABAD REGIONAL OFFICE",
     "ADDRESS": "PAD,AHMEDABAD MAIN OFFICE,AHMEDABAD",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "AHMEDABAD",
     "DISTRICT": "AHMEDABAD",
     "STATE": "GUJARAT",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0BBPA01": {
     "BANK": "RESERVE BANK OF INDIA",
     "IFSC": "RBIS0BBPA01",
-    "MICR CODE": "NA",
     "BRANCH": "PAD BHUBANESWAR",
     "ADDRESS": "PAD BHUBANESWAR, BHUBANESWAR",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "KHURDA",
     "DISTRICT": "BHUBANESWAR",
     "STATE": "ODISHA",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0BGPA01": {
     "BANK": "RESERVE BANK OF INDIA",
     "IFSC": "RBIS0BGPA01",
-    "MICR CODE": "NA",
     "BRANCH": "BANGALORE REGIONAL OFFICE",
     "ADDRESS": "10 BY 3 BY 8, NRUPTHUNGA ROAD, BANGALORE-560 001",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "BANGALORE",
     "DISTRICT": "BANGALORE",
     "STATE": "KARNATAKA",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0BLPA01": {
     "BANK": "RESERVE BANK OF INDIA",
     "IFSC": "RBIS0BLPA01",
-    "MICR CODE": "NA",
     "BRANCH": "PAD BHOPAL",
     "ADDRESS": "PAD BHOPAL,BHOPAL",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "BHOPAL",
     "DISTRICT": "BHOPAL",
     "STATE": "MADHYA PRADESH",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0CBICER": {
     "IFSC": "RBIS0CBICER",
@@ -101,11 +91,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "NA",
-    "STD CODE": "22",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0CGDAEP": {
     "IFSC": "RBIS0CGDAEP",
@@ -119,47 +107,41 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "NEW DELHI",
-    "MICR CODE": "NA",
-    "STD CODE": "11",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0CGPA01": {
     "BANK": "RESERVE BANK OF INDIA",
     "IFSC": "RBIS0CGPA01",
-    "MICR CODE": "NA",
     "BRANCH": "PAD CHANDIGARH",
     "ADDRESS": "PAD CHANDIGARH,CHANDIGARH",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "CHANDIGARH",
     "DISTRICT": "CHANDIGARH",
     "STATE": "CHANDIGARH",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0CNPA01": {
     "BANK": "RESERVE BANK OF INDIA",
     "IFSC": "RBIS0CNPA01",
-    "MICR CODE": "NA",
     "BRANCH": "CHENNAI REGIONAL OFFICE",
     "ADDRESS": "PAD,CHENNAI MAIN OFFICE,CHENNAI",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
     "STATE": "TAMIL NADU",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0COD001": {
     "IFSC": "RBIS0COD001",
@@ -173,29 +155,25 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "NA",
-    "STD CODE": "22",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0DNPA01": {
     "BANK": "RESERVE BANK OF INDIA",
     "IFSC": "RBIS0DNPA01",
-    "MICR CODE": "NA",
     "BRANCH": "DEHRADUN",
     "ADDRESS": "74 BY 1,RAJPUR ROAD,DEHRADUN",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "DEHRADUN",
     "DISTRICT": "DEHRADUN",
     "STATE": "UTTARAKHAND",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0GOAPEP": {
     "IFSC": "RBIS0GOAPEP",
@@ -209,29 +187,25 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "HYDERABAD",
-    "MICR CODE": "NA",
-    "STD CODE": "40",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0GOAPER": {
     "BANK": "RESERVE BANK OF INDIA",
     "IFSC": "RBIS0GOAPER",
-    "MICR CODE": "NA",
     "BRANCH": "RBI HYDERABAD GOVT OF ANDHRA PRADESH",
     "ADDRESS": "6-1-56, SECRETARIAT ROAD, SAIFABAD, HYDERABAD",
-    "STD CODE": "40",
     "CONTACT": "23230863",
     "CITY": "HYDERABAD",
     "DISTRICT": "HYDERABAD",
     "STATE": "TELANGANA",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0GOASEP": {
     "IFSC": "RBIS0GOASEP",
@@ -245,11 +219,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "GUWAHATI",
-    "MICR CODE": "NA",
-    "STD CODE": "361",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0GOBHEP": {
     "IFSC": "RBIS0GOBHEP",
@@ -263,11 +235,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "PATNA",
-    "MICR CODE": "NA",
-    "STD CODE": "612",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0GOCGEP": {
     "IFSC": "RBIS0GOCGEP",
@@ -281,11 +251,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "RAIPUR",
-    "MICR CODE": "NA",
-    "STD CODE": "771",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0GOGJEP": {
     "IFSC": "RBIS0GOGJEP",
@@ -299,11 +267,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "AHMEDABAD",
-    "MICR CODE": "NA",
-    "STD CODE": "79",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0GOJHEP": {
     "IFSC": "RBIS0GOJHEP",
@@ -317,11 +283,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "RANCHI",
-    "MICR CODE": "NA",
-    "STD CODE": "651",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0GOJHER": {
     "IFSC": "RBIS0GOJHER",
@@ -335,11 +299,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "RANCHI",
-    "MICR CODE": "NA",
-    "STD CODE": "651",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0GOJKEP": {
     "IFSC": "RBIS0GOJKEP",
@@ -353,29 +315,25 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "JAMMU",
-    "MICR CODE": "NA",
-    "STD CODE": "191",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0GOKAEP": {
     "BANK": "RESERVE BANK OF INDIA",
     "IFSC": "RBIS0GOKAEP",
-    "MICR CODE": "NA",
     "BRANCH": "RBI, BENGALURU,GOVT OF KARNATAKA",
     "ADDRESS": "RESERVE BANK OF INDIA, 10/3/8, NRUPTHUNGA ROAD BENGALURU 560001,INDIA",
-    "STD CODE": "80",
     "CONTACT": "22212789",
     "CITY": "BENGALURU",
     "DISTRICT": "BENGALURU",
     "STATE": "KARNATAKA",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0GOKAER": {
     "IFSC": "RBIS0GOKAER",
@@ -389,11 +347,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "BENGALURU",
-    "MICR CODE": "NA",
-    "STD CODE": "80",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0GOMHEP": {
     "IFSC": "RBIS0GOMHEP",
@@ -407,11 +363,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "NA",
-    "STD CODE": "22",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0GOMNEP": {
     "IFSC": "RBIS0GOMNEP",
@@ -425,11 +379,25 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "GUWAHATI",
-    "MICR CODE": "NA",
-    "STD CODE": "361",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
+  },
+  "RBIS0GOMZEP": {
+    "BANK": "RESERVE BANK OF INDIA",
+    "IFSC": "RBIS0GOMZEP",
+    "BRANCH": "Guwahati Regional Office",
+    "ADDRESS": "Station Rd, Mawhati, Pan Bazaar, Guwahati, Assam 781001",
+    "CONTACT": "2734266",
+    "CITY": "Guwahati",
+    "DISTRICT": "Guwahati",
+    "STATE": "ASSAM",
+    "MICR": "NA",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": false,
+    "RTGS": false,
+    "IMPS": true
   },
   "RBIS0GOODEP": {
     "IFSC": "RBIS0GOODEP",
@@ -443,11 +411,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "BHUBANESWAR",
-    "MICR CODE": "NA",
-    "STD CODE": "674",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0GOPNEP": {
     "IFSC": "RBIS0GOPNEP",
@@ -461,11 +427,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "CHANDIGARH",
-    "MICR CODE": "NA",
-    "STD CODE": "172",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0GORJEP": {
     "IFSC": "RBIS0GORJEP",
@@ -479,11 +443,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "JAIPUR",
-    "MICR CODE": "NA",
-    "STD CODE": "141",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0GOTGEP": {
     "IFSC": "RBIS0GOTGEP",
@@ -497,11 +459,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "HYDERABAD",
-    "MICR CODE": "NA",
-    "STD CODE": "40",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0GOTNEP": {
     "IFSC": "RBIS0GOTNEP",
@@ -515,11 +475,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "NA",
-    "STD CODE": "44",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0GOUKEP": {
     "IFSC": "RBIS0GOUKEP",
@@ -533,11 +491,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "DEHRADUN",
-    "MICR CODE": "NA",
-    "STD CODE": "135",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0GOUPEP": {
     "IFSC": "RBIS0GOUPEP",
@@ -551,11 +507,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "Kanpur",
-    "MICR CODE": "NA",
-    "STD CODE": "512",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0GOWBEP": {
     "IFSC": "RBIS0GOWBEP",
@@ -569,11 +523,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KOLKATA",
-    "MICR CODE": "NA",
-    "STD CODE": "33",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0GSTPMT": {
     "IFSC": "RBIS0GSTPMT",
@@ -587,173 +539,153 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "NA",
-    "STD CODE": "22",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0GTPA01": {
     "BANK": "RESERVE BANK OF INDIA",
     "IFSC": "RBIS0GTPA01",
-    "MICR CODE": "NA",
     "BRANCH": "GANGTOK",
     "ADDRESS": "LRSYZALTK",
-    "STD CODE": "3592",
     "CONTACT": "281117",
     "CITY": "GANGTOK",
     "DISTRICT": "SIKKIM",
     "STATE": "SIKKIM",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0GWPA01": {
     "BANK": "RESERVE BANK OF INDIA",
     "IFSC": "RBIS0GWPA01",
-    "MICR CODE": "NA",
     "BRANCH": "PAD GUWAHATI",
     "ADDRESS": "PAD GUWAHATI",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "GUWAHATI",
     "DISTRICT": "GUWAHATI",
     "STATE": "ASSAM",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0JMPA01": {
     "BANK": "RESERVE BANK OF INDIA",
     "IFSC": "RBIS0JMPA01",
-    "MICR CODE": "NA",
     "BRANCH": "JAMMU",
     "ADDRESS": "RESERVE BANK OF INDIA,JAMMU",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "JAMMU",
     "DISTRICT": "JAMMU",
     "STATE": "JAMMU AND KASHMIR",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0JPPA01": {
     "BANK": "RESERVE BANK OF INDIA",
     "IFSC": "RBIS0JPPA01",
-    "MICR CODE": "NA",
     "BRANCH": "PUBLIC ACCOUNTS DEPT",
     "ADDRESS": "RAMBAGH CIRCLE,TONK ROAD,JAIPUR-302004",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "JAIPUR",
     "DISTRICT": "JAIPUR",
     "STATE": "RAJASTHAN",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0KCPA01": {
     "BANK": "RESERVE BANK OF INDIA",
     "IFSC": "RBIS0KCPA01",
-    "MICR CODE": "NA",
     "BRANCH": "KOCHI",
     "ADDRESS": "FOREIGN EXCHANGE DEPARTMENT , RESERVE BANK OF INDIA, ERNAKULAM NORTH, KOCHI 682018",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "ERNAKULAM",
     "DISTRICT": "KOCHI",
     "STATE": "KERALA",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0KLPA01": {
     "BANK": "RESERVE BANK OF INDIA",
     "IFSC": "RBIS0KLPA01",
-    "MICR CODE": "NA",
     "BRANCH": "RBI PAD KOLKATA",
     "ADDRESS": "RBI PAD,KOLKATA",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "KOLKATA",
     "DISTRICT": "KOLKATA",
     "STATE": "WEST BENGAL",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0KNPA01": {
     "BANK": "RESERVE BANK OF INDIA",
     "IFSC": "RBIS0KNPA01",
-    "MICR CODE": "NA",
     "BRANCH": "PAD KANPUR",
     "ADDRESS": "PAD KANPUR,KANPUR",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "KANPUR",
     "DISTRICT": "KANPUR",
     "STATE": "UTTAR PRADESH",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0LKPA01": {
     "BANK": "RESERVE BANK OF INDIA",
     "IFSC": "RBIS0LKPA01",
-    "MICR CODE": "NA",
     "BRANCH": "RBI PAD LUCKNOW",
     "ADDRESS": "RBI PAD, LUCKNOW.",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "LUCKNOW",
     "DISTRICT": "LUCKNOW",
     "STATE": "UTTAR PRADESH",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0MBPA04": {
     "BANK": "RESERVE BANK OF INDIA",
     "IFSC": "RBIS0MBPA04",
-    "MICR CODE": "NA",
     "BRANCH": "PAD MUMBAI",
     "ADDRESS": "PAD ,GROUND FLOOR,MAIN BUILDING ,FORT MUMBAI- 400001",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "GREATER BOMBAY",
     "DISTRICT": "MUMBAI",
     "STATE": "MAHARASHTRA",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0NDPA01": {
     "BANK": "Reserve Bank Of India",
@@ -767,65 +699,57 @@
     "IMPS": true,
     "CITY": "DELHI",
     "UPI": false,
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "RTGS": false,
-    "MICR": null
+    "RTGS": false
   },
   "RBIS0NEFTHY": {
     "BANK": "RESERVE BANK OF INDIA",
     "IFSC": "RBIS0NEFTHY",
-    "MICR CODE": "NA",
     "BRANCH": "RBI PAD",
     "ADDRESS": "RBI,LAKDIKAPUL,HYDERABAD",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "HYDERABAD",
     "DISTRICT": "HYDERABAD",
     "STATE": "ANDHRA PRADESH",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0NGPA01": {
     "BANK": "RESERVE BANK OF INDIA",
     "IFSC": "RBIS0NGPA01",
-    "MICR CODE": "NA",
     "BRANCH": "PAD NAGPUR",
     "ADDRESS": "PAD NAGPUR,NAGPUR",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "NAGPUR",
     "DISTRICT": "NAGPUR",
     "STATE": "MAHARASHTRA",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0NMPA01": {
     "BANK": "RESERVE BANK OF INDIA",
     "IFSC": "RBIS0NMPA01",
-    "MICR CODE": "NA",
     "BRANCH": "CBD BELAPUR",
     "ADDRESS": "PLOT NO.3,SECTOR 10,H.H. NIRMALADEVI MARG,CBD,BELAPUR, NAVI MUMBAI 400614",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "NAVI MUMBAI",
     "DISTRICT": "NAVI MUMBAI",
     "STATE": "MAHARASHTRA",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0NTRPER": {
     "IFSC": "RBIS0NTRPER",
@@ -839,11 +763,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "NA",
-    "STD CODE": "22",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0PFMS01": {
     "IFSC": "RBIS0PFMS01",
@@ -857,65 +779,57 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "NEW DELHI",
-    "MICR CODE": "NA",
-    "STD CODE": "11",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0PJPA01": {
     "BANK": "RESERVE BANK OF INDIA",
     "IFSC": "RBIS0PJPA01",
-    "MICR CODE": "NA",
     "BRANCH": "PANAJI",
     "ADDRESS": "GERAS IMPERIUM II 7TH FLOOR 70706 PATTO PANAJI GOA 403001",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "PANAJI",
     "DISTRICT": "PANAJI",
     "STATE": "GOA",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0PTPA01": {
     "BANK": "RESERVE BANK OF INDIA",
     "IFSC": "RBIS0PTPA01",
-    "MICR CODE": "NA",
     "BRANCH": "PAD PATNA",
     "ADDRESS": "PAD PATNA,PATNA",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "PATNA",
     "DISTRICT": "PATNA",
     "STATE": "BIHAR",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0PUPA01": {
     "BANK": "RESERVE BANK OF INDIA",
     "IFSC": "RBIS0PUPA01",
-    "MICR CODE": "NA",
     "BRANCH": "CAB PUNE",
     "ADDRESS": "GANESH KHIND ROAD, NEAR ESQUARE",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "PUNE",
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0RBIPI0": {
     "BANK": "Reserve Bank Employees Co-operative Bank",
@@ -936,20 +850,18 @@
   "RBIS0RNPA01": {
     "BANK": "RESERVE BANK OF INDIA",
     "IFSC": "RBIS0RNPA01",
-    "MICR CODE": "NA",
     "BRANCH": "RANCHI",
     "ADDRESS": "4TH FLOOR.RRDA BUILDING.KATCHEHRI ROAD,RANCHI 834001. JHARKHAND",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "RANCHI",
     "DISTRICT": "RANCHI",
     "STATE": "JHARKHAND",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0RPPA01": {
     "IFSC": "RBIS0RPPA01",
@@ -964,99 +876,87 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "RAIPUR",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "RBIS0SAMADN": {
     "BANK": "RESERVE BANK OF INDIA",
     "IFSC": "RBIS0SAMADN",
-    "MICR CODE": "NA",
     "BRANCH": "SAMADHAN - HR OPERATIONS UNIT",
     "ADDRESS": "RESERVE BANK OF INDIA, BENGALURU",
-    "STD CODE": "80",
     "CONTACT": "22180100",
     "CITY": "BENGALURU",
     "DISTRICT": "BENGALURU",
     "STATE": "KARNATAKA",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0SCPA01": {
     "BANK": "RESERVE BANK OF INDIA",
     "IFSC": "RBIS0SCPA01",
-    "MICR CODE": "NA",
     "BRANCH": "RESERVE BANK STAFF COLLEGE RBSC CHENNAI",
     "ADDRESS": "5,ANNASALAI,TEYNAMPET,CHENNAI",
-    "STD CODE": "44",
     "CONTACT": "24302700",
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
     "STATE": "TAMIL NADU",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0SLPA01": {
     "BANK": "RESERVE BANK OF INDIA",
     "IFSC": "RBIS0SLPA01",
-    "MICR CODE": "NA",
     "BRANCH": "SHILLONG",
     "ADDRESS": "APPHIRA BUILDING,FRUIT GARDEN,SHILLONG JOWAI ROAD,SHILLONG",
-    "STD CODE": "364",
     "CONTACT": "2501839",
     "CITY": "SHILLONG",
     "DISTRICT": "MEGHALAYA",
     "STATE": "MEGHALAYA",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0SMPA01": {
     "BANK": "RESERVE BANK OF INDIA",
     "IFSC": "RBIS0SMPA01",
-    "MICR CODE": "NA",
     "BRANCH": "SHIMLA",
     "ADDRESS": "RURAL PLANNING AND CREDIT DEPARTMENT , B 478, SECTOR IV, NEW SHIMLA, SHIMLA 171009",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "SHIMLA",
     "DISTRICT": "NEW SHIMLA",
     "STATE": "HIMACHAL PRADESH",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RBIS0THPA01": {
     "BANK": "RESERVE BANK OF INDIA",
     "IFSC": "RBIS0THPA01",
-    "MICR CODE": "NA",
     "BRANCH": "TRIVANDRUM",
     "ADDRESS": "RESERVE BANK OF INDIA,TRIVANDRUM",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "THIRUVANANTHAPURAM",
     "DISTRICT": "TRIVANDRUM",
     "STATE": "KERALA",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   }
 }

@@ -11,11 +11,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "560032002",
-    "STD CODE": "80",
+    "MICR": "560032002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "BOFA0CN6215": {
     "IFSC": "BOFA0CN6215",
@@ -30,8 +28,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600032001",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -49,8 +45,6 @@
     "UPI": false,
     "MICR": "000032002",
     "RTGS": true,
-    "MICR CODE": "32002",
-    "STD CODE": "22",
     "NEFT": true
   },
   "BOFA0ND6216": {
@@ -65,10 +59,8 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "DELHI",
-    "MICR CODE": "110032001",
-    "STD CODE": "11",
+    "MICR": "110032001",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   }
 }

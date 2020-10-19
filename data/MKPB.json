@@ -11,11 +11,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MALKAPUR",
-    "MICR CODE": "NA",
-    "STD CODE": "7267",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "MKPB0000101": {
     "IFSC": "MKPB0000101",
@@ -30,8 +28,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MALKAPUR",
-    "MICR CODE": "443561052",
-    "STD CODE": "7267",
     "NEFT": true,
     "IMPS": true
   },
@@ -48,8 +44,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MOTALA",
-    "MICR CODE": "443561502",
-    "STD CODE": "7267",
     "NEFT": true,
     "IMPS": true
   },
@@ -66,8 +60,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MEHKAR",
-    "MICR CODE": "443561503",
-    "STD CODE": "7268",
     "NEFT": true,
     "IMPS": true
   },
@@ -84,8 +76,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "BHOKARDAN",
-    "MICR CODE": "431561501",
-    "STD CODE": "2485",
     "NEFT": true,
     "IMPS": true
   },
@@ -102,8 +92,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SILLOD",
-    "MICR CODE": "431561502",
-    "STD CODE": "2430",
     "NEFT": true,
     "IMPS": true
   },
@@ -120,8 +108,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "CHIKHLI",
-    "MICR CODE": "443561102",
-    "STD CODE": "7264",
     "NEFT": true,
     "IMPS": true
   },
@@ -138,8 +124,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "AURANGABAD",
-    "MICR CODE": "431561002",
-    "STD CODE": "240",
     "NEFT": true,
     "IMPS": true
   },
@@ -156,8 +140,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "AURANGABAD",
-    "MICR CODE": "431561004",
-    "STD CODE": "240",
     "NEFT": true,
     "IMPS": true
   },
@@ -174,8 +156,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "JALNA",
-    "MICR CODE": "431561052",
-    "STD CODE": "2482",
     "NEFT": true,
     "IMPS": true
   },
@@ -192,8 +172,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "AURANGABAD",
-    "MICR CODE": "431561005",
-    "STD CODE": "240",
     "NEFT": true,
     "IMPS": true
   },
@@ -210,8 +188,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "AURANGABAD",
-    "MICR CODE": "431561003",
-    "STD CODE": "240",
     "NEFT": true,
     "IMPS": true
   },
@@ -228,8 +204,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "AURANGABAD",
-    "MICR CODE": "431561006",
-    "STD CODE": "240",
     "NEFT": true,
     "IMPS": true
   },
@@ -246,8 +220,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "JALGAON",
-    "MICR CODE": "425561002",
-    "STD CODE": "257",
     "NEFT": true,
     "IMPS": true
   },
@@ -264,8 +236,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "BHUSAWAL",
-    "MICR CODE": "425561102",
-    "STD CODE": "2582",
     "NEFT": true,
     "IMPS": true
   },
@@ -282,8 +252,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "PUNE",
-    "MICR CODE": "411485255",
-    "STD CODE": "20",
     "NEFT": true,
     "IMPS": true
   },
@@ -300,8 +268,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "AURANGABAD",
-    "MICR CODE": "431561007",
-    "STD CODE": "240",
     "NEFT": true,
     "IMPS": true
   },
@@ -318,8 +284,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "AURANGABAD",
-    "MICR CODE": "431561008",
-    "STD CODE": "240",
     "NEFT": true,
     "IMPS": true
   },
@@ -336,8 +300,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "AKOLA",
-    "MICR CODE": "444561002",
-    "STD CODE": "724",
     "NEFT": true,
     "IMPS": true
   },
@@ -354,8 +316,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "AMRAWATI",
-    "MICR CODE": "444561102",
-    "STD CODE": "721",
     "NEFT": true,
     "IMPS": true
   },
@@ -372,8 +332,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KARANJA-LAD",
-    "MICR CODE": "444561452",
-    "STD CODE": "7256",
     "NEFT": true,
     "IMPS": true
   },
@@ -390,8 +348,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "YAVATMAL",
-    "MICR CODE": "445561002",
-    "STD CODE": "7232",
     "NEFT": true,
     "IMPS": true
   },
@@ -408,8 +364,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "WASHIM",
-    "MICR CODE": "444561202",
-    "STD CODE": "7252",
     "NEFT": true,
     "IMPS": true
   },
@@ -426,8 +380,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "PUSAD",
-    "MICR CODE": "445561102",
-    "STD CODE": "7233",
     "NEFT": true,
     "IMPS": true
   },
@@ -444,8 +396,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SHEGAON",
-    "MICR CODE": "444561402",
-    "STD CODE": "7265",
     "NEFT": true,
     "IMPS": true
   },
@@ -462,8 +412,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MURTIJAPUR",
-    "MICR CODE": "444561502",
-    "STD CODE": "7256",
     "NEFT": true,
     "IMPS": true
   },
@@ -480,8 +428,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "WARDHA",
-    "MICR CODE": "442561001",
-    "STD CODE": "715",
     "NEFT": true,
     "IMPS": true
   },
@@ -498,8 +444,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "NAGPUR",
-    "MICR CODE": "440561002",
-    "STD CODE": "712",
     "NEFT": true,
     "IMPS": true
   },
@@ -516,8 +460,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MALKAPUR",
-    "MICR CODE": "443561053",
-    "STD CODE": "7267",
     "NEFT": true,
     "IMPS": true
   },

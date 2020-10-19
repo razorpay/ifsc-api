@@ -12,8 +12,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600054003",
-    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true
   },
@@ -30,8 +28,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANJAVUR",
-    "MICR CODE": "613054002",
-    "STD CODE": "4362",
     "NEFT": true,
     "IMPS": true
   },
@@ -47,11 +43,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KUMBAKONAM",
-    "MICR CODE": "612054003",
-    "STD CODE": "435",
+    "MICR": "612054003",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000004": {
     "IFSC": "CIUB0000004",
@@ -66,8 +60,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KUMBAKONAM",
-    "MICR CODE": "612054002",
-    "STD CODE": "435",
     "NEFT": true,
     "IMPS": true
   },
@@ -84,8 +76,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MAYILADUTHURAI",
-    "MICR CODE": "609054002",
-    "STD CODE": "4364",
     "NEFT": true,
     "IMPS": true
   },
@@ -101,11 +91,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGAPATTINAM",
-    "MICR CODE": "611054002",
-    "STD CODE": "4365",
+    "MICR": "611054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000007": {
     "IFSC": "CIUB0000007",
@@ -119,11 +107,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Mannargudi",
-    "MICR CODE": "614054002",
-    "STD CODE": "4367",
+    "MICR": "614054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000008": {
     "IFSC": "CIUB0000008",
@@ -138,8 +124,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUVARUR",
-    "MICR CODE": "610054002",
-    "STD CODE": "4366",
     "NEFT": true,
     "IMPS": true
   },
@@ -156,8 +140,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ADUTHURAI",
-    "MICR CODE": "612054009",
-    "STD CODE": "435",
     "NEFT": true,
     "IMPS": true
   },
@@ -173,11 +155,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AYYAMPET",
-    "MICR CODE": "613054003",
-    "STD CODE": "4374",
+    "MICR": "613054003",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000011": {
     "IFSC": "CIUB0000011",
@@ -191,11 +171,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ERAVANCHERI",
-    "MICR CODE": "612054010",
-    "STD CODE": "4366",
+    "MICR": "612054010",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000012": {
     "IFSC": "CIUB0000012",
@@ -209,11 +187,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KORADACHERI",
-    "MICR CODE": "610054005",
-    "STD CODE": "4366",
+    "MICR": "610054005",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000013": {
     "IFSC": "CIUB0000013",
@@ -227,11 +203,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Kodavasal",
-    "MICR CODE": "610054007",
-    "STD CODE": "4366",
+    "MICR": "610054007",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000014": {
     "IFSC": "CIUB0000014",
@@ -245,11 +219,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Kuttalam",
-    "MICR CODE": "609054003",
-    "STD CODE": "4364",
+    "MICR": "609054003",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000015": {
     "IFSC": "CIUB0000015",
@@ -263,11 +235,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Nannilam",
-    "MICR CODE": "610054006",
-    "STD CODE": "4366",
+    "MICR": "610054006",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000016": {
     "IFSC": "CIUB0000016",
@@ -281,11 +251,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Sannanallur",
-    "MICR CODE": "610054008",
-    "STD CODE": "4366",
+    "MICR": "610054008",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000017": {
     "IFSC": "CIUB0000017",
@@ -299,11 +267,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Porayar",
-    "MICR CODE": "609054103",
-    "STD CODE": "4364",
+    "MICR": "609054103",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000018": {
     "IFSC": "CIUB0000018",
@@ -317,11 +283,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Sembanarkoil",
-    "MICR CODE": "609054004",
-    "STD CODE": "4364",
+    "MICR": "609054004",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000019": {
     "IFSC": "CIUB0000019",
@@ -335,11 +299,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUKATTUPALLI",
-    "MICR CODE": "613054004",
-    "STD CODE": "4362",
+    "MICR": "613054004",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000020": {
     "IFSC": "CIUB0000020",
@@ -354,8 +316,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUPANANDAL",
-    "MICR CODE": "612054012",
-    "STD CODE": "435",
     "NEFT": true,
     "IMPS": true
   },
@@ -371,11 +331,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THIRUVIDAIMARUDUR",
-    "MICR CODE": "612054005",
-    "STD CODE": "435",
+    "MICR": "612054005",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000022": {
     "IFSC": "CIUB0000022",
@@ -389,11 +347,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Valangaiman",
-    "MICR CODE": "612054006",
-    "STD CODE": "4374",
+    "MICR": "612054006",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000023": {
     "IFSC": "CIUB0000023",
@@ -407,11 +363,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUCHIRAPPALLI",
-    "MICR CODE": "620054002",
-    "STD CODE": "431",
+    "MICR": "620054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000024": {
     "IFSC": "CIUB0000024",
@@ -426,8 +380,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ARIYALUR",
-    "MICR CODE": "621054002",
-    "STD CODE": "4329",
     "NEFT": true,
     "IMPS": true
   },
@@ -443,11 +395,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JAYAMKONDACHOLAPURAM",
-    "MICR CODE": "621054004",
-    "STD CODE": "4331",
+    "MICR": "621054004",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000026": {
     "IFSC": "CIUB0000026",
@@ -462,8 +412,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MANAPPARAI",
-    "MICR CODE": "620054006",
-    "STD CODE": "4332",
     "NEFT": true,
     "IMPS": true
   },
@@ -480,8 +428,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MADURAI",
-    "MICR CODE": "625054002",
-    "STD CODE": "452",
     "NEFT": true,
     "IMPS": true
   },
@@ -498,8 +444,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DINDIGUL",
-    "MICR CODE": "625054005",
-    "STD CODE": "451",
     "NEFT": true,
     "IMPS": true
   },
@@ -516,8 +460,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KEELAPALUVUR",
-    "MICR CODE": "621054003",
-    "STD CODE": "4329",
     "NEFT": true,
     "IMPS": true
   },
@@ -533,11 +475,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THIRUMAKOTTAI",
-    "MICR CODE": "614054003",
-    "STD CODE": "4367",
+    "MICR": "614054003",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000031": {
     "IFSC": "CIUB0000031",
@@ -551,11 +491,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Kottur",
-    "MICR CODE": "614054005",
-    "STD CODE": "4367",
+    "MICR": "614054005",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000032": {
     "IFSC": "CIUB0000032",
@@ -569,11 +507,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KUMBAKONAM",
-    "MICR CODE": "610054003",
-    "STD CODE": "435",
+    "MICR": "610054003",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000033": {
     "IFSC": "CIUB0000033",
@@ -587,11 +523,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUVARUR",
-    "MICR CODE": "641054002",
-    "STD CODE": "4366",
+    "MICR": "641054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000034": {
     "IFSC": "CIUB0000034",
@@ -605,11 +539,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
-    "MICR CODE": "625054202",
-    "STD CODE": "422",
+    "MICR": "625054202",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000035": {
     "IFSC": "CIUB0000035",
@@ -623,11 +555,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PERIYAKULAM",
-    "MICR CODE": "600054002",
-    "STD CODE": "4546",
+    "MICR": "600054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000036": {
     "IFSC": "CIUB0000036",
@@ -641,11 +571,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "614054102",
-    "STD CODE": "44",
+    "MICR": "614054102",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000037": {
     "IFSC": "CIUB0000037",
@@ -660,8 +588,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PATTUKOTTAI",
-    "MICR CODE": "600054004",
-    "STD CODE": "4373",
     "NEFT": true,
     "IMPS": true
   },
@@ -677,11 +603,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "605054003",
-    "STD CODE": "44",
+    "MICR": "605054003",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000039": {
     "IFSC": "CIUB0000039",
@@ -696,8 +620,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CUDDALORE",
-    "MICR CODE": "622054002",
-    "STD CODE": "4142",
     "NEFT": true,
     "IMPS": true
   },
@@ -714,8 +636,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUDUKKOTTAI",
-    "MICR CODE": "605054005",
-    "STD CODE": "4322",
     "NEFT": true,
     "IMPS": true
   },
@@ -731,11 +651,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Chidambaram",
-    "MICR CODE": "636054002",
-    "STD CODE": "4144",
+    "MICR": "636054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000042": {
     "IFSC": "CIUB0000042",
@@ -750,8 +668,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SALEM",
-    "MICR CODE": "600054006",
-    "STD CODE": "4272",
     "NEFT": true,
     "IMPS": true
   },
@@ -767,11 +683,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "611054004",
-    "STD CODE": "44",
+    "MICR": "611054004",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000044": {
     "IFSC": "CIUB0000044",
@@ -785,11 +699,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Tirupoondi",
-    "MICR CODE": "610054004",
-    "STD CODE": "4365",
+    "MICR": "610054004",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000045": {
     "IFSC": "CIUB0000045",
@@ -803,11 +715,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THIRUNELLIKKAVAL",
-    "MICR CODE": "611054003",
-    "STD CODE": "436",
+    "MICR": "611054003",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000046": {
     "IFSC": "CIUB0000046",
@@ -821,11 +731,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THIRUMARUGAL",
-    "MICR CODE": "614054004",
-    "STD CODE": "4366",
+    "MICR": "614054004",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000047": {
     "IFSC": "CIUB0000047",
@@ -839,11 +747,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Ullikkottai",
-    "MICR CODE": "627054002",
-    "STD CODE": "4367",
+    "MICR": "627054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000048": {
     "IFSC": "CIUB0000048",
@@ -858,8 +764,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUNELVELI",
-    "MICR CODE": "600054005",
-    "STD CODE": "4622",
     "NEFT": true,
     "IMPS": true
   },
@@ -876,8 +780,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "630054002",
-    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true
   },
@@ -893,11 +795,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KARAIKUDI",
-    "MICR CODE": "614054103",
-    "STD CODE": "4565",
+    "MICR": "614054103",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000051": {
     "IFSC": "CIUB0000051",
@@ -911,11 +811,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Thamarangkottai",
-    "MICR CODE": "606054104",
-    "STD CODE": "4373",
+    "MICR": "606054104",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000052": {
     "IFSC": "CIUB0000052",
@@ -929,11 +827,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Rishivandiyam",
-    "MICR CODE": "641054004",
-    "STD CODE": "4151",
+    "MICR": "641054004",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000053": {
     "IFSC": "CIUB0000053",
@@ -948,8 +844,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
-    "MICR CODE": "560054002",
-    "STD CODE": "422",
     "NEFT": true,
     "IMPS": true
   },
@@ -966,8 +860,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BENGALURU",
-    "MICR CODE": "607054202",
-    "STD CODE": "80",
     "NEFT": true,
     "IMPS": true
   },
@@ -983,11 +875,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Sengurichi",
-    "MICR CODE": "607054203",
-    "STD CODE": "4149",
+    "MICR": "607054203",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000056": {
     "IFSC": "CIUB0000056",
@@ -1001,11 +891,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Veerapandi",
-    "MICR CODE": "605054006",
-    "STD CODE": "4153",
+    "MICR": "605054006",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000057": {
     "IFSC": "CIUB0000057",
@@ -1019,11 +907,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Madurapakkam",
-    "MICR CODE": "624054103",
-    "STD CODE": "413",
+    "MICR": "624054103",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000058": {
     "IFSC": "CIUB0000058",
@@ -1038,8 +924,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THALAIYUTHU",
-    "MICR CODE": "638054002",
-    "STD CODE": "4545",
     "NEFT": true,
     "IMPS": true
   },
@@ -1055,11 +939,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ERODE",
-    "MICR CODE": "622054003",
-    "STD CODE": "4242",
+    "MICR": "622054003",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000060": {
     "IFSC": "CIUB0000060",
@@ -1073,11 +955,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Silattur",
-    "MICR CODE": "500054002",
-    "STD CODE": "4371",
+    "MICR": "500054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000061": {
     "IFSC": "CIUB0000061",
@@ -1091,11 +971,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
-    "MICR CODE": "600054024",
-    "STD CODE": "4023",
+    "MICR": "600054024",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000062": {
     "IFSC": "CIUB0000062",
@@ -1109,11 +987,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VEPPAMPATTU",
-    "MICR CODE": "607054204",
-    "STD CODE": "44",
+    "MICR": "607054204",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000063": {
     "IFSC": "CIUB0000063",
@@ -1127,11 +1003,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Veeraperumanallur",
-    "MICR CODE": "620054008",
-    "STD CODE": "4142",
+    "MICR": "620054008",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000064": {
     "IFSC": "CIUB0000064",
@@ -1145,11 +1019,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THIMACHIPURAM",
-    "MICR CODE": "632054002",
-    "STD CODE": "4323",
+    "MICR": "632054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000065": {
     "IFSC": "CIUB0000065",
@@ -1163,11 +1035,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VELLORE",
-    "MICR CODE": "641054102",
-    "STD CODE": "4162",
+    "MICR": "641054102",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000066": {
     "IFSC": "CIUB0000066",
@@ -1181,11 +1051,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
-    "MICR CODE": "600054007",
-    "STD CODE": "4212",
+    "MICR": "600054007",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000067": {
     "IFSC": "CIUB0000067",
@@ -1200,8 +1068,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "612054007",
-    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true
   },
@@ -1217,11 +1083,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Alangudi",
-    "MICR CODE": "622054005",
-    "STD CODE": "4374",
+    "MICR": "622054005",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000069": {
     "IFSC": "CIUB0000069",
@@ -1235,11 +1099,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ADANAKKOTTAI",
-    "MICR CODE": "612054008",
-    "STD CODE": "4322",
+    "MICR": "612054008",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000070": {
     "IFSC": "CIUB0000070",
@@ -1253,11 +1115,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Kurichi",
-    "MICR CODE": "600054017",
-    "STD CODE": "435",
+    "MICR": "600054017",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000071": {
     "IFSC": "CIUB0000071",
@@ -1271,11 +1131,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KANCHIPURAM",
-    "MICR CODE": "624054102",
-    "STD CODE": "44",
+    "MICR": "624054102",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000072": {
     "IFSC": "CIUB0000072",
@@ -1289,11 +1147,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MANJANAICKENPATTI",
-    "MICR CODE": "625054006",
-    "STD CODE": "4545",
+    "MICR": "625054006",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000073": {
     "IFSC": "CIUB0000073",
@@ -1307,11 +1163,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Nadupatti",
-    "MICR CODE": "641054011",
-    "STD CODE": "4332",
+    "MICR": "641054011",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000074": {
     "IFSC": "CIUB0000074",
@@ -1326,8 +1180,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "POLLACHI",
-    "MICR CODE": "641054011",
-    "STD CODE": "4259",
     "NEFT": true,
     "IMPS": true
   },
@@ -1343,11 +1195,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Madapattu",
-    "MICR CODE": "500054003",
-    "STD CODE": "4149",
+    "MICR": "500054003",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000076": {
     "IFSC": "CIUB0000076",
@@ -1362,8 +1212,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SECUNDERABAD",
-    "MICR CODE": "626054102",
-    "STD CODE": "40",
     "NEFT": true,
     "IMPS": true
   },
@@ -1379,11 +1227,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TENKASI",
-    "MICR CODE": "641054003",
-    "STD CODE": "4563",
+    "MICR": "641054003",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000078": {
     "IFSC": "CIUB0000078",
@@ -1398,8 +1244,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
-    "MICR CODE": "622054004",
-    "STD CODE": "4222",
     "NEFT": true,
     "IMPS": true
   },
@@ -1416,8 +1260,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KULATHUR",
-    "MICR CODE": "520054103",
-    "STD CODE": "4339",
     "NEFT": true,
     "IMPS": true
   },
@@ -1434,8 +1276,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GUNTUR",
-    "MICR CODE": "620054009",
-    "STD CODE": "8632",
     "NEFT": true,
     "IMPS": true
   },
@@ -1451,11 +1291,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Thogur",
-    "MICR CODE": "524054002",
-    "STD CODE": "431",
+    "MICR": "524054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000082": {
     "BANK": "City Union Bank",
@@ -1470,10 +1308,8 @@
     "CITY": "CHENNAI",
     "UPI": true,
     "RTGS": true,
-    "MICR CODE": "400054002",
-    "STD CODE": "44",
-    "NEFT": true,
-    "MICR": null
+    "MICR": "400054002",
+    "NEFT": true
   },
   "CIUB0000083": {
     "IFSC": "CIUB0000083",
@@ -1487,11 +1323,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NELLORE",
-    "MICR CODE": "627054003",
-    "STD CODE": "861",
+    "MICR": "627054003",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000084": {
     "IFSC": "CIUB0000084",
@@ -1506,8 +1340,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "682054002",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -1524,8 +1356,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TUTICORIN",
-    "MICR CODE": "605054002",
-    "STD CODE": "461",
     "NEFT": true,
     "IMPS": true
   },
@@ -1542,8 +1372,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ERNAKULAM",
-    "MICR CODE": "636054008",
-    "STD CODE": "484",
     "NEFT": true,
     "IMPS": true
   },
@@ -1560,8 +1388,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUDUCHERRY",
-    "MICR CODE": "639054002",
-    "STD CODE": "413",
     "NEFT": true,
     "IMPS": true
   },
@@ -1577,11 +1403,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAMAKKAL",
-    "MICR CODE": "626054302",
-    "STD CODE": "4286",
+    "MICR": "626054302",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000089": {
     "IFSC": "CIUB0000089",
@@ -1595,11 +1419,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KARUR",
-    "MICR CODE": "605054004",
-    "STD CODE": "4324",
+    "MICR": "605054004",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000090": {
     "IFSC": "CIUB0000090",
@@ -1614,8 +1436,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VIRUDHUNAGAR",
-    "MICR CODE": "638054004",
-    "STD CODE": "4562",
     "NEFT": true,
     "IMPS": true
   },
@@ -1631,11 +1451,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VILLUPURAM",
-    "MICR CODE": "572054202",
-    "STD CODE": "4146",
+    "MICR": "572054202",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000092": {
     "IFSC": "CIUB0000092",
@@ -1649,11 +1467,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GOBICHETTIPALAYAM",
-    "MICR CODE": "520054502",
-    "STD CODE": "4285",
+    "MICR": "520054502",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000093": {
     "IFSC": "CIUB0000093",
@@ -1667,11 +1483,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Tiptur",
-    "MICR CODE": "680054102",
-    "STD CODE": "8134",
+    "MICR": "680054102",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000094": {
     "IFSC": "CIUB0000094",
@@ -1686,8 +1500,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GUDIVADA",
-    "MICR CODE": "689054002",
-    "STD CODE": "8674",
     "NEFT": true,
     "IMPS": true
   },
@@ -1704,8 +1516,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHAVAKKAD",
-    "MICR CODE": "641054005",
-    "STD CODE": "487",
     "NEFT": true,
     "IMPS": true
   },
@@ -1721,11 +1531,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THIRUVALLA",
-    "MICR CODE": "400054003",
-    "STD CODE": "469",
+    "MICR": "400054003",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000097": {
     "IFSC": "CIUB0000097",
@@ -1740,8 +1548,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SOMANUR",
-    "MICR CODE": "641054103",
-    "STD CODE": "421",
     "NEFT": true,
     "IMPS": true
   },
@@ -1757,11 +1563,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "395054002",
-    "STD CODE": "22",
+    "MICR": "395054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000099": {
     "IFSC": "CIUB0000099",
@@ -1775,11 +1579,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Palladam",
-    "MICR CODE": "380054002",
-    "STD CODE": "4255",
+    "MICR": "380054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000100": {
     "IFSC": "CIUB0000100",
@@ -1793,11 +1595,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "110054002",
-    "STD CODE": "261",
+    "MICR": "110054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000101": {
     "IFSC": "CIUB0000101",
@@ -1811,11 +1611,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
-    "MICR CODE": "609054102",
-    "STD CODE": "79",
+    "MICR": "609054102",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000102": {
     "IFSC": "CIUB0000102",
@@ -1830,8 +1628,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NEW DELHI",
-    "MICR CODE": "600054008",
-    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true
   },
@@ -1848,8 +1644,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KARAIKKAL",
-    "MICR CODE": "520054001",
-    "STD CODE": "4368",
     "NEFT": true,
     "IMPS": true
   },
@@ -1865,11 +1659,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "530054001",
-    "STD CODE": "442",
+    "MICR": "530054001",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000105": {
     "IFSC": "CIUB0000105",
@@ -1883,11 +1675,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VIJAYAWADA",
-    "MICR CODE": "695054002",
-    "STD CODE": "866",
+    "MICR": "695054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000106": {
     "IFSC": "CIUB0000106",
@@ -1902,8 +1692,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VISHAKHAPATNAM",
-    "MICR CODE": "390054002",
-    "STD CODE": "891",
     "NEFT": true,
     "IMPS": true
   },
@@ -1919,11 +1707,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THIRUVANANTHAPURAM",
-    "MICR CODE": "560054003",
-    "STD CODE": "471",
+    "MICR": "560054003",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000108": {
     "IFSC": "CIUB0000108",
@@ -1938,8 +1724,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VADODARA",
-    "MICR CODE": "700054002",
-    "STD CODE": "265",
     "NEFT": true,
     "IMPS": true
   },
@@ -1956,8 +1740,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BENGALURU",
-    "MICR CODE": "411054002",
-    "STD CODE": "80",
     "NEFT": true,
     "IMPS": true
   },
@@ -1973,11 +1755,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
-    "MICR CODE": "600054009",
-    "STD CODE": "33",
+    "MICR": "600054009",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000111": {
     "IFSC": "CIUB0000111",
@@ -1991,11 +1771,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
-    "MICR CODE": "600054010",
-    "STD CODE": "20",
+    "MICR": "600054010",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000112": {
     "IFSC": "CIUB0000112",
@@ -2010,8 +1788,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "626054002",
-    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true
   },
@@ -2028,8 +1804,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "620054003",
-    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true
   },
@@ -2045,11 +1819,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SIVAKASI",
-    "MICR CODE": "625054003",
-    "STD CODE": "4562",
+    "MICR": "625054003",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000115": {
     "IFSC": "CIUB0000115",
@@ -2063,11 +1835,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUCHIRAPPALLI",
-    "MICR CODE": "600054011",
-    "STD CODE": "431",
+    "MICR": "600054011",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000116": {
     "IFSC": "CIUB0000116",
@@ -2081,11 +1851,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MADURAI",
-    "MICR CODE": "600054012",
-    "STD CODE": "452",
+    "MICR": "600054012",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000117": {
     "IFSC": "CIUB0000117",
@@ -2100,8 +1868,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "572054002",
-    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true
   },
@@ -2118,8 +1884,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "533054102",
-    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true
   },
@@ -2135,11 +1899,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TUMKUR",
-    "MICR CODE": "600054001",
-    "STD CODE": "816",
+    "MICR": "600054001",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000120": {
     "IFSC": "CIUB0000120",
@@ -2154,8 +1916,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAJAHMUNDURY",
-    "MICR CODE": "400054004",
-    "STD CODE": "883",
     "NEFT": true,
     "IMPS": true
   },
@@ -2187,11 +1947,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "533054002",
-    "STD CODE": "222",
+    "MICR": "533054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000123": {
     "IFSC": "CIUB0000123",
@@ -2206,8 +1964,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THRISSUR",
-    "MICR CODE": "520054202",
-    "STD CODE": "487",
     "NEFT": true,
     "IMPS": true
   },
@@ -2223,11 +1979,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KAKINADA",
-    "MICR CODE": "678054002",
-    "STD CODE": "884",
+    "MICR": "678054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000125": {
     "IFSC": "CIUB0000125",
@@ -2241,11 +1995,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TENALI",
-    "MICR CODE": "534054402",
-    "STD CODE": "8644",
+    "MICR": "534054402",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000126": {
     "IFSC": "CIUB0000126",
@@ -2260,8 +2012,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PALAKKAD",
-    "MICR CODE": "627054004",
-    "STD CODE": "491",
     "NEFT": true,
     "IMPS": true
   },
@@ -2277,11 +2027,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Bhimavaram",
-    "MICR CODE": "641054006",
-    "STD CODE": "8816",
+    "MICR": "641054006",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000128": {
     "IFSC": "CIUB0000128",
@@ -2295,11 +2043,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOVILPATTI",
-    "MICR CODE": "600054013",
-    "STD CODE": "4632",
+    "MICR": "600054013",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000129": {
     "IFSC": "CIUB0000129",
@@ -2314,8 +2060,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
-    "MICR CODE": "500054004",
-    "STD CODE": "422",
     "NEFT": true,
     "IMPS": true
   },
@@ -2331,11 +2075,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "560054004",
-    "STD CODE": "44",
+    "MICR": "560054004",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000131": {
     "IFSC": "CIUB0000131",
@@ -2350,8 +2092,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
-    "MICR CODE": "673054002",
-    "STD CODE": "40",
     "NEFT": true,
     "IMPS": true
   },
@@ -2368,8 +2108,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BENGALURU",
-    "MICR CODE": "629054002",
-    "STD CODE": "80",
     "NEFT": true,
     "IMPS": true
   },
@@ -2386,8 +2124,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOZHICODE, CALICUT",
-    "MICR CODE": "534054002",
-    "STD CODE": "495",
     "NEFT": true,
     "IMPS": true
   },
@@ -2403,11 +2139,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGERCOIL",
-    "MICR CODE": "523054002",
-    "STD CODE": "4652",
+    "MICR": "523054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000135": {
     "IFSC": "CIUB0000135",
@@ -2421,11 +2155,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ELURU",
-    "MICR CODE": "625054102",
-    "STD CODE": "881",
+    "MICR": "625054102",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000136": {
     "IFSC": "CIUB0000136",
@@ -2439,11 +2171,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ONGOLE",
-    "MICR CODE": "642054102",
-    "STD CODE": "8592",
+    "MICR": "642054102",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000137": {
     "IFSC": "CIUB0000137",
@@ -2457,11 +2187,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THENI",
-    "MICR CODE": "560054005",
-    "STD CODE": "4546",
+    "MICR": "560054005",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000138": {
     "IFSC": "CIUB0000138",
@@ -2476,8 +2204,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "UDUMALAIPET",
-    "MICR CODE": "516054002",
-    "STD CODE": "4252",
     "NEFT": true,
     "IMPS": true
   },
@@ -2494,8 +2220,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BENGALURU",
-    "MICR CODE": "518054002",
-    "STD CODE": "80",
     "NEFT": true,
     "IMPS": true
   },
@@ -2512,8 +2236,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CUDDAPAH",
-    "MICR CODE": "400054005",
-    "STD CODE": "8562",
     "NEFT": true,
     "IMPS": true
   },
@@ -2529,11 +2251,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KURNOOL",
-    "MICR CODE": "638054003",
-    "STD CODE": "8518",
+    "MICR": "638054003",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000142": {
     "IFSC": "CIUB0000142",
@@ -2547,11 +2267,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NEW BOMBAY",
-    "MICR CODE": "520054002",
-    "STD CODE": "22",
+    "MICR": "520054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000143": {
     "IFSC": "CIUB0000143",
@@ -2566,8 +2284,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUCHENGODE",
-    "MICR CODE": "520054104",
-    "STD CODE": "4288",
     "NEFT": true,
     "IMPS": true
   },
@@ -2584,8 +2300,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VIJAYAWADA",
-    "MICR CODE": "670054002",
-    "STD CODE": "866",
     "NEFT": true,
     "IMPS": true
   },
@@ -2601,11 +2315,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GUNTUR",
-    "MICR CODE": "635054402",
-    "STD CODE": "863",
+    "MICR": "635054402",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000146": {
     "IFSC": "CIUB0000146",
@@ -2619,11 +2331,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CANNUR",
-    "MICR CODE": "560054006",
-    "STD CODE": "497",
+    "MICR": "560054006",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000147": {
     "IFSC": "CIUB0000147",
@@ -2638,8 +2348,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HOSUR",
-    "MICR CODE": "570054002",
-    "STD CODE": "4344",
     "NEFT": true,
     "IMPS": true
   },
@@ -2656,8 +2364,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BENGALURU",
-    "MICR CODE": "600054014",
-    "STD CODE": "80",
     "NEFT": true,
     "IMPS": true
   },
@@ -2673,11 +2379,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MYSORE",
-    "MICR CODE": "600054015",
-    "STD CODE": "821",
+    "MICR": "600054015",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000150": {
     "IFSC": "CIUB0000150",
@@ -2692,8 +2396,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600054016",
-    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true
   },
@@ -2709,11 +2411,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "620054004",
-    "STD CODE": "44",
+    "MICR": "620054004",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000152": {
     "IFSC": "CIUB0000152",
@@ -2727,11 +2427,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "686054002",
-    "STD CODE": "44",
+    "MICR": "686054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000153": {
     "IFSC": "CIUB0000153",
@@ -2745,11 +2443,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUCHIRAPPALLI",
-    "MICR CODE": "500054005",
-    "STD CODE": "431",
+    "MICR": "500054005",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000154": {
     "IFSC": "CIUB0000154",
@@ -2763,11 +2459,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOTTAYAM",
-    "MICR CODE": "532054002",
-    "STD CODE": "481",
+    "MICR": "532054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000155": {
     "IFSC": "CIUB0000155",
@@ -2781,11 +2475,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
-    "MICR CODE": "520054402",
-    "STD CODE": "40",
+    "MICR": "520054402",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000156": {
     "IFSC": "CIUB0000156",
@@ -2799,11 +2491,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SRIKAKULAM",
-    "MICR CODE": "638054005",
-    "STD CODE": "8942",
+    "MICR": "638054005",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000157": {
     "IFSC": "CIUB0000157",
@@ -2817,11 +2507,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MACHILIPATNAM",
-    "MICR CODE": "636054005",
-    "STD CODE": "8672",
+    "MICR": "636054005",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000158": {
     "IFSC": "CIUB0000158",
@@ -2835,11 +2523,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KANGEYAM",
-    "MICR CODE": "606054103",
-    "STD CODE": "4257",
+    "MICR": "606054103",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000159": {
     "IFSC": "CIUB0000159",
@@ -2853,11 +2539,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RASIPURAM",
-    "MICR CODE": "638054302",
-    "STD CODE": "4287",
+    "MICR": "638054302",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000160": {
     "IFSC": "CIUB0000160",
@@ -2871,11 +2555,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUKOILUR",
-    "MICR CODE": "626054402",
-    "STD CODE": "4153",
+    "MICR": "626054402",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000161": {
     "IFSC": "CIUB0000161",
@@ -2889,11 +2571,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DHARAPURAM",
-    "MICR CODE": "635054002",
-    "STD CODE": "4258",
+    "MICR": "635054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000162": {
     "IFSC": "CIUB0000162",
@@ -2908,8 +2588,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SATTUR",
-    "MICR CODE": "623054102",
-    "STD CODE": "4562",
     "NEFT": true,
     "IMPS": true
   },
@@ -2925,11 +2603,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KRISHNAGIRI",
-    "MICR CODE": "590054002",
-    "STD CODE": "4343",
+    "MICR": "590054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000164": {
     "IFSC": "CIUB0000164",
@@ -2943,11 +2619,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PARAMAGUDI",
-    "MICR CODE": "580054002",
-    "STD CODE": "4564",
+    "MICR": "580054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000165": {
     "IFSC": "CIUB0000165",
@@ -2961,11 +2635,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BELGAUM",
-    "MICR CODE": "575054002",
-    "STD CODE": "831",
+    "MICR": "575054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000166": {
     "IFSC": "CIUB0000166",
@@ -2979,11 +2651,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUBLI-DHARWAD",
-    "MICR CODE": "577054002",
-    "STD CODE": "836",
+    "MICR": "577054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000167": {
     "IFSC": "CIUB0000167",
@@ -2998,8 +2668,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MANGALORE",
-    "MICR CODE": "516054102",
-    "STD CODE": "824",
     "NEFT": true,
     "IMPS": true
   },
@@ -3015,11 +2683,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DAVANGERE",
-    "MICR CODE": "506054002",
-    "STD CODE": "8192",
+    "MICR": "506054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000169": {
     "IFSC": "CIUB0000169",
@@ -3033,11 +2699,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PRODDATUR",
-    "MICR CODE": "612054004",
-    "STD CODE": "8564",
+    "MICR": "612054004",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000170": {
     "IFSC": "CIUB0000170",
@@ -3052,8 +2716,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "WARANGAL",
-    "MICR CODE": "606054002",
-    "STD CODE": "870",
     "NEFT": true,
     "IMPS": true
   },
@@ -3069,11 +2731,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KUMBAKONAM",
-    "MICR CODE": "630054202",
-    "STD CODE": "435",
+    "MICR": "630054202",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000172": {
     "IFSC": "CIUB0000172",
@@ -3087,11 +2747,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUVANNAMALAI",
-    "MICR CODE": "518054102",
-    "STD CODE": "4175",
+    "MICR": "518054102",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000173": {
     "IFSC": "CIUB0000173",
@@ -3105,11 +2763,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SIVAGANGA",
-    "MICR CODE": "623054002",
-    "STD CODE": "4575",
+    "MICR": "623054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000174": {
     "IFSC": "CIUB0000174",
@@ -3124,8 +2780,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NANDYAL",
-    "MICR CODE": "400054006",
-    "STD CODE": "8514",
     "NEFT": true,
     "IMPS": true
   },
@@ -3142,8 +2796,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAMANATHAPURAM",
-    "MICR CODE": "518054102",
-    "STD CODE": "4567",
     "NEFT": true,
     "IMPS": true
   },
@@ -3160,8 +2812,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE WEST",
-    "MICR CODE": "440054002",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -3177,11 +2827,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ICHALKARNJI",
-    "MICR CODE": "515054002",
-    "STD CODE": "230",
+    "MICR": "515054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000178": {
     "IFSC": "CIUB0000178",
@@ -3196,8 +2844,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGPUR",
-    "MICR CODE": "515054202",
-    "STD CODE": "712",
     "NEFT": true,
     "IMPS": true
   },
@@ -3213,11 +2859,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ANANTAPUR",
-    "MICR CODE": "360054002",
-    "STD CODE": "8554",
+    "MICR": "360054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000180": {
     "IFSC": "CIUB0000180",
@@ -3232,8 +2876,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DHARMAVARAM",
-    "MICR CODE": "422054002",
-    "STD CODE": "8559",
     "NEFT": true,
     "IMPS": true
   },
@@ -3249,11 +2891,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAJKOT",
-    "MICR CODE": "630054102",
-    "STD CODE": "281",
+    "MICR": "630054102",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000182": {
     "IFSC": "CIUB0000182",
@@ -3267,11 +2907,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NASHIK",
-    "MICR CODE": "600054019",
-    "STD CODE": "253",
+    "MICR": "600054019",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000183": {
     "IFSC": "CIUB0000183",
@@ -3285,11 +2923,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DEVAKOTTAI",
-    "MICR CODE": "600054018",
-    "STD CODE": "4561",
+    "MICR": "600054018",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000184": {
     "IFSC": "CIUB0000184",
@@ -3303,11 +2939,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "641054104",
-    "STD CODE": "44",
+    "MICR": "641054104",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000185": {
     "IFSC": "CIUB0000185",
@@ -3321,11 +2955,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MARAIMALAI NAGAR",
-    "MICR CODE": "600054020",
-    "STD CODE": "44",
+    "MICR": "600054020",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000186": {
     "IFSC": "CIUB0000186",
@@ -3339,11 +2971,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "UTHUKULI",
-    "MICR CODE": "636054004",
-    "STD CODE": "4294",
+    "MICR": "636054004",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000187": {
     "IFSC": "CIUB0000187",
@@ -3358,8 +2988,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENGALPET",
-    "MICR CODE": "636054003",
-    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true
   },
@@ -3375,11 +3003,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SALEM",
-    "MICR CODE": "613054005",
-    "STD CODE": "427",
+    "MICR": "613054005",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000189": {
     "IFSC": "CIUB0000189",
@@ -3393,11 +3019,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SALEM",
-    "MICR CODE": "638054006",
-    "STD CODE": "427",
+    "MICR": "638054006",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000190": {
     "IFSC": "CIUB0000190",
@@ -3411,11 +3035,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANJAVUR",
-    "MICR CODE": "641054007",
-    "STD CODE": "4362",
+    "MICR": "641054007",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000191": {
     "IFSC": "CIUB0000191",
@@ -3430,8 +3052,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PALLIPALAYAM",
-    "MICR CODE": "600054021",
-    "STD CODE": "4288",
     "NEFT": true,
     "IMPS": true
   },
@@ -3448,8 +3068,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
-    "MICR CODE": "700054003",
-    "STD CODE": "422",
     "NEFT": true,
     "IMPS": true
   },
@@ -3465,11 +3083,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KELAMBAKKAM",
-    "MICR CODE": "625054004",
-    "STD CODE": "44",
+    "MICR": "625054004",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000194": {
     "IFSC": "CIUB0000194",
@@ -3483,11 +3099,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
-    "MICR CODE": "612054011",
-    "STD CODE": "33",
+    "MICR": "612054011",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000195": {
     "IFSC": "CIUB0000195",
@@ -3501,11 +3115,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MADURAI",
-    "MICR CODE": "621054302",
-    "STD CODE": "452",
+    "MICR": "621054302",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000196": {
     "IFSC": "CIUB0000196",
@@ -3520,8 +3132,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NACHIAR KOIL",
-    "MICR CODE": "625054004",
-    "STD CODE": "435",
     "NEFT": true,
     "IMPS": true
   },
@@ -3537,11 +3147,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PERAMBALUR",
-    "MICR CODE": "560054007",
-    "STD CODE": "4328",
+    "MICR": "560054007",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000198": {
     "IFSC": "CIUB0000198",
@@ -3555,11 +3163,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAMANAGARAM",
-    "MICR CODE": "691054002",
-    "STD CODE": "80",
+    "MICR": "691054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000199": {
     "IFSC": "CIUB0000199",
@@ -3573,11 +3179,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "620054007",
-    "STD CODE": "80",
+    "MICR": "620054007",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000200": {
     "IFSC": "CIUB0000200",
@@ -3591,11 +3195,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLLAM",
-    "MICR CODE": "609054202",
-    "STD CODE": "474",
+    "MICR": "609054202",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000201": {
     "IFSC": "CIUB0000201",
@@ -3609,11 +3211,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MATHURAPURI",
-    "MICR CODE": "560054008",
-    "STD CODE": "4327",
+    "MICR": "560054008",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000202": {
     "IFSC": "CIUB0000202",
@@ -3627,11 +3227,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SIRKALI",
-    "MICR CODE": "515054102",
-    "STD CODE": "4364",
+    "MICR": "515054102",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000203": {
     "IFSC": "CIUB0000203",
@@ -3645,11 +3243,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "638054007",
-    "STD CODE": "80",
+    "MICR": "638054007",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000204": {
     "IFSC": "CIUB0000204",
@@ -3663,11 +3259,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HINDUPUR",
-    "MICR CODE": "500054006",
-    "STD CODE": "8556",
+    "MICR": "500054006",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000205": {
     "IFSC": "CIUB0000205",
@@ -3681,11 +3275,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ERODE",
-    "MICR CODE": "500054007",
-    "STD CODE": "424",
+    "MICR": "500054007",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000206": {
     "IFSC": "CIUB0000206",
@@ -3699,11 +3291,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
-    "MICR CODE": "110054003",
-    "STD CODE": "40",
+    "MICR": "110054003",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000207": {
     "IFSC": "CIUB0000207",
@@ -3718,8 +3308,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
-    "MICR CODE": "211054002",
-    "STD CODE": "40",
     "NEFT": true,
     "IMPS": true
   },
@@ -3735,11 +3323,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
-    "MICR CODE": "620054005",
-    "STD CODE": "11",
+    "MICR": "620054005",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000209": {
     "IFSC": "CIUB0000209",
@@ -3753,11 +3339,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ALLAHABAD",
-    "MICR CODE": "641054008",
-    "STD CODE": "532",
+    "MICR": "641054008",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000210": {
     "IFSC": "CIUB0000210",
@@ -3771,11 +3355,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THUVAKUDI",
-    "MICR CODE": "600054022",
-    "STD CODE": "431",
+    "MICR": "600054022",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000211": {
     "IFSC": "CIUB0000211",
@@ -3789,11 +3371,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
-    "MICR CODE": "431054002",
-    "STD CODE": "422",
+    "MICR": "431054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000212": {
     "IFSC": "CIUB0000212",
@@ -3807,11 +3387,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SRIPERUMBUDUR",
-    "MICR CODE": "641054010",
-    "STD CODE": "44",
+    "MICR": "641054010",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000213": {
     "IFSC": "CIUB0000213",
@@ -3825,11 +3403,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AURANGABAD",
-    "MICR CODE": "641054012",
-    "STD CODE": "240",
+    "MICR": "641054012",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000214": {
     "IFSC": "CIUB0000214",
@@ -3844,8 +3420,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
-    "MICR CODE": "416054002",
-    "STD CODE": "422",
     "NEFT": true,
     "IMPS": true
   },
@@ -3861,11 +3435,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "POLLACHI",
-    "MICR CODE": "641054009",
-    "STD CODE": "4259",
+    "MICR": "641054009",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000216": {
     "IFSC": "CIUB0000216",
@@ -3879,11 +3451,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLHAPUR",
-    "MICR CODE": "600054023",
-    "STD CODE": "231",
+    "MICR": "600054023",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000217": {
     "IFSC": "CIUB0000217",
@@ -3897,11 +3467,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THONDAMUTHUR",
-    "MICR CODE": "141054002",
-    "STD CODE": "422",
+    "MICR": "141054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000218": {
     "IFSC": "CIUB0000218",
@@ -3915,11 +3483,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "452054002",
-    "STD CODE": "44",
+    "MICR": "452054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000219": {
     "IFSC": "CIUB0000219",
@@ -3933,11 +3499,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "LUDHIANA",
-    "MICR CODE": "302054002",
-    "STD CODE": "161",
+    "MICR": "302054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000220": {
     "IFSC": "CIUB0000220",
@@ -3951,11 +3515,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "INDORE",
-    "MICR CODE": "311054002",
-    "STD CODE": "731",
+    "MICR": "311054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000221": {
     "IFSC": "CIUB0000221",
@@ -3969,11 +3531,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
-    "MICR CODE": "400054007",
-    "STD CODE": "141",
+    "MICR": "400054007",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000222": {
     "IFSC": "CIUB0000222",
@@ -3987,11 +3547,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BHILWARA",
-    "MICR CODE": "364054002",
-    "STD CODE": "1482",
+    "MICR": "364054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000223": {
     "IFSC": "CIUB0000223",
@@ -4005,11 +3563,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DOMBIVLI",
-    "MICR CODE": "395054003",
-    "STD CODE": "251",
+    "MICR": "395054003",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000224": {
     "IFSC": "CIUB0000224",
@@ -4024,8 +3580,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BHAVNAGAR",
-    "MICR CODE": "400054007",
-    "STD CODE": "278",
     "NEFT": true,
     "IMPS": true
   },
@@ -4042,8 +3596,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "641054105",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
@@ -4059,11 +3611,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MARTHANDAM",
-    "MICR CODE": "631054102",
-    "STD CODE": "4651",
+    "MICR": "631054102",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000227": {
     "IFSC": "CIUB0000227",
@@ -4078,8 +3628,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUPPUR",
-    "MICR CODE": "629054003",
-    "STD CODE": "421",
     "NEFT": true,
     "IMPS": true
   },
@@ -4095,11 +3643,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ARKONAM",
-    "MICR CODE": "627054005",
-    "STD CODE": "4177",
+    "MICR": "627054005",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000229": {
     "IFSC": "CIUB0000229",
@@ -4113,11 +3659,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VEDARANYAM",
-    "MICR CODE": "636054102",
-    "STD CODE": "4369",
+    "MICR": "636054102",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000230": {
     "IFSC": "CIUB0000230",
@@ -4131,11 +3675,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PALAYAMKOTTAI",
-    "MICR CODE": "636054007",
-    "STD CODE": "462",
+    "MICR": "636054007",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000231": {
     "IFSC": "CIUB0000231",
@@ -4149,11 +3691,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DHARMAPURI",
-    "MICR CODE": "560054010",
-    "STD CODE": "4342",
+    "MICR": "560054010",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000232": {
     "IFSC": "CIUB0000232",
@@ -4167,11 +3707,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JALAKANTAPURAM",
-    "MICR CODE": "560054011",
-    "STD CODE": "4298",
+    "MICR": "560054011",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000233": {
     "IFSC": "CIUB0000233",
@@ -4185,11 +3723,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "636054006",
-    "STD CODE": "80",
+    "MICR": "636054006",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000234": {
     "IFSC": "CIUB0000234",
@@ -4203,11 +3739,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "560054009",
-    "STD CODE": "80",
+    "MICR": "560054009",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000235": {
     "IFSC": "CIUB0000235",
@@ -4221,11 +3755,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SALEM",
-    "MICR CODE": "560054012",
-    "STD CODE": "427",
+    "MICR": "560054012",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000236": {
     "IFSC": "CIUB0000236",
@@ -4239,11 +3771,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "636054009",
-    "STD CODE": "80",
+    "MICR": "636054009",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000237": {
     "IFSC": "CIUB0000237",
@@ -4257,11 +3787,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "YELAHANKA",
-    "MICR CODE": "517054102",
-    "STD CODE": "80",
+    "MICR": "517054102",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000238": {
     "IFSC": "CIUB0000238",
@@ -4275,11 +3803,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ATTUR",
-    "MICR CODE": "505054002",
-    "STD CODE": "4282",
+    "MICR": "505054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000239": {
     "IFSC": "CIUB0000239",
@@ -4293,11 +3819,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHITTOOR",
-    "MICR CODE": "638054008",
-    "STD CODE": "8572",
+    "MICR": "638054008",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000240": {
     "IFSC": "CIUB0000240",
@@ -4311,11 +3835,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KARIMNAGAR",
-    "MICR CODE": "600054025",
-    "STD CODE": "878",
+    "MICR": "600054025",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000241": {
     "IFSC": "CIUB0000241",
@@ -4329,11 +3851,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PERUNDURAI",
-    "MICR CODE": "600054026",
-    "STD CODE": "4294",
+    "MICR": "600054026",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000242": {
     "IFSC": "CIUB0000242",
@@ -4348,8 +3868,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MANALI",
-    "MICR CODE": "110054004",
-    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true
   },
@@ -4365,11 +3883,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUVALLUR",
-    "MICR CODE": "144054002",
-    "STD CODE": "44",
+    "MICR": "144054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000244": {
     "IFSC": "CIUB0000244",
@@ -4383,11 +3899,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
-    "MICR CODE": "600054027",
-    "STD CODE": "11",
+    "MICR": "600054027",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000245": {
     "IFSC": "CIUB0000245",
@@ -4401,11 +3915,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JALANDHAR",
-    "MICR CODE": "632054302",
-    "STD CODE": "181",
+    "MICR": "632054302",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000246": {
     "IFSC": "CIUB0000246",
@@ -4420,8 +3932,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MADURAVOYAL",
-    "MICR CODE": "606054102",
-    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true
   },
@@ -4437,11 +3947,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GUDIYATHAM",
-    "MICR CODE": "638054009",
-    "STD CODE": "4171",
+    "MICR": "638054009",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000248": {
     "IFSC": "CIUB0000248",
@@ -4455,11 +3963,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KALLAKURICHI",
-    "MICR CODE": "583054102",
-    "STD CODE": "4151",
+    "MICR": "583054102",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000249": {
     "IFSC": "CIUB0000249",
@@ -4473,11 +3979,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BHAVANI",
-    "MICR CODE": "600054028",
-    "STD CODE": "4256",
+    "MICR": "600054028",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000250": {
     "IFSC": "CIUB0000250",
@@ -4492,8 +3996,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BELLARY",
-    "MICR CODE": "632054202",
-    "STD CODE": "8392",
     "NEFT": true,
     "IMPS": true
   },
@@ -4510,8 +4012,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "110054005",
-    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true
   },
@@ -4527,11 +4027,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ARNI",
-    "MICR CODE": "638054010",
-    "STD CODE": "4173",
+    "MICR": "638054010",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000253": {
     "IFSC": "CIUB0000253",
@@ -4545,11 +4043,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
-    "MICR CODE": "600054029",
-    "STD CODE": "11",
+    "MICR": "600054029",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000254": {
     "IFSC": "CIUB0000254",
@@ -4563,11 +4059,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VELLAKOVIL",
-    "MICR CODE": "503054002",
-    "STD CODE": "4257",
+    "MICR": "503054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000255": {
     "IFSC": "CIUB0000255",
@@ -4581,11 +4075,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PAMMAL",
-    "MICR CODE": "614054202",
-    "STD CODE": "44",
+    "MICR": "614054202",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000256": {
     "IFSC": "CIUB0000256",
@@ -4599,11 +4091,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NIZAMABAD",
-    "MICR CODE": "221054002",
-    "STD CODE": "8462",
+    "MICR": "221054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000257": {
     "IFSC": "CIUB0000257",
@@ -4617,11 +4107,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUTURAIPUNDI",
-    "MICR CODE": "632054102",
-    "STD CODE": "4369",
+    "MICR": "632054102",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000258": {
     "IFSC": "CIUB0000258",
@@ -4635,11 +4123,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VARANASI",
-    "MICR CODE": "600054030",
-    "STD CODE": "542",
+    "MICR": "600054030",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000259": {
     "IFSC": "CIUB0000259",
@@ -4653,11 +4139,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600054031",
-    "STD CODE": "4172",
+    "MICR": "600054031",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000260": {
     "IFSC": "CIUB0000260",
@@ -4671,11 +4155,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600054032",
-    "STD CODE": "44",
+    "MICR": "600054032",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000261": {
     "IFSC": "CIUB0000261",
@@ -4689,11 +4171,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "620054010",
-    "STD CODE": "44",
+    "MICR": "620054010",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000262": {
     "IFSC": "CIUB0000262",
@@ -4707,11 +4187,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "500054008",
-    "STD CODE": "44",
+    "MICR": "500054008",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000263": {
     "IFSC": "CIUB0000263",
@@ -4725,11 +4203,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUCHIRAPPALLI",
-    "MICR CODE": "507054002",
-    "STD CODE": "431",
+    "MICR": "507054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000264": {
     "IFSC": "CIUB0000264",
@@ -4743,11 +4219,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
-    "MICR CODE": "600054033",
-    "STD CODE": "40",
+    "MICR": "600054033",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000265": {
     "IFSC": "CIUB0000265",
@@ -4761,11 +4235,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KHAMMAM",
-    "MICR CODE": "627054006",
-    "STD CODE": "8742",
+    "MICR": "627054006",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000266": {
     "IFSC": "CIUB0000266",
@@ -4779,11 +4251,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "625054007",
-    "STD CODE": "44",
+    "MICR": "625054007",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000267": {
     "IFSC": "CIUB0000267",
@@ -4798,8 +4268,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KADAYANALLUR",
-    "MICR CODE": "400054008",
-    "STD CODE": "4633",
     "NEFT": true,
     "IMPS": true
   },
@@ -4815,11 +4283,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MADURAI",
-    "MICR CODE": "400054009",
-    "STD CODE": "452",
+    "MICR": "400054009",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000269": {
     "IFSC": "CIUB0000269",
@@ -4833,11 +4299,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "600054034",
-    "STD CODE": "22",
+    "MICR": "600054034",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000270": {
     "IFSC": "CIUB0000270",
@@ -4851,11 +4315,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KALYAN",
-    "MICR CODE": "613054006",
-    "STD CODE": "251",
+    "MICR": "613054006",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000271": {
     "IFSC": "CIUB0000271",
@@ -4870,8 +4332,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENGALPAT",
-    "MICR CODE": "625054008",
-    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true
   },
@@ -4887,11 +4347,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANJAVUR",
-    "MICR CODE": "641054013",
-    "STD CODE": "4362",
+    "MICR": "641054013",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000273": {
     "IFSC": "CIUB0000273",
@@ -4905,11 +4363,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUMANGALAM",
-    "MICR CODE": "613054007",
-    "STD CODE": "4549",
+    "MICR": "613054007",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000274": {
     "IFSC": "CIUB0000274",
@@ -4923,11 +4379,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VADAVALLI",
-    "MICR CODE": "623054003",
-    "STD CODE": "422",
+    "MICR": "623054003",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000275": {
     "IFSC": "CIUB0000275",
@@ -4941,11 +4395,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VALLAM",
-    "MICR CODE": "400054010",
-    "STD CODE": "4362",
+    "MICR": "400054010",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000276": {
     "IFSC": "CIUB0000276",
@@ -4959,11 +4411,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KILAKARAI",
-    "MICR CODE": "611054005",
-    "STD CODE": "4567",
+    "MICR": "611054005",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000277": {
     "IFSC": "CIUB0000277",
@@ -4978,8 +4428,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAVI MUMBAI",
-    "MICR CODE": "600054035",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -4995,11 +4443,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGORE",
-    "MICR CODE": "612054013",
-    "STD CODE": "4365",
+    "MICR": "612054013",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000279": {
     "IFSC": "CIUB0000279",
@@ -5013,11 +4459,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "400054011",
-    "STD CODE": "44",
+    "MICR": "400054011",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000280": {
     "IFSC": "CIUB0000280",
@@ -5031,11 +4475,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DHARASURAM",
-    "MICR CODE": "641054014",
-    "STD CODE": "435",
+    "MICR": "641054014",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000281": {
     "IFSC": "CIUB0000281",
@@ -5049,11 +4491,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "625054009",
-    "STD CODE": "22",
+    "MICR": "625054009",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000282": {
     "IFSC": "CIUB0000282",
@@ -5067,11 +4507,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PERUR",
-    "MICR CODE": "607054102",
-    "STD CODE": "422",
+    "MICR": "607054102",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000283": {
     "IFSC": "CIUB0000283",
@@ -5086,8 +4524,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MADURAI",
-    "MICR CODE": "600054036",
-    "STD CODE": "452",
     "NEFT": true,
     "IMPS": true
   },
@@ -5103,11 +4539,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NEYVELI",
-    "MICR CODE": "600054037",
-    "STD CODE": "4142",
+    "MICR": "600054037",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000285": {
     "IFSC": "CIUB0000285",
@@ -5121,11 +4555,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "POONAMALLE",
-    "MICR CODE": "492054002",
-    "STD CODE": "44",
+    "MICR": "492054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000286": {
     "IFSC": "CIUB0000286",
@@ -5139,11 +4571,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SELAIYUR",
-    "MICR CODE": "751054002",
-    "STD CODE": "44",
+    "MICR": "751054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000287": {
     "IFSC": "CIUB0000287",
@@ -5158,8 +4588,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAIPUR",
-    "MICR CODE": "641054015",
-    "STD CODE": "771",
     "NEFT": true,
     "IMPS": true
   },
@@ -5175,11 +4603,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BHUBANESWAR",
-    "MICR CODE": "612054014",
-    "STD CODE": "674",
+    "MICR": "612054014",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000289": {
     "IFSC": "CIUB0000289",
@@ -5193,11 +4619,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SULUR",
-    "MICR CODE": "614054104",
-    "STD CODE": "422",
+    "MICR": "614054104",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000290": {
     "IFSC": "CIUB0000290",
@@ -5211,11 +4635,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KUMBAKONAM",
-    "MICR CODE": "610054009",
-    "STD CODE": "0",
+    "MICR": "610054009",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000291": {
     "IFSC": "CIUB0000291",
@@ -5229,11 +4651,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MADUKKUR",
-    "MICR CODE": "632054004",
-    "STD CODE": "4373",
+    "MICR": "632054004",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000292": {
     "IFSC": "CIUB0000292",
@@ -5247,11 +4667,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KODAVASAL",
-    "MICR CODE": "632054003",
-    "STD CODE": "4366",
+    "MICR": "632054003",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000293": {
     "IFSC": "CIUB0000293",
@@ -5265,11 +4683,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KATPADI",
-    "MICR CODE": "600054040",
-    "STD CODE": "416",
+    "MICR": "600054040",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000294": {
     "IFSC": "CIUB0000294",
@@ -5283,11 +4699,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SATHUVANCHARY",
-    "MICR CODE": "600054039",
-    "STD CODE": "416",
+    "MICR": "600054039",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000295": {
     "IFSC": "CIUB0000295",
@@ -5301,11 +4715,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHITLAMBAKKAM",
-    "MICR CODE": "605054007",
-    "STD CODE": "0",
+    "MICR": "605054007",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000296": {
     "IFSC": "CIUB0000296",
@@ -5319,11 +4731,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TAMBARAM",
-    "MICR CODE": "612054016",
-    "STD CODE": "44",
+    "MICR": "612054016",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000297": {
     "IFSC": "CIUB0000297",
@@ -5337,11 +4747,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TINDIVANAM",
-    "MICR CODE": "606054202",
-    "STD CODE": "0",
+    "MICR": "606054202",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000298": {
     "IFSC": "CIUB0000298",
@@ -5355,11 +4763,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KUMBAKONAM",
-    "MICR CODE": "600054038",
-    "STD CODE": "435",
+    "MICR": "600054038",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000299": {
     "IFSC": "CIUB0000299",
@@ -5373,11 +4779,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VRIDHACHALAM",
-    "MICR CODE": "614054006",
-    "STD CODE": "0",
+    "MICR": "614054006",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000300": {
     "IFSC": "CIUB0000300",
@@ -5391,11 +4795,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "614054016",
-    "STD CODE": "44",
+    "MICR": "614054016",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000301": {
     "IFSC": "CIUB0000301",
@@ -5409,11 +4811,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KUTHANALLUR",
-    "MICR CODE": "612054015",
-    "STD CODE": "0",
+    "MICR": "612054015",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000302": {
     "IFSC": "CIUB0000302",
@@ -5427,11 +4827,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "METTUPALAYAM",
-    "MICR CODE": "600054041",
-    "STD CODE": "0",
+    "MICR": "600054041",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000303": {
     "IFSC": "CIUB0000303",
@@ -5445,11 +4843,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KUMBAKONAM",
-    "MICR CODE": "600054042",
-    "STD CODE": "0",
+    "MICR": "600054042",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000304": {
     "IFSC": "CIUB0000304",
@@ -5463,11 +4859,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "638054011",
-    "STD CODE": "0",
+    "MICR": "638054011",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000305": {
     "IFSC": "CIUB0000305",
@@ -5481,11 +4875,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600054045",
-    "STD CODE": "44",
+    "MICR": "600054045",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000306": {
     "IFSC": "CIUB0000306",
@@ -5500,8 +4892,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ERODE",
-    "MICR CODE": "600054046",
-    "STD CODE": "424",
     "NEFT": true,
     "IMPS": true
   },
@@ -5518,8 +4908,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600054043",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5536,8 +4924,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600054044",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5554,8 +4940,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "641054017",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5572,8 +4956,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600054047",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5590,8 +4972,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
-    "MICR CODE": "600054048",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5608,8 +4988,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KUNRATHUR",
-    "MICR CODE": "636054010",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5626,8 +5004,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600054049",
-    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true
   },
@@ -5644,8 +5020,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SALEM",
-    "MICR CODE": "632054005",
-    "STD CODE": "4283",
     "NEFT": true,
     "IMPS": true
   },
@@ -5661,11 +5035,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600054050",
-    "STD CODE": "44",
+    "MICR": "600054050",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000316": {
     "IFSC": "CIUB0000316",
@@ -5679,11 +5051,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MELVISHARAM",
-    "MICR CODE": "560054013",
-    "STD CODE": "0",
+    "MICR": "560054013",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000317": {
     "IFSC": "CIUB0000317",
@@ -5697,11 +5067,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600054051",
-    "STD CODE": "0",
+    "MICR": "600054051",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000318": {
     "IFSC": "CIUB0000318",
@@ -5716,8 +5084,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BENGALURU",
-    "MICR CODE": "625054010",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5733,11 +5099,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KANCHIPURAM",
-    "MICR CODE": "624054104",
-    "STD CODE": "44",
+    "MICR": "624054104",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000320": {
     "IFSC": "CIUB0000320",
@@ -5751,11 +5115,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ODDANCHATRAM",
-    "MICR CODE": "533054302",
-    "STD CODE": "0",
+    "MICR": "533054302",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000321": {
     "IFSC": "CIUB0000321",
@@ -5769,11 +5131,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PALANI",
-    "MICR CODE": "635054102",
-    "STD CODE": "0",
+    "MICR": "635054102",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000322": {
     "IFSC": "CIUB0000322",
@@ -5787,11 +5147,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AMALAPURAM",
-    "MICR CODE": "641054018",
-    "STD CODE": "0",
+    "MICR": "641054018",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000323": {
     "IFSC": "CIUB0000323",
@@ -5805,11 +5163,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUPATTUR",
-    "MICR CODE": "641054019",
-    "STD CODE": "0",
+    "MICR": "641054019",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000324": {
     "IFSC": "CIUB0000324",
@@ -5823,11 +5179,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KARAMADAI",
-    "MICR CODE": "600054052",
-    "STD CODE": "0",
+    "MICR": "600054052",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000325": {
     "IFSC": "CIUB0000325",
@@ -5841,11 +5195,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
-    "MICR CODE": "625054011",
-    "STD CODE": "0",
+    "MICR": "625054011",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000326": {
     "IFSC": "CIUB0000326",
@@ -5859,11 +5211,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ANAKAPUTHUR",
-    "MICR CODE": "626054505",
-    "STD CODE": "44",
+    "MICR": "626054505",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000327": {
     "IFSC": "CIUB0000327",
@@ -5877,11 +5227,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MADURAI",
-    "MICR CODE": "523054102",
-    "STD CODE": "0",
+    "MICR": "523054102",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000328": {
     "IFSC": "CIUB0000328",
@@ -5895,11 +5243,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SRIVILLIPUTTUR",
-    "MICR CODE": "524054202",
-    "STD CODE": "4563",
+    "MICR": "524054202",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000329": {
     "IFSC": "CIUB0000329",
@@ -5913,11 +5259,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHIRALA",
-    "MICR CODE": "620054011",
-    "STD CODE": "8594",
+    "MICR": "620054011",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000330": {
     "IFSC": "CIUB0000330",
@@ -5931,11 +5275,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KAVALI",
-    "MICR CODE": "620054012",
-    "STD CODE": "8626",
+    "MICR": "620054012",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000331": {
     "IFSC": "CIUB0000331",
@@ -5949,11 +5291,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUSIRI",
-    "MICR CODE": "560054014",
-    "STD CODE": "4326",
+    "MICR": "560054014",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000332": {
     "IFSC": "CIUB0000332",
@@ -5967,11 +5307,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUCHIRAPPALLI",
-    "MICR CODE": "560054015",
-    "STD CODE": "431",
+    "MICR": "560054015",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000333": {
     "IFSC": "CIUB0000333",
@@ -5985,11 +5323,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BOMMASANDRA",
-    "MICR CODE": "607054206",
-    "STD CODE": "80",
+    "MICR": "607054206",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000334": {
     "IFSC": "CIUB0000334",
@@ -6003,11 +5339,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DODDABALLAPUR",
-    "MICR CODE": "600054053",
-    "STD CODE": "80",
+    "MICR": "600054053",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000335": {
     "IFSC": "CIUB0000335",
@@ -6021,11 +5355,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PANRUTI",
-    "MICR CODE": "600054054",
-    "STD CODE": "0",
+    "MICR": "600054054",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000336": {
     "IFSC": "CIUB0000336",
@@ -6039,11 +5371,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GUDUVANCHERI",
-    "MICR CODE": "600054055",
-    "STD CODE": "0",
+    "MICR": "600054055",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000337": {
     "IFSC": "CIUB0000337",
@@ -6057,11 +5387,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KANCHIPURAM",
-    "MICR CODE": "600054056",
-    "STD CODE": "0",
+    "MICR": "600054056",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000338": {
     "IFSC": "CIUB0000338",
@@ -6075,11 +5403,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "518054202",
-    "STD CODE": "0",
+    "MICR": "518054202",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000339": {
     "IFSC": "CIUB0000339",
@@ -6093,11 +5419,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "504054002",
-    "STD CODE": "0",
+    "MICR": "504054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000340": {
     "IFSC": "CIUB0000340",
@@ -6111,11 +5435,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ADONI",
-    "MICR CODE": "530054002",
-    "STD CODE": "0",
+    "MICR": "530054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000341": {
     "IFSC": "CIUB0000341",
@@ -6129,11 +5451,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ADILABAD",
-    "MICR CODE": "534054202",
-    "STD CODE": "0",
+    "MICR": "534054202",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000342": {
     "IFSC": "CIUB0000342",
@@ -6147,11 +5467,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ANAKAPALLE",
-    "MICR CODE": "641054020",
-    "STD CODE": "0",
+    "MICR": "641054020",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000343": {
     "IFSC": "CIUB0000343",
@@ -6165,11 +5483,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TANUKU",
-    "MICR CODE": "641054021",
-    "STD CODE": "0",
+    "MICR": "641054021",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000344": {
     "IFSC": "CIUB0000344",
@@ -6183,11 +5499,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PERIYANAICKANPALAYAM",
-    "MICR CODE": "625054302",
-    "STD CODE": "0",
+    "MICR": "625054302",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000345": {
     "IFSC": "CIUB0000345",
@@ -6201,11 +5515,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
-    "MICR CODE": "625054012",
-    "STD CODE": "0",
+    "MICR": "625054012",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000346": {
     "IFSC": "CIUB0000346",
@@ -6219,11 +5531,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BODINAYAKANUR",
-    "MICR CODE": "627054007",
-    "STD CODE": "0",
+    "MICR": "627054007",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000347": {
     "IFSC": "CIUB0000347",
@@ -6237,11 +5547,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CUMBUM",
-    "MICR CODE": "627054008",
-    "STD CODE": "0",
+    "MICR": "627054008",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000348": {
     "IFSC": "CIUB0000348",
@@ -6255,11 +5563,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SANKARANKOIL",
-    "MICR CODE": "520054602",
-    "STD CODE": "0",
+    "MICR": "520054602",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000349": {
     "IFSC": "CIUB0000349",
@@ -6273,11 +5579,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PULIYANGUDI",
-    "MICR CODE": "522054402",
-    "STD CODE": "0",
+    "MICR": "522054402",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000350": {
     "IFSC": "CIUB0000350",
@@ -6291,11 +5595,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NARSARAOPET",
-    "MICR CODE": "524054102",
-    "STD CODE": "0",
+    "MICR": "524054102",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000351": {
     "IFSC": "CIUB0000351",
@@ -6309,11 +5611,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHILAKALURIPET",
-    "MICR CODE": "517054002",
-    "STD CODE": "0",
+    "MICR": "517054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000352": {
     "IFSC": "CIUB0000352",
@@ -6327,11 +5627,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GUDUR",
-    "MICR CODE": "560054016",
-    "STD CODE": "0",
+    "MICR": "560054016",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000353": {
     "IFSC": "CIUB0000353",
@@ -6345,11 +5643,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUPATI",
-    "MICR CODE": "110054007",
-    "STD CODE": "0",
+    "MICR": "110054007",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000354": {
     "IFSC": "CIUB0000354",
@@ -6363,11 +5659,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PEENYA",
-    "MICR CODE": "110054008",
-    "STD CODE": "0",
+    "MICR": "110054008",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000355": {
     "IFSC": "CIUB0000355",
@@ -6381,11 +5675,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
-    "MICR CODE": "110054006",
-    "STD CODE": "0",
+    "MICR": "110054006",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000356": {
     "IFSC": "CIUB0000356",
@@ -6399,11 +5691,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
-    "MICR CODE": "160054002",
-    "STD CODE": "0",
+    "MICR": "160054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000357": {
     "IFSC": "CIUB0000357",
@@ -6417,11 +5707,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GURGAON",
-    "MICR CODE": "143054002",
-    "STD CODE": "0",
+    "MICR": "143054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000358": {
     "IFSC": "CIUB0000358",
@@ -6435,11 +5723,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHANDIGARH",
-    "MICR CODE": "600054057",
-    "STD CODE": "0",
+    "MICR": "600054057",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000359": {
     "IFSC": "CIUB0000359",
@@ -6453,11 +5739,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AMRITSAR",
-    "MICR CODE": "600054058",
-    "STD CODE": "0",
+    "MICR": "600054058",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000360": {
     "IFSC": "CIUB0000360",
@@ -6471,11 +5755,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KANCHIPURAM",
-    "MICR CODE": "600054059",
-    "STD CODE": "0",
+    "MICR": "600054059",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000361": {
     "IFSC": "CIUB0000361",
@@ -6489,11 +5771,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PERUNGALATHUR",
-    "MICR CODE": "606054003",
-    "STD CODE": "0",
+    "MICR": "606054003",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000362": {
     "IFSC": "CIUB0000362",
@@ -6507,11 +5787,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PADAPPAI",
-    "MICR CODE": "626054303",
-    "STD CODE": "0",
+    "MICR": "626054303",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000363": {
     "IFSC": "CIUB0000363",
@@ -6525,11 +5803,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUVATTIPURAM(CHEYYAR)",
-    "MICR CODE": "600054060",
-    "STD CODE": "4182",
+    "MICR": "600054060",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000364": {
     "IFSC": "CIUB0000364",
@@ -6543,11 +5819,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DHALAVOIPURAM",
-    "MICR CODE": "605054008",
-    "STD CODE": "0",
+    "MICR": "605054008",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000365": {
     "IFSC": "CIUB0000365",
@@ -6561,11 +5835,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GUMMIDIPUNDI",
-    "MICR CODE": "600054062",
-    "STD CODE": "0",
+    "MICR": "600054062",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000366": {
     "IFSC": "CIUB0000366",
@@ -6579,11 +5851,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KATTUMANNARKOIL",
-    "MICR CODE": "600054061",
-    "STD CODE": "0",
+    "MICR": "600054061",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000367": {
     "IFSC": "CIUB0000367",
@@ -6597,11 +5867,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MANGADU",
-    "MICR CODE": "503054102",
-    "STD CODE": "0",
+    "MICR": "503054102",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000368": {
     "IFSC": "CIUB0000368",
@@ -6615,11 +5883,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MINJUR",
-    "MICR CODE": "500054010",
-    "STD CODE": "0",
+    "MICR": "500054010",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000369": {
     "IFSC": "CIUB0000369",
@@ -6633,11 +5899,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KAMAREDDY",
-    "MICR CODE": "500054011",
-    "STD CODE": "0",
+    "MICR": "500054011",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000370": {
     "IFSC": "CIUB0000370",
@@ -6651,11 +5915,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MEDCHAL",
-    "MICR CODE": "500054009",
-    "STD CODE": "0",
+    "MICR": "500054009",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000371": {
     "IFSC": "CIUB0000371",
@@ -6669,11 +5931,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MEERKHANPET",
-    "MICR CODE": "641054022",
-    "STD CODE": "0",
+    "MICR": "641054022",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000372": {
     "IFSC": "CIUB0000372",
@@ -6687,11 +5947,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "UPPAL",
-    "MICR CODE": "626054202",
-    "STD CODE": "0",
+    "MICR": "626054202",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000373": {
     "IFSC": "CIUB0000373",
@@ -6705,11 +5963,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AVANASHI",
-    "MICR CODE": "625054013",
-    "STD CODE": "0",
+    "MICR": "625054013",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000374": {
     "IFSC": "CIUB0000374",
@@ -6723,11 +5979,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ARUPPUKOTTAI",
-    "MICR CODE": "627054009",
-    "STD CODE": "0",
+    "MICR": "627054009",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000375": {
     "IFSC": "CIUB0000375",
@@ -6741,11 +5995,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "USILAMPATTI",
-    "MICR CODE": "627054010",
-    "STD CODE": "4552",
+    "MICR": "627054010",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000376": {
     "IFSC": "CIUB0000376",
@@ -6759,11 +6011,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TENKASI",
-    "MICR CODE": "625054014",
-    "STD CODE": "0",
+    "MICR": "625054014",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000377": {
     "IFSC": "CIUB0000377",
@@ -6777,11 +6027,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AMBASAMUDRAM",
-    "MICR CODE": "682054003",
-    "STD CODE": "0",
+    "MICR": "682054003",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000378": {
     "IFSC": "CIUB0000378",
@@ -6795,11 +6043,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUNAGAR",
-    "MICR CODE": "688054002",
-    "STD CODE": "0",
+    "MICR": "688054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000379": {
     "IFSC": "CIUB0000379",
@@ -6813,11 +6059,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TRIPPUNITHURA",
-    "MICR CODE": "600054063",
-    "STD CODE": "0",
+    "MICR": "600054063",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000380": {
     "IFSC": "CIUB0000380",
@@ -6831,11 +6075,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ALAPPUZHA",
-    "MICR CODE": "600054064",
-    "STD CODE": "0",
+    "MICR": "600054064",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000381": {
     "IFSC": "CIUB0000381",
@@ -6849,11 +6091,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600054065",
-    "STD CODE": "0",
+    "MICR": "600054065",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000382": {
     "IFSC": "CIUB0000382",
@@ -6867,11 +6107,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KANCHIPURAM",
-    "MICR CODE": "226054002",
-    "STD CODE": "0",
+    "MICR": "226054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000383": {
     "IFSC": "CIUB0000383",
@@ -6885,11 +6123,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUPPORUR",
-    "MICR CODE": "444054101",
-    "STD CODE": "0",
+    "MICR": "444054101",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000384": {
     "IFSC": "CIUB0000384",
@@ -6903,11 +6139,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "LUCKNOW",
-    "MICR CODE": "500054012",
-    "STD CODE": "0",
+    "MICR": "500054012",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000385": {
     "IFSC": "CIUB0000385",
@@ -6921,11 +6155,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AMRAVATI",
-    "MICR CODE": "306054002",
-    "STD CODE": "0",
+    "MICR": "306054002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000386": {
     "IFSC": "CIUB0000386",
@@ -6939,11 +6171,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
-    "MICR CODE": "344054051",
-    "STD CODE": "0",
+    "MICR": "344054051",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000387": {
     "IFSC": "CIUB0000387",
@@ -6957,11 +6187,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PALI",
-    "MICR CODE": "600054066",
-    "STD CODE": "0",
+    "MICR": "600054066",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000388": {
     "IFSC": "CIUB0000388",
@@ -6975,11 +6203,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BALOTRA",
-    "MICR CODE": "600054067",
-    "STD CODE": "0",
+    "MICR": "600054067",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000389": {
     "IFSC": "CIUB0000389",
@@ -6993,11 +6219,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RED HILLS",
-    "MICR CODE": "629054102",
-    "STD CODE": "0",
+    "MICR": "629054102",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000390": {
     "IFSC": "CIUB0000390",
@@ -7011,11 +6235,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KANCHIPURAM",
-    "MICR CODE": "625054015",
-    "STD CODE": "0",
+    "MICR": "625054015",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000391": {
     "IFSC": "CIUB0000391",
@@ -7029,11 +6251,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MARTHANDAM",
-    "MICR CODE": "462054001",
-    "STD CODE": "0",
+    "MICR": "462054001",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000392": {
     "IFSC": "CIUB0000392",
@@ -7047,11 +6267,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BATLAGUNDU",
-    "MICR CODE": "613054008",
-    "STD CODE": "0",
+    "MICR": "613054008",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000393": {
     "IFSC": "CIUB0000393",
@@ -7065,11 +6283,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BHOPAL",
-    "MICR CODE": "600054068",
-    "STD CODE": "0",
+    "MICR": "600054068",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000394": {
     "IFSC": "CIUB0000394",
@@ -7084,8 +6300,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NANJIKOTTAI",
-    "MICR CODE": "600054069",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7101,11 +6315,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUVALLUR",
-    "MICR CODE": "600054070",
-    "STD CODE": "0",
+    "MICR": "600054070",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000396": {
     "IFSC": "CIUB0000396",
@@ -7119,11 +6331,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KANCHIPURAM",
-    "MICR CODE": "600054071",
-    "STD CODE": "0",
+    "MICR": "600054071",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000397": {
     "IFSC": "CIUB0000397",
@@ -7137,11 +6347,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUVALLUR",
-    "MICR CODE": "600054072",
-    "STD CODE": "0",
+    "MICR": "600054072",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000398": {
     "IFSC": "CIUB0000398",
@@ -7155,11 +6363,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUVALLUR",
-    "MICR CODE": "600054073",
-    "STD CODE": "0",
+    "MICR": "600054073",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000399": {
     "IFSC": "CIUB0000399",
@@ -7173,11 +6379,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THIRUNINRAVUR",
-    "MICR CODE": "625054016",
-    "STD CODE": "0",
+    "MICR": "625054016",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000400": {
     "IFSC": "CIUB0000400",
@@ -7191,11 +6395,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KANCHIPURAM",
-    "MICR CODE": "625054017",
-    "STD CODE": "0",
+    "MICR": "625054017",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000401": {
     "IFSC": "CIUB0000401",
@@ -7209,11 +6411,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHINNALAPATTI",
-    "MICR CODE": "600054074",
-    "STD CODE": "0",
+    "MICR": "600054074",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000402": {
     "IFSC": "CIUB0000402",
@@ -7227,11 +6427,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DINDIGUL",
-    "MICR CODE": "500054013",
-    "STD CODE": "0",
+    "MICR": "500054013",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000403": {
     "IFSC": "CIUB0000403",
@@ -7245,11 +6443,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "613054009",
-    "STD CODE": "0",
+    "MICR": "613054009",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000404": {
     "IFSC": "CIUB0000404",
@@ -7263,11 +6459,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
-    "MICR CODE": "613054010",
-    "STD CODE": "0",
+    "MICR": "613054010",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000405": {
     "IFSC": "CIUB0000405",
@@ -7282,8 +6476,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANJAVUR",
-    "MICR CODE": "500054013",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7300,8 +6492,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANJAVUR",
-    "MICR CODE": "613054009",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7318,8 +6508,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANJAVUR",
-    "MICR CODE": "613054010",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7336,8 +6524,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANJAVUR",
-    "MICR CODE": "613054011",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7354,8 +6540,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANJAVUR",
-    "MICR CODE": "612054017",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7372,8 +6556,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VERAPANDIPUDUR",
-    "MICR CODE": "612054018",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7390,8 +6572,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VADAKUTHU",
-    "MICR CODE": "641054023",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7408,8 +6588,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NEDUNGUNDRAM",
-    "MICR CODE": "607054103",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7426,8 +6604,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THIRUVENCHERY",
-    "MICR CODE": "600054075",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7444,8 +6620,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PADUR",
-    "MICR CODE": "600054076",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7462,8 +6636,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUDUKKOTTAI",
-    "MICR CODE": "600054077",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7480,8 +6652,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUVDAIMARUDUR",
-    "MICR CODE": "622054006",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7498,8 +6668,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUVDAIMARUDUR",
-    "MICR CODE": "612054019",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7516,8 +6684,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUVALLUR",
-    "MICR CODE": "612054020",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7534,8 +6700,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AMBUR",
-    "MICR CODE": "600054078",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7552,8 +6716,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "635054302",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7570,8 +6732,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PONDICHERRY",
-    "MICR CODE": "600054079",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7588,8 +6748,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "605054009",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7606,8 +6764,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VILLIANUR",
-    "MICR CODE": "600054080",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7624,8 +6780,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "605054010",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7642,8 +6796,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SALEM",
-    "MICR CODE": "600054081",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7660,8 +6812,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SANKARI",
-    "MICR CODE": "636054103",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7678,8 +6828,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ANTHIYUR",
-    "MICR CODE": "638054012",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7696,8 +6844,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
-    "MICR CODE": "638054013",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7714,8 +6860,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ANGAMALY",
-    "MICR CODE": "641054024",
-    "STD CODE": "484",
     "NEFT": true,
     "IMPS": true
   },
@@ -7732,8 +6876,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VALAJANAGARAM",
-    "MICR CODE": "683054002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7750,8 +6892,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "621054005",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7768,8 +6908,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600054082",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7786,8 +6924,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600054083",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7804,8 +6940,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NILAKOTTAI",
-    "MICR CODE": "600054084",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7822,8 +6956,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NATHAM",
-    "MICR CODE": "625054018",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7840,8 +6972,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MELUR",
-    "MICR CODE": "625054019",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7858,8 +6988,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VEERAPURAM",
-    "MICR CODE": "625054020",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7876,8 +7004,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600054085",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7894,8 +7020,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PONNERI",
-    "MICR CODE": "600054086",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7912,8 +7036,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
-    "MICR CODE": "600054087",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7930,8 +7052,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KATTUR",
-    "MICR CODE": "641054025",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7948,8 +7068,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VISAKHAPATNAM",
-    "MICR CODE": "620054013",
-    "STD CODE": "871",
     "NEFT": true,
     "IMPS": true
   },
@@ -7966,8 +7084,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VIZIANAGARAM",
-    "MICR CODE": "530054003",
-    "STD CODE": "8922",
     "NEFT": true,
     "IMPS": true
   },
@@ -7984,8 +7100,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THIMMAVARAM",
-    "MICR CODE": "535054002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8002,8 +7116,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NARANAMANGALAM",
-    "MICR CODE": "600054088",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8020,8 +7132,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SITHARKADU",
-    "MICR CODE": "610054010",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8038,8 +7148,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VILANDHAKANDAM",
-    "MICR CODE": "609054005",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8056,8 +7164,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TUNI",
-    "MICR CODE": "613054012",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8074,8 +7180,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOMARAPALAYAM",
-    "MICR CODE": "533054202",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8092,8 +7196,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BARGUR",
-    "MICR CODE": "638054014",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8110,8 +7212,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VANDAVASI",
-    "MICR CODE": "635054003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8128,8 +7228,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
-    "MICR CODE": "606054004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8146,8 +7244,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
-    "MICR CODE": "641054026",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8164,8 +7260,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOILAMBAKKAM",
-    "MICR CODE": "641054027",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8182,8 +7276,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VANAGARAM",
-    "MICR CODE": "600054089",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8200,8 +7292,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "600054090",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8218,8 +7308,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "560054018",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8236,8 +7324,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VALAPADI",
-    "MICR CODE": "560054017",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8254,8 +7340,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THARAMANGALAM",
-    "MICR CODE": "636054011",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8272,8 +7356,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SATHYAMANGALAM",
-    "MICR CODE": "636054012",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8290,8 +7372,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MANAMADURAI",
-    "MICR CODE": "638054015",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8308,8 +7388,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MANJAKOLLAI",
-    "MICR CODE": "630054203",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8326,8 +7404,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
-    "MICR CODE": "611054007",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8344,8 +7420,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
-    "MICR CODE": "500054015",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8362,8 +7436,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ANKLESHWAR",
-    "MICR CODE": "500054014",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8380,8 +7452,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VAPI",
-    "MICR CODE": "393054051",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8398,8 +7468,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "396054031",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8416,8 +7484,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KANCHIPURAM",
-    "MICR CODE": "600054091",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8434,8 +7500,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GNIGEE",
-    "MICR CODE": "600054092",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8452,8 +7516,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "EDAPPALLY",
-    "MICR CODE": "606054005",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8470,8 +7532,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ALUVA",
-    "MICR CODE": "682054005",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8488,8 +7548,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GANDHIDHAM",
-    "MICR CODE": "682054004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8506,8 +7564,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MELAKABISTHALAM",
-    "MICR CODE": "370054001",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8524,8 +7580,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUTTANI",
-    "MICR CODE": "613054013",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8542,8 +7596,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TRICHY",
-    "MICR CODE": "631054202",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8560,8 +7612,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TRICHY",
-    "MICR CODE": "620054014",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8578,8 +7628,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TRICHY",
-    "MICR CODE": "620054015",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8596,8 +7644,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PONNAMARAVATHY",
-    "MICR CODE": "620054016",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8614,8 +7660,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JAGTIAL",
-    "MICR CODE": "622054007",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8632,8 +7676,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MANCHERIAL",
-    "MICR CODE": "505054102",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8650,8 +7692,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CUDDALORE",
-    "MICR CODE": "504054202",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8668,8 +7708,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "605054011",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8686,8 +7724,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600054093",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8704,8 +7740,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600054094",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8722,8 +7756,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KONDAPUR",
-    "MICR CODE": "600054095",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8740,8 +7772,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
-    "MICR CODE": "500054016",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8758,8 +7788,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
-    "MICR CODE": "641054028",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8776,8 +7804,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JODHPUR",
-    "MICR CODE": "641054029",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8794,8 +7820,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VANIYAMBADI",
-    "MICR CODE": "342054002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8812,8 +7836,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TAMBARAM",
-    "MICR CODE": "635054202",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8830,8 +7852,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUVALLUR",
-    "MICR CODE": "600054096",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8848,8 +7868,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ARIYALUR",
-    "MICR CODE": "600054097",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8866,8 +7884,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUPUR",
-    "MICR CODE": "621054006",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8884,8 +7900,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "641054107",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8902,8 +7916,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MADANA PALLE",
-    "MICR CODE": "600054098",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8920,8 +7932,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THIRUNINRAVUR",
-    "MICR CODE": "600054003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8938,8 +7948,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NIRMAL",
-    "MICR CODE": "600054099",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8956,8 +7964,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JAMNAGAR",
-    "MICR CODE": "504054102",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8974,8 +7980,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAIPUR",
-    "MICR CODE": "361054001",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8992,8 +7996,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "380054003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9010,8 +8012,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KANPUR",
-    "MICR CODE": "600054100",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9028,8 +8028,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
-    "MICR CODE": "208054002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9046,8 +8044,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ARIYALUR",
-    "MICR CODE": "110054009",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9064,8 +8060,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ALANGULAM",
-    "MICR CODE": "621054007",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9082,8 +8076,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TUTICORIN",
-    "MICR CODE": "627054011",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9100,8 +8092,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MADURAI",
-    "MICR CODE": "627054012",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9118,8 +8108,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MADURAI",
-    "MICR CODE": "625054021",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9136,8 +8124,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KANYAKUMARI",
-    "MICR CODE": "625054022",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9154,8 +8140,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGAPATTINAM",
-    "MICR CODE": "629054004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9172,8 +8156,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHIDAMBARAM",
-    "MICR CODE": "609054006",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9190,8 +8172,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "FARIDABAD",
-    "MICR CODE": "605054012",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9208,8 +8188,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "110054010",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9226,8 +8204,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "560054019",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9244,8 +8220,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
-    "MICR CODE": "560054020",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9262,8 +8236,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THULLUR",
-    "MICR CODE": "500054017",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9280,8 +8252,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "522054582",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9298,8 +8268,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAMAPURAM",
-    "MICR CODE": "600054101",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9316,8 +8284,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600054102",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9334,8 +8300,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600054103",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9352,8 +8316,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
-    "MICR CODE": "600054104",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9370,8 +8332,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
-    "MICR CODE": "641054030",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9388,8 +8348,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
-    "MICR CODE": "641054031",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9406,8 +8364,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUPUR",
-    "MICR CODE": "641054032",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9424,8 +8380,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUNELVELI",
-    "MICR CODE": "641054108",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9442,8 +8396,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHINNAMANUR",
-    "MICR CODE": "627054013",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9460,8 +8412,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SALEM",
-    "MICR CODE": "625054103",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9478,8 +8428,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUVARUR",
-    "MICR CODE": "636054013",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9496,8 +8444,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANJAVUR",
-    "MICR CODE": "610054011",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9514,8 +8460,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "613054014",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9532,8 +8476,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
-    "MICR CODE": "600054105",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9550,8 +8492,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGAPATTINAM",
-    "MICR CODE": "641054033",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9568,8 +8508,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUDUCHERRY",
-    "MICR CODE": "609054203",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9586,8 +8524,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BENGALURU",
-    "MICR CODE": "605054013",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9604,8 +8540,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THIRUMULLAIVOYAL",
-    "MICR CODE": "560054021",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9622,8 +8556,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SIVAGANGA",
-    "MICR CODE": "600054106",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9640,8 +8572,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SIVAGANGA",
-    "MICR CODE": "630054204",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9658,8 +8588,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
-    "MICR CODE": "630054205",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9676,8 +8604,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANJAVUR",
-    "MICR CODE": "641054034",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9694,8 +8620,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "613054015",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9712,8 +8636,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MADURAI",
-    "MICR CODE": "600054107",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9730,8 +8652,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
-    "MICR CODE": "625054023",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9748,8 +8668,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ERODE",
-    "MICR CODE": "641054035",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9766,8 +8684,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BENGALURU",
-    "MICR CODE": "638054016",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9784,8 +8700,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NALGONDA",
-    "MICR CODE": "560054022",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9802,8 +8716,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SALEM",
-    "MICR CODE": "508054002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9820,8 +8732,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KANCHEEPURAM",
-    "MICR CODE": "636054014",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9838,8 +8748,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ALANGANALLUR",
-    "MICR CODE": "600054108",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9856,8 +8764,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOODAL NAGAR",
-    "MICR CODE": "625054024",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9874,8 +8780,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "UTHIRAMERUR",
-    "MICR CODE": "625054025",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9892,8 +8796,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NORTH POIGAINALLUR",
-    "MICR CODE": "600054109",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9910,8 +8812,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SALEM",
-    "MICR CODE": "611054008",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9928,8 +8828,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PERUMALNALLUR",
-    "MICR CODE": "636054015",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9946,8 +8844,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THRISSUR EAST FORT",
-    "MICR CODE": "641054109",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9964,8 +8860,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MADURAI",
-    "MICR CODE": "680054003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9982,8 +8876,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TRICHY",
-    "MICR CODE": "625054026",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10000,8 +8892,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MANIKONDA HYDERABAD",
-    "MICR CODE": "620054017",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10018,8 +8908,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KUMBAKONAM",
-    "MICR CODE": "500054018",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10036,8 +8924,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUTHUPET",
-    "MICR CODE": "612054021",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10054,8 +8940,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUPPUR",
-    "MICR CODE": "614054203",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10072,8 +8956,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
-    "MICR CODE": "641054110",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10090,8 +8972,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHINNASALEM",
-    "MICR CODE": "641054036",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10108,8 +8988,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KETTAVARAMPALAYAM",
-    "MICR CODE": "606054105",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10126,8 +9004,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VADAMADURAI",
-    "MICR CODE": "606054006",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10144,8 +9020,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KHARGHAR",
-    "MICR CODE": "625054027",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10162,8 +9036,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ARANTHANGI",
-    "MICR CODE": "400054012",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10180,8 +9052,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BENGALURU",
-    "MICR CODE": "622054008",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10198,8 +9068,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BENGALURU",
-    "MICR CODE": "560054025",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10216,8 +9084,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BENGALURU",
-    "MICR CODE": "560054023",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10234,8 +9100,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "560054024",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10252,8 +9116,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600054110",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10270,8 +9132,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600054111",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10288,8 +9148,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
-    "MICR CODE": "600054112",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10306,8 +9164,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUPPUR",
-    "MICR CODE": "641054037",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10324,8 +9180,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DINDIGUL",
-    "MICR CODE": "641054111",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10342,8 +9196,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "625054028",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10360,8 +9212,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600054113",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10378,8 +9228,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANJAVUR",
-    "MICR CODE": "600054114",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10396,8 +9244,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "614054007",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10414,8 +9260,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUVARUR",
-    "MICR CODE": "600054115",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10432,8 +9276,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SALEM",
-    "MICR CODE": "610054012",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10450,8 +9292,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
-    "MICR CODE": "636054016",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10468,8 +9308,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUNELVELI",
-    "MICR CODE": "641054112",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10486,8 +9324,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "627054014",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10504,8 +9340,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VELLORE",
-    "MICR CODE": "560054026",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10522,8 +9356,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
-    "MICR CODE": "631054103",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10540,8 +9372,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HASSAN",
-    "MICR CODE": "400054013",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10558,8 +9388,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SHIMOGA",
-    "MICR CODE": "573054302",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10576,8 +9404,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MADURAI",
-    "MICR CODE": "577054202",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10594,8 +9420,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ANATAPUR",
-    "MICR CODE": "625054029",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10612,8 +9436,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MAYILADUTHURAI",
-    "MICR CODE": "515054003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10630,8 +9452,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KALAHASTINAPURAM",
-    "MICR CODE": "609054007",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10648,8 +9468,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUDIKONDAN",
-    "MICR CODE": "609054008",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10666,8 +9484,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KADAGAMBADI",
-    "MICR CODE": "609054009",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10684,8 +9500,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KAPPANAMANGALAM",
-    "MICR CODE": "609054010",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10702,8 +9516,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MADAGUDI",
-    "MICR CODE": "612054023",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10720,8 +9532,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THIMMAKUDI",
-    "MICR CODE": "600054003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10738,8 +9548,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANJAVUR",
-    "MICR CODE": "612054025",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10756,8 +9564,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "612054022",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10774,8 +9580,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600054116",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10792,8 +9596,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOTA",
-    "MICR CODE": "600054117",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10810,8 +9612,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AJMER",
-    "MICR CODE": "324054002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10828,8 +9628,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AJMER",
-    "MICR CODE": "305054002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10846,8 +9644,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "UDAIPUR",
-    "MICR CODE": "305054003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10864,8 +9660,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MAHABUBNAGAR",
-    "MICR CODE": "313054002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -10881,11 +9675,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000606": {
     "IFSC": "CIUB0000606",
@@ -10899,11 +9691,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000607": {
     "IFSC": "CIUB0000607",
@@ -10917,11 +9707,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUPPUR",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000608": {
     "IFSC": "CIUB0000608",
@@ -10935,11 +9723,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000609": {
     "IFSC": "CIUB0000609",
@@ -10953,11 +9739,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THIRUVALLUR",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000610": {
     "IFSC": "CIUB0000610",
@@ -10971,11 +9755,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUNELVELI",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000611": {
     "IFSC": "CIUB0000611",
@@ -10989,11 +9771,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUVALLUR",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000612": {
     "IFSC": "CIUB0000612",
@@ -11007,11 +9787,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VELLORE",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000613": {
     "IFSC": "CIUB0000613",
@@ -11025,11 +9803,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000614": {
     "IFSC": "CIUB0000614",
@@ -11043,11 +9819,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000615": {
     "IFSC": "CIUB0000615",
@@ -11061,11 +9835,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VIRUDHUNAGAR",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000616": {
     "IFSC": "CIUB0000616",
@@ -11079,11 +9851,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000617": {
     "IFSC": "CIUB0000617",
@@ -11097,11 +9867,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000618": {
     "IFSC": "CIUB0000618",
@@ -11115,11 +9883,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THIRUVALLUR",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000619": {
     "IFSC": "CIUB0000619",
@@ -11133,11 +9899,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANJAVUR",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000620": {
     "IFSC": "CIUB0000620",
@@ -11151,47 +9915,41 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TUTICORIN",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000621": {
     "BANK": "CITY UNION BANK LIMITED",
     "IFSC": "CIUB0000621",
-    "MICR CODE": "WAITING",
     "BRANCH": "PANDARAVADAI MAPPADUGAI",
     "ADDRESS": "NO 4 BY 53C,MAIN ROAD,OPP TO MARUTHI NURSERY SCHOOL,MAYILADUTHURAI TK,MAPPADUGAI,NAGAPATTINAM",
-    "STD CODE": "0",
     "CONTACT": "6379900248",
     "CITY": "NAGAPATTINAM",
     "DISTRICT": "NAGAPATTINAM",
     "STATE": "TAMIL NADU",
+    "MICR": "WAITING",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000622": {
     "BANK": "CITY UNION BANK LIMITED",
     "IFSC": "CIUB0000622",
-    "MICR CODE": "WAITING",
     "BRANCH": "TIRUCHERAI",
     "ADDRESS": "NO 253,NORTH STREET,KUMBAKONAM TK,TIRUCHERAI,THANJAVUR",
-    "STD CODE": "0",
     "CONTACT": "6379900247",
     "CITY": "THANJAVUR",
     "DISTRICT": "KUMBAKONAM",
     "STATE": "TAMIL NADU",
+    "MICR": "WAITING",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000623": {
     "IFSC": "CIUB0000623",
@@ -11205,11 +9963,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CUDDALORE",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000624": {
     "IFSC": "CIUB0000624",
@@ -11223,11 +9979,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ERODE",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000625": {
     "IFSC": "CIUB0000625",
@@ -11241,11 +9995,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ERODE",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000626": {
     "IFSC": "CIUB0000626",
@@ -11259,11 +10011,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000627": {
     "IFSC": "CIUB0000627",
@@ -11277,11 +10027,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ERODE",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000628": {
     "IFSC": "CIUB0000628",
@@ -11295,11 +10043,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KANCHEEPURAM",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000629": {
     "IFSC": "CIUB0000629",
@@ -11313,11 +10059,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SALEM",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000630": {
     "IFSC": "CIUB0000630",
@@ -11331,11 +10075,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ARIYALUR",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000631": {
     "IFSC": "CIUB0000631",
@@ -11349,11 +10091,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ARIYALUR",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000632": {
     "IFSC": "CIUB0000632",
@@ -11367,11 +10107,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THIRUVARUR",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000633": {
     "IFSC": "CIUB0000633",
@@ -11385,11 +10123,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUNELVELI",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000634": {
     "IFSC": "CIUB0000634",
@@ -11403,11 +10139,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KANCHEEPURAM",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000635": {
     "IFSC": "CIUB0000635",
@@ -11421,11 +10155,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ERODE",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000636": {
     "IFSC": "CIUB0000636",
@@ -11439,11 +10171,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ERODE",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000637": {
     "IFSC": "CIUB0000637",
@@ -11457,11 +10187,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000638": {
     "IFSC": "CIUB0000638",
@@ -11475,11 +10203,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THIRUVALLUR",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000639": {
     "IFSC": "CIUB0000639",
@@ -11493,11 +10219,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000640": {
     "IFSC": "CIUB0000640",
@@ -11511,11 +10235,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BENGALURU",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000641": {
     "IFSC": "CIUB0000641",
@@ -11529,11 +10251,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BENGALURU",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000642": {
     "IFSC": "CIUB0000642",
@@ -11547,11 +10267,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BENGALURU",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000643": {
     "IFSC": "CIUB0000643",
@@ -11565,11 +10283,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "WARANGAL",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000644": {
     "IFSC": "CIUB0000644",
@@ -11583,11 +10299,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGAPATTINAM",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000645": {
     "IFSC": "CIUB0000645",
@@ -11601,11 +10315,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAICHUR",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000646": {
     "IFSC": "CIUB0000646",
@@ -11619,11 +10331,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANJAVUR",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000647": {
     "IFSC": "CIUB0000647",
@@ -11637,11 +10347,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KANYAKUMARI",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000648": {
     "IFSC": "CIUB0000648",
@@ -11655,11 +10363,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VIRUDHUNAGAR",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000649": {
     "IFSC": "CIUB0000649",
@@ -11673,11 +10379,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000650": {
     "IFSC": "CIUB0000650",
@@ -11691,11 +10395,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KANCHEEPURAM",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000651": {
     "IFSC": "CIUB0000651",
@@ -11709,11 +10411,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000652": {
     "IFSC": "CIUB0000652",
@@ -11727,11 +10427,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000653": {
     "IFSC": "CIUB0000653",
@@ -11745,11 +10443,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANJAVUR",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000654": {
     "IFSC": "CIUB0000654",
@@ -11763,65 +10459,73 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
+  },
+  "CIUB0000655": {
+    "BANK": "CITY UNION BANK LIMITED",
+    "IFSC": "CIUB0000655",
+    "BRANCH": "DIGITAL BANKING DIVISION",
+    "ADDRESS": "GROUND FLOOR,NO 706 ANNA SALAI,THOUSAND LIGHTS,CHENNAI.TAMIL NADU",
+    "CONTACT": "28297904",
+    "CITY": "CHENNAI",
+    "DISTRICT": "CHENNAI",
+    "STATE": "TAMIL NADU",
+    "MICR": "WAITING",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
   },
   "CIUB0000656": {
     "BANK": "CITY UNION BANK LIMITED",
     "IFSC": "CIUB0000656",
-    "MICR CODE": "WAITING",
     "BRANCH": "VALLIOOR",
     "ADDRESS": "GVK TOWER,274 BY 7,RADHAPURAM ROAD,VALLIOOR,TIRUNELVELI",
-    "STD CODE": "0",
     "CONTACT": "9384029483",
     "CITY": "TIRUNELVELI",
     "DISTRICT": "TIRUNELVELI",
     "STATE": "TAMIL NADU",
+    "MICR": "WAITING",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000657": {
     "BANK": "CITY UNION BANK LIMITED",
     "IFSC": "CIUB0000657",
-    "MICR CODE": "WAITING",
     "BRANCH": "AZHINJIVAKKAM",
     "ADDRESS": "2 BY 190,BAAKIYAAMMAL STREET,GNT ROAD,JANAPANCHATHIRAM KOOT ROAD,AZHINJIVAKKAM,CHENNAI",
-    "STD CODE": "0",
     "CONTACT": "9384029473",
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
     "STATE": "TAMIL NADU",
+    "MICR": "WAITING",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000658": {
     "BANK": "CITY UNION BANK LIMITED",
     "IFSC": "CIUB0000658",
-    "MICR CODE": "WAITING",
     "BRANCH": "TADA",
     "ADDRESS": "S.NO 38 1,FLAT NO 001,SUJATHA NAGAR,G.N.T ROAD,TADA,NELLORE,ANDHRA PRADESH.PIN CODE 524401",
-    "STD CODE": "0",
     "CONTACT": "9384029482",
     "CITY": "NELLORE",
     "DISTRICT": "NELLORE",
     "STATE": "ANDHRA PRADESH",
+    "MICR": "WAITING",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000659": {
     "IFSC": "CIUB0000659",
@@ -11835,11 +10539,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MYLAVARAM",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000660": {
     "IFSC": "CIUB0000660",
@@ -11853,11 +10555,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BENGALURU",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000661": {
     "IFSC": "CIUB0000661",
@@ -11871,11 +10571,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RANIPET",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000662": {
     "IFSC": "CIUB0000662",
@@ -11889,11 +10587,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUPPUR",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000663": {
     "IFSC": "CIUB0000663",
@@ -11907,11 +10603,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENGALPATTU",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000664": {
     "IFSC": "CIUB0000664",
@@ -11925,11 +10619,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SALEM",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000665": {
     "IFSC": "CIUB0000665",
@@ -11943,11 +10635,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THENI",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000666": {
     "IFSC": "CIUB0000666",
@@ -11961,11 +10651,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGAPATNAM",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000667": {
     "IFSC": "CIUB0000667",
@@ -11979,11 +10667,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KANCHEEPURAM",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000668": {
     "IFSC": "CIUB0000668",
@@ -11997,11 +10683,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANJAVUR",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000669": {
     "IFSC": "CIUB0000669",
@@ -12015,11 +10699,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANJAVUR",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000670": {
     "IFSC": "CIUB0000670",
@@ -12033,11 +10715,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANJAVUR",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000671": {
     "IFSC": "CIUB0000671",
@@ -12051,11 +10731,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGAPATTINAM",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000672": {
     "IFSC": "CIUB0000672",
@@ -12069,11 +10747,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KANCHEEPURAM",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000673": {
     "IFSC": "CIUB0000673",
@@ -12087,11 +10763,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUVARUR",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000674": {
     "IFSC": "CIUB0000674",
@@ -12105,11 +10779,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KANCHEEPURAM",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000675": {
     "IFSC": "CIUB0000675",
@@ -12123,11 +10795,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000676": {
     "IFSC": "CIUB0000676",
@@ -12141,11 +10811,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "UTTAR PRADESH",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000677": {
     "IFSC": "CIUB0000677",
@@ -12159,11 +10827,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENGALPATTU ",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000678": {
     "IFSC": "CIUB0000678",
@@ -12177,11 +10843,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUDUCHERRY",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000679": {
     "IFSC": "CIUB0000679",
@@ -12195,11 +10859,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GUJARAT",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000680": {
     "IFSC": "CIUB0000680",
@@ -12213,11 +10875,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGAPATTINAM",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000681": {
     "IFSC": "CIUB0000681",
@@ -12231,11 +10891,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THENI",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000682": {
     "IFSC": "CIUB0000682",
@@ -12249,11 +10907,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CUDDALORE",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000683": {
     "IFSC": "CIUB0000683",
@@ -12267,11 +10923,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLLAM",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000684": {
     "IFSC": "CIUB0000684",
@@ -12285,11 +10939,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHATTISGARH",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000685": {
     "IFSC": "CIUB0000685",
@@ -12303,11 +10955,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAMANATHAPURAM",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000686": {
     "IFSC": "CIUB0000686",
@@ -12321,11 +10971,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GUNTUR",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000687": {
     "IFSC": "CIUB0000687",
@@ -12339,11 +10987,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VIJAYAWADA",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000688": {
     "IFSC": "CIUB0000688",
@@ -12357,11 +11003,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MORBI",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000689": {
     "IFSC": "CIUB0000689",
@@ -12375,11 +11019,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "WEST GODAVERI",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000690": {
     "IFSC": "CIUB0000690",
@@ -12393,11 +11035,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BIKANER",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000691": {
     "IFSC": "CIUB0000691",
@@ -12411,11 +11051,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000692": {
     "IFSC": "CIUB0000692",
@@ -12429,11 +11067,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANJAVUR",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000693": {
     "IFSC": "CIUB0000693",
@@ -12447,11 +11083,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THRISSUR",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000694": {
     "IFSC": "CIUB0000694",
@@ -12465,11 +11099,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MADURAI",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000695": {
     "IFSC": "CIUB0000695",
@@ -12483,11 +11115,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000696": {
     "IFSC": "CIUB0000696",
@@ -12501,11 +11131,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NELLORE",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000697": {
     "IFSC": "CIUB0000697",
@@ -12519,11 +11147,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAMAKKAL",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000698": {
     "IFSC": "CIUB0000698",
@@ -12537,11 +11163,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CUDDALORE",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000699": {
     "IFSC": "CIUB0000699",
@@ -12555,11 +11179,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RANIPET",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000700": {
     "IFSC": "CIUB0000700",
@@ -12573,11 +11195,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NEW DELHI",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000701": {
     "IFSC": "CIUB0000701",
@@ -12591,11 +11211,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RANGAREDDY",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000702": {
     "IFSC": "CIUB0000702",
@@ -12609,11 +11227,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KANCHEEPURAM",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000703": {
     "IFSC": "CIUB0000703",
@@ -12627,11 +11243,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DEWAS",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000704": {
     "IFSC": "CIUB0000704",
@@ -12645,11 +11259,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "UJJAIN",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0000705": {
     "IFSC": "CIUB0000705",
@@ -12663,11 +11275,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KANCHEEPURAM",
-    "MICR CODE": "WAITING",
-    "STD CODE": "0",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CIUB0CMS001": {
     "IFSC": "CIUB0CMS001",
@@ -12681,10 +11291,8 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "WAITING",
-    "STD CODE": "44",
+    "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   }
 }

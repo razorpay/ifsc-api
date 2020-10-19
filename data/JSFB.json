@@ -27,101 +27,137 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "K R PURAM",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003018": {
     "BANK": "JANA SMALL FINANCE BANK LTD",
     "IFSC": "JSFB0003018",
-    "MICR CODE": "641788007",
     "BRANCH": "SINGANALLUR",
     "ADDRESS": "JANA SMALL FINANCE BANK LTD,NO.1/1,BHARATHY NAGAR,3RD STREET,VARATHARAJAPURAM,COIMBATORE -641015,INDIA",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "COIMBATORE",
     "DISTRICT": "COIMBATORE",
     "STATE": "TAMIL NADU",
+    "MICR": "641788007",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
+  },
+  "JSFB0003019": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003019",
+    "BRANCH": "BANGALORE",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,NO.39/2,GROUND FLOOR,2ND MAIN,2ND FLOOR,C K C GARDEN,MISSION ROAD CROSS,BANGALORE - 560027,INDIA",
+    "CONTACT": null,
+    "CITY": "BANGALORE",
+    "DISTRICT": "BANGALORE",
+    "STATE": "KARNATAKA",
+    "MICR": "560788025",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
   },
   "JSFB0003020": {
     "BANK": "JANA SMALL FINANCE BANK LTD",
     "IFSC": "JSFB0003020",
-    "MICR CODE": "110788017",
     "BRANCH": "GURGAON",
     "ADDRESS": "JANA SMALL FINANCE BANK LTD,GROUND FLOOR,BUILDING NO.54/9,NEW RAILWAY ROAD,NEAR IDBI BANK,GURGAON - 122001,INDIA",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "GURGAON",
     "DISTRICT": "GURGAON",
     "STATE": "HARYANA",
+    "MICR": "110788017",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003021": {
     "BANK": "JANA SMALL FINANCE BANK LTD",
     "IFSC": "JSFB0003021",
-    "MICR CODE": "110788014",
     "BRANCH": "MANGOLPURI",
     "ADDRESS": "JANA SMALL FINANNCE BANK LTD.NO.8,PASCHIM ENCLAVE,ROHTAK ROAD,NEAR PEERA GAHRI CHOWK,OPP.MARUTHI SHOW ROOM,PASCHIM VIHAR,NEW DELHI - 110087,INDIA",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "NEW DELHI",
     "DISTRICT": "NEW DELHI",
     "STATE": "DELHI",
+    "MICR": "110788014",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
+  },
+  "JSFB0003022": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003022",
+    "BRANCH": "ERODE",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD.2ND FLOOR,PMB COMPLEX,BEARING NO.19,NACHIAPPA STREET,NEAR DAILY THANTHI OFFICE,ERODE -638001,INDIA",
+    "CONTACT": null,
+    "CITY": "ERODE",
+    "DISTRICT": "ERODE",
+    "STATE": "TAMIL NADU",
+    "MICR": "638788005",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
   },
   "JSFB0003026": {
     "BANK": "JANA SMALL FINANCE BANK LTD",
     "IFSC": "JSFB0003026",
-    "MICR CODE": "600788030",
     "BRANCH": "ALANDUR",
     "ADDRESS": "JANA SMALL FINANCE BANK LTD,GROUND& 1ST FLOORS,NEW DOOR NO.11,OLD DOOR NO.14,THIRUVALLUR MAIN ROAD,ADAMBAKKA,CHENNAI,600088,INDIA",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
     "STATE": "TAMIL NADU",
+    "MICR": "600788030",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003027": {
     "BANK": "JANA SMALL FINANCE BANK LTD",
     "IFSC": "JSFB0003027",
-    "MICR CODE": "600788023",
     "BRANCH": "PORUR",
     "ADDRESS": "JANA SMALL FINANCE BANK LTD,1ST FLOOR,DOOR NO.4/230,KALIAMMAN KOIL STREET,VIRUGAMBAKKAM,CHENNAI - 600092,INDIA",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
     "STATE": "TAMIL NADU",
+    "MICR": "600788023",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
+  },
+  "JSFB0003028": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003028",
+    "BRANCH": "JAIPUR",
+    "ADDRESS": "AASMALLFIACEBAKLTD,NO.101&102,1STFLOOR,GUMATOWER-II,ABLOCK,VAISHALINAGAR,AIPUR-302021,IDIA",
+    "CONTACT": null,
+    "CITY": "JAIPUR",
+    "DISTRICT": "JAIPUR",
+    "STATE": "RAJASTHAN",
+    "MICR": "302788004",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
   },
   "JSFB0003030": {
     "IFSC": "JSFB0003030",
@@ -135,11 +171,25 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TRICHY MAIN",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
+  },
+  "JSFB0003031": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003031",
+    "BRANCH": "HUBLI",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,1ST FLOOR,IB PATIL COMPLEX,KUSUGAL MAIN ROAD,KESHVAPUR,HUBLI,KA,HUBLI - 580023,INDIA",
+    "CONTACT": null,
+    "CITY": "DHARWAD",
+    "DISTRICT": "HUBLI",
+    "STATE": "KARNATAKA",
+    "MICR": "580788002",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
   },
   "JSFB0003033": {
     "IFSC": "JSFB0003033",
@@ -154,8 +204,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGPUR NANDANVAN",
-    "MICR CODE": "440788004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -172,8 +220,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "INDORE",
-    "MICR CODE": "452788003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -190,8 +236,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600788010",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -207,11 +251,41 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
+  },
+  "JSFB0003040": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003040",
+    "BRANCH": "UDAIPUR",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,NO.5,2ND FLOOR,BAPU BAZAR,NEAR DELHI GATE,UDAIPUR - 313001,INDIA",
+    "CONTACT": null,
+    "CITY": "UDAIPUR",
+    "DISTRICT": "UDAIPUR",
+    "STATE": "RAJASTHAN",
+    "MICR": "313788003",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
+  },
+  "JSFB0003041": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003041",
+    "BRANCH": "FARIDABAD",
+    "ADDRESS": "AASMALLFIACEBAKLTD,GROUDADFIRSTFLOORTOWER115,2A/115,NITFIRDABAD,FARIDABAD,121001,IDIA",
+    "CONTACT": null,
+    "CITY": "HARYANA",
+    "DISTRICT": "FARIDABAD",
+    "STATE": "HARYANA",
+    "MICR": "110788022",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
   },
   "JSFB0003042": {
     "IFSC": "JSFB0003042",
@@ -225,11 +299,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003043": {
     "IFSC": "JSFB0003043",
@@ -243,11 +315,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NANDED",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003044": {
     "IFSC": "JSFB0003044",
@@ -261,11 +331,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "URAPAKKAM",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003045": {
     "IFSC": "JSFB0003045",
@@ -279,11 +347,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SALEM",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003048": {
     "IFSC": "JSFB0003048",
@@ -297,29 +363,25 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DHARWAD",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003050": {
     "BANK": "JANA SMALL FINANCE BANK LTD",
     "IFSC": "JSFB0003050",
-    "MICR CODE": "641788006",
     "BRANCH": "POLLACHI",
     "ADDRESS": "JANA SMALL FINANCE BANK LTD,1ST FLOOR,RAMANATHAN COMPLEX,NEW SCHEME ROAD,POLLACHI,COIMBATORE - 642002,INDIA",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "POLLACHI",
     "DISTRICT": "POLLACHI",
     "STATE": "TAMIL NADU",
+    "MICR": "641788006",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003057": {
     "IFSC": "JSFB0003057",
@@ -334,8 +396,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BHOPAL",
-    "MICR CODE": "462788004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -351,11 +411,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PERAMBUR",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003060": {
     "IFSC": "JSFB0003060",
@@ -369,11 +427,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DEWAS",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003061": {
     "IFSC": "JSFB0003061",
@@ -388,9 +444,39 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TRICHY",
-    "MICR CODE": "620788003",
-    "STD CODE": "0",
     "NEFT": true,
+    "IMPS": true
+  },
+  "JSFB0003062": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003062",
+    "BRANCH": "MADURAI",
+    "ADDRESS": "SFL2&3FPRG.PVGYPSSRU200I.",
+    "CONTACT": null,
+    "CITY": "MADURAI",
+    "DISTRICT": "MADURAI",
+    "STATE": "TAMIL NADU",
+    "MICR": "635788005",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
+  },
+  "JSFB0003063": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003063",
+    "BRANCH": "KANCHIPURAM",
+    "ADDRESS": "SFLS.W.5/.YSN.229MYVKH-I.",
+    "CONTACT": null,
+    "CITY": "KANCHEEPURAM",
+    "DISTRICT": "KANCHIPURAM",
+    "STATE": "TAMIL NADU",
+    "MICR": "600788034",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
     "IMPS": true
   },
   "JSFB0003066": {
@@ -405,29 +491,73 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BELGAUM",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003068": {
     "BANK": "JANA SMALL FINANCE BANK LTD",
     "IFSC": "JSFB0003068",
-    "MICR CODE": "110788018",
     "BRANCH": "GHAZIABAD",
     "ADDRESS": "JANA SMALL FINANCE BANK LTD,NO.100,1ST FLOOR,NEW ARYA NAGAR,GHAZIABAD - 201001,INDIA",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "GHAZIABAD",
     "DISTRICT": "GHAZIABAD",
     "STATE": "UTTAR PRADESH",
+    "MICR": "110788018",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
+  },
+  "JSFB0003071": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003071",
+    "BRANCH": "SURAT",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,1ST FLOOR,SHOP NO.120-121,SHREEJI ARCADE,NR.ASPAS TEEN RASTA,GODADARA-DINDOLI ROAD,SURAT ( GUJARAT)- 394210",
+    "CONTACT": null,
+    "CITY": "SURAT",
+    "DISTRICT": "SURAT",
+    "STATE": "GUJARAT",
+    "MICR": "395788004",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
+  },
+  "JSFB0003074": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003074",
+    "BRANCH": "JAMNAGAR",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,RIDDHI SIDDHI COMPLEX,101-102,1ST FLOOR,MAHILA COLLEGE ROAD,OPP.SHRI VIKAS GRUH,PATEL COLONY,JAMNAGAR -361001,INDIA",
+    "CONTACT": null,
+    "CITY": "JAMNAGAR",
+    "DISTRICT": "JAMNAGAR",
+    "STATE": "GUJARAT",
+    "MICR": "361788002",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
+  },
+  "JSFB0003077": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003077",
+    "BRANCH": "BHOPAL-BITTAN MARKET",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,1ST FLOOR,B.M.TOWER,PLOT NO.45/A,BANJARI CO-OPERATIVE HOUSING SOCIETY,BANJARI VILLAGE,KOLAR ROAD,BHOPAL - 462042,INDIA",
+    "CONTACT": null,
+    "CITY": "BHOPAL",
+    "DISTRICT": "BHOPAL",
+    "STATE": "MADHYA PRADESH",
+    "MICR": "462788006",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
   },
   "JSFB0003078": {
     "IFSC": "JSFB0003078",
@@ -442,46 +572,56 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "INDORE",
-    "MICR CODE": "453788001",
-    "STD CODE": "0",
     "NEFT": true,
+    "IMPS": true
+  },
+  "JSFB0003079": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003079",
+    "BRANCH": "JODHPUR",
+    "ADDRESS": "AASMALLFIACEBAKLTD,GROUDFLOOR,P.N.183,184,185,MAAIKAHATHA,BEHIDSATHOSHGUESTHOUSE,PAOTA,ODHPUR-342001,IDIA",
+    "CONTACT": null,
+    "CITY": "JODHPUR",
+    "DISTRICT": "JODHPUR",
+    "STATE": "RAJASTHAN",
+    "MICR": "342788003",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
     "IMPS": true
   },
   "JSFB0003080": {
     "BANK": "JANA SMALL FINANCE BANK LTD",
     "IFSC": "JSFB0003080",
-    "MICR CODE": "110788010",
     "BRANCH": "SAHADHAR",
     "ADDRESS": "JANA SMALL FINANCE BANK LTD,1ST FLOOR,PROPERTY NO.B-109,JYOTI COLONY,NEAR DURGAPURI CHOWK,SHAHDARA,DELHI - 110032,INDIA",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "NEW DELHI",
     "DISTRICT": "NEW DELHI",
     "STATE": "DELHI",
+    "MICR": "110788010",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003090": {
     "BANK": "JANA SMALL FINANCE BANK LTD",
     "IFSC": "JSFB0003090",
-    "MICR CODE": "110788013",
     "BRANCH": "MALVIYA NAGAR",
     "ADDRESS": "JANA SMALL FINANCE BANK LTD,GROUND FLOOR,PLOT NO.74,BLOCK NO.D ( D-74),MALVIYA NAGAR,NEW DELHI -110017,INDIA",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "NEW DELHI",
     "DISTRICT": "NEW DELHI",
     "STATE": "DELHI",
+    "MICR": "110788013",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003094": {
     "IFSC": "JSFB0003094",
@@ -495,11 +635,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MYSORE",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003095": {
     "IFSC": "JSFB0003095",
@@ -513,11 +651,25 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DAVANGERE",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
+  },
+  "JSFB0003099": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003099",
+    "BRANCH": "THANE",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,FIRST FLOOR AND FIRST FLOOR GAVDEVI APARTMENT,OPP HOTEL NITIN RAJ PUNE LINK ROAD KATEMANIVALI,KALYAN EAST,421306,INDIA",
+    "CONTACT": null,
+    "CITY": "MUMBAI",
+    "DISTRICT": "THANE",
+    "STATE": "MAHARASHTRA",
+    "MICR": "400788020",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
   },
   "JSFB0003100": {
     "IFSC": "JSFB0003100",
@@ -531,11 +683,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE-4-NIGADI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003104": {
     "IFSC": "JSFB0003104",
@@ -550,46 +700,56 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600788011",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "JSFB0003105": {
     "BANK": "JANA SMALL FINANCE BANK LTD",
     "IFSC": "JSFB0003105",
-    "MICR CODE": "600788029",
     "BRANCH": "ROYAPURAM",
     "ADDRESS": "JANA SMALL FINANCE BANK LTD,2ND FLOOR,NO.184/28,M.S.KOVIL STREET,ROYAPURAM,CHENNAI - 600089,INDIA",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
     "STATE": "TAMIL NADU",
+    "MICR": "600788029",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
+  },
+  "JSFB0003106": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003106",
+    "BRANCH": "PONDICHERRY",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,1ST FLOOR,PLOT NO 22,100 FT ROAD,GAYATHRI NAGAR,ULANDAI REVENUE VILLGE,MUDALIYARPET,PONDICHERRY - 605004,INDIA",
+    "CONTACT": null,
+    "CITY": "PUDUCHERRY",
+    "DISTRICT": "PONDICHERRY",
+    "STATE": "PUDUCHERRY",
+    "MICR": "605788005",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
   },
   "JSFB0003111": {
     "BANK": "JANA SMALL FINANCE BANK LTD",
     "IFSC": "JSFB0003111",
-    "MICR CODE": "641788005",
     "BRANCH": "NARASIMANAYAKAN PALAYAM",
     "ADDRESS": "JANA SMALL FINANCE BANK LTD,NO.47,1ST FLOOR SIVA SAKTHI COMPLEX,NARASHIMANAICKENPALYAM,COIMBATORE-641031,INDIA",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "COIMBATORE",
     "DISTRICT": "COIMBATORE",
     "STATE": "TAMIL NADU",
+    "MICR": "641788005",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003112": {
     "IFSC": "JSFB0003112",
@@ -603,11 +763,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SHIVAMOGGA",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003115": {
     "IFSC": "JSFB0003115",
@@ -622,8 +780,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KALANINAGAR",
-    "MICR CODE": "452788004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -639,11 +795,25 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RATLAM",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
+  },
+  "JSFB0003118": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003118",
+    "BRANCH": "KATNI",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,NO.998& 1000,1ST FLOOR,JABALPUR ROAD,NEHUR WARD,BARGAWAN,KATNI - 483501,INDIA",
+    "CONTACT": null,
+    "CITY": "KATNI",
+    "DISTRICT": "KATNI",
+    "STATE": "MADHYA PRADESH",
+    "MICR": "483788001",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
   },
   "JSFB0003120": {
     "IFSC": "JSFB0003120",
@@ -657,11 +827,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JABALPUR",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003122": {
     "IFSC": "JSFB0003122",
@@ -676,9 +844,55 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GWALIOR",
-    "MICR CODE": "474788002",
-    "STD CODE": "0",
     "NEFT": true,
+    "IMPS": true
+  },
+  "JSFB0003124": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003124",
+    "BRANCH": "DELHI",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,GROUND FLOOR,PROPERTY BEARING NO.2152,BAWANA ROAD,NARELA MADI,DELHI - 110040,INDIA",
+    "CONTACT": null,
+    "CITY": "NEW DELHI",
+    "DISTRICT": "DELHI",
+    "STATE": "DELHI",
+    "MICR": "110788019",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
+  },
+  "JSFB0003126": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003126",
+    "BRANCH": "BAHADURGARH",
+    "ADDRESS": "AASMALLFIACEBAKLTD,NO.14/78,1STFLOOR,MODELTOW,SAIIMARKET,BAHADURGARH,HAJJAR-124507,IDIA",
+    "CONTACT": null,
+    "CITY": "JHAJJAR",
+    "DISTRICT": "BAHADURGARH",
+    "STATE": "HARYANA",
+    "MICR": "110788020",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
+  },
+  "JSFB0003128": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003128",
+    "BRANCH": "BALLABHGARH",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,1ST FLOOR,FCA-57,CHAWLA COLONY,100FT ROAD,ABOVE IDBI BANK,BALLABHGARH,HARYANA - 121004,INDIA",
+    "CONTACT": null,
+    "CITY": "FARIDABAD",
+    "DISTRICT": "BALLABHGARH",
+    "STATE": "HARYANA",
+    "MICR": "110788021",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
     "IMPS": true
   },
   "JSFB0003133": {
@@ -694,8 +908,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DANAPUR",
-    "MICR CODE": "800788004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -711,11 +923,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GAYA",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003136": {
     "IFSC": "JSFB0003136",
@@ -729,11 +939,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BHAGALPUR",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003137": {
     "IFSC": "JSFB0003137",
@@ -747,11 +955,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUZAFFARPUR",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003138": {
     "IFSC": "JSFB0003138",
@@ -766,9 +972,23 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAIPUR",
-    "MICR CODE": "492788003",
-    "STD CODE": "0",
     "NEFT": true,
+    "IMPS": true
+  },
+  "JSFB0003139": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003139",
+    "BRANCH": "KORBA",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,GROUND& 1ST FLOOR,PLOT NO.17,WARD NO.13,KHASRA NO.188/1K OF MOUZA-TRANSPORT NAGAR,KORBA - 495677,INDIA",
+    "CONTACT": null,
+    "CITY": "KORBA",
+    "DISTRICT": "KORBA",
+    "STATE": "CHHATTISGARH",
+    "MICR": "495788301",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
     "IMPS": true
   },
   "JSFB0003144": {
@@ -784,8 +1004,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA TWO SODEPUR BARRACKPORE",
-    "MICR CODE": "700788018",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -801,11 +1019,25 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NALLASOPARA",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
+  },
+  "JSFB0003163": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003163",
+    "BRANCH": "MUMBAI",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD.GROUND FLOOR,ARJUN CENTER,GALA NO.8,DEONAR ON GOVANDI STATION ROAD,BOMBAY,KURLA TALUKA.MUMBAI - 400088,INDIA",
+    "CONTACT": null,
+    "CITY": "MUMBAI",
+    "DISTRICT": "MUMBAI",
+    "STATE": "MAHARASHTRA",
+    "MICR": "400788019",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
   },
   "JSFB0003168": {
     "IFSC": "JSFB0003168",
@@ -820,8 +1052,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HOSUR",
-    "MICR CODE": "635788405",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -837,11 +1067,25 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DINDIGUL",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
+  },
+  "JSFB0003170": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003170",
+    "BRANCH": "NAGERCOIL",
+    "ADDRESS": "SLDNDDN3TPUDCPRDN-691",
+    "CONTACT": null,
+    "CITY": "NAGERCOIL",
+    "DISTRICT": "NAGERCOIL",
+    "STATE": "TAMIL NADU",
+    "MICR": "629788002",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
   },
   "JSFB0003171": {
     "IFSC": "JSFB0003171",
@@ -856,9 +1100,23 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THENI ALLINAGARAM",
-    "MICR CODE": "625788102",
-    "STD CODE": "0",
     "NEFT": true,
+    "IMPS": true
+  },
+  "JSFB0003173": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003173",
+    "BRANCH": "KUMBAKONAM",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,2ND& 3RD FLOOR,DOOR NO 59,6TH WARD,KAMARAJ ROAD,KUMBAKONAM,THANJAVUR - 612001,INDIA",
+    "CONTACT": null,
+    "CITY": "KUMBAKONAM",
+    "DISTRICT": "KUMBAKONAM",
+    "STATE": "TAMIL NADU",
+    "MICR": "612788002",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
     "IMPS": true
   },
   "JSFB0003175": {
@@ -873,11 +1131,41 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANJAVUR",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
+  },
+  "JSFB0003176": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003176",
+    "BRANCH": "BIDAR",
+    "ADDRESS": "AASMALLFIACEBAKLTD.BELOWSHIVSHAKTITOWER,SHIVAGARNORTH,BIDAR-585401",
+    "CONTACT": null,
+    "CITY": "BIDAR",
+    "DISTRICT": "BIDAR",
+    "STATE": "KARNATAKA",
+    "MICR": "585788102",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
+  },
+  "JSFB0003178": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003178",
+    "BRANCH": "HASSAN",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,GROUND FLOOR,CHANDANA COMPLEX,AR NO.103 AND NEW NO.210,HARSHA MAHAL ROAD,HASSAN - 573201,INDIA",
+    "CONTACT": null,
+    "CITY": "HASSAN",
+    "DISTRICT": "HASSAN",
+    "STATE": "KARNATAKA",
+    "MICR": "573788302",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
   },
   "JSFB0003183": {
     "IFSC": "JSFB0003183",
@@ -891,11 +1179,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KONANAKUNTE",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003185": {
     "IFSC": "JSFB0003185",
@@ -910,8 +1196,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SANGLI",
-    "MICR CODE": "416788151",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -927,11 +1211,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MATHIKERE",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003188": {
     "IFSC": "JSFB0003188",
@@ -946,8 +1228,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "560788016",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -963,11 +1243,57 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KAMAKSHIPALYA",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
+  },
+  "JSFB0003190": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003190",
+    "BRANCH": "KHANDWA",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,2ND FLOOR,OLD PLOT NO.79& NEW PLOT NO.97,NEAR HOTEL CHANDRA SHREE,RASHTRAKAVI RASKHAN,WARD NO.19,SHIVAJI MARG,NAZUL BLOCK NO.38,KHANDWA -450001,MADHYA PRADESH,INDIA",
+    "CONTACT": null,
+    "CITY": "KHANDWA",
+    "DISTRICT": "KHANDWA",
+    "STATE": "MADHYA PRADESH",
+    "MICR": "450788101",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
+  },
+  "JSFB0003194": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003194",
+    "BRANCH": "SATARA",
+    "ADDRESS": "AASMALLFIACEBAKLTD,SHOPO.UG-2,UG-3ADUG-4,UPPERGROUD,MASTERPRIDE,SADARBAZAR,UTTEKARNAGAR,SATARA-415001,IDIA",
+    "CONTACT": null,
+    "CITY": "SATARA",
+    "DISTRICT": "SATARA",
+    "STATE": "MAHARASHTRA",
+    "MICR": "415788001",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
+  },
+  "JSFB0003198": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003198",
+    "BRANCH": "BELLARY",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD.1ST FLOOR,MARUTHI PLAZA,PID NO 315/29& HOUSE NO 143,MOKA ROAD,GANDHINAGAR MARKET,BELLARY - 583101,INDIA",
+    "CONTACT": null,
+    "CITY": "BELLARY",
+    "DISTRICT": "BELLARY",
+    "STATE": "KARNATAKA",
+    "MICR": "583788102",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
   },
   "JSFB0003205": {
     "IFSC": "JSFB0003205",
@@ -982,9 +1308,23 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ROHTAK",
-    "MICR CODE": "124788005",
-    "STD CODE": "0",
     "NEFT": true,
+    "IMPS": true
+  },
+  "JSFB0003211": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003211",
+    "BRANCH": "PALANPUR",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,2ND FLOOR,MEGHADARSHAN COMPLEX,OFFICE NO.3& 4,MEHAL PARK OPP.CIRCUIT HOUSE HIGHWAY,PALANPUR - 385001,INDIA",
+    "CONTACT": null,
+    "CITY": "PALANPUR",
+    "DISTRICT": "PALANPUR",
+    "STATE": "GUJARAT",
+    "MICR": "385788002",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
     "IMPS": true
   },
   "JSFB0003213": {
@@ -999,11 +1339,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BHANDUP W",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003218": {
     "IFSC": "JSFB0003218",
@@ -1017,11 +1355,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ICHALKARANJI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003221": {
     "IFSC": "JSFB0003221",
@@ -1035,29 +1371,41 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DARBHANAGA",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
-  "JSFB0003231": {
+  "JSFB0003222": {
     "BANK": "JANA SMALL FINANCE BANK LTD",
-    "IFSC": "JSFB0003231",
-    "MICR CODE": "600788022",
-    "BRANCH": "ARUMBAKKAM",
-    "ADDRESS": "JANA SMALL FINANCE BANK LTD,1ST FLOOR,DOOR NO.36/37,PLOT NO.3 OLD S.NO165/1A.2,ARUMBAKKAM - 600106,INDIA",
-    "STD CODE": "0",
+    "IFSC": "JSFB0003222",
+    "BRANCH": "GUNA",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,PLOT NO.75,MAYA COMPLEX,1ST FLOOR,OPP.HDFC LIFE,WARD NO.17,PUNJABI MOHALLA,GUNA -473001,INDIA",
     "CONTACT": null,
-    "CITY": "CHENNAI",
-    "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU",
+    "CITY": "GUNA",
+    "DISTRICT": "GUNA",
+    "STATE": "MADHYA PRADESH",
+    "MICR": "473788001",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
+  },
+  "JSFB0003231": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003231",
+    "BRANCH": "ARUMBAKKAM",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,1ST FLOOR,DOOR NO.36/37,PLOT NO.3 OLD S.NO165/1A.2,ARUMBAKKAM - 600106,INDIA",
+    "CONTACT": null,
+    "CITY": "CHENNAI",
+    "DISTRICT": "CHENNAI",
+    "STATE": "TAMIL NADU",
+    "MICR": "600788022",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
   },
   "JSFB0003236": {
     "IFSC": "JSFB0003236",
@@ -1071,11 +1419,25 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NASHIK",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
+  },
+  "JSFB0003237": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003237",
+    "BRANCH": "BARSHI",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,1ST FLOOR,CST NO.739/3 21& PLOT NO.46(A),NEELAI COMPLEX,SHIVAJI NAGAR,BARSHI -413411,INDIA",
+    "CONTACT": null,
+    "CITY": "SOLAPUR",
+    "DISTRICT": "BARSHI",
+    "STATE": "MAHARASHTRA",
+    "MICR": "413788201",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
   },
   "JSFB0003242": {
     "IFSC": "JSFB0003242",
@@ -1090,8 +1452,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BURDWAN",
-    "MICR CODE": "713788102",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1108,8 +1468,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DURGAPUR",
-    "MICR CODE": "713788202",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1126,8 +1484,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HOSHANGABAD",
-    "MICR CODE": "461788003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1143,11 +1499,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DHANBAD",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003249": {
     "IFSC": "JSFB0003249",
@@ -1161,11 +1515,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GULBARGA 2",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003250": {
     "IFSC": "JSFB0003250",
@@ -1179,11 +1531,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BOMMANHALLI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003251": {
     "IFSC": "JSFB0003251",
@@ -1197,11 +1547,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VARTHUR",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003252": {
     "IFSC": "JSFB0003252",
@@ -1215,11 +1563,25 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BHUWANESHWAR 2",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
+  },
+  "JSFB0003253": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003253",
+    "BRANCH": "RAIPUR",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,GROUND FLOOR,PLOT NO.C-50,DAGIL COMPLEX,DEVENDRA NAGAR BESIDE SHRI NANAK HOSPITAL URLA ROAD,RAIPUR - 492003,INDIA",
+    "CONTACT": null,
+    "CITY": "RAIPUR",
+    "DISTRICT": "RAIPUR",
+    "STATE": "CHHATTISGARH",
+    "MICR": "492788004",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
   },
   "JSFB0003254": {
     "IFSC": "JSFB0003254",
@@ -1234,8 +1596,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BAHARAMPUR",
-    "MICR CODE": "742788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1252,46 +1612,40 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MALDA",
-    "MICR CODE": "732788102",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "JSFB0003263": {
     "BANK": "JANA SMALL FINANCE BANK LTD",
     "IFSC": "JSFB0003263",
-    "MICR CODE": "110788011",
     "BRANCH": "JAHANGIR PURI",
     "ADDRESS": "JANA SMALL FINANCE BANK LTD,1ST FLOOR,A-7-8/88,RAMGARH,JAHANGIRPURI,KARNAL ROAD,CORPORATION BANK BUILDING,DELHI -110009,INDIA",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "NEW DELHI",
     "DISTRICT": "NEW DELHI",
     "STATE": "DELHI",
+    "MICR": "110788011",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003265": {
     "BANK": "JANA SMALL FINANCE BANK LTD",
     "IFSC": "JSFB0003265",
-    "MICR CODE": "600788027",
     "BRANCH": "PALLAVARAM",
     "ADDRESS": "JANA SMALL FINANCE BANK LTD,1ST FLOOR,DOOR NO.89,SURVEY NO.26/2B2A2A,GST ROAD ESSA PALLAVARAM,PALLAVARAM - 600043,INDIA",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
     "STATE": "TAMIL NADU",
+    "MICR": "600788027",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003266": {
     "IFSC": "JSFB0003266",
@@ -1305,29 +1659,25 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SUNDARAPURAM",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003267": {
     "BANK": "JANA SMALL FINANCE BANK LTD",
     "IFSC": "JSFB0003267",
-    "MICR CODE": "620788006",
     "BRANCH": "TRICHY-SAMAYAPURAM TOLLAGE",
     "ADDRESS": "JANA SMALL FINANCE BANK LTD,1ST FLOOR,SURVEY NO 64/3D1,64/3D2,S F NO 64/3,BIKSHANDRA KOVIL VILLAGE,MANNACHANALLUR TALUK,TRICHY - 621216,INDIA",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "TRICHY",
     "DISTRICT": "TRICHY",
     "STATE": "TAMIL NADU",
+    "MICR": "620788006",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003269": {
     "IFSC": "JSFB0003269",
@@ -1341,47 +1691,57 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "POONAMALLEE",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
+  },
+  "JSFB0003276": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003276",
+    "BRANCH": "UJJAIN- MOHAN NAGAR",
+    "ADDRESS": "AASMALLFIACEBAKLTD,1STFLOOR,7,MOHANAGAR,AGRAROAD,UJJAI-456001,IDIA",
+    "CONTACT": null,
+    "CITY": "UJJAIN",
+    "DISTRICT": "UJJAIN",
+    "STATE": "MADHYA PRADESH",
+    "MICR": "456788003",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
   },
   "JSFB0003277": {
     "BANK": "JANA SMALL FINANCE BANK LTD",
     "IFSC": "JSFB0003277",
-    "MICR CODE": "605788004",
     "BRANCH": "CUDDALORE",
     "ADDRESS": "JANA SMALL FINANCE BANK LTD,1ST FLOOR,NO.13A,NETAJI ROAD,MANJA KUPPAM,CUDDALORE -607001,INDIA",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "CUDDALORE",
     "DISTRICT": "CUDDALORE",
     "STATE": "TAMIL NADU",
+    "MICR": "605788004",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003281": {
     "BANK": "JANA SMALL FINANCE BANK LTD",
     "IFSC": "JSFB0003281",
-    "MICR CODE": "110788012",
     "BRANCH": "LAKSHMI NAGAR",
     "ADDRESS": "JANA SMALL FINANCE BANK LTD,1ST FLOOR,U-182/A,UPADHYAY BLOCK,NEAR LAKSHMI NAGAR METRO STATION,LAXMI NAGAR,SHAKARPUR,EAST DELHI -110092,INDIA",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "NEW DELHI",
     "DISTRICT": "NEW DELHI",
     "STATE": "DELHI",
+    "MICR": "110788012",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003286": {
     "IFSC": "JSFB0003286",
@@ -1395,11 +1755,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BARUIPUR",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003287": {
     "IFSC": "JSFB0003287",
@@ -1413,29 +1771,89 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MADURAI-PUDUR",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003288": {
     "BANK": "JANA SMALL FINANCE BANK LTD",
     "IFSC": "JSFB0003288",
-    "MICR CODE": "600788024",
     "BRANCH": "MINT",
     "ADDRESS": "JANA SMALL FINANCE BANK LTD,GROUND FLOOR,DOOR NO.58&59,HUNTERS ROAD,PURASAWALKAM VILLAGE,CHENNAI - 600112,INDIA",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
     "STATE": "TAMIL NADU",
+    "MICR": "600788024",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
+  },
+  "JSFB0003289": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003289",
+    "BRANCH": "GHAZIABAD",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,1ST FLOOR,BUILDING NO.10-A,BALRAM NAGAR,LONI,GHAZIABAD -201102,INDIA",
+    "CONTACT": null,
+    "CITY": "GHAZIABAD",
+    "DISTRICT": "GHAZIABAD",
+    "STATE": "UTTAR PRADESH",
+    "MICR": "110788024",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
+  },
+  "JSFB0003290": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003290",
+    "BRANCH": "BANGALORE",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,1ST FLOOR,SITE NO 10,KATHA NO 269/3,BBMP KATHA NO 500/408/269/3,KAGGADASPURA,ABBAIAH LAYOUT,BANGALORE - 560093,INDIA",
+    "CONTACT": null,
+    "CITY": "BANGALORE",
+    "DISTRICT": "BANGALORE",
+    "STATE": "KARNATAKA",
+    "MICR": "560788019",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
+  },
+  "JSFB0003297": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003297",
+    "BRANCH": "LATUR",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,GROUND FLOOR,PARVATI PLAZA,PINATENAGAR,SHOP NO 1,2,3,4,5,BASWESHWAR CHOWK RING ROAD,LATUR - 413512,INDIA",
+    "CONTACT": null,
+    "CITY": "LATUR",
+    "DISTRICT": "LATUR",
+    "STATE": "MAHARASHTRA",
+    "MICR": "413788054",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
+  },
+  "JSFB0003300": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003300",
+    "BRANCH": "PATNA",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,GROUND FLOOR,N LAL TOWER,BADI BADAL PUR,LAKHPAR,KHAUGAL,PHULWARISARIF MAIN ROAD,THANA PHULWARI,KHAGUAL,PATNA,BIHAR - 801105,INDIA",
+    "CONTACT": null,
+    "CITY": "PATNA",
+    "DISTRICT": "PATNA",
+    "STATE": "BIHAR",
+    "MICR": "800788005",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
   },
   "JSFB0003301": {
     "IFSC": "JSFB0003301",
@@ -1450,9 +1868,39 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BIHAR SHARIF",
-    "MICR CODE": "803788002",
-    "STD CODE": "0",
     "NEFT": true,
+    "IMPS": true
+  },
+  "JSFB0003303": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003303",
+    "BRANCH": "INDORE-VIJAYNAGAR",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,PLOT NO.13,RADHIKA PALACE,1ST FLOOR,ABOVE ICIC BANK,TULSI NAGAR,MAHALAXMI NAGAR,INDORE -452010,INDIA",
+    "CONTACT": null,
+    "CITY": "INDORE",
+    "DISTRICT": "INDORE",
+    "STATE": "MADHYA PRADESH",
+    "MICR": "452788005",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
+  },
+  "JSFB0003304": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003304",
+    "BRANCH": "INDORE- PITHAMPUR",
+    "ADDRESS": "AASAFAEALDSN178N11314(AR)IDRASATWERGRAAURTADSDARMADYARADES-454775",
+    "CONTACT": null,
+    "CITY": "INDORE",
+    "DISTRICT": "INDORE",
+    "STATE": "MADHYA PRADESH",
+    "MICR": "454788001",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
     "IMPS": true
   },
   "JSFB0003306": {
@@ -1467,11 +1915,25 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BOKARO",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
+  },
+  "JSFB0003308": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003308",
+    "BRANCH": "JAMSHEDPUR",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,1ST FLOOR,GEETA TOWERS,PLOT NO 36,KASIDIH BASIDIH LINE NO 1,SAKCHI,JAMSHEDPUR - 831001,INDIA",
+    "CONTACT": null,
+    "CITY": "JAMSHEDPUR",
+    "DISTRICT": "JAMSHEDPUR",
+    "STATE": "JHARKHAND",
+    "MICR": "831788003",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
   },
   "JSFB0003310": {
     "IFSC": "JSFB0003310",
@@ -1486,9 +1948,39 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DURG",
-    "MICR CODE": "491788001",
-    "STD CODE": "0",
     "NEFT": true,
+    "IMPS": true
+  },
+  "JSFB0003318": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003318",
+    "BRANCH": "RANCHI",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,1ST FLOOR,ABOVE CANARA BANK,NEAR BIRSA CHAWK,KHUNTI ROAD,RANCHI -834002,JHARKHAND,INDIA",
+    "CONTACT": null,
+    "CITY": "RANCHI",
+    "DISTRICT": "RANCHI",
+    "STATE": "JHARKHAND",
+    "MICR": "834788004",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
+  },
+  "JSFB0003319": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003319",
+    "BRANCH": "NANDED-WAGHALA",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,1ST FLOOR,CHATRAPATI CHOWK,BESIDE ESSAR PETROL PUMP,PAWADEWADI BK,NANDED,431601,INDIA",
+    "CONTACT": null,
+    "CITY": "NANDED",
+    "DISTRICT": "NANDED-WAGHALA",
+    "STATE": "MAHARASHTRA",
+    "MICR": "431788102",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
     "IMPS": true
   },
   "JSFB0003320": {
@@ -1504,8 +1996,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
-    "MICR CODE": "380788003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1521,11 +2011,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CUTTACK",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003324": {
     "IFSC": "JSFB0003324",
@@ -1540,8 +2028,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
-    "MICR CODE": "411788004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1557,11 +2043,41 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PANVEL",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
+  },
+  "JSFB0003326": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003326",
+    "BRANCH": "SURAT",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,PLOT NO.29A,SHOP NO.UG 43,UG - 44,UG-45,1ST FLOOR,SIDDHIVINAYAK PLATINUM,OPPOSITE HANUMAN MANDIR,BAMBROLI,VIP ROAD,PANDESARA,SURAT 394221",
+    "CONTACT": null,
+    "CITY": "SURAT",
+    "DISTRICT": "SURAT",
+    "STATE": "GUJARAT",
+    "MICR": "395788005",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
+  },
+  "JSFB0003327": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003327",
+    "BRANCH": "KHARGAON",
+    "ADDRESS": "AASMALLFIACEBAKLTD,1STFLOOR,AHILYATOWER,GURUKRIPA,BISTAROAD,KHARGOE-451001,IDIA",
+    "CONTACT": null,
+    "CITY": "KHARGAON",
+    "DISTRICT": "KHARGAON",
+    "STATE": "MADHYA PRADESH",
+    "MICR": "451788001",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
   },
   "JSFB0003329": {
     "IFSC": "JSFB0003329",
@@ -1575,11 +2091,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THIRUVANMIYUR",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003330": {
     "IFSC": "JSFB0003330",
@@ -1594,9 +2108,39 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SALEM",
-    "MICR CODE": "636788011",
-    "STD CODE": "0",
     "NEFT": true,
+    "IMPS": true
+  },
+  "JSFB0003331": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003331",
+    "BRANCH": "PURNIA",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,BHARAT TOWERS,NH -31,JAIL CHOWK,PURNEA PO,PURNEA -854301,BIHAR,INDIA",
+    "CONTACT": null,
+    "CITY": "PURNIA",
+    "DISTRICT": "PURNIA",
+    "STATE": "BIHAR",
+    "MICR": "854788102",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
+  },
+  "JSFB0003336": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003336",
+    "BRANCH": "AHMEDABAD",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,SHOP NO 101 AND 102,GANESH PLAZA,AJIT MILL CROSS ROAD,RAKHIYAL,AHMEDABAD - 380023,INDIA",
+    "CONTACT": null,
+    "CITY": "AHMEDABAD",
+    "DISTRICT": "AHMEDABAD",
+    "STATE": "GUJARAT",
+    "MICR": "380788006",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
     "IMPS": true
   },
   "JSFB0003340": {
@@ -1611,11 +2155,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VIRAR",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003343": {
     "IFSC": "JSFB0003343",
@@ -1630,9 +2172,39 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
-    "MICR CODE": "641788102",
-    "STD CODE": "0",
     "NEFT": true,
+    "IMPS": true
+  },
+  "JSFB0003344": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003344",
+    "BRANCH": "CHENNAI",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,1ST FLOOR,S NO 924/3,PLOT NO 23,DOOR NO 227,KILBURN NAGAR,MADHAVARAM,CHENNAI - 600060,INDIA",
+    "CONTACT": null,
+    "CITY": "CHENNAI",
+    "DISTRICT": "CHENNAI",
+    "STATE": "TAMIL NADU",
+    "MICR": "600788032",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
+  },
+  "JSFB0003345": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003345",
+    "BRANCH": "MYSORE",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,1ST FLOOR,NO 730,HINKAL HUNSOOR MAIN ROAD,MYSORE - 570017,INDIA",
+    "CONTACT": null,
+    "CITY": "MYSORE",
+    "DISTRICT": "MYSORE",
+    "STATE": "KARNATAKA",
+    "MICR": "570788003",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
     "IMPS": true
   },
   "JSFB0003346": {
@@ -1648,9 +2220,23 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
-    "MICR CODE": "380788004",
-    "STD CODE": "0",
     "NEFT": true,
+    "IMPS": true
+  },
+  "JSFB0003347": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003347",
+    "BRANCH": "SOLAPUR",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,NO.52,MANTRI CHANDAK VIHAR,HOTGI ROAD,ASRA CHOWK,SOLAPUR,MAHARASHTRA - 413003,INDIA",
+    "CONTACT": null,
+    "CITY": "SOLAPUR",
+    "DISTRICT": "SOLAPUR",
+    "STATE": "MAHARASHTRA",
+    "MICR": "413788003",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
     "IMPS": true
   },
   "JSFB0003349": {
@@ -1665,11 +2251,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PADI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003350": {
     "IFSC": "JSFB0003350",
@@ -1684,8 +2268,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SALEM",
-    "MICR CODE": "636788012",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1702,9 +2284,39 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JADAVPUR",
-    "MICR CODE": "700788015",
-    "STD CODE": "0",
     "NEFT": true,
+    "IMPS": true
+  },
+  "JSFB0003354": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003354",
+    "BRANCH": "VADODARA",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,1ST FLOOR,SHOP NO.1,A TOWER,SIGNET PLAZA,KRUNAL CHAR RASTA GOTRI,VADODARA - 390021,INDIA",
+    "CONTACT": null,
+    "CITY": "VADODARA",
+    "DISTRICT": "VADODARA",
+    "STATE": "GUJARAT",
+    "MICR": "390788004",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
+  },
+  "JSFB0003358": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003358",
+    "BRANCH": "SATNA",
+    "ADDRESS": "AASMALLFIACEBAKLTD,1STFLOOR,KAODIYACOMPLEX,PLOTNO.22/1,SHEETNO.15-C,CITYSURVEYNO.2931,WARDNO.41,MOUZAKOTWALICHOWK,SATA-485001,MADHYAPRADESH,IDIA",
+    "CONTACT": null,
+    "CITY": "SATNA",
+    "DISTRICT": "SATNA",
+    "STATE": "MADHYA PRADESH",
+    "MICR": "485788001",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
     "IMPS": true
   },
   "JSFB0003361": {
@@ -1719,11 +2331,25 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "WARJE",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
+  },
+  "JSFB0003363": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003363",
+    "BRANCH": "BANGALORE",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,1ST FLOOR,2/1,NEAR TO METRO STATION,MAGADI MAIN ROAD,BANGALORE - 560023,INDIA",
+    "CONTACT": null,
+    "CITY": "BANGALORE",
+    "DISTRICT": "BANGALORE",
+    "STATE": "KARNATAKA",
+    "MICR": "560788021",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
   },
   "JSFB0003364": {
     "IFSC": "JSFB0003364",
@@ -1737,11 +2363,41 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PAPA REDDI PALYA",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
+  },
+  "JSFB0003367": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003367",
+    "BRANCH": "MANSAROVAR",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,PLOT NO.-119/483,MADHYAM MARG,WARD NO - 27,SECTOR-6,MANSAROVAR-302020,JAIPUR,RAJASTHAN",
+    "CONTACT": null,
+    "CITY": "JAIPUR",
+    "DISTRICT": "MANSAROVAR",
+    "STATE": "RAJASTHAN",
+    "MICR": "302788003",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
+  },
+  "JSFB0003368": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003368",
+    "BRANCH": "BILASPUR",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,GROUND FLOOR,PROPERTY NO.68/10/2,KAPAL MUCHAN ROAD,CHOTA BUS STAND,BILASPUR,YAMUNA NAGAR,HARYANA - 135102",
+    "CONTACT": null,
+    "CITY": "YAMUNA NAGAR",
+    "DISTRICT": "BILASPUR",
+    "STATE": "HARYANA",
+    "MICR": "110788023",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
   },
   "JSFB0003370": {
     "IFSC": "JSFB0003370",
@@ -1755,11 +2411,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THONDAMUTHUR",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003371": {
     "IFSC": "JSFB0003371",
@@ -1773,11 +2427,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GANAPATHY",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003372": {
     "IFSC": "JSFB0003372",
@@ -1792,9 +2444,39 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
-    "MICR CODE": "642788103",
-    "STD CODE": "0",
     "NEFT": true,
+    "IMPS": true
+  },
+  "JSFB0003381": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003381",
+    "BRANCH": "DAVANGERE",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,GROUND FLOOR,DOOR.604/B,KHATA NO.23/19,SIDDELINGESWARA COMPLEX,HADADI ROAD NEAR AXIS BANK,DAVANGERE - 577005,INDIA",
+    "CONTACT": null,
+    "CITY": "DAVANGERE",
+    "DISTRICT": "DAVANGERE",
+    "STATE": "KARNATAKA",
+    "MICR": "577788003",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
+  },
+  "JSFB0003387": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003387",
+    "BRANCH": "BANGALORE",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,GROUND FLOOR,NO.33/34,KHATA NO.159,PID NO.14-23-33-/34,1ST CROSS,MUNESHWARA BLOCK,BANGALORE - 560086,INDIA",
+    "CONTACT": null,
+    "CITY": "BANGALORE",
+    "DISTRICT": "BANGALORE",
+    "STATE": "KARNATAKA",
+    "MICR": "560788022",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
     "IMPS": true
   },
   "JSFB0003390": {
@@ -1809,11 +2491,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VILLANOOR",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003397": {
     "IFSC": "JSFB0003397",
@@ -1827,11 +2507,41 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NIGADI2 - TALEGON",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
+  },
+  "JSFB0003398": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003398",
+    "BRANCH": "PUNE",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,1ST FLOOR,NEAR GANESH TEMPAL,GANESH NAGAR,DAPODI,(W),PUNE - 411012,INDIA",
+    "CONTACT": null,
+    "CITY": "PUNE",
+    "DISTRICT": "PUNE",
+    "STATE": "MAHARASHTRA",
+    "MICR": "411788010",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
+  },
+  "JSFB0003399": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003399",
+    "BRANCH": "AHMEDABAD",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,GROUND FLOOR,SURVREY NO.421,OPP.VED BUNGLOWS AIRPORT ROAD,NAN CHILODA AHEMADABAD,NARODA - 382361,INDIA",
+    "CONTACT": null,
+    "CITY": "AHMEDABAD",
+    "DISTRICT": "AHMEDABAD",
+    "STATE": "GUJARAT",
+    "MICR": "380788005",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
   },
   "JSFB0003401": {
     "IFSC": "JSFB0003401",
@@ -1845,11 +2555,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AMRUTHAHALLI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003402": {
     "IFSC": "JSFB0003402",
@@ -1863,29 +2571,25 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BHOPAL FOUR AYODHYA BYPASS",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003403": {
     "BANK": "JANA SMALL FINANCE BANK LTD",
     "IFSC": "JSFB0003403",
-    "MICR CODE": "110788016",
     "BRANCH": "BADARPUR",
     "ADDRESS": "JANA SMALL FINANCE BANK LTD,GROUND 1ST FLOOR,PROPERTY BEARING NO.KHASRA NO.1621/2,SCHEDULE ROAD NO-3,DELHI MATHURA ROAD NH-2,MAUJA ANANGPUR,FARIDABAD DISTRICT,FARIDABAD - 121101,INDIA",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "FARIDABAD",
     "DISTRICT": "FARIDABAD",
     "STATE": "HARYANA",
+    "MICR": "110788016",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003411": {
     "IFSC": "JSFB0003411",
@@ -1900,8 +2604,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TRICHY",
-    "MICR CODE": "620788004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1917,11 +2619,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MADHURANTHAGAM",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003421": {
     "IFSC": "JSFB0003421",
@@ -1936,8 +2636,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SALEM",
-    "MICR CODE": "638788004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1953,11 +2651,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THIRUVETTRIYUR",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003423": {
     "IFSC": "JSFB0003423",
@@ -1971,29 +2667,25 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SELAIYEAR",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003442": {
     "BANK": "JANA SMALL FINANCE BANK LTD",
     "IFSC": "JSFB0003442",
-    "MICR CODE": "110788015",
     "BRANCH": "NAZAFGARH",
     "ADDRESS": "AASMALLFIACEBAKLTD,1STFLOOR,KHASRAO.52O.46-A,MASOODABAD,EARCHARAMADI,AAFGARH,EWDELHI-110043,IDIA",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "NEW DELHI",
     "DISTRICT": "NEW DELHI",
     "STATE": "DELHI",
+    "MICR": "110788015",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003457": {
     "IFSC": "JSFB0003457",
@@ -2008,9 +2700,39 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BATHINDA",
-    "MICR CODE": "151788302",
-    "STD CODE": "0",
     "NEFT": true,
+    "IMPS": true
+  },
+  "JSFB0003462": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003462",
+    "BRANCH": "GWALIOR",
+    "ADDRESS": "JANA SMALL FINANCE BANK LTD,UNIT NO.101& 102,1ST FLOOR,LAXMIGANJ,AGRA BABBI MARG,AB ROAD PARGANA DIST,GWALIOR - 474011,INDIA",
+    "CONTACT": null,
+    "CITY": "GWALIOR",
+    "DISTRICT": "GWALIOR",
+    "STATE": "MADHYA PRADESH",
+    "MICR": "474788003",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
+  },
+  "JSFB0003466": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003466",
+    "BRANCH": "INDORE-DEPAL PUR",
+    "ADDRESS": "AASMALLFIACEBAKLTD,GROUDFLOOR,NO.33,KHASRANO.1056/8&1056/2,PATWARIHALKA,DEPALPUR,IDORE-453115,IDIA",
+    "CONTACT": null,
+    "CITY": "INDORE",
+    "DISTRICT": "INDORE",
+    "STATE": "MADHYA PRADESH",
+    "MICR": "453788002",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
     "IMPS": true
   },
   "JSFB0003467": {
@@ -2025,11 +2747,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SITHI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003507": {
     "IFSC": "JSFB0003507",
@@ -2043,11 +2763,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SALEM2 SIVATHAPURAM",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003509": {
     "IFSC": "JSFB0003509",
@@ -2062,8 +2780,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GARIA KOLKATA",
-    "MICR CODE": "700788016",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2079,11 +2795,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RED HILLS",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003543": {
     "IFSC": "JSFB0003543",
@@ -2097,11 +2811,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAMGARH",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003592": {
     "IFSC": "JSFB0003592",
@@ -2115,11 +2827,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAMAPURAM",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003593": {
     "IFSC": "JSFB0003593",
@@ -2133,29 +2843,25 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PERUNGULATHUR",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003594": {
     "BANK": "JANA SMALL FINANCE BANK LTD",
     "IFSC": "JSFB0003594",
-    "MICR CODE": "600788025",
     "BRANCH": "MKB NAGAR",
     "ADDRESS": "JANA SMALL FINANCE BANK LTD,GROUND FLOOR,SURYVEY NO.765,VYASARPADI CO-OPERATIVE INDUSTRIAL ESTATE,VYASAR PADI,PERAMBUR VILLAGE,ERUKKANCHERRY HIGH ROAD,CHENNAI - 600039,INDIA",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
     "STATE": "TAMIL NADU",
+    "MICR": "600788025",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0003596": {
     "IFSC": "JSFB0003596",
@@ -2169,11 +2875,25 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AVADI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
+  },
+  "JSFB0003641": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003641",
+    "BRANCH": "NAGDA",
+    "ADDRESS": "AASMALLFIACEBAKLTD,GROUDFLOOR,BHOOMISURVEY,NO.605/2AD606/1SITUATEDATWARDO.14,VILLAGEPADLYAKALA,NAGDA-456331,UJJAIDISTRICT,MADHYAPRADESH,IDIA",
+    "CONTACT": null,
+    "CITY": "UJJAIN",
+    "DISTRICT": "UJJAIN",
+    "STATE": "MADHYA PRADESH",
+    "MICR": "456788004",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
   },
   "JSFB0003647": {
     "IFSC": "JSFB0003647",
@@ -2188,9 +2908,23 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAJNANDGAON",
-    "MICR CODE": "491788102",
-    "STD CODE": "0",
     "NEFT": true,
+    "IMPS": true
+  },
+  "JSFB0003649": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0003649",
+    "BRANCH": "RAJKOT",
+    "ADDRESS": "AASMALLFIACEBAKLTD,FIRSTFLOOR,NO113,114,115&116,LOTUSARCADE,BHAKTIAGARSTATIOPLOT,OPPSTYAVIJAYICECREAM,GODALROAD,RAJKOT-360002,IDIA",
+    "CONTACT": null,
+    "CITY": "RAJKOT",
+    "DISTRICT": "RAJKOT",
+    "STATE": "GUJARAT",
+    "MICR": "360788003",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
     "IMPS": true
   },
   "JSFB0003652": {
@@ -2206,8 +2940,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VADODARA",
-    "MICR CODE": "390788003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2224,8 +2956,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KADAMTALA",
-    "MICR CODE": "700788014",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2242,8 +2972,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Guwahati",
-    "MICR CODE": "781788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2260,8 +2988,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Guwahati",
-    "MICR CODE": "781788003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2278,8 +3004,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Bhagalpur",
-    "MICR CODE": "812788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2296,8 +3020,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Patna",
-    "MICR CODE": "800788003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2314,8 +3036,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Muzaffarpur",
-    "MICR CODE": "842788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2332,8 +3052,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Begusarai",
-    "MICR CODE": "851788102",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2350,8 +3068,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Patna",
-    "MICR CODE": "800788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2368,8 +3084,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Bhilai",
-    "MICR CODE": "490788001",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2386,8 +3100,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Bilaspur",
-    "MICR CODE": "495788001",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2404,8 +3116,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAIGARH",
-    "MICR CODE": "496788001",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2422,8 +3132,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Raipur",
-    "MICR CODE": "492788001",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2440,8 +3148,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Delhi",
-    "MICR CODE": "110788001",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2458,8 +3164,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Delhi",
-    "MICR CODE": "110788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2476,8 +3180,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Gurgaon",
-    "MICR CODE": "110788007",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2494,8 +3196,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Delhi",
-    "MICR CODE": "110788003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2528,8 +3228,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Ahmedabad",
-    "MICR CODE": "380788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2546,8 +3244,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Vadodara",
-    "MICR CODE": "390788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2564,8 +3260,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Bhavnagar",
-    "MICR CODE": "364788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2582,8 +3276,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGAON",
-    "MICR CODE": "782788102",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2600,8 +3292,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHAPRA",
-    "MICR CODE": "841788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2618,8 +3308,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Rajkot",
-    "MICR CODE": "360788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2636,8 +3324,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "REWARI",
-    "MICR CODE": "123788006",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2654,8 +3340,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Surat",
-    "MICR CODE": "395788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2672,8 +3356,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Surat",
-    "MICR CODE": "395788003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2690,8 +3372,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Faridabad",
-    "MICR CODE": "110788005",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2708,8 +3388,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Chandigarh",
-    "MICR CODE": "160788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2726,8 +3404,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Panipat",
-    "MICR CODE": "132788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2744,8 +3420,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Dhanbad",
-    "MICR CODE": "826788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2762,8 +3436,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Hazaribagh",
-    "MICR CODE": "825788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2780,8 +3452,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Jamshedpur",
-    "MICR CODE": "831788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2798,8 +3468,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Ranchi",
-    "MICR CODE": "834788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2816,8 +3484,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "560788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2834,8 +3500,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Bangalore",
-    "MICR CODE": "560788003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2852,8 +3516,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Bangalore",
-    "MICR CODE": "560788004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2870,8 +3532,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Bangalore",
-    "MICR CODE": "560788005",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2888,8 +3548,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Bangalore",
-    "MICR CODE": "560788006",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2906,8 +3564,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Bangalore",
-    "MICR CODE": "560788007",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2924,8 +3580,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Belgaum",
-    "MICR CODE": "590788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2942,8 +3596,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MOTIHARI",
-    "MICR CODE": "845788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2960,8 +3612,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Bijapur",
-    "MICR CODE": "586788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2978,8 +3628,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Davanagere",
-    "MICR CODE": "577788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2996,8 +3644,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Hubli",
-    "MICR CODE": "580788302",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3013,11 +3659,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GULBARGA",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0004546": {
     "IFSC": "JSFB0004546",
@@ -3032,8 +3676,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Tumkur",
-    "MICR CODE": "572788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3050,8 +3692,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Mysore",
-    "MICR CODE": "570788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3068,8 +3708,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Raichur",
-    "MICR CODE": "584788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3086,8 +3724,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Bhopal",
-    "MICR CODE": "462788001",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3120,8 +3756,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Gwalior",
-    "MICR CODE": "474788001",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3138,8 +3772,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Indore",
-    "MICR CODE": "452788001",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3156,8 +3788,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Indore",
-    "MICR CODE": "452788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3174,8 +3804,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ARRAH",
-    "MICR CODE": "802788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3208,8 +3836,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Ujjain",
-    "MICR CODE": "456788001",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3226,8 +3852,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Ratlam",
-    "MICR CODE": "457788001",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3244,8 +3868,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Aurangabad",
-    "MICR CODE": "431788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3262,8 +3884,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BALASORE",
-    "MICR CODE": "756788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3280,8 +3900,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Jalgaon",
-    "MICR CODE": "425788001",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3298,8 +3916,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Kolhapur",
-    "MICR CODE": "416788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3316,8 +3932,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Margao",
-    "MICR CODE": "403788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3334,8 +3948,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Latur",
-    "MICR CODE": "413788052",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3352,8 +3964,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Navi Mumbai",
-    "MICR CODE": "400788008",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3370,8 +3980,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Nasik",
-    "MICR CODE": "422788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3388,8 +3996,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Pune",
-    "MICR CODE": "411788003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3406,8 +4012,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Pune",
-    "MICR CODE": "411788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3440,8 +4044,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PURI",
-    "MICR CODE": "752788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3458,8 +4060,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Mumbai",
-    "MICR CODE": "400788013",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3476,8 +4076,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Nagpur",
-    "MICR CODE": "440788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3493,11 +4091,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Nagpur",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0004576": {
     "IFSC": "JSFB0004576",
@@ -3512,8 +4108,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Navi Mumbai",
-    "MICR CODE": "400788007",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3530,8 +4124,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Mumbai",
-    "MICR CODE": "400788005",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3548,8 +4140,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Nanded",
-    "MICR CODE": "431788101",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3566,8 +4156,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Solapur",
-    "MICR CODE": "413788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3584,8 +4172,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Bhubaneshwar",
-    "MICR CODE": "751788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3602,8 +4188,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Raurkela",
-    "MICR CODE": "769788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3620,8 +4204,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Sambalpur",
-    "MICR CODE": "768788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3638,8 +4220,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Jalandhar",
-    "MICR CODE": "144788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3656,8 +4236,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Bathinda",
-    "MICR CODE": "151788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3674,8 +4252,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Ludhiana",
-    "MICR CODE": "141788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3692,8 +4268,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Patiala",
-    "MICR CODE": "147788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3710,8 +4284,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Bikaner",
-    "MICR CODE": "334788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3728,8 +4300,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Bhilwara",
-    "MICR CODE": "311788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3746,8 +4316,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Alwar",
-    "MICR CODE": "301788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3764,8 +4332,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Jaipur",
-    "MICR CODE": "302788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3782,8 +4348,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Jodhpur",
-    "MICR CODE": "342788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3800,8 +4364,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Kota",
-    "MICR CODE": "324788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3818,8 +4380,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Udaipur",
-    "MICR CODE": "313788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3836,8 +4396,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Chennai",
-    "MICR CODE": "600788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3854,8 +4412,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Chennai",
-    "MICR CODE": "600788003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3872,8 +4428,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Chennai",
-    "MICR CODE": "600788004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3890,8 +4444,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Chennai",
-    "MICR CODE": "600788007",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3908,8 +4460,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Coimbatore",
-    "MICR CODE": "641788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3926,8 +4476,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Chennai",
-    "MICR CODE": "600788005",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3944,8 +4492,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Puducherry",
-    "MICR CODE": "605788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3962,8 +4508,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Madurai",
-    "MICR CODE": "625788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3980,8 +4524,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Tirunelveli",
-    "MICR CODE": "627788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3998,8 +4540,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Salem",
-    "MICR CODE": "636788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4016,8 +4556,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Tiruchirappalli",
-    "MICR CODE": "620788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4034,8 +4572,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AGRA",
-    "MICR CODE": "282788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4052,8 +4588,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Kanpur",
-    "MICR CODE": "208788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4070,8 +4604,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Allahabad",
-    "MICR CODE": "211788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4088,8 +4620,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KURUKSHETRA",
-    "MICR CODE": "136788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4106,8 +4636,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Ghaziabad",
-    "MICR CODE": "110788006",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4124,8 +4652,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Lucknow",
-    "MICR CODE": "226788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4142,8 +4668,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Meerut",
-    "MICR CODE": "250788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4176,8 +4700,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VARANASI",
-    "MICR CODE": "221788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4210,8 +4732,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DEHRADUN",
-    "MICR CODE": "248788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4228,8 +4748,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THAKURPUKUR",
-    "MICR CODE": "700788013",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4246,8 +4764,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Asansole",
-    "MICR CODE": "713788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4264,8 +4780,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Kolkata",
-    "MICR CODE": "700788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4282,8 +4796,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Kolkata",
-    "MICR CODE": "700788005",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4300,8 +4812,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
-    "MICR CODE": "700788011",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4318,8 +4828,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
-    "MICR CODE": "700788012",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4336,8 +4844,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Kolkata",
-    "MICR CODE": "700788004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4354,8 +4860,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
-    "MICR CODE": "700788006",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4372,8 +4876,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Siliguri",
-    "MICR CODE": "734788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4390,8 +4892,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Bongaigaon",
-    "MICR CODE": "783788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4408,8 +4908,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Sivasagar",
-    "MICR CODE": "785788202",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4426,8 +4924,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Golaghat",
-    "MICR CODE": "785788102",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4444,8 +4940,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Bhatapara",
-    "MICR CODE": "493788201",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4462,8 +4956,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MAHASAMUND",
-    "MICR CODE": "493788101",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4480,8 +4972,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Dhamtari",
-    "MICR CODE": "493788001",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4498,8 +4988,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JANJGIR CHAMPA",
-    "MICR CODE": "495788251",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4516,8 +5004,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Rajnandgaon",
-    "MICR CODE": "491788101",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4534,8 +5020,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Bardoli",
-    "MICR CODE": "394788051",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4552,8 +5036,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Palghar",
-    "MICR CODE": "400788012",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4602,8 +5084,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Chamarajanagar",
-    "MICR CODE": "571788353",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4620,8 +5100,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Hosakote",
-    "MICR CODE": "560788011",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4654,8 +5132,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Raisen",
-    "MICR CODE": "462788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4672,8 +5148,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAJPURA",
-    "MICR CODE": "140788052",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4690,8 +5164,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Sehore",
-    "MICR CODE": "466788001",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4708,8 +5180,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Hoshangabad",
-    "MICR CODE": "461788301",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4726,8 +5196,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Bargarh",
-    "MICR CODE": "768788302",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4744,8 +5212,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Khordha",
-    "MICR CODE": "751788003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4762,8 +5228,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Balangir",
-    "MICR CODE": "767788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4780,8 +5244,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Coimbatore",
-    "MICR CODE": "642788102",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4798,8 +5260,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Chengalpattu",
-    "MICR CODE": "600788009",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4816,8 +5276,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Salem",
-    "MICR CODE": "636788006",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4850,8 +5308,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Tiruchengode",
-    "MICR CODE": "638788003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4868,8 +5324,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Gobichettipalayam",
-    "MICR CODE": "638788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4886,8 +5340,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ERODE",
-    "MICR CODE": "638788402",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4904,8 +5356,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PADRAUNA",
-    "MICR CODE": "274788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4922,8 +5372,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "560788015",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4940,8 +5388,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Rampurhat",
-    "MICR CODE": "731788102",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4958,8 +5404,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Baduria muncipality",
-    "MICR CODE": "700788008",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4976,8 +5420,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Katwa",
-    "MICR CODE": "713788402",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4994,8 +5436,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Memari",
-    "MICR CODE": "713788351",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5012,8 +5452,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Diamond Harbour",
-    "MICR CODE": "700788007",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5046,8 +5484,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Jaipur",
-    "MICR CODE": "303788004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5064,8 +5500,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Jaipur",
-    "MICR CODE": "303788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5082,8 +5516,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Jaipur",
-    "MICR CODE": "303788003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5100,8 +5532,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Nagaur",
-    "MICR CODE": "341788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5118,8 +5548,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Dharmapuri",
-    "MICR CODE": "636788103",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5136,8 +5564,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Dharmapuri",
-    "MICR CODE": "636788107",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5154,8 +5580,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Dharmapuri",
-    "MICR CODE": "636788102",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5172,8 +5596,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Dharmapuri",
-    "MICR CODE": "636788106",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5190,8 +5612,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Dharmapuri",
-    "MICR CODE": "636788104",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5208,8 +5628,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Dharmapuri",
-    "MICR CODE": "636788105",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5226,8 +5644,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Salem",
-    "MICR CODE": "636788009",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5244,8 +5660,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Salem",
-    "MICR CODE": "636788004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5262,8 +5676,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Salem",
-    "MICR CODE": "636788003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5280,8 +5692,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Salem",
-    "MICR CODE": "636788008",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5298,8 +5708,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Salem",
-    "MICR CODE": "636788005",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5316,8 +5724,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Salem",
-    "MICR CODE": "636788010",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5334,8 +5740,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Salem",
-    "MICR CODE": "636788007",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5352,8 +5756,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Bandarapalli ",
-    "MICR CODE": "635788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5370,8 +5772,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Addakurakki",
-    "MICR CODE": "635788402",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5388,8 +5788,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Ghodari",
-    "MICR CODE": "493788102",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5406,8 +5804,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Guddapatti ",
-    "MICR CODE": "635788003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5424,8 +5820,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Dod Ballapur",
-    "MICR CODE": "560788014",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5442,8 +5836,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Thalikothanur",
-    "MICR CODE": "635788404",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5460,8 +5852,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Arasakuppam",
-    "MICR CODE": "635788403",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5478,8 +5868,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "K. Sathyavara",
-    "MICR CODE": "560788012",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5496,8 +5884,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Maralakunte",
-    "MICR CODE": "560788013",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5514,8 +5900,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Ramnagar",
-    "MICR CODE": "571788552",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5532,8 +5916,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Ramnagar",
-    "MICR CODE": "571788553",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5550,8 +5932,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DHAMTARI",
-    "MICR CODE": "492788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5568,8 +5948,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Mangala",
-    "MICR CODE": "571788452",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5586,8 +5964,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Chamarajanagar",
-    "MICR CODE": "571788352",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5604,8 +5980,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Sundargarh",
-    "MICR CODE": "770788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5622,8 +5996,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Ujjain",
-    "MICR CODE": "456788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5640,8 +6012,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Hoshangabad",
-    "MICR CODE": "461788001",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5658,8 +6028,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Hoshangabad",
-    "MICR CODE": "461788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5676,8 +6044,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Surat",
-    "MICR CODE": "394788501",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5694,8 +6060,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Surat",
-    "MICR CODE": "394788502",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5712,8 +6076,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Surat",
-    "MICR CODE": "394788503",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5730,8 +6092,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Surat",
-    "MICR CODE": "394788504",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5748,8 +6108,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Surat",
-    "MICR CODE": "394788101",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5766,8 +6124,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Surat",
-    "MICR CODE": "394788505",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5784,8 +6140,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Udan",
-    "MICR CODE": "382788501",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5802,8 +6156,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Ahmedabad",
-    "MICR CODE": "382788503",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5820,8 +6172,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Mehsana",
-    "MICR CODE": "382788504",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5838,8 +6188,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Ahmedabad",
-    "MICR CODE": "382788505",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5856,8 +6204,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Gandhinagar",
-    "MICR CODE": "382788502",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5874,8 +6220,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Rewari",
-    "MICR CODE": "123788003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5891,11 +6235,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Rohtak",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0004742": {
     "IFSC": "JSFB0004742",
@@ -5910,8 +6252,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Rohtak",
-    "MICR CODE": "124788003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5928,8 +6268,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Bangalore",
-    "MICR CODE": "560788008",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5946,8 +6284,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Kolkata",
-    "MICR CODE": "700788003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5964,8 +6300,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Hyderabad",
-    "MICR CODE": "500788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6014,8 +6348,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Bangalore",
-    "MICR CODE": "560788010",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6032,8 +6364,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Mumbai",
-    "MICR CODE": "400788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6050,8 +6380,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NEW DELHI",
-    "MICR CODE": "110788008",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6068,8 +6396,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Gurgaon",
-    "MICR CODE": "110788004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6086,8 +6412,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Nagpur",
-    "MICR CODE": "440788003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6104,8 +6428,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Mumbai",
-    "MICR CODE": "400788006",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6122,8 +6444,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Mumbai",
-    "MICR CODE": "400788003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6140,8 +6460,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Mumbai",
-    "MICR CODE": "400788011",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6158,8 +6476,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Mumbai",
-    "MICR CODE": "400788010",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6176,8 +6492,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GANGTOK",
-    "MICR CODE": "737788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6194,8 +6508,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Mumbai",
-    "MICR CODE": "400788004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6228,8 +6540,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Keonjhar ",
-    "MICR CODE": "758788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6246,8 +6556,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DHAMTARI",
-    "MICR CODE": "493788103",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6296,8 +6604,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Chennai",
-    "MICR CODE": "600788008",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6314,8 +6620,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Howrah",
-    "MICR CODE": "700788009",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6332,8 +6636,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Tamluk",
-    "MICR CODE": "721788202",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6350,8 +6652,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Joynagar",
-    "MICR CODE": "700788010",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6368,8 +6668,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JORHAT",
-    "MICR CODE": "785788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6386,8 +6684,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RANCHI",
-    "MICR CODE": "834788003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6404,8 +6700,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Gaya",
-    "MICR CODE": "823788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6438,8 +6732,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AMRITSAR",
-    "MICR CODE": "143788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6472,8 +6764,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "YAMUNANAGAR",
-    "MICR CODE": "135788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6490,8 +6780,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BHADRAK",
-    "MICR CODE": "756788102",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6508,8 +6796,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NEW DELHI",
-    "MICR CODE": "110788009",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6525,11 +6811,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Rewari",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0004795": {
     "IFSC": "JSFB0004795",
@@ -6544,8 +6828,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Rewari",
-    "MICR CODE": "123788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6562,8 +6844,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Rohtak",
-    "MICR CODE": "123788004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6580,8 +6860,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Rohtak",
-    "MICR CODE": "124788002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6597,11 +6875,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Rohtak",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0004800": {
     "IFSC": "JSFB0004800",
@@ -6616,8 +6892,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Bangalore",
-    "MICR CODE": "560788009",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6650,8 +6924,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Chennai",
-    "MICR CODE": "600788006",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6668,8 +6940,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Coimbatore",
-    "MICR CODE": "641788003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6686,8 +6956,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAYAGARH",
-    "MICR CODE": "752788102",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6704,8 +6972,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PURI",
-    "MICR CODE": "752788003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6722,8 +6988,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KEONJHAR",
-    "MICR CODE": "758788003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6740,8 +7004,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KHURDA",
-    "MICR CODE": "752788004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6758,8 +7020,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BHAWANIPATNA",
-    "MICR CODE": "766788102",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6775,11 +7035,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUITALA",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0005002": {
     "IFSC": "JSFB0005002",
@@ -6793,11 +7051,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BOLANGIR",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0005003": {
     "IFSC": "JSFB0005003",
@@ -6811,11 +7067,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GANDHINAGAR",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0005004": {
     "IFSC": "JSFB0005004",
@@ -6829,11 +7083,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SANAND",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0005005": {
     "IFSC": "JSFB0005005",
@@ -6847,11 +7099,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KADI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0005006": {
     "IFSC": "JSFB0005006",
@@ -6865,11 +7115,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KADI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0005007": {
     "IFSC": "JSFB0005007",
@@ -6883,11 +7131,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BHOJPUR",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0005008": {
     "IFSC": "JSFB0005008",
@@ -6901,11 +7147,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BIKANER",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0005009": {
     "IFSC": "JSFB0005009",
@@ -6919,11 +7163,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BIKANER",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0005010": {
     "IFSC": "JSFB0005010",
@@ -6937,11 +7179,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KANAS",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0005011": {
     "IFSC": "JSFB0005011",
@@ -6955,11 +7195,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SUBDEGA",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0005012": {
     "IFSC": "JSFB0005012",
@@ -6973,11 +7211,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BIKANER",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0005013": {
     "IFSC": "JSFB0005013",
@@ -6991,11 +7227,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SARAN",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0005014": {
     "IFSC": "JSFB0005014",
@@ -7009,11 +7243,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BEGUSARAI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0005015": {
     "IFSC": "JSFB0005015",
@@ -7027,11 +7259,25 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VAISHALI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
+  },
+  "JSFB0005084": {
+    "BANK": "JANA SMALL FINANCE BANK LTD",
+    "IFSC": "JSFB0005084",
+    "BRANCH": "RAMPURA",
+    "ADDRESS": "A/P RAMPURA, NEAR RAMPURA BUS STOP, MALEGAON, NASIK, 423206",
+    "CONTACT": null,
+    "CITY": "NASIK",
+    "DISTRICT": "MALEGAON",
+    "STATE": "MAHARASHTRA",
+    "MICR": "NA",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
   },
   "JSFB0006043": {
     "IFSC": "JSFB0006043",
@@ -7046,8 +7292,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SODEPUR",
-    "MICR CODE": "700788017",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7064,8 +7308,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GREATER MUMBAI",
-    "MICR CODE": "400788009",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7082,8 +7324,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BHOPAL",
-    "MICR CODE": "462788003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7099,11 +7339,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "JSFB0CPC002": {
     "IFSC": "JSFB0CPC002",
@@ -7117,10 +7355,8 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   }
 }

@@ -11,11 +11,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "AHMEDABAD",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "TTCB0000002": {
     "IFSC": "TTCB0000002",
@@ -30,8 +28,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "AHMEDABAD",
-    "MICR CODE": "380131002",
-    "STD CODE": "79",
     "NEFT": true,
     "IMPS": true
   },
@@ -48,8 +44,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "AHMEDABAD",
-    "MICR CODE": "380131003",
-    "STD CODE": "79",
     "NEFT": true,
     "IMPS": true
   },
@@ -66,8 +60,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "AHMEDABAD",
-    "MICR CODE": "380131004",
-    "STD CODE": "79",
     "NEFT": true,
     "IMPS": true
   },
@@ -84,8 +76,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "AHMEDABAD",
-    "MICR CODE": "380131005",
-    "STD CODE": "79",
     "NEFT": true,
     "IMPS": true
   }

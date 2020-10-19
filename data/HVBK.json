@@ -12,8 +12,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600240253",
-    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true
   },
@@ -30,8 +28,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "GURGAON",
-    "MICR CODE": "110240272",
-    "STD CODE": "124",
     "NEFT": true,
     "IMPS": true
   },
@@ -48,8 +44,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400240277",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -65,11 +59,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "NA",
-    "STD CODE": "22",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "HVBK0NEFTSC": {
     "IFSC": "HVBK0NEFTSC",

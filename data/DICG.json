@@ -18,19 +18,17 @@
   "DICG0000002": {
     "BANK": "DEPOSIT INSURANCE AND CREDIT GUARANTEE CORPORATION",
     "IFSC": "DICG0000002",
-    "MICR CODE": "400001001",
     "BRANCH": "FORT",
     "ADDRESS": "COB FORT",
-    "STD CODE": "22",
     "CONTACT": "23019792",
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
     "STATE": "MAHARASHTRA",
+    "MICR": "400001001",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   }
 }

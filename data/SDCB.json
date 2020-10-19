@@ -12,10 +12,8 @@
     "CITY": "SURAT",
     "UPI": false,
     "RTGS": true,
-    "MICR CODE": "NA",
-    "STD CODE": "0",
-    "NEFT": true,
-    "MICR": null
+    "MICR": "NA",
+    "NEFT": true
   },
   "SDCB0000002": {
     "IFSC": "SDCB0000002",
@@ -29,11 +27,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "BARDOLI",
-    "MICR CODE": "NA",
-    "STD CODE": "2622",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000003": {
     "IFSC": "SDCB0000003",
@@ -47,11 +43,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MANDVI",
-    "MICR CODE": "NA",
-    "STD CODE": "2623",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000004": {
     "IFSC": "SDCB0000004",
@@ -65,11 +59,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MADHI",
-    "MICR CODE": "NA",
-    "STD CODE": "2622",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000005": {
     "IFSC": "SDCB0000005",
@@ -84,8 +76,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "OLPAD",
-    "MICR CODE": "395244024",
-    "STD CODE": "2621",
     "NEFT": true,
     "IMPS": true
   },
@@ -101,11 +91,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "VYARA",
-    "MICR CODE": "NA",
-    "STD CODE": "2626",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000007": {
     "IFSC": "SDCB0000007",
@@ -119,11 +107,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KOSAMBA",
-    "MICR CODE": "NA",
-    "STD CODE": "2629",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000008": {
     "IFSC": "SDCB0000008",
@@ -137,11 +123,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SONGADH",
-    "MICR CODE": "NA",
-    "STD CODE": "2624",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000009": {
     "IFSC": "SDCB0000009",
@@ -155,11 +139,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MAHUVA",
-    "MICR CODE": "NA",
-    "STD CODE": "2625",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000010": {
     "IFSC": "SDCB0000010",
@@ -173,11 +155,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "NIZAR",
-    "MICR CODE": "NA",
-    "STD CODE": "2628",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000011": {
     "IFSC": "SDCB0000011",
@@ -192,8 +172,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KATHOR",
-    "MICR CODE": "395244028",
-    "STD CODE": "2624",
     "NEFT": true,
     "IMPS": true
   },
@@ -209,11 +187,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "BARDOLI",
-    "MICR CODE": "NA",
-    "STD CODE": "2622",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000013": {
     "IFSC": "SDCB0000013",
@@ -228,8 +204,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395244003",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
@@ -245,11 +219,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "VALOD",
-    "MICR CODE": "NA",
-    "STD CODE": "2625",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000015": {
     "IFSC": "SDCB0000015",
@@ -263,11 +235,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "UCHHAL",
-    "MICR CODE": "NA",
-    "STD CODE": "2628",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000016": {
     "IFSC": "SDCB0000016",
@@ -282,8 +252,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "CHALTHAN",
-    "MICR CODE": "395244020",
-    "STD CODE": "2622",
     "NEFT": true,
     "IMPS": true
   },
@@ -299,11 +267,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MANGROL",
-    "MICR CODE": "NA",
-    "STD CODE": "2629",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000018": {
     "IFSC": "SDCB0000018",
@@ -317,11 +283,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KADOD",
-    "MICR CODE": "NA",
-    "STD CODE": "2622",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000019": {
     "IFSC": "SDCB0000019",
@@ -336,8 +300,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KIM",
-    "MICR CODE": "395244025",
-    "STD CODE": "2621",
     "NEFT": true,
     "IMPS": true
   },
@@ -353,11 +315,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "ANAVAL",
-    "MICR CODE": "NA",
-    "STD CODE": "2625",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000021": {
     "IFSC": "SDCB0000021",
@@ -372,8 +332,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395244004",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
@@ -389,11 +347,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KARCHELIYA",
-    "MICR CODE": "NA",
-    "STD CODE": "2625",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000023": {
     "IFSC": "SDCB0000023",
@@ -408,8 +364,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SAYAN",
-    "MICR CODE": "395244023",
-    "STD CODE": "2621",
     "NEFT": true,
     "IMPS": true
   },
@@ -426,8 +380,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395244005",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
@@ -443,11 +395,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "BUHARI",
-    "MICR CODE": "NA",
-    "STD CODE": "2625",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000026": {
     "IFSC": "SDCB0000026",
@@ -462,8 +412,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395244006",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
@@ -479,11 +427,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "RAYAM",
-    "MICR CODE": "NA",
-    "STD CODE": "2622",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000028": {
     "IFSC": "SDCB0000028",
@@ -497,11 +443,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "DOLVAN",
-    "MICR CODE": "NA",
-    "STD CODE": "2626",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000029": {
     "IFSC": "SDCB0000029",
@@ -516,8 +460,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KAMREJ",
-    "MICR CODE": "395244021",
-    "STD CODE": "2621",
     "NEFT": true,
     "IMPS": true
   },
@@ -534,8 +476,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395244007",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
@@ -551,11 +491,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KUKARMUNDA",
-    "MICR CODE": "NA",
-    "STD CODE": "2628",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000032": {
     "IFSC": "SDCB0000032",
@@ -569,11 +507,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "GANGADHRA",
-    "MICR CODE": "NA",
-    "STD CODE": "2622",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000033": {
     "IFSC": "SDCB0000033",
@@ -588,8 +524,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395244008",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
@@ -606,8 +540,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395244009",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
@@ -623,11 +555,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MAHUVA",
-    "MICR CODE": "NA",
-    "STD CODE": "2625",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000036": {
     "IFSC": "SDCB0000036",
@@ -642,8 +572,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395244010",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
@@ -660,8 +588,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395244013",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
@@ -678,8 +604,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395244011",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
@@ -696,8 +620,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395244012",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
@@ -714,8 +636,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "AMROLI",
-    "MICR CODE": "395244018",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
@@ -732,8 +652,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395244014",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
@@ -749,11 +667,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "PALSANA",
-    "MICR CODE": "NA",
-    "STD CODE": "2622",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000044": {
     "IFSC": "SDCB0000044",
@@ -768,8 +684,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395244027",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
@@ -786,8 +700,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "PIPLOD",
-    "MICR CODE": "395244016",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
@@ -803,11 +715,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "VALOD",
-    "MICR CODE": "NA",
-    "STD CODE": "2625",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000048": {
     "IFSC": "SDCB0000048",
@@ -821,11 +731,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KAMREJ",
-    "MICR CODE": "NA",
-    "STD CODE": "2621",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000049": {
     "IFSC": "SDCB0000049",
@@ -839,11 +747,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MAHUVA",
-    "MICR CODE": "NA",
-    "STD CODE": "2625",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000051": {
     "IFSC": "SDCB0000051",
@@ -857,11 +763,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "BAUDHAN",
-    "MICR CODE": "NA",
-    "STD CODE": "2623",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000052": {
     "IFSC": "SDCB0000052",
@@ -875,11 +779,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SARBHON",
-    "MICR CODE": "NA",
-    "STD CODE": "2622",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000053": {
     "IFSC": "SDCB0000053",
@@ -894,8 +796,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KIM",
-    "MICR CODE": "395244026",
-    "STD CODE": "2621",
     "NEFT": true,
     "IMPS": true
   },
@@ -911,11 +811,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "VAV",
-    "MICR CODE": "NA",
-    "STD CODE": "2621",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000055": {
     "IFSC": "SDCB0000055",
@@ -930,8 +828,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395244019",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
@@ -948,8 +844,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395244017",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
@@ -966,8 +860,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SACHIN",
-    "MICR CODE": "395244022",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
@@ -983,11 +875,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "UKAI",
-    "MICR CODE": "NA",
-    "STD CODE": "2624",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000059": {
     "IFSC": "SDCB0000059",
@@ -1001,11 +891,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "UMARPADA",
-    "MICR CODE": "NA",
-    "STD CODE": "2629",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000060": {
     "IFSC": "SDCB0000060",
@@ -1019,11 +907,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "NIZAR",
-    "MICR CODE": "NA",
-    "STD CODE": "2628",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000061": {
     "IFSC": "SDCB0000061",
@@ -1037,11 +923,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KAMREJ",
-    "MICR CODE": "NA",
-    "STD CODE": "2621",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000062": {
     "IFSC": "SDCB0000062",
@@ -1055,11 +939,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MANGROL",
-    "MICR CODE": "NA",
-    "STD CODE": "2629",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000063": {
     "IFSC": "SDCB0000063",
@@ -1074,8 +956,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395244029",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
@@ -1092,8 +972,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395244030",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
@@ -1110,8 +988,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395244031",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
@@ -1128,28 +1004,24 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395244032",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
   "SDCB0000067": {
     "BANK": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
     "IFSC": "SDCB0000067",
-    "MICR CODE": "395244033",
     "BRANCH": "TAKARMA",
     "ADDRESS": "AT PO TAKARMA TA OLPAD DIST SURAT PIN 394540",
-    "STD CODE": "2621",
     "CONTACT": "225539",
     "CITY": "SURAT",
     "DISTRICT": "SURAT",
     "STATE": "GUJARAT",
+    "MICR": "395244033",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000068": {
     "IFSC": "SDCB0000068",
@@ -1164,8 +1036,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "394244529",
-    "STD CODE": "2625",
     "NEFT": true,
     "IMPS": true
   },
@@ -1182,8 +1052,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "BARDOLI",
-    "MICR CODE": "394244053",
-    "STD CODE": "2622",
     "NEFT": true,
     "IMPS": true
   },
@@ -1200,8 +1068,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "394244530",
-    "STD CODE": "2621",
     "NEFT": true,
     "IMPS": true
   },
@@ -1218,8 +1084,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "VYARA",
-    "MICR CODE": "394244531",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1235,11 +1099,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000073": {
     "IFSC": "SDCB0000073",
@@ -1254,8 +1116,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "VYARA",
-    "MICR CODE": "394244532",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1271,11 +1131,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "VYARA",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000075": {
     "IFSC": "SDCB0000075",
@@ -1289,11 +1147,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000076": {
     "IFSC": "SDCB0000076",
@@ -1307,11 +1163,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000077": {
     "IFSC": "SDCB0000077",
@@ -1326,8 +1180,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395244036",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
@@ -1344,8 +1196,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "394244535",
-    "STD CODE": "2622",
     "NEFT": true,
     "IMPS": true
   },
@@ -1361,11 +1211,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "NA",
-    "STD CODE": "2621",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000080": {
     "IFSC": "SDCB0000080",
@@ -1380,8 +1228,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "394244536",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1397,11 +1243,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000082": {
     "IFSC": "SDCB0000082",
@@ -1416,8 +1260,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395244037",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1434,8 +1276,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395244038",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1451,11 +1291,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "VYARA",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000085": {
     "IFSC": "SDCB0000085",
@@ -1470,8 +1308,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395244039",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1488,8 +1324,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395244041",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1506,8 +1340,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395244040",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1524,8 +1356,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "394244092",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1542,8 +1372,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "394244539",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1560,8 +1388,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395244042",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1577,11 +1403,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "BARDOLI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000092": {
     "IFSC": "SDCB0000092",
@@ -1595,11 +1419,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "BARDOLI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000093": {
     "IFSC": "SDCB0000093",
@@ -1614,8 +1436,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "394244057",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1632,8 +1452,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "VYARA",
-    "MICR CODE": "394244073",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1650,64 +1468,56 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "394244056",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "SDCB0000096": {
     "BANK": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
     "IFSC": "SDCB0000096",
-    "MICR CODE": "394244540",
     "BRANCH": "BANDHARPADA",
     "ADDRESS": "GAMTAL BLOCK NO 204/4, AT BANDHARPADA, POST GALKUVA, TALUKA SONGADH",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "TAPI",
     "DISTRICT": "SONGADH",
     "STATE": "GUJARAT",
+    "MICR": "394244540",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000097": {
     "BANK": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
     "IFSC": "SDCB0000097",
-    "MICR CODE": "394244074",
     "BRANCH": "DOLARA",
     "ADDRESS": "HOUSE NO 395, SHREE DOLARA VIBHAG KHEDUTONI MOTA KADNI SEVA MANDALI LTD, AT AND POST DOLARA, TALUKA VYARA",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "TAPI",
     "DISTRICT": "VYARA",
     "STATE": "GUJARAT",
+    "MICR": "394244074",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000098": {
     "BANK": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
     "IFSC": "SDCB0000098",
-    "MICR CODE": "395244043",
     "BRANCH": "PUNA",
     "ADDRESS": "HOUSE NO 519/3, SHIV MAHOLLO, PUNA MAIN ROAD, TALUKA CHORYASI, PIN 395010",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "SURAT",
     "DISTRICT": "SURAT",
     "STATE": "GUJARAT",
+    "MICR": "395244043",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000099": {
     "IFSC": "SDCB0000099",
@@ -1722,8 +1532,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395244002",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
@@ -1740,8 +1548,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KUKARMUNDA",
-    "MICR CODE": "394244541",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1758,8 +1564,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "394244058",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1776,8 +1580,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395244044",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1794,8 +1596,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MANGROL",
-    "MICR CODE": "394244542",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1812,8 +1612,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395244045",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1830,8 +1628,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "OLPAD",
-    "MICR CODE": "395244046",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1848,8 +1644,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395244047",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1865,11 +1659,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395244048",
-    "STD CODE": "0",
+    "MICR": "395244048",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000108": {
     "IFSC": "SDCB0000108",
@@ -1883,11 +1675,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MANDVI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000109": {
     "IFSC": "SDCB0000109",
@@ -1901,11 +1691,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "TAPI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000110": {
     "IFSC": "SDCB0000110",
@@ -1919,11 +1707,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SONGADH",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000111": {
     "IFSC": "SDCB0000111",
@@ -1937,11 +1723,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000112": {
     "IFSC": "SDCB0000112",
@@ -1955,11 +1739,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000113": {
     "IFSC": "SDCB0000113",
@@ -1973,11 +1755,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "UMARPADA",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "SDCB0000114": {
     "IFSC": "SDCB0000114",
@@ -1991,11 +1771,25 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MANDVI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
+  },
+  "SDCB0000115": {
+    "BANK": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+    "IFSC": "SDCB0000115",
+    "BRANCH": "KADODARA",
+    "ADDRESS": "HOUSE NO 1518, NEAR VAMDOT PETROL PUMP, AT AND POST - KADODARA, TALUKA - PALSANA, PINCODE - 394327",
+    "CONTACT": null,
+    "CITY": "SURAT",
+    "DISTRICT": "SURAT",
+    "STATE": "GUJARAT",
+    "MICR": "395244051",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": false,
+    "RTGS": false,
+    "IMPS": true
   },
   "SDCB0000888": {
     "IFSC": "SDCB0000888",
@@ -2009,10 +1803,8 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "BARDOLI",
-    "MICR CODE": "NA",
-    "STD CODE": "2622",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   }
 }

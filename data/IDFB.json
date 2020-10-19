@@ -43,11 +43,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
-    "MICR CODE": "NA",
-    "STD CODE": "22",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0010202": {
     "IFSC": "IDFB0010202",
@@ -61,11 +59,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "NA",
-    "STD CODE": "22",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0010204": {
     "IFSC": "IDFB0010204",
@@ -79,11 +75,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
-    "MICR CODE": "NA",
-    "STD CODE": "22",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0010205": {
     "IFSC": "IDFB0010205",
@@ -97,11 +91,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
-    "MICR CODE": "NA",
-    "STD CODE": "22",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0010206": {
     "IFSC": "IDFB0010206",
@@ -115,11 +107,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
-    "MICR CODE": "NA",
-    "STD CODE": "22",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0010207": {
     "IFSC": "IDFB0010207",
@@ -133,11 +123,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
-    "MICR CODE": "NA",
-    "STD CODE": "22",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0010209": {
     "IFSC": "IDFB0010209",
@@ -152,8 +140,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400751001",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -169,11 +155,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
-    "MICR CODE": "NA",
-    "STD CODE": "22",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0010216": {
     "IFSC": "IDFB0010216",
@@ -187,11 +171,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0010217": {
     "IFSC": "IDFB0010217",
@@ -205,11 +187,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0010218": {
     "IFSC": "IDFB0010218",
@@ -223,11 +203,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0010219": {
     "IFSC": "IDFB0010219",
@@ -241,11 +219,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NEW DELHI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0010221": {
     "IFSC": "IDFB0010221",
@@ -259,11 +235,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAVI MUMBAI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0010224": {
     "IFSC": "IDFB0010224",
@@ -277,11 +251,25 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
+  },
+  "IDFB0010225": {
+    "BANK": "IDFC FIRST BANK LTD",
+    "IFSC": "IDFB0010225",
+    "BRANCH": "CREDIT CARD AND ALLIED SERVICES DIVISION",
+    "ADDRESS": "ONE INDIABULLS,1001-1002 -10 FLR- TOWER 2A/2B,JUPITER MILL COMPND 841,SENAPATI BAPAT MRG,ELPHINSTON RD(E),MUMBAI- 400013, TOLLFREE NO. 18004194332",
+    "CONTACT": null,
+    "CITY": "MUMBAI",
+    "DISTRICT": "MUMBAI",
+    "STATE": "MAHARASHTRA",
+    "MICR": "NA",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
   },
   "IDFB0020101": {
     "IFSC": "IDFB0020101",
@@ -296,8 +284,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NEW DELHI",
-    "MICR CODE": "110751001",
-    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true
   },
@@ -314,8 +300,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NEW DELHI",
-    "MICR CODE": "110751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -332,8 +316,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
-    "MICR CODE": "110751005",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -350,8 +332,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DWARKA",
-    "MICR CODE": "110751007",
-    "STD CODE": "1800",
     "NEFT": true,
     "IMPS": true
   },
@@ -368,8 +348,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "OKHLA",
-    "MICR CODE": "110751008",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -386,8 +364,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAJOURI GARDEN",
-    "MICR CODE": "110751006",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -404,8 +380,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NEW DELHI",
-    "MICR CODE": "110751012",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -422,8 +396,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NEW DELHI",
-    "MICR CODE": "110751013",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -440,8 +412,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DEFENCE COLONY",
-    "MICR CODE": "110751015",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -458,8 +428,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI NCR",
-    "MICR CODE": "110751022",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -476,8 +444,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NOIDA",
-    "MICR CODE": "110751017",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -494,8 +460,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GREEN PARK",
-    "MICR CODE": "110751016",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -512,8 +476,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNJABI BAGH",
-    "MICR CODE": "110751018",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -530,8 +492,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
-    "MICR CODE": "110751020",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -548,8 +508,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JANAKPURI",
-    "MICR CODE": "110751019",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -566,8 +524,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GURGAON",
-    "MICR CODE": "110751024",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -584,8 +540,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GURGAON",
-    "MICR CODE": "110751025",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -602,8 +556,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GURGAON",
-    "MICR CODE": "110751026",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -620,8 +572,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GURGAON",
-    "MICR CODE": "110751027",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -638,8 +588,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
-    "MICR CODE": "110751021",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -656,8 +604,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
-    "MICR CODE": "110751023",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -674,8 +620,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NEW DELHI",
-    "MICR CODE": "110751033",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -692,8 +636,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NEW DELHI",
-    "MICR CODE": "110751029",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -710,8 +652,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NEW DELHI",
-    "MICR CODE": "110751048",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -728,8 +668,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NEW DELHI",
-    "MICR CODE": "110751053",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -746,8 +684,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NOIDA",
-    "MICR CODE": "110751046",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -763,11 +699,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NEW DELHI",
-    "MICR CODE": "110751058",
-    "STD CODE": "0",
+    "MICR": "110751058",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0020143": {
     "IFSC": "IDFB0020143",
@@ -781,11 +715,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NEW DELHI",
-    "MICR CODE": "110751055",
-    "STD CODE": "0",
+    "MICR": "110751055",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0020144": {
     "IFSC": "IDFB0020144",
@@ -800,8 +732,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GURGAON",
-    "MICR CODE": "110751059",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -818,8 +748,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NOIDA",
-    "MICR CODE": "110751047",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -836,8 +764,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KAUSHAMBI",
-    "MICR CODE": "110751049",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -854,8 +780,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NEW DELHI",
-    "MICR CODE": "110751045",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -872,8 +796,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "WEST DELHI",
-    "MICR CODE": "110751042",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -890,8 +812,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NOIDA",
-    "MICR CODE": "110751004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -908,8 +828,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NOIDA",
-    "MICR CODE": "110751041",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -926,8 +844,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NOIDA",
-    "MICR CODE": "110751032",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -944,8 +860,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NOIDA",
-    "MICR CODE": "110751035",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -962,46 +876,88 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NOIDA",
-    "MICR CODE": "110751030",
-    "STD CODE": "0",
     "NEFT": true,
+    "IMPS": true
+  },
+  "IDFB0020158": {
+    "BANK": "IDFC FIRST BANK LTD",
+    "IFSC": "IDFB0020158",
+    "BRANCH": "NOIDA-SIXTEEN BRANCH",
+    "ADDRESS": "GROUND FLOOR, PLOT NO 12, BLOCK B, SECTOR 16, NOIDA, DIST. GAUTAM BUDH NAGAR, UTTAR PRADESH-201301, TOLL FREE NO-18004194332",
+    "CONTACT": null,
+    "CITY": "GAUTAM BUDH NAGAR",
+    "DISTRICT": "NOIDA",
+    "STATE": "UTTAR PRADESH",
+    "MICR": "110751065",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
     "IMPS": true
   },
   "IDFB0020194": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0020194",
-    "MICR CODE": "110751060",
     "BRANCH": "NEW DELHI - ASHOK VIHAR BRANCH",
     "ADDRESS": "GROUND FLOOR, B-2/17,ASHOK VIHAR,NEW DELHI - 110052,TOLL FREE NO. 18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "NORTH WEST├╜",
     "DISTRICT": "NEW DELHI",
     "STATE": "DELHI",
+    "MICR": "110751060",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0020195": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0020195",
-    "MICR CODE": "110751063",
     "BRANCH": "NEW DELHI-KIRTI NAGAR BRANCH",
     "ADDRESS": "UPPER GROUND FLOOR, BUILDING NO. 42,BLOCK-F,KIRTI NAGAR, NEW DELHI- 110015,TOLL FREE NO. 18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "WEST DISTRICT├╜",
     "DISTRICT": "NEW DELHI",
     "STATE": "DELHI",
+    "MICR": "110751063",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
+  },
+  "IDFB0020197": {
+    "BANK": "IDFC FIRST BANK LTD",
+    "IFSC": "IDFB0020197",
+    "BRANCH": "NEW DELHI JASOLA BRANCH",
+    "ADDRESS": "GROUND FLOOR, PLOT NO.92, POCKET-1, JASOLA, NEW DELHI- 110025, TOLL FREE NO.- 18004194332",
+    "CONTACT": null,
+    "CITY": "SOUTH DELHI",
+    "DISTRICT": "DELHI",
+    "STATE": "DELHI",
+    "MICR": "110751064",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
+  },
+  "IDFB0020209": {
+    "BANK": "IDFC FIRST BANK LTD",
+    "IFSC": "IDFB0020209",
+    "BRANCH": "NEW DELHI -  PATEL NAGAR BRANCH",
+    "ADDRESS": "GROUND FLOOR, BUILDING NO. 2/12, BLOCK NO. 2W, WEST PATEL NAGAR, NEW DELHI- 110008, TOLL FREE NO-18004194332",
+    "CONTACT": null,
+    "CITY": "WEST DELHI",
+    "DISTRICT": "DELHI",
+    "STATE": "DELHI",
+    "MICR": "110751066",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
   },
   "IDFB0021001": {
     "IFSC": "IDFB0021001",
@@ -1016,8 +972,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GURGAON",
-    "MICR CODE": "110751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1034,8 +988,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GURGAON",
-    "MICR CODE": "110751011",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1052,8 +1004,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GURGAON",
-    "MICR CODE": "110751014",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1070,8 +1020,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GURGAON",
-    "MICR CODE": "110751036",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1088,8 +1036,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GURGAON",
-    "MICR CODE": "110751037",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1106,8 +1052,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GURGAON",
-    "MICR CODE": "110751038",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1124,8 +1068,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GURGAON",
-    "MICR CODE": "110751039",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1142,8 +1084,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GURGAON",
-    "MICR CODE": "110751040",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1160,8 +1100,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GURGAON",
-    "MICR CODE": "110751051",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1178,8 +1116,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GURGAON",
-    "MICR CODE": "110751052",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1196,8 +1132,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GURGAON",
-    "MICR CODE": "110751057",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1214,8 +1148,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GURGAON",
-    "MICR CODE": "110751056",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1232,8 +1164,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GURGAON",
-    "MICR CODE": "110751050",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1250,28 +1180,24 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AMRITSAR",
-    "MICR CODE": "143751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "IDFB0021024": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0021024",
-    "MICR CODE": "143751003",
     "BRANCH": "AMRITSAR-HALL BAZAR BRANCH",
     "ADDRESS": "GROUND FLOOR, SHOP NO. 75-C, HALL BAZAR, SHRI AMRITSAR-143001, TOLL FREE NO.- 18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "AMRITSAR",
     "DISTRICT": "AMRITSAR",
     "STATE": "PUNJAB",
+    "MICR": "143751003",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0021171": {
     "IFSC": "IDFB0021171",
@@ -1286,8 +1212,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "LUDHIANA",
-    "MICR CODE": "141751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1303,11 +1227,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "LUDHIANA",
-    "MICR CODE": "141751004",
-    "STD CODE": "0",
+    "MICR": "141751004",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0021175": {
     "IFSC": "IDFB0021175",
@@ -1322,8 +1244,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "LUDHIANA",
-    "MICR CODE": "141751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1340,8 +1260,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JALANDHAR",
-    "MICR CODE": "144751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1358,8 +1276,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JALANDHAR",
-    "MICR CODE": "144751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1376,8 +1292,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHANDIGARH",
-    "MICR CODE": "160751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1394,8 +1308,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHANDIGARH",
-    "MICR CODE": "160751007",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1412,8 +1324,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHANDIGARH",
-    "MICR CODE": "160751008",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1430,8 +1340,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHANDIGARH",
-    "MICR CODE": "160751006",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1448,8 +1356,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHANDIGARH",
-    "MICR CODE": "160751010",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1466,8 +1372,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DEHRADUN",
-    "MICR CODE": "248751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1484,8 +1388,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "LUCKNOW",
-    "MICR CODE": "226751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1502,28 +1404,24 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "LUCKNOW",
-    "MICR CODE": "226751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "IDFB0021254": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0021254",
-    "MICR CODE": "226751005",
     "BRANCH": "LUCKNOW-ASHIYANA BRANCH",
     "ADDRESS": "GROUND FLOOR, K-39, SECTOR K,NEAR POWER HOUSE CHAURAHA, ASHIYANA,LUCKNOW- 226012, TOLL FREE NO.- 18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "LUCKNOW├╜",
     "DISTRICT": "LUCKNOW",
     "STATE": "UTTAR PRADESH",
+    "MICR": "226751005",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0021255": {
     "IFSC": "IDFB0021255",
@@ -1538,8 +1436,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "LUCKNOW",
-    "MICR CODE": "226751004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1556,8 +1452,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GREATER NOIDA",
-    "MICR CODE": "110751054",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1574,8 +1468,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KANPUR",
-    "MICR CODE": "208751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1592,8 +1484,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KANPUR",
-    "MICR CODE": "208751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1610,8 +1500,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AGRA",
-    "MICR CODE": "282751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1628,8 +1516,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "FARIDABAD",
-    "MICR CODE": "110751009",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1646,8 +1532,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "FARIDABAD",
-    "MICR CODE": "110751031",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1664,8 +1548,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "FARIDABAD",
-    "MICR CODE": "110751062",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1682,8 +1564,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NOIDA SECTOR SIXTY THREE",
-    "MICR CODE": "110751010",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1700,8 +1580,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PANCHKULA",
-    "MICR CODE": "160751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1718,8 +1596,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PANCHKULA",
-    "MICR CODE": "160751005",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1736,8 +1612,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MOHALI",
-    "MICR CODE": "160751004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1754,28 +1628,24 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MOHALI",
-    "MICR CODE": "160751009",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "IDFB0021374": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0021374",
-    "MICR CODE": "160751011",
     "BRANCH": "ZIRAKPUR BRANCH",
     "ADDRESS": "GROUND FLOOR, SCF-2, SILVER CITY, AMBALA-CHANDIGARH HIGHWAY, ZIRAKPUR, SAS NAGAR-140603, TOLL FREE NO.- 18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "SAHIBZADA AJIT SINGH NAGAR",
     "DISTRICT": "ZIRAKPUR",
     "STATE": "PUNJAB",
+    "MICR": "160751011",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0021392": {
     "IFSC": "IDFB0021392",
@@ -1790,8 +1660,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AMBALA",
-    "MICR CODE": "133751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1808,8 +1676,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GHAZIABAD",
-    "MICR CODE": "110751028",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1826,8 +1692,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GHAZIABAD",
-    "MICR CODE": "110751034",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1844,28 +1708,24 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GHAZIABAD",
-    "MICR CODE": "110751043",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "IDFB0021416": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0021416",
-    "MICR CODE": "110751061",
     "BRANCH": "GHAZIABAD INDIRAPURAM BRANCH",
     "ADDRESS": "GROUND FLOOR, UNIT NO. AG-21-22, ADITYA CITY CENTRE,PLOT NO. C/GH-3,VAIBHAV KHAND, INDIRAPURAM , GHAZIABAD - 201014,TOLL FREE NO. 18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "GHAZIABAD",
     "DISTRICT": "GHAZIABAD",
     "STATE": "UTTAR PRADESH",
+    "MICR": "110751061",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0021452": {
     "IFSC": "IDFB0021452",
@@ -1880,8 +1740,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PATIALA",
-    "MICR CODE": "147751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1898,8 +1756,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KARNAL",
-    "MICR CODE": "132751102",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1916,8 +1772,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JAMMU",
-    "MICR CODE": "180751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1934,28 +1788,24 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JAMMU",
-    "MICR CODE": "180751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "IDFB0021521": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0021521",
-    "MICR CODE": "250751002",
     "BRANCH": "MEERUT BRANCH",
     "ADDRESS": "GROUND FLOOR, BUILDING NO. 303/305, UNIVERSITY ROAD, MANGAL PANDEY NAGAR, MEERUT - 250001, TOLL FREE NO. - 18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "MEERUT",
     "DISTRICT": "MEERUT",
     "STATE": "UTTAR PRADESH",
+    "MICR": "250751002",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0021522": {
     "IFSC": "IDFB0021522",
@@ -1970,8 +1820,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MEERUT",
-    "MICR CODE": "250751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -1987,29 +1835,25 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PRAYAGRAJ ",
-    "MICR CODE": "211751002",
-    "STD CODE": "0",
+    "MICR": "211751002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0021561": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0021561",
-    "MICR CODE": "273751002",
     "BRANCH": "GORAKHPUR BRANCH",
     "ADDRESS": "GROUND FLOOR, BUILDING NO. 10, SHRINATH COMPLEX, PARK ROAD, CIVIL LINES, GORAKHPUR - 273001, TOLL FREE NO. - 18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "GORAKHPUR",
     "DISTRICT": "GORAKHPUR",
     "STATE": "UTTAR PRADESH",
+    "MICR": "273751002",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0021601": {
     "IFSC": "IDFB0021601",
@@ -2023,11 +1867,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HISAR",
-    "MICR CODE": "125751052",
-    "STD CODE": "0",
+    "MICR": "125751052",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0021621": {
     "IFSC": "IDFB0021621",
@@ -2042,8 +1884,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PANIPAT",
-    "MICR CODE": "132751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2060,8 +1900,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SAHARANPUR",
-    "MICR CODE": "247751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2078,28 +1916,24 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PHAGWARA",
-    "MICR CODE": "144751202",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "IDFB0021731": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0021731",
-    "MICR CODE": "171751002",
     "BRANCH": "SHIMLA BRANCH",
     "ADDRESS": "GROUND FLOOR, CRAIGS COURT, MALL ROAD SHIMLA, UP MAHAL US CLUB, MAHAL STATION WARD, HIMACHAL PRADESH-171001, TOLL FREE NO-18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "SHIMLA",
     "DISTRICT": "SHIMLA",
     "STATE": "HIMACHAL PRADESH",
+    "MICR": "171751002",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0040101": {
     "IFSC": "IDFB0040101",
@@ -2114,8 +1948,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400751002",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -2132,8 +1964,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400751003",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -2150,8 +1980,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAVI MUMBAI",
-    "MICR CODE": "400751004",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -2168,8 +1996,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400751005",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -2186,8 +2012,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400751007",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -2204,8 +2028,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400751006",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -2222,8 +2044,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400751009",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2240,8 +2060,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
-    "MICR CODE": "400751008",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2258,8 +2076,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MULUND",
-    "MICR CODE": "400751010",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2276,8 +2092,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400751012",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2294,8 +2108,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
-    "MICR CODE": "400751011",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2312,8 +2124,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400751013",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2330,8 +2140,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400751015",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2348,8 +2156,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400751014",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2366,8 +2172,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400751019",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2384,8 +2188,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400751017",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2402,8 +2204,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAVI MUMBAI",
-    "MICR CODE": "400751016",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2420,8 +2220,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KALYAN",
-    "MICR CODE": "400751018",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2438,8 +2236,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
-    "MICR CODE": "400751022",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2456,8 +2252,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400751021",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2474,8 +2268,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400751023",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2492,8 +2284,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400751020",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2510,8 +2300,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400751024",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2528,8 +2316,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAVI MUMBAI",
-    "MICR CODE": "400751025",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2546,8 +2332,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAVI MUMBAI",
-    "MICR CODE": "400751026",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2564,28 +2348,24 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAVI MUMBAI",
-    "MICR CODE": "400751027",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "IDFB0040145": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0040145",
-    "MICR CODE": "400751040",
     "BRANCH": "MUMBAI-VIVIANA MALL THANE BRANCH",
     "ADDRESS": "BIG BAZAAR, GROUND FLOOR, VIVIANA MALL, ON EASTERN EXPRESS HIGHWAY, SERVICE RD, THANE WEST, THANE, MAHARASHTRA 400601, TOLL FREE NO.- 18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "THANE",
     "DISTRICT": "THANE",
     "STATE": "MAHARASHTRA",
+    "MICR": "400751040",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0040146": {
     "IFSC": "IDFB0040146",
@@ -2600,8 +2380,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400751028",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2618,28 +2396,24 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAVI MUMBAI",
-    "MICR CODE": "400751041",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "IDFB0040151": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0040151",
-    "MICR CODE": "400751036",
     "BRANCH": "MUMBAI GOREGAON WEST BRANCH",
     "ADDRESS": "GROUND FLOOR, SHOP NO. 5, POONAM HEIGHTS, PLOT NO. 11-12, UDYOG NAGAR ESTATE, S.V ROAD, GOREGOAN(WEST), MUMBAI - 400062, TOLL FREE NO. - 18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "MUMBAI SUBURBAN",
     "DISTRICT": "MUMBAI",
     "STATE": "MAHARASHTRA",
+    "MICR": "400751036",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0040152": {
     "IFSC": "IDFB0040152",
@@ -2654,8 +2428,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAVI MUMBAI",
-    "MICR CODE": "400751043",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2672,8 +2444,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400751034",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2690,8 +2460,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400751030",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2708,8 +2476,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400751032",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2726,8 +2492,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400751029",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2744,8 +2508,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SEAWOODS",
-    "MICR CODE": "400751031",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2762,8 +2524,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400751033",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2780,8 +2540,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
-    "MICR CODE": "400751037",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2798,28 +2556,24 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400751035",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "IDFB0040171": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0040171",
-    "MICR CODE": "400751039",
     "BRANCH": "MUMBAI-WORLD ONE-LOWER PAREL BRANCH",
     "ADDRESS": "UNIT NO.6, THE WORLD ONE BUILDING, LODHA WORLD TOWERS, LOWER PAREL-400013, TOLL FREE NO.-18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
     "STATE": "MAHARASHTRA",
+    "MICR": "400751039",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0040172": {
     "IFSC": "IDFB0040172",
@@ -2834,28 +2588,24 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAVI MUMBAI",
-    "MICR CODE": "400751038",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "IDFB0040173": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0040173",
-    "MICR CODE": "400751042",
     "BRANCH": "MUMBAI-DOMBIVLI BRANCH",
     "ADDRESS": "GROUND FLOOR,├╜ SHOP NO. 1,2 & UNIT NO.1, SATCHIDANAND CHS, NEAR OLD POST OFFICE, TILAK ROAD, DOMBIVALI EAST - 421201,TOLL FREE NO. 18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "THANE",
     "DISTRICT": "MUMBAI",
     "STATE": "MAHARASHTRA",
+    "MICR": "400751042",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0040301": {
     "IFSC": "IDFB0040301",
@@ -2870,8 +2620,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
-    "MICR CODE": "380751001",
-    "STD CODE": "79",
     "NEFT": true,
     "IMPS": true
   },
@@ -2888,8 +2636,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PRAHLAD NAGAR",
-    "MICR CODE": "380751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2906,8 +2652,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
-    "MICR CODE": "380751005",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2924,8 +2668,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHANDKHEDA",
-    "MICR CODE": "380751006",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2942,8 +2684,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VATVA",
-    "MICR CODE": "380751008",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -2960,28 +2700,24 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
-    "MICR CODE": "380751007",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "IDFB0040312": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0040312",
-    "MICR CODE": "380751011",
     "BRANCH": "SHAHIBAUG BRANCH",
     "ADDRESS": "SHOP NO. 14 & 15, ADVANCE BUSINESS PARK, BLOCK- A, OPP. SWAMINARAYAN TEMPLE, SHAHIBAUG, AHMEDABAD 380004, TOLL FREE NUMBER 18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "AHMEDABAD",
     "DISTRICT": "AHMEDABAD",
     "STATE": "GUJARAT",
+    "MICR": "380751011",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0040313": {
     "IFSC": "IDFB0040313",
@@ -2996,8 +2732,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
-    "MICR CODE": "380751009",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3014,8 +2748,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
-    "MICR CODE": "380751010",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3032,8 +2764,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
-    "MICR CODE": "380751012",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3050,8 +2780,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
-    "MICR CODE": "380751013",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3068,8 +2796,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
-    "MICR CODE": "380751014",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3086,8 +2812,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
-    "MICR CODE": "380751015",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3104,8 +2828,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
-    "MICR CODE": "380751021",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3122,8 +2844,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
-    "MICR CODE": "380751016",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3140,8 +2860,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DHOLKA",
-    "MICR CODE": "380751027",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3158,8 +2876,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VIRAMGAM",
-    "MICR CODE": "380751017",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3176,8 +2892,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SANAND",
-    "MICR CODE": "380751018",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3194,28 +2908,24 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
-    "MICR CODE": "380751022",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "IDFB0040332": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0040332",
-    "MICR CODE": "380751023",
     "BRANCH": "AHMEDABAD _x0013_ NIKOL BRANCH",
     "ADDRESS": "GROUND FLOOR, UNIT NO. 1&2,MERU MOUNT PLAZA, BHAKTI CIRCLE ROAD, NIKOL, AHMEDABAD -382350, TOLL FREE NO.- 18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "AHMEDABAD",
     "DISTRICT": "AHMEDABAD",
     "STATE": "GUJARAT",
+    "MICR": "380751023",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0040333": {
     "IFSC": "IDFB0040333",
@@ -3230,28 +2940,40 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
-    "MICR CODE": "380751024",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "IDFB0040334": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0040334",
-    "MICR CODE": "380751025",
     "BRANCH": "AHMEDABAD _x0013_ SINDHUBHAVAN BRANCH",
     "ADDRESS": "GROUND FLOOR, SHOP NO 6, SILVER RADIANCE , SINDHU BHAVAN ROAD, AHMEDABAD- 380059,TOLL FREE NO. 18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "AHMEDABAD",
     "DISTRICT": "AHMEDABAD",
     "STATE": "GUJARAT",
+    "MICR": "380751025",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
+  },
+  "IDFB0040335": {
+    "BANK": "IDFC FIRST BANK LTD",
+    "IFSC": "IDFB0040335",
+    "BRANCH": "AHMEDABAD-SHYAMAL BRANCH",
+    "ADDRESS": "GROUND FLOOR, SHOP NO. 3, VRUSHAKRUTI, 100 TP ROAD, SHYAMAL CROSS ROAD, AHMEDABAD-380015, TOLL FREE NO-18004194332",
+    "CONTACT": null,
+    "CITY": "AHMEDABAD",
+    "DISTRICT": "AHMEDABAD",
+    "STATE": "GUJARAT",
+    "MICR": "380751026",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
   },
   "IDFB0040351": {
     "IFSC": "IDFB0040351",
@@ -3266,28 +2988,24 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PETLAD",
-    "MICR CODE": "388751051",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "IDFB0040352": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0040352",
-    "MICR CODE": "388751002",
     "BRANCH": "ANAND BRANCH",
     "ADDRESS": "GROUND FLOOR, SHOP NO. 1 A & 1B, MARUTI SUNAY BUILDING, AMUL DAIRY ROAD, ANAND, GUJARAT _x0013_ 388001 ,TOLL FREE NO. 18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "ANAND",
     "DISTRICT": "ANAND",
     "STATE": "GUJARAT",
+    "MICR": "388751002",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0040371": {
     "IFSC": "IDFB0040371",
@@ -3302,8 +3020,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HIMMMATNAGAR",
-    "MICR CODE": "383751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3320,8 +3036,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "IDAR",
-    "MICR CODE": "383751031",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3338,8 +3052,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BAYAD",
-    "MICR CODE": "383751111",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3356,8 +3068,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KHERALU",
-    "MICR CODE": "384751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3374,8 +3084,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MEHSANA",
-    "MICR CODE": "384751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3392,8 +3100,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PALANPUR",
-    "MICR CODE": "385751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3410,8 +3116,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SONKHEDA",
-    "MICR CODE": "461751505",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3428,8 +3132,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PIPARIYA",
-    "MICR CODE": "461751301",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3446,8 +3148,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANKHEDI",
-    "MICR CODE": "461751502",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3464,8 +3164,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SEONI MALWA",
-    "MICR CODE": "461751501",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3482,8 +3180,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PAGDHAL",
-    "MICR CODE": "461751507",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3500,8 +3196,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HOSHANGABAD",
-    "MICR CODE": "461751510",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3518,8 +3212,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SANGAKHEDA KALAN",
-    "MICR CODE": "461751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3536,8 +3228,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIMURNI",
-    "MICR CODE": "461751503",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3554,8 +3244,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HOSHANGABAD",
-    "MICR CODE": "461751001",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3572,8 +3260,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MEHGWAN",
-    "MICR CODE": "461751506",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3590,8 +3276,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KHATEGAON",
-    "MICR CODE": "455751501",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3608,8 +3292,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DHAMNOD",
-    "MICR CODE": "454751201",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3626,8 +3308,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "UDA",
-    "MICR CODE": "461751509",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3644,8 +3324,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TAJPURA",
-    "MICR CODE": "461751508",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3662,8 +3340,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HARDA",
-    "MICR CODE": "461751101",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3680,8 +3356,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KHIRKIAN",
-    "MICR CODE": "461751504",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3698,8 +3372,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DHAR",
-    "MICR CODE": "454751001",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3716,8 +3388,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAJGARH",
-    "MICR CODE": "454751501",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3734,8 +3404,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MAKANI",
-    "MICR CODE": "456751101",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3752,8 +3420,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DHAR",
-    "MICR CODE": "454751502",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3770,8 +3436,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BADNAWAR",
-    "MICR CODE": "454751503",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3788,8 +3452,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SANWER",
-    "MICR CODE": "455751001",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3806,8 +3468,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TAKIPURA",
-    "MICR CODE": "452751001",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3824,8 +3484,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "INDORE",
-    "MICR CODE": "452751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3842,8 +3500,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Budhi Barlai",
-    "MICR CODE": "452751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3860,8 +3516,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "INDORE",
-    "MICR CODE": "452751004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3878,8 +3532,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "INDORE",
-    "MICR CODE": "452751006",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3896,8 +3548,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "INDORE",
-    "MICR CODE": "452751005",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3914,8 +3564,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MANDSAUR",
-    "MICR CODE": "458751001",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3932,8 +3580,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHHANERA",
-    "MICR CODE": "450751501",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3950,8 +3596,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KHANDWA",
-    "MICR CODE": "450751101",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3968,8 +3612,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PANDHANA",
-    "MICR CODE": "450751502",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -3986,8 +3628,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KHARGONE",
-    "MICR CODE": "451751501",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4004,8 +3644,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SANAWAD",
-    "MICR CODE": "451751201",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4022,8 +3660,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SIRLAI",
-    "MICR CODE": "451751503",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4040,8 +3676,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BHIKANGAON",
-    "MICR CODE": "451751502",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4058,8 +3692,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KHARGONE",
-    "MICR CODE": "451751001",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4076,8 +3708,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
-    "MICR CODE": "411751002",
-    "STD CODE": "20",
     "NEFT": true,
     "IMPS": true
   },
@@ -4094,8 +3724,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
-    "MICR CODE": "411751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4112,8 +3740,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
-    "MICR CODE": "411751004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4130,8 +3756,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
-    "MICR CODE": "411751007",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4148,8 +3772,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AUNDH",
-    "MICR CODE": "411751006",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4166,8 +3788,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PIMPRI",
-    "MICR CODE": "411751005",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4184,8 +3804,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
-    "MICR CODE": "411751008",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4202,8 +3820,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KALYANI NAGAR",
-    "MICR CODE": "411751009",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4220,8 +3836,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KARVE NAGAR",
-    "MICR CODE": "411751010",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4238,8 +3852,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
-    "MICR CODE": "411751016",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4256,8 +3868,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
-    "MICR CODE": "411751017",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4274,8 +3884,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
-    "MICR CODE": "411751011",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4292,8 +3900,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
-    "MICR CODE": "411751013",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4310,28 +3916,24 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
-    "MICR CODE": "411751012",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "IDFB0041375": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0041375",
-    "MICR CODE": "411751014",
     "BRANCH": "BANER BRANCH",
     "ADDRESS": "GROUND FLOOR, SHOP NO. 12&13, REGENT PLAZA, BANER PASHAN LINK ROAD, BANER, PUNE-411045, MAHARASHTRA, TOLL FREE NO. 18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "PUNE",
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
+    "MICR": "411751014",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0041376": {
     "IFSC": "IDFB0041376",
@@ -4346,28 +3948,24 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
-    "MICR CODE": "411751015",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "IDFB0041379": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0041379",
-    "MICR CODE": "411751018",
     "BRANCH": "PUNE - ├╜HINJEWADI BRANCH├╜",
     "ADDRESS": "GROUND FLOOR, SHOP NO.4 (35),BLUE RIDGE TOWN,RAJIV GANDHI INFOTECH PARK, NEXT TO AXIS BANK, HINJEWADI ,PUNE - 411057,TOLL FREE NO. 18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "PUNE├╜",
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
+    "MICR": "411751018",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0041381": {
     "IFSC": "IDFB0041381",
@@ -4382,8 +3980,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BHOPAL",
-    "MICR CODE": "462751001",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4400,28 +3996,24 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BHOPAL",
-    "MICR CODE": "462751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "IDFB0041386": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0041386",
-    "MICR CODE": "462751004",
     "BRANCH": "BHOPAL-KOLAR ROAD BRANCH",
     "ADDRESS": "GROUND FLOOR, BAPU KI KUTIA,SARVADHARMA COLONY,KOLAR ROAD,BHOPAL-462042, TOLL FREE NO.- 18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "BHOPAL├╜",
     "DISTRICT": "BHOPAL",
     "STATE": "MADHYA PRADESH",
+    "MICR": "462751004",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0041411": {
     "IFSC": "IDFB0041411",
@@ -4436,8 +4028,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KURAWAR",
-    "MICR CODE": "465751151",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4454,46 +4044,56 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BIAORA",
-    "MICR CODE": "465751001",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "IDFB0041431": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0041431",
-    "MICR CODE": "411751021",
     "BRANCH": "PUNE _x0013_ SWARGATE BRANCH",
     "ADDRESS": "GROUND FLOOR, UNIT NO. 2, AKRUTI CHAMBERS, NEAR LAXMI NARAYAN CHOWK, SWARGATE _x0013_ PUNE _x0013_ 411037 , TOLL FREE NO.- 18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "PUNE├╜",
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
+    "MICR": "411751021",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0041433": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0041433",
-    "MICR CODE": "411751019",
     "BRANCH": "PUNE - BALEWADI BRANCH",
     "ADDRESS": "GROUND FLOOR, ROYAL SPACE,109/4, 109/4/1, BALEWADI HIGH STREET ROAD, OPP. MYWORLD SOCIETY,BANER, PUNE, MAHARASHTRA- 411045, TOLL FREE NO.- 18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "PUNE├╜",
     "DISTRICT": "PUNE",
     "STATE": "MAHARASHTRA",
+    "MICR": "411751019",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
+  },
+  "IDFB0041434": {
+    "BANK": "IDFC FIRST BANK LTD",
+    "IFSC": "IDFB0041434",
+    "BRANCH": "PUNE - BHOSARI BRANCH",
+    "ADDRESS": "BABAR BUSINESS CENTRE, GROUND FLOOR,UNIT NO. 101-103, PIMPRI _x0013_ BHOSARI INDUSTRIAL AREA, BHOSARI-PUNE 411026,TOLL FREE NO-18004194332",
+    "CONTACT": null,
+    "CITY": "PUNE",
+    "DISTRICT": "PUNE",
+    "STATE": "MAHARASHTRA",
+    "MICR": "411751020",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
   },
   "IDFB0042101": {
     "IFSC": "IDFB0042101",
@@ -4508,8 +4108,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MANDIDEEP",
-    "MICR CODE": "462751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4526,8 +4124,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "UGARIYAWAS",
-    "MICR CODE": "303751027",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4544,8 +4140,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HARSOLI",
-    "MICR CODE": "303751026",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4562,8 +4156,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MANGARH KHOKHAWALA",
-    "MICR CODE": "303751028",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4580,8 +4172,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
-    "MICR CODE": "302751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4598,8 +4188,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SHAHPURA",
-    "MICR CODE": "303751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4616,8 +4204,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHOMU",
-    "MICR CODE": "303751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4634,8 +4220,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
-    "MICR CODE": "302751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4652,8 +4236,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
-    "MICR CODE": "302751004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4670,8 +4252,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAJA PARK",
-    "MICR CODE": "302751005",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4688,8 +4268,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
-    "MICR CODE": "302751006",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4706,8 +4284,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
-    "MICR CODE": "302751007",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4724,8 +4300,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "UJJAIN",
-    "MICR CODE": "456751001",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4742,8 +4316,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SEJAWATA",
-    "MICR CODE": "457751051",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4760,8 +4332,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NADIAD",
-    "MICR CODE": "387751001",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4778,8 +4348,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KATHWADA",
-    "MICR CODE": "380751019",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4796,8 +4364,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AJMER",
-    "MICR CODE": "305751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4814,8 +4380,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BIJAINAGAR",
-    "MICR CODE": "305751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4832,8 +4396,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KEKRI",
-    "MICR CODE": "305751004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4850,8 +4412,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BEAWAR",
-    "MICR CODE": "305751005",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4868,8 +4428,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RATLAM",
-    "MICR CODE": "457751001",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4886,8 +4444,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SIKAR",
-    "MICR CODE": "332751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4904,8 +4460,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SHRIMADHOPUR",
-    "MICR CODE": "332751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4922,8 +4476,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DIDWANA",
-    "MICR CODE": "341751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4940,8 +4492,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NEEM KA THANA",
-    "MICR CODE": "332751004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4958,8 +4508,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "FATEHPUR",
-    "MICR CODE": "332751005",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4976,8 +4524,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GODHRA",
-    "MICR CODE": "389751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -4994,8 +4540,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HALOL",
-    "MICR CODE": "389751041",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5012,8 +4556,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5030,8 +4572,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5048,28 +4588,24 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KAMREJ",
-    "MICR CODE": "395751004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "IDFB0042268": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0042268",
-    "MICR CODE": "395751006",
     "BRANCH": "SURAT VESU BRANCH",
     "ADDRESS": "GROUND FLOOR, SHOP NO. 10, WESTERN BUSINESS PARK OPP. S.D. JAIN SCHOOL, VESU CROSS ROAD, VESU, SURAT, GUJARAT - 395007, TOLL FREE NO. - 18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "SURAT",
     "DISTRICT": "SURAT",
     "STATE": "GUJARAT",
+    "MICR": "395751006",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0042269": {
     "IFSC": "IDFB0042269",
@@ -5084,8 +4620,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395751007",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5102,8 +4636,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KIM",
-    "MICR CODE": "395751005",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5120,8 +4652,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SACHIN",
-    "MICR CODE": "395751008",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5138,8 +4668,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NASHIK",
-    "MICR CODE": "422751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5156,8 +4684,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NASHIK",
-    "MICR CODE": "422751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5174,8 +4700,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JHUNJHUNU",
-    "MICR CODE": "333751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5192,8 +4716,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SINGHANA",
-    "MICR CODE": "333751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5210,8 +4732,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BHILWARA",
-    "MICR CODE": "311751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5228,8 +4748,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MANSA",
-    "MICR CODE": "382751141",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5246,8 +4764,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KALOL",
-    "MICR CODE": "380751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5264,8 +4780,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GANDHINAGAR",
-    "MICR CODE": "380751004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5282,8 +4796,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DAHEGAM",
-    "MICR CODE": "380751020",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5300,8 +4812,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PATAN",
-    "MICR CODE": "384751081",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5318,8 +4828,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VADODARA",
-    "MICR CODE": "390751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5336,8 +4844,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PADRA",
-    "MICR CODE": "390751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5354,8 +4860,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MAKARPURA",
-    "MICR CODE": "390751004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5372,8 +4876,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VADODARA",
-    "MICR CODE": "390751005",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5390,8 +4892,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VADODARA",
-    "MICR CODE": "390751006",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5408,8 +4908,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DABHOI",
-    "MICR CODE": "391751061",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5426,8 +4924,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PANJIM",
-    "MICR CODE": "403751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5444,9 +4940,23 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GOA",
-    "MICR CODE": "403751004",
-    "STD CODE": "0",
     "NEFT": true,
+    "IMPS": true
+  },
+  "IDFB0042403": {
+    "BANK": "IDFC FIRST BANK LTD",
+    "IFSC": "IDFB0042403",
+    "BRANCH": "GOA-MAPUSA BRANCH",
+    "ADDRESS": "GROUND FLOOR, SHOP NO. G4 AND G5, FORTUNE SQUARE, MOROD, NORTH GOA, MAPUSA, GOA-403507, TOLL FREE NO-18004194332",
+    "CONTACT": null,
+    "CITY": "NORTH GOA",
+    "DISTRICT": "GOA",
+    "STATE": "GOA",
+    "MICR": "403751005",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
     "IMPS": true
   },
   "IDFB0042405": {
@@ -5462,8 +4972,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GOA",
-    "MICR CODE": "403751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5480,28 +4988,24 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAJKOT",
-    "MICR CODE": "360751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "IDFB0042425": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0042425",
-    "MICR CODE": "360751003",
     "BRANCH": "RAJKOT _x0013_ BHAKTI NAGAR BRANCH",
     "ADDRESS": "GROUND FLOOR, SHOP NO. 1,2,3&4, ORBIT TRUMP,OPP. KANTA STRI VIKAS GRUH,DHEBAR ROAD, RAJKOT, GUJARAT- 360002,TOLL FREE NO. 18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "RAJKOT",
     "DISTRICT": "RAJKOT",
     "STATE": "GUJARAT",
+    "MICR": "360751003",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0042441": {
     "IFSC": "IDFB0042441",
@@ -5516,8 +5020,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VAPI",
-    "MICR CODE": "396751031",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5534,8 +5036,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KILLA PARDI",
-    "MICR CODE": "396751501",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5552,8 +5052,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ANKLESHWAR",
-    "MICR CODE": "393751051",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5570,8 +5068,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JODHPUR",
-    "MICR CODE": "342751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5588,8 +5084,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NANDRI",
-    "MICR CODE": "342751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5606,8 +5100,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGPUR",
-    "MICR CODE": "440751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5624,28 +5116,24 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGPUR",
-    "MICR CODE": "440751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "IDFB0042523": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0042523",
-    "MICR CODE": "416751002",
     "BRANCH": "KOLHAPUR BRANCH",
     "ADDRESS": "GROUND FLOOR, BUSINESS HUB, SYKES├╜ EXTENSION, KOLHAPUR-416001,TOLL FREE NO. 18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "KOLHAPUR",
     "DISTRICT": "KOLHAPUR",
     "STATE": "MAHARASHTRA",
+    "MICR": "416751002",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0042542": {
     "IFSC": "IDFB0042542",
@@ -5660,8 +5148,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOTA",
-    "MICR CODE": "324751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5678,8 +5164,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "FATEHNAGAR",
-    "MICR CODE": "313751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5695,83 +5179,73 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "UDAIPUR",
-    "MICR CODE": "313751004",
-    "STD CODE": "0",
+    "MICR": "313751004",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0042564": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0042564",
-    "MICR CODE": "313751005",
     "BRANCH": "UDAIPUR _x0013_ HIRAN MAGRI BRANCH",
     "ADDRESS": "GROUND &FIRST FLOOR, SUBASH VILLA, BUILDING NO.643, SECTOR-13,HIRAN MAGRI, UDAIPUR- 313001, TOLL FREE NO.- 18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "UDAIPUR├╜",
     "DISTRICT": "UDAIPUR",
     "STATE": "RAJASTHAN",
+    "MICR": "313751005",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0042622": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0042622",
-    "MICR CODE": "364751002",
     "BRANCH": "BHAVNAGAR BRANCH",
     "ADDRESS": "GROUND FLOOR, SHOP NO. 5,IMPERIAL ARC,OPP. UNIVERSITY GROUND , WAGHAWADI ROAD,BHAVNAGAR-364001,TOLL FREE NO. 18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "BHAVNAGAR",
     "DISTRICT": "BHAVNAGAR",
     "STATE": "GUJARAT",
+    "MICR": "364751002",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0042642": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0042642",
-    "MICR CODE": "361751002",
     "BRANCH": "JAMNAGAR BRANCH├╜",
     "ADDRESS": "GF- SHOPNO.2, FIRST FLOOR- SHOP NO.102,ANAND 2, OPP. ST. ANNS HIGH SCHOOL, PARK COLONY, JAMNAGAR-361008,TOLL FREE NO. 18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "JAMNAGAR├╜",
     "DISTRICT": "JAMNAGAR",
     "STATE": "GUJARAT",
+    "MICR": "361751002",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0042662": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0042662",
-    "MICR CODE": "416751151",
     "BRANCH": "SANGLI BRANCH├╜",
     "ADDRESS": "GROUND FLOOR, UNIT 1,2,3 &11, SWADESHI HEIGHTS, SANGLI-MIRAJ ROAD, VIJAY NAGAR , NEAR VISHRAMBAAG, SANGLI, MAHARASHTRA- 416416,TOLL FREE NO. 18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "SANGLI├╜",
     "DISTRICT": "SANGLI",
     "STATE": "MAHARASHTRA",
+    "MICR": "416751151",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0042701": {
     "IFSC": "IDFB0042701",
@@ -5786,8 +5260,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BARWANI",
-    "MICR CODE": "451751051",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5804,8 +5276,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AKODIA",
-    "MICR CODE": "465751502",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5822,8 +5292,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AGAR MALWA",
-    "MICR CODE": "465751501",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5840,8 +5308,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MODASA",
-    "MICR CODE": "383751051",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5858,8 +5324,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAJSAMAND",
-    "MICR CODE": "313751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5876,8 +5340,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "LUNAWADA",
-    "MICR CODE": "389751061",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5894,8 +5356,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHITTORGARH",
-    "MICR CODE": "312751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5912,8 +5372,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VYARA",
-    "MICR CODE": "394751071",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5930,8 +5388,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHHINDWARA",
-    "MICR CODE": "480751001",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5948,8 +5404,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MAHASAMUND",
-    "MICR CODE": "493751101",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -5966,28 +5420,40 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BASNA",
-    "MICR CODE": "493751501",
-    "STD CODE": "0",
     "NEFT": true,
+    "IMPS": true
+  },
+  "IDFB0042923": {
+    "BANK": "IDFC FIRST BANK LTD",
+    "IFSC": "IDFB0042923",
+    "BRANCH": "SOLAPUR BRANCH",
+    "ADDRESS": "GROUND FLOOR, 560/61, SOUTH SADAR BAZAR, SOLAPUR, MAHARASHTRA-413003, TOLL FREE NO-18004194332",
+    "CONTACT": null,
+    "CITY": "SOLAPUR",
+    "DISTRICT": "SOLAPUR",
+    "STATE": "MAHARASHTRA",
+    "MICR": "413751002",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
     "IMPS": true
   },
   "IDFB0042963": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0042963",
-    "MICR CODE": "414751001",
     "BRANCH": "AHMEDNAGAR BRANCH",
     "ADDRESS": "GROUND FLOOR, PLOT NO. 101/81, NEXT TO S.G KAIGAONKAR JEWELERS , SAVEDI ROAD , AHMEDNAGAR, MAHARASHTRA _x0013_ 414001,TOLL FREE NO. 18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "AHMADNAGAR",
     "DISTRICT": "AHMEDNAGAR",
     "STATE": "MAHARASHTRA",
+    "MICR": "414751001",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0042983": {
     "IFSC": "IDFB0042983",
@@ -6002,8 +5468,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BEHROR ",
-    "MICR CODE": "301751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6019,11 +5483,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SUJANGARH",
-    "MICR CODE": "331751002",
-    "STD CODE": "0",
+    "MICR": "331751002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0043021": {
     "IFSC": "IDFB0043021",
@@ -6038,8 +5500,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BETUL",
-    "MICR CODE": "460751001",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6056,8 +5516,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JAITARAN",
-    "MICR CODE": "306751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6074,8 +5532,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SOJAT",
-    "MICR CODE": "306751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6092,8 +5548,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SUMERPUR",
-    "MICR CODE": "306751004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6110,8 +5564,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PALI",
-    "MICR CODE": "306751005",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6128,8 +5580,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NEEMUCH",
-    "MICR CODE": "458751051",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6146,8 +5596,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BURHANPUR",
-    "MICR CODE": "450751001",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6164,8 +5612,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SEHORE",
-    "MICR CODE": "466751051",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6182,8 +5628,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BILIMORA",
-    "MICR CODE": "396751091",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6200,8 +5644,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JALORE",
-    "MICR CODE": "343751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6218,8 +5660,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BALOTRA",
-    "MICR CODE": "344751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6236,8 +5676,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BODELI",
-    "MICR CODE": "391751081",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6254,8 +5692,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAJPIPLA",
-    "MICR CODE": "393751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6272,8 +5708,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MERTA CITY",
-    "MICR CODE": "341751004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6290,8 +5724,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KUCHAMAN CITY",
-    "MICR CODE": "341751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6308,8 +5740,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGDA",
-    "MICR CODE": "456751102",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6326,8 +5756,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DHRANGADHRA",
-    "MICR CODE": "363751051",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6344,8 +5772,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
-    "MICR CODE": "302751008",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6362,8 +5788,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
-    "MICR CODE": "700751002",
-    "STD CODE": "33",
     "NEFT": true,
     "IMPS": true
   },
@@ -6380,8 +5804,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SALT LAKE- KOLKATA",
-    "MICR CODE": "700751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6398,8 +5820,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
-    "MICR CODE": "700751004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6416,8 +5836,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
-    "MICR CODE": "700751008",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6433,11 +5851,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
-    "MICR CODE": "700751007",
-    "STD CODE": "0",
+    "MICR": "700751007",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0060114": {
     "IFSC": "IDFB0060114",
@@ -6452,46 +5868,40 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
-    "MICR CODE": "700751005",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "IDFB0060115": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0060115",
-    "MICR CODE": "700751011",
     "BRANCH": "KOLKATA-NEW ALIPORE BRANCH",
     "ADDRESS": "GROUND FLOOR, H/18,NALINI RANJAN AVENUE, NEW ALIPORE,KOLKATTA - 700053, TOLL FREE NO.- 18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "KOLKATA",
     "DISTRICT": "KOLKATA",
     "STATE": "WEST BENGAL",
+    "MICR": "700751011",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0060117": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0060117",
-    "MICR CODE": "700751010",
     "BRANCH": "KOLKATA-SARAT BOSE ROAD BRANCH",
     "ADDRESS": "GROUND FLOOR, 81 B ,├╜ SARAT ├╜BOSE ROAD,MERLIN TULIP,KOLKATA- 700020,TOLL FREE NO. 18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "KOLKATA",
     "DISTRICT": "KOLKATA",
     "STATE": "WEST BENGAL",
+    "MICR": "700751010",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0060119": {
     "IFSC": "IDFB0060119",
@@ -6506,8 +5916,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
-    "MICR CODE": "700751009",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6524,8 +5932,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SHILLONG",
-    "MICR CODE": "793751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6542,8 +5948,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AGARTALA",
-    "MICR CODE": "799751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6560,8 +5964,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BHUBANESWAR",
-    "MICR CODE": "751751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6578,8 +5980,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GUWAHATI",
-    "MICR CODE": "781751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6596,8 +5996,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BORING ROAD",
-    "MICR CODE": "800751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6614,9 +6012,39 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PATNA",
-    "MICR CODE": "800751003",
-    "STD CODE": "0",
     "NEFT": true,
+    "IMPS": true
+  },
+  "IDFB0060283": {
+    "BANK": "IDFC FIRST BANK LTD",
+    "IFSC": "IDFB0060283",
+    "BRANCH": "PATNA EXHIBITION ROAD BRANCH",
+    "ADDRESS": "GROUND FLOOR, SAHI BUILDING, MOHALLA EXHIBITION ROAD, GANDHI MAIDAN, PATNA- 800001, TOLL FREE NO.- 18004194332",
+    "CONTACT": null,
+    "CITY": "PATNA",
+    "DISTRICT": "PATNA",
+    "STATE": "BIHAR",
+    "MICR": "800751005",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true
+  },
+  "IDFB0060284": {
+    "BANK": "IDFC FIRST BANK LTD",
+    "IFSC": "IDFB0060284",
+    "BRANCH": "PATNA-ASHIANA DIGHA ROAD BRANCH",
+    "ADDRESS": "GROUND FLOOR, RAKHI COMPLEX, ASHIANA DIGHA ROAD, PATNA, BIHAR-800014, TOLL FREE NO-18004194332",
+    "CONTACT": null,
+    "CITY": "PATNA",
+    "DISTRICT": "PATNA",
+    "STATE": "BIHAR",
+    "MICR": "800751004",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
     "IMPS": true
   },
   "IDFB0060301": {
@@ -6632,8 +6060,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAIPUR",
-    "MICR CODE": "492751001",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6650,46 +6076,40 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "LALPUR",
-    "MICR CODE": "492751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "IDFB0060304": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0060304",
-    "MICR CODE": "492751004",
     "BRANCH": "RAIPUR-G. E ROAD BRANCH",
     "ADDRESS": "UPPER GROUND &1ST├╜FLOOR, SUNITA TOWER, G.E ROAD, OPPOSITE RAJKUMAR COLLEGE, RAIPUR - 492001,TOLL FREE NO. 18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "RAIPUR",
     "DISTRICT": "RAIPUR",
     "STATE": "CHHATTISGARH",
+    "MICR": "492751004",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0060305": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0060305",
-    "MICR CODE": "492751003",
     "BRANCH": "RAIPUR-TAGORE NAGAR BRANCH",
     "ADDRESS": "BLOCK B-2 LEFT WING, PUJARI CHAMBERS, PANCHPEDI NAKA, RAIPUR (C.G.), 492001, TOLL FREE NO.- 18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "RAIPUR",
     "DISTRICT": "RAIPUR",
     "STATE": "CHHATTISGARH",
+    "MICR": "492751003",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0060321": {
     "IFSC": "IDFB0060321",
@@ -6704,8 +6124,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VARANASI",
-    "MICR CODE": "221751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6722,8 +6140,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RANCHI",
-    "MICR CODE": "834751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6740,8 +6156,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RANCHI",
-    "MICR CODE": "834751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6757,11 +6171,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CUTTACK",
-    "MICR CODE": "753751003",
-    "STD CODE": "0",
+    "MICR": "753751003",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0060364": {
     "IFSC": "IDFB0060364",
@@ -6776,8 +6188,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PENDRA ROAD",
-    "MICR CODE": "495751501",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6794,8 +6204,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RATANPUR",
-    "MICR CODE": "495751502",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6812,28 +6220,24 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHOUDWAR",
-    "MICR CODE": "754751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "IDFB0060367": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0060367",
-    "MICR CODE": "495751002",
     "BRANCH": "BILASPUR BRANCH",
     "ADDRESS": "GROUND FLOOR, SHOP NO. 1&2,RAMA PORT,VYPAR ├╜VIHAR , BESIDE GHANSHYAM CHAMBERS, KRANTI ├╜NAGAR, BILASPUR, CHHATTISGARH - 495001,TOLL FREE NO. 18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "BILASPUR",
     "DISTRICT": "BILASPUR",
     "STATE": "CHHATTISGARH",
+    "MICR": "495751002",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0060402": {
     "IFSC": "IDFB0060402",
@@ -6848,8 +6252,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JAMSHEDPUR",
-    "MICR CODE": "831751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6866,8 +6268,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BHATAPARA",
-    "MICR CODE": "493751201",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6884,8 +6284,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DHAMTARI",
-    "MICR CODE": "493751001",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6902,8 +6300,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAIGARH",
-    "MICR CODE": "496751001",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6920,8 +6316,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KHARSIA",
-    "MICR CODE": "496751501",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6938,8 +6332,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHAMPA",
-    "MICR CODE": "495751001",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6956,8 +6348,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAJNANDGAON",
-    "MICR CODE": "491751101",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -6974,28 +6364,24 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "UTAI",
-    "MICR CODE": "491751501",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "IDFB0060562": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0060562",
-    "MICR CODE": "490751001",
     "BRANCH": "BHILAI BRANCH├╜",
     "ADDRESS": "GROUND FLOOR, SHOP NO. 82-83,COMMERCIAL COMPLEX,NEHRU ├╜NAGAR (EAST),BHILAI, CHHATTISGARH - 490020,TOLL FREE NO. 18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "DURG├╜",
     "DISTRICT": "BHILAI",
     "STATE": "CHHATTISGARH",
+    "MICR": "490751001",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0060581": {
     "IFSC": "IDFB0060581",
@@ -7010,8 +6396,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAJIM",
-    "MICR CODE": "492751501",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7028,8 +6412,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KHORDHA",
-    "MICR CODE": "752751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7046,8 +6428,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAYAGARH",
-    "MICR CODE": "752751103",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7064,8 +6444,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHANDANPUR",
-    "MICR CODE": "752751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7082,28 +6460,24 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JAJPUR",
-    "MICR CODE": "755751102",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "IDFB0060701": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0060701",
-    "MICR CODE": "759751002",
     "BRANCH": "DHENKENAL BRANCH",
     "ADDRESS": "GORUND FLOOR, PLOT NO. 1630/6705 & 1631/6706, NUASASAN CHOWK, DISTRICT DHENKENA-759001 TOLL FREE NO 18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "DHENKANAL",
     "DISTRICT": "DHENKENAL",
     "STATE": "ODISHA",
+    "MICR": "759751002",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0060721": {
     "IFSC": "IDFB0060721",
@@ -7118,8 +6492,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KENDUJHAR",
-    "MICR CODE": "758751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7136,8 +6508,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HINJILICUT",
-    "MICR CODE": "761751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7154,8 +6524,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PATHALGAON",
-    "MICR CODE": "496751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7172,8 +6540,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BHADRAK",
-    "MICR CODE": "756751102",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7190,8 +6556,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BALOD ",
-    "MICR CODE": "491751502",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7208,28 +6572,24 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MANENDRAGARH ",
-    "MICR CODE": "497751101",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "IDFB0060861": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0060861",
-    "MICR CODE": "797751002",
     "BRANCH": "DIMAPUR-CHURCH ROAD BRANCH",
     "ADDRESS": "GROUND FLOOR, CHURCH ROAD, MAIN MARKET , DIMAPUR, NAGALAND- 797112 , TOLL FREE NO.- 18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "DIMAPUR",
     "DISTRICT": "DIMAPUR",
     "STATE": "NAGALAND",
+    "MICR": "797751002",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0060881": {
     "IFSC": "IDFB0060881",
@@ -7244,8 +6604,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "REMUNA",
-    "MICR CODE": "756751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7262,8 +6620,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600751001",
-    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true
   },
@@ -7280,8 +6636,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600751002",
-    "STD CODE": "44",
     "NEFT": true,
     "IMPS": true
   },
@@ -7298,8 +6652,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RA PURAM",
-    "MICR CODE": "600751004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7316,8 +6668,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600751005",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7334,8 +6684,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ADYAR",
-    "MICR CODE": "600751006",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7352,8 +6700,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ANNA NAGAR",
-    "MICR CODE": "600751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7370,8 +6716,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "EGATTUR",
-    "MICR CODE": "600751008",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7388,8 +6732,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "T NAGAR",
-    "MICR CODE": "600751007",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7406,8 +6748,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600751010",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7424,8 +6764,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600751009",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7442,8 +6780,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600751011",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7460,8 +6796,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600751013",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7478,8 +6812,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600751012",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7496,8 +6828,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600751019",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7514,8 +6844,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600751016",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7532,28 +6860,24 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600751020",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "IDFB0080128": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0080128",
-    "MICR CODE": "600751025",
     "BRANCH": "CHENNAI-TEYNAMPET BRANCH",
     "ADDRESS": "GROUND FLOOR, NEW NO.67, OLD NO.32, KAVIGNAR,BHARATHIDASAN ROAD, TEYNAMPET, CHENNAI, AMIL NADU- 600018, TOLL FREE NO.- 18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "CHENNAI",
     "DISTRICT": "CHENNAI",
     "STATE": "TAMIL NADU",
+    "MICR": "600751025",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0080131": {
     "IFSC": "IDFB0080131",
@@ -7568,8 +6892,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600751015",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7586,8 +6908,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600751021",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7604,8 +6924,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600751022",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7622,8 +6940,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUDUCHERRY",
-    "MICR CODE": "605751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7640,8 +6956,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600751017",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7658,8 +6972,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600751018",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7676,8 +6988,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600751023",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7694,8 +7004,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600751026",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7712,8 +7020,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600751024",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7730,8 +7036,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "560751002",
-    "STD CODE": "80",
     "NEFT": true,
     "IMPS": true
   },
@@ -7748,8 +7052,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KORAMANGALA",
-    "MICR CODE": "560751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7766,8 +7068,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "WHITEFIELD",
-    "MICR CODE": "560751005",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7784,8 +7084,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MALLESWARAM",
-    "MICR CODE": "560751007",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7802,8 +7100,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "INDIRANAGAR",
-    "MICR CODE": "560751006",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7820,8 +7116,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JAYANAGAR",
-    "MICR CODE": "560751004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7838,8 +7132,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KAMMANAHALLI",
-    "MICR CODE": "560751008",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7856,8 +7148,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SARJAPURA ROAD",
-    "MICR CODE": "560751009",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7874,8 +7164,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "560751010",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7892,8 +7180,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "560751015",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7910,8 +7196,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAJAJINAGAR",
-    "MICR CODE": "560751012",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7928,8 +7212,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "560751011",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7946,8 +7228,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "560751013",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7964,8 +7244,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "560751014",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -7982,8 +7260,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "560751016",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8000,8 +7276,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "560751017",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8018,8 +7292,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "560751018",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8036,8 +7308,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "560751019",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8054,8 +7324,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "560751021",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8072,8 +7340,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "560751020",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8090,8 +7356,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "560751022",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8108,8 +7372,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "560751023",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8126,8 +7388,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "560751028",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8144,8 +7404,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "560751024",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8162,8 +7420,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "560751029",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8180,8 +7436,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "560751026",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8198,8 +7452,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "560751025",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8216,8 +7468,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "560751027",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8234,8 +7484,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "560751030",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8252,8 +7500,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
-    "MICR CODE": "500751002",
-    "STD CODE": "40",
     "NEFT": true,
     "IMPS": true
   },
@@ -8270,8 +7516,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
-    "MICR CODE": "500751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8288,8 +7532,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PARADISE SECUNDERABAD",
-    "MICR CODE": "500751004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8306,8 +7548,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SOMAJIGUDA",
-    "MICR CODE": "500751005",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8324,28 +7564,24 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GACHIBOWLI",
-    "MICR CODE": "500751006",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "IDFB0080215": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0080215",
-    "MICR CODE": "500751011",
     "BRANCH": "HYDERABAD KUKATPALLY BRANCH",
     "ADDRESS": "PLOT NO. 21&22, SR ESTATES, A S RAJU NAGARKUKATPALLY MAIN ROAD, BALANAGAR MANDALSTATE - TELANGANA- 500072, TOLL FREE NO. - 18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "HYDERABAD",
     "DISTRICT": "HYDERABAD",
     "STATE": "TELANGANA",
+    "MICR": "500751011",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0080219": {
     "IFSC": "IDFB0080219",
@@ -8360,8 +7596,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
-    "MICR CODE": "500751009",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8378,8 +7612,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
-    "MICR CODE": "500751010",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8396,8 +7628,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
-    "MICR CODE": "500751008",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8414,28 +7644,24 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
-    "MICR CODE": "500751007",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "IDFB0080225": {
     "BANK": "IDFC FIRST BANK LTD",
     "IFSC": "IDFB0080225",
-    "MICR CODE": "500751013",
     "BRANCH": "HYDERABAD-S.R.NAGAR BRANCH",
     "ADDRESS": "GROUND FLOOR,DOOR NO.7-1-621/93, SANEEVA REDDY NAGAR MAIN ROAD, HYDERABAD-TELANGANA-500038, TOLL FREENO.-18004194332",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "HYDERABAD",
     "DISTRICT": "HYDERABAD",
     "STATE": "TELANGANA",
+    "MICR": "500751013",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "IDFB0080228": {
     "IFSC": "IDFB0080228",
@@ -8450,9 +7676,23 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
-    "MICR CODE": "500751012",
-    "STD CODE": "0",
     "NEFT": true,
+    "IMPS": true
+  },
+  "IDFB0080229": {
+    "BANK": "IDFC FIRST BANK LTD",
+    "IFSC": "IDFB0080229",
+    "BRANCH": "HYDERABAD - JNTU BRANCH",
+    "ADDRESS": "UNIT NO G 7, GROUND FLOOR, MANJEERA MAJESTIC COMMERCIAL, JNTU HI- TECH CITY ROAD, PLOT NO. 15-31-S3/MMC, KPHB- JNTU ROAD, HYDERABAD- 500072, TELANGANA, TOLLFREE NO. 18004194332",
+    "CONTACT": null,
+    "CITY": "RANGAREDDY",
+    "DISTRICT": "HYDERABAD",
+    "STATE": "TELANGANA",
+    "MICR": "500751014",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
     "IMPS": true
   },
   "IDFB0080251": {
@@ -8468,8 +7708,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHIKKODI",
-    "MICR CODE": "591751202",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8486,8 +7724,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GOKAK",
-    "MICR CODE": "591751502",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8504,8 +7740,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HONAGA",
-    "MICR CODE": "590751501",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8522,8 +7756,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAMDURGA",
-    "MICR CODE": "591751052",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8540,8 +7772,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUCHANDI",
-    "MICR CODE": "590751502",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8558,8 +7788,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BELGAUM",
-    "MICR CODE": "590751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8576,8 +7804,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ATHANI",
-    "MICR CODE": "591751402",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8594,8 +7820,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BAILHONGAL",
-    "MICR CODE": "590751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8612,8 +7836,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUBBALLI",
-    "MICR CODE": "580751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8630,8 +7852,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BETADUR",
-    "MICR CODE": "580751501",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8648,8 +7868,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DHARWAD",
-    "MICR CODE": "580751302",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8666,8 +7884,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HAVERI",
-    "MICR CODE": "581751052",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8684,8 +7900,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MAKARAVALI",
-    "MICR CODE": "581751501",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8702,8 +7916,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SHIGGAON",
-    "MICR CODE": "581751502",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8720,8 +7932,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RANEBENNUR",
-    "MICR CODE": "581751102",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8738,8 +7948,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JAMKHANDI",
-    "MICR CODE": "587751302",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8756,8 +7964,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUDHOL",
-    "MICR CODE": "587751102",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8774,8 +7980,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HOSUR",
-    "MICR CODE": "587751103",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8792,8 +7996,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANHATTI",
-    "MICR CODE": "587751352",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8810,8 +8012,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BILAGI",
-    "MICR CODE": "587751104",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8828,8 +8028,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOPPAL",
-    "MICR CODE": "583751402",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8846,8 +8044,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GANGAWATI",
-    "MICR CODE": "583751302",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8864,8 +8060,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KUSHTAGI",
-    "MICR CODE": "583751403",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8882,8 +8076,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KARATAGI",
-    "MICR CODE": "583751404",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8900,8 +8092,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GUNTUR",
-    "MICR CODE": "520751102",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8918,8 +8108,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHILAKALURIPET",
-    "MICR CODE": "522751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8936,8 +8124,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MANGALAGIRI",
-    "MICR CODE": "522751004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8954,8 +8140,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NARASARAOPET",
-    "MICR CODE": "522751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8972,8 +8156,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VIJAYWADA",
-    "MICR CODE": "520751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -8990,8 +8172,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VIJAYAWADA GAYATRI",
-    "MICR CODE": "520751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9008,8 +8188,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HANUMAN JUNCTION",
-    "MICR CODE": "521751005",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9026,8 +8204,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JAGGAYAPET",
-    "MICR CODE": "521751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9044,8 +8220,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MACHILIPATNAM",
-    "MICR CODE": "521751006",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9062,8 +8236,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAJAHMUNDRY",
-    "MICR CODE": "533751102",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9080,8 +8252,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JANGAREDDY GUDEM",
-    "MICR CODE": "534751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9098,8 +8268,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VIZAG",
-    "MICR CODE": "530751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9116,8 +8284,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VISAKHAPATNAM",
-    "MICR CODE": "530751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9134,8 +8300,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DAVANGERE",
-    "MICR CODE": "577751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9152,8 +8316,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHANNAGIRI",
-    "MICR CODE": "577751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9170,8 +8332,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Honalli",
-    "MICR CODE": "577751004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9188,8 +8348,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUCHIRAPPALLI",
-    "MICR CODE": "620751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9206,8 +8364,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SHIMOGA",
-    "MICR CODE": "577751202",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9224,8 +8380,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SHIKARIPURA",
-    "MICR CODE": "577751203",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9242,8 +8396,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SAGARA",
-    "MICR CODE": "577751402",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9260,8 +8412,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HUVINAHADAGALI",
-    "MICR CODE": "583751102",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9278,8 +8428,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOTTURU",
-    "MICR CODE": "583751103",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9296,8 +8444,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ERNAKULAM",
-    "MICR CODE": "682751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9314,8 +8460,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "COCHIN",
-    "MICR CODE": "682751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9332,8 +8476,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
-    "MICR CODE": "641751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9350,8 +8492,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MADURAI",
-    "MICR CODE": "625751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9368,8 +8508,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MYSURU",
-    "MICR CODE": "570751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9386,8 +8524,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SALEM",
-    "MICR CODE": "636751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9404,8 +8540,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MANGALURU",
-    "MICR CODE": "575751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9422,8 +8556,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VELLORE",
-    "MICR CODE": "632751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9440,8 +8572,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THIRUVANANTHAPURAM",
-    "MICR CODE": "695751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9458,8 +8588,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THRISSUR",
-    "MICR CODE": "680751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9476,8 +8604,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ERODE",
-    "MICR CODE": "638751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9494,8 +8620,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SANKESHWAR",
-    "MICR CODE": "590751004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9512,8 +8636,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BASAVANA BAGEWADI",
-    "MICR CODE": "586751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9530,8 +8652,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUNDARGI",
-    "MICR CODE": "582751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9548,8 +8668,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GADAG",
-    "MICR CODE": "582751003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9566,8 +8684,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "WARANGAL",
-    "MICR CODE": "506751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9584,8 +8700,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENGALPATTU",
-    "MICR CODE": "600751014",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9602,8 +8716,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOZHIKODE",
-    "MICR CODE": "673751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9620,8 +8732,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHIKMAGALUR",
-    "MICR CODE": "577751102",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9638,8 +8748,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KADUR",
-    "MICR CODE": "577751103",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9656,8 +8764,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TARIKERE",
-    "MICR CODE": "577751104",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9674,8 +8780,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SIRSI",
-    "MICR CODE": "581751402",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9692,8 +8796,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HOSADURGA",
-    "MICR CODE": "577751502",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9710,8 +8812,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHITRADURGA",
-    "MICR CODE": "577751503",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9728,8 +8828,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HIRIYUR",
-    "MICR CODE": "577751504",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9746,8 +8844,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GUDIVADA",
-    "MICR CODE": "521751002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9764,8 +8860,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NUZVID",
-    "MICR CODE": "521751004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -9782,9 +8876,23 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GOLLAPUDI",
-    "MICR CODE": "521751007",
-    "STD CODE": "0",
     "NEFT": true,
+    "IMPS": true
+  },
+  "IDFB0081036": {
+    "BANK": "IDFC FIRST BANK LTD",
+    "IFSC": "IDFB0081036",
+    "BRANCH": "KAKINADA BRANCH",
+    "ADDRESS": "GROUND FLOOR, DOOR NO-5-1-42, BESIDE II TOWN POLICE STATION, MAIN ROAD,KAKINADA, ANDHRA PRADESH - 533001, TOLLFREE NO. 18004194332",
+    "CONTACT": null,
+    "CITY": "EAST GODAVARI",
+    "DISTRICT": "KAKINADA",
+    "STATE": "ANDHRA PRADESH",
+    "MICR": "533751002",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
     "IMPS": true
   }
 }

@@ -11,11 +11,9 @@
     "IMPS": true,
     "CITY": "MUMBAI",
     "UPI": true,
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "RTGS": false,
-    "MICR": null
+    "RTGS": false
   },
   "DEUT0273PBC": {
     "IFSC": "DEUT0273PBC",
@@ -30,8 +28,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLHAPUR",
-    "MICR CODE": "416200002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -48,8 +44,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AURANGABAD",
-    "MICR CODE": "431200003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -66,8 +60,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NOIDA",
-    "MICR CODE": "110200003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -84,8 +76,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GURGAON",
-    "MICR CODE": "110200004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -102,8 +92,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VELLORE",
-    "MICR CODE": "632200002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -120,8 +108,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SALEM",
-    "MICR CODE": "636200002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -138,8 +124,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MORADABAD",
-    "MICR CODE": "244200002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -156,46 +140,40 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "LUDHIANA",
-    "MICR CODE": "141200002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
   "DEUT0405PBC": {
     "BANK": "DEUSTCHE BANK",
     "IFSC": "DEUT0405PBC",
-    "MICR CODE": "395200002",
     "BRANCH": "SURAT",
     "ADDRESS": "124, RAJMAL LAKHICHAND BUILDING, GHOD DOD ROAD, SURAT - 395007",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "SURAT",
     "DISTRICT": "SURAT",
     "STATE": "GUJARAT",
+    "MICR": "395200002",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "DEUT0406AMD": {
     "BANK": "DEUSTCHE BANK",
     "IFSC": "DEUT0406AMD",
-    "MICR CODE": "380200002",
     "BRANCH": "AHMEDABAD",
     "ADDRESS": "637, GULBAI TEKRA OPP. CII HOUSE, NEAR PANCHVATI CROSSROADS, AHMEDABAD - 380006",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "AHMEDABAD",
     "DISTRICT": "AHMEDABAD",
     "STATE": "GUJARAT",
+    "MICR": "380200002",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "DEUT0406PBC": {
     "IFSC": "DEUT0406PBC",
@@ -210,8 +188,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
-    "MICR CODE": "380200002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -228,8 +204,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
-    "MICR CODE": "411200002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -246,8 +220,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400200002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -263,83 +235,73 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400200002",
-    "STD CODE": "0",
+    "MICR": "400200002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "DEUT0784DSO": {
     "BANK": "DEUSTCHE BANK",
     "IFSC": "DEUT0784DSO",
-    "MICR CODE": "NA",
     "BRANCH": "MUMBAI  DEBT MARKET BRANCH",
     "ADDRESS": "222, KODAK HOUSE, DR. D.N. ROAD, FORT, MUMBAI - 400 001.",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
     "STATE": "MAHARASHTRA",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "DEUT0784MMT": {
     "BANK": "DEUSTCHE BANK",
     "IFSC": "DEUT0784MMT",
-    "MICR CODE": "NA",
     "BRANCH": "MUMBAI  MONEY MARKET BRANCH",
     "ADDRESS": "222, KODAK HOUSE, DR. D.N. ROAD, FORT, MUMBAI - 400 001.",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
     "STATE": "MAHARASHTRA",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "DEUT0784OPT": {
     "BANK": "DEUSTCHE BANK",
     "IFSC": "DEUT0784OPT",
-    "MICR CODE": "NA",
     "BRANCH": "MUMBAI  OPTIONS BRANCH",
     "ADDRESS": "222, KODAK HOUSE, DR. D.N. ROAD, FORT, MUMBAI - 400 001.",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
     "STATE": "MAHARASHTRA",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "DEUT0784OTC": {
     "BANK": "DEUSTCHE BANK",
     "IFSC": "DEUT0784OTC",
-    "MICR CODE": "NA",
     "BRANCH": "MUMBAI  DERIVATIVES BRANCH",
     "ADDRESS": "222, KODAK HOUSE, DR. D.N. ROAD, FORT, MUMBAI - 400 001.",
-    "STD CODE": "0",
     "CONTACT": null,
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
     "STATE": "MAHARASHTRA",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "DEUT0784PBC": {
     "IFSC": "DEUT0784PBC",
@@ -354,8 +316,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400200003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -371,11 +331,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400200002",
-    "STD CODE": "0",
+    "MICR": "400200002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "DEUT0784TRY": {
     "IFSC": "DEUT0784TRY",
@@ -406,8 +364,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
-    "MICR CODE": "110200002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -423,11 +379,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
-    "MICR CODE": "110200002",
-    "STD CODE": "0",
+    "MICR": "110200002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "DEUT0797BGL": {
     "IFSC": "DEUT0797BGL",
@@ -442,8 +396,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "560200002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -459,11 +411,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "560200002",
-    "STD CODE": "0",
+    "MICR": "560200002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "DEUT0916CNN": {
     "IFSC": "DEUT0916CNN",
@@ -478,8 +428,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600200002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -495,11 +443,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600200002",
-    "STD CODE": "0",
+    "MICR": "600200002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "DEUT0917CAL": {
     "IFSC": "DEUT0917CAL",
@@ -514,8 +460,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
-    "MICR CODE": "700200002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -531,10 +475,8 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
-    "MICR CODE": "700200002",
-    "STD CODE": "0",
+    "MICR": "700200002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   }
 }

@@ -12,7 +12,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "BELLARY",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true
   },
   "SUSB0000002": {
@@ -28,7 +28,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SINDHANUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true
   },
   "SUSB0000003": {
@@ -44,7 +44,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "GANGAVATHI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true
   },
   "SUSB0000004": {
@@ -60,7 +60,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "RAICHUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true
   },
   "SUSB0000005": {
@@ -76,7 +76,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KOPPAL",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true
   },
   "SUSB0000006": {
@@ -91,9 +91,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "BELLARY",
-    "NEFT": false,
-    "IMPS": true,
-    "MICR": null
+    "MICR": "NA",
+    "NEFT": true,
+    "IMPS": true
   },
   "SUSB0000007": {
     "IFSC": "SUSB0000007",
@@ -108,7 +108,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "HOSPET",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true
   },
   "SUSB0000008": {
@@ -124,7 +124,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "HUBLI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true
   },
   "SUSB0000010": {
@@ -140,7 +140,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "ROYAL CIRCLE BRANCH BELLARY",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true
   },
   "SUSB0000011": {
@@ -156,7 +156,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SIRUGUPPA",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true
   },
   "SUSB0000012": {
@@ -172,7 +172,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "VASAVI NAGAR RAICHUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true
   },
   "SUSB0000013": {
@@ -188,7 +188,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "LINGASUGUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true
   },
   "SUSB0000014": {
@@ -204,7 +204,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "YADGIRI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true
   },
   "SUSB0000015": {
@@ -220,7 +220,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KESHWAPUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true
   },
   "SUSB0000016": {
@@ -236,7 +236,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "CHITRADURGA",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true
   },
   "SUSB0000017": {
@@ -252,7 +252,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "CHALLAKERE",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true
   },
   "SUSB0000018": {
@@ -268,7 +268,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SHAHAPUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true
   },
   "SUSB0000019": {
@@ -284,7 +284,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MANVI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true
   },
   "SUSB0000020": {
@@ -300,7 +300,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "DHARWAD",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true
   },
   "SUSB0000021": {
@@ -316,7 +316,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MASKI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true
   },
   "SUSB0000022": {
@@ -332,7 +332,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "DAVANAGERE",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true
   },
   "SUSB0000023": {
@@ -348,7 +348,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "CHANNAGIRI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true
   },
   "SUSB0000024": {
@@ -364,7 +364,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KUDLIGI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true
   },
   "SUSB0000025": {
@@ -380,7 +380,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MUNDARAGI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true
   },
   "SUSB0000026": {
@@ -396,7 +396,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "BELAGAVI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true
   },
   "SUSB0000027": {
@@ -412,7 +412,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "HAVERI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true
   },
   "SUSB0000028": {
@@ -428,7 +428,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KALABURAGI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true
   },
   "SUSB0000029": {
@@ -444,7 +444,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "PATEL NAGAR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true
   },
   "SUSB0000030": {
@@ -460,7 +460,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "RANEBENNUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true
   },
   "SUSB0000999": {

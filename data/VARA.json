@@ -13,8 +13,6 @@
     "UPI": true,
     "MICR": "395289001",
     "RTGS": true,
-    "MICR CODE": "395289002",
-    "STD CODE": "261",
     "NEFT": true
   },
   "VARA0289001": {
@@ -30,8 +28,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395289002",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
@@ -48,8 +44,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KAMREJ",
-    "MICR CODE": "395289003",
-    "STD CODE": "2621",
     "NEFT": true,
     "IMPS": true
   },
@@ -66,8 +60,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395289004",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
@@ -84,8 +76,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KADODARA",
-    "MICR CODE": "395289005",
-    "STD CODE": "2622",
     "NEFT": true,
     "IMPS": true
   },
@@ -102,8 +92,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395289006",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
@@ -120,8 +108,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395289007",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
@@ -138,8 +124,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNA",
-    "MICR CODE": "395289008",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
@@ -156,8 +140,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SACHIN",
-    "MICR CODE": "395289009",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
@@ -174,8 +156,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAVSARI",
-    "MICR CODE": "396289061",
-    "STD CODE": "2637",
     "NEFT": true,
     "IMPS": true
   },
@@ -191,11 +171,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
-    "MICR CODE": "380289002",
-    "STD CODE": "79",
+    "MICR": "380289002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "VARA0289011": {
     "IFSC": "VARA0289011",
@@ -210,8 +188,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ANKLESHWAR",
-    "MICR CODE": "393289051",
-    "STD CODE": "2646",
     "NEFT": true,
     "IMPS": true
   },
@@ -228,28 +204,24 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395289010",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
   "VARA0289013": {
     "BANK": "THE VARACHHA COOPERATIVE BANK LIMITED",
     "IFSC": "VARA0289013",
-    "MICR CODE": "395289011",
     "BRANCH": "MOTA VARACHHA BRANCH",
     "ADDRESS": "GROUND FLOOR, ABHISHEK-III RESIDENCY, NR. SUDAMA CHOWK, MOTA VARACHHA, SURAT 394101",
-    "STD CODE": "261",
     "CONTACT": "2614007221",
     "CITY": "SURAT",
     "DISTRICT": "SURAT",
     "STATE": "GUJARAT",
+    "MICR": "395289011",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "VARA0289014": {
     "IFSC": "VARA0289014",
@@ -264,8 +236,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395289012",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
@@ -282,8 +252,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395289013",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
@@ -300,28 +268,24 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395289014",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
   "VARA0289017": {
     "BANK": "THE VARACHHA COOPERATIVE BANK LIMITED",
     "IFSC": "VARA0289017",
-    "MICR CODE": "395289015",
     "BRANCH": "ADAJAN BRANCH",
     "ADDRESS": "102,103,1ST FLOOR, GREEN ALINA,ANAND MAHAL ROAD,ADAJAN ,SURAT-395009",
-    "STD CODE": "261",
     "CONTACT": "4007261",
     "CITY": "SURAT",
     "DISTRICT": "SURAT",
     "STATE": "GUJARAT",
+    "MICR": "395289015",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "VARA0289018": {
     "IFSC": "VARA0289018",
@@ -336,8 +300,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395289016",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
@@ -354,8 +316,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395289017",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
@@ -372,8 +332,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395289018",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
@@ -390,8 +348,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395289019",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
@@ -408,8 +364,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395289020",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   },
@@ -426,8 +380,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395289021",
-    "STD CODE": "261",
     "NEFT": true,
     "IMPS": true
   }

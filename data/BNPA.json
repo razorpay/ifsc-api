@@ -11,11 +11,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KOLKATA",
-    "MICR CODE": "700034002",
-    "STD CODE": "0",
+    "MICR": "700034002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "BNPA0009009": {
     "IFSC": "BNPA0009009",
@@ -29,11 +27,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400034002",
-    "STD CODE": "22",
+    "MICR": "400034002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "BNPA0009065": {
     "IFSC": "BNPA0009065",
@@ -48,8 +44,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "DELHI",
-    "MICR CODE": "110034002",
-    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true
   },
@@ -82,8 +76,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "560034002",
-    "STD CODE": "80",
     "NEFT": true,
     "IMPS": true
   },
@@ -99,11 +91,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "PUNE",
-    "MICR CODE": "411034002",
-    "STD CODE": "0",
+    "MICR": "411034002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "BNPA0009077": {
     "IFSC": "BNPA0009077",
@@ -117,11 +107,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "AHMEDABAD",
-    "MICR CODE": "380034002",
-    "STD CODE": "80",
+    "MICR": "380034002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "BNPA0009088": {
     "IFSC": "BNPA0009088",
@@ -135,11 +123,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600034002",
-    "STD CODE": "0",
+    "MICR": "600034002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "BNPA0009378": {
     "IFSC": "BNPA0009378",
@@ -153,11 +139,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "HYDERABAD",
-    "MICR CODE": "500034002",
-    "STD CODE": "40",
+    "MICR": "500034002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "BNPA0RTGSMI": {
     "BANK": "BNP Paribas Bank",

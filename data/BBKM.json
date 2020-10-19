@@ -12,10 +12,8 @@
     "CITY": "MUMBAI",
     "UPI": false,
     "RTGS": true,
-    "MICR CODE": "400150002",
-    "STD CODE": "22",
-    "NEFT": true,
-    "MICR": null
+    "MICR": "400150002",
+    "NEFT": true
   },
   "BBKM0000002": {
     "IFSC": "BBKM0000002",
@@ -36,20 +34,18 @@
   "BBKM0000003": {
     "BANK": "BANK OF BAHARAIN AND KUWAIT BSC",
     "IFSC": "BBKM0000003",
-    "MICR CODE": "500150002",
     "BRANCH": "HYDERABAD",
     "ADDRESS": "6 3 550,AKASHGANGA,SOMAJIGUDA,HYDERABAD 500082",
-    "STD CODE": "40",
     "CONTACT": "23305859",
     "CITY": "HYDERABAD",
     "DISTRICT": "HYDERABAD",
     "STATE": "ANDHRA PRADESH",
+    "MICR": "500150002",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "BBKM0000004": {
     "IFSC": "BBKM0000004",
@@ -64,27 +60,23 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "ALUVA",
-    "MICR CODE": "682150002",
-    "STD CODE": "484",
     "NEFT": true,
     "IMPS": true
   },
   "BBKM0000005": {
     "BANK": "BANK OF BAHARAIN AND KUWAIT BSC",
     "IFSC": "BBKM0000005",
-    "MICR CODE": "110150002",
     "BRANCH": "NEW DELHI",
     "ADDRESS": "UNIT NO 3 & 4 ,GROUND FLR,EROS CORPORATE TOWER,OPP NEHRU PLACE METRO STATION,NEHRU PLACE,NEW DELHI,PIN CODE -110019",
-    "STD CODE": "11",
     "CONTACT": "9322571002",
     "CITY": "NEW DELHI",
     "DISTRICT": "NEW DELHI",
     "STATE": "DELHI",
+    "MICR": "110150002",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   }
 }

@@ -11,11 +11,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "AHMEDANGAR",
-    "MICR CODE": "NA",
-    "STD CODE": "241",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "AMDN0000101": {
     "IFSC": "AMDN0000101",
@@ -30,8 +28,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "AHMEDANGAR",
-    "MICR CODE": "414803001",
-    "STD CODE": "241",
     "NEFT": true,
     "IMPS": true
   },
@@ -47,11 +43,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "AHMEDANGAR",
-    "MICR CODE": "NA",
-    "STD CODE": "241",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "AMDN0000103": {
     "IFSC": "AMDN0000103",
@@ -66,8 +60,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "AHMEDANGAR",
-    "MICR CODE": "414803003",
-    "STD CODE": "241",
     "NEFT": true,
     "IMPS": true
   },
@@ -84,8 +76,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "AHMEDANGAR",
-    "MICR CODE": "414803004",
-    "STD CODE": "241",
     "NEFT": true,
     "IMPS": true
   },
@@ -102,8 +92,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "AHMEDANGAR",
-    "MICR CODE": "414803005",
-    "STD CODE": "241",
     "NEFT": true,
     "IMPS": true
   },
@@ -120,8 +108,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "AHMEDANGAR",
-    "MICR CODE": "414803006",
-    "STD CODE": "241",
     "NEFT": true,
     "IMPS": true
   },
@@ -138,8 +124,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "JAMKHED",
-    "MICR CODE": "414803007",
-    "STD CODE": "2421",
     "NEFT": true,
     "IMPS": true
   },
@@ -156,8 +140,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "AURANGABAD",
-    "MICR CODE": "431240082",
-    "STD CODE": "240",
     "NEFT": true,
     "IMPS": true
   },
@@ -174,8 +156,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "PUNE",
-    "MICR CODE": "411240254",
-    "STD CODE": "20",
     "NEFT": true,
     "IMPS": true
   },
@@ -192,8 +172,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SHRIGONDA",
-    "MICR CODE": "414803008",
-    "STD CODE": "2487",
     "NEFT": true,
     "IMPS": true
   },
@@ -210,8 +188,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "AHMEDANGAR",
-    "MICR CODE": "414803009",
-    "STD CODE": "241",
     "NEFT": true,
     "IMPS": true
   },
@@ -228,8 +204,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SHEVGAON",
-    "MICR CODE": "414803010",
-    "STD CODE": "2429",
     "NEFT": true,
     "IMPS": true
   },
@@ -246,8 +220,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "PATHARDI",
-    "MICR CODE": "414803011",
-    "STD CODE": "2428",
     "NEFT": true,
     "IMPS": true
   },
@@ -263,11 +235,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SONAI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "AMDN0000115": {
     "IFSC": "AMDN0000115",
@@ -281,11 +251,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIRUR",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "AMDN0000116": {
     "IFSC": "AMDN0000116",
@@ -299,11 +267,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "ASHTI",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "AMDN0000117": {
     "IFSC": "AMDN0000117",
@@ -317,11 +283,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "AURANGABAD",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "AMDN0000118": {
     "IFSC": "AMDN0000118",
@@ -335,10 +299,8 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "JUNNAR",
-    "MICR CODE": "NA",
-    "STD CODE": "0",
+    "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   }
 }

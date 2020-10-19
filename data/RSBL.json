@@ -28,8 +28,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "RAJGURUNAGAR",
-    "MICR CODE": "411739002",
-    "STD CODE": "2135",
     "NEFT": true,
     "IMPS": true
   },
@@ -46,8 +44,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "RAJGURUNAGAR",
-    "MICR CODE": "411739003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -64,8 +60,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "CHAKAN",
-    "MICR CODE": "411739004",
-    "STD CODE": "2135",
     "NEFT": true,
     "IMPS": true
   },
@@ -81,11 +75,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "RAJGURUNAGAR",
-    "MICR CODE": "411739005",
-    "STD CODE": "2135",
+    "MICR": "411739005",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RSBL0000006": {
     "IFSC": "RSBL0000006",
@@ -99,11 +91,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "NARAYANGAON",
-    "MICR CODE": "410807152",
-    "STD CODE": "2132",
+    "MICR": "410807152",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RSBL0000007": {
     "IFSC": "RSBL0000007",
@@ -118,8 +108,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "PUNE",
-    "MICR CODE": "411739006",
-    "STD CODE": "20",
     "NEFT": true,
     "IMPS": true
   },
@@ -136,8 +124,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "DEHU ROAD",
-    "MICR CODE": "411739007",
-    "STD CODE": "20",
     "NEFT": true,
     "IMPS": true
   },
@@ -154,8 +140,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "PUNE",
-    "MICR CODE": "411739008",
-    "STD CODE": "20",
     "NEFT": true,
     "IMPS": true
   },
@@ -171,11 +155,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "MANCHAR",
-    "MICR CODE": "410807052",
-    "STD CODE": "2133",
+    "MICR": "410807052",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RSBL0000011": {
     "IFSC": "RSBL0000011",
@@ -189,11 +171,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIRUR",
-    "MICR CODE": "411739009",
-    "STD CODE": "2138",
+    "MICR": "411739009",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RSBL0000012": {
     "IFSC": "RSBL0000012",
@@ -208,8 +188,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "CHAKAN",
-    "MICR CODE": "411739010",
-    "STD CODE": "2135",
     "NEFT": true,
     "IMPS": true
   },
@@ -225,11 +203,9 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "NARAYANGAON",
-    "MICR CODE": "410739501",
-    "STD CODE": "2132",
+    "MICR": "410739501",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "RSBL0000014": {
     "IFSC": "RSBL0000014",
@@ -244,8 +220,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "ALANDI",
-    "MICR CODE": "411739011",
-    "STD CODE": "2135",
     "NEFT": true,
     "IMPS": true
   },
@@ -262,8 +236,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "JUNNAR",
-    "MICR CODE": "411739503",
-    "STD CODE": "2132",
     "NEFT": true,
     "IMPS": true
   },
@@ -280,8 +252,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "KHED",
-    "MICR CODE": "411739502",
-    "STD CODE": "2135",
     "NEFT": true,
     "IMPS": true
   },
@@ -298,8 +268,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "PABAL",
-    "MICR CODE": "411739501",
-    "STD CODE": "2138",
     "NEFT": true,
     "IMPS": true
   },
@@ -316,8 +284,6 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "PCMC",
-    "MICR CODE": "411739012",
-    "STD CODE": "20",
     "NEFT": true,
     "IMPS": true
   }

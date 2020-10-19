@@ -11,11 +11,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
-    "MICR CODE": "700037002",
-    "STD CODE": "33",
+    "MICR": "700037002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CITI0000002": {
     "IFSC": "CITI0000002",
@@ -30,8 +28,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
-    "MICR CODE": "110037002",
-    "STD CODE": "11",
     "NEFT": true,
     "IMPS": true
   },
@@ -47,11 +43,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR CODE": "600037002",
-    "STD CODE": "44",
+    "MICR": "600037002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CITI0000004": {
     "IFSC": "CITI0000004",
@@ -65,11 +59,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "560037002",
-    "STD CODE": "80",
+    "MICR": "560037002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CITI0000005": {
     "IFSC": "CITI0000005",
@@ -84,8 +76,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
-    "MICR CODE": "411037001",
-    "STD CODE": "20",
     "NEFT": true,
     "IMPS": true
   },
@@ -101,11 +91,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
-    "MICR CODE": "500037002",
-    "STD CODE": "40",
+    "MICR": "500037002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CITI0000007": {
     "IFSC": "CITI0000007",
@@ -119,11 +107,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
-    "MICR CODE": "380037002",
-    "STD CODE": "79",
+    "MICR": "380037002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CITI0000008": {
     "IFSC": "CITI0000008",
@@ -137,11 +123,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VADODARA",
-    "MICR CODE": "390037002",
-    "STD CODE": "265",
+    "MICR": "390037002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CITI0000009": {
     "IFSC": "CITI0000009",
@@ -155,11 +139,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
-    "MICR CODE": "302037002",
-    "STD CODE": "141",
+    "MICR": "302037002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CITI0000011": {
     "IFSC": "CITI0000011",
@@ -173,11 +155,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
-    "MICR CODE": "641037002",
-    "STD CODE": "422",
+    "MICR": "641037002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CITI0000012": {
     "IFSC": "CITI0000012",
@@ -191,11 +171,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOCHI",
-    "MICR CODE": "682037002",
-    "STD CODE": "484",
+    "MICR": "682037002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CITI0000013": {
     "IFSC": "CITI0000013",
@@ -210,8 +188,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CHANDIGARH",
-    "MICR CODE": "160037002",
-    "STD CODE": "172",
     "NEFT": true,
     "IMPS": true
   },
@@ -227,11 +203,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GURGAON",
-    "MICR CODE": "122037002",
-    "STD CODE": "124",
+    "MICR": "122037002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CITI0000015": {
     "IFSC": "CITI0000015",
@@ -245,11 +219,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
-    "MICR CODE": "395037002",
-    "STD CODE": "261",
+    "MICR": "395037002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CITI0000016": {
     "IFSC": "CITI0000016",
@@ -263,11 +235,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "LUCKNOW",
-    "MICR CODE": "226037002",
-    "STD CODE": "522",
+    "MICR": "226037002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CITI0000017": {
     "IFSC": "CITI0000017",
@@ -281,11 +251,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NOIDA",
-    "MICR CODE": "110037006",
-    "STD CODE": "120",
+    "MICR": "110037006",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CITI0000019": {
     "IFSC": "CITI0000019",
@@ -299,11 +267,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AURANGABAD",
-    "MICR CODE": "431037002",
-    "STD CODE": "240",
+    "MICR": "431037002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CITI0000022": {
     "IFSC": "CITI0000022",
@@ -317,11 +283,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NASHIK",
-    "MICR CODE": "422037002",
-    "STD CODE": "253",
+    "MICR": "422037002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CITI0000027": {
     "IFSC": "CITI0000027",
@@ -335,11 +299,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "FARIDABAD",
-    "MICR CODE": "110037007",
-    "STD CODE": "129",
+    "MICR": "110037007",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CITI0000028": {
     "IFSC": "CITI0000028",
@@ -354,8 +316,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
-    "MICR CODE": "700037003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -371,11 +331,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
-    "MICR CODE": "110037002",
-    "STD CODE": "0",
+    "MICR": "110037002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CITI0000030": {
     "IFSC": "CITI0000030",
@@ -389,11 +347,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
-    "MICR CODE": "110037002",
-    "STD CODE": "0",
+    "MICR": "110037002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CITI0000031": {
     "IFSC": "CITI0000031",
@@ -407,11 +363,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
-    "MICR CODE": "110037002",
-    "STD CODE": "0",
+    "MICR": "110037002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CITI0000032": {
     "IFSC": "CITI0000032",
@@ -426,8 +380,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
-    "MICR CODE": "110037002",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -443,11 +395,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NOIDA",
-    "MICR CODE": "110037002",
-    "STD CODE": "0",
+    "MICR": "110037002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CITI0000036": {
     "IFSC": "CITI0000036",
@@ -462,8 +412,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400037005",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -480,8 +428,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400037006",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -498,8 +444,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NEW MUMBAI",
-    "MICR CODE": "400037007",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -516,8 +460,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400037004",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -534,8 +476,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400037003",
-    "STD CODE": "0",
     "NEFT": true,
     "IMPS": true
   },
@@ -551,11 +491,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
-    "MICR CODE": "560037002",
-    "STD CODE": "0",
+    "MICR": "560037002",
     "NEFT": true,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CITI0000046": {
     "IFSC": "CITI0000046",
@@ -570,28 +508,24 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGPUR",
-    "MICR CODE": "440037002",
-    "STD CODE": "712",
     "NEFT": true,
     "IMPS": true
   },
   "CITI0000047": {
     "BANK": "CITI BANK",
     "IFSC": "CITI0000047",
-    "MICR CODE": "NA",
     "BRANCH": "SERILINGAMPALLY",
     "ADDRESS": "CITIBANK NA-UNIT NO.1, APURUPA SILPI, SURVEY NO. 124, GACHIBOWLI VILLAGE, SERILINGAMPALLY MANDAL, HYDERABAD, RANGA REDDY DISTRICT, ANDHRA PRADESH - 500032",
-    "STD CODE": "40",
     "CONTACT": "66017109",
     "CITY": "RANGA REDDY DISTRICT",
     "DISTRICT": "HYDERABAD",
     "STATE": "ANDHRA PRADESH",
+    "MICR": "NA",
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true,
-    "MICR": null
+    "IMPS": true
   },
   "CITI0000048": {
     "IFSC": "CITI0000048",
@@ -606,8 +540,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
-    "MICR CODE": "400037008",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -704,8 +636,6 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR CODE": "400037002",
-    "STD CODE": "22",
     "NEFT": true,
     "IMPS": true
   },
@@ -723,8 +653,6 @@
     "UPI": true,
     "MICR": "400037002",
     "RTGS": true,
-    "MICR CODE": "400037002",
-    "STD CODE": "22",
     "NEFT": true
   }
 }
