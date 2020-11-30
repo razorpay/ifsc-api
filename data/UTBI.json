@@ -26912,19 +26912,19 @@
     "IMPS": true
   },
   "UTBI0RPSM32": {
-    "BANK": "UNITED BANK OF INDIA",
     "IFSC": "UTBI0RPSM32",
     "BRANCH": "IT DEPARTMENT EUNI",
-    "ADDRESS": "UNITED TOWER , ZO KOLKATA,11 HEMANTA BASU SARANI,KOLKATA-700001",
-    "CONTACT": "22139507",
-    "CITY": "KOLKATA",
+    "CENTRE": "KOLKATA",
     "DISTRICT": "KOLKATA",
     "STATE": "WEST BENGAL",
+    "ADDRESS": "UNITED TOWER , ZO KOLKATA,11 HEMANTA BASU SARANI,KOLKATA-700001",
+    "CONTACT": "03322139507",
+    "BANK": "UNITED BANK OF INDIA",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "KOLKATA",
     "MICR": "NA",
     "NEFT": true,
-    "CENTRE": "NA",
-    "UPI": true,
-    "RTGS": false,
     "IMPS": true
   },
   "UTBI0RPUR10": {
@@ -32592,19 +32592,19 @@
     "IMPS": true
   },
   "UTBI0XRA697": {
+    "BANK": "UNITED BANK OF INDIA",
     "IFSC": "UTBI0XRA697",
     "BRANCH": "RAIPUR REGION",
-    "CENTRE": " RAIPUR ",
-    "DISTRICT": "RAIPUR",
-    "STATE": "CHHATTISGARH",
     "ADDRESS": "BUDHAPARA,BIJLI OFFICE,CHOWK",
     "CONTACT": null,
-    "BANK": "UNITED BANK OF INDIA",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": " RAIPUR ",
+    "CITY": "RAIPUR",
+    "DISTRICT": "RAIPUR",
+    "STATE": "CHHATTISGARH",
     "MICR": "NonMICR",
     "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
     "IMPS": true
   },
   "UTBI0XSGG60": {

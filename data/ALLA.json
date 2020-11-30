@@ -287,22 +287,6 @@
     "NEFT": true,
     "IMPS": true
   },
-  "ALLA0210019": {
-    "IFSC": "ALLA0210019",
-    "BRANCH": "SIJUA",
-    "CENTRE": "SIJUA",
-    "DISTRICT": "DHANBAD",
-    "STATE": "JHARKHAND",
-    "ADDRESS": "VILL-SIJUA, DIST-DHANBAD, JHARKHAND",
-    "CONTACT": null,
-    "BANK": "ALLAHABAD BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "SIJUA",
-    "NEFT": false,
-    "IMPS": true,
-    "MICR": null
-  },
   "ALLA0210020": {
     "IFSC": "ALLA0210020",
     "BRANCH": "GOVINDPUR",
@@ -447,22 +431,6 @@
     "NEFT": true,
     "IMPS": true
   },
-  "ALLA0210029": {
-    "IFSC": "ALLA0210029",
-    "BRANCH": "COLLEGE STREET",
-    "CENTRE": "KOLKATA",
-    "DISTRICT": "KOLKATA",
-    "STATE": "WEST BENGAL",
-    "ADDRESS": "224/5 B, BIDHAN SARANI KOLKATA WEST BENGAL 700007",
-    "CONTACT": null,
-    "BANK": "ALLAHABAD BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "KOLKATA",
-    "NEFT": false,
-    "IMPS": true,
-    "MICR": null
-  },
   "ALLA0210030": {
     "IFSC": "ALLA0210030",
     "BRANCH": "KOLKATA DHARAMTOLLA STREET",
@@ -542,38 +510,6 @@
     "MICR": "700010031",
     "NEFT": true,
     "IMPS": true
-  },
-  "ALLA0210035": {
-    "IFSC": "ALLA0210035",
-    "BRANCH": "KOLKATA K.K.TAGORE STREET",
-    "CENTRE": "KOLKATA",
-    "DISTRICT": "KOLKATA",
-    "STATE": "WEST BENGAL",
-    "ADDRESS": "36, KALI KRISHNA TAGORE STREET KOLKATA - 700 007  WEST BENGAL",
-    "CONTACT": null,
-    "BANK": "ALLAHABAD BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "KOLKATA",
-    "NEFT": false,
-    "IMPS": true,
-    "MICR": null
-  },
-  "ALLA0210036": {
-    "IFSC": "ALLA0210036",
-    "BRANCH": "KOLKATA BRABOURNE ROAD",
-    "CENTRE": "KOLKATA",
-    "DISTRICT": "KOLKATA",
-    "STATE": "WEST BENGAL",
-    "ADDRESS": "6, LUCAS LANE KOLKATA - 700 001 EST BENGAL KOLKATA WEST BENGAL 700001",
-    "CONTACT": null,
-    "BANK": "ALLAHABAD BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "KOLKATA",
-    "NEFT": false,
-    "IMPS": true,
-    "MICR": null
   },
   "ALLA0210037": {
     "IFSC": "ALLA0210037",
@@ -2528,19 +2464,19 @@
     "IMPS": true
   },
   "ALLA0210163": {
+    "BANK": "ALLAHABAD BANK",
     "IFSC": "ALLA0210163",
-    "BRANCH": "Parliament Street",
-    "CENTRE": "DELHI",
+    "BRANCH": "PARLIAMENT STREET, NEW DELHI",
+    "ADDRESS": ",17 PARLIAMENT STREET NEW DELHI",
+    "CONTACT": "23743694",
+    "CITY": "NEW DELHI",
     "DISTRICT": "DELHI",
     "STATE": "DELHI",
-    "ADDRESS": ",17 Parliament Street New Delhi",
-    "CONTACT": "23743694",
-    "BANK": "ALLAHABAD BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "DELHI",
     "MICR": "110010026",
     "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
     "IMPS": true
   },
   "ALLA0210164": {
@@ -2862,22 +2798,6 @@
     "MICR": "400010006",
     "NEFT": true,
     "IMPS": true
-  },
-  "ALLA0210185": {
-    "IFSC": "ALLA0210185",
-    "BRANCH": "Kalbadevi",
-    "CENTRE": "MUMBAI",
-    "DISTRICT": "GREATER BOMBAY",
-    "STATE": "MAHARASHTRA",
-    "ADDRESS": "232/34, Chamber Bhavan, Kalbadevi,Dist-Greater Mumbai. Mumbai,.",
-    "CONTACT": null,
-    "BANK": "ALLAHABAD BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "MUMBAI",
-    "NEFT": false,
-    "IMPS": true,
-    "MICR": null
   },
   "ALLA0210186": {
     "IFSC": "ALLA0210186",
@@ -4657,17 +4577,17 @@
   },
   "ALLA0210302": {
     "IFSC": "ALLA0210302",
-    "BRANCH": "KHAR",
-    "CENTRE": "MUMBAI",
-    "DISTRICT": "GREATER BOMBAY",
-    "STATE": "MAHARASHTRA",
-    "ADDRESS": "SMIRITI PLOT-383, A,13TH ROAD, KHAR, MUMBAI.",
+    "BRANCH": "YUSUFPUR",
+    "CENTRE": "YUSUFPUR PIPALHEDA",
+    "DISTRICT": "MUZAFFARNAGAR",
+    "STATE": "UTTAR PRADESH",
+    "ADDRESS": "P.O. MOHAMMADABAD YUSUFPUR, DIST. GHAZIPUR-UP",
     "CONTACT": "26058578",
+    "MICR": "400010011",
     "BANK": "ALLAHABAD BANK",
     "UPI": true,
     "RTGS": true,
-    "CITY": "MUMBAI",
-    "MICR": "400010011",
+    "CITY": "YUSUFPUR PIPALHEDA",
     "NEFT": true,
     "IMPS": true
   },
@@ -5743,22 +5663,6 @@
     "NEFT": true,
     "IMPS": true
   },
-  "ALLA0210371": {
-    "IFSC": "ALLA0210371",
-    "BRANCH": "Peddar Road",
-    "CENTRE": "MUMBAI",
-    "DISTRICT": "GREATER BOMBAY",
-    "STATE": "MAHARASHTRA",
-    "ADDRESS": "47, Peddar Road, Mumbai-26",
-    "CONTACT": null,
-    "BANK": "ALLAHABAD BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "MUMBAI",
-    "NEFT": false,
-    "IMPS": true,
-    "MICR": null
-  },
   "ALLA0210372": {
     "IFSC": "ALLA0210372",
     "BRANCH": "ROHAD",
@@ -6577,17 +6481,17 @@
   },
   "ALLA0210423": {
     "IFSC": "ALLA0210423",
-    "BRANCH": "DUM DUM (NAGER BAZAR)",
+    "BRANCH": "DUM DUM ,NAGER BAZAR",
     "CENTRE": "KOLKATA",
     "DISTRICT": "KOLKATA",
     "STATE": "WEST BENGAL",
-    "ADDRESS": "499, JESSORE ROAD (NAGER BAZAR) DUM DUM -700 074   KOLKATA WEST BENGAL",
+    "ADDRESS": "499, JESSORE ROAD NAGER BAZAR DUM DUM 700 074KOLKATA WEST BENGAL",
     "CONTACT": "25297338",
+    "MICR": "700010021",
     "BANK": "ALLAHABAD BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
-    "MICR": "700010021",
     "NEFT": true,
     "IMPS": true
   },
@@ -6807,11 +6711,11 @@
     "STATE": "WEST BENGAL",
     "ADDRESS": "39, K.B. BASU ROAD, BARASAT - 700124 DIST. NORTH 24-PARGANAS WEST BENGAL",
     "CONTACT": "25523688",
+    "MICR": "700010133",
     "BANK": "ALLAHABAD BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "BARASAT",
-    "MICR": "700010133",
     "NEFT": true,
     "IMPS": true
   },
@@ -7328,19 +7232,19 @@
     "IMPS": true
   },
   "ALLA0210471": {
-    "IFSC": "ALLA0210471",
-    "BRANCH": "Naroda",
-    "CENTRE": "AHMEDABAD",
-    "DISTRICT": "AHMADABAD",
-    "STATE": "GUJARAT",
-    "ADDRESS": "Naroda Bazar,Naroda, Ahmedabad -382330",
-    "CONTACT": "22812278",
     "BANK": "ALLAHABAD BANK",
-    "UPI": true,
-    "RTGS": true,
+    "IFSC": "ALLA0210471",
+    "BRANCH": "NARODA",
+    "ADDRESS": "NARODA BAZAR,NARODA, AHMEDABAD┬á-382330",
+    "CONTACT": "22812278",
     "CITY": "AHMEDABAD",
+    "DISTRICT": "AHMEDABAD",
+    "STATE": "GUJARAT",
     "MICR": "380010007",
     "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
     "IMPS": true
   },
   "ALLA0210472": {
@@ -7600,19 +7504,19 @@
     "IMPS": true
   },
   "ALLA0210488": {
-    "IFSC": "ALLA0210488",
-    "BRANCH": "Govind Nagar",
-    "CENTRE": "KANPUR",
-    "DISTRICT": "KANPUR CITY",
-    "STATE": "UTTAR PRADESH",
-    "ADDRESS": "233-C, Govind Nagar, Kanpur - 208 006 ",
-    "CONTACT": "2651641",
     "BANK": "ALLAHABAD BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "KANPUR",
+    "IFSC": "ALLA0210488",
+    "BRANCH": "GOVIND NAGAR",
+    "ADDRESS": "233-C, GOVINDNAGAR, KANPUR - 208006",
+    "CONTACT": "2651641",
+    "CITY": "KANPUR NAGAR",
+    "DISTRICT": "KANPUR",
+    "STATE": "UTTAR PRADESH",
     "MICR": "208010007",
     "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
     "IMPS": true
   },
   "ALLA0210489": {
@@ -8096,19 +8000,19 @@
     "IMPS": true
   },
   "ALLA0210522": {
+    "BANK": "ALLAHABAD BANK",
     "IFSC": "ALLA0210522",
-    "BRANCH": "Nanpura Surat ",
-    "CENTRE": "SURAT",
+    "BRANCH": "NANPURA ,SURAT",
+    "ADDRESS": "864, ALAKNANDA APARTMENTS, ATHUGAR STREET, NANPURA, SURAT - 395001,",
+    "CONTACT": "2461879",
+    "CITY": "SURAT",
     "DISTRICT": "SURAT",
     "STATE": "GUJARAT",
-    "ADDRESS": "864, Alaknanda Apartments, Athugar Street, Nanpura, Surat - 395001,",
-    "CONTACT": "2461879",
-    "BANK": "ALLAHABAD BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "SURAT",
     "MICR": "395010002",
     "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
     "IMPS": true
   },
   "ALLA0210523": {
@@ -8398,22 +8302,6 @@
     "MICR": "NA",
     "NEFT": true,
     "IMPS": true
-  },
-  "ALLA0210542": {
-    "IFSC": "ALLA0210542",
-    "BRANCH": "BHOPAL CHHOLA ROAD",
-    "CENTRE": "BHOPAL",
-    "DISTRICT": "BHOPAL",
-    "STATE": "MADHYA PRADESH",
-    "ADDRESS": "NARAYAN DAS MARKET, CHHOLA ROAD, DIST. BHOPAL MADHYA PRADESH  462001",
-    "CONTACT": null,
-    "BANK": "ALLAHABAD BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "BHOPAL",
-    "NEFT": false,
-    "IMPS": true,
-    "MICR": null
   },
   "ALLA0210543": {
     "IFSC": "ALLA0210543",
@@ -10992,19 +10880,19 @@
     "IMPS": true
   },
   "ALLA0210716": {
-    "IFSC": "ALLA0210716",
-    "BRANCH": "Lal Darwaja    ",
-    "CENTRE": "AHMEDABAD",
-    "DISTRICT": "AHMADABAD",
-    "STATE": "GUJARAT",
-    "ADDRESS": "1dt floor, setalwad_house, mirjapur_road, lal darwaja, ahmedabad",
-    "CONTACT": "25506044",
     "BANK": "ALLAHABAD BANK",
-    "UPI": true,
-    "RTGS": true,
+    "IFSC": "ALLA0210716",
+    "BRANCH": "LAL DARWAJA┬á┬á┬á┬á",
+    "ADDRESS": "1DT FLOOR, SETALWAD_HOUSE, MIRJAPUR_ROAD, LAL DARWAJA, AHMEDABAD",
+    "CONTACT": "25506044",
     "CITY": "AHMEDABAD",
+    "DISTRICT": "AHMEDABAD",
+    "STATE": "GUJARAT",
     "MICR": "380010004",
     "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
     "IMPS": true
   },
   "ALLA0210717": {
@@ -15263,22 +15151,6 @@
     "NEFT": true,
     "IMPS": true
   },
-  "ALLA0210995": {
-    "IFSC": "ALLA0210995",
-    "BRANCH": "GURMA",
-    "CENTRE": "CHOURAI",
-    "DISTRICT": "JABALPUR",
-    "STATE": "MADHYA PRADESH",
-    "ADDRESS": "NO. 575, NEAR KANCHGHAR, CHOURAHA, LALMATI, JABALPUR-482 001, MADHYA PRADESH",
-    "CONTACT": null,
-    "BANK": "ALLAHABAD BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "CHOURAI",
-    "NEFT": false,
-    "IMPS": true,
-    "MICR": null
-  },
   "ALLA0210996": {
     "IFSC": "ALLA0210996",
     "BRANCH": "PATHORA",
@@ -16254,22 +16126,6 @@
     "MICR": "753010007",
     "NEFT": true,
     "IMPS": true
-  },
-  "ALLA0211065": {
-    "IFSC": "ALLA0211065",
-    "BRANCH": "MALDHAIYA",
-    "CENTRE": "VARANASI",
-    "DISTRICT": "VARANASI",
-    "STATE": "UTTAR PRADESH",
-    "ADDRESS": "MALDHAIYA,VARAANASI",
-    "CONTACT": null,
-    "BANK": "ALLAHABAD BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "VARANASI",
-    "NEFT": false,
-    "IMPS": true,
-    "MICR": null
   },
   "ALLA0211066": {
     "IFSC": "ALLA0211066",
@@ -19150,22 +19006,6 @@
     "MICR": "758010102",
     "NEFT": true,
     "IMPS": true
-  },
-  "ALLA0211257": {
-    "IFSC": "ALLA0211257",
-    "BRANCH": "ASWINI-DUTTA ROAD",
-    "CENTRE": "KOLKATA",
-    "DISTRICT": "KOLKATA",
-    "STATE": "WEST BENGAL",
-    "ADDRESS": "46A, MAHANIRBAN ROAD, KOLKATA , WEST BENGAL",
-    "CONTACT": null,
-    "BANK": "ALLAHABAD BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "KOLKATA",
-    "NEFT": false,
-    "IMPS": true,
-    "MICR": null
   },
   "ALLA0211258": {
     "IFSC": "ALLA0211258",
@@ -23553,12 +23393,12 @@
   },
   "ALLA0211561": {
     "IFSC": "ALLA0211561",
-    "BRANCH": "INDUSTRIAL FINANCE BRANCH",
+    "BRANCH": "LARGE CORPORATE FINANCE BRANCH",
     "CENTRE": "MUMBAI",
-    "DISTRICT": "GREATER MUMBAI",
+    "DISTRICT": "MUMBAI",
     "STATE": "MAHARASHTRA",
-    "ADDRESS": "Allahabad Bank building, 2nd Floor,37, Mumbai Samachar Marg, Fort, Mumbai -400023",
-    "CONTACT": "02222702745",
+    "ADDRESS": "210, MITTAL TOWER,B WING,NARIMAN POINT,MUMBAI  400 021",
+    "CONTACT": "40178003",
     "MICR": "400010024",
     "BANK": "ALLAHABAD BANK",
     "UPI": true,
@@ -23646,22 +23486,6 @@
     "MICR": "816010501",
     "NEFT": true,
     "IMPS": true
-  },
-  "ALLA0211567": {
-    "IFSC": "ALLA0211567",
-    "BRANCH": "MAROLI",
-    "CENTRE": "MAROLI",
-    "DISTRICT": "BANDA",
-    "STATE": "UTTAR PRADESH",
-    "ADDRESS": "VILL. & PO. MAROLI 210128",
-    "CONTACT": null,
-    "BANK": "ALLAHABAD BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "MAROLI",
-    "NEFT": false,
-    "IMPS": true,
-    "MICR": null
   },
   "ALLA0211568": {
     "IFSC": "ALLA0211568",
@@ -24270,22 +24094,6 @@
     "MICR": "811010702",
     "NEFT": true,
     "IMPS": true
-  },
-  "ALLA0211619": {
-    "IFSC": "ALLA0211619",
-    "BRANCH": "KANCHANPUR",
-    "CENTRE": "KANCHANPUR",
-    "DISTRICT": "BANKURA",
-    "STATE": "WEST BENGAL",
-    "ADDRESS": "VILL. & P.O. KANCHANPUR DIST. BANKURA",
-    "CONTACT": null,
-    "BANK": "ALLAHABAD BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "KANCHANPUR",
-    "NEFT": false,
-    "IMPS": true,
-    "MICR": null
   },
   "ALLA0211620": {
     "IFSC": "ALLA0211620",
@@ -25727,22 +25535,6 @@
     "NEFT": true,
     "IMPS": true
   },
-  "ALLA0211718": {
-    "IFSC": "ALLA0211718",
-    "BRANCH": "BASIRHAT, ITINDA RD",
-    "CENTRE": "BASIRHAT",
-    "DISTRICT": "NORTH 24 PARGANAS",
-    "STATE": "WEST BENGAL",
-    "ADDRESS": "BASHIRHAT NEW MARKET, P.O.- BASHIRHAT DIST. - 24 PARGANAS (NORTH) WEST BENGAL 743411",
-    "CONTACT": null,
-    "BANK": "ALLAHABAD BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "BASIRHAT",
-    "NEFT": false,
-    "IMPS": true,
-    "MICR": null
-  },
   "ALLA0211719": {
     "IFSC": "ALLA0211719",
     "BRANCH": "LAKSHMIGANJ BAZAR",
@@ -26222,22 +26014,6 @@
     "MICR": "NA",
     "NEFT": true,
     "IMPS": true
-  },
-  "ALLA0211751": {
-    "IFSC": "ALLA0211751",
-    "BRANCH": "LILUAH",
-    "CENTRE": "HOWRAH",
-    "DISTRICT": "HAORA",
-    "STATE": "WEST BENGAL",
-    "ADDRESS": "260/1 G. T. ROAD , HOWRAH , WEST BENGAL",
-    "CONTACT": null,
-    "BANK": "ALLAHABAD BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "HOWRAH",
-    "NEFT": false,
-    "IMPS": true,
-    "MICR": null
   },
   "ALLA0211752": {
     "IFSC": "ALLA0211752",
@@ -27055,22 +26831,6 @@
     "NEFT": true,
     "IMPS": true
   },
-  "ALLA0211809": {
-    "IFSC": "ALLA0211809",
-    "BRANCH": "KANDI DEVINIWAS",
-    "CENTRE": "KANDI",
-    "DISTRICT": "MURSHIDABAD",
-    "STATE": "WEST BENGAL",
-    "ADDRESS": "DEVINIBAS, PO - KANDI, DIST-MURISHABAD, WEST BENGAL - 742137",
-    "CONTACT": null,
-    "BANK": "ALLAHABAD BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "KANDI",
-    "NEFT": false,
-    "IMPS": true,
-    "MICR": null
-  },
   "ALLA0211810": {
     "IFSC": "ALLA0211810",
     "BRANCH": "DIBRUGARH, NEW MARKET",
@@ -27102,22 +26862,6 @@
     "MICR": "700010075",
     "NEFT": true,
     "IMPS": true
-  },
-  "ALLA0211812": {
-    "IFSC": "ALLA0211812",
-    "BRANCH": "HOWRAH MAIDAN",
-    "CENTRE": "HOWRAH",
-    "DISTRICT": "HAORA",
-    "STATE": "WEST BENGAL",
-    "ADDRESS": "33, G. T. ROAD (SOUTH) HOWRAH - 711 101 HOWRAH WEST BENGAL 711101",
-    "CONTACT": null,
-    "BANK": "ALLAHABAD BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "HOWRAH",
-    "NEFT": false,
-    "IMPS": true,
-    "MICR": null
   },
   "ALLA0211813": {
     "IFSC": "ALLA0211813",
@@ -27230,22 +26974,6 @@
     "MICR": "380010008",
     "NEFT": true,
     "IMPS": true
-  },
-  "ALLA0211822": {
-    "IFSC": "ALLA0211822",
-    "BRANCH": "SATGACHIA",
-    "CENTRE": "SATGACHIA",
-    "DISTRICT": "BARDDHAMAN",
-    "STATE": "WEST BENGAL",
-    "ADDRESS": "P. O. & VILL. SATGACHIA DIST. BURDWAN - 713 422",
-    "CONTACT": null,
-    "BANK": "ALLAHABAD BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "SATGACHIA",
-    "NEFT": false,
-    "IMPS": true,
-    "MICR": null
   },
   "ALLA0211823": {
     "IFSC": "ALLA0211823",
@@ -27518,22 +27246,6 @@
     "MICR": "731010245",
     "NEFT": true,
     "IMPS": true
-  },
-  "ALLA0211842": {
-    "IFSC": "ALLA0211842",
-    "BRANCH": "S B GORAI RD",
-    "CENTRE": "ASANSOL",
-    "DISTRICT": "BARDDHAMAN",
-    "STATE": "WEST BENGAL",
-    "ADDRESS": "S. B. GORAI ROAD P.O. ASANSOL DIST. BURDWAN - 713 301 ASANSOL WEST BENGAL",
-    "CONTACT": null,
-    "BANK": "ALLAHABAD BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "ASANSOL",
-    "NEFT": false,
-    "IMPS": true,
-    "MICR": null
   },
   "ALLA0211843": {
     "IFSC": "ALLA0211843",
@@ -28096,19 +27808,19 @@
     "IMPS": true
   },
   "ALLA0211893": {
+    "BANK": "ALLAHABAD BANK",
     "IFSC": "ALLA0211893",
-    "BRANCH": "Industrial Finance Branch",
-    "CENTRE": "DELHI",
+    "BRANCH": "INDUSTRIAL FINANCE BRANCH,NEW DELHI",
+    "ADDRESS": "17, PARLIAMENT STREET┬á┬á┬á , NEW DELHI",
+    "CONTACT": "23342790",
+    "CITY": "NEW DELHI",
     "DISTRICT": "DELHI",
     "STATE": "DELHI",
-    "ADDRESS": "17, PARLIAMENT STREET    , New Delhi",
-    "CONTACT": "23342790",
-    "BANK": "ALLAHABAD BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "DELHI",
     "MICR": "110010037",
     "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
     "IMPS": true
   },
   "ALLA0211894": {
@@ -28832,19 +28544,19 @@
     "IMPS": true
   },
   "ALLA0211956": {
+    "BANK": "ALLAHABAD BANK",
     "IFSC": "ALLA0211956",
-    "BRANCH": " IFB, Hyderabad",
-    "CENTRE": "HYDERABAD",
+    "BRANCH": "IFB HYDERABAD",
+    "ADDRESS": "┬áIFB BRANCH,6-3-850/3, SRINIVAS PLAZA, NEAR SEESH MAHAL, AMEERPET,HYDERABAD-500016,ANDHRA PRADESH",
+    "CONTACT": "23412156",
+    "CITY": "HYDERABAD URBAN",
     "DISTRICT": "HYDERABAD",
     "STATE": "ANDHRA PRADESH",
-    "ADDRESS": " IFB Branch,6-3-850/3, Srinivas Plaza, Near Seesh Mahal, Ameerpet,Hyderabad-500016,Andhra Pradesh",
-    "CONTACT": "23412156",
-    "BANK": "ALLAHABAD BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "HYDERABAD",
     "MICR": "500010009",
     "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
     "IMPS": true
   },
   "ALLA0211957": {
@@ -31478,12 +31190,12 @@
     "DISTRICT": "CHENNAI",
     "STATE": "TAMIL NADU",
     "ADDRESS": "SRCM, BABUJI MEMORIAL ASHRAM, WORLD HEAD QUARTER, 39, SRCM ROAD, MANAPAKKAM, CHENNAI",
-    "CONTACT": "22522954",
+    "CONTACT": "4422522954",
+    "MICR": "600010016",
     "BANK": "ALLAHABAD BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
-    "MICR": "600010016",
     "NEFT": true,
     "IMPS": true
   },
@@ -31679,22 +31391,6 @@
     "NEFT": true,
     "IMPS": true
   },
-  "ALLA0212168": {
-    "IFSC": "ALLA0212168",
-    "BRANCH": "CANE SOCIETY, MODINAGAR",
-    "CENTRE": "MEERUT",
-    "DISTRICT": "MEERUT",
-    "STATE": "UTTAR PRADESH",
-    "ADDRESS": "CANE SOCIETY, TIBRA ROAD MODINAGAR",
-    "CONTACT": null,
-    "BANK": "ALLAHABAD BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "MEERUT",
-    "NEFT": false,
-    "IMPS": true,
-    "MICR": null
-  },
   "ALLA0212169": {
     "IFSC": "ALLA0212169",
     "BRANCH": "SARURPUR",
@@ -31838,22 +31534,6 @@
     "MICR": "700010161",
     "NEFT": true,
     "IMPS": true
-  },
-  "ALLA0212181": {
-    "IFSC": "ALLA0212181",
-    "BRANCH": "SALT LAKE SECTOR-III BRANCH",
-    "CENTRE": "KOLKATA",
-    "DISTRICT": "KOLKATA",
-    "STATE": "WEST BENGAL",
-    "ADDRESS": "BIDHAN NAGAR, BLOCK - 9C, PLOT NO. 152,SECTOR - III,KOLKATA, WEST BENGAL",
-    "CONTACT": null,
-    "BANK": "ALLAHABAD BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "KOLKATA",
-    "NEFT": false,
-    "IMPS": true,
-    "MICR": null
   },
   "ALLA0212182": {
     "IFSC": "ALLA0212182",
@@ -32686,22 +32366,6 @@
     "MICR": "WAITING",
     "NEFT": true,
     "IMPS": true
-  },
-  "ALLA0212235": {
-    "IFSC": "ALLA0212235",
-    "BRANCH": "NAGPUR SWAWLAMBI NAGAR",
-    "CENTRE": "NAGPUR",
-    "DISTRICT": "NAGPUR",
-    "STATE": "MAHARASHTRA",
-    "ADDRESS": "SWAWLAMBI NAGAR, NAGPUR, MAHARASHTRA,",
-    "CONTACT": null,
-    "BANK": "ALLAHABAD BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "NAGPUR",
-    "NEFT": false,
-    "IMPS": true,
-    "MICR": null
   },
   "ALLA0212238": {
     "IFSC": "ALLA0212238",
@@ -34223,22 +33887,6 @@
     "NEFT": true,
     "IMPS": true
   },
-  "ALLA0212336": {
-    "IFSC": "ALLA0212336",
-    "BRANCH": "KUM CHHINDWARA",
-    "CENTRE": "MEDINIPUR",
-    "DISTRICT": "MEDINIPUR",
-    "STATE": "WEST BENGAL",
-    "ADDRESS": "VILL-GOPALI P.O.:SALUA,DIST: WEST MIDNAPORE STATE: WEST BENGAL",
-    "CONTACT": null,
-    "BANK": "ALLAHABAD BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "MEDINIPUR",
-    "NEFT": false,
-    "IMPS": true,
-    "MICR": null
-  },
   "ALLA0212337": {
     "IFSC": "ALLA0212337",
     "BRANCH": "RATIA",
@@ -34718,22 +34366,6 @@
     "MICR": "NA",
     "NEFT": true,
     "IMPS": true
-  },
-  "ALLA0212369": {
-    "IFSC": "ALLA0212369",
-    "BRANCH": "JLN SMARAK COLLEGE",
-    "CENTRE": "MAHARAJGANJ",
-    "DISTRICT": "MAHARAJGANJ",
-    "STATE": "UTTAR PRADESH",
-    "ADDRESS": "MAHARAJGANJ, JLN SMARAK PG COLLEGE CAMPUS, MAHARAJGANJ DIST MAHARAJGUNJ ,  UTTAR PRADESH",
-    "CONTACT": null,
-    "BANK": "ALLAHABAD BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "MAHARAJGANJ",
-    "NEFT": false,
-    "IMPS": true,
-    "MICR": null
   },
   "ALLA0212370": {
     "IFSC": "ALLA0212370",
@@ -35583,22 +35215,6 @@
     "NEFT": true,
     "IMPS": true
   },
-  "ALLA0212428": {
-    "IFSC": "ALLA0212428",
-    "BRANCH": "IFB LUCKNOW",
-    "CENTRE": "LUCKNOW",
-    "DISTRICT": "LUCKNOW",
-    "STATE": "UTTAR PRADESH",
-    "ADDRESS": "FIRST FLOOR, OLD BUILDING,HAZRATGANJ ,LUCKNOW, UTTAR PRADESH",
-    "CONTACT": null,
-    "BANK": "ALLAHABAD BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "LUCKNOW",
-    "NEFT": false,
-    "IMPS": true,
-    "MICR": null
-  },
   "ALLA0212429": {
     "IFSC": "ALLA0212429",
     "BRANCH": "KANNUR",
@@ -35710,22 +35326,6 @@
     "MICR": "NA",
     "NEFT": true,
     "IMPS": true
-  },
-  "ALLA0212437": {
-    "IFSC": "ALLA0212437",
-    "BRANCH": "C.K.C. SENIOR SECTION CIVIL LINES",
-    "CENTRE": "JHANSI",
-    "DISTRICT": "JHANSI",
-    "STATE": "UTTAR PRADESH",
-    "ADDRESS": "C.K.C. SENIOR SECTION CIVIL LINES,JHANSI",
-    "CONTACT": null,
-    "BANK": "ALLAHABAD BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "JHANSI",
-    "NEFT": false,
-    "IMPS": true,
-    "MICR": null
   },
   "ALLA0212439": {
     "IFSC": "ALLA0212439",
@@ -36894,22 +36494,6 @@
     "MICR": "40001 034",
     "NEFT": true,
     "IMPS": true
-  },
-  "ALLA0212517": {
-    "IFSC": "ALLA0212517",
-    "BRANCH": "S R K FIROZABAD",
-    "CENTRE": "FIROZABAD",
-    "DISTRICT": "FIROZABAD",
-    "STATE": "UTTAR PRADESH",
-    "ADDRESS": "S. R. K. COLLEGE KOTLA ROAD, FIROZABAD  283203",
-    "CONTACT": null,
-    "BANK": "ALLAHABAD BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "FIROZABAD",
-    "NEFT": false,
-    "IMPS": true,
-    "MICR": null
   },
   "ALLA0212518": {
     "IFSC": "ALLA0212518",
@@ -38703,22 +38287,6 @@
     "NEFT": true,
     "IMPS": true
   },
-  "ALLA0212635": {
-    "IFSC": "ALLA0212635",
-    "BRANCH": "AMRTISAR BHAGTAWALA GATE",
-    "CENTRE": "AMRITSAR",
-    "DISTRICT": "AMRITSAR",
-    "STATE": "PUNJAB",
-    "ADDRESS": "SCO 626-627, NEW GRAIN MANDI, BHAGTAWALA, NEAR RAILWAY CROSSING, AMRITSAR, PUNJAB PIN 143001",
-    "CONTACT": null,
-    "BANK": "ALLAHABAD BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "AMRITSAR",
-    "NEFT": false,
-    "IMPS": true,
-    "MICR": null
-  },
   "ALLA0212636": {
     "IFSC": "ALLA0212636",
     "BRANCH": "BUROGAON",
@@ -40351,22 +39919,6 @@
     "NEFT": true,
     "IMPS": true
   },
-  "ALLA0212746": {
-    "IFSC": "ALLA0212746",
-    "BRANCH": "PANARI",
-    "CENTRE": "CHOPAN",
-    "DISTRICT": "SONBHADRA",
-    "STATE": "UTTAR PRADESH",
-    "ADDRESS": "ALLAHABAD BANK, PANARI BRANCH, VILL & POST PANARI, OBRA ROAD , BLOCK CHOPAN, SONEBHADRA, U.P-231219",
-    "CONTACT": null,
-    "MICR": "231010177",
-    "BANK": "ALLAHABAD BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "CHOPAN",
-    "NEFT": false,
-    "IMPS": true
-  },
   "ALLA0212747": {
     "IFSC": "ALLA0212747",
     "BRANCH": "PAONTA SAHIB",
@@ -40749,22 +40301,6 @@
     "RTGS": true,
     "CITY": "HATHRAS",
     "NEFT": true,
-    "IMPS": true
-  },
-  "ALLA0212773": {
-    "IFSC": "ALLA0212773",
-    "BRANCH": "RAMWAN PANTHUWAN",
-    "CENTRE": "FATEHPUR",
-    "DISTRICT": "FATEHPUR",
-    "STATE": "UTTAR PRADESH",
-    "ADDRESS": "VILLAGE-RAMWAN PANTHUWAN, POST-RAMWAN, DISTRICT-FATEHPUR, UP-212601",
-    "CONTACT": null,
-    "MICR": "212010003",
-    "BANK": "ALLAHABAD BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "FATEHPUR",
-    "NEFT": false,
     "IMPS": true
   },
   "ALLA0212774": {
@@ -41359,22 +40895,6 @@
     "NEFT": true,
     "IMPS": true
   },
-  "ALLA0212812": {
-    "IFSC": "ALLA0212812",
-    "BRANCH": "CHAK BANSBERIA",
-    "CENTRE": "HUGLI-CHINSURAH",
-    "DISTRICT": "HUGLI",
-    "STATE": "WEST BENGAL",
-    "ADDRESS": "VILL- CHAK-BANSBERIA, PST- ADCCONAGAR, PS- MAGRA, DIST- HOOGHLY,WB",
-    "CONTACT": null,
-    "BANK": "ALLAHABAD BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "HUGLI-CHINSURAH",
-    "NEFT": false,
-    "IMPS": true,
-    "MICR": null
-  },
   "ALLA0212813": {
     "IFSC": "ALLA0212813",
     "BRANCH": "MADHUSUDANPUR",
@@ -41762,7 +41282,7 @@
   "ALLA0212841": {
     "IFSC": "ALLA0212841",
     "BRANCH": "MORENA",
-    "CENTRE": "MORENA",
+    "CENTRE": " MORENA ",
     "DISTRICT": "MORENA",
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "433, G P COMPLEX, M S ROAD, MORENA (M. P) 476001",
@@ -41771,7 +41291,7 @@
     "BANK": "ALLAHABAD BANK",
     "UPI": true,
     "RTGS": true,
-    "CITY": "MORENA",
+    "CITY": " MORENA ",
     "NEFT": true,
     "IMPS": true
   },
@@ -48671,22 +48191,6 @@
     "NEFT": true,
     "IMPS": true
   },
-  "ALLA0213323": {
-    "IFSC": "ALLA0213323",
-    "BRANCH": "ALLAPUR",
-    "CENTRE": "ALLAHABAD",
-    "DISTRICT": "ALLAHABAD",
-    "STATE": "UTTAR PRADESH",
-    "ADDRESS": "213/78, BAGAMBARI HOUSING SCHEME, ALLAPUR, ALLAHABAD, U.P.- 211003",
-    "CONTACT": "05329919540665",
-    "MICR": "211010019",
-    "BANK": "ALLAHABAD BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "ALLAHABAD",
-    "NEFT": false,
-    "IMPS": true
-  },
   "ALLA0213324": {
     "IFSC": "ALLA0213324",
     "BRANCH": "DEVA",
@@ -49215,22 +48719,6 @@
     "NEFT": true,
     "IMPS": true
   },
-  "ALLA0213363": {
-    "IFSC": "ALLA0213363",
-    "BRANCH": "LAUDHWARA",
-    "CENTRE": "CHITRAKOOT DHAM",
-    "DISTRICT": "CHITRAKOOT",
-    "STATE": "UTTAR PRADESH",
-    "ADDRESS": "VILLAGE & POST, LAUDHWARA, DIST-CHITRAKOOT, U.P.- 210205",
-    "CONTACT": "051988005317011",
-    "MICR": "210010004",
-    "BANK": "ALLAHABAD BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "CHITRAKOOT DHAM",
-    "NEFT": false,
-    "IMPS": true
-  },
   "ALLA0213364": {
     "IFSC": "ALLA0213364",
     "BRANCH": "TALEGAON DABHADE",
@@ -49325,22 +48813,6 @@
     "RTGS": true,
     "CITY": "NOAPARA",
     "NEFT": true,
-    "IMPS": true
-  },
-  "ALLA0213370": {
-    "IFSC": "ALLA0213370",
-    "BRANCH": "MINI BYPASS ROAD BAREILLY",
-    "CENTRE": "BAREILLY",
-    "DISTRICT": "BAREILLY",
-    "STATE": "UTTAR PRADESH",
-    "ADDRESS": "A K COMPLEX, OPPOSITE KRISHNA COUNTY, MINI BYPASS ROAD, BAREILLY, UP-243001",
-    "CONTACT": "05819719404868",
-    "MICR": "244010010",
-    "BANK": "ALLAHABAD BANK",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "BAREILLY",
-    "NEFT": false,
     "IMPS": true
   },
   "ALLA0213371": {

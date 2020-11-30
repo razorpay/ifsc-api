@@ -30,5 +30,21 @@
     "CITY": "MUMBAI",
     "NEFT": true,
     "IMPS": true
+  },
+  "SMBC0000003": {
+    "IFSC": "SMBC0000003",
+    "BRANCH": "CHENNAI",
+    "CENTRE": "CHENNAI",
+    "DISTRICT": "CHENNAI",
+    "STATE": "TAMIL NADU",
+    "ADDRESS": "10TH FLOOR, CHAITANYA IMPERIAL TOWER, PLOT NO.610, BLOCK A, ANNA SALAI, TEYNAMPET, CHENNAI- 600018",
+    "CONTACT": "04461449999",
+    "MICR": "600040002",
+    "BANK": "SUMITOMO MITSUI BANKING CORPORATION",
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "CHENNAI",
+    "NEFT": true,
+    "IMPS": true
   }
 }

@@ -3,16 +3,16 @@
     "BANK": "Abu Dhabi Commercial Bank",
     "IFSC": "ADCB0000001",
     "BRANCH": "Abu Dhabi Commercial Bank IMPS",
-    "CENTRE": "MUMBAI",
-    "DISTRICT": "GREATER BOMBAY",
-    "STATE": "MAHARASHTRA",
-    "ADDRESS": "75 Rehmat Manzil, Veer Nariman Road, Churchgate, Mumbai - 400020",
+    "CENTRE": "NA",
+    "DISTRICT": "NA",
+    "STATE": "NA",
+    "ADDRESS": "NA",
     "CONTACT": null,
     "IMPS": true,
-    "CITY": "MUMBAI",
+    "CITY": "NA",
     "UPI": false,
-    "RTGS": true,
     "NEFT": false,
+    "RTGS": false,
     "MICR": null
   }
 }

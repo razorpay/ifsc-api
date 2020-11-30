@@ -13408,19 +13408,19 @@
     "IMPS": true
   },
   "CORP0000910": {
-    "BANK": "CORPORATION BANK",
     "IFSC": "CORP0000910",
     "BRANCH": "SERVICE BRANCH BANGALORE",
-    "ADDRESS": "SERVICE BRANCH BANGALORE",
-    "CONTACT": "11111111",
-    "CITY": "BANGALORE",
+    "CENTRE": "BANGALORE",
     "DISTRICT": "BANGALORE",
     "STATE": "KARNATAKA",
+    "ADDRESS": "SERVICE BRANCH BANGALORE",
+    "CONTACT": "08011111111",
+    "BANK": "CORPORATION BANK",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "BANGALORE",
     "MICR": "NA",
     "NEFT": true,
-    "CENTRE": "NA",
-    "UPI": true,
-    "RTGS": false,
     "IMPS": true
   },
   "CORP0000911": {

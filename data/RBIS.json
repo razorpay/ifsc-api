@@ -384,19 +384,19 @@
     "IMPS": true
   },
   "RBIS0GOMZEP": {
-    "BANK": "RESERVE BANK OF INDIA",
     "IFSC": "RBIS0GOMZEP",
     "BRANCH": "Guwahati Regional Office",
-    "ADDRESS": "Station Rd, Mawhati, Pan Bazaar, Guwahati, Assam 781001",
-    "CONTACT": "2734266",
-    "CITY": "Guwahati",
+    "CENTRE": "Guwahati",
     "DISTRICT": "Guwahati",
     "STATE": "ASSAM",
+    "ADDRESS": "Station Rd, Mawhati, Pan Bazaar, Guwahati, Assam 781001",
+    "CONTACT": "3612734266",
+    "BANK": "RESERVE BANK OF INDIA",
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "Guwahati",
     "MICR": "NA",
     "NEFT": true,
-    "CENTRE": "NA",
-    "UPI": false,
-    "RTGS": false,
     "IMPS": true
   },
   "RBIS0GOODEP": {
