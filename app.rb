@@ -90,6 +90,8 @@ helpers do
     else
       data = nil
     end
+    # simple fix for now, till we remove date from the scraper
+    data.delete('DATE') if data['DATE']
     data
   end
 end
