@@ -6,7 +6,7 @@ GEM
     httparty (0.18.1)
       mime-types (~> 3.0)
       multi_xml (>= 0.5.2)
-    ifsc (1.5.8)
+    ifsc (1.5.9)
       httparty (~> 0.16)
     kramdown (2.3.0)
       rexml
@@ -58,4 +58,4 @@ DEPENDENCIES
   thin
 
 BUNDLED WITH
-   2.1.4
+   2.2.3
