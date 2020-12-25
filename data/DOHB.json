@@ -11,10 +11,10 @@
     "IMPS": true,
     "CITY": "MUMBAI",
     "UPI": false,
-    "DATE": "42116",
     "MICR": "400234252",
     "RTGS": true,
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "DOHB0000002": {
     "IFSC": "DOHB0000002",
@@ -24,14 +24,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "201,RAHEJA CENTER, FREE PRESS MARG, NARIMAN POINT,MUMBAI 400021",
     "CONTACT": "02233941120",
-    "DATE": "2015-07-04",
     "BANK": "DOHA BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DOHB0000003": {
     "IFSC": "DOHB0000003",
@@ -41,14 +41,14 @@
     "STATE": "KERALA",
     "ADDRESS": "1ST FLOOR, GOLDEN PLAZA, CHITTOOR ROAD, OPP MYMOON THEATER, ERNAKULAM, KOCHI 682018",
     "CONTACT": "04842370507",
-    "DATE": "2015-07-04",
     "BANK": "DOHA BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KOCHI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DOHB0000004": {
     "IFSC": "DOHB0000004",
@@ -58,13 +58,13 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "JAWAD ISPAHANI COMPLEX, 9, ANNASALAI, CHENNAI-600002, TAMILNADU",
     "CONTACT": "04443434848",
-    "DATE": "2018-01-20",
     "MICR": "600746002",
     "BANK": "DOHA BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHENNAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

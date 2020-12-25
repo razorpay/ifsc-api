@@ -11,10 +11,10 @@
     "IMPS": true,
     "CITY": "JAIPUR",
     "UPI": true,
-    "DATE": "2017-05-17",
     "RTGS": true,
     "NEFT": false,
-    "MICR": null
+    "MICR": null,
+    "SWIFT": null
   },
   "AUBL0002011": {
     "IFSC": "AUBL0002011",
@@ -24,14 +24,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "FIFTH SIXTH FLOOR SUNNY BIG JUNCTION STC KHASRA NO 64 TO 67 GRAM SUKHAIPURA NEW ATISH MARKET JAIPUR 302020",
     "CONTACT": "00",
-    "DATE": "2017-06-05",
     "MICR": "302765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002016": {
     "IFSC": "AUBL0002016",
@@ -41,14 +41,14 @@
     "STATE": "DELHI",
     "ADDRESS": "2E22 JHANDEWALAN EXTENSION NEAR JHANDEWALAN METRO STATION NEW DELHI 110055",
     "CONTACT": "00",
-    "DATE": "2017-06-05",
     "MICR": "110765013",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NEW DELHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002017": {
     "IFSC": "AUBL0002017",
@@ -58,14 +58,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "SCO23GFLOORCHANDIGARHAMBALAHIGHWAYNH21ZIRAKPURDISTRICTMOHALIPUNJAB140609",
     "CONTACT": "00",
-    "DATE": "2017-06-05",
     "MICR": "160765005",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MOHALI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002018": {
     "IFSC": "AUBL0002018",
@@ -75,14 +75,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "ABOVE BANDHAN BANK RANI BAZAR BIKANER RAJASTHAN 334001",
     "CONTACT": "00",
-    "DATE": "2017-06-05",
     "MICR": "334765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BIKANER",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002019": {
     "IFSC": "AUBL0002019",
@@ -92,14 +92,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "PLOT NO18 FIRST FLOOR ABOVE ICICI BANK JHALAWAR ROAD KOTRI CIRCLE KOTA RAJASTHAN 324007",
     "CONTACT": "00",
-    "DATE": "2017-06-05",
     "MICR": "324765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOTA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002100": {
     "IFSC": "AUBL0002100",
@@ -109,14 +109,14 @@
     "STATE": "DELHI",
     "ADDRESS": "Building No 24,Plot No 24,Sector 12A,Dwarka,Delhi-110075",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "110765009",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002101": {
     "IFSC": "AUBL0002101",
@@ -126,14 +126,14 @@
     "STATE": "DELHI",
     "ADDRESS": "A8, Priyadarshni Vihar,Patparganj Road ,Laxmi Nagar,Delhi-110092",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "110765005",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002102": {
     "IFSC": "AUBL0002102",
@@ -143,14 +143,14 @@
     "STATE": "DELHI",
     "ADDRESS": "Plot No. 28, Pocket E2, Sector 7, Rohini ,Delhi-110085",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "110765010",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002103": {
     "IFSC": "AUBL0002103",
@@ -160,14 +160,14 @@
     "STATE": "DELHI",
     "ADDRESS": "X/200,B/M,Gurudwara Road,Nai Walan ,Karol Bhag,Delhi-110005",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "110765008",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002104": {
     "IFSC": "AUBL0002104",
@@ -177,14 +177,14 @@
     "STATE": "DELHI",
     "ADDRESS": "F-4, Ground Floor, East of Kailash,Delhi-110065",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "110765012",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002105": {
     "IFSC": "AUBL0002105",
@@ -194,14 +194,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "C 29 RDC RAJ NAGAR GHAZIABAD 201002",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "110765006",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "GHAZIABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002106": {
     "IFSC": "AUBL0002106",
@@ -211,14 +211,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "SCO- 47,Commerical Sector,Old Judicial Complex,Urban Estate-007,Gurgaon,Haryana-122001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "110765007",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "GURGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002107": {
     "IFSC": "AUBL0002107",
@@ -228,14 +228,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "Opposite District Library, Rewari Road,Narnaul,Haryana-123001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "123765052",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MAHENDRAGARH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002108": {
     "IFSC": "AUBL0002108",
@@ -245,14 +245,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "RJS Plaza,Opposite New Anaj Mandi,Hailymandi, Pataudi Road,Pataudi,Haryana-122503",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "110765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "GURGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002109": {
     "IFSC": "AUBL0002109",
@@ -262,14 +262,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "6393/E-1, Opposite Hero Showroom,Near Dharuheda Chungi, Circular Road,Rewari,Haryana-123401",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "123765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "REWARI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002110": {
     "IFSC": "AUBL0002110",
@@ -279,14 +279,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "6351/15, Nicholson Road, Ambala Cantt,Ambala,Haryana-133001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "133765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "AMBALA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002111": {
     "IFSC": "AUBL0002111",
@@ -296,14 +296,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "SCO-181,Sector C.U.E -I,Red Square Market,Hisar,Haryana-125001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "125765052",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "HISAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002112": {
     "IFSC": "AUBL0002112",
@@ -313,14 +313,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "Raj Arjun Plaza,Opposite Sanjeevani Hospital, Ambala Road,Kaithal,Haryana-136027",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "136765152",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KAITHAL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002113": {
     "IFSC": "AUBL0002113",
@@ -330,14 +330,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "SCO- 240, Sector 12,Part 1, Urban Estate,Karnal,Haryana-132001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "132765102",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KARNAL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002114": {
     "IFSC": "AUBL0002114",
@@ -347,14 +347,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "Opposite Vishkarma Mandir, Railway Road,Kurukshetra,Haryana-136118",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "136765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KURUKSHETRA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002115": {
     "IFSC": "AUBL0002115",
@@ -364,14 +364,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "Ward No.19, Dayal Property,G.T. Road, Near Mid Town Hotel,Panipat,Haryana-132103",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "132765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PANIPATH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002116": {
     "IFSC": "AUBL0002116",
@@ -381,14 +381,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "Property No. B16/ 1106, 1105, Kar House,Opposite Bajaj Showroom,Dabwali Road,Sirsa,Haryana-125055",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "125765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SIRSA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002117": {
     "IFSC": "AUBL0002117",
@@ -398,14 +398,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "SCO- 179, Huda, Sector 17,Barlabe Bypass Road, Jagadhari,Yamuna Nagar ,Haryana-135003",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "135765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "YAMUNANAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002118": {
     "IFSC": "AUBL0002118",
@@ -415,14 +415,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "Ground Floor, Plot No  15,Sector  16,Huda Market,Faridabad,Haryana-121002",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "110765003",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "FARIDABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002119": {
     "IFSC": "AUBL0002119",
@@ -432,14 +432,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "F32, Sector 18,Noida,Uttar Pradesh-201301",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "110765004",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "GAUTAM BUDDHA NAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002120": {
     "IFSC": "AUBL0002120",
@@ -449,14 +449,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "Ward No 5 ,Sheet No. 233, Jubilee Circle, City Survey No 687,House No M/47, Gujarat Housing Board,Bhuj,Gujarat-370001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "370765051",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KACHCHH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002121": {
     "IFSC": "AUBL0002121",
@@ -466,14 +466,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "Sai Complex, Ground Floor ,DBZ S-137,Near Banking Circle,Gandhidham,Gujarat-370201",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "370765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KACHCHH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002122": {
     "IFSC": "AUBL0002122",
@@ -483,14 +483,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "Ground Floor,Shop No-4   5, Madhav Square,Opposite Tulshi Hotel ,Lal Buglow Road,Jamnagar,Gujarat-361001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "361765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAMNAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002123": {
     "IFSC": "AUBL0002123",
@@ -500,14 +500,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "Plot No-62, City Survey No-2031/A,First Floor,  Kanakiya Plot,Jetpur,Gujarat-360370",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "360765061",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "RAJKOT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002124": {
     "IFSC": "AUBL0002124",
@@ -517,14 +517,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "Shop No 23,24,Kalpavrush Commercial Complex,Opposite Yamuna Wadi, Zanzarda Road,Junagarh,Gujarat-362001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "362765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JUNAGADH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002125": {
     "IFSC": "AUBL0002125",
@@ -534,14 +534,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "Ram Chowk, Sanala Road, Opposite K K Steel,Morbi,Gujarat-363641",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "363765021",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MORBI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002126": {
     "IFSC": "AUBL0002126",
@@ -551,14 +551,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "J1 Complex, Ground Floor , Near Balaji hall, Besides Pathank school, 150 Feet Ring Road,Rajkot,Gujarat-360005",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "360765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "RAJKOT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002127": {
     "IFSC": "AUBL0002127",
@@ -568,14 +568,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "Shop No 3   4 ,Benison Complex,Opposite Rajlakshmi Complex,OP Road,Vadodara,Gujarat-390015",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "390765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VADODARA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002129": {
     "IFSC": "AUBL0002129",
@@ -585,14 +585,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "Shop No 12,13 Omkar- 2 Complex, Station Road, Near Hotel Loards Plaza,GIDC,Ankaleshwar,Gujarat-393002",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "393765051",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BHARUCH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002130": {
     "IFSC": "AUBL0002130",
@@ -602,14 +602,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "Shop No 1 -4  Agarwal Complex, Dabhoi Road,Alipura,Bodeli,Gujarat-391135",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "391765081",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHHOTA UDAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002131": {
     "IFSC": "AUBL0002131",
@@ -619,14 +619,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "Shop No. G-1, G-2, G-3, G-4,Rockies Apartment, Station Road,Navsari,Gujarat-396445",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "396765061",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NAVSARI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002132": {
     "IFSC": "AUBL0002132",
@@ -636,14 +636,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "Shop No G-1,Sakar Textile Market,Near Sahara Darwaja, Ring Road,Surat,Gujarat-395002",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "395765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002133": {
     "IFSC": "AUBL0002133",
@@ -653,14 +653,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "Shop No-G9 ,SNS Platina,Opposite Reliance Hyper Market,Vesu,Surat,Gujarat-395007",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "395765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002134": {
     "IFSC": "AUBL0002134",
@@ -670,14 +670,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "Ground Floor Dharti Complex,Daman Road, NH8,Vapi,Gujarat-396195",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "396765031",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VALSAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002135": {
     "IFSC": "AUBL0002135",
@@ -687,14 +687,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "Shop No 16- 20,Shreeji Dada Complex,Near Market Yard,Modassa,Kapadwaj Road,Bayad,Gujarat-383325",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "383765111",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ARAVALLI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002136": {
     "IFSC": "AUBL0002136",
@@ -704,14 +704,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "Shop No. 7-11,Pitham Complex, Below City Plaza Hotel,Near Sports Club,Old Bus-Stand Road,Deesa,Gujarat-385535",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "385765031",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BANASKANTHA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002137": {
     "IFSC": "AUBL0002137",
@@ -721,14 +721,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "Shop No. 21,22 Near Govt. Guest House, Near Taxi Stand, Jalaram Park Society,Police Station Road,Deodar,Gujarat-385330",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "385765071",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BANASKANTHA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002139": {
     "IFSC": "AUBL0002139",
@@ -738,14 +738,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "Shop No. 1 To 5, Ground Floor,Ashok Vatika, Sahkari Jin Road,Himmat Nagar,Gujarat-383001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "383765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SABARKANTHA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002140": {
     "IFSC": "AUBL0002140",
@@ -755,14 +755,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "Satyam Complex,CS No.6615-6620,Mouje Idar,Main Ambaji Highway,Idar,Gujarat-383430",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "383765031",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SABARKANTHA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002141": {
     "IFSC": "AUBL0002141",
@@ -772,14 +772,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "Plot No 3A ,Sheet No 18,Chalta No 138,City Survey No 5598,Ahmedabad Highway,Mehsana,Gujarat-384002",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "384765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MAHESANA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002142": {
     "IFSC": "AUBL0002142",
@@ -789,14 +789,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "Shop No.A7,A8,CTS No.509 Paiki 1,Shamalaji Road,Modasa,Gujarat-383315",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "383765051",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ARAVALLI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002143": {
     "IFSC": "AUBL0002143",
@@ -806,14 +806,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "Trimurti Complex,Opposite Income Tax Office,Abu National Highway,Palanpur,Gujarat-385001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "385765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BANASKANTHA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002144": {
     "IFSC": "AUBL0002144",
@@ -823,14 +823,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "City Survey No. 1639, Sheet No. 131,Santokba Hall of Gunagadiparti,Rajmahal Station Road,Nr. Patan Railway Station,Patan,Gujarat-384265",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "384765081",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PATAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002145": {
     "IFSC": "AUBL0002145",
@@ -840,14 +840,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "Amar Complex ,High Way Chowkdi,Wajagadh,Tharad,Gujarat-385565",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "385765051",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BANAS KANTHA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002146": {
     "IFSC": "AUBL0002146",
@@ -857,14 +857,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "Plot No 171,Shop No. 1-5, 101-102,Shubh Complex, Sector 21 Gandhinagar,Opposite Sabarmati Gas Ltd,Gandhinagar,Gujarat-382021",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "380765004",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "GANDHINAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002147": {
     "IFSC": "AUBL0002147",
@@ -874,14 +874,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "Shop no.8,9(GF)Shop No.F/12-13-23-24,(FF),Bt Mall,Navjeevan Mill Compound,Kalol, Gandhinagar, Gujrat-382721",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "380765005",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "GANDHINAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002148": {
     "IFSC": "AUBL0002148",
@@ -891,14 +891,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "Shop No. 20   21, Madhav Complex,Near Swagat Hotel, Ahmedabad Road,Kathlal,Gujarat-387630",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "387765501",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KHEDA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002149": {
     "IFSC": "AUBL0002149",
@@ -908,14 +908,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "Mehta Complex,Opposite Lilavati Hospital,Godhra-Lunawada Highway,Lunavada,Gujarat-389230",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "389765061",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MAHISAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002150": {
     "IFSC": "AUBL0002150",
@@ -925,14 +925,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "103,Gravity Complex,Opposite Amba Ashram,College Road,Nadiad,Gujarat-387001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "387765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KHEDA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002151": {
     "IFSC": "AUBL0002151",
@@ -942,14 +942,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "City Centre, Shop No 3-5,Opposite M P Shah Arts   Science College,Surendranagar,Gujarat-363002",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "363765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SURENDRANAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002152": {
     "IFSC": "AUBL0002152",
@@ -959,14 +959,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "Ground Floor,Sheetal Vasha,Shivranjani Cross Roads,Satallite,Ahmedabad,Gujarat-380015",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "380765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002153": {
     "IFSC": "AUBL0002153",
@@ -976,14 +976,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "City Survey 13-16 ,Ground Floor,Central Business Space,Opposite Fortune Landmark Hotel,Usmanpura,Ashram Rd,Ahmedabad,Gujarat-380013",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "380765006",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002154": {
     "IFSC": "AUBL0002154",
@@ -993,14 +993,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "Ground Floor, Shop No 1-5,Shree Ram Arcade,Station Road,Anand,Gujarat-388001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "388765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ANAND",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002155": {
     "IFSC": "AUBL0002155",
@@ -1010,14 +1010,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "Shop No:105-107,Silver Plaza Complex,Below Hotel Kalasai,Bavla,Gujarat-382220",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "380765003",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002156": {
     "IFSC": "AUBL0002156",
@@ -1027,14 +1027,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "Plot 8B, Shop No 1 2,Sappire Prime,Opposite Daxinamurti School,Waghawadi Raod,Bhavnagar,Gujarat-364002",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "364765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BHAVNAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002157": {
     "IFSC": "AUBL0002157",
@@ -1044,14 +1044,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "Near Ratan Park Society, Bus Stand Road,Borsad,Gujarat-388540",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "388765071",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ANAND",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002158": {
     "IFSC": "AUBL0002158",
@@ -1061,14 +1061,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "1st Floor ,GLK Tower,Near Bus Depot,Station Road,Dahod,Gujarat-389151",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "389765021",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DAHOD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002159": {
     "IFSC": "AUBL0002159",
@@ -1078,14 +1078,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "Shop No F/5   F/6 ,Ground Floor,Landmark Complex,Prabha Road,Godhra,Gujarat-389001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "389765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PANCH MAHALS",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002160": {
     "IFSC": "AUBL0002160",
@@ -1095,14 +1095,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "Shop No-12A, 14-17,G-Floor,Shop No-110B,110A,11A,11B,109 1St Floor,Relief Arcad,Old Relief Cinema,Relief Road,Ahmedabad,Gujarat-380001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "380765007",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002161": {
     "IFSC": "AUBL0002161",
@@ -1112,14 +1112,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "Shop No 1/B Ground Floor,Satva Shakti,Pushpakunj Circle,Kankaria,Ahmedabad,Gujarat-380008",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "380765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002162": {
     "IFSC": "AUBL0002162",
@@ -1129,14 +1129,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Ward No. 10,Choudhary Plaza,Bandikui,Rajasthan-303313",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "303765003",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DAUSA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002163": {
     "IFSC": "AUBL0002163",
@@ -1146,14 +1146,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "C-55,Subh Laxmi,Near Maharishi Arvind Institute,Ambabari,Jaipur,Rajasthan-302039",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "302765008",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002164": {
     "IFSC": "AUBL0002164",
@@ -1163,14 +1163,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Ground And First Floor Shop No.1-3  13-15,Basant Plaza, Morija,Near Krishimandi, Chomu,Rajasthan-303702",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "303765004",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002165": {
     "IFSC": "AUBL0002165",
@@ -1180,14 +1180,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Shop No. 40/1   40/2, N.H. -11,Agra Road,Khasra No. 1423,Dausa,Rajasthan-303303",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "303765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DAUSA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002167": {
     "IFSC": "AUBL0002167",
@@ -1197,14 +1197,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Shop No 305,306 Johari Bazar, House No.3946,Barathi Bhawan ,MSB Ka Rasta,Jaipur,Rajasthan-302003",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "302765007",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002168": {
     "IFSC": "AUBL0002168",
@@ -1214,14 +1214,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Shop No G1,ARG  North Avenue,Sikar Road,Jaipur,Rajasthan-302013",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "302765009",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002169": {
     "IFSC": "AUBL0002169",
@@ -1231,14 +1231,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "59-62,Main bus Stand,Jamwa Ramgarh Road, Heerawala,Jamwa Ramgarh,Rajasthan-302027",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "303765005",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002170": {
     "IFSC": "AUBL0002170",
@@ -1248,14 +1248,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Ward No. 14, Opposite Police Station,Jakhar Complex, Kalwar Road,Jobner,Rajasthan-303328",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "303765006",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002171": {
     "IFSC": "AUBL0002171",
@@ -1265,14 +1265,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Lakhasra No. 2363/1,Near Santosh Tractor,Chomu Road,Khejroli,Rajasthan-303803",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "303765007",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002172": {
     "IFSC": "AUBL0002172",
@@ -1282,14 +1282,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Ward No.8,  Post Bidasar,District Churu,Bidasar,Rajasthan-331501",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "331765009",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHURU",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002173": {
     "IFSC": "AUBL0002173",
@@ -1299,14 +1299,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Ward No. 10, Near Hospital, Main Darwaja,Main Market,Dantaramgarh,Rajasthan-332702",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "332765007",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SIKAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002174": {
     "IFSC": "AUBL0002174",
@@ -1316,14 +1316,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Old Eidgah Road,Didwana,Rajasthan-341303",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "341765003",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGAUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002176": {
     "IFSC": "AUBL0002176",
@@ -1333,14 +1333,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Reengus Bus Stand Road,Reengus,Rajasthan-332404",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "332765003",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SIKAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002177": {
     "IFSC": "AUBL0002177",
@@ -1350,14 +1350,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Near Taparia Bagichee,Station Road,Next to Janana Hospital,Sikar,Rajasthan-332001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "332765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SIKAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002179": {
     "IFSC": "AUBL0002179",
@@ -1367,14 +1367,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Station Road,Ward No 7,Sri Madhopur,Rajasthan-332715",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "332765005",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SIKAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002180": {
     "IFSC": "AUBL0002180",
@@ -1384,14 +1384,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Ward No. 29, Station Road,Sujangarh,Rajasthan-331507",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "331765006",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHURU",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002181": {
     "IFSC": "AUBL0002181",
@@ -1401,14 +1401,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Navin Tower ,Pilani Road,Chirawa,Rajasthan-333026",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "333765003",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JHUNJHUNU",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002182": {
     "IFSC": "AUBL0002182",
@@ -1418,14 +1418,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "WARD NO 24 NR HOTEL NATRAJ PURANI SADAK CHURU 331001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "331765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHURU",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002183": {
     "IFSC": "AUBL0002183",
@@ -1435,14 +1435,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Ward No.19 ,Parturam Ji Chakki Ke Pass, J.P. Tower,Fatehpur,Rajasthan-332301",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "332765006",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SIKAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002184": {
     "IFSC": "AUBL0002184",
@@ -1452,14 +1452,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Shop No. 4 - 8, Vinayak Complex,Near Maharaja Hotel, Ghandi Chowk,Jhunjhunu,Rajasthan-333001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "333765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JHUNJHUNU",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002185": {
     "IFSC": "AUBL0002185",
@@ -1469,14 +1469,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Ward No. 6, Naharsingh Park Ke Pass,Main Market,Nawalgarh,Rajasthan-333042",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "333765006",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JHUNJHUNU",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002186": {
     "IFSC": "AUBL0002186",
@@ -1486,14 +1486,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Ward No 16,Near Old Bus Stand,Sahwa(Taranagar),Churu,Rajasthan-331302",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "331765007",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHURU",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002187": {
     "IFSC": "AUBL0002187",
@@ -1503,14 +1503,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Ward No.3, Sheetla Chowk, Taranagar,Rajasthan-331304",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "331765008",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHURU",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002188": {
     "IFSC": "AUBL0002188",
@@ -1520,14 +1520,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Khasra No.1701, Near Ghumchakkar,Jhunjhunu Road,Udaipurwati,Rajasthan-333307",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "333765005",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JHUNJHUNU",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002189": {
     "IFSC": "AUBL0002189",
@@ -1537,14 +1537,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Khasra No. 2150, 2151, Raghu Marg,Lakhanda Wala Kua,Vishnu Priya, Opposite Govt.Children Hospital,Alwar,Rajasthan-301001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "301765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ALWAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002190": {
     "IFSC": "AUBL0002190",
@@ -1554,14 +1554,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Patta No. 24, Narayanpur Road,Bansur,Rajasthan-301402",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "301765006",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ALWAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002191": {
     "IFSC": "AUBL0002191",
@@ -1571,14 +1571,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Goswami Sadan,Ward No 7, Court Road,Behror,Rajasthan-301701",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "301765004",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ALWAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002192": {
     "IFSC": "AUBL0002192",
@@ -1588,14 +1588,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "A-2 Shakuntalam Tower,Bhagat Singh Colony ,Bhiwadi,Rajasthan-301019",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "301765003",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ALWAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002193": {
     "IFSC": "AUBL0002193",
@@ -1605,14 +1605,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Deep House, Ghatwari Near Main Bus Stand,Dausa Highway ,Ghatwari,Rajasthan-303120",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "303765008",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002194": {
     "IFSC": "AUBL0002194",
@@ -1622,14 +1622,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Khasra No. 132, Barsinghpura Road,Khandela Bypass,Khandela,Rajasthan-332709",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "332765008",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SIKAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002195": {
     "IFSC": "AUBL0002195",
@@ -1639,14 +1639,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Near Govt College,Neem Ka Thana Road,Khetri,Rajasthan-333503",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "333765004",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JHUNJHUNU",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002196": {
     "IFSC": "AUBL0002196",
@@ -1656,14 +1656,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Khasra No. 512, Tijara Road,Kishangarh Bas,Rajasthan-301405",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "301765005",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ALWAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002197": {
     "IFSC": "AUBL0002197",
@@ -1673,14 +1673,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Shri Ganesh Enterprises,Opposite Nagar Palika Park,Punjabi Sindhi Colony,Kotputli,Rajasthan-303108",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "303765009",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002198": {
     "IFSC": "AUBL0002198",
@@ -1690,14 +1690,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Plot No 16 ,Zone B,Shivam Plaza,Kapil Mandi ,Near Dharm Kata,Neem Ka Thana,Rajasthan-332713",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "332765004",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SIKAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002199": {
     "IFSC": "AUBL0002199",
@@ -1707,14 +1707,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "NH 8,Near Bus Stand,Paota,Rajasthan-303106",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "303765010",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002200": {
     "IFSC": "AUBL0002200",
@@ -1724,14 +1724,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Hanumant Plaza,Old Delhi Road,Opposite Nagar Palika,Shahpura,Rajasthan-303103",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "303765011",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002201": {
     "IFSC": "AUBL0002201",
@@ -1741,14 +1741,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Khasra No. 2588 ,Main Bus Stand,Alwar Road,Thanagazi,Rajasthan-301022",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "301765007",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ALWAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002202": {
     "IFSC": "AUBL0002202",
@@ -1758,14 +1758,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Ward No 10, Loharoo Ka Mohalla,Thoi,Rajasthan-332719",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "332765009",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SIKAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002203": {
     "IFSC": "AUBL0002203",
@@ -1775,14 +1775,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Khasra No. 703 , Baba Market,Link Road,Bagru,Rajasthan-303007",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "303765012",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002204": {
     "IFSC": "AUBL0002204",
@@ -1792,14 +1792,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Plot No 36, Neer Sagar Market,Bhankrota,Rajasthan-302026",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "302765010",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002205": {
     "IFSC": "AUBL0002205",
@@ -1809,14 +1809,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Shiv Auto Agency,Main Chauraha,Jaipur Road,Dudu,Rajasthan-303008",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "303765013",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002206": {
     "IFSC": "AUBL0002206",
@@ -1826,14 +1826,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "10, Shivraj Niketan ,Gautam Marg, Vaishali Nagar,Jaipur,Rajasthan-302021",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "302765005",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002207": {
     "IFSC": "AUBL0002207",
@@ -1843,14 +1843,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Shop No 5,6 , Ground Floor,Axis Mall, Bhagwan Das Road,C-Scheme,Jaipur,Rajasthan-302007",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "302765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002208": {
     "IFSC": "AUBL0002208",
@@ -1860,14 +1860,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Ground Floor, Plot No 3,Gem Enclave, Guru Nanak Path,Calgiri Marg, Malviya Nagar,Jaipur,Rajasthan-302017",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "302765011",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002209": {
     "IFSC": "AUBL0002209",
@@ -1877,14 +1877,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "B 22-23, Badjatya Complex,Janta Store Central Market,Bapu Nagar,Jaipur,Rajasthan-302015",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "302765004",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002210": {
     "IFSC": "AUBL0002210",
@@ -1894,14 +1894,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Ward No. 13, Chomu Bazar Road,Agrasen Market,Renwal,Rajasthan-303603",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "303765014",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002211": {
     "IFSC": "AUBL0002211",
@@ -1911,14 +1911,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Main Market Barna,Barna,Rajasthan-303701",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "303765018",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002212": {
     "IFSC": "AUBL0002212",
@@ -1928,14 +1928,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Khasra No. 1070   1071,Khadi Gram Udyog Sadan Vikas Samiti,Bassi,Rajasthan-303301",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "303765015",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002213": {
     "IFSC": "AUBL0002213",
@@ -1945,14 +1945,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Kotkhavada Mod,Near Shyam Tower,Chaksu,Rajasthan-303901",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "303765016",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002214": {
     "IFSC": "AUBL0002214",
@@ -1962,14 +1962,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "28-33,Shopping Centre Sector 9,Madhyam Marg,Jaipur,Rajasthan-302020",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "302765003",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002215": {
     "IFSC": "AUBL0002215",
@@ -1979,14 +1979,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Plot No 22 To 25, 91,92, Gopal Nagar A ,Ashok Vihar Ext.,Gopalpura By Pass Jaipur,Jaipur,Rajasthan-302015",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "302765012",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002216": {
     "IFSC": "AUBL0002216",
@@ -1996,14 +1996,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Plot No A,Sector-8, Haldighati Marg,Main Tonk Road, Pratap Nagar,Jaipur,Rajasthan-302033",
     "CONTACT": "00",
-    "DATE": null,
     "MICR": "302765014",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002217": {
     "IFSC": "AUBL0002217",
@@ -2013,14 +2013,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Business Avenue, B-12,Govind Marg, Raja Park,Jaipur,Rajasthan-302004",
     "CONTACT": "00",
-    "DATE": null,
     "MICR": "302765013",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002218": {
     "IFSC": "AUBL0002218",
@@ -2030,14 +2030,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Patta No. 93, Jaipur Road,Phagi,Rajasthan-303005",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "303765017",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002219": {
     "IFSC": "AUBL0002219",
@@ -2047,14 +2047,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Nazar Bag Road,Sunaro Ka Mandir,Tonk,Rajasthan-304001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "304765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "TONK",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002220": {
     "IFSC": "AUBL0002220",
@@ -2064,14 +2064,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Gurukripa Building,Anasagar Road,Chaupati Ke Samne,Ajmer,Rajasthan-305001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "305765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "AJMER",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002221": {
     "IFSC": "AUBL0002221",
@@ -2081,14 +2081,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "8/243,Gali No 6,Mahaveer Ganj,Plot No B,Hotel Gangaur Jodhpur Road,Beawar,Rajasthan-305901",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "305765003",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "AJMER",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002222": {
     "IFSC": "AUBL0002222",
@@ -2098,14 +2098,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Khasra No 29,Plot No 25,Near Railway Phatak, Gulabpura Road, Bijaynagar,Rajasthan-305624",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "305765006",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "AJMER",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002223": {
     "IFSC": "AUBL0002223",
@@ -2115,14 +2115,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Plot No. 242, Opposite  hi Complex, Sapanda Road,Kekri,Rajasthan-305404",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "305765007",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "AJMER",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002224": {
     "IFSC": "AUBL0002224",
@@ -2132,14 +2132,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Shop No. 9,10,Bhatt Guest House,Jaipur Road, Madanganj, Kishangarh,Rajasthan-305801",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "305765004",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "AJMER",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002225": {
     "IFSC": "AUBL0002225",
@@ -2149,14 +2149,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Shop No. 1204,Subhash Ganj,Anaj Mandi,Nasirabad,Rajasthan-305601",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "305765005",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "AJMER",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002226": {
     "IFSC": "AUBL0002226",
@@ -2166,14 +2166,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Shree Ram Sadan ,Jaipur Sikar Road,Nawa City,Rajasthan-341509",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "341765008",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGAUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002227": {
     "IFSC": "AUBL0002227",
@@ -2183,14 +2183,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "First Floor, Ramapeer Complex,Near Rathi Petrol Pump,Kishangarh Road,Parbatsar,Rajasthan-341512",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "341765007",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGAUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002228": {
     "IFSC": "AUBL0002228",
@@ -2200,14 +2200,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Ward No.1, Link Road,Sarwar,Rajasthan-305403",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "305765008",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "AJMER",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002229": {
     "IFSC": "AUBL0002229",
@@ -2217,14 +2217,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Ward No. 14, Panchayat Samiti Road,Opposite Panchayat Samiti, Beem Road,Asind,Rajasthan-311301",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "311765004",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BHILWARA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002230": {
     "IFSC": "AUBL0002230",
@@ -2234,14 +2234,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Khemka Building, Khasra No. 372/180,Tehsil Road,Begun,Rajasthan-312023",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "312765004",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHITTORGARH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002231": {
     "IFSC": "AUBL0002231",
@@ -2251,14 +2251,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Ward 13, Plot No. C1-C4,Hira Panna Market, Pur Road,Bhilwara,Rajasthan-311001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "311765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BHILWARA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002232": {
     "IFSC": "AUBL0002232",
@@ -2268,14 +2268,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Patta No. 333, Near Bus Stand,Bijoliya,Rajasthan-311602",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "311765003",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BHILWARA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002233": {
     "IFSC": "AUBL0002233",
@@ -2285,14 +2285,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Plot No.14-15C, Kumbha Nagar,Chittorgarh,Rajasthan-312001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "312765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHITTORGARH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002234": {
     "IFSC": "AUBL0002234",
@@ -2302,14 +2302,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Ward No 8, Shop No 1 - 5,Bhut Bavji Ke Pass , Gali No 3,Gangapur,Rajasthan-311801",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "311765005",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BHILWARA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002235": {
     "IFSC": "AUBL0002235",
@@ -2319,14 +2319,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "B 2 OPP PUNJAB NATIONAL BANK HIGH SCHOOL ROAD ZERO MILE ROAD ABOVE AXIS BANK PRATAPGARH 312605",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "312765003",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PRATAPGARH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002236": {
     "IFSC": "AUBL0002236",
@@ -2336,14 +2336,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "WARD NO 18 OPPOSITE SURABHI COMPLEX JALEHAKKI NATHDWARA ROAD KANKROLI RAJSAMAND 313324",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "313765003",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "RAJSAMAND",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002237": {
     "IFSC": "AUBL0002237",
@@ -2353,14 +2353,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "MOHAN COLONY OPP SHRI NATH ASHRAM UDAIPUR ROAD BANSWARA 327001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "327765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BANSWARA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002238": {
     "IFSC": "AUBL0002238",
@@ -2370,14 +2370,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Ward No. 20, Near Chandra Lok Talkies ,Station Road, Main Bhinder Road,Bhinder,Rajasthan-313603",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "313765006",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "UDAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002239": {
     "IFSC": "AUBL0002239",
@@ -2387,14 +2387,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Patta No. 220, Khasra No. 1030/5/51, Near Bus Stand,Dungarpur,Rajasthan-314001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "314765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DUNGARPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002240": {
     "IFSC": "AUBL0002240",
@@ -2404,14 +2404,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Ward No- 12,  Near Post Office, Fatehnagar,Udaipur,Rajasthan-313205",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "313765004",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "UDAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002241": {
     "IFSC": "AUBL0002241",
@@ -2421,14 +2421,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Dungarpur Road,Sagwara,Rajasthan-314025",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "314765003",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DUNGARPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002242": {
     "IFSC": "AUBL0002242",
@@ -2438,14 +2438,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Near High Secondary School, Ward No.2,Mata Ki Ser Salumber,Salumber,Rajasthan-313027",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "313765005",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "UDAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002243": {
     "IFSC": "AUBL0002243",
@@ -2455,14 +2455,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Plot No. 168, Ashwini Marg,Near Delhi Gate ,Udaipur,Rajasthan-313001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "313765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "UDAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002244": {
     "IFSC": "AUBL0002244",
@@ -2472,14 +2472,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Charmurti Circle,Kota Road,Baran,Rajasthan-325205",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "325765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BARAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002245": {
     "IFSC": "AUBL0002245",
@@ -2489,14 +2489,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Khasra No 1738/160,1741/161,Near Khoja Gate Circle, Civil Line Road,Bundi,Rajasthan-323001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "323765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BUNDI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002246": {
     "IFSC": "AUBL0002246",
@@ -2506,14 +2506,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Main Lakheri,Bundi Road,Chamawali,Rajasthan-323615",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "323765003",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BUNDI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002247": {
     "IFSC": "AUBL0002247",
@@ -2523,14 +2523,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Opposite Krishi Upaj Mandi, Station Road,Chhabra,Rajasthan-325220",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "325765003",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BARAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002248": {
     "IFSC": "AUBL0002248",
@@ -2540,14 +2540,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Ward No.16, Plot No. 22, Main Road,Deoli,Rajasthan-304804",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "304765003",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "TONK",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002249": {
     "IFSC": "AUBL0002249",
@@ -2557,14 +2557,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Near Nirbhay Singh Circle,Jhalawar,Rajasthan-326001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "326765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JHALAWAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002250": {
     "IFSC": "AUBL0002250",
@@ -2574,14 +2574,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Plot No.385,Shoping Center,Ghodewala Circle,Kota ,Rajasthan-324007",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "324765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOTA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002251": {
     "IFSC": "AUBL0002251",
@@ -2591,14 +2591,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "2-C-7 ,Talwandi Circle,Kota ,Rajasthan-324005",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "324765003",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOTA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002252": {
     "IFSC": "AUBL0002252",
@@ -2608,14 +2608,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Khasra No.61, Raonsli Circle, Bazar No.1,Panchmukhi Road, Opposite Anajmandi,Ramganj Mandi,Rajasthan-326519",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "326765003",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOTA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002253": {
     "IFSC": "AUBL0002253",
@@ -2625,14 +2625,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Khasra No. 789,Ward No.8, Kota Road,Sangod,Rajasthan-325601",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "325765004",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOTA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002254": {
     "IFSC": "AUBL0002254",
@@ -2642,14 +2642,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Khasra No. 331, Plot No. 20 A,Indira Colony,Sawai Madhopur,Rajasthan-322001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "322765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SAWAIMADHOPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002255": {
     "IFSC": "AUBL0002255",
@@ -2659,14 +2659,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Kilak Complex,Opposite Middle Girls School,Near Deputy Office,Degana,Rajasthan-341503",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "341765006",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGAUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002256": {
     "IFSC": "AUBL0002256",
@@ -2676,14 +2676,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Gotan Station,Merta City Road,Gotan,Rajasthan-342902",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "342765007",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGAUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002257": {
     "IFSC": "AUBL0002257",
@@ -2693,14 +2693,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Shop No G2 to G4. Satra Plaaza,Nai Sadak,Jodhpur,Rajasthan-342001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "342765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JODHPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002258": {
     "IFSC": "AUBL0002258",
@@ -2710,14 +2710,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Plot No C-43A 2 ,PWD Colony,Jodhpur,Rajasthan-342001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "342765003",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JODHPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002259": {
     "IFSC": "AUBL0002259",
@@ -2727,14 +2727,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Khasara No. 907, 908,Kuchaman Deedwana Road, Kuchaman City,Rajasthan-341508",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "341765005",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGAUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002260": {
     "IFSC": "AUBL0002260",
@@ -2744,14 +2744,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Krishimandi Road,Nagaur Choki,Merta City,Rajasthan-341510",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "341765004",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGAUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002261": {
     "IFSC": "AUBL0002261",
@@ -2761,14 +2761,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Main Station Road, Near Post Office,Ganpati Plaza, Osian,Rajasthan-342303",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "342765004",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JODHPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002262": {
     "IFSC": "AUBL0002262",
@@ -2778,14 +2778,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Jangir Plaza, Nagaur Road, Phalodi,Rajasthan-342301",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "342765005",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JODHPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002263": {
     "IFSC": "AUBL0002263",
@@ -2795,14 +2795,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Patta No. 2281/89,Ambedkar Circle,Opposite Old Bus Stand,Khejrala Road,Pipar,Rajasthan-342601",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "342765006",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JODHPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002264": {
     "IFSC": "AUBL0002264",
@@ -2812,14 +2812,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Patta No. 172,  Hotel Laxmi Residency, Rani Bazar,Bikaner,Rajasthan-334001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "334765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BIKANER",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002265": {
     "IFSC": "AUBL0002265",
@@ -2829,14 +2829,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "B-K-9, Pawan Puri,Bikaner,Rajasthan-334001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "334765003",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BIKANER",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002266": {
     "IFSC": "AUBL0002266",
@@ -2846,14 +2846,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Ward No. 12, Station Road,Near Old Power House,Sri Dungargarh,Rajasthan-331803",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "331765004",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BIKANER",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002267": {
     "IFSC": "AUBL0002267",
@@ -2863,14 +2863,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Patta No. 443, Misal No. 24,Opposite Government Hospital,Kolayat,Rajasthan-334302",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "334765006",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BIKANER",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002268": {
     "IFSC": "AUBL0002268",
@@ -2880,14 +2880,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Shop No. 152, New Dhan Mandi,Lunkaransar,Rajasthan-334603",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "334765005",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BIKANER",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002269": {
     "IFSC": "AUBL0002269",
@@ -2897,14 +2897,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Opposite Aditya Hotel, Hanuman Bagh Road ,Nagaur,Rajasthan-341001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "341765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGAUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002270": {
     "IFSC": "AUBL0002270",
@@ -2914,14 +2914,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "House No. 728,Opposite Janta Dharmkanta, Bikaner Road,Nokha,Rajasthan-334803",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "334765004",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BIKANER",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002271": {
     "IFSC": "AUBL0002271",
@@ -2931,14 +2931,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Near Monahar Das Ji Ki Samadi ,Link Road,Ratangarh,Rajasthan-331022",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "331765005",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHURU",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002272": {
     "IFSC": "AUBL0002272",
@@ -2948,14 +2948,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Opposite Roadways Bus Stand,Sardarshahar,Rajasthan-331403",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "331765003",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHURU",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002273": {
     "IFSC": "AUBL0002273",
@@ -2965,14 +2965,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Shop No 4,5  Near Shanti Kunj Bagicha,Patta No. 3,4 ,Sadar Bazar,Abu Road,Rajasthan-307026",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "307765003",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SIROHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002274": {
     "IFSC": "AUBL0002274",
@@ -2982,14 +2982,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Shop No, 1 to 6, Opposite  Life Line Hospital,Sai Complex, Krishi Mandi Road,Bhinmal,Rajasthan-343029",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "343765003",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JALORE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002275": {
     "IFSC": "AUBL0002275",
@@ -2999,14 +2999,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Charbhuja Complex,Opposite Hanuman Temple,Nimaj Road,Near Bus Stand,Jaitaran,Rajasthan-306302",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "306765003",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PALI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002276": {
     "IFSC": "AUBL0002276",
@@ -3016,14 +3016,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Plot No.6,  Bagoda Road,Kasturba Colony,Jalore,Rajasthan-343001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "343765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JALORE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002277": {
     "IFSC": "AUBL0002277",
@@ -3033,14 +3033,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "24, Mahaveer Marg ,Opposite Town Hall ,Ward No 25,Pali,Rajasthan-306401",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "306765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PALI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002278": {
     "IFSC": "AUBL0002278",
@@ -3050,14 +3050,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Patta No. 94,  Mega Highway,,Reodar,Rajasthan-307514",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "307765004",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SIROHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002279": {
     "IFSC": "AUBL0002279",
@@ -3067,14 +3067,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Plot No 126, KP Tower, Ground Floor,Sirohi Road, Opposite Sanjivini Hospital,Sirohi,Rajasthan-307001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "307765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SIROHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002280": {
     "IFSC": "AUBL0002280",
@@ -3084,14 +3084,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Plot No. 7   8,First Floor, Pali Road,Sumerpur,Rajasthan-306902",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "306765004",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PALI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002281": {
     "IFSC": "AUBL0002281",
@@ -3101,14 +3101,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Plot No. 18, Near Ganesh Iron Store,Bikaner Road,Anupgarh,Rajasthan-335701",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "335765004",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "GANGANAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002282": {
     "IFSC": "AUBL0002282",
@@ -3118,14 +3118,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Near Thakurji  Mandir ,Bisrasar,Rajasthan-335524",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "335765005",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "HANUMANGARH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002283": {
     "IFSC": "AUBL0002283",
@@ -3135,14 +3135,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Shop No- 2, 3 Dillon Complex,Deep Colony ,Hanumangarh,Rajasthan-335512",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "335765003",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "HANUMANGARH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002284": {
     "IFSC": "AUBL0002284",
@@ -3152,14 +3152,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Ward No. 22, Bhihani Road, Nohar,Rajasthan-335523",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "335765006",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "HANUMANGARH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002285": {
     "IFSC": "AUBL0002285",
@@ -3169,14 +3169,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Shop No. 82   83, Grain Market,Raisinghnagar,Rajasthan-335051",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "335765007",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "GANGANAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002286": {
     "IFSC": "AUBL0002286",
@@ -3186,14 +3186,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Plot 12, Eastern Part, Dhanmandi, Hanuman Garh Road,Rawatsar,Rajasthan-335524",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "335765008",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "HANUMANGARH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002287": {
     "IFSC": "AUBL0002287",
@@ -3203,14 +3203,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Melody House 25A,Public Park,Ravindra Path,Sriganganagar,Rajasthan-335001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "335765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "GANGANAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002288": {
     "IFSC": "AUBL0002288",
@@ -3220,14 +3220,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Plot No. 28, Gol Bazar,Near PD Arora Hospital,Sri Vijainagar,Rajasthan-335704",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "335765009",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "GANGANAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002289": {
     "IFSC": "AUBL0002289",
@@ -3237,14 +3237,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Bikaner Road,Suratgarh,Rajasthan-335804",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "335765010",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "GANGANAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002290": {
     "IFSC": "AUBL0002290",
@@ -3254,14 +3254,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Khasra No. 843, Near Jodhpur Hospital,NH-114,Balesar,Rajasthan-342023",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "342765009",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JODHPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002291": {
     "IFSC": "AUBL0002291",
@@ -3271,14 +3271,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Opposite Jat Samaj , New Bus Stand,Pachpadra Road,Balotra,Rajasthan-344022",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "344765003",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BARMER",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002292": {
     "IFSC": "AUBL0002292",
@@ -3288,14 +3288,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Ground Floor   2 Floor,Dev Tower,Near CMHO Office, Roy Colony Road,Barmer,Rajasthan-344001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "344765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BARMER",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002293": {
     "IFSC": "AUBL0002293",
@@ -3305,14 +3305,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Station Road,Pepli Chowk, Bhakhasar Road,Chouhtan,Rajasthan-344702",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "344765004",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BARMER",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002294": {
     "IFSC": "AUBL0002294",
@@ -3322,14 +3322,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Satya Kunj,Shiv Road,Jaisalmer,Rajasthan-345001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "345765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAISALMER",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002295": {
     "IFSC": "AUBL0002295",
@@ -3339,14 +3339,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Falsund Choraha, Jodhpur Road,Pokaran,Rajasthan-345021",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "345765003",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAISALMER",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002296": {
     "IFSC": "AUBL0002296",
@@ -3356,14 +3356,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "Kannod Road, Near Mann Cafe,Astha,Madhya Pradesh-466116",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "466765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SEHORE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002297": {
     "IFSC": "AUBL0002297",
@@ -3373,14 +3373,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "Ward No 2,Jain Cycle Store,Near Bus Stand Main Road,Bareli,Madhya Pradesh-464668",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "464765501",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "RAISEN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002298": {
     "IFSC": "AUBL0002298",
@@ -3390,14 +3390,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "Abha Shree Hotel,Civil Lines,Betul,Madhya Pradesh-460001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "460765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BETUL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002299": {
     "IFSC": "AUBL0002299",
@@ -3407,14 +3407,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "Alankar Complex,Plot No 10,MP Nagar ,Zone 2,Bhopal,Madhya Pradesh-462011",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "462765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BHOPAL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002300": {
     "IFSC": "AUBL0002300",
@@ -3424,14 +3424,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "8-B, Govind Garden, Jindal Arcade,Raisen Road,Bhopal,Madhya Pradesh-462023",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "462765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BHOPAL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002301": {
     "IFSC": "AUBL0002301",
@@ -3441,14 +3441,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "Near Guna Naka,Old AB Road,Biaora,Madhya Pradesh-465674",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "465765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "RAJGARH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002302": {
     "IFSC": "AUBL0002302",
@@ -3458,14 +3458,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "Ward No.7,Plot No.2020-2022,Har Ganga Bhawan,Bareth Road,Ganj Basoda,Madhya Pradesh-464221",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "464765051",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VIDISHA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002303": {
     "IFSC": "AUBL0002303",
@@ -3475,14 +3475,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "AL Hafeez Tower,Plot No 34/21,Street No. 41,Anand Nagar,Hoshangabad,Madhya Pradesh-461001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "461765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "HOSHANGABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002304": {
     "IFSC": "AUBL0002304",
@@ -3492,14 +3492,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "Ward No 15, Rishi Nagar,Bhopal Road,Nasrullaganj,Madhya Pradesh-466331",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "466765501",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SEHORE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002305": {
     "IFSC": "AUBL0002305",
@@ -3509,14 +3509,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "Khasra No., 217/31, Shastri Ward,Near Hotel Aditya Residency,Bus Stand,Pandhurna,Madhya Pradesh-480334",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "480765501",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHHINDWARA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002306": {
     "IFSC": "AUBL0002306",
@@ -3526,14 +3526,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "Ward No. 15, Khasra No.193,Arjun Nagar, Sagar Road,Raisen,Madhya Pradesh-464551",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "464765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "RAISEN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002307": {
     "IFSC": "AUBL0002307",
@@ -3543,14 +3543,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "Ward No. 17, M G Road,Shujalpur,Madhya Pradesh-465333",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "465765051",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SHAJAPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002308": {
     "IFSC": "AUBL0002308",
@@ -3560,14 +3560,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "Ward  No 21,Subhash Path,Khari Phatak Road,Vidisha,Madhya Pradesh-464001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "464765201",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VIDISHA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002309": {
     "IFSC": "AUBL0002309",
@@ -3577,14 +3577,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "City Centre,Survey No-341/1/1,Part Kaswa Chawani Charaha,Agar Malwa,Madhya Pradesh-465441",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "465765501",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "AGAR-MALWA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002310": {
     "IFSC": "AUBL0002310",
@@ -3594,14 +3594,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "98/10-Dkundia Palace,MG Road,  Barwani, 1st Floor  Anjad Naka,Badwani,Madhya Pradesh-451551",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "451765051",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BARWANI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002311": {
     "IFSC": "AUBL0002311",
@@ -3611,14 +3611,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "Gulab Shree,Shop # 18-20,Jawahar Nagar,Indore Dewas Road,Dewas,Madhya Pradesh-455001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "455765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DEWAS",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002312": {
     "IFSC": "AUBL0002312",
@@ -3628,14 +3628,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "Magajpura Road,A-1   A-2 ,Saint Teresa Campus,Dhar-Indore Road,Dhar,Madhya Pradesh-454001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "454765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DHAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002313": {
     "IFSC": "AUBL0002313",
@@ -3645,14 +3645,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "SD Arcade,Upper Ground Floor ,Plot No.5 ,PO 3,Scheme-54 AB Road,Indore,Madhya Pradesh-452010",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "452765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "INDORE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002314": {
     "IFSC": "AUBL0002314",
@@ -3662,14 +3662,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "G-16 ,G-22,G-17,G-21,Veda Complex,Near Apple Hospital,Bhanwar Kuan Road,Indore,Madhya Pradesh-452008",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "452765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "INDORE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002315": {
     "IFSC": "AUBL0002315",
@@ -3679,14 +3679,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "Anand Nagar,Ward No. 50, Main Road,Khandwa(M.P.)- 450001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "450765101",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "EAST NIMAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002316": {
     "IFSC": "AUBL0002316",
@@ -3696,14 +3696,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "Shop No. C-11,Radha Vallabh Market,Ward No 9,Khargone,Madhya Pradesh-451001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "451765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "WEST NIMAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002317": {
     "IFSC": "AUBL0002317",
@@ -3713,14 +3713,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "NH 59A, Narmada Marg,Kannod Road,In Front of  Bharat Petrol Pump,Khategaon,Madhya Pradesh-455336",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "455765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DEWAS",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002318": {
     "IFSC": "AUBL0002318",
@@ -3730,14 +3730,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "Shop No.82-83,Sanskar Valley, Plot No.11,Ward No. 10,  Sector 1,Pithampur,Madhya Pradesh-454775",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "454765501",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DHAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002319": {
     "IFSC": "AUBL0002319",
@@ -3747,14 +3747,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "Tarana House,34/4,5,6,Shanku Marg,Tower Chowk,Free Ganj,Ujjain,Madhya Pradesh-456010",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "456765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "UJJAIN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002320": {
     "IFSC": "AUBL0002320",
@@ -3764,14 +3764,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "Ward No 1,Malgodwn Road,Dhakad Trade Center,Kargil Square, Station Road,Alot,Madhya Pradesh-457114",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "457765501",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "RATLAM",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002321": {
     "IFSC": "AUBL0002321",
@@ -3781,14 +3781,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "Station Road,Near Tirupati Plaza,Mandsaur,Madhya Pradesh-458001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "458765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MANDSAUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002322": {
     "IFSC": "AUBL0002322",
@@ -3798,14 +3798,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "Ward No 29, Ambedkar Road Colony No14/3,Plot 51 Near LIC Office,Neemuch,Madhya Pradesh-458441",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "458765051",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NEEMUCH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002323": {
     "IFSC": "AUBL0002323",
@@ -3815,14 +3815,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "Plot No 3, Nazar Bagh, Bank Colony,Ratlam,Madhya Pradesh-457001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "457765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "RATLAM",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002324": {
     "IFSC": "AUBL0002324",
@@ -3832,14 +3832,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "Choudhary Complex,Garoth Road,Shamgarh,Madhya Pradesh-458883",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "458765501",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MANDSAUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002325": {
     "IFSC": "AUBL0002325",
@@ -3849,14 +3849,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "Ground and 1st  Floor, Plot No 187-189,Ward No 30 ,Cristal House, Jawahar Road, Chhatarpur,Madhya Pradesh-471001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "471765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHATTARPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002326": {
     "IFSC": "AUBL0002326",
@@ -3866,14 +3866,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "Shree Krishna Tower, Adarsh Nagar ,Parasia Road,Chhindwara,Madhya Pradesh-480001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "480765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHHINDWARA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002327": {
     "IFSC": "AUBL0002327",
@@ -3883,14 +3883,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "Plot No. 6/2, H.No. 780/1,Ward No. 3, Swami Dayanand Saraswati,Jabalpur,Madhya Pradesh-482001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "482765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JABALPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002328": {
     "IFSC": "AUBL0002328",
@@ -3900,14 +3900,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "Ground and First Floor,Ward No. 29,Plot No.45/1 New 42,Jabalpur Road,Bargawn,Katni,Madhya Pradesh-483501",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "483765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KATNI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002329": {
     "IFSC": "AUBL0002329",
@@ -3917,14 +3917,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "32,C Hedgewar Nagar,In Front Of Radio Colony,Rewa,Madhya Pradesh-486001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "486765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "REWA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002330": {
     "IFSC": "AUBL0002330",
@@ -3934,14 +3934,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "Ground   Second Floor,Satna Plaza,Rewa Road,Satna,Madhya Pradesh-485001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "485765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SATNA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002331": {
     "IFSC": "AUBL0002331",
@@ -3951,14 +3951,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "Tikamgarh Kila ,Ward No 18,Tikamgarh,Madhya Pradesh-472001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "472765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "TIKAMGARH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002333": {
     "IFSC": "AUBL0002333",
@@ -3968,14 +3968,14 @@
     "STATE": "CHHATTISGARH",
     "ADDRESS": "Plot No 7 ,Ward No. 5 ,Dahshin Gangotri,G.E Road,Near Ghadi Chowk,Supela,Bhilai,Dist,Durg,Chattisgarh-490001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "490765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DURG",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002334": {
     "IFSC": "AUBL0002334",
@@ -3985,14 +3985,14 @@
     "STATE": "CHHATTISGARH",
     "ADDRESS": "Bajpai S Pavillion,Opposite Gumber Petrol,Bharti Nagar Chowk,Talapara,Vyapar Vihar Road,Gayatri Nagar,Bilaspur,Chattisgarh-495001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "495765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BILASPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002335": {
     "IFSC": "AUBL0002335",
@@ -4002,14 +4002,14 @@
     "STATE": "CHHATTISGARH",
     "ADDRESS": "Vijay Plaza,Beside Menonote Church,Bastar Road,Dhamtari,Chattisgarh-493773",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "493765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DHAMTARI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002336": {
     "IFSC": "AUBL0002336",
@@ -4019,14 +4019,14 @@
     "STATE": "CHHATTISGARH",
     "ADDRESS": "Plot No. 82,Indira Commercial   Residential Complex,TP Nagar,Korba,Chattisgarh-495677",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "495765301",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KORBA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002337": {
     "IFSC": "AUBL0002337",
@@ -4036,14 +4036,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "Nehru Smarak,Civil Lines,Mandla,Madhya Pradesh-481661",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "481765101",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MANDLA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002338": {
     "IFSC": "AUBL0002338",
@@ -4053,14 +4053,14 @@
     "STATE": "CHHATTISGARH",
     "ADDRESS": "Plot No. 22, Sheet No. 9,Near Daga Petrol Pump,Fafadik Chowk,Raipur,Chattisgarh-492001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "492765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "RAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002340": {
     "IFSC": "AUBL0002340",
@@ -4070,14 +4070,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shop No 16, Ground Floor, Kanakia Zillion, LBS-CST Road, Junction,BKC Annexe, Kurla(W),Mumbai,Maharashtra-400070",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "400765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002341": {
     "IFSC": "AUBL0002341",
@@ -4087,14 +4087,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "New CTS No 637 A,Shivalaya, Chanda Varkar Road, Borivali,Mumbai,Maharashtra-400092",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "400765007",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002342": {
     "IFSC": "AUBL0002342",
@@ -4104,14 +4104,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shop No 8 -12, Ground Floor,Madina Manzil Building, SV Road,Goregoan West,Mumbai,Maharashtra-400104",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "400765006",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002343": {
     "IFSC": "AUBL0002343",
@@ -4121,14 +4121,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shop No 4,Landmark Tower,Pushpkunj Coperative Housing Society,Opposite Bishops House ,Vasai Road,Vasai,Maharashtra-401202",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "400765008",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002345": {
     "IFSC": "AUBL0002345",
@@ -4138,14 +4138,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Ground Floor,White House ,Tarapur Road,Boisar,Maharashtra-401501",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "400765004",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PALGHAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002346": {
     "IFSC": "AUBL0002346",
@@ -4155,14 +4155,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shop No A/1A,Building 3 ,CTS No 3427/30,3431/33/34,Near Fortis,Kalyan West Thane,Kalyan,Maharashtra-421301",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "400765003",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002347": {
     "IFSC": "AUBL0002347",
@@ -4172,14 +4172,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shop No.2,Rushiraj Regency,Opposite Mama Mungi Mangal Karyalay,Patil Colony, Gangapur Road,Nashik,Maharashtra-422005",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "422765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NASHIK",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002348": {
     "IFSC": "AUBL0002348",
@@ -4189,14 +4189,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Ace Aviana,Thane,Maharashtra-400615",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "400765005",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002349": {
     "IFSC": "AUBL0002349",
@@ -4206,14 +4206,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shop No 1 And Shop No 2, Ground Floor,Avdhoot Plaza, Survey No 279/1/B,Barmati, Pune,Maharashtra-413102",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "413765101",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002350": {
     "IFSC": "AUBL0002350",
@@ -4223,14 +4223,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shop No 10, Wing No. B ,Opposite Reliance Mart,Kharadi,Hadapsar,Maharashtra-411014",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "411765003",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002351": {
     "IFSC": "AUBL0002351",
@@ -4240,14 +4240,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "S.No 292 (264)(2B)3, Somvanshi Building, Pune-Nasik Highway,Naraingaon, Tal- Junnar Pune,Maharashtra-410504",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "410765152",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002353": {
     "IFSC": "AUBL0002353",
@@ -4257,14 +4257,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shop No. 102  103,Plot No. 96/2 and 97,CTS No.1132,1133,New Survey No.184,Anand Park, Aundh,Pune,Maharashtra-411007",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "411765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002354": {
     "IFSC": "AUBL0002354",
@@ -4274,14 +4274,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Nandadeep Apartment, City Survey No.1195/1,FP No.551/1,Shivajinagar,Near Tukaram Paduka Chowk, FC Road,Pune,Maharashtra-411004",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "411765004",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002355": {
     "IFSC": "AUBL0002355",
@@ -4291,14 +4291,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shop No 1,City Corner, Phase II,8793 Murarji Peth, Saraswati Chowk,Solapur,Maharashtra-413001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "413765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SOLAPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002356": {
     "IFSC": "AUBL0002356",
@@ -4308,14 +4308,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Plot No. 101, T.P. Scheme No. 4,Saideep Executive, Ground Floor, Savedi,Ahmednagar,Maharashtra-414001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "414765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDNAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002357": {
     "IFSC": "AUBL0002357",
@@ -4325,14 +4325,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SMS Arcade Plot 1,2,3, CTS No 15187/A/1,Vidhya Nagar Sevenhills ,Jalna Road,Aurangabad,Maharashtra-431001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "431765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "AURANGABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002358": {
     "IFSC": "AUBL0002358",
@@ -4342,14 +4342,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Lane No.6,Ganesh Plaza,City Survey No. 2101, House No.386,Opposite D.Y. Mahayan Hospital,Dhule,Maharashtra-422001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "424765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DHULE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002359": {
     "IFSC": "AUBL0002359",
@@ -4359,14 +4359,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "64 Jillha Peth,Pande Chowk,Near Lunka Tower,Jalgaon,Maharashtra-425001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "425765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JALGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002360": {
     "IFSC": "AUBL0002360",
@@ -4376,14 +4376,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Raj Building, Head Post Office,Opposite Amber Hotel, Shivaji Putla,Jalna,Maharashtra-431203",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "431765052",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JALNA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002361": {
     "IFSC": "AUBL0002361",
@@ -4393,14 +4393,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "City Sy. 9909/2 , Opposite Haunman Mandir,Near Water Tank, Barshi Road,Latur,Maharashtra-413513",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "413765052",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "LATUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002362": {
     "IFSC": "AUBL0002362",
@@ -4410,14 +4410,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "City Survey No. 3330, Sheet No. 203,Gilda Complex, Opposite SP Office,Vazirabad Chowk,Near Woodland,Nanded,Maharashtra-431601",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "431765101",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NANDED",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002363": {
     "IFSC": "AUBL0002363",
@@ -4427,14 +4427,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Dattashilla Complex, First Floor,Opposite Malpani Plaza ,Janta raja Road,Sangamner,Maharashtra-422605",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "422765201",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDNAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002364": {
     "IFSC": "AUBL0002364",
@@ -4444,14 +4444,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "CTS No. 1370A/9,  Plot No. 1180,Hotel Sunmoon, Bandukgar,Sagamner Road,Shrirampur, Ahmadnagar,Maharashtra-413709",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "413765301",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDNAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002365": {
     "IFSC": "AUBL0002365",
@@ -4461,14 +4461,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shop No 1,Ratanlal Plot Nazul Sheet No 65 Mazul,Plot No 2/42, Madhumati Vihar,Akola,Maharashtra-444005",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "444765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "AKOLA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002366": {
     "IFSC": "AUBL0002366",
@@ -4478,14 +4478,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Plot No 3   8 ,Sheet No 66, Upper Ground Floor,Shewalkar Complex,Rajapeth Chowk ,Badnera Road,Amravati,Maharashtra-444701",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "444765101",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "AMRAWATI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002367": {
     "IFSC": "AUBL0002367",
@@ -4495,14 +4495,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Block No 11,Plot No 13/1,Opposite Police Headquaters,Chandrapur,Maharashtra-442401",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "442765102",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHANDRAPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002368": {
     "IFSC": "AUBL0002368",
@@ -4512,14 +4512,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "39/148 Fulchur Road, Gandhi Pratima,Gondia,Maharashtra-441601",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "441765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "GONDIA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002369": {
     "IFSC": "AUBL0002369",
@@ -4529,14 +4529,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Block No 4/25 Gandhi Grain Market,CA Road Telephone Exchange Square,Nagpur,Maharashtra-440008",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "440765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002370": {
     "IFSC": "AUBL0002370",
@@ -4546,14 +4546,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Plot No. 3, Sheet No. 7-B,Opposite  Sai Mandir,Sai Mandir Chowk,Wani, Yavatmal,Maharashtra-445304",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "445765501",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "YAVATMAL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002371": {
     "IFSC": "AUBL0002371",
@@ -4563,14 +4563,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Ward No.7(New), House No.228, Nazul Sheet No.50,Plot No.144,Balaji Tower,Ghandhi Nagar,Arvi Road,Wardha,Maharashtra-442001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "442765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "WARDHA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002372": {
     "IFSC": "AUBL0002372",
@@ -4580,14 +4580,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Block No -3 ,Nazul Sheet No 47 A,Mittal Agencies ,Opposite Timber Bhavan, SQ Dhamangaon Road,Yavatmal,Maharashtra-445001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "445765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "YAVATMAL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002373": {
     "IFSC": "AUBL0002373",
@@ -4597,14 +4597,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shop No 1,2,3,4,Tamhane Chambers,Vireshwar Darshn, Vireshwar Colony,Chiplun,Maharashtra-415605",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "415765201",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "RATNAGIRI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002374": {
     "IFSC": "AUBL0002374",
@@ -4614,14 +4614,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Municipal House No.499 B(3)/499 A(1),Opposite Prant Office,Kankavli, Distt. Sindhudurg,Maharashtra-416602",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "416765326",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SINDHUDURG",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002375": {
     "IFSC": "AUBL0002375",
@@ -4631,14 +4631,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "CTS No,-517,Shop No 83-85,93-96,Gemstone Building, Vicharecomplex E Ward,New Shahupuri, Near Central Bus Stand,Kolhapur,Maharashtra-416001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "416765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLHAPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002376": {
     "IFSC": "AUBL0002376",
@@ -4648,14 +4648,14 @@
     "STATE": "GOA",
     "ADDRESS": "Shop No UGF 11,12 Vasanta Aracade,Matriz No.1317, Survey Off. Chalta No 96,Sheet No 214,Comba Bogtancho Dando,Margao,Goa-403601",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "403765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "GOA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002377": {
     "IFSC": "AUBL0002377",
@@ -4665,14 +4665,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Siddhi Vinayak Residency,Shop no.1   2,B Wing, Airport Road Mazgaon,Ratnagiri,Maharashtra-415612",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "415765051",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "RATNAGIRI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002378": {
     "IFSC": "AUBL0002378",
@@ -4682,14 +4682,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "City Survey No 1076 North,Shivaji Nagar,College Corner,Sangli,Maharashtra-416436",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "416765151",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SANGLI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002379": {
     "IFSC": "AUBL0002379",
@@ -4699,14 +4699,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "7/12 ,Survey No.311/20/3 ,Radhika Road,Opposite Kanchan Apartment, Parshwa ,Vaibhav Properties,Satara,Maharashtra-415001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "415765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SATARA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002380": {
     "IFSC": "AUBL0002380",
@@ -4716,14 +4716,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "604, KathuriaS, Model Town,Opposite Gurudwara Sahib,Jalandhar,Punjab-144003",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "144765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JALANDHAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002381": {
     "IFSC": "AUBL0002381",
@@ -4733,14 +4733,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "2,Arggle House The Mall Road ,Shimla,Himachal Pradesh-171001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "171765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SHIMLA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002382": {
     "IFSC": "AUBL0002382",
@@ -4750,14 +4750,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "Fauji Complex, Bank Square Sai Road,Baddi,Himachal Pradesh-173205",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "160765004",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SOLAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002383": {
     "IFSC": "AUBL0002383",
@@ -4767,14 +4767,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "SCO 45-46,Sector 8C ,Chandigarh,Chandigarh-160008",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "160765003",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHANDIGARH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002384": {
     "IFSC": "AUBL0002384",
@@ -4784,14 +4784,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "SCF 20,Phase No. VII, SAS Nagar,Mohali,Punjab-160059",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "160765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SAHIBZADA AJIT SINGH NAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002385": {
     "IFSC": "AUBL0002385",
@@ -4801,14 +4801,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "SCO 8,Ground Floor, Ram Bagh,Near Leela Bhawan Chowk,Patiala,Punjab-147001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "147765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PATIALA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002386": {
     "IFSC": "AUBL0002386",
@@ -4818,14 +4818,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "Global Electronics,Rajgarh Road,Solan,Himachal Pradesh-173212",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "173765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SOLAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002387": {
     "IFSC": "AUBL0002387",
@@ -4835,14 +4835,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "Ward No. 3 Kamla Complex,Hamirpur Road,Una,Himachal Pradesh-174303",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "174765102",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "UNA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002388": {
     "IFSC": "AUBL0002388",
@@ -4852,14 +4852,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "M.C. No. B-6/65 Min,Mohalla Talaab,Faridkot,Punjab-151203",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "151765102",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "FARIDKOT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002389": {
     "IFSC": "AUBL0002389",
@@ -4869,14 +4869,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "House No. ES-22/22,Bagdadi Gate,Circular Road,Firozpur,Punjab-152002",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "152765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "FIROZPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002390": {
     "IFSC": "AUBL0002390",
@@ -4886,14 +4886,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "Scheme No.11, Premgarh Chandigarh Road,Hoshiarpur,Punjab-146001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "146765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "HOSHIARPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002391": {
     "IFSC": "AUBL0002391",
@@ -4903,14 +4903,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "Block No 1/A, Ward No 23,Near Panesar Kanda,Municipal Council Area,Khanna,Punjab-141401",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "141765202",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "LUDHIANA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002392": {
     "IFSC": "AUBL0002392",
@@ -4920,14 +4920,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "SCO No- 1-C, Kanal Colony,Karabara, Pakhowal Road,Ludhiana,Punjab-141002",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "141765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "LUDHIANA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002393": {
     "IFSC": "AUBL0002393",
@@ -4937,14 +4937,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "Sector  25,Improvement Trust Market,GT Road,Moga,Punjab-142001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "142765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MOGA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002394": {
     "IFSC": "AUBL0002394",
@@ -4954,14 +4954,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "Khasra No.620/(0-11),Nurmahal Road,Nakodar-1,H.Bno.31,Jalandhar,Nakodar,Punjab-144040",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "144765402",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JALANDHAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002395": {
     "IFSC": "AUBL0002395",
@@ -4971,14 +4971,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "Gujjar Pur Kalan,Banga Road,Nawanshahr,Punjab-144514",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "144765302",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SHAHEED BHAGAT SINGH NAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002396": {
     "IFSC": "AUBL0002396",
@@ -4988,14 +4988,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "Khasra No. 702, Durga Complex,Street No. 9, Circular Road,Abohar,Punjab-152116",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "152765052",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "FAZILKA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002397": {
     "IFSC": "AUBL0002397",
@@ -5005,14 +5005,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "C-326, Near Old Bus Stand College Road,Barnala,Punjab-148101",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "148765052",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BARNALA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002398": {
     "IFSC": "AUBL0002398",
@@ -5022,14 +5022,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "Deep Complex, Near Hanuman Chowk,Gurkashi Marg,Bhatinda,Punjab-151001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "151765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BATHINDA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002399": {
     "IFSC": "AUBL0002399",
@@ -5039,14 +5039,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "Property No. 41, Radhaswami Colony,Painchan Wali,Tehsil- Fazilka,Punjab-152123",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "152765152",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "FAZILKA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002400": {
     "IFSC": "AUBL0002400",
@@ -5056,14 +5056,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "Khasra No. 670 (0-17),Water Works Road, Opposite Mansa Club,Mansa,Punjab-151505",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "151765052",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MANSA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002401": {
     "IFSC": "AUBL0002401",
@@ -5073,14 +5073,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "SCF 54,New Grain Market,Near Karnail Cinema,Muktsar,Punjab-152026",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "152765102",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SRI MUKTSAR SAHIB",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002402": {
     "IFSC": "AUBL0002402",
@@ -5090,14 +5090,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "Gaushala Road ,Opposite Grain Market,Sangrur,Punjab-148001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "148765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SANGRUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002403": {
     "IFSC": "AUBL0002403",
@@ -5107,14 +5107,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "Ground floor 5,6,7 Ninex City Mart, Sector 49,Sohna Road,Gurgaon,Haryana-122101",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "110765011",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "GURGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002404": {
     "IFSC": "AUBL0002404",
@@ -5124,14 +5124,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Plot No C-6 ,Harikishan Somani Marg, Hathroi,Ajmer Road,Jaipur,Rajasthan-302001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "302765006",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002405": {
     "IFSC": "AUBL0002405",
@@ -5141,14 +5141,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Jawanpura Bus Stand,Jawanpura,Rajasthan-303119",
     "CONTACT": "00",
-    "DATE": null,
     "MICR": "303765024",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002406": {
     "IFSC": "AUBL0002406",
@@ -5158,14 +5158,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Main Bus Stand, Theekariya,Ward No-11,Jaipur,Rajasthan-302026",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "303765023",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002407": {
     "IFSC": "AUBL0002407",
@@ -5175,14 +5175,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "New Bus Stand,Village Post Paaldi,Jaipur,Rajasthan-303003",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "303765019",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002408": {
     "IFSC": "AUBL0002408",
@@ -5192,14 +5192,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Ward No 8,Dhanota Walon Ka Mohalla,Jaipur,Rajasthan-303120",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "303765020",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002409": {
     "IFSC": "AUBL0002409",
@@ -5209,14 +5209,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Main Bus Stand,Hathideh,Rajasthan-332705",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "332765010",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SIKAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002410": {
     "IFSC": "AUBL0002410",
@@ -5226,14 +5226,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Main Bus Stand,Chharsa Mod,Rajasthan-303120",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "303765021",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002411": {
     "IFSC": "AUBL0002411",
@@ -5243,14 +5243,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Raiwana,Neemrana,Rajasthan-301705",
     "CONTACT": "00",
-    "DATE": null,
     "MICR": "301765008",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ALWAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002412": {
     "IFSC": "AUBL0002412",
@@ -5260,14 +5260,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Main Bus Stand,Chakwada,Rajasthan-303005",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "303765022",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002413": {
     "IFSC": "AUBL0002413",
@@ -5277,14 +5277,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "NH11, Khuri,Rajasthan-332315",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "332765011",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SIKAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002414": {
     "IFSC": "AUBL0002414",
@@ -5294,14 +5294,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Khasra No 304,Bus Stand Ke Pass,Gailpur,Rajasthan-301707",
     "CONTACT": "00",
-    "DATE": null,
     "MICR": "301765009",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ALWAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002415": {
     "IFSC": "AUBL0002415",
@@ -5311,14 +5311,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "In Front of K P Automotive,Mangal Bhawan ,NH 8, Bidara Mod,Shahpura,Rajasthan-303103",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "303765025",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SHAHPURA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002416": {
     "IFSC": "AUBL0002416",
@@ -5328,14 +5328,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "Faizabad,Narnaul,Haryana-123001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "123765053",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "FAIZABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002417": {
     "IFSC": "AUBL0002417",
@@ -5345,14 +5345,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Opposite Government Hospital,Nand, Pushkar Tehsil,Ajmer ,Rajasthan-305022",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "305765009",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NAND",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002418": {
     "IFSC": "AUBL0002418",
@@ -5362,14 +5362,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Unit No. 1, Pratibha Complex,Rehnal, Bhiwandi, Thane ,Maharashtra-421302",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "400765501",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BUDIWARA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002419": {
     "IFSC": "AUBL0002419",
@@ -5379,14 +5379,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "Shevri Dharamshala, Gumanpura,Sardarpur, Dhar-MP,Gumanpura,Madhya Pradesh-344022",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "454765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "GUMANPURA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002420": {
     "IFSC": "AUBL0002420",
@@ -5396,14 +5396,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "4th Floor, Pathera Road,Rajepur, Indri, Karnal,Rajapur,Haryana-132041",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "132765103",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "RAJAPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002421": {
     "IFSC": "AUBL0002421",
@@ -5413,14 +5413,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Kumhao Ka Bas, Gram Post ,Chokri Kala,Chokari Kalan,Jodhpur,Rajasthan-342601",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "342765010",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JODHPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002422": {
     "IFSC": "AUBL0002422",
@@ -5430,14 +5430,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "1st Floor, Renwal Road,Near Yadav Dhaba,Main Bus Stand, Pachkodiya,Jobner,Rajasthan-303328",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "303765026",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JOBANER",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002423": {
     "IFSC": "AUBL0002423",
@@ -5447,14 +5447,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Keer Ki Chowki ,Bhinder,Udaipur,Rajasthan-313603",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "313765007",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BHINDER",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002424": {
     "IFSC": "AUBL0002424",
@@ -5464,14 +5464,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Near Mata Ji K Mandir ,Sahajrasar,Rajasthan-334602",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "334765007",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "LUNKARANSAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002425": {
     "IFSC": "AUBL0002425",
@@ -5481,14 +5481,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Maval, Abu Road,Rajasthan-307026",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "307765005",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ABU ROAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002426": {
     "IFSC": "AUBL0002426",
@@ -5498,14 +5498,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Bus Stand Bhunas, Sahada,,Bhunas,Bhilwara,Rajasthan-311802",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "311765006",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "GANGAPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002427": {
     "IFSC": "AUBL0002427",
@@ -5515,14 +5515,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Post, Kelwara,Tehsil, Kishanganj, District, Baran,Jaiswan,Rajasthan-325216",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "325765005",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BARAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002428": {
     "IFSC": "AUBL0002428",
@@ -5532,14 +5532,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Mandoli Nagar,Mandoli, Jalore,Rajasthan-307803",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "307765006",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BHINMAL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002429": {
     "IFSC": "AUBL0002429",
@@ -5549,14 +5549,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Opposite Gram Panchayat,Kalwa Bara, Tehsil- Makrana,Rajasthan-341502",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "341765009",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KUCHAMAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002430": {
     "IFSC": "AUBL0002430",
@@ -5566,14 +5566,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Village   Post  Jawasiya,Tehsil- Gangrara,Rajasthan-312901",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "312765005",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "GANGRARA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002431": {
     "IFSC": "AUBL0002431",
@@ -5583,14 +5583,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Village  Laporiya V/P Gagardoo,Teh- Dudu, Rajasthan-303008",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "452765501",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DUDU",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002432": {
     "IFSC": "AUBL0002432",
@@ -5600,14 +5600,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Yadav Complex, Opposite Pani Ki Tanki,Badhal Road,Village Post Luniyawas,Tehsil,Kishangarh-Renwal,Rajasthan-303602",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "451765501",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "RENWAL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002433": {
     "IFSC": "AUBL0002433",
@@ -5617,14 +5617,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Near Bus Stand, Near Shivam Mandir , Banjakuri,Rajasthan-306308",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "458765503",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAITARAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002434": {
     "IFSC": "AUBL0002434",
@@ -5634,14 +5634,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "39-Rb, Main Road,Village ,Jaloki, Tehsil , Pandampu,Rajasthan- 335041",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "458765502",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SRI GANGANAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002435": {
     "IFSC": "AUBL0002435",
@@ -5651,14 +5651,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Ward No 8, Phatak Ke Pass, Takhat Hazara, Sadulshahar,,Rajasthan-335062",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "303765027",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SADULSHAHAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002436": {
     "IFSC": "AUBL0002436",
@@ -5668,14 +5668,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "Sanwer Mainroad,Near Gram Panchayat,VIll- Barlai Jagir,Dist-Indore,Barlai Jagir,Madhya Pradesh-453771",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "303765028",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DEWAS",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002437": {
     "IFSC": "AUBL0002437",
@@ -5685,14 +5685,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "Sanawad-Khargone Main Road,Adalpura, Gogawan, Bhikangaon, Khargone,Madhya Pradesh-451335",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "306765005",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KHARGONE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002438": {
     "IFSC": "AUBL0002438",
@@ -5702,14 +5702,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "Suhasra Mandsaur Main Road Dak Bangla,Village-Bisniya,Teh. - Sitamahu, Madhya Pradesh-458888",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "335765011",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SHAMGARH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002439": {
     "IFSC": "AUBL0002439",
@@ -5719,14 +5719,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "Karnali Chouraha Sitamau Suhasra Road,Titrod,Sitamahu,Madhya Pradesh-458990",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "335765012",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SHAMGARH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002440": {
     "IFSC": "AUBL0002440",
@@ -5736,14 +5736,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "1152/22, Delhi Rohtak Road,Near Sonpat Stand,Rohtak,Haryana-124001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "124765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ROHTAK",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002441": {
     "IFSC": "AUBL0002441",
@@ -5753,14 +5753,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "Shop No 3 and 4, Nagar Palika Market,Altas Road, Sonipat,Haryana,131001",
     "CONTACT": null,
-    "DATE": null,
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SONIPAT",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002442": {
     "IFSC": "AUBL0002442",
@@ -5770,14 +5770,14 @@
     "STATE": "DELHI",
     "ADDRESS": "C 3/67 A,Yamuna Vihar,Delhi-110053",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "110765014",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002443": {
     "IFSC": "AUBL0002443",
@@ -5787,14 +5787,14 @@
     "STATE": "DELHI",
     "ADDRESS": "A 3/34, Janakpuri,Delhi-110058",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "110765015",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002444": {
     "IFSC": "AUBL0002444",
@@ -5804,14 +5804,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Plot No. 2, Kalyan Kunj,Scheme No. -12, Kanta Choraha,Kalwar Road, Jhotwara,Jaipur,Rajasthan-302012",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "302765015",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002445": {
     "IFSC": "AUBL0002445",
@@ -5821,14 +5821,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "11 DP Colony, Damodar Path,New Sanganer Road,Jaipur,Rajasthan-302019",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "302765016",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002446": {
     "IFSC": "AUBL0002446",
@@ -5838,14 +5838,14 @@
     "STATE": "DELHI",
     "ADDRESS": "B - 15, Derawal Nagar,Delhi-110009",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "110765018",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002447": {
     "IFSC": "AUBL0002447",
@@ -5855,14 +5855,14 @@
     "STATE": "DELHI",
     "ADDRESS": "46, Harsh Vihar,Pitampura,Delhi-110034",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "110765016",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002448": {
     "IFSC": "AUBL0002448",
@@ -5872,14 +5872,14 @@
     "STATE": "DELHI",
     "ADDRESS": "A-3, 314, Opposite Petrol Pump,Near Jawalaheri Market,Paschim Vihar,Delhi-110063",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "110765017",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002449": {
     "IFSC": "AUBL0002449",
@@ -5889,14 +5889,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Shop No.1-2,Bhrigu Nagar, Scheme No.9, DCM, Ajmer Road, Jaipur",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "302765017",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002450": {
     "IFSC": "AUBL0002450",
@@ -5906,14 +5906,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "SCO-24, G-Floor,Sector-11 ,Panchkula,Haryana-134108",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "160765006",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PANCHKULLA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002451": {
     "IFSC": "AUBL0002451",
@@ -5923,14 +5923,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Sector - 2, Shanti Nagar,Mira Road (E), Mira Bhayandar,Thane,Maharashtra-401107",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "400765009",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002452": {
     "IFSC": "AUBL0002452",
@@ -5940,14 +5940,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shop No. 70 ,Patel Heritage,Hiranandani Kharghar,Mumbai,Maharashtra-410210",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "400765010",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002453": {
     "IFSC": "AUBL0002453",
@@ -5957,14 +5957,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "Shop No 20, 21, Lawrence Road,Amritsar,Punjab-143001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "143765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "AMRITSAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002454": {
     "IFSC": "AUBL0002454",
@@ -5974,14 +5974,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Plot No. 1 and 2,Jai Jawan Colony, Tonk Road,Jaipur,Rajasthan-302018",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "302765018",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002455": {
     "IFSC": "AUBL0002455",
@@ -5991,14 +5991,14 @@
     "STATE": "DELHI",
     "ADDRESS": "648-650, 657,First Floor,Fatehpuri Masjid,Church Mission Road,Chandni Chowk,Delhi-110006",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "110765021",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002456": {
     "IFSC": "AUBL0002456",
@@ -6008,14 +6008,14 @@
     "STATE": "DELHI",
     "ADDRESS": "24, Ring Road,Lajpat Nagar-IV, Delhi-110024",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "110765022",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002457": {
     "BANK": "AU SMALL FINANCE BANK LIMITED",
@@ -6031,7 +6031,8 @@
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002458": {
     "IFSC": "AUBL0002458",
@@ -6041,14 +6042,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Redwood Cityplaza, Plot No. C-13,Pen,Maharashtra-402107",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "402765051",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PEN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002459": {
     "IFSC": "AUBL0002459",
@@ -6058,14 +6059,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shop No.9,Jhamtani Impressions,Tapovan Mandir Road,Savta Mali Naga,Pimpri Colony,Pimpri-Chinchwad,Pimpri,Maharashtra-411017",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "411765005",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PIMPARI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002460": {
     "IFSC": "AUBL0002460",
@@ -6075,14 +6076,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Opposite Tractor Union,Main Road ,Pallu,Rajasthan-335524",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "305765013",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PALLU",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002461": {
     "IFSC": "AUBL0002461",
@@ -6092,14 +6093,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "Near Bus Stand, Village Madhir,Tehsil Giderbaha,Shri Muktsar Sahib,Punjab-152101",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "152765252",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SHRI MUKTSAR SAHIB",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002462": {
     "IFSC": "AUBL0002462",
@@ -6109,14 +6110,14 @@
     "STATE": "KARNATAKA",
     "ADDRESS": "GROUND& FIRST FLOOR,SMART AVENUE NO.28 RESIDENCY ROAD BANGALORE - 560025 KARNATAKA",
     "CONTACT": "00",
-    "DATE": "2020-06-24",
     "MICR": "560765003",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002463": {
     "IFSC": "AUBL0002463",
@@ -6126,14 +6127,14 @@
     "STATE": "KARNATAKA",
     "ADDRESS": "Ground Floor, N-9, 24th Main, JP Nagar 1st Phase,Bangalore,Karnataka-560078",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "560765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002464": {
     "IFSC": "AUBL0002464",
@@ -6143,14 +6144,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Near HP Petrol Pump, Bus Stand,Ajeetgarh, Rajasthan-332701",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "332765014",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "AJEETGARH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002465": {
     "IFSC": "AUBL0002465",
@@ -6160,14 +6161,14 @@
     "STATE": "DELHI",
     "ADDRESS": "RZ-17,Ground Floor,Kiran Garden ,Uttam Nagar ,Delhi-110059",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "110765020",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NEW DELHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002467": {
     "IFSC": "AUBL0002467",
@@ -6177,14 +6178,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "5B/4BP, Neelam Railway Road,NIT,Faridabad,Haryana-121001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "110765023",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "FARIDABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002468": {
     "IFSC": "AUBL0002468",
@@ -6194,14 +6195,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "NH-8, Rabcha,Rajsamand,Rajasthan-313202",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "313765008",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "RABCHA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002469": {
     "IFSC": "AUBL0002469",
@@ -6211,14 +6212,14 @@
     "STATE": "JAMMU AND KASHMIR",
     "ADDRESS": "SH.HARDEV SINGH,KHASRA NO.87,SHIVAJI CHOWK,SECTOR 14,GROUND FLOOR,NEAR ZORAWER SINGH CHOWK,NANK NAGAR,BAHU PLAZA,JAMMU 180004",
     "CONTACT": "00",
-    "DATE": "2020-07-18",
     "MICR": "180765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAMMU",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002470": {
     "IFSC": "AUBL0002470",
@@ -6228,14 +6229,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Ward No. 26, Opposite Braj Timber,Gol bagh Road, Bharatpur, Rajasthan,-321001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "321765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BHARATPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002471": {
     "IFSC": "AUBL0002471",
@@ -6245,14 +6246,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Building No. 1, Near Prabhu Place,Mahua Karauli,Station Road,Hindaun City,Rajasthan-322230",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "322765004",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "HINDAUN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002472": {
     "IFSC": "AUBL0002472",
@@ -6262,14 +6263,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "SEF-1 G-FLOOR,PATEL CHOWK PATHANKOT.DIST.PATHANKOT PUNJAB",
     "CONTACT": "00",
-    "DATE": "2020-09-09",
     "MICR": "145765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PATHANKOT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002473": {
     "IFSC": "AUBL0002473",
@@ -6279,14 +6280,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "ICON PLAZA, SHOP NO 1/1, NASHIK ROAD, NASHIK _x0013_ 421101",
     "CONTACT": "00",
-    "DATE": "2020-11-05",
     "MICR": "422765003",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NASHIK",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002474": {
     "IFSC": "AUBL0002474",
@@ -6296,14 +6297,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Khasra No.769,Opposite Shiv Mandir,Kotri Dhaylan, Shri Madhopur, Rajasthan-332404",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "332765013",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "REENGUS",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002475": {
     "IFSC": "AUBL0002475",
@@ -6313,14 +6314,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shop No 2, Ground Floor, Sadhana Apartment, Near Zila Parishad Marathi School, Nale, Nalasopara West 401203",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "400765011",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VASAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002476": {
     "IFSC": "AUBL0002476",
@@ -6330,14 +6331,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "I.B.HOUSE,NR.SATYAVIJAY ICE CREAM,BHAKTINAGAR STATION ROAD,RAJKOT 360002",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "360765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "RAJKOT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002477": {
     "IFSC": "AUBL0002477",
@@ -6347,14 +6348,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Plot No.201-C,Khasra No.87,Shanker,Nagar,Opposite PF Department,Chopasani,Housing Board,Jodhpur,Rajasthan-342008",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "342765011",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JODHPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002478": {
     "IFSC": "AUBL0002478",
@@ -6364,14 +6365,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "PLOT NO. 147, OLD NO. 184 AND BLOCK NO. 935-A, JAWAHAR MARG, MUKER PURI, NEAR GOVT. SCHOOL, INDORE, MADHYA PRADESH-452002",
     "CONTACT": "00",
-    "DATE": "2020-08-04",
     "MICR": "452765003",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "INDORE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002479": {
     "IFSC": "AUBL0002479",
@@ -6381,14 +6382,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "GROUND FLOOR,SHOP NO10-11 RAKSHA BUSINESS CENTER,AMBALA-CHANDIGARH HIGHWAY ZIRAKPUR,DISTRICT MOHALI,PUNJAB",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "160765008",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ZIRAKPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002480": {
     "IFSC": "AUBL0002480",
@@ -6398,14 +6399,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "SPACE NO.1,GAUR GREENCITY,BLOCK NO.A& B,PLOT NO.-8 VAIBHAV KHAND,INDIRAPURAM,GHAZIABAD,UTTAR PRADESH-201014",
     "CONTACT": "00",
-    "DATE": "2020-08-28",
     "MICR": "110765024",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "GHAZIABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002481": {
     "IFSC": "AUBL0002481",
@@ -6415,14 +6416,14 @@
     "STATE": "DELHI",
     "ADDRESS": "PLOT NO. 54, BLOCK NO. J-13, RAJOURI GARDEN, DELHI  - 110027",
     "CONTACT": null,
-    "DATE": "00",
     "MICR": "110765025",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002483": {
     "IFSC": "AUBL0002483",
@@ -6432,14 +6433,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "PLOT NO.07 GROUND FLOOR,DASHMESH TOWER,BHAGWAN GANJ,NEAR SUZUKI BIKE SHOWROOM,SAGAR MP,470002",
     "CONTACT": "00",
-    "DATE": "2020-08-28",
     "MICR": "470765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002484": {
     "IFSC": "AUBL0002484",
@@ -6449,14 +6450,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "SHOP NO G 4-5,GROUND FLOOR,COMFORT PLAZA,PLOT NO 9,NEAR MANOHAR DAIRY,WARD 18,HAMIDIYA ROAD,BHOPAL",
     "CONTACT": "00",
-    "DATE": "2020-10-22",
     "MICR": "462765003",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BHOPAL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002485": {
     "IFSC": "AUBL0002485",
@@ -6466,14 +6467,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "PLOT NO 13,BLOCK H-1 A,SECTOR 63,GAUTAM BUDH NAGAR NOIDA UTTAR PRADESH - 201301",
     "CONTACT": "00",
-    "DATE": "2020-10-19",
     "MICR": "110765026",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NOIDA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002486": {
     "IFSC": "AUBL0002486",
@@ -6483,14 +6484,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "A1/243,VIRAMKHAND,GOMTINAGAR,LUCKNOW,UTTARPRADESH226010",
     "CONTACT": "00",
-    "DATE": "2020-09-21",
     "MICR": "226765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "LUCKNOW",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002487": {
     "IFSC": "AUBL0002487",
@@ -6500,14 +6501,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "14/113,PADAM POWER I,CIVIL LINES,KANPUR,UTTAR PRADESH 208001",
     "CONTACT": "00",
-    "DATE": "2020-07-31",
     "MICR": "208765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KANPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002488": {
     "IFSC": "AUBL0002488",
@@ -6517,14 +6518,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "GROUND FLOOR,OM BUSINESS PLAZA,OPP CIRCUIT HOUSE,HALAR ROAD,VALSAD",
     "CONTACT": "00",
-    "DATE": "2020-09-21",
     "MICR": "396765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VALSAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002489": {
     "IFSC": "AUBL0002489",
@@ -6534,14 +6535,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "GROUND FLOOR,UNIT NO.2,3 AND 4,BLOCK E-14-6 SANJAY PLACE COMMERCIALCOMPLEX,HARIPARWAT WARD,AGRA UTTAR PRADESH 282002",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "282765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "AGRA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002490": {
     "IFSC": "AUBL0002490",
@@ -6551,14 +6552,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "3 SONALI CO OPERATIVE HOUSING SOCIETY,MUKTANAND CIRCLE,WATER TANK",
     "CONTACT": "00",
-    "DATE": "2020-10-19",
     "MICR": "390765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VADODARA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002491": {
     "IFSC": "AUBL0002491",
@@ -6568,14 +6569,65 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "LEASE NUMBER246,OPPPSITE SHYAM COMPLEX,NAGARPALIKA ROAD,GAURAV PATH,DHOLPUR,RAJASTHAN 328001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "328765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DHOLPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
+  },
+  "AUBL0002492": {
+    "BANK": "AU SMALL FINANCE BANK LIMITED",
+    "IFSC": "AUBL0002492",
+    "BRANCH": "GURUSAR SAHNEWAL",
+    "ADDRESS": "VPO-GURUSAR SAHNEWAL,DIST-BHATINDA,PUNJAB",
+    "CONTACT": null,
+    "CITY": "BHATINDA",
+    "DISTRICT": "BHATINDA",
+    "STATE": "PUNJAB",
+    "MICR": "151765003",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true,
+    "SWIFT": null
+  },
+  "AUBL0002493": {
+    "BANK": "AU SMALL FINANCE BANK LIMITED",
+    "IFSC": "AUBL0002493",
+    "BRANCH": "S P ROAD HYDERABAD",
+    "ADDRESS": "GROUND FLOOR PLOT NO. B. NO. 160/2/GF SARDAR PATEL ROAD├╜OPPOSITE├╜TO ASOKA BHOOPAL CHAMBER SECUNDERABAD TELANGANA-500003",
+    "CONTACT": null,
+    "CITY": "HYDERABAD",
+    "DISTRICT": "HYDERABAD",
+    "STATE": "TELANGANA",
+    "MICR": "500765002",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true,
+    "SWIFT": null
+  },
+  "AUBL0002496": {
+    "BANK": "AU SMALL FINANCE BANK LIMITED",
+    "IFSC": "AUBL0002496",
+    "BRANCH": "BHUBANESWAR",
+    "ADDRESS": "CUTTACK PURI ROAD, BHUBANESWAR 751006",
+    "CONTACT": null,
+    "CITY": "BHUBANESWAR",
+    "DISTRICT": "BHUBANESWAR",
+    "STATE": "ODISHA",
+    "MICR": "751765002",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002501": {
     "IFSC": "AUBL0002501",
@@ -6585,14 +6637,14 @@
     "STATE": "WEST BENGAL",
     "ADDRESS": "56A,HEMANTA BASU SARANI,STEPHEN HOUSE,BBD BAG,KOLKATA-700001",
     "CONTACT": "00",
-    "DATE": "2020-10-19",
     "MICR": "700765002",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002503": {
     "IFSC": "AUBL0002503",
@@ -6602,14 +6654,48 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "KHASRA NO 876,WARD NO 14,SHOP NO 1,2& 3,VILLAGE SONKHAR,ANAJ MANDI GATE,KATHUMAR ROAD,KHERLI,ALWAR",
     "CONTACT": "00",
-    "DATE": "2020-07-31",
     "MICR": "321765003",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KHERLI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
+  },
+  "AUBL0002505": {
+    "BANK": "AU SMALL FINANCE BANK LIMITED",
+    "IFSC": "AUBL0002505",
+    "BRANCH": "BARNALA  MANSA",
+    "ADDRESS": "GROUND FLOOR, NEAR BUS SATND, VILL- BARNALA, MANSA, PB-151505",
+    "CONTACT": null,
+    "CITY": "MANSA",
+    "DISTRICT": "MANSA",
+    "STATE": "PUNJAB",
+    "MICR": "151765053",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true,
+    "SWIFT": null
+  },
+  "AUBL0002506": {
+    "BANK": "AU SMALL FINANCE BANK LIMITED",
+    "IFSC": "AUBL0002506",
+    "BRANCH": "RALLI",
+    "ADDRESS": "G-FLOOR,BUDHLADA TO BERTA ROAD,NEAR RALLI BUS STAND,VILLAGE - RALLI,TEH-BUDHLADA,DIST-MANSA,PB-151502",
+    "CONTACT": null,
+    "CITY": "MANSA",
+    "DISTRICT": "MANSA",
+    "STATE": "PUNJAB",
+    "MICR": "151765602",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002508": {
     "IFSC": "AUBL0002508",
@@ -6619,14 +6705,31 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "GROUND FLOOR,GRAM KACHARI,ANTA,DIST.BARAN,RAJASTHAN-325209",
     "CONTACT": "00",
-    "DATE": "2020-10-19",
     "MICR": "325765006",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DIST. BARAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
+  },
+  "AUBL0002509": {
+    "BANK": "AU SMALL FINANCE BANK LIMITED",
+    "IFSC": "AUBL0002509",
+    "BRANCH": "TWOF KHAT LABANA",
+    "ADDRESS": "2F BDA BUS STAND,KHAT LABANA,SRI GANGANAGAR-335001",
+    "CONTACT": null,
+    "CITY": "SRI GANGANAGAR",
+    "DISTRICT": "SRI GANGANAGAR",
+    "STATE": "RAJASTHAN",
+    "MICR": "335765014",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002510": {
     "IFSC": "AUBL0002510",
@@ -6636,14 +6739,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "GROUND FLOOR,KHASRA NO.1907/1678,GOTHRA,NAWALGARH,JHUNJHUNU,RAJASTHAN,333304",
     "CONTACT": "00",
-    "DATE": "2020-10-19",
     "MICR": "333765007",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NAWALGARH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0002511": {
     "IFSC": "AUBL0002511",
@@ -6653,14 +6756,31 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "NEAR RAMDEV JI MANDIR,TAXI STAND,SHISHU,SIKAR,RAJASTHAN-332405",
     "CONTACT": "00",
-    "DATE": "2020-10-19",
     "MICR": "332765015",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SIKAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
+  },
+  "AUBL0002512": {
+    "BANK": "AU SMALL FINANCE BANK LIMITED",
+    "IFSC": "AUBL0002512",
+    "BRANCH": "JAGMAWALI",
+    "ADDRESS": "OPPOSITE DERA, VPO JAGMAWALI, DISTRICT SIRSA, HARYANA-125201",
+    "CONTACT": null,
+    "CITY": "SIRSA",
+    "DISTRICT": "SIRSA",
+    "STATE": "HARYANA",
+    "MICR": "125765003",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0009010": {
     "IFSC": "AUBL0009010",
@@ -6670,14 +6790,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "2ND FLOOR KESAV TOWER NEAR BARODA NARSARI OPP PANDIT PARATHA SAVINA MAIN ROAD HIRAN MAGRI SECTOR 8 UDAIPUR RAJASTHAN 313008",
     "CONTACT": "00",
-    "DATE": "2017-06-05",
     "MICR": "313765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "UDAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0009034": {
     "IFSC": "AUBL0009034",
@@ -6687,14 +6807,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "3RDFLOORSUNDERVILLAABOVEVODAFONESTORE12THROADCROSSRESIDENCYROADJODHPURRAJASTHAN342001",
     "CONTACT": "00",
-    "DATE": "2017-06-05",
     "MICR": "342765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JODHPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0009116": {
     "IFSC": "AUBL0009116",
@@ -6704,14 +6824,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "WING 4TH FLOOR OFFICE NO 504 505 506 MEGA CENTER PUNE SOLAPUR ROAD HADAPSAR PUNE MAHARASHTRA 411028",
     "CONTACT": "00",
-    "DATE": "2017-08-02",
     "MICR": "411765001",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0CCARDS": {
     "IFSC": "AUBL0CCARDS",
@@ -6721,14 +6841,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "FIFTH SIXTH FLOOR SUNNY BIG JUNCTION STC KHASRA NO 64 TO 67 GRAM SUKHAIPURA NEW ATISH MARKET JAIPUR 302020",
     "CONTACT": "00",
-    "DATE": "2020-07-30",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUBL0REMMIT": {
     "IFSC": "AUBL0REMMIT",
@@ -6738,13 +6858,13 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "FIFTH SIXTH FLOOR SUNNY BIG JUNCTION STC KHASRA NO 64 TO 67 GRAM SUKHAIPURA NEW ATISH MARKET JAIPUR 302020",
     "CONTACT": "00",
-    "DATE": "2019-09-07",
     "BANK": "AU SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

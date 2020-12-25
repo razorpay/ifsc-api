@@ -7,14 +7,14 @@
     "STATE": "DELHI",
     "ADDRESS": "NO  25  BARAKHAMBA ROAD  NEW DELHI 110 001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "110039002",
     "BANK": "HONGKONG & SHANGHAI BANKING CORPORATION",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HSBC0110004": {
     "IFSC": "HSBC0110004",
@@ -24,14 +24,14 @@
     "STATE": "DELHI",
     "ADDRESS": "F 43  SOUTH EXTENSIONI  NEW DELHI 110 049",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "110039004",
     "BANK": "HONGKONG & SHANGHAI BANKING CORPORATION",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HSBC0110005": {
     "IFSC": "HSBC0110005",
@@ -41,14 +41,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "JMD REGENT SQUARE  GURGAON MEHRAULI ROAD  DLF PHAS II  GURGAON 122 001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "110039005",
     "BANK": "HONGKONG & SHANGHAI BANKING CORPORATION",
     "UPI": true,
     "RTGS": true,
     "CITY": "GURGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HSBC0110006": {
     "IFSC": "HSBC0110006",
@@ -58,14 +58,14 @@
     "STATE": "DELHI",
     "ADDRESS": "R 47  GREATER KAILASH I  NEW DELHI 110 048",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "110039006",
     "BANK": "HONGKONG & SHANGHAI BANKING CORPORATION",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HSBC0110007": {
     "IFSC": "HSBC0110007",
@@ -75,14 +75,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "K 14 18  SECTOR 18  GAUTAM BUDH NAGAR  NOIDA 201 301",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "110039007",
     "BANK": "HONGKONG & SHANGHAI BANKING CORPORATION",
     "UPI": true,
     "RTGS": true,
     "CITY": "NOIDA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HSBC0160002": {
     "IFSC": "HSBC0160002",
@@ -92,14 +92,14 @@
     "STATE": "CHANDIGARH",
     "ADDRESS": "SCO 1  SECTOR 9 D  CHANDIGARH 160 017",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "160039002",
     "BANK": "HONGKONG & SHANGHAI BANKING CORPORATION",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHANDIGARH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HSBC01INDIA": {
     "IFSC": "HSBC01INDIA",
@@ -109,14 +109,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "FORT,MUMBAI.",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "400039002",
     "BANK": "HONGKONG & SHANGHAI BANKING CORPORATION",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HSBC0302002": {
     "IFSC": "HSBC0302002",
@@ -126,14 +126,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "61 A  VASANTI BUILDING  SARDAR PATEL MARG  C  SCHEME  JAIPUR 302 001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "302039002",
     "BANK": "HONGKONG & SHANGHAI BANKING CORPORATION",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HSBC0380002": {
     "IFSC": "HSBC0380002",
@@ -143,14 +143,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "MARDIA PLAZA C G ROAD  AHMEDABAD 380 006",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "380039002",
     "BANK": "HONGKONG & SHANGHAI BANKING CORPORATION",
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HSBC03INDIA": {
     "IFSC": "HSBC03INDIA",
@@ -160,14 +160,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "52 BY 60,M.G.ROAD,MUMBAI 400 001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "400039002",
     "BANK": "HONGKONG & SHANGHAI BANKING CORPORATION",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HSBC0400001": {
     "IFSC": "HSBC0400001",
@@ -177,14 +177,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "52/60, M.G. ROAD, MUMBAI 400001, MAHARASHTRA",
     "CONTACT": "02261743100",
-    "DATE": null,
     "MICR": "400039002",
     "BANK": "HONGKONG & SHANGHAI BANKING CORPORATION",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HSBC0400002": {
     "IFSC": "HSBC0400002",
@@ -194,14 +194,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "52 BY 60  M G  ROAD  MUMBAI 400 001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "400039002",
     "BANK": "HONGKONG & SHANGHAI BANKING CORPORATION",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HSBC0400003": {
     "IFSC": "HSBC0400003",
@@ -211,14 +211,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "KAMALA BHAVAN  SWAMI NITYANAND MARG  ANDHERI  EASTMUMBAI 400 069",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "400039003",
     "BANK": "HONGKONG & SHANGHAI BANKING CORPORATION",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HSBC0400004": {
     "IFSC": "HSBC0400004",
@@ -228,14 +228,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "HSBC CENTRE  DR AMBEDKAR ROAD  BANDRA  WESTMUMBAI 400 050",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "400039004",
     "BANK": "HONGKONG & SHANGHAI BANKING CORPORATION",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HSBC0400005": {
     "IFSC": "HSBC0400005",
@@ -245,14 +245,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SIDDHARTH ARCADE  L T ROADFACTORY LANE JUNCTION  BORIVLI  WESTMUMBAI 400 092",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "400039005",
     "BANK": "HONGKONG & SHANGHAI BANKING CORPORATION",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HSBC0400006": {
     "IFSC": "HSBC0400006",
@@ -262,14 +262,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MERCANTILE APARTMENTS  DR CHOITRAM GIDWANI ROAD  CHEMBUR  MUMBAI 400 074",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "400039006",
     "BANK": "HONGKONG & SHANGHAI BANKING CORPORATION",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HSBC0400007": {
     "IFSC": "HSBC0400007",
@@ -279,14 +279,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "ASHA MAHAL  46 B  DR G DESHMUKH MARG  MUMBAI 400 026",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "400039007",
     "BANK": "HONGKONG & SHANGHAI BANKING CORPORATION",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HSBC0400008": {
     "IFSC": "HSBC0400008",
@@ -296,14 +296,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SAROJ  B7  KAPOLE SOCIETY  V L MEHTA ROAD  JUHU  MUMBAI 400 049",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "400039008",
     "BANK": "HONGKONG & SHANGHAI BANKING CORPORATION",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HSBC0400010": {
     "IFSC": "HSBC0400010",
@@ -313,14 +313,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "E 2 BY 3 BY 4  MANISH GARDEN  GROUND FLOOR  J P ROAD  ANDHERI  WMUMBAI 400 053",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "400039010",
     "BANK": "HONGKONG & SHANGHAI BANKING CORPORATION",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HSBC0400012": {
     "IFSC": "HSBC0400012",
@@ -330,14 +330,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PRUDENTIAL HOUSE  GROUND FLOOR  HIRANANDANI BUSINESS PARK  POWAI  MUMBAI 400 076",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "400039012",
     "BANK": "HONGKONG & SHANGHAI BANKING CORPORATION",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HSBC0411002": {
     "IFSC": "HSBC0411002",
@@ -347,14 +347,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AMAR AVINASH CORPORATE CITY  SECTOR NO  11  BUND GARDEN ROAD  PUNE 411 011",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "411039002",
     "BANK": "HONGKONG & SHANGHAI BANKING CORPORATION",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HSBC0500002": {
     "IFSC": "HSBC0500002",
@@ -364,14 +364,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "UMA PLAZARAJAGOPAL TOWERS  ROAD NO 1  NAGARJUNA HILLS  HYDERABAD  500 082",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "500039002",
     "BANK": "HONGKONG & SHANGHAI BANKING CORPORATION",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HSBC0560002": {
     "IFSC": "HSBC0560002",
@@ -381,14 +381,14 @@
     "STATE": "KARNATAKA",
     "ADDRESS": "NO  7  MAHATMA GANDHI ROAD  BANGALORE 560 001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "560039002",
     "BANK": "HONGKONG & SHANGHAI BANKING CORPORATION",
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HSBC0560003": {
     "IFSC": "HSBC0560003",
@@ -398,14 +398,14 @@
     "STATE": "KARNATAKA",
     "ADDRESS": "SURAJ GANGA ARCADE  332 BY 7  14TH CROSS  II BLOCK  JAYANAGAR  BANGALORE 560 011",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "560039003",
     "BANK": "HONGKONG & SHANGHAI BANKING CORPORATION",
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HSBC0600002": {
     "IFSC": "HSBC0600002",
@@ -415,14 +415,14 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "96  DR RADHAKRISHNAN SALAI  MYLAPORE  CHENNAI 600 004",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "600039002",
     "BANK": "HONGKONG & SHANGHAI BANKING CORPORATION",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HSBC0641002": {
     "IFSC": "HSBC0641002",
@@ -432,14 +432,14 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "SRIVARI GOKUL TOWERS  108  RACE COURSE ROAD  COIMBATORE 641 018",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "641039002",
     "BANK": "HONGKONG & SHANGHAI BANKING CORPORATION",
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HSBC0682002": {
     "IFSC": "HSBC0682002",
@@ -449,14 +449,14 @@
     "STATE": "KERALA",
     "ADDRESS": "39 BY 6765  HARBOUR VIEW RESIDENCY  OPPOSITE SHIPYARD  M G ROAD  KOCHI  682 015",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "682039002",
     "BANK": "HONGKONG & SHANGHAI BANKING CORPORATION",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOCHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HSBC0700004": {
     "IFSC": "HSBC0700004",
@@ -466,14 +466,14 @@
     "STATE": "WEST BENGAL",
     "ADDRESS": "31 BBD BAGH  DALHOUSIE SQUARE  KOLKATA 700 001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "700039004",
     "BANK": "HONGKONG & SHANGHAI BANKING CORPORATION",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HSBC0700005": {
     "IFSC": "HSBC0700005",
@@ -483,14 +483,14 @@
     "STATE": "WEST BENGAL",
     "ADDRESS": "NO  2 BY 1  EKDALIA ROAD  KOLKATA 700 019",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "700039005",
     "BANK": "HONGKONG & SHANGHAI BANKING CORPORATION",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HSBC0RTGSMI": {
     "BANK": "Hongkong & Shanghai Banking Corporation",
@@ -504,9 +504,9 @@
     "IMPS": true,
     "CITY": "MUMBAI",
     "UPI": true,
-    "DATE": null,
     "MICR": "400039002",
     "RTGS": true,
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   }
 }

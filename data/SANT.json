@@ -7,14 +7,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "1039,SOPANKAKA BHAVAN,SHUKRWAR PETH,TILAK ROAD,PUNE 411002",
     "CONTACT": "02024444001",
-    "DATE": "29-OCT-18",
     "BANK": "SANT SOPANKAKA SAHAKARI BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "PUNE",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SANT0000002": {
     "IFSC": "SANT0000002",
@@ -24,14 +24,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "CHH.SHIVAJI SHOPPING CENTER,1ST FLOOR,A/P - SASWAD,TAL PURANDAR,DISTRICT PUNE,PIN CODE 412 301",
     "CONTACT": "02115223899",
-    "DATE": "29-OCT-18",
     "BANK": "SANT SOPANKAKA SAHAKARI BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "PUNE",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SANT0000099": {
     "IFSC": "SANT0000099",
@@ -41,13 +41,13 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "1039,SOPANKAKA BHAVAN,SHUKRWAR PETH,TILAK ROAD,PUNE 411002",
     "CONTACT": "02024444001",
-    "DATE": "29-OCT-18",
     "BANK": "SANT SOPANKAKA SAHAKARI BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": false,
     "IMPS": true,
-    "MICR": null
+    "MICR": null,
+    "SWIFT": null
   }
 }

@@ -11,10 +11,10 @@
     "IMPS": true,
     "CITY": "MUMBAI",
     "UPI": true,
-    "DATE": null,
     "RTGS": true,
     "NEFT": false,
-    "MICR": null
+    "MICR": null,
+    "SWIFT": null
   },
   "JSBL0000002": {
     "IFSC": "JSBL0000002",
@@ -24,14 +24,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "22 and 23,Mahindra Chemabers, 1st Floor, Dr.D.N..Raod. Fort Mumbai-400 001.",
     "CONTACT": "22035939",
-    "DATE": null,
     "BANK": "JANAKALYAN SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400105020",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBL0000003": {
     "IFSC": "JSBL0000003",
@@ -41,14 +41,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Parksite Colony, Municipal Compound, Vikhroli (W), Mumbai – 79",
     "CONTACT": "25170316",
-    "DATE": "16/03/2006",
     "BANK": "JANAKALYAN SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400105003",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBL0000004": {
     "IFSC": "JSBL0000004",
@@ -58,14 +58,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Vidyanidhi School Building, JVPD Scheme, Vile Parle (W), Mumbai 49",
     "CONTACT": "26252326",
-    "DATE": "16/03/2006",
     "BANK": "JANAKALYAN SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400105004",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBL0000005": {
     "IFSC": "JSBL0000005",
@@ -75,14 +75,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.1, GR. FLOOR, GEETA BUILDING, OPP. SION BUS DEPOT, NEXT TO HP PETROL PUMP, SION EAST, MUMBAI 400 022",
     "CONTACT": "08108066005",
-    "DATE": "41739",
     "MICR": "400105005",
     "BANK": "JANAKALYAN SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBL0000006": {
     "IFSC": "JSBL0000006",
@@ -92,14 +92,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Plot No.37, Shree Niwas, Datar Colony, Bhandup (E), Mumbai – 78",
     "CONTACT": "25605784",
-    "DATE": "16/03/2006",
     "BANK": "JANAKALYAN SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400105006",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBL0000007": {
     "IFSC": "JSBL0000007",
@@ -109,14 +109,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Gole Bunglow, Netaji Subhash Road, Mulund (W), Mumbai – 80",
     "CONTACT": "25618101",
-    "DATE": "16/03/2006",
     "BANK": "JANAKALYAN SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400105007",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBL0000008": {
     "IFSC": "JSBL0000008",
@@ -126,14 +126,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Moti Mahal, M.G.Road, Ghatkopar (W), Mumbai – 86,",
     "CONTACT": "25108161",
-    "DATE": "16/03/2006",
     "BANK": "JANAKALYAN SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400105008",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBL0000010": {
     "IFSC": "JSBL0000010",
@@ -143,14 +143,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Ajit Nagar, Sahar Village, Andheri (E), Mumbai – 69",
     "CONTACT": "28227681",
-    "DATE": "16/03/2006",
     "BANK": "JANAKALYAN SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400105010",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBL0000011": {
     "IFSC": "JSBL0000011",
@@ -160,14 +160,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Old Barrak No. T-107, Sindhi Camp, Gandhi Bazar, Chembur, Mumbai – 74",
     "CONTACT": "25204346",
-    "DATE": "16/03/2006",
     "BANK": "JANAKALYAN SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400105011",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBL0000012": {
     "IFSC": "JSBL0000012",
@@ -177,14 +177,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "701, Kala Kunj, Linking Road, Near Telephone Exchange, Khar Mumbai – 52",
     "CONTACT": "26035560",
-    "DATE": "16/03/2006",
     "BANK": "JANAKALYAN SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400105012",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBL0000013": {
     "IFSC": "JSBL0000013",
@@ -194,14 +194,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Hemal Co. Op. Housing soc. Ltd., Flat No. 8-4/5, Khardi Post Office, Malad (W) Mumbai 95",
     "CONTACT": "28634876",
-    "DATE": "16/03/2006",
     "BANK": "JANAKALYAN SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400105013",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBL0000014": {
     "IFSC": "JSBL0000014",
@@ -211,14 +211,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Kalpak Estate, Building A-4, Seth Mistri Road, Antop Hill.",
     "CONTACT": "28624580",
-    "DATE": "16/03/2006",
     "BANK": "JANAKALYAN SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400105014",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBL0000015": {
     "IFSC": "JSBL0000015",
@@ -228,14 +228,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Ambika Co. Op. Hsg. Soc. Ltd., Shop No. 1,2 & 8, Phadke Road, Sahani Chowk, Mulund (E), Mumbai – 81",
     "CONTACT": "25610316",
-    "DATE": "16/03/2006",
     "BANK": "JANAKALYAN SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400105015",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBL0000016": {
     "IFSC": "JSBL0000016",
@@ -245,14 +245,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Sai Shradha Apt. ‘B’ wing, Behind Vikhroli Bus Depot, Vikhroli (E), Mumbai – 83",
     "CONTACT": "25746774",
-    "DATE": "16/03/2006",
     "BANK": "JANAKALYAN SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400105016",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBL0000017": {
     "IFSC": "JSBL0000017",
@@ -262,14 +262,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.5, RATNAGAR CO-OP. HSG. SOC. LTD., VILLAGE AMBIVALI, FOUR BUNGLOW JUNCTION, J.P.ROAD, ANDHERI WEST, MUMBAI - 400 053",
     "CONTACT": "08108066017",
-    "DATE": "41739",
     "MICR": "400105017",
     "BANK": "JANAKALYAN SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBL0000018": {
     "IFSC": "JSBL0000018",
@@ -279,14 +279,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Vivekanand High School Bldg. Sindhi Soc. Chembur, Mumbai – 71",
     "CONTACT": "25230267",
-    "DATE": "16/03/2006",
     "BANK": "JANAKALYAN SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400105018",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBL0000019": {
     "IFSC": "JSBL0000019",
@@ -296,14 +296,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Unit No. 14 Neelkanth Udyog Bhavan Premise Co. Op. Soc. Ltd., 1st Floor, Sakinaka Junction, Mumbai – 72",
     "CONTACT": "28570666",
-    "DATE": "16/03/2006",
     "BANK": "JANAKALYAN SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400105019",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBL0000020": {
     "IFSC": "JSBL0000020",
@@ -313,14 +313,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "108 & 109, Ashish Industrial Estate, Gokhale Road (S), Dadar Mumbai – 25",
     "CONTACT": "24313144",
-    "DATE": "16/03/2006",
     "BANK": "JANAKALYAN SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400105002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBL0000021": {
     "IFSC": "JSBL0000021",
@@ -330,14 +330,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Saraswati Mahal No. 2, Gokhale Road & Ranade Road Junction, Shivaji Park, Dadar. Mumbai – 28",
     "CONTACT": "24311333",
-    "DATE": "16/03/2006",
     "BANK": "JANAKALYAN SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400105021",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBL0000022": {
     "IFSC": "JSBL0000022",
@@ -347,14 +347,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Dhavaal Apt., 1st Floor, Factory Lane, Borivali (W), Mumbai – 92",
     "CONTACT": "28982152",
-    "DATE": "16/03/2006",
     "BANK": "JANAKALYAN SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400105022",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBL0000023": {
     "IFSC": "JSBL0000023",
@@ -364,14 +364,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Rahi Hotel Bldg, Near Virupaksha Mandir, Old Panvel,",
     "CONTACT": "28998560",
-    "DATE": "16/03/2006",
     "BANK": "JANAKALYAN SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400105023",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBL0000024": {
     "IFSC": "JSBL0000024",
@@ -381,14 +381,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Yeshodhan, Dr. Ambedkar Chowk, Shivaji Path, Thane (W), Mumbai 400 601",
     "CONTACT": "25414431",
-    "DATE": "16/03/2006",
     "BANK": "JANAKALYAN SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400105024",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBL0000025": {
     "IFSC": "JSBL0000025",
@@ -398,14 +398,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "47-51, Kalbadevi Road, Near Pydhoni Police Station, Mumbai – 2",
     "CONTACT": "22411192",
-    "DATE": "16/03/2006",
     "BANK": "JANAKALYAN SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400105025",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBL0000026": {
     "IFSC": "JSBL0000026",
@@ -415,14 +415,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Jai Gayatri Apt. Opp. Kailash Plaza, Vallabh Baug Lane, Ghatkoper (E),",
     "CONTACT": "25108194",
-    "DATE": "16/03/2006",
     "BANK": "JANAKALYAN SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400105026",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBL0000027": {
     "IFSC": "JSBL0000027",
@@ -432,14 +432,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Mahavir Center Premises, Plot No. 77, Sector 17, Vashi, Navi Mumbai",
     "CONTACT": "27899332",
-    "DATE": "16/03/2006",
     "BANK": "JANAKALYAN SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400105027",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBL0000028": {
     "IFSC": "JSBL0000028",
@@ -449,13 +449,13 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "K.A. Bhatia High School, Sector 18, New Panvel 410206.",
     "CONTACT": "56175993",
-    "DATE": "16/03/2006",
     "BANK": "JANAKALYAN SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400105028",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

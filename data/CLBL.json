@@ -11,10 +11,10 @@
     "IMPS": true,
     "CITY": "JALANDHAR",
     "UPI": true,
-    "DATE": null,
     "RTGS": true,
     "MICR": "NA",
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "CLBL0000002": {
     "IFSC": "CLBL0000002",
@@ -24,14 +24,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "NEAR BUS STAND, V. & P.O. SAMRAI-144032, DISTT. JALANDHAR",
     "CONTACT": "01826275880",
-    "DATE": "28/09/2012",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SAMRAI",
     "MICR": "144545604",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000003": {
     "IFSC": "CLBL0000003",
@@ -41,14 +41,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "14-A, MODEL TOWN, G.T. ROAD, PHAGWARA",
     "CONTACT": "01824500602",
-    "DATE": "28/09/2012",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PHAGWARA",
     "MICR": "144545202",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000004": {
     "IFSC": "CLBL0000004",
@@ -58,14 +58,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "204-L, MODEL TOWN, BUS STAND ROAD, HOSHIARPUR-146001",
     "CONTACT": "01882520314",
-    "DATE": "28/09/2012",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "HOSHIARPUR",
     "MICR": "146545002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000005": {
     "IFSC": "CLBL0000005",
@@ -75,14 +75,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "MAIN ROAD, NEAR BUS STAND, MAHILPUR-146105, DISTT. HOSHIARPUR",
     "CONTACT": "01884500836",
-    "DATE": "28/09/2012",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MAHALPUR",
     "MICR": "144545652",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000006": {
     "IFSC": "CLBL0000006",
@@ -92,14 +92,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "MAIN ROAD, NEAR BUS STAND, MEHATPUR-144041, DISTT. JALANDHAR",
     "CONTACT": "01821250004",
-    "DATE": "28/09/2012",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MAHATPUR",
     "MICR": "144545404",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000007": {
     "IFSC": "CLBL0000007",
@@ -109,14 +109,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "JALANDHAR ROAD, NEAR BUS STAND, KAPURTHALA-144601",
     "CONTACT": "01822502829",
-    "DATE": "28/09/2012",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KAPURTHALA",
     "MICR": "144545252",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000008": {
     "IFSC": "CLBL0000008",
@@ -126,14 +126,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "SHAHKOT ROAD, NEAR BUS STAND, MALSIAN - 144701, DISTT. JALANDHAR",
     "CONTACT": "01821502744",
-    "DATE": "28/09/2012",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MALSIAN",
     "MICR": "144545853",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000009": {
     "IFSC": "CLBL0000009",
@@ -143,14 +143,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "G.T. ROAD, GORAYA-144409, DISTT. JALANDHAR",
     "CONTACT": "01826501893",
-    "DATE": "28/09/2012",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "GORAYA",
     "MICR": "144545452",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000010": {
     "IFSC": "CLBL0000010",
@@ -160,14 +160,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "MAIN ROAD, NURMAHAL - 144039, DISTT. JALANDHAR",
     "CONTACT": "01826503307",
-    "DATE": "28/09/2012",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NURMAHAL",
     "MICR": "144545602",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000011": {
     "IFSC": "CLBL0000011",
@@ -177,14 +177,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "NEAR BUS STAND, V. & P.O. SHANKAR - 144042, TEHSIL NAKODAR, DISTT. JALANDHAR",
     "CONTACT": "01821246489",
-    "DATE": "28/09/2012",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SHANKER",
     "MICR": "144545403",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000012": {
     "IFSC": "CLBL0000012",
@@ -194,14 +194,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "MAIN CHOWK, V. & P.O. RURKI-141305, TEHSIL PHILLAUR, DISTT. JALANDHAR",
     "CONTACT": "01826276363",
-    "DATE": "28/09/2012",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ROURKA KALAN",
     "MICR": "144545453",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000013": {
     "IFSC": "CLBL0000013",
@@ -211,14 +211,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "GOBIND NIWAS, 36, G.T. ROAD, JALANDHAR-144001",
     "CONTACT": "02512526060",
-    "DATE": null,
     "MICR": "144545002",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JALANDHAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000014": {
     "IFSC": "CLBL0000014",
@@ -228,14 +228,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "G.T. ROAD, BHOGPUR -144201, DISTT. JALANDHAR",
     "CONTACT": "01815060280",
-    "DATE": "28/09/2012",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BHOGPUR",
     "MICR": "144545977",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000015": {
     "IFSC": "CLBL0000015",
@@ -245,14 +245,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "MAIN ROAD, LOHIAN-144629, TEHSIL SHAHKOT, DISTT. JALANDHAR",
     "CONTACT": "01821501584",
-    "DATE": "28/09/2012",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "LOHIAN KHAS",
     "MICR": "144545903",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000016": {
     "IFSC": "CLBL0000016",
@@ -262,14 +262,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "MAIN ROAD, OPP. BUS STAND, V.& P.O. BEGOWAL-144621, TEHSIL BHOLATH, DISTT. KAPURTHALA",
     "CONTACT": "01822502370",
-    "DATE": "28/09/2012",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BEGOWAL",
     "MICR": "144545987",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000017": {
     "IFSC": "CLBL0000017",
@@ -279,14 +279,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "NEAR BUS STAND, JALANDHAR ROAD, V. & P.O. JANDIALA - 144031, TEHSIL PHILLAUR, DISTT. JALANDHAR",
     "CONTACT": "01826274004",
-    "DATE": "28/09/2012",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JUNDIALA",
     "MICR": "144545603",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000018": {
     "IFSC": "CLBL0000018",
@@ -296,14 +296,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "MOGA ROAD, NEAR GRAIN MARKET, SHAHKOT-144702, DISTT. JALANDHAR",
     "CONTACT": "01821503457",
-    "DATE": "28/09/2012",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SHAHKOT",
     "MICR": "144545852",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000019": {
     "IFSC": "CLBL0000019",
@@ -313,14 +313,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "NEAR SHAHEED UDHAM SINGH CHOWK, KAPURTHALA ROAD, SULTANPUR LODHI - 144626, DISTT. KAPURTHALA",
     "CONTACT": "1828502000",
-    "DATE": "41739",
     "MICR": "144545902",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SULTANPUR LODHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000020": {
     "IFSC": "CLBL0000020",
@@ -330,14 +330,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "NEAR PATTI NELOWAL CHOWK, VPO. BILGA-144036, TEHSIL PHILLAUR, DISTT. JALANDHAR",
     "CONTACT": "01826245062",
-    "DATE": "28/09/2012",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BILGA",
     "MICR": "144545605",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000021": {
     "IFSC": "CLBL0000021",
@@ -347,14 +347,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "NEAR BUS STAND, MUKERIAN - 144211, DISTT. HOSHIARPUR",
     "CONTACT": "01883502700",
-    "DATE": "28/09/2012",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUKERIAN",
     "MICR": "144545702",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000022": {
     "IFSC": "CLBL0000022",
@@ -364,14 +364,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "NEAR JAJA CHOWK, SRI HARGOBINDPUR ROAD, TANDA-144203, DISTT. HOSHIARPUR",
     "CONTACT": "01886227280",
-    "DATE": "28/09/2012",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "URMAR TANDA",
     "MICR": "144545312",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000023": {
     "IFSC": "CLBL0000023",
@@ -381,14 +381,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "JALANDHAR ROAD, V. & P.O. KALA SANGHIAN - 144623, DISTT. KAPURTHALA",
     "CONTACT": "01822258084",
-    "DATE": "28/09/2012",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KALA SANGIAN",
     "MICR": "144545253",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000024": {
     "IFSC": "CLBL0000024",
@@ -398,14 +398,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "NEAR BUS STAND, GORAYA ROAD, V.P.O. RURKA KALAN-144031, TEHSIL PHILLAUR, DISTT. JALANDHAR",
     "CONTACT": "01826276222",
-    "DATE": "28/09/2012",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ROURKA KALAN",
     "MICR": "144545454",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000025": {
     "IFSC": "CLBL0000025",
@@ -415,14 +415,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "143, VIJAY NAGAR, NR. FOOTBALL CHOWK, MAHAVIR MARG, JALANDHAR.",
     "CONTACT": "01815026666",
-    "DATE": "28/09/2012",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JALANDHAR",
     "MICR": "144545003",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000026": {
     "IFSC": "CLBL0000026",
@@ -432,14 +432,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "PRITHVI TOWER', NEAR BUS STAND, G.T. ROAD, PHILLAUR-144410, DISTT. JALANDHAR-144410",
     "CONTACT": "01826500444",
-    "DATE": "11-01-2013",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PHILLAUR",
     "MICR": "144545502",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000027": {
     "IFSC": "CLBL0000027",
@@ -449,14 +449,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "MAIN ROAD, NEAR HP GAS AGENCY, ADAMPUR-144103, DISTT. JALANDHAR",
     "CONTACT": "01815090666",
-    "DATE": "11-01-2013",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ADAMPUR",
     "MICR": "144545552",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000028": {
     "IFSC": "CLBL0000028",
@@ -466,14 +466,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "HOSHIARPUR ROAD, CHHABEWAL-146102, DISTT. HOSHIARPUR",
     "CONTACT": "01882270249",
-    "DATE": "14-03-2013",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHHABEWAL",
     "MICR": "146545003",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000029": {
     "IFSC": "CLBL0000029",
@@ -483,14 +483,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "NEAR L.I.C. OFFICE, G.T. ROAD, DASUYA-144205, DISTT. HOSHIARPUR",
     "CONTACT": "01883500111",
-    "DATE": "08-03-2013",
     "MICR": "144545877",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DASUYA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000030": {
     "IFSC": "CLBL0000030",
@@ -500,14 +500,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "BXX-3360, GURDEV NAGAR, (NEAR AARTI CINEMA), LUDHIANA-141001",
     "CONTACT": "5014444",
-    "DATE": "23/08/2013",
     "MICR": "141545002",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "LUDHIANA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000031": {
     "IFSC": "CLBL0000031",
@@ -517,14 +517,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "CENTRAL MALL', 32, MALL ROAD, AMRITSAR - 143001",
     "CONTACT": "5255505",
-    "DATE": "11/11/2013",
     "MICR": "143545002",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "AMRITSAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000032": {
     "IFSC": "CLBL0000032",
@@ -534,14 +534,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "MAIN ROAD, JAMSHER - 144020, DISTT. JALANDHAR",
     "CONTACT": "01812775111",
-    "DATE": "21/01/2014",
     "MICR": "144545004",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAMSHER(KHERA)",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000033": {
     "IFSC": "CLBL0000033",
@@ -551,14 +551,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "G.T.ROAD, KARTARPUR-144801, DISTT. JALANDHAR",
     "CONTACT": "01815065511",
-    "DATE": "12/05/2014",
     "MICR": "144545802",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KARTARPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000034": {
     "IFSC": "CLBL0000034",
@@ -568,14 +568,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "FEROZEPUR ROAD, DAKHA-141101,DISTT.  LUDHIANA",
     "CONTACT": "01615068377",
-    "DATE": "12/05/2014",
     "MICR": "141545003",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ADDA DAKHA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000035": {
     "IFSC": "CLBL0000035",
@@ -585,14 +585,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "G.T.ROAD, NEAR SHERPUR FLYOVER BRIDGE, JAGRAON",
     "CONTACT": "01624510033",
-    "DATE": "09/01/2015",
     "MICR": "142545052",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAGRAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000036": {
     "IFSC": "CLBL0000036",
@@ -602,14 +602,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "G.T.ROAD, RAYYA",
     "CONTACT": "01853500333",
-    "DATE": "09/01/2015",
     "MICR": "143545502",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "RAYYA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000037": {
     "IFSC": "CLBL0000037",
@@ -619,14 +619,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "CAPITAL LOCAL AREA BANK LIMITED, VPO NADALA -144624, TEHSIL BHOLATH",
     "CONTACT": "01822501100",
-    "DATE": "20-02-2015",
     "MICR": "144545988",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NADALA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000038": {
     "IFSC": "CLBL0000038",
@@ -636,14 +636,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "CAPITAL LOCAL AREA BANK LIMITED, G.T.ROAD, NEAR OLD BUS STAND, KHANNA - 141401",
     "CONTACT": "01628504446",
-    "DATE": "3/24/2015",
     "MICR": "141545202",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KHANNA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000039": {
     "IFSC": "CLBL0000039",
@@ -653,14 +653,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "CAPITAL LOCAL AREA BANK LIMITED, NAKODAR ROAD,LAMBRA",
     "CONTACT": "01812368168",
-    "DATE": "24/04/2015",
     "MICR": "144545005",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "LAMBRA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000040": {
     "IFSC": "CLBL0000040",
@@ -670,14 +670,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "CAPITAL LOCAL AREA BANK LTD., CHANDIGARH ROAD NEAR GURU GOBIND SINGH GURUDWARA, SAMRALA - 141114",
     "CONTACT": "01815050759",
-    "DATE": "42284",
     "MICR": "141545251",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SAMRALA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000041": {
     "IFSC": "CLBL0000041",
@@ -687,14 +687,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "CAPITAL LOCAL AREA BANK LTD., MAIN ROAD, HARIANA - 144208, TEHSIL BHUNGA",
     "CONTACT": "01815050759",
-    "DATE": "42284",
     "MICR": "146545005",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "HARIANA BHUNGA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000042": {
     "IFSC": "CLBL0000042",
@@ -704,14 +704,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "CAPITAL LOCAL AREA BANK LTD., MEHATPUR - SHAHKOT ROAD, PARJIAN - 144041, TEHSIL NAKODAR",
     "CONTACT": "01815050759",
-    "DATE": "42284",
     "MICR": "144545854",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PARJIAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000043": {
     "IFSC": "CLBL0000043",
@@ -721,14 +721,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "MAHILPUR ROAD,OPP. COURT COMPLEX,GARHSHANKAR - 144527,DISTRICT HOSHIARPUR",
     "CONTACT": "01815050759",
-    "DATE": "2016-01-01",
     "MICR": "144545653",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "GARHSHANKAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000044": {
     "IFSC": "CLBL0000044",
@@ -738,14 +738,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "DASUYA ROAD,GARDHIWAL - 144207,DISTRICT HOSHIARPUR",
     "CONTACT": "01815050759",
-    "DATE": "2016-01-01",
     "MICR": "144545878",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "GARDHIWAL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000045": {
     "IFSC": "CLBL0000045",
@@ -755,14 +755,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "G.T. ROAD, NEAR PETROL PUMP, JANDIALA GURU - 143115,DISTRICT AMRITSAR",
     "CONTACT": "01815050759",
-    "DATE": "2016-01-01",
     "MICR": "143545452",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JANDIALA GURU",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000046": {
     "IFSC": "CLBL0000046",
@@ -772,14 +772,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "CAPITAL LOCAL AREA BANK,KAPURTHALA-NAKODAR ROAD,TEHSIL NAKODAR",
     "CONTACT": "01815050759",
-    "DATE": "2016-03-07",
     "MICR": "144545405",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "UGGI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000047": {
     "IFSC": "CLBL0000047",
@@ -789,14 +789,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "CAPITAL LOCAL AREA BANK LTD,DORAHA G.T ROAD",
     "CONTACT": "01815050759",
-    "DATE": "2016-03-07",
     "MICR": "141545004",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DORAHA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000048": {
     "IFSC": "CLBL0000048",
@@ -806,14 +806,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "504-R MODEL TOWN,DISTT JALANDHAR,PUNJAB-144001",
     "CONTACT": "01815050759",
-    "DATE": "2016-03-29",
     "MICR": "144545006",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JALANDHAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000049": {
     "IFSC": "CLBL0000049",
@@ -823,14 +823,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "VILLAGE BOOLPUR,PO NAWAN THATHA TEHSIL SULTANPUR",
     "CONTACT": "01828258001",
-    "DATE": "2016-04-30",
     "MICR": "144545904",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SULTANPUR LODHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000050": {
     "IFSC": "CLBL0000050",
@@ -840,14 +840,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "VILLAGE & PO RAZAPUR,",
     "CONTACT": "01822654001",
-    "DATE": "2016-04-30",
     "MICR": "144545254",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KAPURTHALA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000051": {
     "IFSC": "CLBL0000051",
@@ -857,14 +857,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "VILLAGE & PO NAWANPIND DONEWAL TEHSIL SHAHKOT",
     "CONTACT": "01821276245",
-    "DATE": "2016-04-30",
     "MICR": "144545905",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SHAHKOT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000052": {
     "IFSC": "CLBL0000052",
@@ -874,14 +874,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "VILLAGE & PO POONIA TEHSIL SHAHKOT",
     "CONTACT": "01821275123",
-    "DATE": "2016-04-30",
     "MICR": "144545855",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SHAHKOT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000053": {
     "IFSC": "CLBL0000053",
@@ -891,14 +891,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "VILLAGE SEECHEWAL PO CHAK CHELA,TEHSIL SHAHKOT",
     "CONTACT": "01821270009",
-    "DATE": "2016-04-30",
     "MICR": "144545856",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SHAHKOT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000054": {
     "IFSC": "CLBL0000054",
@@ -908,14 +908,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "VILLAGE & PO KANGNA,TEHSIL NAKODAR",
     "CONTACT": "01821271184",
-    "DATE": "2016-04-30",
     "MICR": "144545857",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NAKODAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000055": {
     "IFSC": "CLBL0000055",
@@ -925,14 +925,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "VILLAGE & PO KANDOLA KALAN,TEHSIL PHILLAUR",
     "CONTACT": "01826242273",
-    "DATE": "2016-04-30",
     "MICR": "144545606",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PHILLAUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000056": {
     "IFSC": "CLBL0000056",
@@ -942,14 +942,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "VILLAGE & PO DHALIWAL,TEHSIL NAKODAR",
     "CONTACT": "01821247123",
-    "DATE": "2016-04-30",
     "MICR": "144545607",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NAKODAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000057": {
     "IFSC": "CLBL0000057",
@@ -959,14 +959,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "VILLAGE & PO BOPARAI KALAN,TEHSIL NAKODAR",
     "CONTACT": "01821246253",
-    "DATE": "2016-04-30",
     "MICR": "144545406",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NAKODAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000058": {
     "IFSC": "CLBL0000058",
@@ -976,14 +976,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "VPO POWADRA,TEHSIL PHILLAUR PIN CODE -144036",
     "CONTACT": "01826248100",
-    "DATE": "2016-09-06",
     "MICR": "144545610",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "POWADRA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000059": {
     "IFSC": "CLBL0000059",
@@ -993,14 +993,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "VPO TALWANDI SANGHERA-144703 ,TEHSIL SHAHKOT",
     "CONTACT": "01821273054",
-    "DATE": "2016-09-06",
     "MICR": "144545858",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "TALWANDI SANGHERA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000060": {
     "IFSC": "CLBL0000060",
@@ -1010,14 +1010,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "NAWANSHAHR ROAD,BANGA-144505",
     "CONTACT": "01823500101",
-    "DATE": "2016-09-06",
     "MICR": "144545352",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000061": {
     "IFSC": "CLBL0000061",
@@ -1027,14 +1027,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "NEW CITY TOWER,BANGA RAOAD-144514",
     "CONTACT": "01823508222",
-    "DATE": "2016-09-06",
     "MICR": "144545302",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NAWANSHAHR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000062": {
     "IFSC": "CLBL0000062",
@@ -1044,14 +1044,14 @@
     "STATE": "CHANDIGARH",
     "ADDRESS": "SCO NO 59-60,SECTOR 9-D,CHANDIGARH",
     "CONTACT": "01725030101",
-    "DATE": "42647",
     "MICR": "160545002",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHANDIGARH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000063": {
     "IFSC": "CLBL0000063",
@@ -1061,14 +1061,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "VPO MUDH,TEHSIL NAKODAR PIN-144030",
     "CONTACT": "01821257050",
-    "DATE": "2016-10-14",
     "MICR": "144545407",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NAKODAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000064": {
     "IFSC": "CLBL0000064",
@@ -1078,14 +1078,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "VPO TAHLI,TEHSIL NAKODAR,PIN-144043",
     "CONTACT": "01821245006",
-    "DATE": "2016-11-22",
     "MICR": "144545409",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "TAHLI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000065": {
     "IFSC": "CLBL0000065",
@@ -1095,14 +1095,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "VPO BAJUHA KHURD,TEHSIL NAKODAR,PIN-144033",
     "CONTACT": "01821248020",
-    "DATE": "2016-11-22",
     "MICR": "144545408",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BAJUHA KHURD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000066": {
     "IFSC": "CLBL0000066",
@@ -1112,14 +1112,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "MAIN ROAD,FATEHGARH SAHIB-140406",
     "CONTACT": "01763503366",
-    "DATE": "2016-11-25",
     "MICR": "140545102",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "FATEHGARH SAHIB",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000067": {
     "IFSC": "CLBL0000067",
@@ -1129,14 +1129,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "VPO UPPAL JAGIR,TEHSIL PHILLAUR,PIN-144039",
     "CONTACT": "01826241072",
-    "DATE": "2016-11-22",
     "MICR": "144545608",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "UPPAL JAGIR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000068": {
     "IFSC": "CLBL0000068",
@@ -1146,14 +1146,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "EXECUTIVE TOWER,5-C,RAJBAHA ROAD,PATIALA-147001",
     "CONTACT": "01755021212",
-    "DATE": "2016-11-25",
     "MICR": "147545002",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PATIALA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000069": {
     "IFSC": "CLBL0000069",
@@ -1163,14 +1163,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "GT ROAD,DISTRICT MOGA,142001",
     "CONTACT": "01636501133",
-    "DATE": "2016-12-29",
     "MICR": "142545002",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MOGA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000070": {
     "IFSC": "CLBL0000070",
@@ -1180,14 +1180,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "VPO KHANPUR DHADDA,TEHSIL NAKODAR,PIN-144701",
     "CONTACT": "01821239010",
-    "DATE": "2017-01-04",
     "MICR": "144545859",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KHANPUR DHADDA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000071": {
     "IFSC": "CLBL0000071",
@@ -1197,14 +1197,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "B-15-79/A/1,VISHKARMA CHOWK,MILLERGANJ,DISTT LUDHIANA-141003",
     "CONTACT": "01615005111",
-    "DATE": "2017-02-08",
     "MICR": "141545005",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "LUDHIANA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000072": {
     "IFSC": "CLBL0000072",
@@ -1214,14 +1214,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "V&PO PHARWALA,TEHSIL PHILLAUR,DISTRICT JALANDHAR,PIN-144037",
     "CONTACT": "01826231881",
-    "DATE": "2017-02-09",
     "MICR": "144545609",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PHARWALA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000073": {
     "IFSC": "CLBL0000073",
@@ -1231,14 +1231,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "VPO TUT KALAN, TEHSIL NAKODAR, DISTRICT JALANDHAR PINCODE 144040",
     "CONTACT": "01821226322",
-    "DATE": "2017-03-16",
     "MICR": "144545410",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "TUT KALAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000074": {
     "IFSC": "CLBL0000074",
@@ -1248,14 +1248,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "SAMRALA ROAD,MACHHIWARA DISTT-LUDHIANA PUNJAB - 141115",
     "CONTACT": "01628251500",
-    "DATE": "2017-04-06",
     "MICR": "141545352",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MACHHIWARA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000075": {
     "IFSC": "CLBL0000075",
@@ -1265,14 +1265,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "SCF NO-29,PHASE 5,SECTOR-59,MOHALI CHANDIGARH-160059",
     "CONTACT": "01815050759",
-    "DATE": "2017-04-06",
     "MICR": "160545003",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MOHALI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000076": {
     "IFSC": "CLBL0000076",
@@ -1282,14 +1282,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "CREATIVE PARK,NEW GOBIND NAGAR,GT ROAD BYE PASS JALANDHAR-144004",
     "CONTACT": "01815050759",
-    "DATE": "2017-04-06",
     "MICR": "144545007",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JALANDHAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000077": {
     "IFSC": "CLBL0000077",
@@ -1299,14 +1299,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "VILLAGE LANDRAN, TEHSIL KHARAR, DISST MOHALI - 140307",
     "CONTACT": "01602250401",
-    "DATE": "2017-07-21",
     "MICR": "160545004",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "LANDRAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000078": {
     "IFSC": "CLBL0000078",
@@ -1316,14 +1316,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "VPO JALBEHRI DHUMI,DISTRICT FATEHGARH SAHIB, PINCODE-140406",
     "CONTACT": "01763268595",
-    "DATE": "2017-09-11",
     "MICR": "140545103",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JALBEHRI DHUMI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000079": {
     "IFSC": "CLBL0000079",
@@ -1333,14 +1333,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "VPO FATEHPUR, TEHSIL PHILLAUR, DISTRICT JALANDHAR, PINCODE-144039",
     "CONTACT": "01826247070",
-    "DATE": "2017-09-11",
     "MICR": "144545611",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "FATEHPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000080": {
     "IFSC": "CLBL0000080",
@@ -1350,14 +1350,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "VPO CHAK HAKIM,TEHSIL PHAGWARA,DISTRICT KAPURTHALA,PINCODE-144401",
     "CONTACT": "01824220604",
-    "DATE": "2017-09-11",
     "MICR": "144545203",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHAK HAKIM",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000081": {
     "IFSC": "CLBL0000081",
@@ -1367,14 +1367,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "VPO LAKHAN KALAN,DISTRICT KAPURTHALA, PINCODE-144601",
     "CONTACT": "01822279040",
-    "DATE": "2017-09-11",
     "MICR": "144545255",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "LAKHAN KALAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000082": {
     "IFSC": "CLBL0000082",
@@ -1384,14 +1384,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "VPO PAWA, DISTRICT LUDHIANA, PINCODE-141120",
     "CONTACT": "08146655525",
-    "DATE": "2017-10-09",
     "MICR": "141545006",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PAWA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000083": {
     "IFSC": "CLBL0000083",
@@ -1401,14 +1401,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "VPO BHANOKI, TEHSIL PHAGWARA",
     "CONTACT": "01815050759",
-    "DATE": "2017-10-17",
     "MICR": "144545204",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BHANOKI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000084": {
     "IFSC": "CLBL0000084",
@@ -1418,14 +1418,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "FARIDKOT ROAD, DISTT FARIDKOT, PIN - 151204",
     "CONTACT": "01815050759",
-    "DATE": "2017-10-17",
     "MICR": "151545152",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOTKAPURA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000085": {
     "IFSC": "CLBL0000085",
@@ -1435,14 +1435,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "1-2B, CALIBER MARKET, RAJPURA - 140401",
     "CONTACT": "01815050759",
-    "DATE": "2017-11-13",
     "MICR": "140545052",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "RAJPURA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000086": {
     "IFSC": "CLBL0000086",
@@ -1452,14 +1452,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "BALACHAUR , SP TOWER, GARHSHANKAR ROAD - 144521",
     "CONTACT": "01815050759",
-    "DATE": "2017-11-13",
     "MICR": "144545927",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BALACHAUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000087": {
     "IFSC": "CLBL0000087",
@@ -1469,14 +1469,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "REHMANPUR, PO KUKAR PIND - 144024",
     "CONTACT": "01815050759",
-    "DATE": "2017-11-13",
     "MICR": "144545008",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "REHMANPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000088": {
     "IFSC": "CLBL0000088",
@@ -1486,14 +1486,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "VILLAGE THAKKARWAL, TEHSIL GARHSHANKAR, DISTRICT HOSHIARPUR - 146001",
     "CONTACT": "01884255577",
-    "DATE": "2017-11-23",
     "MICR": "144545654",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "THAKKARWAL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000089": {
     "IFSC": "CLBL0000089",
@@ -1503,14 +1503,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "VILLAGE LALHERI, P.O. HARION KALAN, TEHSIL KHANNA, DISTRICT LUDHIANA - 141417",
     "CONTACT": "01628221123",
-    "DATE": "2017-11-23",
     "MICR": "141545203",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "LALHERI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000090": {
     "IFSC": "CLBL0000090",
@@ -1520,14 +1520,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "RAHON ROAD, VPO MEHARBAN, DISTRICT LUDHIANA - 141007",
     "CONTACT": "01815050759",
-    "DATE": "2017-11-23",
     "MICR": "141545007",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MEHARBAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000091": {
     "IFSC": "CLBL0000091",
@@ -1537,14 +1537,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "VILLAGE SALARPUR, P.O RAIPUR, DISTRICT JALANDHAR - 144402",
     "CONTACT": "01812772032",
-    "DATE": "2017-11-23",
     "MICR": "144545009",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SALARPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000092": {
     "IFSC": "CLBL0000092",
@@ -1554,14 +1554,14 @@
     "STATE": "DELHI",
     "ADDRESS": "14, NETAJI SUBHASH MARG, DARYAGANJ, NEW DELHI, PIN- 110002",
     "CONTACT": "01123270453",
-    "DATE": "2017-12-21",
     "MICR": "110545002",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000093": {
     "IFSC": "CLBL0000093",
@@ -1571,14 +1571,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "SCO NO 211, SECTOR 14 URBAN ESTATE,PANCHKULA PIN - 134109",
     "CONTACT": "01722586045",
-    "DATE": "2018-01-01",
     "MICR": "160545005",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PANCHKULA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000094": {
     "IFSC": "CLBL0000094",
@@ -1588,14 +1588,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "CAPITAL SMALL FINANCE BANK,V&PO DADUWAL TEHSIL PHILLAUR PIN - 144032",
     "CONTACT": "01826277087",
-    "DATE": "2018-01-02",
     "MICR": "144545612",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DADUWAL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000095": {
     "IFSC": "CLBL0000095",
@@ -1605,14 +1605,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "CAPITAL SMALL FINANCE BANK, MACHHIWARA ROAD RAHON, NAWANSHAHR PIN - 144517",
     "CONTACT": "01815050759",
-    "DATE": "2018-01-01",
     "MICR": "144545303",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "RAHON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000096": {
     "IFSC": "CLBL0000096",
@@ -1622,14 +1622,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "CAPITAL SMALL FINANCE BANK, VILLAGE DHAUL PO NAWANPIND TAPRIAN TEHSIL BALACHAUR PIN - 144521",
     "CONTACT": "01815050759",
-    "DATE": "2018-01-01",
     "MICR": "144545928",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DHAUL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000097": {
     "IFSC": "CLBL0000097",
@@ -1639,14 +1639,14 @@
     "STATE": "DELHI",
     "ADDRESS": "PLOT NO-8, BLOCK J-2,RAJOURI GARDEN,NEW DELHI PIN - 110027",
     "CONTACT": "01815050759",
-    "DATE": "2018-01-01",
     "MICR": "110545003",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000098": {
     "IFSC": "CLBL0000098",
@@ -1656,14 +1656,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "CAPITAL SMALL FINANCE BANK LTD,DHANGU ROAD,PATHANKOT PIN - 145001",
     "CONTACT": "01815050759",
-    "DATE": "2018-01-01",
     "MICR": "145545002",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PATHANKOT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000099": {
     "IFSC": "CLBL0000099",
@@ -1673,14 +1673,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "CAPITAL SMALL FINANCE BANK LIMITED,G.T ROAD,NEAR BUS STAND,RAIKOT PIN - 141109",
     "CONTACT": "01815050759",
-    "DATE": "2018-01-01",
     "MICR": "141545302",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "RAIKOT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000100": {
     "IFSC": "CLBL0000100",
@@ -1690,14 +1690,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "CAPITAL SMALL FINANCE BANK LTD. VILLAGE GARHI KANUGO, TEHSIL BALACHAUR PIN - 144521",
     "CONTACT": "01815050759",
-    "DATE": "2018-01-01",
     "MICR": "144545929",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "GARHI KANUGO",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000101": {
     "IFSC": "CLBL0000101",
@@ -1707,14 +1707,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "CLUB CHOWK, MALERKOTLA PIN - 148023",
     "CONTACT": "01675250910",
-    "DATE": "2018-03-09",
     "MICR": "148545102",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MALERKOTLA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000102": {
     "IFSC": "CLBL0000102",
@@ -1724,14 +1724,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "S.K. ROAD, NEAR GRAIN MARKET,LADWA PIN - 136132",
     "CONTACT": "01744264537",
-    "DATE": "2018-03-09",
     "MICR": "136545102",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "LADWA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000103": {
     "IFSC": "CLBL0000103",
@@ -1741,14 +1741,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "M.C. NO. 2852-C, G.T. ROAD, GANESH NAGAR, BATHINDA PIN-151001",
     "CONTACT": "01645190500",
-    "DATE": "2018-04-13",
     "MICR": "151545002",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BATHINDA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000104": {
     "IFSC": "CLBL0000104",
@@ -1758,14 +1758,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "B-25-1284/96A, SUNDER NAGAR, RAHON ROAD, LUDHIANA PIN-141008",
     "CONTACT": "01615055600",
-    "DATE": "2018-04-13",
     "MICR": "141545008",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "LUDHIANA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000105": {
     "IFSC": "CLBL0000105",
@@ -1775,14 +1775,14 @@
     "STATE": "DELHI",
     "ADDRESS": "DHIR TOWER, 61/2179 BLOCK - J, NAI WALA, OPP. POST OFFICE, KAROL BAGH, NEW DELHI PIN - 110005",
     "CONTACT": "01128757342",
-    "DATE": "2018-04-20",
     "MICR": "110545004",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000106": {
     "IFSC": "CLBL0000106",
@@ -1792,14 +1792,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "5358/2, JAGADHARI ROAD, NEAR LIBERTY SHOWROOM AMBALA - 133001",
     "CONTACT": "01815050759",
-    "DATE": "2018-05-15",
     "MICR": "133545002",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "AMBALA SADAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000107": {
     "IFSC": "CLBL0000107",
@@ -1809,14 +1809,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "SCO NO. 245, SECTOR 12, PART - 1, KARNAL PIN - 132001",
     "CONTACT": "01842267410",
-    "DATE": "2018-05-30",
     "MICR": "132545102",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KARNAL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000108": {
     "IFSC": "CLBL0000108",
@@ -1826,14 +1826,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "R R SQUARE 158, G.T. ROAD, NEAR RED LIGHT CHOWK, OPPOSITE PALIKA BAZAR, PANIPAT - PIN -132103",
     "CONTACT": "01802640155",
-    "DATE": "2018-05-30",
     "MICR": "132545002",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PANIPAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000109": {
     "IFSC": "CLBL0000109",
@@ -1843,14 +1843,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "SCO NO. 43 & 44, BEANT SINGH AMAN NAGAR, NEAR BELA CHOWK, RUPNAGAR - PIN - 140001",
     "CONTACT": "01881225464",
-    "DATE": "2018-05-30",
     "MICR": "140545002",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "RUPNAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000110": {
     "IFSC": "CLBL0000110",
@@ -1860,14 +1860,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "GT ROAD MALOUT",
     "CONTACT": "01637266366",
-    "DATE": "2018-05-30",
     "MICR": "152545202",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MALOUT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000111": {
     "IFSC": "CLBL0000111",
@@ -1877,14 +1877,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "PAKKA COLLEGE ROAD, BARNALA  PIN - 148101",
     "CONTACT": "01679230882",
-    "DATE": "2018-06-20",
     "MICR": "148545052",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BARNALA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000112": {
     "IFSC": "CLBL0000112",
@@ -1894,14 +1894,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "HANUMANGARH ROAD ABOHAR, PIN - 152116",
     "CONTACT": "01634226882",
-    "DATE": "2018-06-20",
     "MICR": "152545052",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ABOHAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000113": {
     "IFSC": "CLBL0000113",
@@ -1911,14 +1911,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "GAUSHALA ROAD, NEAR GRAIN MARKET, PIN - 148001",
     "CONTACT": "01672222882",
-    "DATE": "2018-06-20",
     "MICR": "148545002",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SANGRUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000114": {
     "IFSC": "CLBL0000114",
@@ -1928,14 +1928,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "NEW COURT ROAD, MANSA ,PIN - 151505",
     "CONTACT": "01652227882",
-    "DATE": "2018-06-20",
     "MICR": "151545052",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MANSA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000115": {
     "IFSC": "CLBL0000115",
@@ -1945,14 +1945,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "SCO NO 149, URBAN ESTATE SECTOR-15,SONIPAT - PIN- 131001",
     "CONTACT": "01302235881",
-    "DATE": "2018-06-20",
     "MICR": "110545005",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SONIPAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000116": {
     "IFSC": "CLBL0000116",
@@ -1962,14 +1962,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "SCO -68 & 69 NEW GRAIN MARKET, MUKTSAR ,PIN - 152026",
     "CONTACT": "01633509192",
-    "DATE": "2018-06-20",
     "MICR": "152545102",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUKTSAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000117": {
     "IFSC": "CLBL0000117",
@@ -1979,14 +1979,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "VILLAGE DHANDA (ON GORAYA-JANDIALA MAIN ROAD) TEHSIL PHILLAUR DISTRICT JALANDHAR PIN - 144409",
     "CONTACT": "01826269100",
-    "DATE": "2018-10-10",
     "MICR": "144545455",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DHANDA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000118": {
     "IFSC": "CLBL0000118",
@@ -1996,14 +1996,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "VILLAGE AND POST OFFICE MOHEM TEHSIL NAKODAR DISTRICT JALANDHAR PIN - 144044",
     "CONTACT": "07347040619",
-    "DATE": "2018-10-10",
     "MICR": "144545411",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MOHEM",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000119": {
     "IFSC": "CLBL0000119",
@@ -2013,14 +2013,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "VILLAGE BEGAMPUR POST OFFICE MUTHADA KHURD TEHSIL PHILLAUR DISTRICT JALANDHAR PIN - 144410",
     "CONTACT": "01826234881",
-    "DATE": "2018-10-10",
     "MICR": "144545503",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BEGAMPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000120": {
     "IFSC": "CLBL0000120",
@@ -2030,14 +2030,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "V&PO PANSHTA TEHSIL PHAGWARA PINCODE - 144408",
     "CONTACT": "01824243108",
-    "DATE": "2018-11-28",
     "MICR": "144545205",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PANSHTA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000121": {
     "IFSC": "CLBL0000121",
@@ -2047,14 +2047,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "V&PO TALWANDI CHAUDHRIAN TEHSIL SULTANPUR PIN - 144606",
     "CONTACT": "01828250222",
-    "DATE": "2018-11-28",
     "MICR": "144545906",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "TALWANDI CHAUDHRIAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000122": {
     "IFSC": "CLBL0000122",
@@ -2064,14 +2064,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "MOGA-KOTKAPURA ROAD BAGHA PURANA PIN - 142038",
     "CONTACT": "01636240000",
-    "DATE": "2018-11-28",
     "MICR": "142545152",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BAGHA PURANA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000123": {
     "IFSC": "CLBL0000123",
@@ -2081,14 +2081,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "V&PO AKALPUR TEHSIL PHILLAUR DISTT JALANDHAR, PINCODE-144410",
     "CONTACT": "01826220022",
-    "DATE": "2019-01-04",
     "MICR": "144545504",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "AKALPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000124": {
     "IFSC": "CLBL0000124",
@@ -2098,14 +2098,14 @@
     "STATE": "CHANDIGARH",
     "ADDRESS": "SCO-1074-1075, SECTOR-22B, HIMALAYA MARG, CHANDIGARH, PINCODE - 160022",
     "CONTACT": "01815050759",
-    "DATE": "2019-01-05",
     "MICR": "160545006",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHANDIGARH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000125": {
     "IFSC": "CLBL0000125",
@@ -2115,14 +2115,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "SCO NO. 1&2 NH-21 CHANDIGARH ROAD KURALI, TEHSIL KHARAR PINCODE-140103",
     "CONTACT": "01815050759",
-    "DATE": "2019-02-06",
     "MICR": "160545007",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KURALI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000126": {
     "IFSC": "CLBL0000126",
@@ -2132,14 +2132,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "B-XI-3 MAIN ROAD DOGAR BASTI FARIDKOT, PINCODE - 151203",
     "CONTACT": "01815050759",
-    "DATE": "2019-02-06",
     "MICR": "151545102",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "FARIDKOT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000127": {
     "IFSC": "CLBL0000127",
@@ -2149,14 +2149,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "VILLAGE & PO BULHOWAL DISTRICT HOSHIARPUR PIN- 146113",
     "CONTACT": "01815050759",
-    "DATE": "2019-03-05",
     "MICR": "146545006",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BULHOWAL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000128": {
     "IFSC": "CLBL0000128",
@@ -2166,14 +2166,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "FEROZPUR ROAD ZIRA, DISTRICT FEROZPUR PUNJAB",
     "CONTACT": "01815050759",
-    "DATE": "2019-03-05",
     "MICR": "142545102",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ZIRA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000129": {
     "IFSC": "CLBL0000129",
@@ -2183,14 +2183,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "VILLAGE & PO ATTI TEHSIL PHILLAUR DISTRICT JALANDHAR",
     "CONTACT": "01815050759",
-    "DATE": "2019-03-05",
     "MICR": "144545456",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ATTI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000130": {
     "IFSC": "CLBL0000130",
@@ -2200,14 +2200,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "BANK ROAD DHURI, DISTRICT SANGRUR, PUNJAB - 148024",
     "CONTACT": "01675223314",
-    "DATE": "2019-04-17",
     "MICR": "148545202",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DHURI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000131": {
     "IFSC": "CLBL0000131",
@@ -2217,14 +2217,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "VILLAGE SHAHZAD PO DHOLAN KALAN TEHSIL LUDHIANA WEST DISTRICT LUDHIANA - 142029",
     "CONTACT": "01612842950",
-    "DATE": "2019-04-17",
     "MICR": "141545009",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SHAHZAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000132": {
     "IFSC": "CLBL0000132",
@@ -2234,14 +2234,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "VPO DAULATPUR, TEHSIL ADAMPUR, DISTRICT JALANDHAR, PUNJAB , PINCODE - 144301",
     "CONTACT": "01812708852",
-    "DATE": "2019-04-17",
     "MICR": "144545553",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DAULATPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000133": {
     "IFSC": "CLBL0000133",
@@ -2251,14 +2251,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "PATIALA ROAD NABHA,DISTRICT PATIALA",
     "CONTACT": "01765251882",
-    "DATE": "2019-05-07",
     "MICR": "147545152",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NABHA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000134": {
     "IFSC": "CLBL0000134",
@@ -2268,14 +2268,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "VPO SANIPUR DISTRICT FATEHGARH SAHIB",
     "CONTACT": "01763228111",
-    "DATE": "2019-06-17",
     "MICR": "140545104",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SANIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000135": {
     "IFSC": "CLBL0000135",
@@ -2285,14 +2285,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "LUDHIANA-MALERKOTLA ROAD VPO KAIND, TEHSIL DEHLON DISTRICT LUDHIANA",
     "CONTACT": "01612811001",
-    "DATE": "2019-07-22",
     "MICR": "141545010",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KAIND",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000136": {
     "IFSC": "CLBL0000136",
@@ -2302,14 +2302,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "VPO MAZARA NAU ABAD, DISTRICT NAWANSHAHR",
     "CONTACT": "09914911311",
-    "DATE": "2019-08-13",
     "MICR": "144545353",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MAZARA NAU ABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000137": {
     "IFSC": "CLBL0000137",
@@ -2319,14 +2319,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "FACTORY ROAD RAMPURA PHUL, DISTRICT BATHINDA",
     "CONTACT": "01651222882",
-    "DATE": "2019-08-21",
     "MICR": "151545302",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "RAMPURA PHUL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000138": {
     "IFSC": "CLBL0000138",
@@ -2336,14 +2336,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "498/6, TIBRI ROAD, GURDASPUR",
     "CONTACT": "01874221100",
-    "DATE": "2019-08-28",
     "MICR": "143545202",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "GURDASPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000139": {
     "IFSC": "CLBL0000139",
@@ -2353,14 +2353,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "HALL BAZAR DISTRICT AMRITSAR",
     "CONTACT": "01832553322",
-    "DATE": "2019-08-28",
     "MICR": "143545003",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "AMRITSAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000140": {
     "IFSC": "CLBL0000140",
@@ -2370,14 +2370,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "RAILWAY ROAD,THANESAR, DISTRICT KURUKSHETRA",
     "CONTACT": "01744270637",
-    "DATE": "2019-08-28",
     "MICR": "136545002",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "THANESAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000141": {
     "IFSC": "CLBL0000141",
@@ -2387,14 +2387,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "1353/11 AMBALA ROAD OPPOSITE KAITHAL CLUB",
     "CONTACT": "01746235510",
-    "DATE": "2019-09-10",
     "MICR": "136545152",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KAITHAL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000142": {
     "IFSC": "CLBL0000142",
@@ -2404,14 +2404,14 @@
     "STATE": "DELHI",
     "ADDRESS": "1486, PYARE LAL BUILDING, CHANDNI CHOWK, DISTRICT NORTH DELHI, NEW DELHI",
     "CONTACT": "23860049",
-    "DATE": "11-SEP-19",
     "MICR": "110545006",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "NEFT": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000143": {
     "IFSC": "CLBL0000143",
@@ -2421,14 +2421,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "21, SRI GANGA NAGAR ROAD, NEAR MAIN POST OFFICE",
     "CONTACT": "01552263882",
-    "DATE": "2019-09-11",
     "MICR": "335545002",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "HANUMAN GARH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000144": {
     "IFSC": "CLBL0000144",
@@ -2438,14 +2438,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "JHUNTHRA TOWER, DABWALI ROAD, SIRSA",
     "CONTACT": "01666220400",
-    "DATE": "2019-09-11",
     "MICR": "125545002",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SIRSA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000145": {
     "IFSC": "CLBL0000145",
@@ -2455,14 +2455,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "SC017, PUDA COMPLEX, OLD CIVIL HOSPITAL, FEROZEPUR",
     "CONTACT": "01632222555",
-    "DATE": "2019-09-11",
     "MICR": "152545002",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "FEROZPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000146": {
     "IFSC": "CLBL0000146",
@@ -2472,14 +2472,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "SCF-6, RED SQUARE MARKET, URBAN ESTATE-1,SECTOR 13P, HISAR",
     "CONTACT": "01662240222",
-    "DATE": "2019-09-11",
     "MICR": "125545052",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "HISAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000147": {
     "IFSC": "CLBL0000147",
@@ -2489,14 +2489,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "NARAYAN COMPLEX,BYPASS ROAD,OPP. SANT NISHCHAL PUBLIC SCHOOL, YAMUNANAGAR",
     "CONTACT": "01732220040",
-    "DATE": "2019-09-11",
     "MICR": "135545002",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "YAMUNANAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000148": {
     "IFSC": "CLBL0000148",
@@ -2506,14 +2506,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "SURATGARH ROAD, NEAR SHIV CIRCLE, SRI GANGANAGAR",
     "CONTACT": "01542471443",
-    "DATE": "2019-09-11",
     "MICR": "335545003",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SRI GANGANAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000149": {
     "IFSC": "CLBL0000149",
@@ -2523,14 +2523,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "HOSHIARPUR ROAD, OPP. KHEHRA FILLING STATION, RAMA MANDI",
     "CONTACT": "01812413390",
-    "DATE": "2019-09-11",
     "MICR": "144545010",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JALANDHAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000150": {
     "IFSC": "CLBL0000150",
@@ -2540,14 +2540,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "B-31-372 STAR TRADE CENTRE, NEAR SAMRALA CHOWK, CHANDIGARH ROAD",
     "CONTACT": "01612225922",
-    "DATE": "2019-09-11",
     "MICR": "141545011",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "LUDHIANA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000151": {
     "IFSC": "CLBL0000151",
@@ -2557,14 +2557,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "VILLAGE LADIAN, POST OFFICE DOSANJ KALAN, TEHSIL PHILLAUR",
     "CONTACT": "265050",
-    "DATE": null,
     "MICR": "144545505",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "LADIAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000152": {
     "IFSC": "CLBL0000152",
@@ -2574,14 +2574,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "DHARAMKOT ROAD, KOT ISE KHAN, TEHSIL DHARAMKOT",
     "CONTACT": "240114",
-    "DATE": null,
     "MICR": "142545003",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOT ISE KHAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000153": {
     "IFSC": "CLBL0000153",
@@ -2591,14 +2591,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "EJ - 350,MILAP CHOWK",
     "CONTACT": "01812225360",
-    "DATE": "2020-08-29",
     "MICR": "144545011",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "JALANDHAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000154": {
     "IFSC": "CLBL0000154",
@@ -2608,14 +2608,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "RAHON - PHILLAUR ROAD, MEHRAMPUR",
     "CONTACT": "257088",
-    "DATE": null,
     "MICR": "144545304",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MEHRAMPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000155": {
     "IFSC": "CLBL0000155",
@@ -2625,14 +2625,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "BHANGALA ROAD, RANGA, POST OFFICE BHANGALA, TEHSIL MUKERIAN",
     "CONTACT": "234600",
-    "DATE": null,
     "MICR": "144545703",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "RANGA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000156": {
     "IFSC": "CLBL0000156",
@@ -2642,14 +2642,65 @@
     "STATE": "PUNJAB",
     "ADDRESS": "MAKHU ROAD, MALLANWALA KHASS",
     "CONTACT": "275047",
-    "DATE": null,
     "MICR": "152545003",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MALLANWALA KHASS",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
+  },
+  "CLBL0000157": {
+    "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
+    "IFSC": "CLBL0000157",
+    "BRANCH": "SHAM CHAURASI",
+    "ADDRESS": "HARIANA ROAD, VPO SHAM CHAURASI",
+    "CONTACT": "263001",
+    "CITY": "HOSHIARPUR",
+    "DISTRICT": "SHAM CHAURASI",
+    "STATE": "PUNJAB",
+    "MICR": "146545007",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true,
+    "SWIFT": null
+  },
+  "CLBL0000158": {
+    "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
+    "IFSC": "CLBL0000158",
+    "BRANCH": "APRA",
+    "ADDRESS": "CIVIL HOSPITAL ROAD, APRA, TEHSIL PHILLAUR",
+    "CONTACT": "250010",
+    "CITY": "JALANDHAR",
+    "DISTRICT": "APRA",
+    "STATE": "PUNJAB",
+    "MICR": "144545506",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true,
+    "SWIFT": null
+  },
+  "CLBL0000159": {
+    "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
+    "IFSC": "CLBL0000159",
+    "BRANCH": "RAMGARH BHULLAR",
+    "ADDRESS": "VPO RAMGARH (ON SIDHWAN BET - JAGRAON ROAD), TEHSIL JAGRAON",
+    "CONTACT": "241508",
+    "CITY": "LUDHIANA",
+    "DISTRICT": "RAMGARH BHULLAR",
+    "STATE": "PUNJAB",
+    "MICR": "142545053",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true,
+    "SWIFT": null
   },
   "CLBL0000999": {
     "IFSC": "CLBL0000999",
@@ -2659,13 +2710,13 @@
     "STATE": "PUNJAB",
     "ADDRESS": "NURMAHAL ROAD, NAKODAR-144040, DISTT. JALANDHAR",
     "CONTACT": "01821502101",
-    "DATE": "28/09/2012",
     "BANK": "CAPITAL SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NAKODAR",
     "MICR": "144545402",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

@@ -11,10 +11,10 @@
     "IMPS": true,
     "CITY": "HYDERABAD",
     "UPI": true,
-    "DATE": "19/01/2011",
     "RTGS": true,
     "NEFT": false,
-    "MICR": null
+    "MICR": null,
+    "SWIFT": null
   },
   "APMC0000002": {
     "IFSC": "APMC0000002",
@@ -24,14 +24,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "14-7-30&31, 1ST FLOOR, BEGUM BAZAR, HYDERABAD - 500 012",
     "CONTACT": "23437131",
-    "DATE": "19/01/2011",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR": "500142002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000003": {
     "IFSC": "APMC0000003",
@@ -41,14 +41,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "3-66, 1ST FLOOR, SHOBHANA COMPLEX, BALANAGAR, HYDERABAD - 500 037",
     "CONTACT": "23770307",
-    "DATE": "19/01/2011",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR": "500142003",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000004": {
     "IFSC": "APMC0000004",
@@ -58,14 +58,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "1ST FLOOR, HAFEZ COMPLEX, 6-1-1060, SAIFABAD (P.O), KHAIRATABAD, HYDERABAD - 500 004",
     "CONTACT": "23431802",
-    "DATE": "19/01/2011",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR": "500142004",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000005": {
     "IFSC": "APMC0000005",
@@ -75,14 +75,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "18-4-568, MAIN ROAD, SHAMSHEERGUNJ, HYDERABAD - 500 253",
     "CONTACT": "23437116",
-    "DATE": "19/01/2011",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR": "500142005",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000006": {
     "IFSC": "APMC0000006",
@@ -92,14 +92,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "4-3-339, 1ST FLOOR, BANK STREET, HYDERABAD - 500 095",
     "CONTACT": "23437151",
-    "DATE": "19/01/2011",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR": "500142006",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000007": {
     "IFSC": "APMC0000007",
@@ -109,14 +109,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "2-2-57/19, 1ST FLOOR, M.G. ROAD, SECUNDERABAD - 500 003",
     "CONTACT": "23437139",
-    "DATE": "19/01/2011",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR": "500142007",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000008": {
     "IFSC": "APMC0000008",
@@ -126,14 +126,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "3-6-276/277, OLD MLA QUARTERS, HIMAYATNAGAR, HYDERABAD - 500 029",
     "CONTACT": "23431804",
-    "DATE": "19/01/2011",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR": "500142008",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000009": {
     "IFSC": "APMC0000009",
@@ -143,14 +143,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "5-201/1&2, 1ST FLOOR, BHEL, ABOVE CARONA FOOTWEAR, MAIN ROAD, SERILINGAMPALLY, HYDERABAD - 500 036",
     "CONTACT": "23437130",
-    "DATE": "19/01/2011",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR": "500142009",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000010": {
     "IFSC": "APMC0000010",
@@ -160,14 +160,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "3-4-4, 1ST FLOOR, KACHIGUDA STATION ROAD, HYDERABAD - 500027",
     "CONTACT": "23437134",
-    "DATE": "19/01/2011",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR": "500142010",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000011": {
     "IFSC": "APMC0000011",
@@ -177,14 +177,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "15-9-363 TO 367, 1ST FLOOR, SIDDIAMBER BAZAR, HYDERABAD - 500 012",
     "CONTACT": "23437150",
-    "DATE": "19/01/2011",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR": "500142011",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000012": {
     "IFSC": "APMC0000012",
@@ -194,14 +194,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "PLOT NO.3, 1ST FLOOR, MAIN ROAD, RAMANTHAPUR, HYDERABAD - 500 013",
     "CONTACT": "23437137",
-    "DATE": "19/01/2011",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR": "500142012",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000013": {
     "IFSC": "APMC0000013",
@@ -211,14 +211,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "7-1-753, 1ST FLOOR, OPP: OLD JAIL, MARKET STREET, SECUNDERABAD - 500 003",
     "CONTACT": "23437136",
-    "DATE": "19/01/2011",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR": "500142013",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000014": {
     "IFSC": "APMC0000014",
@@ -228,14 +228,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "1ST FLOOR, RAJNIGANDHA COMPLEX, CHAITANYAPURI, DILSUKHNAGAR, HYDERABAD - 500 060",
     "CONTACT": "23437133",
-    "DATE": "19/01/2011",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR": "500142014",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000015": {
     "IFSC": "APMC0000015",
@@ -245,14 +245,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "PLOT NO.102, 1ST FLOOR, SRI KRUPA MARKET, MAHABOOB MANSION, HYDERABAD - 500 036",
     "CONTACT": "23437135",
-    "DATE": "19/01/2011",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR": "500142015",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000016": {
     "IFSC": "APMC0000016",
@@ -262,14 +262,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "12-2-831/86, HOUSING BOARD COLONY, MEHDIPATNAM, HYDERABAD - 500 028",
     "CONTACT": "23431803",
-    "DATE": "19/01/2011",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR": "500142016",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000017": {
     "IFSC": "APMC0000017",
@@ -279,14 +279,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "3RD FLOOR, GOPAL MARKET, RIKAB GUNJ, HYDERABAD - 500 028",
     "CONTACT": "23437132",
-    "DATE": "19/01/2011",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR": "500142017",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000018": {
     "IFSC": "APMC0000018",
@@ -296,14 +296,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "6-3-850/1, 1ST FLOOR, SIRISHA PLAZA, OPP. SHEESH MAHAL THEATRE, AMEERPET, HYDERABAD - 500 016",
     "CONTACT": "23431801",
-    "DATE": "19/01/2011",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR": "500142018",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000019": {
     "IFSC": "APMC0000019",
@@ -313,14 +313,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "5-32-3, 1ST FLOOR, OPP: MUNICIPAL OFFICE, MALKAJGIRI, HYDERABAD - 500 047",
     "CONTACT": "23437108",
-    "DATE": "19/01/2011",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR": "500142019",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000020": {
     "IFSC": "APMC0000020",
@@ -330,14 +330,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "1-8-518/19A & 19B, 1ST FLOOR, CHIKKADPALLY, HYDERABAD - 500020",
     "CONTACT": "23437138",
-    "DATE": "19/01/2011",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR": "500142020",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000021": {
     "IFSC": "APMC0000021",
@@ -347,14 +347,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "22-276/6, 1ST FLOOR, PLOT NO. 144, THE BHAGYA NAGAR CO-OP. HOUSING SOCIETY LTD., KUKATPALLY, HYDERABAD 500 072",
     "CONTACT": "23064712",
-    "DATE": "19/01/2011",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR": "500142021",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000022": {
     "IFSC": "APMC0000022",
@@ -364,14 +364,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "10-1-625, IST FLOOR, WEST MARREDPALLY, SECUNDERABAD - 500 026",
     "CONTACT": "23437153",
-    "DATE": "19/01/2011",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR": "500142022",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000023": {
     "IFSC": "APMC0000023",
@@ -381,14 +381,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "PLOT NO 1/D STREET NO.3, KAKATIYA NAGAR COLONY, TARNAKA, HYDERABAD - 500 007",
     "CONTACT": "23437152",
-    "DATE": "19/01/2011",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR": "500142023",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000024": {
     "IFSC": "APMC0000024",
@@ -398,14 +398,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "1-15-1/3, 1ST FLOOR, BESIDE WATER TANK, A.S.RAO NAGAR, HYDERABAD-500062",
     "CONTACT": "23437104",
-    "DATE": "19/01/2011",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR": "500142024",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000025": {
     "IFSC": "APMC0000025",
@@ -415,14 +415,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "6-2-690, PLOT NO.C-169, SY.NO.201, MIG CATEGORY, PHASE-II, VANASTHALIPURAM, SAHEBNAGAR KALAN (V), LB NAGAR CIRCLE, HYDERABAD-500070",
     "CONTACT": "23437123",
-    "DATE": "19/01/2011",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR": "500142025",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000026": {
     "IFSC": "APMC0000026",
@@ -432,14 +432,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "PLOT NO. 12, 1ST FLOOR, OPP. RELIANCE FRESH, VIKRAMPURI COLONY MAIN ROAD, KARKHANA, SECUNDERABAD - 500 009",
     "CONTACT": "23437125",
-    "DATE": "19/01/2011",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR": "500142026",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000027": {
     "IFSC": "APMC0000027",
@@ -449,14 +449,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "H.NO: 13-1-116 & 13-1-166/A,          1ST FLOOR, PLOT NO.4, SY NO:19 & 20, BABUGUDA VILLAGE,MOTINAGAR, BALANAGAR MANDAL, HYDERABAD 500018",
     "CONTACT": "04023431815",
-    "DATE": "25/03/2011",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR": "500142027",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000028": {
     "IFSC": "APMC0000028",
@@ -466,14 +466,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "H.N0.8-2-293/K,PLOT NO.307.2NDFLOOR.SOLANKI PLAZA,PHASE-3,KAMALAPURI COLONY,BANJARA HILLS,HYDERABAD-500073",
     "CONTACT": "04023334029",
-    "DATE": "07/09/2011",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR": "500142028",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000029": {
     "IFSC": "APMC0000029",
@@ -483,14 +483,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "H.NO.3-4-174/7/2, 1ST FLOOR,PENUSILA COMPLEX,PILLAR NO.140, ATTAPUR, HYDERABAD-500048",
     "CONTACT": "04024012047",
-    "DATE": "07/09/2011",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR": "500142029",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000030": {
     "IFSC": "APMC0000030",
@@ -500,14 +500,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "DOOR NO.17-1-382/V/1/4, 1ST FLOOR, SAI NILAYAM, VAISHALI NAGAR COLONY, ADJ. TO SWAGATH GRAND HOTEL, SAGAR MAIN ROAD, CHAMPAPET, HYDERABAD - 500079(A.P.)",
     "CONTACT": "23437120",
-    "DATE": "02/03/2012",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR": "500142030",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000031": {
     "IFSC": "APMC0000031",
@@ -517,14 +517,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "DOOR NO. 11-1-47, 48 & 49, GROUND FLOOR,SRIHARIMALA NIVAS,SEETHAPHALMANDI 'X' ROADS, SEETHAPHALMANDI, SECUNDERABAD - 500061",
     "CONTACT": "23437129",
-    "DATE": "29/03/2012",
     "MICR": "500142031",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000032": {
     "IFSC": "APMC0000032",
@@ -534,14 +534,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "DOOR NO.32-212,FIRST FLOOR,SHAPURNAGAR MAIN ROAD,OPPOSITE TO RANGA THEATRE, HYDERABAD - 500055(A.P.)",
     "CONTACT": "23437168",
-    "DATE": "29/06/2012",
     "MICR": "500142032",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000033": {
     "IFSC": "APMC0000033",
@@ -551,14 +551,14 @@
     "STATE": "TELANGANA",
     "ADDRESS": "MUNICIPAL NO.5-9-211, GROUND FLOOR GANAPATHI RESIDENCY, CHIRAG ALI LANE, ABIDS, HYDERABAD.500001",
     "CONTACT": "040234371001",
-    "DATE": "2015-12-14",
     "MICR": "500142033",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000034": {
     "IFSC": "APMC0000034",
@@ -568,14 +568,14 @@
     "STATE": "TELANGANA",
     "ADDRESS": "PLOT NO 96 & 97, SURVEY NO.83,GROUND FLOOR, VENKATESHWARA ENCLAVE, JEEDIMETLA VILLAGE, QUTHBULLAPUR MANDAL & GHMC CIRCLE, R.R.DIST.,KOMPALLY, HYDERABAD. 500014.",
     "CONTACT": "04023437102",
-    "DATE": "2015-12-14",
     "MICR": "500142034",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000035": {
     "IFSC": "APMC0000035",
@@ -585,14 +585,14 @@
     "STATE": "TELANGANA",
     "ADDRESS": "SP SQUARE, SURVEY NO-91, GROUND FLOOR, INDRANAGAR, GACHIBOWLI, HYDERABAD - 500032",
     "CONTACT": "04023437171",
-    "DATE": "2016-10-06",
     "MICR": "500142035",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000036": {
     "IFSC": "APMC0000036",
@@ -602,14 +602,14 @@
     "STATE": "TELANGANA",
     "ADDRESS": "D.NO.8-2-680/1&2, GROUND FLOOR, ROAD NO.12, BANJARA HILLS",
     "CONTACT": "04023431821",
-    "DATE": "2017-12-19",
     "MICR": "500142036",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000900": {
     "IFSC": "APMC0000900",
@@ -619,14 +619,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "2-2-49 TO 52, 1ST FLOOR, GANDHI CHOWK, KHAMMAM - 507003.",
     "CONTACT": "08742224714",
-    "DATE": "19/01/2011",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "KHAMMAM",
     "MICR": "507142002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000901": {
     "IFSC": "APMC0000901",
@@ -636,14 +636,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "27-37-147 TO 152, N S R TOWERS, 1ST FLOOR, NEAR MANORAMA HOTEL, BANDAR ROAD, VIJAYAWADA 520 002.",
     "CONTACT": "08662574654",
-    "DATE": "21/01/2011",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "VIJAYAWADA",
     "MICR": "520142001",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000902": {
     "IFSC": "APMC0000902",
@@ -653,14 +653,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "22-7-33, WARD NO 25, 1ST FLOOR, RAGHUPATHI RAO TOWERS, LALAPET, MEDARA BAZAR, GUNTUR - 522 003",
     "CONTACT": "08632212103",
-    "DATE": "19/01/2011",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "GUNTUR",
     "MICR": "520142102",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000903": {
     "IFSC": "APMC0000903",
@@ -670,14 +670,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "C/O. DR. M. GANGAIAH COMPLEX, 8-24-121, 1ST FLOOR, MAIN ROAD, RAJAHMUNDRY - 530 001.",
     "CONTACT": "08832426295",
-    "DATE": "21/01/2011",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "RAJAHMUNDRY",
     "MICR": "533142102",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000904": {
     "IFSC": "APMC0000904",
@@ -687,14 +687,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "LEELA PLAZA, 30-15-41, 1ST FLOOR, DABA GARDENS, VISAKAPATNAM - 530 020",
     "CONTACT": "08912591173",
-    "DATE": "11/02/2011",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "VISAKHAPATNAM",
     "MICR": "530142002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000905": {
     "IFSC": "APMC0000905",
@@ -704,14 +704,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "8-3-121, 1ST FLOOR, STATION ROAD, WARANGAL - 560 002",
     "CONTACT": "08702506758",
-    "DATE": "19/01/2011",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "WARANGAL",
     "MICR": "506142002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000906": {
     "IFSC": "APMC0000906",
@@ -721,14 +721,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "1ST FLOOR, 10, DHARMA HEIGHTS, MOTILAL ATAL MARG, M. I. ROAD, JAIPUR - 390004",
     "CONTACT": "01415107702",
-    "DATE": "19/01/2011",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "MICR": "302142002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000907": {
     "IFSC": "APMC0000907",
@@ -738,14 +738,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "103, 1ST FLOOR, HOTEL ADARSH BAGH, DADI SETH AGYARI LANE, DR. ATMARAM MERCHANT ROAD JN., BHULESHWAR, MUMBAI -400 002",
     "CONTACT": "02222412410",
-    "DATE": "11/02/2011",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400240257",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000908": {
     "IFSC": "APMC0000908",
@@ -755,14 +755,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "ASHOK TOWERS, SHOP NUMBER 11,12,13,14&15, GROUND FLOOR, NEAR GANDHI MARG, TRILOK MARG, GANDHI NAGAR, BHILWARA, RAJASTHAN.311001",
     "CONTACT": "040234371003",
-    "DATE": "2015-12-14",
     "MICR": "311142002",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "RAJASTHAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "APMC0000909": {
     "IFSC": "APMC0000909",
@@ -772,13 +772,13 @@
     "STATE": "TELANGANA",
     "ADDRESS": "D.NO.4-5-488,GROUND FLOOR,VALMIKI NAGAR,NEAR RAJIV GANDHI CHOWK,KARIMNAGAR-505001",
     "CONTACT": "08782242266",
-    "DATE": "2017-09-29",
     "MICR": "505142002",
     "BANK": "A P MAHESH CO-OP URBAN BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "KARIMNAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

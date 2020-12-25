@@ -11,10 +11,10 @@
     "IMPS": true,
     "CITY": "MUMBAI",
     "UPI": false,
-    "DATE": null,
     "RTGS": true,
     "MICR": "400150002",
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "BBKM0000002": {
     "IFSC": "BBKM0000002",
@@ -24,14 +24,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "6-3-550 Akashganga, Opp Medinova, Somajiguda, Hyderabad 500 482",
     "CONTACT": "04023398220",
-    "DATE": null,
     "BANK": "BANK OF BAHRAIN AND KUWAIT",
     "UPI": false,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "NEFT": false,
     "IMPS": true,
-    "MICR": null
+    "MICR": null,
+    "SWIFT": null
   },
   "BBKM0000003": {
     "BANK": "BANK OF BAHARAIN AND KUWAIT BSC",
@@ -47,7 +47,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BBKM0000004": {
     "IFSC": "BBKM0000004",
@@ -57,14 +58,14 @@
     "STATE": "KERALA",
     "ADDRESS": "GROUND FLOOR,HOTEL SUNNY'S BUILDING NO - 19 / 1 (2) RE S.N0 26 & 81, NH 47,BYE PASS JUNCTION ALUVA,DIST- ERNAKULAM,KERALA",
     "CONTACT": "04844037437",
-    "DATE": "13/02/2014",
     "MICR": "682150002",
     "BANK": "BANK OF BAHRAIN AND KUWAIT",
     "UPI": false,
     "RTGS": true,
     "CITY": "ALUVA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BBKM0000005": {
     "BANK": "BANK OF BAHARAIN AND KUWAIT BSC",
@@ -80,6 +81,7 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

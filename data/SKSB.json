@@ -11,10 +11,10 @@
     "IMPS": true,
     "CITY": "NAGPUR",
     "UPI": false,
-    "DATE": "42042",
     "RTGS": true,
     "MICR": "NA",
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "SKSB0000002": {
     "IFSC": "SKSB0000002",
@@ -24,13 +24,13 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "NEAR GANDHISAGAR MAHAL, NAGPUR 440018",
     "CONTACT": "07122774866",
-    "DATE": "42042",
     "BANK": "SHIKSHAK SAHAKARI BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAGPUR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

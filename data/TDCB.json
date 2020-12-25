@@ -11,10 +11,10 @@
     "IMPS": true,
     "CITY": "THANE",
     "UPI": false,
-    "DATE": "08-03-2013",
     "RTGS": true,
     "MICR": "NA",
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "TDCB0000002": {
     "IFSC": "TDCB0000002",
@@ -24,14 +24,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Near Arnala Machhimar Society Ltd, Kill Road,At & Post-Arnala, Taluka- Vasai,  Pin-401304.",
     "CONTACT": "02502587504",
-    "DATE": "08-03-2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "ARNALA",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000003": {
     "IFSC": "TDCB0000003",
@@ -41,14 +41,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Kuber Apartment, Gr. Floor, Ambadi Road,Vasai Road (W),Post-Vasai Road,Tal-Vasai,  Pin- 401202.",
     "CONTACT": "02502342401",
-    "DATE": "18-03-2013",
     "MICR": "400524004",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "VASAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000004": {
     "IFSC": "TDCB0000004",
@@ -58,14 +58,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "At & Post chandip, Shirsad-Vajreshwari Road, Taluka-Vasai, Pin -401303",
     "CONTACT": "02502571222",
-    "DATE": "18-03-2013",
     "MICR": "400524037",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "VASAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000005": {
     "IFSC": "TDCB0000005",
@@ -75,14 +75,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Om Guruprasad,1st Floor, Naigaon-W, Taluka-Vasai,  Pin-401207",
     "CONTACT": "02502300765",
-    "DATE": "18-03-2013",
     "MICR": "400524006",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "VASAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000006": {
     "IFSC": "TDCB0000006",
@@ -92,14 +92,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Surya Darshan,1st Floor, Veer Savarkar Marg, Virar (E.) Taluka-Vasai, Pin-401303",
     "CONTACT": "02502527348",
-    "DATE": "08-03-2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "VIRAR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000007": {
     "IFSC": "TDCB0000007",
@@ -109,14 +109,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "At & Post-Vatar, Taluka-Vasai,  Pin-401301",
     "CONTACT": "02502587707",
-    "DATE": "18-03-2013",
     "MICR": "400524033",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "VASAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000008": {
     "IFSC": "TDCB0000008",
@@ -126,14 +126,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Om Laxmi Chember, 1st Floor,Tulinj, Nalasopara-E , Taluka-Vasai, Pin-401304",
     "CONTACT": "02502432673",
-    "DATE": "18-03-2013",
     "MICR": "400524003",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "NALLASOPARA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000009": {
     "IFSC": "TDCB0000009",
@@ -143,14 +143,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Gajanan Prasad Building, At & Post Nirmal, Tal-Vasai,  Pin-401304",
     "CONTACT": "02502470243",
-    "DATE": "08-03-2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "NIRMAL",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000010": {
     "IFSC": "TDCB0000010",
@@ -160,14 +160,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "City Center building, Prabhu Ali, Mandai, Taluka & Post Bhiwandi, Pin-421302",
     "CONTACT": "02522250885",
-    "DATE": "08-03-2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "BHIWANDI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000011": {
     "IFSC": "TDCB0000011",
@@ -177,14 +177,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "At-Dugad fata,Post-Dugad, Taluka-Bhiwandi, Pin-421302",
     "CONTACT": "02522288550",
-    "DATE": "18-03-2013",
     "MICR": "400524046",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "BHIWANDI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000012": {
     "IFSC": "TDCB0000012",
@@ -194,14 +194,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Wed Apartment,First Floor,opp laxmi-narayan Bldg,Padgha-Bhiwandi RD At & Post :Padgha Tal:Bhiwandi Dist:Thane 421101",
     "CONTACT": "02522268278",
-    "DATE": "18-03-2013",
     "MICR": "400524049",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "PADGHA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000013": {
     "IFSC": "TDCB0000013",
@@ -211,14 +211,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Kondu Patil Building, Purneshwar Mandir Road, Post-Kalher, Taluka -Bhiwandi, Pin-401302",
     "CONTACT": "02522271800",
-    "DATE": "18-03-2013",
     "MICR": "400524031",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "BHIWANDI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000014": {
     "IFSC": "TDCB0000014",
@@ -228,14 +228,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Classic Enterprizes ,first floor,vasai-Ambadi road,At& Post:Vajreshwari ,Tal:Bhiwandi.Dist Thane Pin:401204",
     "CONTACT": "02522261235",
-    "DATE": "18-03-2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "GANESHPURI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000015": {
     "IFSC": "TDCB0000015",
@@ -245,14 +245,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "At & Post-Kon, Taluka-Bhiwandi, Pin-421311",
     "CONTACT": "02522280575",
-    "DATE": "18-03-2013",
     "MICR": "400524030",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "BHIWANDI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000016": {
     "IFSC": "TDCB0000016",
@@ -262,14 +262,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "At & Post-Kharbav, Taluka-bhiwandi, Pin-421302",
     "CONTACT": "02522264310",
-    "DATE": "18-03-2013",
     "MICR": "400524034",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "BHIWANDI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000017": {
     "IFSC": "TDCB0000017",
@@ -279,14 +279,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Aastha Abod Co-op.Housing Soc. Ltd., Gr.floor,Taluka-Dahanu, Pin-401601",
     "CONTACT": "02528222308",
-    "DATE": "08-03-2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "DAHANU",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000018": {
     "IFSC": "TDCB0000018",
@@ -296,14 +296,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Om Datta Narayan Bag Co-op. Housing Soc.Ltd., Gala No 8 & 11, Near Post Office, Dahanu Rd, Taluka- Dahanu, Pin-401602",
     "CONTACT": "02528222452",
-    "DATE": "08-03-2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "DAHANU ROAD",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000019": {
     "IFSC": "TDCB0000019",
@@ -313,14 +313,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Bordi Bazar, Post-Bordi, Taluka-Dahanu, Pin-401701",
     "CONTACT": "02528254042",
-    "DATE": "08-03-2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "BORDI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000020": {
     "IFSC": "TDCB0000020",
@@ -330,14 +330,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Grampanchayat Building, 1st floor, at & Post-Chinchani, Taluka- Dahanu, Pin-401503",
     "CONTACT": "02528242156",
-    "DATE": "16/12/2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "DAHANU",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000021": {
     "IFSC": "TDCB0000021",
@@ -347,14 +347,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "At & Post-Kasa, Near R.H.Hospital, Post-Kasa, Taluka-Dahanu, Pin-401607",
     "CONTACT": "02528264032",
-    "DATE": "18-03-2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "DAHANU",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000022": {
     "IFSC": "TDCB0000022",
@@ -364,14 +364,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Mohan Apartment, 1sr floor, Station Rd. Post-Vangaon,Taluka-Dahanu, Pin-401103",
     "CONTACT": "02528244022",
-    "DATE": "08-03-2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "VANGAON",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000023": {
     "IFSC": "TDCB0000023",
@@ -381,14 +381,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Chhatrapati Shivaji Path, At & Post-Jawhar, Pin-401603",
     "CONTACT": "02520222424",
-    "DATE": "08-03-2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "JAWHAR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000024": {
     "IFSC": "TDCB0000024",
@@ -398,14 +398,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "At & Post-Vikramgad, Taluka-Vikramgad, Pin-401605",
     "CONTACT": "02520240024",
-    "DATE": "08-03-2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "VIKRAMGAD",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000025": {
     "IFSC": "TDCB0000025",
@@ -415,14 +415,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Sai Vihar Building, New Shivaji Path, Tal.Kalyan Pin Code-421 301.",
     "CONTACT": "02512315062",
-    "DATE": "08-03-2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "KALYAN",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000026": {
     "IFSC": "TDCB0000026",
@@ -432,14 +432,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Ganpati Mandir Road, Sidhraj Appt. Manda-Titwala(E),Tal.Kalyan  Pin Code-421 605.",
     "CONTACT": "02512381203",
-    "DATE": "18-03-2013",
     "MICR": "400524025",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "KALYAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000027": {
     "IFSC": "TDCB0000027",
@@ -449,14 +449,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "M.G.Road,Om Trimurti Bldg, Vishnunagar, Tal.Kalyan  Pin Code-421 202.",
     "CONTACT": "02512485979",
-    "DATE": "18-03-2013",
     "MICR": "400524017",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "DOMBIVLI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000028": {
     "IFSC": "TDCB0000028",
@@ -466,14 +466,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shivaji Udyog Nagar, Manpada Road,Dombivali,  Tal.Kalyan, Pin Code-421 201.",
     "CONTACT": "02512448561",
-    "DATE": "18-03-2013",
     "MICR": "400524018",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "DOMBIVLI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000029": {
     "IFSC": "TDCB0000029",
@@ -483,14 +483,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Murbad Tal. Shetkari  Sangh Ltd. Murbad Building, 1st  floor,  Opp. Marathi School , Main Road, Taluka Murbad, Pin-421402",
     "CONTACT": "02524222238",
-    "DATE": "08-03-2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "MURBAD",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000030": {
     "IFSC": "TDCB0000030",
@@ -500,14 +500,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "At.Po.Dhasai, Tal.Murbad,  Pin Code-421 402.",
     "CONTACT": "02524244044",
-    "DATE": "16/12/2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "MURBAD",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000031": {
     "IFSC": "TDCB0000031",
@@ -517,14 +517,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shree Krupa Building,  Kalyan Nagar Road, Po.Saralgaon, Tal.Murbad,  Pin Code-421 401.",
     "CONTACT": "02524240175",
-    "DATE": "08-03-2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "SARALGAON",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000032": {
     "IFSC": "TDCB0000032",
@@ -534,14 +534,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shrusti Pride CHS Ltd, Flat No. 102,Ram Maruti Road, Thane (West) Pin Code-400 602.",
     "CONTACT": "02225402272",
-    "DATE": "18-03-2013",
     "MICR": "400524010",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "THANE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000033": {
     "IFSC": "TDCB0000033",
@@ -551,14 +551,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Chhatrapati Shivaji Path, P.O.No.19, Thane (W) Pin Code-400 601.",
     "CONTACT": "02225363042",
-    "DATE": "18-03-2013",
     "MICR": "400524009",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "THANE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000034": {
     "IFSC": "TDCB0000034",
@@ -568,14 +568,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Sahkar Jyot, Cross Corner, 1st floor, Near Mira – Bhayandar Mahanagar Palika, Bhayandar (W)",
     "CONTACT": "0228192529",
-    "DATE": "18-03-2013",
     "MICR": "400524007",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "MIRA-BHAYANDAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000035": {
     "IFSC": "TDCB0000035",
@@ -585,14 +585,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Opp.Navi Mumbai Mahanagar Palika School No.31, Prabhakar Patil Chawl, Thane Belapur Road, Ghansoli, Pin-400701",
     "CONTACT": "02227692324",
-    "DATE": "18-03-2013",
     "MICR": "400524014",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "THANE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000036": {
     "IFSC": "TDCB0000036",
@@ -602,14 +602,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Opp.Mumbra Police Station, At & Post Mumbra.  Pin Code-400 612",
     "CONTACT": "02225462026",
-    "DATE": "18-03-2013",
     "MICR": "400524016",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "THANE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000037": {
     "IFSC": "TDCB0000037",
@@ -619,14 +619,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "APMC Fruit Market, Central Facilities Building., Ground floor, Sector – 19, Turbhe,Navi Mumbai, Pin-400705",
     "CONTACT": "02227832511",
-    "DATE": "18-03-2013",
     "MICR": "400524015",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "THANE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000038": {
     "IFSC": "TDCB0000038",
@@ -636,14 +636,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Dhyan House Building, Shivaji Nagar Road No.3,Wagle Estate, Pin Code-400 604.",
     "CONTACT": "022400604",
-    "DATE": "18-03-2013",
     "MICR": "400524011",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "THANE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000039": {
     "IFSC": "TDCB0000039",
@@ -653,14 +653,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Bharti Chember, Old Belapur Road, Kalwa  Pin Code-400 605.",
     "CONTACT": "02225347314",
-    "DATE": "18-03-2013",
     "MICR": "400524013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "THANE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000040": {
     "IFSC": "TDCB0000040",
@@ -670,14 +670,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Sai Tirth Building, Office No. 1/12,  1st floor, B,wing, Siddharth Nagar,  Kopari, Thane-E, Pin-400603",
     "CONTACT": "02225320527",
-    "DATE": "18-03-2013",
     "MICR": "400524012",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "THANE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000041": {
     "IFSC": "TDCB0000041",
@@ -687,14 +687,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Sagar Darshan, Uttan Pali Road, At. Post.,Uttan, Pin -401 106.",
     "CONTACT": "02228450116",
-    "DATE": "18-03-2013",
     "MICR": "400524008",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "MIRA-BHAYANDAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000042": {
     "IFSC": "TDCB0000042",
@@ -704,14 +704,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "O T Section Opp.Maleriya Office Ulhasnagar-4,Dist-Thane. Pin -421 004.",
     "CONTACT": "0222581232",
-    "DATE": "18-03-2013",
     "MICR": "400524021",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "ULHASNAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000043": {
     "IFSC": "TDCB0000043",
@@ -721,14 +721,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shiv Tirth, Near Railway Staion, Tal-Ambarnath, Pin -421 503.",
     "CONTACT": "02512690045",
-    "DATE": "18-03-2013",
     "MICR": "400524024",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "ULHASNAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000044": {
     "IFSC": "TDCB0000044",
@@ -738,14 +738,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Sai Datta Building  Suryoday CHS.Plot No. – 10,  Near State Bank, Ambarnath ( East )  Pin-421 501.",
     "CONTACT": "02512602050",
-    "DATE": "18-03-2013",
     "MICR": "400524023",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "ULHASNAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000045": {
     "IFSC": "TDCB0000045",
@@ -755,14 +755,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shri Ram Niwas Kalyan Ambernath Road, Ulhasnagar-3, Pin Code-421 003.",
     "CONTACT": "02512734229",
-    "DATE": "18-03-2013",
     "MICR": "400524022",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "ULHASNAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000046": {
     "BANK": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
@@ -778,7 +778,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000047": {
     "IFSC": "TDCB0000047",
@@ -788,14 +789,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Palghar Branch Kacheri Road, Congress Bhavan, lst floor, Tal.Palghar, Pin Code-401 404.",
     "CONTACT": "02525252029",
-    "DATE": "08-03-2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "PALGHAR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000048": {
     "BANK": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
@@ -811,7 +812,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000049": {
     "BANK": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
@@ -827,7 +829,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000050": {
     "IFSC": "TDCB0000050",
@@ -837,14 +840,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Kelwa Market, Palghar (W), Taluka-Palghar, Pin-401 401.",
     "CONTACT": "02525222045",
-    "DATE": "08-03-2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "KELWA",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000051": {
     "IFSC": "TDCB0000051",
@@ -854,14 +857,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Faima Bldg., Behind S.T.Stand At & Post-Manor, Tal.Palghar  Pin-401 403.",
     "CONTACT": "02525237032",
-    "DATE": "08-03-2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "MANOR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000052": {
     "IFSC": "TDCB0000052",
@@ -871,14 +874,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Grampanchayat Building, At- Safala-East, Taluka-Palghar,      Pin-401 102.",
     "CONTACT": "02525230160",
-    "DATE": "18-03-2013",
     "MICR": "400524039",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "PALGHAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000053": {
     "IFSC": "TDCB0000053",
@@ -888,14 +891,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Near Ram Mandir Stop, At & Post-Satpati, Taluka-Palghar,                Pin-401 405.",
     "CONTACT": "02525224040",
-    "DATE": "16/12/2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "PALGHAR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000054": {
     "IFSC": "TDCB0000054",
@@ -905,14 +908,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "1st floor, Sai Datta Pooja building, Tarapur Village, Tal-Palghar, Dist-Thane",
     "CONTACT": "02525280016",
-    "DATE": "16/12/2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "PALGHAR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000055": {
     "IFSC": "TDCB0000055",
@@ -922,14 +925,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Sai Plaza Bldg, Pandit Naka, Gotheghar  Taluka.Shahapur,    Pin -421 601.",
     "CONTACT": "02527272021",
-    "DATE": "08-03-2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHAHAPUR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000056": {
     "IFSC": "TDCB0000056",
@@ -939,14 +942,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Bank Colony 3 B, Bhatsanagar Bajar Peth Road, At..Bhatsanagar, Tal.Shahapur , Pin Code-421 301.",
     "CONTACT": "02527249585",
-    "DATE": "16/12/2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHAHAPUR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000057": {
     "IFSC": "TDCB0000057",
@@ -956,14 +959,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "At & Post.Dolkhamb,  Taluka-Shahapur,   Pin 421 601",
     "CONTACT": "02527234054",
-    "DATE": "16/12/2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHAHAPUR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000058": {
     "IFSC": "TDCB0000058",
@@ -973,14 +976,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Malti Niwas, Bazar Peth, Mumbai Nasik Road, At & Po.Kasara,  Taluka-Shahapur,  Pin -421 601.",
     "CONTACT": "02527246069",
-    "DATE": "08-03-2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "KASARA",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000059": {
     "IFSC": "TDCB0000059",
@@ -990,14 +993,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Near Railway Station, At & Post-Khardi, Taluka-Shahapur,          Pin-421 304.",
     "CONTACT": "02527244036",
-    "DATE": "08-03-2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "KHARDI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000060": {
     "IFSC": "TDCB0000060",
@@ -1007,14 +1010,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Kinhavali Vibhag shetkari Bhat Girni Society.Building,Shahapur Saralgaon Road,At-Kinhavali,Post-Kinhavali, Taluka-Shahapur, Pin-421401",
     "CONTACT": "02527232030",
-    "DATE": "08-03-2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "KINHAVALI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000061": {
     "IFSC": "TDCB0000061",
@@ -1024,14 +1027,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Opp.Khativali Vasind Seva Sty At & Post-Vasind,Taluka-Shahapur Dist.Thane. Pin-421604",
     "CONTACT": "02527220046",
-    "DATE": "18-03-2013",
     "MICR": "400524041",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "WASHIND",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000062": {
     "IFSC": "TDCB0000062",
@@ -1041,14 +1044,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shenava Naka, Kinhavali Shahapur Road, At & Post-Shenva, Taluka-Shahapur,        Pin-421 601",
     "CONTACT": "02527230088",
-    "DATE": "18-03-2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHAHAPUR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000063": {
     "IFSC": "TDCB0000063",
@@ -1058,14 +1061,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Dahe Society Building, lst floor, Main Road, Opp.Kailash Talkies  At & Post.Taluka-Wada, Pin-421303",
     "CONTACT": "02526271416",
-    "DATE": "08-03-2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "WADA",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000064": {
     "IFSC": "TDCB0000064",
@@ -1075,14 +1078,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "At & Post-Kudus, Taluka-Wada,  Pin Code- 421 312",
     "CONTACT": "02526220233",
-    "DATE": "08-03-2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "KUDUS",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000065": {
     "IFSC": "TDCB0000065",
@@ -1092,14 +1095,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "At & Post-Kanchad, Tal.Wada,  Dist.Thane. Pin - 421 303.",
     "CONTACT": "02526235633",
-    "DATE": "08-03-2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "KANCHAD",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000066": {
     "IFSC": "TDCB0000066",
@@ -1109,14 +1112,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Rajput Mall, National Highway No. 8. At.Post-Taluka-Talasari, Dist.Thane.Pin - 401 606.",
     "CONTACT": "02529220034",
-    "DATE": "08-03-2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "TALASARI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000067": {
     "IFSC": "TDCB0000067",
@@ -1126,14 +1129,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "At & Post-Mokhada Taluka-Mokhada,Pin-401 604.",
     "CONTACT": "02529256630",
-    "DATE": "08-03-2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "MOKHADA",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000068": {
     "IFSC": "TDCB0000068",
@@ -1143,14 +1146,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "At &Post-Khodala, Taluka-Mokhada,Pin-401 603.",
     "CONTACT": "02529250073",
-    "DATE": "08-03-2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "KHODALA",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000069": {
     "BANK": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
@@ -1166,7 +1169,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000070": {
     "BANK": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
@@ -1182,7 +1186,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000071": {
     "IFSC": "TDCB0000071",
@@ -1192,14 +1197,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Near Grampanchayat Office, At & Post-Navapur, Tal.Palghar, Dist.Thane. Pin-401 401.",
     "CONTACT": "02525288321",
-    "DATE": "16/12/2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "PALGHAR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000072": {
     "IFSC": "TDCB0000072",
@@ -1209,14 +1214,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Opp.S.T.Stand, Balkrishna Apartment, 1st Floor, Post & Taluka -Vasai,  Pin-401201",
     "CONTACT": "02502322045",
-    "DATE": "08-03-2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "VASAI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000073": {
     "IFSC": "TDCB0000073",
@@ -1226,14 +1231,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "At & Post-Khanivali, Tal.Wada, Dist.Thane. Pin-401 204.",
     "CONTACT": "02526237664",
-    "DATE": "08-03-2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "KHANIVALI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000074": {
     "IFSC": "TDCB0000074",
@@ -1243,14 +1248,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "31, Dhamankar Palace Bldg. 1st floor, Dhamankar Naka,Taluka-Bhiwandi, Pin-421 302",
     "CONTACT": "02522255387",
-    "DATE": "18-03-2013",
     "MICR": "400524027",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "BHIWANDI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000075": {
     "IFSC": "TDCB0000075",
@@ -1260,14 +1265,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Om Shradha Tower, Tisgaon Naka, Kalyan (East),Dist-Thane. Pin Code-421 302.",
     "CONTACT": "02512357694",
-    "DATE": "18-03-2013",
     "MICR": "400524020",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "KALYAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000076": {
     "IFSC": "TDCB0000076",
@@ -1277,14 +1282,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "At & Post-Atgaon, Taluka-Shahapur, Dist.Thane.                 Pin-421 301.",
     "CONTACT": "02527240293",
-    "DATE": "08-03-2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "ATGAON",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000077": {
     "IFSC": "TDCB0000077",
@@ -1294,14 +1299,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "At & Post-Tokawade,Taluka-Murbad, Dist.Thane. Pin-421 402.",
     "CONTACT": "025242420580",
-    "DATE": "18-03-2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "MURBAD",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000078": {
     "BANK": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
@@ -1317,7 +1322,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000079": {
     "IFSC": "TDCB0000079",
@@ -1327,14 +1333,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shreya Palace, Rambaug Lane  4, Kalyan (W.) Taluka-Kalyan,           Pin- 421301",
     "CONTACT": "02512210185",
-    "DATE": "18-03-2013",
     "MICR": "400524032",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "KALYAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000080": {
     "IFSC": "TDCB0000080",
@@ -1344,14 +1350,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Abid Patel house, Near Amar Palace Hotel,  Near A.P. International School , Miragaon  National highway,           Pin-401 104.",
     "CONTACT": "02228457707",
-    "DATE": "18-03-2013",
     "MICR": "400524035",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "MIRA-BHAYANDAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000081": {
     "IFSC": "TDCB0000081",
@@ -1361,14 +1367,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Zilla Parizad Compound, 1st floor, Thane (W) , Taluka-Thane. Pin  400 601",
     "CONTACT": "02225337630",
-    "DATE": "18-03-2013",
     "MICR": "400524036",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "THANE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000082": {
     "IFSC": "TDCB0000082",
@@ -1378,14 +1384,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Jija Mata vikrikar bhavan,Datta Chowk ,Belavali Badlapur (W)Pin:421503",
     "CONTACT": "02512673699",
-    "DATE": "25-03-2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "BELVALI",
     "MICR": "400524040",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000083": {
     "IFSC": "TDCB0000083",
@@ -1395,14 +1401,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "At & Post – Narivali,  Taluka- Murbad,",
     "CONTACT": "02524248020",
-    "DATE": "16/12/2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "MURBAD",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000084": {
     "IFSC": "TDCB0000084",
@@ -1412,14 +1418,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "At &Post–Angaon, Taluka- Bhiwandi, Dist. Thane, Pin- 421 302",
     "CONTACT": "02522260044",
-    "DATE": "08-03-2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "ANGAON",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000085": {
     "IFSC": "TDCB0000085",
@@ -1429,14 +1435,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Mukta Residensy, B-2, 1st floor, Near Khidkaleshwar Mandir,Kalyan – Shilfata,Taluka-Thane",
     "CONTACT": "9224182032",
-    "DATE": "18-03-2013",
     "MICR": "400524053",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "THANE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000086": {
     "IFSC": "TDCB0000086",
@@ -1446,14 +1452,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Dhanraj Residensy, Gr. Floor, Dhanrajnagar, Diva (E.),Taluka-Thane, Pin- 400 612",
     "CONTACT": "02225318380",
-    "DATE": "22/10/2013",
     "MICR": "400524052",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "THANE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000087": {
     "BANK": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
@@ -1469,7 +1475,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000088": {
     "IFSC": "TDCB0000088",
@@ -1479,14 +1486,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shree Swami-Samarth Krupa Bldg.,Near Gaondevi Mandir,Mharal Gaon,post:Varap Tal:Kalyan Dist:Thane Pin 421301",
     "CONTACT": "02521232021",
-    "DATE": "18-03-2013",
     "MICR": "400524051",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "KALYAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000089": {
     "IFSC": "TDCB0000089",
@@ -1496,14 +1503,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "At & Post-Udhava , Taluka- Talasari, Dist–Thane Pin- 401 606",
     "CONTACT": null,
-    "DATE": "18-03-2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "UDHAWA",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000090": {
     "IFSC": "TDCB0000090",
@@ -1513,14 +1520,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shri Ganesh Complex, A-1, 1st Floor, Anjur Road, At. Mankoli, Post. Anjur, Taluka-Bhiwandi, Dist-Thane",
     "CONTACT": "9226745828",
-    "DATE": "18-03-2013",
     "MICR": "400524050",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "BHIWANDI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000091": {
     "IFSC": "TDCB0000091",
@@ -1530,14 +1537,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "At Dhakti Dahanu,Mitan Ali, Post-Dahanu,   Tal. Dahanu, Dist-Thane, Pin- 421 601",
     "CONTACT": "02528247474",
-    "DATE": "16/12/2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "DAHANU",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000092": {
     "IFSC": "TDCB0000092",
@@ -1547,14 +1554,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Mahim Vividh Karyakari  Sahakari Sanstha Ltd. Mahim ,  Gr. floor,  At.Po. Mahim, Tal Palghar, Dist- Thane",
     "CONTACT": "02525220866",
-    "DATE": "22/10/2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "PALGHAR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000093": {
     "IFSC": "TDCB0000093",
@@ -1564,14 +1571,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Aghai At & Post-Aghai, Taluka-Shahapur, Dist-Thane",
     "CONTACT": null,
-    "DATE": "08-03-2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "AGHAI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000094": {
     "IFSC": "TDCB0000094",
@@ -1581,14 +1588,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "At & Post Aalonde, Tal- Vikramgad, Dist Thane",
     "CONTACT": "9764236712",
-    "DATE": "16/12/2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "VIKRAMGAD",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000095": {
     "IFSC": "TDCB0000095",
@@ -1598,14 +1605,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Pitashri', Shree Swami Samarth Chowk, Station Road, Asangaon (W), Tal-Shahapur, Dist-Thane.",
     "CONTACT": "02527273998",
-    "DATE": "22/10/2013",
     "MICR": "400524058",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHAHAPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000096": {
     "IFSC": "TDCB0000096",
@@ -1615,14 +1622,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Sai Sangat Apt. 1 st floor Plot no:4 sector:3 ,Sanpada,Navi Mumbai,Thane. 400705",
     "CONTACT": "27757911",
-    "DATE": "25-03-2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "THANE",
     "MICR": "400524057",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000097": {
     "IFSC": "TDCB0000097",
@@ -1632,14 +1639,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "House No.75, Ground Floor, Village Jamasar, Tal-Jawhar, Dist-Thane.",
     "CONTACT": "9403698313",
-    "DATE": "16/12/2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "JAWHAR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000098": {
     "BANK": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
@@ -1655,7 +1662,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000099": {
     "IFSC": "TDCB0000099",
@@ -1665,14 +1673,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Mangalmurti Apartment, B-wing, Flat No.13 & 14, Ground Floor, Near Khadawali Station, Khadawali , (E),  Tal-Kalyan, Dist-Thane. PIN-431301",
     "CONTACT": "02512370999",
-    "DATE": "16/12/2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "KALYAN",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000100": {
     "IFSC": "TDCB0000100",
@@ -1682,14 +1690,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Mayur Apartment,Gala no:7,Gr Floor,Sector:12/A Plot no:18 ,Koparkhairane,Navi Mumbai Pin:400709",
     "CONTACT": "27542426",
-    "DATE": "25-03-2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "THANE",
     "MICR": "400524062",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000101": {
     "IFSC": "TDCB0000101",
@@ -1699,14 +1707,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "House No.439, Ground Floor, Kalyan-Murbad Road, Goveli, Tal-Kalyan, Dist-Thane. Pin 421301",
     "CONTACT": "02512390949",
-    "DATE": "16/12/2013",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "KALYAN",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000102": {
     "IFSC": "TDCB0000102",
@@ -1716,14 +1724,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Gitanjali Niwas-1', Ground Floor,Shop No. 1 & 2, Yashodhan nagar, MTNL, Ward No.4, Lokmanyanagar, Pada No.2, Thane (W).",
     "CONTACT": "02225882369",
-    "DATE": "22/10/2013",
     "MICR": "400524061",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "THANE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000103": {
     "IFSC": "TDCB0000103",
@@ -1733,14 +1741,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "HOUSE NO 744, GROUND FLOOR, AT SHENDRUN, POST-LENAD (KHU.),TAL-SHAHAPUR, DIST-THANE, PIN-421601",
     "CONTACT": "09260276292",
-    "DATE": "2018-01-16",
     "MICR": "400524531",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHAHAPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000104": {
     "IFSC": "TDCB0000104",
@@ -1750,14 +1758,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "HOUSE NO 349, 1ST FLOOR, AT PIMPARI DAHISAR,MUMBRA-PANVEL ROAD, TAL-DIST-THANE, PIN 400612",
     "CONTACT": "07718967730",
-    "DATE": "2018-01-16",
     "MICR": "400524532",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "THANE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000105": {
     "IFSC": "TDCB0000105",
@@ -1767,14 +1775,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "HOUSE NO 127(B), GROUND FLOOR, AMBADI NAKA, AMBADI, POST-DIGHASHI, TAL-BHIWANDI, DIST-THANE, PIN 421302",
     "CONTACT": "09112434955",
-    "DATE": "2018-01-16",
     "MICR": "400524533",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "BHIWANDI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000106": {
     "IFSC": "TDCB0000106",
@@ -1784,14 +1792,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "HOUSE NO 333(11)B 333(155), ZUNJARRAO COMPLEX,1ST FLOOR,AT & POST-MHASA, TAL- MURBAD, DIST-THANE, PIN-421401",
     "CONTACT": "07038276677",
-    "DATE": "2018-01-16",
     "MICR": "400524534",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "MURBAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000107": {
     "IFSC": "TDCB0000107",
@@ -1801,14 +1809,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "HOUSE NO 700, GROUND FLOOR, SHRI RAM MADIR SABHAGRUH, EDVAN, TAL & DIST-PALGHAR, PIN 401404",
     "CONTACT": "09730165440",
-    "DATE": "2018-01-16",
     "MICR": "400524535",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "PALGHAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000108": {
     "IFSC": "TDCB0000108",
@@ -1818,14 +1826,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "HOUSE NO 623, GR. FLOOR, AMAGAON, TAL-TALASARI, DIST-THANE PIN 401606",
     "CONTACT": "02225397846",
-    "DATE": "2018-03-19",
     "MICR": "400524536",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "TALASARI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000109": {
     "IFSC": "TDCB0000109",
@@ -1835,14 +1843,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "HOUSE NO 1087, GR. FLOOR, AT SAIWAN , TAL DAHANU DIST-PALGHAR PIN 401602",
     "CONTACT": "02225397846",
-    "DATE": "2018-03-19",
     "MICR": "400524537",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "DAHANU",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000110": {
     "IFSC": "TDCB0000110",
@@ -1852,14 +1860,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "HOUSE NO 660/B, MADHUBAN APARTMENT, IST FLOOR,AT KUDAN, TAL & DIST- PALGHAR 401501",
     "CONTACT": "02225397846",
-    "DATE": "2018-03-19",
     "MICR": "400524538",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "PALGHAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000111": {
     "IFSC": "TDCB0000111",
@@ -1869,14 +1877,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "BLDG NO 2, 1ST FLOOR, SARVE NO 265,GAVTHAN AREA VIRAR (W) TAL VASAI, PALGHAR 401303",
     "CONTACT": "02225397846",
-    "DATE": "2018-03-19",
     "MICR": "400524066",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "VASAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000112": {
     "IFSC": "TDCB0000112",
@@ -1886,14 +1894,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "HOUSE NO 1878, 1ST FLOOR, AT POST KAMAN, TAL-VASAI, DIST-PALGHAR 401208",
     "CONTACT": "02225397846",
-    "DATE": "2018-03-19",
     "MICR": "400524067",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "VASAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000113": {
     "IFSC": "TDCB0000113",
@@ -1903,14 +1911,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "HOUSE NO 756 SHIRISHPADA, POST KONE, TAL WADA DIST-PALGHAR PIN 421303",
     "CONTACT": "02225397846",
-    "DATE": "2018-03-19",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIRISHPADA",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000114": {
     "IFSC": "TDCB0000114",
@@ -1920,14 +1928,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP-16,17,18,19,1ST FLOOR,HIRA ARCADE,KALHER,TAL-BHIWANDI,THAN-421302",
     "CONTACT": "02221582015",
-    "DATE": "2019-03-28",
     "MICR": "400524068",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "BHIWANDI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TDCB0000115": {
     "IFSC": "TDCB0000115",
@@ -1937,13 +1945,13 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "HOUSE NO,GR FLOOR,NEAR TAHASILDAR OFFICE,YASHWANT NAGAR-MORCHA,JAWHAR,PALGHAR,401603",
     "CONTACT": "02221582016",
-    "DATE": "2019-03-28",
     "MICR": "400524069",
     "BANK": "THANE DISTRICT CENTRAL CO-OP. BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "JAWHAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

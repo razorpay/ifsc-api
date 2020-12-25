@@ -11,10 +11,10 @@
     "IMPS": true,
     "CITY": "NAVI MUMBAI",
     "UPI": true,
-    "DATE": "42816",
     "MICR": "400757001",
     "RTGS": true,
-    "NEFT": false
+    "NEFT": false,
+    "SWIFT": null
   },
   "SURY0000011": {
     "IFSC": "SURY0000011",
@@ -24,14 +24,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NUMBER1,HERMES ATRIUM,SECTOR 11,CBD BELAPUR,NAVI MUMBAI",
     "CONTACT": "00",
-    "DATE": "2017-03-22",
     "MICR": "400757002",
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NAVI MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SURY0000012": {
     "IFSC": "SURY0000012",
@@ -41,14 +41,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NUMBER 1 A,SHRIPAL BUILDING,CHHAYA SOCIETY,S.T.ROAD,CHEMBUR NAKA,MUMBAI",
     "CONTACT": "00",
-    "DATE": "2017-03-22",
     "MICR": "400757003",
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SURY0000013": {
     "IFSC": "SURY0000013",
@@ -58,14 +58,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shop Number 3,4,6, Ground Floor,\nNRI Shopping Center, Seawoods Estates, 56 / 58, Sector 54, Nerul, Navi Mumbai",
     "CONTACT": "00",
-    "DATE": "42816",
     "MICR": "400757004",
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NAVI MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SURY0000014": {
     "IFSC": "SURY0000014",
@@ -75,14 +75,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "G-1 X SHOPPING CENTER,FLOWER VALLEY CHS LTD,NEXT TO STATE BANK OF HYDERABAD,EASTERN EXPRESS HIGHWAY THANE( WEST),OPPOSITE VIVIANA MALL,MUMBAI",
     "CONTACT": "00",
-    "DATE": "2017-03-22",
     "MICR": "400757005",
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SURY0000015": {
     "IFSC": "SURY0000015",
@@ -92,14 +92,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Ground Floor, Vibhas C.H.S. Ltd.\nKothrud, Pune",
     "CONTACT": "00",
-    "DATE": "2017-03-22",
     "MICR": "411757002",
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SURY0000016": {
     "IFSC": "SURY0000016",
@@ -109,14 +109,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NUMBER 5A,GROUND FLOOR,SAMEER PLAZA,GP-72,G BLOCK,MIDC,SAMBHAJI NAGAR,CHINCHWAD,PUNE",
     "CONTACT": "00",
-    "DATE": "2017-03-22",
     "MICR": "411757003",
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SURY0000017": {
     "IFSC": "SURY0000017",
@@ -126,14 +126,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NUMER 9,AND 4,SUVIDHA SMITA APARTMENTS,SADASHIV PETH,PUNE",
     "CONTACT": "00",
-    "DATE": "2017-03-22",
     "MICR": "411757004",
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SURY0000018": {
     "IFSC": "SURY0000018",
@@ -143,14 +143,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "GROUND FLOOR SHOP,SAMARPAN BUILDING,NEAR SWASTIK CROSS ROAD,NEAR US PIZZA,NAVRANGPURA,AHMEDABAD",
     "CONTACT": "00",
-    "DATE": "2017-04-18",
     "MICR": "380757001",
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SURY0000019": {
     "IFSC": "SURY0000019",
@@ -160,14 +160,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "GROUND FLOOR,PLOT NUMBER 4,SCHEME NUMBER 117,NEW PALASIA,56 DUKAN,INDORE",
     "CONTACT": null,
-    "DATE": "42919",
     "MICR": "452757001",
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "INDORE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SURY0000020": {
     "IFSC": "SURY0000020",
@@ -177,14 +177,14 @@
     "STATE": "PUDUCHERRY",
     "ADDRESS": "GROUND FLOOR,S J MODERN TOWER,AT NO.13,VALLALAR SALAI,KAMRAJ NAGAR,PUDUCHERRY",
     "CONTACT": "00",
-    "DATE": "2017-04-18",
     "MICR": "605757002",
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUDUCHERRY",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SURY0000021": {
     "IFSC": "SURY0000021",
@@ -194,14 +194,14 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "NO.24/52,VENKATESAN STREET,TAMBARAM WEST,CHENNAI",
     "CONTACT": "00",
-    "DATE": "2017-10-07",
     "MICR": "600757003",
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SURY0000022": {
     "IFSC": "SURY0000022",
@@ -211,14 +211,14 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "PLOT NUMBER 642,SRI RAM APARTMENTS,GROUND FLOOR 5,6,LAXMI MILL JUNCTION,PULLIYAKULAM ROAD,COIMBATORE",
     "CONTACT": "00",
-    "DATE": "2017-04-18",
     "MICR": "641757002",
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SURY0000023": {
     "IFSC": "SURY0000023",
@@ -228,14 +228,14 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "PREMISE NUMBER C 56,GROUND FLOOR,11TH CROSS ROAD,THILLAI NAGAR,MAIN ROAD,TIRUCHIIRAPPALLI",
     "CONTACT": "00",
-    "DATE": "2017-04-18",
     "MICR": "620757002",
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "TIRUCHIRAPALLI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SURY0000024": {
     "IFSC": "SURY0000024",
@@ -245,14 +245,14 @@
     "STATE": "ODISHA",
     "ADDRESS": "GROUND FLOOR,PLOT NO-2862/3734,LEWIS ROAD,BHUBANESHWAR",
     "CONTACT": "00",
-    "DATE": "2017-10-07",
     "MICR": "751757002",
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BHUBANESHWAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SURY0000025": {
     "IFSC": "SURY0000025",
@@ -262,14 +262,14 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "LHARMONIE,NO 30,BAZULLAH ROAD,T.NAGAR,CHENNAI",
     "CONTACT": "00",
-    "DATE": "2017-04-18",
     "MICR": "600757002",
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SURY0000026": {
     "IFSC": "SURY0000026",
@@ -279,14 +279,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GROUND FLOOR,H.NO.814,FL-2,YEWALEWADI,OPPOSITE SINHAGAD COLLEGE,KONDWA PUNE -411048",
     "CONTACT": null,
-    "DATE": "2018-01-25",
     "MICR": "411757501",
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SURY0000027": {
     "IFSC": "SURY0000027",
@@ -296,14 +296,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "HOUSE NUMBER H 386,MHALUNGE BUS STOP,PUNE",
     "CONTACT": "00",
-    "DATE": "2017-04-18",
     "MICR": "411757502",
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SURY0000028": {
     "IFSC": "SURY0000028",
@@ -313,14 +313,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "HOUSE NUMBER 211, GROUND FLOOR CHARHOLI (KHURD), PUNE",
     "CONTACT": "00",
-    "DATE": "2017-07-15",
     "MICR": "411757503",
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SURY0000031": {
     "IFSC": "SURY0000031",
@@ -330,14 +330,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GROUND FLOOR,PLOT NUMBER 2,123/2/2 DATTAWADI,OPPOSITE IMS COLLEGE,KASARSAI ROAD,TALUKA -MULSHI,NERE PUNE -412108",
     "CONTACT": null,
-    "DATE": "2018-01-25",
     "MICR": "411757504",
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SURY0000032": {
     "IFSC": "SURY0000032",
@@ -347,14 +347,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NUMBER 1,GROUND FLOOR,NEAR HANUMAN TEMPLE,HEDUTANE VILLAGE,TALUKA -KALYAN,DISTRICT -THANE",
     "CONTACT": "00",
-    "DATE": "2017-10-30",
     "MICR": "400757502",
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SURY0000033": {
     "IFSC": "SURY0000033",
@@ -364,14 +364,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GROUND FLOOR, AT HOUSE NUMBER 829, VARALE, TAL. MVAL, PUNE",
     "CONTACT": "00",
-    "DATE": "2017-07-15",
     "MICR": "411757505",
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SURY0000034": {
     "IFSC": "SURY0000034",
@@ -381,14 +381,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GROUND FLOOR, HOUSE NUMBER 099, DONAJE VILLAGE, PUNE",
     "CONTACT": "00",
-    "DATE": "2017-07-15",
     "MICR": "411757506",
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SURY0000035": {
     "IFSC": "SURY0000035",
@@ -398,14 +398,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NUMBER 2& 3,GROUND FLOOR,SUNDARA AAI PARK,GRAMPANCHAYAT HOUSE NO.778,SARAVALI VILLAGE,NEAR MIDC,TALUKA -BHIWANDI,THANE",
     "CONTACT": "00",
-    "DATE": "2017-10-30",
     "MICR": "400757504",
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SURY0000036": {
     "IFSC": "SURY0000036",
@@ -415,14 +415,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NUMBER 1,GROUND FLOOR,SARASWATI APARTMENT,KOLEGAON,TALUKA -KALYAN,DISTRICT -THANE",
     "CONTACT": "00",
-    "DATE": "2017-10-30",
     "MICR": "400757503",
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SURY0000037": {
     "IFSC": "SURY0000037",
@@ -432,14 +432,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SURYODAY SMALL FINANCE BANK LTD., SHOP NO.1 & 2, GROUND FLOOR, GURUKRUPA APARTMENT, SURVEY NO.1/1A, 2B, WADACHIWADI, TAL HAVELI, PUNE",
     "CONTACT": null,
-    "DATE": "42931",
     "MICR": "411757507",
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SURY0000038": {
     "IFSC": "SURY0000038",
@@ -449,14 +449,14 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "54,1STMAINROAD,NANGANALLUR,CHENNAI,TAMILNADU600061",
     "CONTACT": null,
-    "DATE": "2018-03-14",
     "MICR": "600757004",
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SURY0050080": {
     "IFSC": "SURY0050080",
@@ -466,14 +466,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GALA NO - 5& 15,SUNDER PLAZA,BAIL BAZAAR,KALYAN-SHILFATA ROAD,KALYAN,THANE,MAHARASHTRA 421301",
     "CONTACT": null,
-    "DATE": "2018-05-30",
     "MICR": "400757006",
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KALYAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SURY0050223": {
     "IFSC": "SURY0050223",
@@ -483,14 +483,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO 1& 2,B WING,RAVINDRA REGENCY,BALYANI ROAD,MANDA EAST,TITWALA,MAHARASHTRA 421605",
     "CONTACT": null,
-    "DATE": "2018-05-30",
     "MICR": "400757007",
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "TITWALA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SURY0BK0000": {
     "IFSC": "SURY0BK0000",
@@ -500,14 +500,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "UNIT NUMBER 302,SECTOR 11,201 IN PUJIT PLAZA BUILDING,NAVI MUMBAI",
     "CONTACT": "00",
-    "DATE": "2017-06-30",
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NAVI MUMBAI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SURY0HE0001": {
     "IFSC": "SURY0HE0001",
@@ -517,14 +517,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "1101 SHARDA TERRACES,PLOT 65 SECTOR 11,CBD BELAPUR,NAVI MUMBAI",
     "CONTACT": "00",
-    "DATE": "2017-06-30",
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NAVI MUMBAI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SURY0TR0002": {
     "IFSC": "SURY0TR0002",
@@ -534,13 +534,13 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "1101 SHARDA TERRACES,PLOT 65 SECTOR 11,CBD BELAPUR,NAVI MUMBAI",
     "CONTACT": "00",
-    "DATE": "2017-06-30",
     "BANK": "SURYODAY SMALL FINANCE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NAVI MUMBAI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

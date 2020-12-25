@@ -11,10 +11,10 @@
     "IMPS": true,
     "CITY": "ALMORA",
     "UPI": false,
-    "DATE": "14/09/2012",
     "RTGS": true,
     "MICR": "NA",
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "AUCB0000002": {
     "IFSC": "AUCB0000002",
@@ -24,14 +24,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "CHOWK BAZAR ALMORA",
     "CONTACT": "9410122088",
-    "DATE": "14/09/2012",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "ALMORA",
     "MICR": "263849102",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000003": {
     "IFSC": "AUCB0000003",
@@ -41,14 +41,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "SADAR BAZAR RANIKHET",
     "CONTACT": "9412037244",
-    "DATE": "14/09/2012",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "RANIKHET",
     "MICR": "263849602",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000004": {
     "IFSC": "AUCB0000004",
@@ -58,14 +58,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "CHOWK BAZAR BAGESHWAR",
     "CONTACT": "9412375522",
-    "DATE": "14/09/2012",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "BAGESHWAR",
     "MICR": "263849702",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000005": {
     "IFSC": "AUCB0000005",
@@ -75,14 +75,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "DUNAGIRI ROAD DWARAHAT",
     "CONTACT": "9411557248",
-    "DATE": "14/09/2012",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "DWARAHAT",
     "MICR": "263849651",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000006": {
     "IFSC": "AUCB0000006",
@@ -92,14 +92,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "GANDHI CHOWK PITHORAGARH",
     "CONTACT": "9456372160",
-    "DATE": "14/09/2012",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "PITHORAGARH",
     "MICR": "262849802",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000007": {
     "IFSC": "AUCB0000007",
@@ -109,14 +109,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "MEERA MARG HALDWANI",
     "CONTACT": "9319910304",
-    "DATE": "14/09/2012",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "HALDWANI",
     "MICR": "263849002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000008": {
     "IFSC": "AUCB0000008",
@@ -126,14 +126,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "BADA BAZAR NAINITAL",
     "CONTACT": "9412987186",
-    "DATE": "14/09/2012",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAINITAL",
     "MICR": "263849302",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000009": {
     "IFSC": "AUCB0000009",
@@ -143,14 +143,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "VEER HAQIQAT RAI MARG RUDRAPUR",
     "CONTACT": "9719068421",
-    "DATE": "14/09/2012",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "RUDRAPUR",
     "MICR": "263849202",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000010": {
     "IFSC": "AUCB0000010",
@@ -160,14 +160,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "NAVEEN ADARSH MANDI HALDWANI",
     "CONTACT": "9412036271",
-    "DATE": "14/09/2012",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "HALDWANI",
     "MICR": "263849003",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000011": {
     "IFSC": "AUCB0000011",
@@ -177,14 +177,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "JWALA LINE RAMNAGAR",
     "CONTACT": "9410589502",
-    "DATE": "14/09/2012",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "RAMNAGAR",
     "MICR": "244849402",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000012": {
     "IFSC": "AUCB0000012",
@@ -194,14 +194,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "MAIN MARKET TANAKPUR",
     "CONTACT": "9760507183",
-    "DATE": "14/09/2012",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "TANAKPUR",
     "MICR": "262849351",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000013": {
     "IFSC": "AUCB0000013",
@@ -211,14 +211,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "KHATIMA ROAD SITARGANJ",
     "CONTACT": "9412977768",
-    "DATE": "14/09/2012",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "SITARGANJ",
     "MICR": "262849502",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000014": {
     "IFSC": "AUCB0000014",
@@ -228,14 +228,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "KALADHUNGI ROAD (EVENING)",
     "CONTACT": "9412034459",
-    "DATE": "14/09/2012",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "HALDWANI",
     "MICR": "263849004",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000015": {
     "IFSC": "AUCB0000015",
@@ -245,14 +245,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "SITARGANJ ROAD KHATIMA",
     "CONTACT": "9411701414",
-    "DATE": "14/09/2012",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "KHATIMA",
     "MICR": "262849302",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000016": {
     "IFSC": "AUCB0000016",
@@ -262,14 +262,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "POST OFFICE ROAD KASHIPUR",
     "CONTACT": "9012355924",
-    "DATE": "14/09/2012",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "KASHIPUR",
     "MICR": "244849202",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000017": {
     "IFSC": "AUCB0000017",
@@ -279,14 +279,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "MAIN MARKET KICHHA",
     "CONTACT": "9410304784",
-    "DATE": "14/09/2012",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "KICHHA",
     "MICR": "263849502",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000018": {
     "IFSC": "AUCB0000018",
@@ -296,14 +296,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "MALLITAL BHIMTAL",
     "CONTACT": "9412107242",
-    "DATE": "14/09/2012",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "BHIMTAL",
     "MICR": "263849052",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000019": {
     "IFSC": "AUCB0000019",
@@ -313,14 +313,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "HARIDWAR ROAD RISHIKESH",
     "CONTACT": "2435353",
-    "DATE": "21/09/2012",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "RISHIKESH",
     "MICR": "249849002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000020": {
     "IFSC": "AUCB0000020",
@@ -330,14 +330,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "HARIDWAR ROAD SHYAMPUR",
     "CONTACT": "2452488",
-    "DATE": "21/09/2012",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHYAMPUR",
     "MICR": "249849004",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000021": {
     "IFSC": "AUCB0000021",
@@ -347,14 +347,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "HARIDWAR ROAD RAIWALA",
     "CONTACT": "2484844",
-    "DATE": "21/09/2012",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "RAIWALA",
     "MICR": "249849003",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000022": {
     "IFSC": "AUCB0000022",
@@ -364,14 +364,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "STATION ROAD CHAMPAWAT",
     "CONTACT": "9410587610",
-    "DATE": "14/09/2012",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHAMPAWAT",
     "MICR": "262849602",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000023": {
     "IFSC": "AUCB0000023",
@@ -381,14 +381,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "KHADI BAZAR LOHAGHAT",
     "CONTACT": "9411118160",
-    "DATE": "14/09/2012",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "LOHAGHAT",
     "MICR": "262849651",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000024": {
     "IFSC": "AUCB0000024",
@@ -398,14 +398,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "HALDWANI ROAD KALADHUNGI",
     "CONTACT": "9917958084",
-    "DATE": "14/09/2012",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "KALADHUNGI",
     "MICR": "263849053",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000025": {
     "IFSC": "AUCB0000025",
@@ -415,14 +415,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "NAINITAL ROAD LALKUAN",
     "CONTACT": "9412044992",
-    "DATE": "14/09/2012",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "LALKUAN",
     "MICR": "263849051",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000026": {
     "IFSC": "AUCB0000026",
@@ -432,14 +432,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "DEVI ROAD KOTDWAR",
     "CONTACT": "229975",
-    "DATE": "21/09/2012",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "KOTDWARA",
     "MICR": "246849802",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000027": {
     "IFSC": "AUCB0000027",
@@ -449,14 +449,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "NAINITAL ROAD HALDWANI",
     "CONTACT": "9719563052",
-    "DATE": "14/09/2012",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "HALDWANI",
     "MICR": "263849005",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000028": {
     "IFSC": "AUCB0000028",
@@ -466,14 +466,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "RAMPUR ROAD HALDWANI",
     "CONTACT": "9412966594",
-    "DATE": "14/09/2012",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "HALDWANI",
     "MICR": "263849006",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000029": {
     "IFSC": "AUCB0000029",
@@ -483,14 +483,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "BHAGAT SINGH CHOWK BAJPUR",
     "CONTACT": "9412925725",
-    "DATE": "14/09/2012",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "BAZPUR",
     "MICR": "262849202",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000030": {
     "IFSC": "AUCB0000030",
@@ -500,14 +500,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "JHANDA BAZAR DEHRA DUN",
     "CONTACT": "2620890",
-    "DATE": "21/09/2012",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "DEHRADUN",
     "MICR": "248849002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000031": {
     "IFSC": "AUCB0000031",
@@ -517,14 +517,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "BHOLAGIRI ROAD HARIDWAR",
     "CONTACT": "9536118282",
-    "DATE": "14/09/2012",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "HARDWAR",
     "MICR": "249849002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000032": {
     "IFSC": "AUCB0000032",
@@ -534,14 +534,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "G.I.C. ROAD GANGOLIGHAT",
     "CONTACT": "242054",
-    "DATE": "21/09/2012",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "GANGOLIGHAT",
     "MICR": "262849852",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000033": {
     "IFSC": "AUCB0000033",
@@ -551,14 +551,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "VIDHAN SABHA ROAD DEHRA DUN",
     "CONTACT": "2666756",
-    "DATE": "21/09/2012",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "DEHRADUN",
     "MICR": "248849003",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000034": {
     "IFSC": "AUCB0000034",
@@ -568,14 +568,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "CHAKRATA ROAD VIKAS NAGAR",
     "CONTACT": "252920",
-    "DATE": "21/09/2012",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "VIKAS NAGAR",
     "MICR": "248849202",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000035": {
     "IFSC": "AUCB0000035",
@@ -585,14 +585,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "OLD RAILWAY ROAD ROORKEE",
     "CONTACT": "9412969376",
-    "DATE": "14/09/2012",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "ROORKEE",
     "MICR": "247849102",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000036": {
     "IFSC": "AUCB0000036",
@@ -602,14 +602,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "NEAR SARSWATI SISHU MANDIR S.PATTI",
     "CONTACT": "9412044326",
-    "DATE": "14/09/2012",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "SULTANPUR",
     "MICR": "244849203",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000037": {
     "IFSC": "AUCB0000037",
@@ -619,14 +619,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "MILAN BANQUET HALL JASPUR",
     "CONTACT": "9412035968",
-    "DATE": "14/09/2012",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "JASPUR",
     "MICR": "244849302",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000038": {
     "IFSC": "AUCB0000038",
@@ -636,14 +636,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "CHOWK BAZAR BERINAG",
     "CONTACT": "9897007858",
-    "DATE": "14/09/2012",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "BERINAG",
     "MICR": "262849851",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000039": {
     "IFSC": "AUCB0000039",
@@ -653,14 +653,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "NEAR G.I.C. GARUR",
     "CONTACT": "9412930949",
-    "DATE": "14/09/2012",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "GARUR",
     "MICR": "263849751",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000040": {
     "IFSC": "AUCB0000040",
@@ -670,14 +670,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "KONARK COMPLEX ALMORA",
     "CONTACT": "5962231947",
-    "DATE": "04-01-2013",
     "MICR": "263849103",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "ALMORA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000041": {
     "IFSC": "AUCB0000041",
@@ -687,14 +687,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "ABDULLA BUILDING BAREILLY ROAD HALDWANI",
     "CONTACT": "5946251219",
-    "DATE": "04-01-2013",
     "MICR": "263849007",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "HALDWANI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000042": {
     "IFSC": "AUCB0000042",
@@ -704,14 +704,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "LEELA TOWER KUSUM KHERA HALDWANI",
     "CONTACT": "5946255144",
-    "DATE": "04-01-2013",
     "MICR": "263849008",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "HALDWANI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000043": {
     "IFSC": "AUCB0000043",
@@ -721,14 +721,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "298-LODHI MANDI, GURUDWARA ROAD JWALAPUR HARIDWAR",
     "CONTACT": "152625",
-    "DATE": "03-04-2013",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "HARDWAR",
     "MICR": "249849003",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000044": {
     "IFSC": "AUCB0000044",
@@ -738,14 +738,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "UPPER BAZAR PAURI",
     "CONTACT": "222233",
-    "DATE": "03-04-2013",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "PAURI",
     "MICR": "246849702",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000045": {
     "IFSC": "AUCB0000045",
@@ -755,14 +755,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "HOTEL COZY KALA ROAD SRI NAGAR",
     "CONTACT": "250621",
-    "DATE": "05-04-2013",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "SRINAGAR",
     "MICR": "246849902",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000046": {
     "IFSC": "AUCB0000046",
@@ -772,14 +772,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "15-DISPENSARY ROAD DEHRADUN",
     "CONTACT": "2710769",
-    "DATE": "03-04-2013",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "DEHRADUN",
     "MICR": "248849005",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000047": {
     "IFSC": "AUCB0000047",
@@ -789,14 +789,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "MILL ROAD DOIWALA",
     "CONTACT": "2691896",
-    "DATE": "03-04-2013",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "DOIWALA",
     "MICR": "248849004",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000048": {
     "IFSC": "AUCB0000048",
@@ -806,14 +806,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "149 GULARBHOJ ROAD GADARPUR",
     "CONTACT": "271010",
-    "DATE": "05-04-2013",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "GADARPUR",
     "MICR": "263849402",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000049": {
     "IFSC": "AUCB0000049",
@@ -823,14 +823,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "321/7 MAIN MARKET DEHRADUN ROAD HERBERTPUR",
     "CONTACT": "259999",
-    "DATE": "09-04-2013",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "HERBUTPUR",
     "MICR": "248849203",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000050": {
     "IFSC": "AUCB0000050",
@@ -840,14 +840,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "KAILASH GATE LAXMAN JHULA ROAD MUNI KI RETI",
     "CONTACT": "2433344",
-    "DATE": "03-04-2013",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUNI-KI-RETI",
     "MICR": "249849105",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AUCB0000051": {
     "IFSC": "AUCB0000051",
@@ -857,13 +857,13 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "256/22 CIVIL LINE ROORKEE",
     "CONTACT": null,
-    "DATE": "05-04-2013",
     "BANK": "ALMORA URBAN BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "ROORKEE",
     "MICR": "247849103",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

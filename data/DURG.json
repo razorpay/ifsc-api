@@ -7,14 +7,14 @@
     "STATE": "WEST BENGAL",
     "ADDRESS": "BENACHITY HOUSE DURGAPUR 713204",
     "CONTACT": "03432570593",
-    "DATE": "2018-02-26",
     "BANK": "DURGAPUR STEEL PEOPLES CO-OPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "DURGAPUR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DURG0000002": {
     "IFSC": "DURG0000002",
@@ -24,14 +24,14 @@
     "STATE": "WEST BENGAL",
     "ADDRESS": "BENACHTY HOUSE DURGAPUR",
     "CONTACT": "03432570593",
-    "DATE": "2018-02-26",
     "BANK": "DURGAPUR STEEL PEOPLES CO-OPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "DURGAPUR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DURG0000003": {
     "IFSC": "DURG0000003",
@@ -41,14 +41,14 @@
     "STATE": "WEST BENGAL",
     "ADDRESS": "DURGAPUR STEEL PLANT DURGAPUR",
     "CONTACT": "03432597073",
-    "DATE": "2018-02-26",
     "MICR": "713836203",
     "BANK": "DURGAPUR STEEL PEOPLES CO-OPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "DURGAPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DURG0000004": {
     "IFSC": "DURG0000004",
@@ -58,14 +58,14 @@
     "STATE": "WEST BENGAL",
     "ADDRESS": "50 KALIDAS ROAD B ZONE 713205",
     "CONTACT": "03432605452",
-    "DATE": "2018-02-26",
     "MICR": "713836204",
     "BANK": "DURGAPUR STEEL PEOPLES CO-OPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "DURGAPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DURG0000005": {
     "IFSC": "DURG0000005",
@@ -75,14 +75,14 @@
     "STATE": "WEST BENGAL",
     "ADDRESS": "YURIGAGARIN PATH MRITYUNJOY HOUSING COMPLEX",
     "CONTACT": null,
-    "DATE": "2018-02-26",
     "MICR": "713836205",
     "BANK": "DURGAPUR STEEL PEOPLES CO-OPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "DURGAPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DURG0000006": {
     "IFSC": "DURG0000006",
@@ -92,13 +92,13 @@
     "STATE": "WEST BENGAL",
     "ADDRESS": "FULJHORE DURGAPUR",
     "CONTACT": "03432500004",
-    "DATE": "2018-02-26",
     "MICR": "713836207",
     "BANK": "DURGAPUR STEEL PEOPLES CO-OPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "DURGAPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

@@ -7,14 +7,14 @@
     "STATE": "WEST BENGAL",
     "ADDRESS": "Kolkata",
     "CONTACT": null,
-    "DATE": null,
     "BANK": "BNP PARIBAS",
     "UPI": false,
     "RTGS": true,
     "CITY": "KOLKATA",
     "MICR": "700034002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BNPA0009009": {
     "IFSC": "BNPA0009009",
@@ -24,14 +24,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Mumbai",
     "CONTACT": "33704000",
-    "DATE": null,
     "BANK": "BNP PARIBAS",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400034002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BNPA0009065": {
     "IFSC": "BNPA0009065",
@@ -41,14 +41,14 @@
     "STATE": "DELHI",
     "ADDRESS": "8th FLOOR EAST TOWER (SOOD TOWER), 25, BARAKHAMBA ROAD,NEW DELHI - 110001",
     "CONTACT": "41796600",
-    "DATE": null,
     "MICR": "110034002",
     "BANK": "BNP PARIBAS",
     "UPI": false,
     "RTGS": true,
     "CITY": "DELHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BNPA0009066": {
     "IFSC": "BNPA0009066",
@@ -58,14 +58,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "French Bank Bldg.,62, Homji Street, Mumbai - 400 001",
     "CONTACT": null,
-    "DATE": null,
     "BANK": "BNP PARIBAS",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": false,
     "IMPS": true,
-    "MICR": null
+    "MICR": null,
+    "SWIFT": null
   },
   "BNPA0009067": {
     "IFSC": "BNPA0009067",
@@ -75,14 +75,14 @@
     "STATE": "KARNATAKA",
     "ADDRESS": "Salarpuria Windsor, Ground Floor, No.3, Ulsoor Road,Bengaluru - 560 042",
     "CONTACT": "66076200",
-    "DATE": null,
     "MICR": "560034002",
     "BANK": "BNP PARIBAS",
     "UPI": false,
     "RTGS": true,
     "CITY": "BANGALORE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BNPA0009069": {
     "IFSC": "BNPA0009069",
@@ -92,14 +92,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "5 & 6,Godrej Millenium Park,9,Koregaon Road,Pune-411 001",
     "CONTACT": null,
-    "DATE": null,
     "BANK": "BNP PARIBAS",
     "UPI": false,
     "RTGS": true,
     "CITY": "PUNE",
     "MICR": "411034002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BNPA0009077": {
     "IFSC": "BNPA0009077",
@@ -109,14 +109,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "203,Sakar II,Ellis Bridge,Off Ashram Rd,Ahmedabad-380 006",
     "CONTACT": "25581347",
-    "DATE": null,
     "BANK": "BNP PARIBAS",
     "UPI": false,
     "RTGS": true,
     "CITY": "AHMEDABAD",
     "MICR": "380034002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BNPA0009088": {
     "IFSC": "BNPA0009088",
@@ -126,14 +126,14 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "Prince Towers,3rd Fl,25/26,College Road,Chennai-600 006",
     "CONTACT": null,
-    "DATE": null,
     "BANK": "BNP PARIBAS",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR": "600034002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BNPA0009378": {
     "IFSC": "BNPA0009378",
@@ -143,14 +143,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "Venkat Plaza 6-3-883/5,Punjagutta,Hyderabad-500 082",
     "CONTACT": "66216500",
-    "DATE": null,
     "BANK": "BNP PARIBAS",
     "UPI": false,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR": "500034002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BNPA0RTGSMI": {
     "BANK": "BNP Paribas Bank",
@@ -164,9 +164,9 @@
     "IMPS": true,
     "CITY": "MUMBAI",
     "UPI": false,
-    "DATE": "41739",
     "RTGS": true,
     "NEFT": false,
-    "MICR": null
+    "MICR": null,
+    "SWIFT": null
   }
 }

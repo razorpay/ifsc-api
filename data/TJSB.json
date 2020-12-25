@@ -11,10 +11,10 @@
     "IMPS": true,
     "CITY": "THANE",
     "UPI": true,
-    "DATE": null,
     "RTGS": true,
     "MICR": "400109001",
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "TJSB0000002": {
     "IFSC": "TJSB0000002",
@@ -24,14 +24,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MADHUMALATI, VEER SAVARKAR PATH, THANE(W)-400604",
     "CONTACT": "02225340916",
-    "DATE": "19/09/2007",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
     "MICR": "400109002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000003": {
     "IFSC": "TJSB0000003",
@@ -41,14 +41,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "ANANT LAXMI CHAMBERS, SHIVAJI NAGAR, OFF GOKHALE ROAD, THANE(W)-400602",
     "CONTACT": "02225403354",
-    "DATE": "19/09/2007",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
     "MICR": "400109003",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000004": {
     "IFSC": "TJSB0000004",
@@ -58,14 +58,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.10 & 11, TIP TOP PLAZA, L.B.S.ROAD, WAGLE ESTATE, THANE(W)-400602",
     "CONTACT": "02225821442",
-    "DATE": "19/09/2007",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
     "MICR": "400109004",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000005": {
     "IFSC": "TJSB0000005",
@@ -75,14 +75,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "79 K'VILLA, RABODI, NEAR HOLY CROSS HIGH SCHOOL, THANE(W)-400601",
     "CONTACT": "02225344247",
-    "DATE": "19/09/2007",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
     "MICR": "400109005",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000006": {
     "IFSC": "TJSB0000006",
@@ -92,14 +92,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "BHIVARA BHAVAN, TILAK NAGAR, THANE(E)-400603",
     "CONTACT": "02225324330",
-    "DATE": "19/09/2007",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
     "MICR": "400109006",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000007": {
     "IFSC": "TJSB0000007",
@@ -109,14 +109,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "LAXMI INDUSTRIAL COMPLEX, VARTAK NAGAR NAKA, THANE(W)-400606",
     "CONTACT": "02225856507",
-    "DATE": "19/09/2007",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
     "MICR": "400109007",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000008": {
     "IFSC": "TJSB0000008",
@@ -126,14 +126,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "VEERUL, NEAR TMC, PANCH PAKHADI, THANE(W)-400602",
     "CONTACT": "02225362011",
-    "DATE": "19/09/2007",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
     "MICR": "400109008",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000009": {
     "IFSC": "TJSB0000009",
@@ -143,14 +143,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GOLDEN HEAVENS APT., NEAR PRATAP CINEMA, POKHRAN RD. NO.1, THANE(W)-400601",
     "CONTACT": "02225472766",
-    "DATE": "19/09/2007",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
     "MICR": "400109009",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000010": {
     "IFSC": "TJSB0000010",
@@ -160,14 +160,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "DATTATRAY MAHARAJ SOCIETY, PLOT NO.6, SECTOR 8, AIROLI, NAVI MUMBAI-400705",
     "CONTACT": "02227695551",
-    "DATE": "19/09/2007",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "NEW BOMBAY",
     "MICR": "400109010",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000011": {
     "IFSC": "TJSB0000011",
@@ -177,14 +177,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHREENAGAR HOUSING COMPLEX, MARKET BUILDING, SHREENAGAR, THANE(W)-400604",
     "CONTACT": "02225833949",
-    "DATE": "19/09/2007",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
     "MICR": "400109011",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000012": {
     "IFSC": "TJSB0000012",
@@ -194,14 +194,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "1, APSARA BLDG., PLOT NO.51, SEC .17, VASHI, NAVI MUMBAI-400703",
     "CONTACT": "02227894143",
-    "DATE": "19/09/2007",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "NEW BOMBAY",
     "MICR": "400109012",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000013": {
     "IFSC": "TJSB0000013",
@@ -211,14 +211,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MARUTI ASHISH, OFF J.N ROAD, OPP APNA BAZAR, MULUND(W)-400080",
     "CONTACT": "02225690019",
-    "DATE": "19/09/2007",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400109013",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000014": {
     "IFSC": "TJSB0000014",
@@ -228,14 +228,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "JAGRUTI APARTMENT, SHIVAJI CHOWK, KALWA NAKA, KALWA(W)-400605",
     "CONTACT": "02225304954",
-    "DATE": "19/09/2007",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
     "MICR": "400109014",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000015": {
     "IFSC": "TJSB0000015",
@@ -245,14 +245,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "ARIHANT DARSHAN', JUNCTION OF TILAK ROAD & HINGWALA LANE, GHATKOPAR(E),MUMBAI-400077",
     "CONTACT": "02225119597",
-    "DATE": "19/09/2007",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400109015",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000016": {
     "IFSC": "TJSB0000016",
@@ -262,14 +262,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "2, 'SUYOJIT SANKUL', NEAR RAJIV GANDHI BHAVAN, SHARANPUR ROAD,NASHIK-422002",
     "CONTACT": "02532575856",
-    "DATE": "19/09/2007",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "NASHIK",
     "MICR": "422109002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000017": {
     "IFSC": "TJSB0000017",
@@ -279,14 +279,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "1264/1, WRANGLER PARANJPE ROAD, JANGALI MAHARAJ ROAD, DECCAN GYMKHANA, PUNE-411004",
     "CONTACT": "02025536316",
-    "DATE": "19/09/2007",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "MICR": "411109016",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000018": {
     "IFSC": "TJSB0000018",
@@ -296,14 +296,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GROUND FLOOR, AT PUNE VIDYARTHI GRIHA PREMISES, NEAR KHAJINA VIHIR, 1786 SADASHIV PETH, PUNE- 411030",
     "CONTACT": "02024447771",
-    "DATE": "41739",
     "MICR": "411109017",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000019": {
     "IFSC": "TJSB0000019",
@@ -313,14 +313,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "VISHWANATH BHAVAN, CORNER OF P.M.ROAD AND NEHRU ROAD, VILE-PARLE(E), MUMBAI-400057",
     "CONTACT": "02226165323",
-    "DATE": "19/09/2007",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400109016",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000020": {
     "IFSC": "TJSB0000020",
@@ -330,14 +330,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GROUND FLOOR, SHRIDHAR NIWAS, DR.RAJENDRA PRASAD ROAD, DOMBIVALI EAST-421201",
     "CONTACT": "0222860388",
-    "DATE": "41739",
     "MICR": "400109017",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "DOMBIVLI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000021": {
     "IFSC": "TJSB0000021",
@@ -347,14 +347,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "1-3, GROUND FLOOR, NAV-RACHANA VIDYALAYA COMPLEX, SAVARKAR NAGAR, GANGAPUR ROAD, NASHIK-422013",
     "CONTACT": "02532340007",
-    "DATE": "19/09/2007",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "NASHIK",
     "MICR": "422109002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000022": {
     "IFSC": "TJSB0000022",
@@ -364,14 +364,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GALA NO.1-4, BLDG. NO.1, GREEN ACRES, PHASE 2, OFF GHODBUNDER ROAD, KAVESAR, THANE-400607",
     "CONTACT": "02225971231",
-    "DATE": "19/09/2007",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
     "MICR": "400109018",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000023": {
     "IFSC": "TJSB0000023",
@@ -381,14 +381,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MASKAR HOUSE, NAIK WADI, OPP. HERITAGE HOTEL, AAREY ROAD, GOREGAON(E), MUMBAI-400063",
     "CONTACT": "02228782672",
-    "DATE": "19/09/2007",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400109019",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000024": {
     "IFSC": "TJSB0000024",
@@ -398,14 +398,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MAHAVIDEH, CHANDAVARKAR RD., NR SHAMAPRASAD MUKHERJEE UDYAN, BORIVALI(W), MUMBAI-400092",
     "CONTACT": "02228922239",
-    "DATE": "19/09/2007",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400109020",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000025": {
     "IFSC": "TJSB0000025",
@@ -415,14 +415,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SINHGAD TECHNICAL EDUCATION SOCIETY, NARHE CAMPUS, 49/2A 53/2 A.P NARHE, PUNE-411041",
     "CONTACT": "02024391188",
-    "DATE": "41739",
     "MICR": "411109018",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "NARHE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000028": {
     "IFSC": "TJSB0000028",
@@ -432,14 +432,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PLOT NO.10-A, KASTURBA HOUSING SOCIETY, VISHRANTWADI, ALANDI ROAD, YERAWADA, PUNE-411015",
     "CONTACT": "02026693782",
-    "DATE": "41739",
     "MICR": "411109019",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000029": {
     "IFSC": "TJSB0000029",
@@ -449,14 +449,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "DHANANJAY, MARKET ROAD, OPP. JALARAM MANDIR, ALANDI DEVACHI, TAL. KHED, DIST. PUNE – 421105",
     "CONTACT": "02135232074",
-    "DATE": "29/10/2007",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "ALANDI",
     "MICR": "411109021",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000031": {
     "IFSC": "TJSB0000031",
@@ -466,14 +466,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "F M CITY CENTRE, GROUND FLOOR , PUNE MUMBAI ROAD, CHINCHWAD STATION, PUNE-411019",
     "CONTACT": "02027477081",
-    "DATE": "41739",
     "MICR": "411109002",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "PIMPRI CHINCHWAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000032": {
     "IFSC": "TJSB0000032",
@@ -483,14 +483,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "6, EAST GINNI BUILDING, MAIN BAZAR, DEHU ROAD, TAL. HAVELI, DIST. PUNE-412101",
     "CONTACT": "02027671039",
-    "DATE": "29/10/2007",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "DEHU ROAD",
     "MICR": "411109003",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000034": {
     "IFSC": "TJSB0000034",
@@ -500,14 +500,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "680/1,GAVHANE INDUSTRIAL ESTATE, LANDEWADI, BHOSARI,  PUNE-411026",
     "CONTACT": "02027129676",
-    "DATE": "29/10/2007",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "PIMPRI CHINCHWAD",
     "MICR": "411109005",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000035": {
     "IFSC": "TJSB0000035",
@@ -517,14 +517,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "240,DEONANI DEEP, NEAR POST OFFICE, NEAR RAILWAY STATION, PIMPRI, PUNE-411017",
     "CONTACT": "02027451325",
-    "DATE": "29/10/2007",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "PIMPRI CHINCHWAD",
     "MICR": "411109006",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000036": {
     "IFSC": "TJSB0000036",
@@ -534,14 +534,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GALA NO. 353, BHUSAR VIBHAG, CHHATRAPATI SHIVAJI MARKET YARD, GULTEKADI, PUNE-411037",
     "CONTACT": "02024273626",
-    "DATE": "29/10/2007",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "MICR": "411109007",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000037": {
     "IFSC": "TJSB0000037",
@@ -551,14 +551,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GAJARAJ BUILDING, OPP. GRAMPANCHAYAT OFFICE, POST. CHAKAN, TAL. KHED, DIST. PUNE-410501",
     "CONTACT": "02135252494",
-    "DATE": "29/10/2007",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHAKAN",
     "MICR": "411109008",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000038": {
     "IFSC": "TJSB0000038",
@@ -568,14 +568,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "ATHARVA, CTS 4565, RATNADEEP COLONY, WAKAD ROAD, NEAR DANGE CHOWK, THERGAON, PUNE-411033",
     "CONTACT": "02027272312",
-    "DATE": "41739",
     "MICR": "411109009",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "PIMPRI CHINCHWAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000040": {
     "IFSC": "TJSB0000040",
@@ -585,14 +585,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "TALANG  HEIGHTS, 1ST FLOOR, PLOT NO.10, SEC 25, SINDHU NAGAR, PCNTDA, NIGDI, PUNE-411044",
     "CONTACT": "02027650366",
-    "DATE": "29/10/2007",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "NIGDI",
     "MICR": "411109011",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000042": {
     "IFSC": "TJSB0000042",
@@ -602,14 +602,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "HB 3, SHOP NO.304, AJMERA HOUSING COMPLEX, PIMPARI, PUNE-411018",
     "CONTACT": "02027469135",
-    "DATE": "29/10/2007",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "PIMPRI CHINCHWAD",
     "MICR": "411109013",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000044": {
     "IFSC": "TJSB0000044",
@@ -619,14 +619,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "VISHWAKAMAL COMPLEX, PLOT NO.65, G BLOCK, MIDC, CHINCHWAD, PUNE-411019",
     "CONTACT": "02027469132",
-    "DATE": "29/10/2007",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "PIMPRI CHINCHWAD",
     "MICR": "411109015",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000045": {
     "IFSC": "TJSB0000045",
@@ -636,14 +636,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "KESHAR PLAZA, KMATWADE SHIVAR, AMBAD, NASHIK-422010",
     "CONTACT": "02532374352",
-    "DATE": "18/07/2008",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "NASHIK",
     "MICR": "422109004",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000046": {
     "IFSC": "TJSB0000046",
@@ -653,14 +653,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.G/8, GROUND FLOOR, EMERALD PLAZA, BLOCK NO.4, HIRANANDANI MEADOWS, CHITALSAR, MANPADA, THANE WEST-400610",
     "CONTACT": "02221715060",
-    "DATE": "41739",
     "MICR": "400109022",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000047": {
     "IFSC": "TJSB0000047",
@@ -670,14 +670,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.9,10 &11, GR. FLOOR, JANGID COMPLEX, ANJUR PHATA, KAMATGHAR, BHIWANDI, PIN-421302",
     "CONTACT": "2522262216",
-    "DATE": "27/02/2009",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "BHIWANDI",
     "MICR": "400109023",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000048": {
     "IFSC": "TJSB0000048",
@@ -687,14 +687,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "1, ANIRUDH, BUILDING NO. 27, BHARAT KHAND CO.OP. HOUSING SOCIETY, TILAK NAGAR, CHEMBUR, MUMBAI-400089",
     "CONTACT": "02225272735",
-    "DATE": "14/08/2009",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400109024",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000049": {
     "IFSC": "TJSB0000049",
@@ -704,14 +704,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "2, GROUND FLOOR, RIDDHI SIDDHI RESIDENCY CHS, SECTOR 3, NEW PANVEL-410206",
     "CONTACT": "02227467088",
-    "DATE": "14/08/2009",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "PANVEL",
     "MICR": "400109024",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000050": {
     "IFSC": "TJSB0000050",
@@ -721,14 +721,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "1, JP AVENUE, OPP. ATMAVISHWAS CHS, PATHARDI ROAD, INDIRA NAGAR, NASHIK-422009",
     "CONTACT": "02532323701",
-    "DATE": "41739",
     "MICR": "422109005",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "NASHIK",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000051": {
     "IFSC": "TJSB0000051",
@@ -738,14 +738,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.1 TO 6, PLOT NO.135, RDP-7, CHARKOP MITASU CHS, SECTOR 6, CHARKOP, KANDIVALI(W), MUMBAI-400067",
     "CONTACT": "02228672080",
-    "DATE": "04/09/2009",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400109026",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000052": {
     "IFSC": "TJSB0000052",
@@ -755,14 +755,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SIVSADAN, HOUSE NO.681, WARD NO.6, C T S NO.4940,4943, VILLAGE AMBARNATH, SHIVAJI CHOWK, DIST: THANE",
     "CONTACT": "02228672080",
-    "DATE": "27/11/2009",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
     "MICR": "400109027",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000053": {
     "IFSC": "TJSB0000053",
@@ -772,14 +772,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.1,2 & B3, SHAKTI SHOPPING ARCHADE CHS, LBS MARG, BHANDUP(W), MUMBAI-400078",
     "CONTACT": "02225965514",
-    "DATE": "27/11/2009",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400109028",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000054": {
     "IFSC": "TJSB0000054",
@@ -789,14 +789,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "OSTWAL ORBIT, VILLAGE NAVGHAR,MIRA-BHAYANDER ROAD,MIRA ROAD (EAST)-401 107",
     "CONTACT": "02228105663",
-    "DATE": "22/01/2010",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MIRA-BHAYANDAR",
     "MICR": "400109029",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000055": {
     "IFSC": "TJSB0000055",
@@ -806,14 +806,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "1&2, LAHOTI COMPLEX, KARANJE, RADHIKA ROAD, SATARA-415001",
     "CONTACT": "02162230153",
-    "DATE": "18/12/2009",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "SATARA",
     "MICR": "415109002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000056": {
     "IFSC": "TJSB0000056",
@@ -823,14 +823,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.9, S.NO.11, A-WING, KENT EXCLUSIVE, SHIVAKAR ROAD, WANAWADI, PUNE-411 040",
     "CONTACT": "02026861262",
-    "DATE": "05/03/2010",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HADAPSAR",
     "MICR": "411109022",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000057": {
     "IFSC": "TJSB0000057",
@@ -840,14 +840,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "B-JUNCTION, BEHIND KARVE STATUE, KOTHRUD PUNE- 411039",
     "CONTACT": "02025397020",
-    "DATE": "03/09/2010",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "MICR": "411109023",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000058": {
     "IFSC": "TJSB0000058",
@@ -857,14 +857,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHREYA PALACE, SHOP NO.4 TO 7, SANTOSHI MATA MANDIR ROAD, KALYAN(W), PIN-421301",
     "CONTACT": "02512204345",
-    "DATE": "04/05/2010",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "KALYAN",
     "MICR": "400109030",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000059": {
     "IFSC": "TJSB0000059",
@@ -874,14 +874,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SAVITA NIWAS, BAZAR PETH ROAD, KULGAON, BADLAPUR(W), THANE-421503",
     "CONTACT": "02512672121",
-    "DATE": "06/07/2010",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "KALYAN",
     "MICR": "400109031",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000070": {
     "IFSC": "TJSB0000070",
@@ -891,14 +891,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "YEOLA HOUSE,RAVIVAR KARANJA NASHIK 422001.",
     "CONTACT": "02532310521",
-    "DATE": "25/03/2011",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "NASHIK",
     "MICR": "422109006",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000071": {
     "IFSC": "TJSB0000071",
@@ -908,14 +908,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AJAY MITTAL INDUSTRIAL PREMISES CO.OP. SOC. LTD., C T S NO. 1637, VILLAGE MAROL,ANDHERI-KURLA ROAD, ANDHERI(E), MUMBAI-400059",
     "CONTACT": "02228590136",
-    "DATE": "21/04/2011",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400109032",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000072": {
     "IFSC": "TJSB0000072",
@@ -925,14 +925,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.8, MAHAVIR RATAN, SECTOR NO.12, VASHI, NAVI MUMBAI-400703",
     "CONTACT": "02227889021",
-    "DATE": "10/06/2011",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "NEW BOMBAY",
     "MICR": "400109033",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000073": {
     "IFSC": "TJSB0000073",
@@ -942,14 +942,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "E/4, RUTU TOWERS, OPP. COMMISSIONER BUNGLOW, PATLIPADA, GHODBUNDER ROAD, THANE(W), PIN:400607",
     "CONTACT": "02225861497",
-    "DATE": "10/06/2011",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
     "MICR": "400109034",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000074": {
     "IFSC": "TJSB0000074",
@@ -959,14 +959,14 @@
     "STATE": "GOA",
     "ADDRESS": "SHOP NO.S1 & C1, BLOCK \"A\", CHANDRANATH APTS. CHS LTD.OPP. POLICE STN, MAPUSA, BARDEZ, GOA-403507",
     "CONTACT": "08322250520",
-    "DATE": "18/11/2011",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MAPUSA",
     "MICR": "403109002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000075": {
     "IFSC": "TJSB0000075",
@@ -976,14 +976,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.1, PARSHWANATH GALAXY, GHODBUNDER ROAD, KASAEWADAVALI,THANE, PIN-400607",
     "CONTACT": "02225977940",
-    "DATE": "18/11/2011",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
     "MICR": "400109035",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000076": {
     "IFSC": "TJSB0000076",
@@ -993,14 +993,14 @@
     "STATE": "KARNATAKA",
     "ADDRESS": "GR.FLOOR, ANANDI SHANKAR HERITAGE, KALI AMBARI, COLLEGE ROAD, BELGAUM, KARNATAKA,PIN-590001",
     "CONTACT": "08312464145",
-    "DATE": "18/11/2011",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "BELGAUM",
     "MICR": "590109002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000077": {
     "IFSC": "TJSB0000077",
@@ -1010,14 +1010,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP 5/5/28,SAI SQUARE,NEAR USMANPURA BUS STOP,STATION ROAD, KRANTI CHOWK, AURANGABAD-431 005",
     "CONTACT": "02402344347",
-    "DATE": "09/01/2012",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "AURANGABAD",
     "MICR": "431109002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000078": {
     "IFSC": "TJSB0000078",
@@ -1027,14 +1027,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "4, SAPANA BLDG. GROUND FLOOR, NEAR PORTUGEEZ CHURCH,DADAR (WEST),MUMBAI-400028",
     "CONTACT": "02224383136",
-    "DATE": "24/02/2012",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400109036",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000079": {
     "IFSC": "TJSB0000079",
@@ -1044,14 +1044,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MITKARI NIWAS, NANDI STOP, AUSA ROAD, LATUR, PIN-413531",
     "CONTACT": "0238255611",
-    "DATE": "24/02/2012",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "AUSA",
     "MICR": "413109052",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000080": {
     "IFSC": "TJSB0000080",
@@ -1061,14 +1061,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GROUND FLOOR, JADUBAN PLAZA,SHAHAPURI, KOLHAPUR CITY, KOLHAPUR, PIN-416001",
     "CONTACT": "02312531219",
-    "DATE": "24/02/2012",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLHAPUR",
     "MICR": "416109002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000081": {
     "IFSC": "TJSB0000081",
@@ -1078,14 +1078,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PLOT NO.17A, SHRI SADGURU GRUH RACHANA MARYADIT, SURVEY NO.16/5/1, SINHGAD ROAD, HINGANE KHURD, PUNE-411051",
     "CONTACT": "02024351655",
-    "DATE": "04/05/2012",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HINGNE KHURD",
     "MICR": "411109024",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000082": {
     "IFSC": "TJSB0000082",
@@ -1095,14 +1095,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHREE RADHE,MAIN(WARDHA ROAD), RAMDAS PETH, ADJACENT TO SHREEE VARDHAN COMPLEX, NAGPUR-440100",
     "CONTACT": "07122456022",
-    "DATE": "04/05/2012",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGPUR",
     "MICR": "440109002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000083": {
     "IFSC": "TJSB0000083",
@@ -1112,14 +1112,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "P-81, Rabale MIDC, Thane Belapur Road, Rabale, Navi Mumbai-400701",
     "CONTACT": "27605578",
-    "DATE": "06/11/2012",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "NEW BOMBAY",
     "MICR": "400109037",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000084": {
     "IFSC": "TJSB0000084",
@@ -1129,14 +1129,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Ellora Palace 1, Balaji Nagar, Pune Satara Road, Dhankawadi, Pune-411043",
     "CONTACT": "02024370064",
-    "DATE": "31/08/2012",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "DHANKAWADI",
     "MICR": "411109025",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000085": {
     "IFSC": "TJSB0000085",
@@ -1146,14 +1146,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.3,4,5,6 SHREE SAI KESHAVRAJ PLAZA, GROUND FLOOR, OPP. SANE GURUJI UDYAN, CHIPLUN KARAD ROAD, CHIPLUN-415605",
     "CONTACT": "02355250811",
-    "DATE": "41739",
     "MICR": "415109201",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHIPLUN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000086": {
     "IFSC": "TJSB0000086",
@@ -1163,14 +1163,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Gala No.34 B, New Mondha, Bus Stand Road, Jalna-421203",
     "CONTACT": "243022",
-    "DATE": "06/11/2012",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "JALNA",
     "MICR": "431109052",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000087": {
     "IFSC": "TJSB0000087",
@@ -1180,14 +1180,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shop No.1,2,3,4 Siddhivinayak Mandmark, Pushparaj Chowk, Miraj Road, Sangli-416416",
     "CONTACT": "2321323",
-    "DATE": "06/11/2012",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "SANGLI-MIRAJ-KUPWAD",
     "MICR": "416109151",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000088": {
     "IFSC": "TJSB0000088",
@@ -1197,14 +1197,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shop No.17 to 21,Shree Swami Prasad, Building No.33,Shelar Park,Khadakpada Chowk<Kalyan(W), Pin-421301",
     "CONTACT": "2232600",
-    "DATE": "06/11/2012",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "KALYAN",
     "MICR": "400109038",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000089": {
     "IFSC": "TJSB0000089",
@@ -1214,14 +1214,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Sinhgad Institute Building, Mhada Colony, Chandivali Gaon, Mumbai-400072",
     "CONTACT": "88577115",
-    "DATE": "06/11/2012",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400109039",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000090": {
     "IFSC": "TJSB0000090",
@@ -1231,14 +1231,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Harmony Plaza, Shop No.58, 156 to 158, Boisar Tarapur Road, Boisar Tarapur Road, Boisar-401501",
     "CONTACT": "266038",
-    "DATE": "06/11/2012",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "BOISAR",
     "MICR": "401109001",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000091": {
     "IFSC": "TJSB0000091",
@@ -1248,14 +1248,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shop No.SF4, SF5, SF8 & SF9, 1st Flr, Utsav Comm. Complex, At Kudus Naka, Opp. Talathi Office, Tal Wada, Thane.",
     "CONTACT": "220222",
-    "DATE": "06/11/2012",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "KUDUS",
     "MICR": "400109040",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000092": {
     "IFSC": "TJSB0000092",
@@ -1265,14 +1265,14 @@
     "STATE": "GOA",
     "ADDRESS": "Shop. No.29,30,31,32,33,34 & 35 , Raj Krishna Tower, Shanti Nagar, Ponda , Goa-403401.",
     "CONTACT": "2311288",
-    "DATE": "06/11/2012",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "PONDA",
     "MICR": "403109004",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000093": {
     "IFSC": "TJSB0000093",
@@ -1282,14 +1282,14 @@
     "STATE": "GOA",
     "ADDRESS": "Shop No.7 & 8 Pacheco's Lotus City Centre, Behind Police Station, Comba, Margaon, Goa-403601",
     "CONTACT": "2710179",
-    "DATE": "06/11/2012",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MARGAO",
     "MICR": "403109003",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000094": {
     "IFSC": "TJSB0000094",
@@ -1299,14 +1299,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shop No.1, Gayatri Apt., Near ABB circle, Opp..Kesri Tours & Travels, Mahatma Nagar, Nashik-422007.",
     "CONTACT": "2363833",
-    "DATE": "06/11/2012",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "NASHIK",
     "MICR": "422109007",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000095": {
     "IFSC": "TJSB0000095",
@@ -1316,14 +1316,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shop No.31,32,3 & 06, Ground Floor, Raigad Bazar Building, Dharamtar Road, Dist.Raigad, Pen-402107",
     "CONTACT": "02143254043",
-    "DATE": "06-03-2013",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "PEN",
     "MICR": "402109052",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000096": {
     "IFSC": "TJSB0000096",
@@ -1333,14 +1333,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Nazul Plot No.9, Street No.66, LRT College Road,Ratanlal Plot, Akola, Pin-444001",
     "CONTACT": "07242450736",
-    "DATE": "13-05-2013",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "AKOLA",
     "MICR": "444109002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000097": {
     "IFSC": "TJSB0000097",
@@ -1350,14 +1350,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "165, Ground Floor, Ganesh Chambers, Railway Lines, Sat Rasta, Solapur-413001",
     "CONTACT": "02172315631",
-    "DATE": "13-05-2013",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "SOLAPUR",
     "MICR": "413109002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000098": {
     "IFSC": "TJSB0000098",
@@ -1367,14 +1367,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "G-1/A, ITC Building, Majura Gate Crossing, Ring Road, Surat-395002",
     "CONTACT": "02612460172",
-    "DATE": "13-05-2013",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
     "MICR": "395109002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000099": {
     "IFSC": "TJSB0000099",
@@ -1384,14 +1384,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "Ground Floor, Riya plex, 80 Urmi Society, BPC Road, Vadodara-390007",
     "CONTACT": "02652353502",
-    "DATE": "13-05-2013",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "VADODARA",
     "MICR": "390109002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000100": {
     "IFSC": "TJSB0000100",
@@ -1401,14 +1401,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "Shop No.4 & 5, Ground Floor, Opp. Bank of Baroda, Near Central Mall, Ahemdabad-380015",
     "CONTACT": "07926467120",
-    "DATE": "13-05-2013",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
     "MICR": "380109002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000101": {
     "IFSC": "TJSB0000101",
@@ -1418,14 +1418,14 @@
     "STATE": "KARNATAKA",
     "ADDRESS": "ALOKA MANSION NO.19, 3RD BLOCK, 10th B MAIN ROAD, JAYANAGAR, BENGLURU-560011",
     "CONTACT": "08022450017",
-    "DATE": "41739",
     "MICR": "560109002",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000103": {
     "IFSC": "TJSB0000103",
@@ -1435,14 +1435,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.2,3,4 & 5, RATNA UMED RESIDENCY, PIPELINE ROAD, LOUISWADI, THANE(WEST)-400604",
     "CONTACT": "02225825616",
-    "DATE": "16/08/2013",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
     "MICR": "400109041",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000104": {
     "IFSC": "TJSB0000104",
@@ -1452,14 +1452,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "F/1, JAI SHRUTI APTS., M.G.ROAD, NEAR SBI, DOMBIVLI WEST, DIST-THANE, PIN-421202",
     "CONTACT": "02512480840",
-    "DATE": "13/02/2014",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "DOMBIVLI",
     "MICR": "400109042",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000105": {
     "IFSC": "TJSB0000105",
@@ -1469,14 +1469,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO. 4&5, LAXMI COMPLEX, GANGA ROAD, SHAHAPUR, DIST-THANE, PIN-421601",
     "CONTACT": null,
-    "DATE": "13/02/2014",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "SHAHAPUR",
     "MICR": "400109043",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000106": {
     "IFSC": "TJSB0000106",
@@ -1486,14 +1486,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.1-4, SAI AMBIKA, OPP. L T ROAD EXTENSION, HANUMAN CHOWK, MULUND EAST, MUMBAI-400081",
     "CONTACT": "02221636167",
-    "DATE": "13/02/2014",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400109044",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000107": {
     "IFSC": "TJSB0000107",
@@ -1503,14 +1503,14 @@
     "STATE": "GOA",
     "ADDRESS": "001, Ground Floor, Nova Goa Building, Dr.Atmaram Borkar Road, Panaji, Goa-403001",
     "CONTACT": "08322426822",
-    "DATE": "01/04/2014",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "PANAJI",
     "MICR": "403109005",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000108": {
     "IFSC": "TJSB0000108",
@@ -1520,14 +1520,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Ground Floor, Anand Mahal, Block No.C-32-119, Ulhasnagar 3, DistThane- 421003",
     "CONTACT": "02512712286",
-    "DATE": "01/04/2014",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "ULHASNAGAR",
     "MICR": "400109045",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000109": {
     "IFSC": "TJSB0000109",
@@ -1537,14 +1537,14 @@
     "STATE": "KARNATAKA",
     "ADDRESS": "Ground Floor, Tirumala Trade Centre, Neeligin Road, Traffic  Island, Hubli- 580029",
     "CONTACT": "08362351901",
-    "DATE": "17/04/2014",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HUBLI-DHARWAD",
     "MICR": "580109002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000110": {
     "IFSC": "TJSB0000110",
@@ -1554,14 +1554,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "29,1 KRISHNAI COMPLEX, SAHAWAS CORNER, KARVE NAGAR, PUNE 411052",
     "CONTACT": "02025440088",
-    "DATE": "28/05/2014",
     "MICR": "411109026",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000111": {
     "IFSC": "TJSB0000111",
@@ -1571,14 +1571,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "Shop No. 4,5,6, Business Bay, Royal Park, Street No.6, Kalawad Road, Rajkot, Gujarat 360001",
     "CONTACT": "02812585611",
-    "DATE": "23/04/2014",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "RAJKOT",
     "MICR": "360109002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000112": {
     "IFSC": "TJSB0000112",
@@ -1588,14 +1588,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "SHOP NO.4,SHRI RAGHUNANDAN TEXTILE MARKET,RING ROAD,SURAT,GUJRAT 395002",
     "CONTACT": "00",
-    "DATE": "41739",
     "MICR": "395109003",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000113": {
     "IFSC": "TJSB0000113",
@@ -1605,14 +1605,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.186 1, GROUND FLOOR, SAI MIDAS TOUCH, NAGAR MANMAD ROAD, SAVEDI, AHMEDNAGAR 414003",
     "CONTACT": "02412422100",
-    "DATE": "11/07/2014",
     "MICR": "414109002",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMADNAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000114": {
     "IFSC": "TJSB0000114",
@@ -1622,14 +1622,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "G 8,9,10,11 SANMAN PRESTIGE,STATION ROAD,NEAR ZILLA PARISHAD OFFICE, NANDED 431601",
     "CONTACT": "02462233122",
-    "DATE": "11/07/2014",
     "MICR": "431109101",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "NANDED",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000115": {
     "IFSC": "TJSB0000115",
@@ -1639,14 +1639,14 @@
     "STATE": "KARNATAKA",
     "ADDRESS": "PROPERTY NO.6,1ST MAIN,1ST BLOCK,WARD NO.14, RAJAJI NAGAR,DR.RAJKUMAR ROAD, BANGALORE EAST 560010",
     "CONTACT": "08023121755",
-    "DATE": "11/07/2014",
     "MICR": "560109003",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000116": {
     "IFSC": "TJSB0000116",
@@ -1656,14 +1656,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.2B, PLOT NO.23, GROUND FLOOR, YASH HEIGHTS,PARIJAT NAGAR,N4 CIDCO,AURANGABAD 431005",
     "CONTACT": "02402451954",
-    "DATE": "11/07/2014",
     "MICR": "431109003",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "AURANGABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000117": {
     "IFSC": "TJSB0000117",
@@ -1673,14 +1673,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "ZADE BHAVAN, BHAIYYAJI ZADE MARG,CHHAPRU NAGAR SQUARE, CENTRAL AVENUE ROAD, NAGPUR 440008",
     "CONTACT": "07122775057",
-    "DATE": "11/07/2014",
     "MICR": "440109003",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000118": {
     "IFSC": "TJSB0000118",
@@ -1690,14 +1690,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "10,11,12 GR FLOOR, THE GRAND MONARCH COMPLEX, PRAHLADNAGAR ROAD, SATELLITE, AHMEDABAD 380015",
     "CONTACT": "07926765290",
-    "DATE": "11/07/2014",
     "MICR": "380109003",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000119": {
     "IFSC": "TJSB0000119",
@@ -1707,14 +1707,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AMI RANG 11 111 , OPPOSITE JAIN MANDIR, MAIN ROAD, ICHALKARANJI 416115",
     "CONTACT": "02312439596",
-    "DATE": "18/07/2014",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "ICHALKARNJI",
     "MICR": "416109201",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000120": {
     "IFSC": "TJSB0000120",
@@ -1724,14 +1724,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GROUND FLOOR, KRISHNARPAN SANKUL, OPP.DASARA MAIDAN, BADNERA ROAD, AMRAVATI-444605.",
     "CONTACT": "00",
-    "DATE": "15/04/2015",
     "MICR": "444109101",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "AMRAVATI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000121": {
     "IFSC": "TJSB0000121",
@@ -1741,14 +1741,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.11,12, OFFICE NO.13, BUILDING NO.9 K27, HIGHLAND PARK, DHOKALI, THANE WEST PIN 400607",
     "CONTACT": "02225382100",
-    "DATE": "14/08/2014",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
     "MICR": "400109046",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000122": {
     "IFSC": "TJSB0000122",
@@ -1758,14 +1758,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GROUND FLOOR, NUCLEUS MALL, CITY SURVEY NO.239/A-1, TARABAI PARK, KOLHAPUR-416003",
     "CONTACT": "02312527444",
-    "DATE": "31/10/2014",
     "MICR": "416109003",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLHAPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000124": {
     "IFSC": "TJSB0000124",
@@ -1775,14 +1775,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PREMISES NO.42, 'E' WING, BUILDING NO.2, VEER SAVARKAR MARG, VIKHROLI WEST, MUMBAI-400079",
     "CONTACT": "25188588",
-    "DATE": "05-03-2015",
     "MICR": "400109048",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000125": {
     "IFSC": "TJSB0000125",
@@ -1792,14 +1792,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SADGURU HEIGHT-I, SHOP NO.1, CTS NO.2488,2488/1 TO 14.2490.2491 & 2492(B), SHIV VALLABH ROAD, DAHISAR-EAST, MUMBAI-400068",
     "CONTACT": "28965997",
-    "DATE": "05-03-2015",
     "MICR": "400109047",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000126": {
     "IFSC": "TJSB0000126",
@@ -1809,14 +1809,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SATHE CHAMBERS, GROUND & MAZZANINE FLOOR SHOWROOM, SATHE & CO. PVT. LTD., 678 SHUKRAWAR PETH, SHIVAJI ROAD, PUNE- 411002",
     "CONTACT": "02023331677",
-    "DATE": "15/04/2015",
     "MICR": "411109027",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000127": {
     "IFSC": "TJSB0000127",
@@ -1826,14 +1826,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "4,5,6 GROUND FLOOR, KISHAN ATRIA, NEAR TULSIDHAM CHAR RASTA, MANJALPUR, VADODARA, GUJARAT-390011",
     "CONTACT": "02652634700",
-    "DATE": "15/04/2015",
     "MICR": "390109003",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "VADODARA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000128": {
     "IFSC": "TJSB0000128",
@@ -1843,14 +1843,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.6 & 7, REGENCY SARVAM, GUPTA ESTATE, NEAR TITWALA STATION, GANPATI MANDIR ROAD, TITWALA(EAST)-421605",
     "CONTACT": "00",
-    "DATE": "15/04/2015",
     "MICR": "400109050",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000129": {
     "IFSC": "TJSB0000129",
@@ -1860,14 +1860,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.6-9, VIRANI BUSINESS CENTRE, OPP. BHARAT GEARS LTD., KAUSA MUMBRA, DIST. THANE-400612",
     "CONTACT": "00",
-    "DATE": "15/04/2015",
     "MICR": "400109049",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000130": {
     "IFSC": "TJSB0000130",
@@ -1877,14 +1877,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.9,10,11,12 & 13, SAWANT PLAZA, DATTA CHOWK,BELAVALI, BADLAPUR(WEST)-421503",
     "CONTACT": "00",
-    "DATE": "15/04/2015",
     "MICR": "400109051",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000131": {
     "IFSC": "TJSB0000131",
@@ -1894,14 +1894,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "HARI SADAN, SHOP NO.1 TO 6, DHARAMSI PARK, KOPARCHI ROAD, VAPI, GUJRAT-396195",
     "CONTACT": "00",
-    "DATE": "2015-05-14",
     "MICR": "396109031",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "VAPI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000132": {
     "IFSC": "TJSB0000132",
@@ -1911,14 +1911,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.12, MANIKRAO KOKATE DESTINATION NO.1, NEAR SINNAR BUS STAND, SINNAR, NASHIK-422103",
     "CONTACT": "00",
-    "DATE": "2015-05-14",
     "MICR": "422109008",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "SINNAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000133": {
     "IFSC": "TJSB0000133",
@@ -1928,14 +1928,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO. 13 AND 14, GROUND FLOOR, NIKHIL HERITAGE, ACHOLE ROAD, NALASOPARA(EAST), DIST PALGHAR-401209",
     "CONTACT": "00",
-    "DATE": "2016-03-04",
     "MICR": "400109052",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "NALLASOPARA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000134": {
     "IFSC": "TJSB0000134",
@@ -1945,14 +1945,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.04, GROUND FLOOR, KINGSTON COURT, 100 FT. ROAD, VIRAR(WEST), DIST-PALGHAR 401303",
     "CONTACT": "00",
-    "DATE": "2016-03-04",
     "MICR": "400109053",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "VIRAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000135": {
     "IFSC": "TJSB0000135",
@@ -1962,14 +1962,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PUSHPAKUNJ, DEVISAHAY ROAD, PALGHAR(WEST), DIST-PALGHAR 401404.",
     "CONTACT": "00",
-    "DATE": "2016-03-04",
     "MICR": "400109054",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "PALGHAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000136": {
     "IFSC": "TJSB0000136",
@@ -1979,14 +1979,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "GROUND FLOOR, IMPERIAL PLAZA, SARALA ROAD, OPP. SARDAR BAUG, MORBI, GUJARAT-363641",
     "CONTACT": "00",
-    "DATE": "2016-03-04",
     "MICR": "363109021",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MORBI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000137": {
     "IFSC": "TJSB0000137",
@@ -1996,14 +1996,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GROUND FLOOR, VIVEKANAND SANKUL, PLOT NO.6, SECTOR 4, SANPADA, NAVI MUMBAI-400705.",
     "CONTACT": "00",
-    "DATE": "2016-03-04",
     "MICR": "400109055",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "NAVI MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000138": {
     "IFSC": "TJSB0000138",
@@ -2013,14 +2013,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "CTS NO.967/2, F.P.NO.397/2, SHOWROOM NO.5, SUNIT CAPITAL, KANCHANBAN B, SENAPATI BAPAT ROAD, PUNE 411016.",
     "CONTACT": "00",
-    "DATE": "2016-06-15",
     "MICR": "411109028",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000139": {
     "IFSC": "TJSB0000139",
@@ -2030,14 +2030,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GROUND & MEZZANINE FLOOR, OFFICE NO.1,2 AND 3, PATIL PLAZA, D.Y.PATIL COLLEGE ROAD, DR.AMBEDKAR CHOWK, RAVET, PUNE-412101",
     "CONTACT": "00",
-    "DATE": "2016-08-16",
     "MICR": "411109029",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000140": {
     "IFSC": "TJSB0000140",
@@ -2047,14 +2047,14 @@
     "STATE": "GOA",
     "ADDRESS": "GROUND FLOOR, JOSHI BUILDING, F.L.GOMES ROAD, VASCO-DA-GAMA, GOA-403802",
     "CONTACT": "00",
-    "DATE": "2016-05-30",
     "MICR": "403109006",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "VASCO-DA-GAMA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000141": {
     "IFSC": "TJSB0000141",
@@ -2064,14 +2064,14 @@
     "STATE": "KARNATAKA",
     "ADDRESS": "EFFIE BUILDING, H-52, 523/1, PIKLE ROAD, KARWAR, KARNATAKA-581301",
     "CONTACT": "00",
-    "DATE": "2016-05-30",
     "MICR": "581109202",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "KARWAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000143": {
     "IFSC": "TJSB0000143",
@@ -2081,14 +2081,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GROUND FLOOR, SHOP NO.19,20 & 21, BHAGWATI HERITAGE, SECTOR 21, KAMOTHE, NAVI MUMBAI-410209.",
     "CONTACT": "00",
-    "DATE": "2016-08-16",
     "MICR": "400109057",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "NAVI MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000144": {
     "IFSC": "TJSB0000144",
@@ -2098,14 +2098,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GROUND FLOOR, GALA NO.2,2A & 1, OM SAI RESIDENCY, PURNA NAKA, BHIWANDI, THANE-421302",
     "CONTACT": "00",
-    "DATE": "2016-08-16",
     "MICR": "400109058",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "BHIWANDI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000145": {
     "IFSC": "TJSB0000145",
@@ -2115,14 +2115,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GROUND FLOOR, SHOP NO.02, KESHAV HEIGHT, 90 FT. ROAD, KHAREGAON, KALWA(WEST), THANE-400605",
     "CONTACT": "00",
-    "DATE": "2016-08-16",
     "MICR": "400109059",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000146": {
     "IFSC": "TJSB0000146",
@@ -2132,14 +2132,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "GROUND FLOOR, PLOT NO.02, SECTOR-9, BHAGWATI ARCADE, GANDHIDHAM, GUJARAT-370201",
     "CONTACT": "00",
-    "DATE": "2016-08-16",
     "MICR": "370109001",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "GANDHIDHAM",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000147": {
     "IFSC": "TJSB0000147",
@@ -2149,14 +2149,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GROUND FLOOR, A WING, PARMESHWARI PARADISE CHS LTD. MAJIWADA, THANE(WEST)-400601",
     "CONTACT": "00",
-    "DATE": "2016-11-28",
     "MICR": "400109061",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000148": {
     "IFSC": "TJSB0000148",
@@ -2166,14 +2166,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.1 TO 4, DNYANESHWAR BHAVAN, M.G.ROAD, NASHIK ROAD, NASHIK-422101",
     "CONTACT": "00",
-    "DATE": "2016-11-28",
     "MICR": "422109009",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "NASHIK",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000149": {
     "IFSC": "TJSB0000149",
@@ -2183,14 +2183,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.2 &3, PARAS BUSINESS CENTRE, BORIVALI(EAST), MUMBAI-400066",
     "CONTACT": "00",
-    "DATE": "2016-11-28",
     "MICR": "400109060",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000150": {
     "IFSC": "TJSB0000150",
@@ -2200,14 +2200,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "UNIT NO.G/5-B, MANGALDEEP COMPLEX, HIRABAUG CIRCLE, VARACHHA MAIN ROAD, SURAT-395006",
     "CONTACT": "00",
-    "DATE": "2016-12-26",
     "MICR": "395109004",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000151": {
     "IFSC": "TJSB0000151",
@@ -2217,14 +2217,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.2, GROUND FLOOR, KATE CENTRAL, SURVEY NO.48/1/1 & 48/2/1, KATE PURAM CHOWK, PIMPLE GURAV, PUNE-411061",
     "CONTACT": "00",
-    "DATE": "2017-07-11",
     "MICR": "411109030",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "PIMPRI CHINCHWAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000152": {
     "IFSC": "TJSB0000152",
@@ -2234,14 +2234,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PLOT NO.17, MIDC, COMMERCIAL PLOT, MURBAD, DIST. THANE, PIN-421401",
     "CONTACT": "00",
-    "DATE": "2017-09-21",
     "MICR": "400109062",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MURBAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000153": {
     "IFSC": "TJSB0000153",
@@ -2251,14 +2251,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PLOT NO. 370/2, 234/38 BHATTAD COMPLEX, DATTA CHOWK, SHANIWAR PETH, KARAD, DIST-SATARA 415110",
     "CONTACT": "00",
-    "DATE": "2017-08-31",
     "MICR": "415109352",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "KARAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000154": {
     "IFSC": "TJSB0000154",
@@ -2268,14 +2268,14 @@
     "STATE": "KARNATAKA",
     "ADDRESS": "131, SRIKRUPA, 10TH CROSS, CMH ROAD, ST STAGE, INDIRA NAGAR, BENGALURU-560038",
     "CONTACT": "00",
-    "DATE": "2017-08-16",
     "MICR": "560109004",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE URBAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000155": {
     "IFSC": "TJSB0000155",
@@ -2285,14 +2285,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GROUND FLOOR, PEOPLE EDUCATION SOCIETY BUILDING, RAM MARUTI ROAD, NAUPADA, THANE(WEST)-400602",
     "CONTACT": "00",
-    "DATE": "2017-08-16",
     "MICR": "400109056",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000156": {
     "IFSC": "TJSB0000156",
@@ -2302,14 +2302,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "DHARSHAN MALL, UG5 & UG6, PLOT NO.15/2, RACE COURSE ROAD, INDORE-452001",
     "CONTACT": "00",
-    "DATE": "2017-08-24",
     "MICR": "452109001",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "INDORE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000157": {
     "IFSC": "TJSB0000157",
@@ -2319,14 +2319,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PLOT NO.60, SURVEY NO.49/C,GROUND FLOOR, NEHRU CHOWK, MAIN LINE, YAVATMAL-445001",
     "CONTACT": "00",
-    "DATE": "2017-11-13",
     "MICR": "445109002",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "YAVATMAL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TJSB0000158": {
     "IFSC": "TJSB0000158",
@@ -2336,13 +2336,13 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PLOT NO.D-7/1, ROAD NO.33, WAGLE INDUSTRIAL ESTATE, THANE-400604",
     "CONTACT": "00",
-    "DATE": "2017-09-29",
     "MICR": "400109063",
     "BANK": "TJSB SAHAKARI BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

@@ -11,10 +11,10 @@
     "IMPS": true,
     "CITY": "MAHESANA",
     "UPI": true,
-    "DATE": "11/12/2009",
     "RTGS": true,
     "MICR": "384313001",
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "MSNU0000002": {
     "IFSC": "MSNU0000002",
@@ -24,14 +24,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "STATION ROAD, AMBALIASAN - 382732",
     "CONTACT": "02762283349",
-    "DATE": "05/03/2010",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "AMBALIASAN",
     "MICR": "382313501",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000003": {
     "IFSC": "MSNU0000003",
@@ -41,14 +41,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "C.M.SUPAR MARKET, HINGALA CHACHAR, PATAN - 384265",
     "CONTACT": "02766221083",
-    "DATE": "05/02/2010",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "PATAN",
     "MICR": "384313081",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000004": {
     "IFSC": "MSNU0000004",
@@ -58,14 +58,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "NR KHADI GRAM UDHYOG, RAJMAHEL ROAD, MEHSANA - 384001",
     "CONTACT": "02762252209",
-    "DATE": "11/02/2010",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MAHESANA",
     "MICR": "384313003",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000005": {
     "IFSC": "MSNU0000005",
@@ -75,14 +75,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "VARTALI COMPLEX, SMRUTI KUNG SOCIETY, SWASTIK CROSS ROAD, NAVARANG PURA, AHMEDABAD - 380009",
     "CONTACT": "07926560716",
-    "DATE": "05/03/2010",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
     "MICR": "380313002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000006": {
     "IFSC": "MSNU0000006",
@@ -92,14 +92,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "GUNJ BAZAR, VISNAGAR - 384315",
     "CONTACT": "02765222820",
-    "DATE": "11/02/2010",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "VISNAGAR",
     "MICR": "384313121",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000007": {
     "IFSC": "MSNU0000007",
@@ -109,14 +109,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "OLD POST OFFICE, BHULAPURA, CHANSMA - 384220",
     "CONTACT": "02734222797",
-    "DATE": "11/02/2010",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHANASMA",
     "MICR": "384313501",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000008": {
     "IFSC": "MSNU0000008",
@@ -126,14 +126,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "VIJAY OIL MILL COMPOUND, STATION ROAD, UNJHA - 384170",
     "CONTACT": "02767250530",
-    "DATE": "11/02/2010",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "UNJHA",
     "MICR": "384313051",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000009": {
     "IFSC": "MSNU0000009",
@@ -143,14 +143,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "DR AK PATEL SHOPPING CENTRE, VIJAPUR - 382870",
     "CONTACT": "02763223065",
-    "DATE": "11/02/2010",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "VIJAPUR",
     "MICR": "382313041",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000010": {
     "IFSC": "MSNU0000010",
@@ -160,14 +160,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "BHAUPURA, KADI - 382815",
     "CONTACT": "02764264274",
-    "DATE": "11/02/2010",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "KADI",
     "MICR": "380313006",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000011": {
     "IFSC": "MSNU0000011",
@@ -177,14 +177,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "BHAGWATI CHAMBERS, MANSA - 382815",
     "CONTACT": "02763273371",
-    "DATE": "05/02/2010",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MANSA",
     "MICR": "382313141",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000012": {
     "IFSC": "MSNU0000012",
@@ -194,14 +194,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "SHIVAM SHOPPING CENTRE, VEPARI JIN, KALOL - 382721",
     "CONTACT": "02764226270",
-    "DATE": "05/02/2010",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "KALOL",
     "MICR": "380313004",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000013": {
     "IFSC": "MSNU0000013",
@@ -211,14 +211,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "SOMABHAI CHAMBERS, NR G.P.O, HIMMATNAGAR - 383001",
     "CONTACT": "02772243442",
-    "DATE": "11/02/2010",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HIMATNAGAR",
     "MICR": "383313001",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000014": {
     "IFSC": "MSNU0000014",
@@ -228,14 +228,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "ARTI SHOPPING CENTRE, KACHERI ROAD, DEESA - 385535",
     "CONTACT": "02744225664",
-    "DATE": "11/02/2010",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "DEESA",
     "MICR": "385313031",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000015": {
     "IFSC": "MSNU0000015",
@@ -245,14 +245,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "BAZAR, KHERALU - 384325",
     "CONTACT": "02761230469",
-    "DATE": "11/02/2010",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "KHERALU",
     "MICR": "384313502",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000016": {
     "IFSC": "MSNU0000016",
@@ -262,14 +262,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "OPP IBP PETROL PUMP, RADHANPUR ROAD, MEHSANA - 384002",
     "CONTACT": "02762245213",
-    "DATE": "11/02/2010",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MAHESANA",
     "MICR": "384313002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000017": {
     "IFSC": "MSNU0000017",
@@ -279,14 +279,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "PUJA CHAMBERS,GIRDHAR PATEL MARG, PALANPUR-385001",
     "CONTACT": "02742251752",
-    "DATE": "11/02/2010",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "PALANPUR",
     "MICR": "385313001",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000018": {
     "IFSC": "MSNU0000018",
@@ -296,14 +296,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "JYOTI MARKET, NEAR S.T. STAND, IDAR - 383430",
     "CONTACT": "02778254210",
-    "DATE": "11/02/2010",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "IDAR",
     "MICR": "383313031",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000019": {
     "IFSC": "MSNU0000019",
@@ -313,14 +313,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "BHUYANGDEV SOCIETY, BHUYANGDEV CHAR RASTA, AHMEDABAD - 380013",
     "CONTACT": "07927473693",
-    "DATE": "05/03/2010",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
     "MICR": "380313003",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000020": {
     "IFSC": "MSNU0000020",
@@ -330,14 +330,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "MANUBHAI TOWER, B-BLOCK, FIRST FLOOR, SAYAJI GUNJ, BARODA - 390001",
     "CONTACT": "02652363814",
-    "DATE": "05/02/2010",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "VADODARA",
     "MICR": "390313002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000021": {
     "IFSC": "MSNU0000021",
@@ -347,14 +347,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "GROUND FLOOR, CITY CENTRE, NR SOSYO CIRCLE, UDHANA MAGDALLA ROAD, SURAT - 395002",
     "CONTACT": "02612631611",
-    "DATE": "05/02/2010",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
     "MICR": "395313002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000022": {
     "IFSC": "MSNU0000022",
@@ -364,14 +364,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "MOTA PARKOTA, RAMJI MANDIR, VIRAMGAM - 382150",
     "CONTACT": "02715234645",
-    "DATE": "11/02/2010",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "VIRAMGAM",
     "MICR": "380313007",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000023": {
     "IFSC": "MSNU0000023",
@@ -381,14 +381,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "72, GUNJ BAZAR, SIDDHPUR - 384151",
     "CONTACT": "02767224738",
-    "DATE": "11/02/2010",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "SIDHPUR",
     "MICR": "384313101",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000024": {
     "IFSC": "MSNU0000024",
@@ -398,14 +398,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "SDX SOUTH - 80, WARD 12A, ZANDA CHOCK, GANDHIGHAM - 370205",
     "CONTACT": "02836226459",
-    "DATE": "11/02/2010",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "GANDHIDHAM",
     "MICR": "370313001",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000025": {
     "IFSC": "MSNU0000025",
@@ -415,14 +415,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "NR KAILASH COLONY, CTM CROSS ROAD, AHMEDABAD - 380026",
     "CONTACT": "07925850753",
-    "DATE": "05/03/2010",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
     "MICR": "380313005",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000026": {
     "IFSC": "MSNU0000026",
@@ -432,14 +432,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "GANPAT UNIVERSITY KHERVA, DIST:MEHSANA-384012",
     "CONTACT": "286009",
-    "DATE": "06/11/2012",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "KHERWA",
     "MICR": "384313503",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000027": {
     "IFSC": "MSNU0000027",
@@ -449,14 +449,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "D1 LALBAUG, NEAR STATE BANK OF INDIA, RADHANPUR",
     "CONTACT": "275231",
-    "DATE": "11-01-2013",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "RADHANPUR",
     "MICR": "385313121",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000028": {
     "IFSC": "MSNU0000028",
@@ -466,14 +466,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "GROUND FLOOR, SHRI PATAN MODH - GANCHI GANTI SAMAJ BUILDING, BECHARAJI",
     "CONTACT": "289022",
-    "DATE": "18-01-2013",
     "MICR": "384313504",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "BECHRAJI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000029": {
     "IFSC": "MSNU0000029",
@@ -483,14 +483,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "OPP. ALANKAR SOCIETY, SHAMALAJI ROAD, MODASA, DIST. SABARKANTHA, GUJARAT , PIN 383315.",
     "CONTACT": "242889",
-    "DATE": "18-03-2013",
     "MICR": "384313504",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MODASA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000030": {
     "IFSC": "MSNU0000030",
@@ -500,14 +500,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "SHOP NO 6, NILKANTH TOWER, GROUND FLOOR, NR ADANI WILMAR, ADANI PORT ROAD, MUNDRA",
     "CONTACT": "223907",
-    "DATE": "18-04-2013",
     "MICR": "370313121",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUNDRA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000031": {
     "IFSC": "MSNU0000031",
@@ -517,14 +517,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "BEHIND RAJHANS POINT, GITANJALI TOKIZ, VARACHA ROAD, SURAT 395 006",
     "CONTACT": "2554001",
-    "DATE": "02/07/2013",
     "MICR": "395313003",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000032": {
     "IFSC": "MSNU0000032",
@@ -534,14 +534,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "SHASTRI BHAVAN, KOTSAFIL MAIN ROAD, SURAT",
     "CONTACT": "2402853",
-    "DATE": "02/07/2013",
     "MICR": "395313004",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000033": {
     "IFSC": "MSNU0000033",
@@ -551,14 +551,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "JAS MARKET, RING ROAD, SURAT",
     "CONTACT": "2347020",
-    "DATE": "02/07/2013",
     "MICR": "395313005",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000034": {
     "IFSC": "MSNU0000034",
@@ -568,14 +568,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "KRISHNA COMPLEX, BHATAR ROAD, SURAT",
     "CONTACT": "2236419",
-    "DATE": "02/07/2013",
     "MICR": "395313006",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000035": {
     "IFSC": "MSNU0000035",
@@ -585,14 +585,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "DHANKUVAR PALACE, 54, RAVINDRA PARK SOCIETY, ADAJAN ROAD, SURAT",
     "CONTACT": "2781696",
-    "DATE": "02/07/2013",
     "MICR": "395313007",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000036": {
     "IFSC": "MSNU0000036",
@@ -602,14 +602,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "B 37,NARAYNKRUPA SOCIETY,NEW C.G.ROAD,CHANDKHEDA 382424",
     "CONTACT": "232964",
-    "DATE": "15/05/2014",
     "MICR": "380313008",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000037": {
     "IFSC": "MSNU0000037",
@@ -619,14 +619,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "GROUND FLOOR,SILVER OZON,MODHERA ROAD,MEHSANA 384002",
     "CONTACT": null,
-    "DATE": "15/05/2014",
     "MICR": "384313004",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MAHESANA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000038": {
     "IFSC": "MSNU0000038",
@@ -636,14 +636,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "KALAWAD ROAD,150 FT RING ROAD,RAJKOT",
     "CONTACT": "2588035",
-    "DATE": "15/05/2014",
     "MICR": "360313002",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "RAJKOT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000039": {
     "IFSC": "MSNU0000039",
@@ -653,14 +653,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "PLOT NO C BY 3 BY 12 BY 1 2 FIRST FLOOR,OLD NATIONAL HIGHWAY NO 8,GIDC ANKLESHWAR 393002",
     "CONTACT": null,
-    "DATE": "15/05/2014",
     "MICR": "393313051",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "ANKLESHWAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000040": {
     "IFSC": "MSNU0000040",
@@ -670,14 +670,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "4 5 6 7 GROULD FLOOR,GIRNAR KHUSHBU PLAZA,NR GUNJAN CHAR RASTA VAPI 396195",
     "CONTACT": null,
-    "DATE": "15/05/2014",
     "MICR": "396313031",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "VAPI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000041": {
     "BANK": "THE MEHSANA URBAN COOPERATIVE BANK",
@@ -693,7 +693,8 @@
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000042": {
     "BANK": "THE MEHSANA URBAN COOPERATIVE BANK",
@@ -709,7 +710,8 @@
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000043": {
     "IFSC": "MSNU0000043",
@@ -719,14 +721,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "FIRST FLOOR, YASH COMPLEX, SIDDHPUR CHAR RASTA, PATAN",
     "CONTACT": "02766226688",
-    "DATE": "19/12/2014",
     "MICR": "384313082",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "PATAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000044": {
     "IFSC": "MSNU0000044",
@@ -736,14 +738,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "SHOP NO 1 AND 2, GROUND FLOOR, PARISHRAM ELIGANT, SCIENCE CITY ROAD, S.G. HIGHWAY, AHMEDABAD, 380060",
     "CONTACT": "00",
-    "DATE": "2015-12-03",
     "MICR": "380313010",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000045": {
     "IFSC": "MSNU0000045",
@@ -753,14 +755,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "26,27 GAURAV MALL, NEAR MANAV ASHRAM CIRCLE, VISNAGAR ROAD, MEHSANA",
     "CONTACT": "00",
-    "DATE": "2015-12-14",
     "MICR": "384313006",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MEHSANA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000046": {
     "IFSC": "MSNU0000046",
@@ -770,14 +772,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "PLOT NO 512/2, GROUND FLOOR, NR PAGRAV HOSPITAL, OPP. AARADHANA SCHOOL, SECTOR 23",
     "CONTACT": "07923210379",
-    "DATE": "2016-02-10",
     "MICR": "380313011",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "GANDHINAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000047": {
     "IFSC": "MSNU0000047",
@@ -787,14 +789,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "GROUND FLOOR AARYA ARCADE, NR AXIS BANK, ANAND NAGAR PARTY PLOT ROAD, NEW RANIP",
     "CONTACT": "00",
-    "DATE": "2016-05-20",
     "MICR": "380313012",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000048": {
     "IFSC": "MSNU0000048",
@@ -804,14 +806,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "CORPORATE BUILDING, HIGHWAY",
     "CONTACT": "02762257233",
-    "DATE": "2016-05-20",
     "MICR": "384313005",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MEHSANA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000049": {
     "IFSC": "MSNU0000049",
@@ -821,14 +823,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GROUND FLOOR, MAHEK PLAZA, OFF CHANDAVARKAR ROAD, MAHARASHTRA NAGAR, BORIVALI (W), MUMBAI",
     "CONTACT": "02228946010",
-    "DATE": "2016-07-26",
     "MICR": "400313002",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000050": {
     "IFSC": "MSNU0000050",
@@ -838,14 +840,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "SHOP NO 43 TO 48, 1ST FLOOR, JALARAM COMPLEX, NEAR SARDAR PATEL CIRCLE",
     "CONTACT": "00",
-    "DATE": "2017-01-23",
     "MICR": "382313161",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "GOZARIYA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000051": {
     "IFSC": "MSNU0000051",
@@ -855,14 +857,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "45 AMRAPALI AXIOM, BOPAL CROSS ROAD, SP RING ROAD, NEAR SANKALP RESTAURANT, AMBALI",
     "CONTACT": "00",
-    "DATE": "2017-01-23",
     "MICR": "380313013",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000052": {
     "IFSC": "MSNU0000052",
@@ -872,14 +874,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "7/3091, GROUND FLOOR, OPP HARSH PETROL PUMP, NEAR SARDAR BUAG, SANADA ROAD",
     "CONTACT": "00",
-    "DATE": "2017-01-23",
     "MICR": "363313021",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MORBI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000053": {
     "IFSC": "MSNU0000053",
@@ -889,14 +891,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "MAURYA ATRIYA COMPLEX, OPP. KALGI APARTMENT, NEAR JUDGES BUNGLOWS, BODAKDEV (SATELLITE)",
     "CONTACT": "07926870563",
-    "DATE": "2017-10-12",
     "MICR": "380313014",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000054": {
     "IFSC": "MSNU0000054",
@@ -906,14 +908,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SURYADARSHAN, 3RD KASTURABA ROAD, BORVALI EAST, MUMBAI - 400066",
     "CONTACT": "02228651787",
-    "DATE": "2019-05-13",
     "MICR": "400313003",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000055": {
     "IFSC": "MSNU0000055",
@@ -923,14 +925,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "ANAND KUNJ, PUSHPA PARK, MALAD EAST, MUMBAI - 400097",
     "CONTACT": "02228834867",
-    "DATE": "2019-05-13",
     "MICR": "400313004",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000056": {
     "IFSC": "MSNU0000056",
@@ -940,14 +942,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHREE DATTA DHAM, M.G. CHOWK, DOMBIVALI WEST, THANE - 421002",
     "CONTACT": "02512499014",
-    "DATE": "2019-05-13",
     "MICR": "400313005",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "DOMBIVALI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000057": {
     "IFSC": "MSNU0000057",
@@ -957,14 +959,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SAI KRUPA, NEAR GOKULANAND HOTEL, DAHISAR EAST, MUMBAI - 400068",
     "CONTACT": "02228284992",
-    "DATE": "2019-05-13",
     "MICR": "400313006",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MSNU0000058": {
     "IFSC": "MSNU0000058",
@@ -974,13 +976,13 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "OM AKANSHA, RAMBUAG - 4, KALYAN WEST - 421301",
     "CONTACT": "02512310227",
-    "DATE": "2019-05-13",
     "MICR": "400313007",
     "BANK": "MEHSANA URBAN COOPERATIVE BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "KALYAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

@@ -11,10 +11,10 @@
     "IMPS": true,
     "CITY": "MUMBAI",
     "UPI": false,
-    "DATE": "2015-10-30",
     "RTGS": true,
     "MICR": "NA",
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "DMKJ0000002": {
     "IFSC": "DMKJ0000002",
@@ -24,14 +24,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "418-20, MAULANA AZAD ROAD,NEAR ROUND TEMPLE, MUMBAI- 400 004",
     "CONTACT": "02223822772",
-    "DATE": "43097",
     "BANK": "DMK JAOLI BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DMKJ0000003": {
     "IFSC": "DMKJ0000003",
@@ -41,14 +41,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "HIT-NIKETAN CO-OP HSG SOC ,JANGAL MANGAL ROAD, KONKAN NAGAR, BHANDUP W ,MUMBAI 400078",
     "CONTACT": "02225941374",
-    "DATE": "2017-12-28",
     "MICR": "400802003",
     "BANK": "DMK JAOLI BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DMKJ0000004": {
     "IFSC": "DMKJ0000004",
@@ -58,14 +58,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "27,INTERLINK IND ESTATE,CAVES ROAD, JOGESHWARI E ,MUMBAI-400060",
     "CONTACT": "02228240199",
-    "DATE": "2017-12-28",
     "MICR": "400802004",
     "BANK": "DMK JAOLI BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DMKJ0000005": {
     "IFSC": "DMKJ0000005",
@@ -75,14 +75,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "KHANNA APARTMENT,NARI SEVA SADAN MARG, ASALFA VILLAGE, GHATKOPAR W , MUMBAI -400086",
     "CONTACT": "02225140713",
-    "DATE": "2017-12-28",
     "MICR": "400802005",
     "BANK": "DMK JAOLI BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DMKJ0000006": {
     "IFSC": "DMKJ0000006",
@@ -92,14 +92,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "RENBOW ASSOCIATION,SECTOR NO 10,VASHI, NAVI MUMBAI-400705",
     "CONTACT": "02227660283",
-    "DATE": "2017-12-28",
     "MICR": "400802006",
     "BANK": "DMK JAOLI BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAVI MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DMKJ0000007": {
     "IFSC": "DMKJ0000007",
@@ -109,14 +109,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "NAHAR & SETH IND ESTATE CO-OP SOC LTD, PANNALAL COMPOUND,L B S ROAD BHANDUP W , MUMBAI 400078",
     "CONTACT": "02225962276",
-    "DATE": "2017-12-28",
     "MICR": "400802007",
     "BANK": "DMK JAOLI BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DMKJ0000008": {
     "IFSC": "DMKJ0000008",
@@ -126,14 +126,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "DATTATRAY MAHARAJ KALAMBE CHOWK,   SANT NAMDEO ROAD, PANCHGANI CITY, TAL MAHABLESHWARDIST SATARA -421805",
     "CONTACT": "02168240403",
-    "DATE": "2017-12-28",
     "BANK": "DMK JAOLI BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SATARA",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DMKJ0000009": {
     "IFSC": "DMKJ0000009",
@@ -143,14 +143,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MEDHA CITY, TAL JAOLI, DIST SATARA - 415012",
     "CONTACT": "02378285568",
-    "DATE": "2017-12-28",
     "BANK": "DMK JAOLI BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SATARA",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DMKJ0000010": {
     "IFSC": "DMKJ0000010",
@@ -160,14 +160,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "BHAYANDER",
     "CONTACT": "02228198991",
-    "DATE": "2017-12-28",
     "MICR": "400802008",
     "BANK": "DMK JAOLI BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "BHAYANDER",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DMKJ0000011": {
     "IFSC": "DMKJ0000011",
@@ -177,14 +177,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "UGAM COMPLEX, SECTOR NO-40,NERUL SEA WOOD, NAVI MUMBAI-400 706",
     "CONTACT": "02227716145",
-    "DATE": "2017-12-28",
     "MICR": "400802009",
     "BANK": "DMK JAOLI BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAVI MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DMKJ0000012": {
     "IFSC": "DMKJ0000012",
@@ -194,14 +194,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "RATNAUMED RESIDENCY, PLOT NO. 117, LOUIS WADI, PANCHPAKHADI, THANE(W)-400 604",
     "CONTACT": "02225835443",
-    "DATE": "2017-12-28",
     "MICR": "400802010",
     "BANK": "DMK JAOLI BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "THANE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DMKJ0000013": {
     "IFSC": "DMKJ0000013",
@@ -211,14 +211,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHREE COMMERCIAL COMPLEX,UPPER GR.FLOOR, DHARMAPURI,KISANVEER CHOWK WAI CITY,DIST-SATARA. -412 803.",
     "CONTACT": "02167220055",
-    "DATE": "2017-12-28",
     "BANK": "DMK JAOLI BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SATARA",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DMKJ0000014": {
     "IFSC": "DMKJ0000014",
@@ -228,14 +228,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "DURGADEVI EKTA CHS LTD ,DATTA PADA ROAD, RAJENDRA NAGAR, BORIVALI E , MUMBAI -400 066",
     "CONTACT": "02228708339",
-    "DATE": "2017-12-28",
     "MICR": "400802012",
     "BANK": "DMK JAOLI BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DMKJ0000015": {
     "IFSC": "DMKJ0000015",
@@ -245,14 +245,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "RUBY PALACE CHS LTD , SECTOR-12,PANVEL-MATHERAN ROAD,NEW PANVEL,DIST-RAIGAD PIN-410 206",
     "CONTACT": "02227480366",
-    "DATE": "2017-12-28",
     "MICR": "400802011",
     "BANK": "DMK JAOLI BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "PANVEL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DMKJ0000016": {
     "IFSC": "DMKJ0000016",
@@ -262,14 +262,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PAWAR TOWER OPP.KAMANI HAUD,GURUWAR PETH ,SATARA CITY, DIST-SATARA. -415 002",
     "CONTACT": "02162230556",
-    "DATE": "2017-12-28",
     "MICR": "415837001",
     "BANK": "DMK JAOLI BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SATARA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DMKJ0000017": {
     "IFSC": "DMKJ0000017",
@@ -279,14 +279,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "RAGHUKUL HEIGHTS,DR. R.P.ROAD, RAM NAGAR, DOMBIVALI (EAST) MUMBAI-421 201",
     "CONTACT": "02512863970",
-    "DATE": "2017-12-28",
     "MICR": "400802013",
     "BANK": "DMK JAOLI BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "DOMBIVALI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DMKJ0000018": {
     "IFSC": "DMKJ0000018",
@@ -296,14 +296,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "KOHINOOR APPARTMENT, 1ST FLOOR,378 N C KELKAR ROAD, ABOVE TITAN SHOWROOM, DADAR (WEST)MUMBAI-400 028.",
     "CONTACT": "02224314231",
-    "DATE": "2017-12-28",
     "MICR": "400802014",
     "BANK": "DMK JAOLI BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DMKJ0000019": {
     "IFSC": "DMKJ0000019",
@@ -313,14 +313,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "HOUSE NO 1973,GOUND FLOOR,DESHMUKH NAGAR, OLD ST STAND,SHIRWAL,TAL- KHANDALA, DIST SATARA PIN-412801",
     "CONTACT": "02169244003",
-    "DATE": "2017-12-28",
     "MICR": "412837152",
     "BANK": "DMK JAOLI BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SATARA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DMKJ0000020": {
     "IFSC": "DMKJ0000020",
@@ -330,14 +330,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHREE RAVECHI APPT. GROUND FLOOR,SHOP NO- 1& 2,PLOT NO-14/15, SECTOR NO. 20, KOPARKHAIRANE, NAVI MUMBAI -400709.",
     "CONTACT": "02227547271",
-    "DATE": "2017-12-28",
     "MICR": "400802015",
     "BANK": "DMK JAOLI BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAVI MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DMKJ0000021": {
     "IFSC": "DMKJ0000021",
@@ -347,14 +347,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHREE GURUDATTA COMPLEX CHS LTD GROUND FLOOR,A WING SHOP NO-5,6,7,PLOT NO- 44,45 AND 46, SECTOR NO- 8A, DIVE, AIROLI, NAVI MUMBAI- 400708",
     "CONTACT": "02227601232",
-    "DATE": "2017-12-28",
     "MICR": "400802016",
     "BANK": "DMK JAOLI BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAVI MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DMKJ0000022": {
     "IFSC": "DMKJ0000022",
@@ -364,14 +364,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SANTOSH C H S LTD , SHOP NO 1,2, & 3, GR FLOOR, PLOT NO 7, HAVAHIRA PARK, ACHARYA DHARMA SURI MARG, KURAR VILLAGE, MALAD E MUMBAI 400 097",
     "CONTACT": "02228405053",
-    "DATE": "2017-12-28",
     "MICR": "400802017",
     "BANK": "DMK JAOLI BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DMKJ0000023": {
     "IFSC": "DMKJ0000023",
@@ -381,14 +381,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "JAY GANESH VISION,UPPER GR.FLOOR, SHOP NO.2,&3, A-WING, AKURDI, PIMPRI-CHINCHWAD. PUNE- 411 035",
     "CONTACT": "02027241199",
-    "DATE": "2017-12-28",
     "MICR": "411802002",
     "BANK": "DMK JAOLI BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DMKJ0000024": {
     "IFSC": "DMKJ0000024",
@@ -398,14 +398,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.4, AMOGH C.H.S.LTD,WAMAN TUKARAM PATIL MARG,CHEMBUR EAST, MUMBAI 400 071",
     "CONTACT": "02225213826",
-    "DATE": "2017-12-28",
     "MICR": "400802018",
     "BANK": "DMK JAOLI BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DMKJ0000025": {
     "IFSC": "DMKJ0000025",
@@ -415,13 +415,13 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO 9, J K TOWER,CTS NO 281,HARIYALI VILLAGE, VIKHROLI EAST,MUMBAI 400 083",
     "CONTACT": "02225740037",
-    "DATE": "2017-12-28",
     "MICR": "400802019",
     "BANK": "DMK JAOLI BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

@@ -11,10 +11,10 @@
     "IMPS": true,
     "CITY": "AHMADNAGAR",
     "UPI": false,
-    "DATE": "23/04/2014",
     "RTGS": true,
     "NEFT": false,
-    "MICR": null
+    "MICR": null,
+    "SWIFT": null
   },
   "NUCB0000002": {
     "BANK": "NAGAR URBAN CO OPERATIVE BANK",
@@ -30,7 +30,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000101": {
     "IFSC": "NUCB0000101",
@@ -40,14 +41,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "BAZAR PETH",
     "CONTACT": "02425225385",
-    "DATE": "15/05/2014",
     "MICR": "422803201",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "SANGAMNER",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000102": {
     "IFSC": "NUCB0000102",
@@ -57,14 +58,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHIVAJI CROSS ROAD",
     "CONTACT": "02422222254",
-    "DATE": "15/05/2014",
     "MICR": "413809301",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHRIRAMPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000103": {
     "IFSC": "NUCB0000103",
@@ -74,14 +75,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "BAZAR PETH",
     "CONTACT": "02426272522",
-    "DATE": "15/05/2014",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "VAMBORI",
     "MICR": "414729501",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000104": {
     "IFSC": "NUCB0000104",
@@ -91,14 +92,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "BAZAR PETH",
     "CONTACT": "02487222326",
-    "DATE": "15/05/2014",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHRIGONDA",
     "MICR": "414729502",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000105": {
     "IFSC": "NUCB0000105",
@@ -108,14 +109,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "BAZAR PETH",
     "CONTACT": "02429222255",
-    "DATE": "15/05/2014",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHEVGAON",
     "MICR": "414729503",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000106": {
     "IFSC": "NUCB0000106",
@@ -125,14 +126,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "BAZAR PETH",
     "CONTACT": "02422243421",
-    "DATE": "15/05/2014",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "BELAPUR",
     "MICR": "413729501",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000107": {
     "IFSC": "NUCB0000107",
@@ -142,14 +143,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "BAZAR PETH",
     "CONTACT": "02428222334",
-    "DATE": "15/05/2014",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "PATHARDI",
     "MICR": "414729504",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000108": {
     "IFSC": "NUCB0000108",
@@ -159,14 +160,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "BAZAR PETH",
     "CONTACT": "02427241238",
-    "DATE": "15/05/2014",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "NEWASA",
     "MICR": "414729505",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000109": {
     "IFSC": "NUCB0000109",
@@ -176,14 +177,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "BAZAR PETH",
     "CONTACT": "02421221028",
-    "DATE": "15/05/2014",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "JAMKHED",
     "MICR": "414729506",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000110": {
     "IFSC": "NUCB0000110",
@@ -193,14 +194,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MAIN ROAD",
     "CONTACT": "02489263226",
-    "DATE": "15/05/2014",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "MIRAJGAON",
     "MICR": "414729507",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000111": {
     "IFSC": "NUCB0000111",
@@ -210,14 +211,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "BAZAR PETH",
     "CONTACT": "02424221243",
-    "DATE": "15/05/2014",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "AKOLA",
     "MICR": "422729501",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000112": {
     "IFSC": "NUCB0000112",
@@ -227,14 +228,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "RAJENDRA PRASAD ROAD",
     "CONTACT": "02482233241",
-    "DATE": "15/05/2014",
     "MICR": "431810052",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "JALNA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000113": {
     "IFSC": "NUCB0000113",
@@ -244,14 +245,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "LAXMI TOWER CHOWK, AMBEJOGAI, BEED.",
     "CONTACT": "02446222090",
-    "DATE": "28/05/2014",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "PARLI-VAIJNATH",
     "MICR": "440729352",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000115": {
     "IFSC": "NUCB0000115",
@@ -261,14 +262,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "BAZAR PETH",
     "CONTACT": "02427231332",
-    "DATE": "15/05/2014",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "SONAI",
     "MICR": "414729509",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000116": {
     "IFSC": "NUCB0000116",
@@ -278,14 +279,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "BAZAR PETH",
     "CONTACT": "02425241150",
-    "DATE": "15/05/2014",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "ASHWI BUDRUK",
     "MICR": "422729502",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000117": {
     "IFSC": "NUCB0000117",
@@ -295,14 +296,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SARJEPURA",
     "CONTACT": "02412417818",
-    "DATE": "15/05/2014",
     "MICR": "414809003",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "AHMADNAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000118": {
     "IFSC": "NUCB0000118",
@@ -312,14 +313,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "NAGAR MANMAD ROAD",
     "CONTACT": "02423242271",
-    "DATE": "15/05/2014",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "RAHATA",
     "MICR": "423729501",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000119": {
     "IFSC": "NUCB0000119",
@@ -329,14 +330,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MAIN ROAD",
     "CONTACT": "02427221238",
-    "DATE": "15/05/2014",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "KUKANE",
     "MICR": "414729510",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000120": {
     "IFSC": "NUCB0000120",
@@ -346,14 +347,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MARKET YARD",
     "CONTACT": "02412417819",
-    "DATE": "15/05/2014",
     "MICR": "414809004",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "AHMADNAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000121": {
     "IFSC": "NUCB0000121",
@@ -363,14 +364,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AHMEDNAGAR",
     "CONTACT": "02412417820",
-    "DATE": "15/05/2014",
     "MICR": "414809007",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "AHMADNAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000122": {
     "IFSC": "NUCB0000122",
@@ -380,14 +381,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "NAGAR MANMAD ROAD",
     "CONTACT": "02426232293",
-    "DATE": "15/05/2014",
     "MICR": "413911376",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "RAHURI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000123": {
     "IFSC": "NUCB0000123",
@@ -397,14 +398,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MAIN ROAD",
     "CONTACT": "02487231627",
-    "DATE": "15/05/2014",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "KASTHI",
     "MICR": "414729511",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000124": {
     "IFSC": "NUCB0000124",
@@ -414,14 +415,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "NAGAR PUNE ROAD",
     "CONTACT": "02412417821",
-    "DATE": "15/05/2014",
     "MICR": "414809005",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "KEDGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000125": {
     "IFSC": "NUCB0000125",
@@ -431,14 +432,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MAIN ROAD",
     "CONTACT": "02429240027",
-    "DATE": "15/05/2014",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "AHMADNAGAR",
     "MICR": "414729508",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000126": {
     "IFSC": "NUCB0000126",
@@ -448,14 +449,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MAIN ROAD",
     "CONTACT": "02422251688",
-    "DATE": "15/05/2014",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "KOLHAR",
     "MICR": "414729512",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000127": {
     "IFSC": "NUCB0000127",
@@ -465,14 +466,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MAIN ROAD",
     "CONTACT": "02488221408",
-    "DATE": "15/05/2014",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "PARNER",
     "MICR": "414729513",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000128": {
     "IFSC": "NUCB0000128",
@@ -482,14 +483,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "NAGAR MANMAD ROAD",
     "CONTACT": "02412417822",
-    "DATE": "15/05/2014",
     "MICR": "414809006",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "AHMADNAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000129": {
     "IFSC": "NUCB0000129",
@@ -499,14 +500,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "BAZAR PETH",
     "CONTACT": "02421240328",
-    "DATE": "15/05/2014",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "KHARDA",
     "MICR": "414729515",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000130": {
     "IFSC": "NUCB0000130",
@@ -516,14 +517,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "820 BAZAR PETH",
     "CONTACT": "02489222908",
-    "DATE": "15/05/2014",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "KARJAT",
     "MICR": "414729514",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000131": {
     "IFSC": "NUCB0000131",
@@ -533,14 +534,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "BAZAR PETH",
     "CONTACT": "02426275015",
-    "DATE": "15/05/2014",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "KOLHAR",
     "MICR": "414729516",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000133": {
     "IFSC": "NUCB0000133",
@@ -550,14 +551,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GULTEKDI MARKET YARD",
     "CONTACT": "02024273691",
-    "DATE": "15/05/2014",
     "MICR": "411729002",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000134": {
     "IFSC": "NUCB0000134",
@@ -567,14 +568,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "CENTRAL BANK ROAD",
     "CONTACT": "02412343641",
-    "DATE": "15/05/2014",
     "MICR": "414809002",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "AHMADNAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000135": {
     "IFSC": "NUCB0000135",
@@ -584,14 +585,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "RATAN NIWAS,2349",
     "CONTACT": "02138224242",
-    "DATE": "15/05/2014",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIRUR",
     "MICR": "411729501",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000136": {
     "IFSC": "NUCB0000136",
@@ -601,14 +602,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "1774,DEVKAR NIWAS",
     "CONTACT": "02423223003",
-    "DATE": "15/05/2014",
     "MICR": "423806002",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "KOPARGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000137": {
     "IFSC": "NUCB0000137",
@@ -618,14 +619,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "A WING MANTRI VILLA",
     "CONTACT": "02024488125",
-    "DATE": "15/05/2014",
     "MICR": "411729003",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000138": {
     "IFSC": "NUCB0000138",
@@ -635,14 +636,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SAI NAGARI PATPUR",
     "CONTACT": "02423255611",
-    "DATE": "15/05/2014",
     "MICR": "423806302",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIRDI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000139": {
     "IFSC": "NUCB0000139",
@@ -652,14 +653,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "1754,MAIN ROAD\"GOVARDHAN\" NASHIK.",
     "CONTACT": "02532232401",
-    "DATE": "28/05/2014",
     "MICR": "411729003",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "NASHIK",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000140": {
     "IFSC": "NUCB0000140",
@@ -669,14 +670,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "HOUSE NO 471 NEAR SHANI LANE",
     "CONTACT": "02182220072",
-    "DATE": "15/05/2014",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "KARKAMLE",
     "MICR": "414729517",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000141": {
     "IFSC": "NUCB0000141",
@@ -686,14 +687,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "2930 BY 5,VIRAJ COMPLEX",
     "CONTACT": "02402353112",
-    "DATE": "15/05/2014",
     "MICR": "431072084",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "AURANGABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000142": {
     "IFSC": "NUCB0000142",
@@ -703,14 +704,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "H.NO.2382",
     "CONTACT": "0213524907475",
-    "DATE": "15/05/2014",
     "MICR": "411729004",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHAKAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000143": {
     "IFSC": "NUCB0000143",
@@ -720,14 +721,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Z HW E HV UL",
     "CONTACT": "02020261902",
-    "DATE": "15/05/2014",
     "MICR": "411729005",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000144": {
     "IFSC": "NUCB0000144",
@@ -737,14 +738,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "CTS NO 790,SAIKAR PLAZA ANNASAHED",
     "CONTACT": "02027610230",
-    "DATE": "15/05/2014",
     "MICR": "411729006",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000145": {
     "IFSC": "NUCB0000145",
@@ -754,14 +755,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Main Road, TAKALI MANUR, PATHARDI, AHMEDNAGAR.",
     "CONTACT": "02428231180",
-    "DATE": "28/05/2014",
     "MICR": "411729005",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "AHMADNAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000146": {
     "IFSC": "NUCB0000146",
@@ -771,14 +772,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "KADA DHAMANGAON ROAD",
     "CONTACT": "02441239444",
-    "DATE": "15/05/2014",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "KADA",
     "MICR": "414729518",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000147": {
     "IFSC": "NUCB0000147",
@@ -788,14 +789,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHRIKRUSHNA COMPLEX,CTS NO 1981 1987 TO 1993",
     "CONTACT": "02117262946",
-    "DATE": "15/05/2014",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "DAUND",
     "MICR": "413729502",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000148": {
     "IFSC": "NUCB0000148",
@@ -805,14 +806,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "KAKADE PLAZA HP PETROL PUMP",
     "CONTACT": "02132263118",
-    "DATE": "15/05/2014",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "JUNNAR",
     "MICR": "411729502",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0000149": {
     "IFSC": "NUCB0000149",
@@ -822,14 +823,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "ADISHAKTI NEAR VITHALESHWAR MANDIR",
     "CONTACT": "02551220387",
-    "DATE": "15/05/2014",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "SINNAR",
     "MICR": "422729503",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NUCB0RMS002": {
     "IFSC": "NUCB0RMS002",
@@ -839,13 +840,13 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "RENUKA BHAVAN ,BEHIND PUSHPAK HOTEL,NEAR CITY PRIDE HOTEL PIPELINE ROAD SAVEDI 414003",
     "CONTACT": "4140039225328391",
-    "DATE": "2019-04-30",
     "BANK": "NAGAR URBAN COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "AHMEDNAGAR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

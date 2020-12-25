@@ -13,7 +13,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BCEY0CHEN01": {
     "BANK": "Bank of Ceylon",
@@ -27,9 +28,9 @@
     "IMPS": true,
     "CITY": "CHENNAI",
     "UPI": false,
-    "DATE": "29/04/2008",
     "RTGS": true,
     "MICR": "NA",
-    "NEFT": false
+    "NEFT": false,
+    "SWIFT": null
   }
 }

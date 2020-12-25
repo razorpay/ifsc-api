@@ -11,10 +11,10 @@
     "IMPS": true,
     "CITY": "PUNE",
     "UPI": true,
-    "DATE": "26/11/2010",
     "RTGS": true,
     "NEFT": false,
-    "MICR": null
+    "MICR": null,
+    "SWIFT": null
   },
   "JSBP0000002": {
     "IFSC": "JSBP0000002",
@@ -24,14 +24,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MODERN HIGH SCHOOL COMPOUND,JANGALI MAHARAJ ROAD,SHIVAJI NAGAR, PUNE - 411005,E-MAIL : JSB_SHIVAJINAGARPUNE@VSNL.NET",
     "CONTACT": "25535532",
-    "DATE": "03/12/2010",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "MICR": "411074012",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000003": {
     "IFSC": "JSBP0000003",
@@ -41,14 +41,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "12, BHAVANI PETH, NITA CENTRE,PUNE - 411042,E-MAIL : JSB_BHAVANIPETH@VSNL.NET",
     "CONTACT": "26386708",
-    "DATE": "03/12/2010",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "MICR": "411074003",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000004": {
     "IFSC": "JSBP0000004",
@@ -58,14 +58,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "CTS.191, MANGALWAR PETH,JANATA BANK BUILDING.,BHOR, DIST. PUNE - 412206.,E-MAIL : JSB_BHOR@VSNL.NET",
     "CONTACT": "222554",
-    "DATE": "03/12/2010",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "BHOR",
     "MICR": "412074052",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000005": {
     "IFSC": "JSBP0000005",
@@ -75,14 +75,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "351, SHUKRAWAR PETH,TALEGAON DABHADE,TAL : MAWAL, DIST : PUNE - 410506,E-MAIL : JSB_TALEGAONDABHADE@VSNL.NET",
     "CONTACT": "222490",
-    "DATE": "03/12/2010",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "TALEGAON DABHADE",
     "MICR": "411074017",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000006": {
     "IFSC": "JSBP0000006",
@@ -92,14 +92,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "CTS.1947,HOUSE 1365, 1ST FLOOR,SHIVSEVA MANDAL COMPLEX,NEAR S.T.STAND,PUNE-NAGAR ROAD,TAL - SHIRUR, DIST -PUNE - 412210,E-MAIL : JSB_GHODNADI@VSNL.NET",
     "CONTACT": "222131",
-    "DATE": "03/12/2010",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "SHIRUR",
     "MICR": "412074501",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000007": {
     "IFSC": "JSBP0000007",
@@ -109,14 +109,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "ABASAHEB GARWARE COLLEGE COMPOUND,KARVE ROAD, PUNE - 411004,E-MAIL : JSB_KARVEROAD@VSNL.NET",
     "CONTACT": "25441621",
-    "DATE": "03/12/2010",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "MICR": "411074005",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000008": {
     "IFSC": "JSBP0000008",
@@ -126,14 +126,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "925-A, BHAMBURDA, UNIQUE CHAMBERS,SHIVAJI NAGAR, PUNE - 411005.,E-MAIL : JSB_FERGUSSONCOLLEGE@VSNL.NET",
     "CONTACT": "25652409",
-    "DATE": "03/12/2010",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "MICR": "411074008",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000009": {
     "IFSC": "JSBP0000009",
@@ -143,14 +143,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GOLD CRAFT,C.T.S.NO.4270.CHICHWADGAON, PUNE - 411033 ,E-MAIL : JSB_CHINCHAWADGAON@VSNL.NET",
     "CONTACT": "27352536",
-    "DATE": "03/12/2010",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "PIMPRI CHINCHWAD",
     "MICR": "411074011",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000010": {
     "IFSC": "JSBP0000010",
@@ -160,14 +160,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "S. NO. 2409/4, S.NO. 528/2-1,TALEGAON DABHADE,TAL. MAWAL, DIST. PUNE - 410607,E-MAIL : JSB_TALEGAONSTATION@VSNL.NET",
     "CONTACT": "222253",
-    "DATE": "03/12/2010",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "TALEGAON DABHADE",
     "MICR": "411074016",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000011": {
     "IFSC": "JSBP0000011",
@@ -177,14 +177,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SITARAM COMPLEX, S.NO. 4672-1, CHINCHWAD STATION PUNE - 411 019,E-MAIL : JSB_CHINCHAWADSTATION@VSNL.NET",
     "CONTACT": "27472436",
-    "DATE": "03/12/2010",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "PIMPRI CHINCHWAD",
     "MICR": "411074010",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000012": {
     "IFSC": "JSBP0000012",
@@ -194,14 +194,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SADABAZAR, JUNNAR,DIST. PUNE - 410501,E-MAIL : JSB_JUNNAR@VSNL.NET",
     "CONTACT": "222086",
-    "DATE": "03/12/2010",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "JUNNAR",
     "MICR": "410074152",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000013": {
     "IFSC": "JSBP0000013",
@@ -211,14 +211,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "S. NO. 6398 -1, NAGAR P. NO. R/4-674 ,CHAINSUKH ROAD, LATUR - 413592,E-MAIL : JSB_LATUR@SANCHARNET.IN",
     "CONTACT": "240566",
-    "DATE": "03/12/2010",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "LATUR",
     "MICR": "413074052",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000014": {
     "IFSC": "JSBP0000014",
@@ -228,14 +228,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "1732, SADASHIV PETH,OPP. PARIJAT DEPARTMENTAL STORE,TILAK ROAD, PUNE - 411030,E-MAIL : JSB_TILAKROAD@VSNL.NET",
     "CONTACT": "24471165",
-    "DATE": "03/12/2010",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "MICR": "411074007",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000015": {
     "IFSC": "JSBP0000015",
@@ -245,14 +245,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "551, SHANIWAR PETH,PUNE -411030,E-MAIL : JSB_SHANIWARNARAYAN@VSNL.NET",
     "CONTACT": "24459937",
-    "DATE": "03/12/2010",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "MICR": "411074006",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000016": {
     "IFSC": "JSBP0000016",
@@ -262,14 +262,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "OPP. GOMTESH MARKET, DALALWADI,AURANGABAD - 431001.,E-MAIL : JSBABAD@VSNL.NET",
     "CONTACT": "2334093",
-    "DATE": "03/12/2010",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "AURANGABAD",
     "MICR": "431074003",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000017": {
     "IFSC": "JSBP0000017",
@@ -279,14 +279,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AGAR BAZAR, OPP. BOMBAY FILM LABORATORY,DADAR, MUMBAI - 400028.E-MAIL : JSBP_DADAR@VSNL.NET",
     "CONTACT": "24226219",
-    "DATE": "03/12/2010",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400074003",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000018": {
     "IFSC": "JSBP0000018",
@@ -296,14 +296,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GROUND FLOOR, JATARMJYOT BUILDING.,63, JANMABHOOMI MARG, FORT,MUMBAI - 400001,E-MAIL : JSBLFORT@MTNL.NET.IN",
     "CONTACT": "22024284",
-    "DATE": "03/12/2010",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400074002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000019": {
     "IFSC": "JSBP0000019",
@@ -313,14 +313,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "6434, GURWAR PETH,DIST. - BEED. AMBAJOGAI - 413517,E-MAIL : JSBAMBAJOGAI@SANCHARNET.IN",
     "CONTACT": "247071",
-    "DATE": "03/12/2010",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "AMBAJOGAI",
     "MICR": "412074052",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000020": {
     "IFSC": "JSBP0000020",
@@ -330,14 +330,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHRI KUNJ PREMISES CO-OP. SOCIETY,HANUMAN MANDIR ROAD,VILE PARLE (E), MUMBAI - 400057,E-MAIL : JSB_VILEPARLE@VSNL.NET",
     "CONTACT": "26114036",
-    "DATE": "03/12/2010",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400074005",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000021": {
     "IFSC": "JSBP0000021",
@@ -347,14 +347,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "DECCAN CHAMBERS,OPP. MAJESTIC CINEMA,GIRGAON, MUMBAI - 400004,E-MAIL : JSB_GIRGAON@VSNL.NET",
     "CONTACT": "02223869397",
-    "DATE": "03/12/2010",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400074004",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000022": {
     "IFSC": "JSBP0000022",
@@ -364,14 +364,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "1973, SHREE RAM ALI,RATNAGIRI - 415612,E-MAIL : JSB_RATNAGIRI@SANCHARNET.IN",
     "CONTACT": "222393",
-    "DATE": "03/12/2010",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "RATNAGIRI",
     "MICR": "415074051",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000023": {
     "IFSC": "JSBP0000023",
@@ -381,14 +381,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "S.NO. 234 (PART), C.T.S.NO -. 168,NACHANE GAON, RATNAGIRI - 415612.,E-MAIL : JSB_SHIVRATNA@SANCHARNET.IN",
     "CONTACT": "222621",
-    "DATE": "03/12/2010",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "RATNAGIRI",
     "MICR": "415074052",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000024": {
     "IFSC": "JSBP0000024",
@@ -398,14 +398,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "OPP. S.T. STAND, SAKHARAPA,TAL : SANGAMESHWAR,DIST. RATNAGIRI - 415801,E-MAIL : JSB_SAKHARPA@SANCHARNET.IN",
     "CONTACT": "248243",
-    "DATE": "03/12/2010",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "SAKHARPA",
     "MICR": "415074504",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000025": {
     "IFSC": "JSBP0000025",
@@ -415,14 +415,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "OPP. S.T. STAND, DEVRUKH,DIST. RATNAGIRI - 415804,E-MAIL : JSB_DEVRUKH@SANCHARNET.IN",
     "CONTACT": "240145",
-    "DATE": "03/12/2010",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "DEVRUKH",
     "MICR": "415074502",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000026": {
     "IFSC": "JSBP0000026",
@@ -432,14 +432,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "BAZAR PETH, MAKHAJAN,TAL : SANGAMESHWAR,DIST. RATNAGIRI - 415608,E-MAIL : JSB_MAKHAJAN@SANCHARNET.IN",
     "CONTACT": "235231",
-    "DATE": "03/12/2010",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "MAKHJAN",
     "MICR": "415074505",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000027": {
     "IFSC": "JSBP0000027",
@@ -449,14 +449,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "JANATA BANK BUILDING,NAVADI, SANGAMESHWAR,DIST. RATNAGIRI - 415611,E-MAIL : JSB_SMWR@BSNL.IN",
     "CONTACT": "252050",
-    "DATE": "03/12/2010",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "SANGAMESHWAR",
     "MICR": "415074501",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000028": {
     "IFSC": "JSBP0000028",
@@ -466,14 +466,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MAHAKALI PALACE, S. NO. 60,HISSA NO. 13/16, DIST.- RATNAGIRI,PAWAS - 415616.E-MAIL : JSB_PAWAS@SANCHARNET.IN",
     "CONTACT": "237266",
-    "DATE": "03/12/2010",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "PAWAS",
     "MICR": "415074503",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000029": {
     "IFSC": "JSBP0000029",
@@ -483,14 +483,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "1436/A, LAXMIPURI, WARD NO. C,KOLHAPUR - 416002,E-MAIL : KLC_JSBKOL@SANCHARNET.IN",
     "CONTACT": "2641888",
-    "DATE": "03/12/2010",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLHAPUR",
     "MICR": "416074002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000030": {
     "IFSC": "JSBP0000030",
@@ -500,14 +500,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "JANATA BANK BLDG, 475/476,GULTEKDI, MARKET YARD,PUNE - 411037.,E-MAIL : JSBMARKETYARD@VSNL.NET",
     "CONTACT": "24271533",
-    "DATE": "03/12/2010",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "MICR": "411074004",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000031": {
     "IFSC": "JSBP0000031",
@@ -517,14 +517,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "NO. 167/A-2, PLOT NO. 19/20,ABHISHEK COMPLEX, HAPPY COLONY,KOTHRUD, PUNE - 411029.,E-MAIL : JSB_KARVENAGAR@VSNL.NET",
     "CONTACT": "25445127",
-    "DATE": "03/12/2010",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "MICR": "411074009",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000032": {
     "IFSC": "JSBP0000032",
@@ -534,14 +534,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "HOUSE NO. 646,WARD NO. 24, BAZARPETH,MAIN ROAD, INDAPUR, DIST. PUNE - 413106.,E-MAIL : JSB_INDAPUR@VSNL.NET",
     "CONTACT": "223318",
-    "DATE": "03/12/2010",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "INDAPUR",
     "MICR": "413074501",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000033": {
     "IFSC": "JSBP0000033",
@@ -551,14 +551,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "HOUSE NO. 354/1,OPP. GRAMPANCHAYAT OFFICE,TAL. : JUNNAR, DIST. PUNE - 412409,E-MAIL : JSB_OTUR@VSNL.NET",
     "CONTACT": "264133",
-    "DATE": "03/12/2010",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "OTUR",
     "MICR": "410074501",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000034": {
     "IFSC": "JSBP0000034",
@@ -568,14 +568,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PLOT NO.BGP 131,PIMPRI INDUSTRIAL AREA,WATUMAHAL,NEHRUNAGAR,PIMPRI,PUNE-411018.,E-MAIL : JSB_PIMPRI@VSNL.NET",
     "CONTACT": "27124725",
-    "DATE": "03/12/2010",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "PIMPRI CHINCHWAD",
     "MICR": "411074014",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000035": {
     "IFSC": "JSBP0000035",
@@ -585,14 +585,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "S. NO. 147, HISSA NO. 1,NEAR S.T.STAND,TAL. CHIPLUN, DIST - RATNAGIRI,E-MAIL : RTG_JSB_CPN@SANCHARNET.IN",
     "CONTACT": "257476",
-    "DATE": "03/12/2010",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHIPLUN",
     "MICR": "415074201",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000036": {
     "IFSC": "JSBP0000036",
@@ -602,14 +602,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PLOT NO. 66, MADHUMALTI,DASHBHUJA GANAPATI ROAD,TULASHIBAGWALE COLONY,SAHAKAR NAGAR, PUNE - 411009.,E-MAIL : JSB_SAHAKARNAGAR@VSNL.NET",
     "CONTACT": "24224514",
-    "DATE": "03/12/2010",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "MICR": "411074013",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000037": {
     "IFSC": "JSBP0000037",
@@ -619,14 +619,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "S.NO. 26/20/1A, HINGANE KHURD, NEAR JOSHI WADEWALE,SINHAGAD ROAD, PUNE - 411 051.,E-MAIL : JSB_STOCKEXCHANGE@VSNL.NET",
     "CONTACT": "24352053",
-    "DATE": "03/12/2010",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "MICR": "411074015",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000039": {
     "IFSC": "JSBP0000039",
@@ -636,14 +636,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "SARDAR PATEL ROAD,OPP.PANCHAYT SAMITI OFFICE,KHEDBRAHMA,DIST. SABAR KANTHA,GUJARAT 383255",
     "CONTACT": "02775220022",
-    "DATE": "04/05/2012",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "KHEDBRAHMA",
     "MICR": "383074071",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000040": {
     "IFSC": "JSBP0000040",
@@ -653,14 +653,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "S.No.182/Hissa No.1/1, Ground Floor Shop No.1 to 4, Ataria Building , Mauje Baner, Baner Road, Pune - 411 045.",
     "CONTACT": "27290309",
-    "DATE": "11-01-2013",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "MICR": "411074018",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000041": {
     "IFSC": "JSBP0000041",
@@ -670,14 +670,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Plot no 1 B Survey no. 119/1 Anant Kripa Co-op Housing Society , Paud Road, Pune 411 038",
     "CONTACT": "02024453258",
-    "DATE": "18-03-2013",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "MICR": "411074019",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000042": {
     "IFSC": "JSBP0000042",
@@ -687,14 +687,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shop No.1,Plot No.74, CTS No. 5922,TPS Scheme No.III,Dhoot Businees Centre,R.B.Mehta Marg, Ghatkopar (E) ,Mumbai - 400 077.",
     "CONTACT": "02024453258",
-    "DATE": "18-04-2013",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400074007",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000043": {
     "IFSC": "JSBP0000043",
@@ -704,14 +704,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "S.NO.29,PLOT NO 22, HISSA NO. 1,2,3,4,5 KALANIKETAN HSG. SOC. KALANAGAR, DHANKAWADI, PUNE 411 043",
     "CONTACT": "02024453258",
-    "DATE": "17/05/2013",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "MICR": "411074021",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000044": {
     "IFSC": "JSBP0000044",
@@ -721,14 +721,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "S.NO. 46, PLOT NO 2 , GOVINDNAGAR CO-OP HSG. SOC. H.NO. 3/418 At /po Kharadi, Chandan nagar, Pune 411 014.",
     "CONTACT": "02024453258",
-    "DATE": "17/05/2013",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "MICR": "411074020",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000045": {
     "IFSC": "JSBP0000045",
@@ -738,14 +738,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "CTS-NO.12498,GROUND FLOOR, BAGGA CHAMBERS,4/16/26/P, JALNA ROAD, OPP.AAKASHWANI KENDRA, AURANGABAD-431001",
     "CONTACT": "7755915201",
-    "DATE": "08/08/2013",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "AURANGABAD",
     "MICR": "431074004",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000046": {
     "IFSC": "JSBP0000046",
@@ -755,14 +755,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shop No.1 & 2 , GROUND FLOOR AADESHWAR CO-OPERATIVE HSG. SOC. (P) S.V.P. ROAD, mANDAPESHWAR ROAD,BORIVALI (W) ,Mumbai - 400 092.",
     "CONTACT": "02024453258",
-    "DATE": "17/05/2013",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400074008",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000047": {
     "IFSC": "JSBP0000047",
@@ -772,14 +772,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Plot No. B, Survey No. 22/3/25/1, Village Katraj Tal. Haveli, Dist Pune-411 046",
     "CONTACT": "8600999085",
-    "DATE": "2015-05-22",
     "MICR": "411074022",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000048": {
     "IFSC": "JSBP0000048",
@@ -789,14 +789,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "ALPHA SQUARE, PLOT NO. 153, TP SCHEME 2, S.NO.712/2A, 2D/17, COLLEGE ROAD, GANGAPUR ROAD, NASHIK 422003",
     "CONTACT": "00",
-    "DATE": "2015-08-04",
     "MICR": "422074002",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "NASHIK",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000049": {
     "IFSC": "JSBP0000049",
@@ -806,14 +806,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "HOUSE NO. 5.3.16 &5.3.21, NANDED BIDAR ROAD, UMA CHOWK, UDGIR, DIST. LATUR - 413517",
     "CONTACT": "00",
-    "DATE": "2015-08-04",
     "MICR": "413074227",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "UDGIR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000050": {
     "IFSC": "JSBP0000050",
@@ -823,14 +823,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "S.NO. 10624, HOUSE NO. 1.12.145, SAKLECHA ESTATE, SAROJINI DEVI ROAD, JALNA - 431 203",
     "CONTACT": "00",
-    "DATE": "2015-08-04",
     "MICR": "431074052",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "JALNA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000051": {
     "IFSC": "JSBP0000051",
@@ -840,14 +840,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PLOT NO. 544/A, CTS NO. 286, BALAJI ARCADE, NETAJI SUBHASH ROAD, MULUND (W), MUMBAI - 400 080",
     "CONTACT": "00",
-    "DATE": "2015-08-04",
     "MICR": "400074009",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000052": {
     "IFSC": "JSBP0000052",
@@ -857,14 +857,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "HOUSE NO. 142/6/8, GALA NO. A/4, GANDHI NAGAR GRAMPANCHAYAT, TAL. KARVIR, DIST. KOLHAPUR-416005",
     "CONTACT": "00",
-    "DATE": "2015-08-04",
     "MICR": "416074003",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLHAPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000053": {
     "IFSC": "JSBP0000053",
@@ -874,14 +874,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SADGURU COMPLEX C WING NEAR MUMBAI GOA HIGHWAY BAZAR PETH AT POST LANJA DIST RATNAGIRI 416701",
     "CONTACT": "00",
-    "DATE": "2015-10-16",
     "MICR": "416074426",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "LANJA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000054": {
     "IFSC": "JSBP0000054",
@@ -891,14 +891,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOWROOM NO 10 BUILDING NO 12 AND 13 SPANDAN SURVAY NO 117/1 VILLAGE WARJE PUNE 411058",
     "CONTACT": "00",
-    "DATE": "2015-10-16",
     "MICR": "411074024",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000055": {
     "IFSC": "JSBP0000055",
@@ -908,14 +908,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHRI SAMARTH KRUPA SECTOR NO 4 PLOT NO 287/S SANT NAGAR PRADHIKARAN MOSHI PUNE NASHIK HIGHWAY       MOSHI DIST PUNE 412105",
     "CONTACT": "00",
-    "DATE": "2016-06-18",
     "MICR": "411074023",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000056": {
     "IFSC": "JSBP0000056",
@@ -925,14 +925,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO 4 6 AND 7 GR FLOOR PANCHAMRUT CO OP SOC S NO 158 HISSA NO 1 VILLAGE KAVESAR GHODBANDAR RD THANE 400615",
     "CONTACT": "00",
-    "DATE": "2016-02-05",
     "MICR": "400074010",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000057": {
     "IFSC": "JSBP0000057",
@@ -942,14 +942,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "TIMES SQUARE BUILDING 97/1 GR FLOOR MORARJI PETH NR PRABHAT CHITRA MANDIR DIST SOLAPUR 413001",
     "CONTACT": "00",
-    "DATE": "2016-02-05",
     "MICR": "413074002",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "SOLAPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000058": {
     "IFSC": "JSBP0000058",
@@ -959,14 +959,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO 7 AND 8  GR FLOOR POONAM HEIGHTS 12 UDYOGNAGAR S V ROAD GOREGAON WEST MUMBAI 400062",
     "CONTACT": "00",
-    "DATE": "2016-05-09",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000059": {
     "IFSC": "JSBP0000059",
@@ -976,14 +976,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "FINAL PLOT NO 52 OLD S.NO 36/2 VEER SAWARKAR MARG PEN ANTORA ROAD POST PEN TALUKA PEN DIST RAIGAD 402107",
     "CONTACT": "00",
-    "DATE": "2016-05-09",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "PEN",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000060": {
     "IFSC": "JSBP0000060",
@@ -993,14 +993,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO 2 GR FLOOR SAI MIDASTOUCH T.P.SCHEME NO 4 FINAL PLOT NO 101/86 AHMEDNAGAR MANMAD HIGHWAY SAWERI AHMEDNAGAR 414003",
     "CONTACT": "00",
-    "DATE": "2016-05-09",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDNAGAR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000061": {
     "IFSC": "JSBP0000061",
@@ -1010,14 +1010,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "W.NO.12 HOUSE NO.12 CHOUNDESHWARI BHAVAN MAHATMA PHULE ROAD ICHALKARANJI 416115",
     "CONTACT": "00",
-    "DATE": "2016-06-27",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "ICHALKARANJI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000062": {
     "IFSC": "JSBP0000062",
@@ -1027,14 +1027,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "879 DALAVI BUILDING SARAF BAZAR GANAPTI PETH SANGLI 416416",
     "CONTACT": "00",
-    "DATE": "2016-06-27",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "SANGLI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000063": {
     "IFSC": "JSBP0000063",
@@ -1044,14 +1044,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PARANJAPE BUILDING DATTA CHOWK MAIN ROAD KARAD 415100",
     "CONTACT": "00",
-    "DATE": "2016-06-27",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "KARAD",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000064": {
     "IFSC": "JSBP0000064",
@@ -1061,14 +1061,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MULLA CHAMBERS MAIN ROAD PIRAJI PATH GADHINGLAJ 416502",
     "CONTACT": "00",
-    "DATE": "2016-06-27",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "GADHINGLAJ",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000065": {
     "IFSC": "JSBP0000065",
@@ -1078,14 +1078,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "W.NO.21 HOUSSE NO.1138 KAMBLE BUILDING STATION ROAD ICHALKARANJI 416115",
     "CONTACT": "00",
-    "DATE": "2016-06-27",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "ICHALKARANJI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000066": {
     "IFSC": "JSBP0000066",
@@ -1095,14 +1095,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "LANE NO.9 HOUSE NO.1168 JAYSINGPUR 416101",
     "CONTACT": "00",
-    "DATE": "2016-06-27",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAYSINGPUR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000067": {
     "IFSC": "JSBP0000067",
@@ -1112,14 +1112,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "S NO 261/1 2 AND 262  AMAR KUTIR GROUND FLOOR AND FIRST FLOOR PUNE SOLAPUR ROAD PUNE 411028",
     "CONTACT": "00",
-    "DATE": "2016-09-15",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000068": {
     "IFSC": "JSBP0000068",
@@ -1129,14 +1129,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "CTS NO 455A 455B VEEVA ROYALE VILLA LALCHAND BHATIA NAGAR SHANKAR LANE KANDIVALI WEST MUMBAI 400067",
     "CONTACT": "00",
-    "DATE": "2016-12-23",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000069": {
     "IFSC": "JSBP0000069",
@@ -1146,14 +1146,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "S NO 148  HISSA NO 1/A/1 CITY S NO 1353 BUILDING A POORVA HEIGHTS PASHAN SUS ROAD PASHAN PUNE 411021",
     "CONTACT": "00",
-    "DATE": "2017-01-24",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000070": {
     "IFSC": "JSBP0000070",
@@ -1163,14 +1163,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO 1 AND 2 WING A RENAISSANCE SURVEY NO 43/1/1/2 DATTANAGAR AMBEGAON ROAD PUNE 411046",
     "CONTACT": "00",
-    "DATE": "2017-07-28",
     "MICR": "411074027",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000071": {
     "IFSC": "JSBP0000071",
@@ -1180,14 +1180,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "S.NO.645/1/1 AND 645/2 RASKAR PALACE BIBWEWADI TALUKA HAVELI DIST.PUNE 411037",
     "CONTACT": null,
-    "DATE": "43180",
     "MICR": "411074028",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000091": {
     "IFSC": "JSBP0000091",
@@ -1197,14 +1197,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GRAM PANCHAYAT BUILDING,TALUKA : SANGAMESHWAR,DIST : RATNAGIRI - 415608,E-MAIL : JSB_SMWR@BSNL.IN",
     "CONTACT": "252025",
-    "DATE": "03/12/2010",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "SANGAMESHWAR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000092": {
     "IFSC": "JSBP0000092",
@@ -1214,14 +1214,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "TALUKA : SANGAMESHWAR,DIST RATNAGIRI 415608.",
     "CONTACT": "255240",
-    "DATE": "03/12/2010",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "SANGAMESHWAR",
     "MICR": "415074506",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000097": {
     "IFSC": "JSBP0000097",
@@ -1231,14 +1231,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "WARD NO 16 HISSA NO 1527/10 ANNA RAMGONDA PATIL SCHOOL ICHALKARANJI 416115",
     "CONTACT": "00",
-    "DATE": "2016-08-23",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "ICHALKARANJI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JSBP0000098": {
     "IFSC": "JSBP0000098",
@@ -1248,13 +1248,13 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "1444, SHUKRAWAR PETH,THORALE BAJIRAO ROAD,PUNE - 411002,E-MAIL : JSB_BAJIRAORD@VSNL.NET",
     "CONTACT": "24452013",
-    "DATE": "03/12/2010",
     "BANK": "JANATA SAHAKARI BANK LTD., PUNE",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "MICR": "411074002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

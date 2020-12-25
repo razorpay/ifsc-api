@@ -11,10 +11,10 @@
     "IMPS": true,
     "CITY": "MUMBAI",
     "UPI": false,
-    "DATE": "42915",
     "MICR": "400659002",
     "RTGS": true,
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "SHBK0000002": {
     "IFSC": "SHBK0000002",
@@ -24,14 +24,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Peninsula Corporate Park, 701,702, Tower 1, Ganpatrao Kadam Marg, Lower Parel, Mumbai  400013",
     "CONTACT": null,
-    "DATE": "42915",
     "MICR": "400659002",
     "BANK": "SHINHAN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SHBK0000003": {
     "IFSC": "SHBK0000003",
@@ -41,14 +41,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Unit No 001, Ground Floor, Peninsula Tower 1, Peninsula Corporate Park, G K Marg, Lower Parel, Mumbai  400 013",
     "CONTACT": "61992000",
-    "DATE": "42915",
     "MICR": "400659002",
     "BANK": "SHINHAN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SHBK0000004": {
     "IFSC": "SHBK0000004",
@@ -58,14 +58,14 @@
     "STATE": "DELHI",
     "ADDRESS": "3RD FLOOR, D 6, SOUTH EXTENSION PART 2, NEXT MEHRASONS JEWELLERS, NEW DELHI 110049",
     "CONTACT": "1145004800",
-    "DATE": "41739",
     "MICR": "110017254",
     "BANK": "SHINHAN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "NEW DELHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SHBK0000005": {
     "IFSC": "SHBK0000005",
@@ -75,14 +75,14 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "SHINHAN BANK, NO. 8 THIRUMALAI MUDALI STREET, WALAJPET 632 513, VELLORE DISTRICT, TAMILNADU",
     "CONTACT": "278200",
-    "DATE": "23/07/2012",
     "BANK": "SHINHAN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "WALAJAPET",
     "MICR": "632659102",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SHBK0000006": {
     "IFSC": "SHBK0000006",
@@ -92,14 +92,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHINHAN BANK PUNE BRANCH, GROUND FLOOR, RED BUILDING, GALAXY SOCIETY, PLOT NO 2, BOAT CLUB ROAD, PUNE 411001",
     "CONTACT": "00",
-    "DATE": "28/11/2014",
     "BANK": "SHINHAN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "PUNE",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SHBK0000007": {
     "IFSC": "SHBK0000007",
@@ -109,14 +109,14 @@
     "STATE": "TELANGANA",
     "ADDRESS": "SHINHAN BANK,RANGA REDDY BRANCH,UNIT L1 08,1ST FLOOR,SURVEY NO.133,SLN TERMINUS,GACHIBOWLI,SERILINGAMPALLY MANDAL,RANGA REDDY DISTRICT,TELANGANA STATE 500032,INDIA",
     "CONTACT": "04066352000",
-    "DATE": "2016-11-29",
     "BANK": "SHINHAN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "RANGA REDDY",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SHBK0000008": {
     "IFSC": "SHBK0000008",
@@ -126,13 +126,13 @@
     "STATE": "GUJARAT",
     "ADDRESS": "SHINHAN BANK,AHMEDABAD BRANCH,SHAPATH V,FIRST FLOOR,UNIT 2 AND 3,BESIDE CROWNE PLAZA HOTEL,OPP KARNAVATI CLUB,SG ROAD,AHMEDABAD -380018",
     "CONTACT": "07971170400",
-    "DATE": "2016-11-29",
     "BANK": "SHINHAN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "AHMEDABAD",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

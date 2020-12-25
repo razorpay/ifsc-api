@@ -11,10 +11,10 @@
     "IMPS": true,
     "CITY": "NAVI MUMBAI",
     "UPI": true,
-    "DATE": "2020/05/22",
     "RTGS": true,
     "MICR": "NA",
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "FINO0001001": {
     "IFSC": "FINO0001001",
@@ -24,14 +24,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP N.15& 25,GROUND FLOOR,ISTIYAK COMPLEX,S.NO.54,H.NO.D,VILLAGE SATIVALI,VASAI EAST,THANE-400 208",
     "CONTACT": "07045695400",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "THANA",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001002": {
     "IFSC": "FINO0001002",
@@ -41,14 +41,14 @@
     "STATE": "DELHI",
     "ADDRESS": "34/2,KHANPUR DEVLI ROAD,NEW DELHI-110062",
     "CONTACT": "09210828074",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "NORTH WEST DELHI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001005": {
     "IFSC": "FINO0001005",
@@ -58,14 +58,14 @@
     "STATE": "TELANGANA",
     "ADDRESS": "H NO 2-058/11,PORTION NO 13,FRONT SIDE,OPP NARAYAN HRUDALAYA HOSPITAL,SURARAM,RANGAREDDY,TELANGANA-501401",
     "CONTACT": "09949050744",
-    "DATE": "43395",
     "MICR": "500771006",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "RANGAREDDI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001008": {
     "IFSC": "FINO0001008",
@@ -75,14 +75,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "F 12,ALISHAN COMPLEX,NH ROAD,DANILIMBDA,AHMEDABAD -380043",
     "CONTACT": "07069013958",
-    "DATE": "43395",
     "MICR": "380771002",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001012": {
     "IFSC": "FINO0001012",
@@ -92,14 +92,14 @@
     "STATE": "BIHAR",
     "ADDRESS": "MILL ROAD,KHAGARIA,DIST -KHAGARIA,BIHAR -841204",
     "CONTACT": "09708681922",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "KHAGARIA",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001023": {
     "IFSC": "FINO0001023",
@@ -109,14 +109,14 @@
     "STATE": "BIHAR",
     "ADDRESS": "MAIN ROAD DIGHWARA BUS STAND,FRONT OF BOI,DIGHARA,DIST -SARAN,BIHAR -841207",
     "CONTACT": "09835421803",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "SARAN",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001024": {
     "IFSC": "FINO0001024",
@@ -126,14 +126,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "SHOP NO-201,SILVER POINT,PLOT NO-42/2,GIDC,UMBERGAON,VALSAD-396130",
     "CONTACT": "09687631267",
-    "DATE": "43395",
     "MICR": "396771151",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "VALSAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001025": {
     "IFSC": "FINO0001025",
@@ -143,14 +143,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "48-303,SHOP NO 6,OPP.HDFC BANK,GANESH NAGAR,CHINTAL - 500054",
     "CONTACT": "09951591504",
-    "DATE": "43395",
     "MICR": "500771003",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001028": {
     "IFSC": "FINO0001028",
@@ -160,14 +160,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "1-23-113,PLOT NO.2,SHREE NILAYAM,BHOODEVI NAGAR,ALWAL,SECUNDARABAD -500015",
     "CONTACT": "09502744735",
-    "DATE": "43395",
     "MICR": "500771002",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001029": {
     "IFSC": "FINO0001029",
@@ -177,14 +177,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "SRT 311,7-2-532,I H COLONY,SANATHNAGAR,HYDERABAD -500018",
     "CONTACT": "09866621202",
-    "DATE": "43395",
     "MICR": "500771004",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001042": {
     "IFSC": "FINO0001042",
@@ -194,14 +194,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SAKINABAI CHAWL,S.V.ROAD,ABOVE GOODWILLMOTER STORE,AMBAWADI,DAHISAREAST",
     "CONTACT": "08097349650",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001043": {
     "IFSC": "FINO0001043",
@@ -211,14 +211,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "SANT KUTEER NAGAR NIGAM ROAD,  SANGANEER BAZAAR, JAIPUR 302029",
     "CONTACT": "09928873757",
-    "DATE": "43395",
     "MICR": "302771002",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "SANGANEER",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001044": {
     "IFSC": "FINO0001044",
@@ -228,14 +228,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "H.NO.136,SHOP NO.2,ABOVE PUNJABI DHABHA,CBA COMPLEX,NEAR SALARPUR GATE NO.1,DADRI ROAD,BHANGEL-NOIDA,NOIDA-201301",
     "CONTACT": "09643331694",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "GAUTAM BUDDHA NAGAR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001045": {
     "IFSC": "FINO0001045",
@@ -245,14 +245,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP PREMISES NO.2,NAVDEEP CHS,OPP.MALHAR ARCADE,NEAR VIMAL DAIRY,BHAYANDAR TAL.BHAYNADAR& DIST.THANE -401105",
     "CONTACT": "09930902568",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "THANA",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001046": {
     "IFSC": "FINO0001046",
@@ -262,14 +262,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.03,GROUND FLOOR,DASHRATH APARTMENT,OPP.DATTA MANDIR,KALYAN PHATA,DIAGHAR ROAD,POST.PADLE,TQ. & DIST.THANE-421204",
     "CONTACT": "08551993877",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "THANA",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001047": {
     "IFSC": "FINO0001047",
@@ -279,14 +279,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "S.NO.100,RC 1,SHOP NO.2,NEAR SBI BANK,AKURDI,PUNE-411035",
     "CONTACT": "09403427082",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001048": {
     "IFSC": "FINO0001048",
@@ -296,14 +296,14 @@
     "STATE": "BIHAR",
     "ADDRESS": "THANA ROAD,AT PO&PS PAROO,DIST -MUZAFFARPUR,BIHAR -843112",
     "CONTACT": "09507087089",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUZAFFARPUR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001052": {
     "BANK": "FINO PAYMENTS BANK",
@@ -319,7 +319,8 @@
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001057": {
     "IFSC": "FINO0001057",
@@ -329,14 +330,14 @@
     "STATE": "DELHI",
     "ADDRESS": "PLOT NO.12,VILLAGE MUKANDPUR,ADARSH PARK,DELHI-42",
     "CONTACT": "08447430746",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "NORTH DELHI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001060": {
     "IFSC": "FINO0001060",
@@ -346,14 +347,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "SHOP NO.A-17,YOJNA PURI COLONY,RAJASTHAN AWASAN MANDAL,BHIWADI,TEHSIL TIJARA,DISTT.ALWAR,RAJASTHAN",
     "CONTACT": "09509412150",
-    "DATE": "43395",
     "MICR": "301771002",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "ALWAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001061": {
     "IFSC": "FINO0001061",
@@ -363,14 +364,14 @@
     "STATE": "BIHAR",
     "ADDRESS": "UBI BUILDING GROUND FLOOR KALI CHAK BEGUSARAI 851101",
     "CONTACT": "09570044325",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "BEGUSARAI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001067": {
     "BANK": "FINO PAYMENTS BANK",
@@ -386,7 +387,8 @@
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001072": {
     "IFSC": "FINO0001072",
@@ -396,14 +398,14 @@
     "STATE": "DELHI",
     "ADDRESS": "PLOT NO.19,RAJENDRA PARK,NANGLOI,DELHI-110041",
     "CONTACT": "08447437374",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "WEST DELHI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001076": {
     "IFSC": "FINO0001076",
@@ -413,14 +415,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "H.NO.2217/14,WARD NO-5,DOCTOR KAUSHIK GALI,JAWAHAR COLONY,N.I.T,FARIDABAD,SECTOR 22,HARYANA-121005",
     "CONTACT": "09810150043",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "FARIDABAD",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001086": {
     "IFSC": "FINO0001086",
@@ -430,14 +432,14 @@
     "STATE": "DELHI",
     "ADDRESS": "SHOP NO-1-17B,G/F DEV NAGAR KAROL BAGH-110005",
     "CONTACT": "09654163537",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "CENTRAL DELHI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001089": {
     "IFSC": "FINO0001089",
@@ -447,14 +449,14 @@
     "STATE": "DELHI",
     "ADDRESS": "H NO 70, G , F, JASOLA VILLAGE, NEAR JAMIA COPERATIVE, NEW DELHI  110025",
     "CONTACT": "9716082250",
-    "DATE": "42916",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "NEW DELHI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001091": {
     "IFSC": "FINO0001091",
@@ -464,14 +466,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "HOUSE NO.B 321/1,NEAR GREEN SWEETS,NANDGRAM,GHAZIABAD,UP-201005",
     "CONTACT": "08802985613",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "GHAZIABAD",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001093": {
     "IFSC": "FINO0001093",
@@ -481,14 +483,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "SHOP NO.623/10,GR.FLOOR,BHIM NAGARROAD,GURGAON,HARYANA - 122001",
     "CONTACT": "07053006989",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "GURGAON",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001107": {
     "IFSC": "FINO0001107",
@@ -498,14 +500,14 @@
     "STATE": "DELHI",
     "ADDRESS": "C-1254,GR FLOOR,JJ COLONY,MADANPUR KHADAR ROAD,DELHI",
     "CONTACT": "08800512358",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "SOUTH DELHI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001108": {
     "IFSC": "FINO0001108",
@@ -515,14 +517,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "TIRLOKPUR ROAD,KALA AMB,AMBALA,HARYANA -133001",
     "CONTACT": "08352982985",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "NARAINGARH",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001109": {
     "IFSC": "FINO0001109",
@@ -532,14 +534,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO 16,THAKUR GODASE BLD,ALANDI,TAL.KHAD,PUNE -410501",
     "CONTACT": "08055144544",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001111": {
     "IFSC": "FINO0001111",
@@ -549,14 +551,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PLOT NO-12,S.NO.495,RAJA KARMACHARI,ASHOK NAGAR,SATPUR,NASHIK -422007",
     "CONTACT": "09146787852",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "NASIK",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001112": {
     "IFSC": "FINO0001112",
@@ -566,14 +568,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "D.NO.66-1-1A,PLOT NO 32C/396,WARD NO 27A,SIVALAYAM STREET,NTR CIRCLE,PATAMATA,KRISHNA DIST.VIJAYWADA,AP -520010",
     "CONTACT": "08520048256",
-    "DATE": "43395",
     "MICR": "500771002",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "VIJAYWADA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001113": {
     "IFSC": "FINO0001113",
@@ -583,14 +585,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "WARD 3,SERAJ MANJRE,TEH BADDI DISTT.SOLAN,HP -173205",
     "CONTACT": "07831889070",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "SOLAN",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001115": {
     "IFSC": "FINO0001115",
@@ -600,14 +602,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.1,PAGARE NIWAS,PIPE LINE,TULSHEET PADA ROAD,BHANDUP W -400078",
     "CONTACT": "09890179851",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001116": {
     "IFSC": "FINO0001116",
@@ -617,14 +619,14 @@
     "STATE": "KARNATAKA",
     "ADDRESS": "NO.4/2,W.NO.12,HOSUR MAIN ROAD,BOMMANAHALLI,BANGALORE -560068",
     "CONTACT": "09966689497",
-    "DATE": "43395",
     "MICR": "560771002",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001118": {
     "IFSC": "FINO0001118",
@@ -634,14 +636,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "SHOP NO 1784/45,R K COMPLEX PALSANA,CHAR RASTA,PALSANA,SURAT -394327",
     "CONTACT": "09978865765",
-    "DATE": "43395",
     "MICR": "395771002",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001122": {
     "IFSC": "FINO0001122",
@@ -651,14 +653,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "SHOP NO 22,GR.FLOOR,SAI NARAYAN COMPLEX,BLOCK NO.695,AT& PO-DAHEJ,TA VAGARA,BHARUCH -392130",
     "CONTACT": "09574172797",
-    "DATE": "43395",
     "MICR": "392771071",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "BHARUCH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001125": {
     "IFSC": "FINO0001125",
@@ -668,14 +670,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO-42,GOLD FIELD PLAZA,SION BANDRA LINK ROAD,DHARAVI,MUMBAI - 400017",
     "CONTACT": "08291958145",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001128": {
     "IFSC": "FINO0001128",
@@ -685,14 +687,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "MEGHNA AMPAYAR,G.F SHOP NO.15,GADKHOL,TAL-ANKLESHWAR,DIST-BHARUCH,GUJRAT-393001",
     "CONTACT": "09727118778",
-    "DATE": "43395",
     "MICR": "393771051",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "ANKLESHWAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001129": {
     "IFSC": "FINO0001129",
@@ -702,14 +704,14 @@
     "STATE": "DELHI",
     "ADDRESS": "X/25006 RAGHUVARPURA NO 2,GHANDHI NAGAR - 110031",
     "CONTACT": "07042793001",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "EAST DELHI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001131": {
     "IFSC": "FINO0001131",
@@ -719,14 +721,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "SVA ROAD,NEAR SVA CHOWK,VILLAGE GIASPURA TEHSIL& DISTT.LUDHIANA-141010",
     "CONTACT": "09115990402",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "LUDHIANA",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001138": {
     "IFSC": "FINO0001138",
@@ -736,14 +738,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "1321/2,GR.FLR,GANESH NAGAR ROAD,OPP GANESH MANDIR,JANAKPURI TEHSIL AND DISTT.LUDHIANA,PUNJAB - 141003",
     "CONTACT": "09988695983",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "LUDHIANA",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001141": {
     "IFSC": "FINO0001141",
@@ -753,14 +755,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "UNIT NO F-TYPE,SHOP NO 27,SECTOR 4EA,KALAMBOLI,NAVI MUMBAI,MAHARASHTRA",
     "CONTACT": "07045955806",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "RAIGAD",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001142": {
     "IFSC": "FINO0001142",
@@ -770,14 +772,14 @@
     "STATE": "DELHI",
     "ADDRESS": "1652 A/15,GOVINDPURI,KALKAJI,NEW DELHI-110019",
     "CONTACT": "08130899799",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "SOUTH DELHI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001143": {
     "BANK": "FINO PAYMENTS BANK",
@@ -793,7 +795,8 @@
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001146": {
     "IFSC": "FINO0001146",
@@ -803,14 +806,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GATE NO.2912,TAL-KHED,DIST-PUNE,KHARABWADI -410505",
     "CONTACT": "08291958252",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001147": {
     "IFSC": "FINO0001147",
@@ -820,14 +823,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "A-10/1,GROUND FLOOR,DEEPAK VIHAR,KHORA ROAD,NOIDA,UP -201008",
     "CONTACT": "09990263971",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "NOIDA",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001150": {
     "IFSC": "FINO0001150",
@@ -837,14 +840,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "PLOT NO - 11,NAVANAGAR,LIMBAYAT,DINDOLI,SURAT -394210",
     "CONTACT": "09638695703",
-    "DATE": "43395",
     "MICR": "395771003",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001157": {
     "IFSC": "FINO0001157",
@@ -854,14 +857,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "CEN 676,PLOT B 5,LANE - 5,MATANG,RUSHI NAGAR,G M LINK ROAD,MANKHURD-400073",
     "CONTACT": "09920392107",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001165": {
     "IFSC": "FINO0001165",
@@ -871,14 +874,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "HOTEL LAKEVIEW,NAROL CIRCLE,NAROL,AHMEDABAD -382405",
     "CONTACT": "09712852020",
-    "DATE": "43395",
     "MICR": "380771003",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001167": {
     "IFSC": "FINO0001167",
@@ -888,14 +891,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "B-24-3379/2 MAIN ROAD GALI NO 15,NEW MADHAVPURI LUDHIANA -141008",
     "CONTACT": "09357131132",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "LUDHIANA",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001179": {
     "IFSC": "FINO0001179",
@@ -905,14 +908,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "SHOP NO 47,TALANGPUR ROAD,G.I.D.C.SACHIN,SURAT -394520",
     "CONTACT": "07069092674",
-    "DATE": "43395",
     "MICR": "395771004",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001180": {
     "IFSC": "FINO0001180",
@@ -922,14 +925,14 @@
     "STATE": "DELHI",
     "ADDRESS": "RZ G-48-A F/F POLE NO 329,WEST SAGAR PUR,NEW DELHI 110046",
     "CONTACT": "09311298790",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "SOUTH WEST DELHI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001183": {
     "IFSC": "FINO0001183",
@@ -939,14 +942,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "ROOM NO.1,BUILDING NAME PLOT NO.12/Q/1,BLOCK,SECTOR GOVANDI,ROAD NEAR SHIV SENA OFFICE,GOVANDI,MUMBAI,MAHARASHTRA,400043",
     "CONTACT": "09821654482",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001185": {
     "IFSC": "FINO0001185",
@@ -956,14 +959,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "VAKIA RABADI,MAHAKALI NAGAR,SAIPUR,SODAL ROAD,JALAHANDAR-144004",
     "CONTACT": "09878445550",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "JALANDHAR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001192": {
     "IFSC": "FINO0001192",
@@ -973,14 +976,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "H.NO.4-32-990,PLOT NO.A/412,GROUND FLOOR,1ST PHASE ROAD,ALWYAN COLONY,JAGATGIRIGUTTA,KUKATAPALLY VILLAGE,BALA NAGAR MANDAL,HYDERABAD-500071",
     "CONTACT": "07097525814",
-    "DATE": "43395",
     "MICR": "500771005",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001193": {
     "IFSC": "FINO0001193",
@@ -990,14 +993,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHRIKRISHNA BLD,OPP.BANK OF BARODA,WADKHAL,TAL - PEN,RAIGAD -402107",
     "CONTACT": "09421726103",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001196": {
     "IFSC": "FINO0001196",
@@ -1007,14 +1010,14 @@
     "STATE": "DELHI",
     "ADDRESS": "H.NO 5/1,BLOCK -C,WAZIRPUR IND AREA,DELHI - 110052",
     "CONTACT": "08882581272",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "NORTH WEST DELHI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001198": {
     "IFSC": "FINO0001198",
@@ -1024,14 +1027,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "KHAJURI ROAD,NEAR YAMUNA BHARAMANKANT,YAMUNAGAGAR,HARYANA -135001",
     "CONTACT": "09034211624",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "YAMUNANAGAR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001200": {
     "IFSC": "FINO0001200",
@@ -1041,14 +1044,14 @@
     "STATE": "BIHAR",
     "ADDRESS": "STATION ROAD,DIGHI KALA,HAJIPUR,VAISHALI,BIHAR -844101",
     "CONTACT": "09263496285",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "VAISHALI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001202": {
     "BANK": "FINO PAYMENTS BANK",
@@ -1064,7 +1067,8 @@
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001207": {
     "IFSC": "FINO0001207",
@@ -1074,14 +1078,14 @@
     "STATE": "BIHAR",
     "ADDRESS": "UBI BUILDING,HOSPITAL CHOWK,IN FRONT OF SADAR HOSPITAL,STATION ROAD,GAPALGANJ BIHAR -841428",
     "CONTACT": "08882226582",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "GOPALGANJ",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001220": {
     "IFSC": "FINO0001220",
@@ -1091,14 +1095,14 @@
     "STATE": "BIHAR",
     "ADDRESS": "BAJITPUR STATION ROAD,  BARH BIHAR 803214",
     "CONTACT": "8294166163",
-    "DATE": "42916",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "PATNA",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001226": {
     "IFSC": "FINO0001226",
@@ -1108,14 +1112,14 @@
     "STATE": "BIHAR",
     "ADDRESS": "GANJBAZAR,MUSTFAGANJ,MINAPUR,DIST -MUZAFFARPUR,BIHAR -843128",
     "CONTACT": "08416882768",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUZAFFARPUR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001231": {
     "IFSC": "FINO0001231",
@@ -1125,14 +1129,14 @@
     "STATE": "BIHAR",
     "ADDRESS": "PACHHIM MOHALLA,MIRGANJ,PS -UCHAKAGAON,DIST -GOPALGANJ,BIHAR -841207",
     "CONTACT": "09931750849",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "GOPALGANJ",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001269": {
     "BANK": "FINO PAYMENTS BANK",
@@ -1148,7 +1152,8 @@
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001273": {
     "IFSC": "FINO0001273",
@@ -1158,14 +1163,14 @@
     "STATE": "BIHAR",
     "ADDRESS": "PATEL SCHOOL ROAD,MAHESHKHUNT,BIHAR -851213",
     "CONTACT": "08051941851",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "KHAGARIA",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001281": {
     "IFSC": "FINO0001281",
@@ -1175,14 +1180,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "KARAD RD,NEAR MUKTANGAN VACHANALAYA,PANDURANG COMPLEX,VITA,MAH-415311",
     "CONTACT": "08412844161",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "SANGLI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001284": {
     "IFSC": "FINO0001284",
@@ -1192,14 +1197,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "KRANTIVIR COMPLEX,KALA MARUTI MANDIR ROAD,BEHIND TAJMAHAL TALKIES,OSMANABAD 413501",
     "CONTACT": "09970990188",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "OSMANABAD",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001289": {
     "IFSC": "FINO0001289",
@@ -1209,14 +1214,14 @@
     "STATE": "BIHAR",
     "ADDRESS": "NEAR KALI MANDIR,MAIN CHOWK,BAHERI,DIST -MUZAFFARPUR,BIHAR -847105",
     "CONTACT": "09771032823",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "DARBHANGA",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001290": {
     "IFSC": "FINO0001290",
@@ -1226,14 +1231,14 @@
     "STATE": "BIHAR",
     "ADDRESS": "C/O JANTA HOMEO HALL,STATION ROAD,BAKITIYARPUR,PATNA,BIHAR -803212",
     "CONTACT": "08271331474",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "PATNA",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001292": {
     "IFSC": "FINO0001292",
@@ -1243,14 +1248,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "FIRST FLOOR,SHOP NO-09,KALASH PRIDE,NEAR WAI BANK,MALKAPUR,TAL-KARAD,MAH - 415110",
     "CONTACT": "09860555968",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "SATARA",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001296": {
     "IFSC": "FINO0001296",
@@ -1260,14 +1265,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PLOT NO.16,WARD NO.14,PATANGE RD,NEAR POST OFFICE,UMARGA-413606",
     "CONTACT": "08805797737",
-    "DATE": "43395",
     "MICR": "413882609",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "OSMANABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001299": {
     "IFSC": "FINO0001299",
@@ -1277,14 +1282,14 @@
     "STATE": "BIHAR",
     "ADDRESS": "BADI MASZID,SATYADEV GANJ,MAIN ROAD BUXAR,BIHAR PIN -802101",
     "CONTACT": "08507765211",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "BUXAR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001306": {
     "IFSC": "FINO0001306",
@@ -1294,14 +1299,14 @@
     "STATE": "BIHAR",
     "ADDRESS": "SARKARI BAZAR,TULSI GALI,CHHAPRA -841301",
     "CONTACT": "09308084616",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "SARAN",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001308": {
     "IFSC": "FINO0001308",
@@ -1311,14 +1316,14 @@
     "STATE": "BIHAR",
     "ADDRESS": "KUER COMPLEX,GHAT NAWADA,DALSINGHSARAI,DIST -SAMASTIPUR,BIHAR -848114",
     "CONTACT": "07277485164",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "SAMASTIPUR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001309": {
     "IFSC": "FINO0001309",
@@ -1328,14 +1333,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "NEAR BHOJRAJ HOTEL,OPP.DWARKADAS SHYAM KUMAR,RAVIVAR PETH,PHALTAN,MAH-415523",
     "CONTACT": "09096410091",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "SATARA",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001310": {
     "IFSC": "FINO0001310",
@@ -1345,14 +1350,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "HOUSE NO.4069,TULJAPUR ROAD,NEAR SBI& BUS STAND,BARSHI-413401",
     "CONTACT": "09921547893",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "SOLAPUR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001325": {
     "IFSC": "FINO0001325",
@@ -1362,14 +1367,14 @@
     "STATE": "BIHAR",
     "ADDRESS": "MAHESH BABU CHOWK,JHURAN CHHAPRA,MUZAFFARPUR,BIHAR -842003",
     "CONTACT": "08877621573",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUZAFFARPUR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001326": {
     "IFSC": "FINO0001326",
@@ -1379,14 +1384,14 @@
     "STATE": "BIHAR",
     "ADDRESS": "KARI MOHALLA MARE,NEAR MAHABIR MANDIR ARA BHOJPUR BIHAR -802301",
     "CONTACT": "07301507098",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "BHOJPUR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001327": {
     "IFSC": "FINO0001327",
@@ -1396,14 +1401,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "NEAR ICICI BANK,MAIN ROAD,KAVATHEMAHANKAL - 416405",
     "CONTACT": "09595707615",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "SANGLI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001337": {
     "IFSC": "FINO0001337",
@@ -1413,14 +1418,14 @@
     "STATE": "BIHAR",
     "ADDRESS": "BALLIA BAZAR,PO.- LAKHMINIYA,DISTT.- BEGUSARAI,PIN -851211",
     "CONTACT": "07549007777",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "BEGUSARAI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001339": {
     "IFSC": "FINO0001339",
@@ -1430,14 +1435,14 @@
     "STATE": "BIHAR",
     "ADDRESS": "WARD NO 21,BAHADURPUR,NEAR ANUP TAKIES,SAMASTIPUR-851211",
     "CONTACT": "09471278470",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "SAMASTIPUR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001342": {
     "IFSC": "FINO0001342",
@@ -1447,14 +1452,14 @@
     "STATE": "BIHAR",
     "ADDRESS": "AKBAR MALAHI,SARAI MAIN ROAD,DIST -VAISALI,BIHAR -844125",
     "CONTACT": "09835825210",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "VAISHALI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001346": {
     "IFSC": "FINO0001346",
@@ -1464,14 +1469,14 @@
     "STATE": "BIHAR",
     "ADDRESS": "MOBARAK RASULPUR,MOBARAKPUR MANIKPUR,MAHUA,VAISHALI-844122",
     "CONTACT": "08935940958",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "VAISHALI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001347": {
     "IFSC": "FINO0001347",
@@ -1481,14 +1486,14 @@
     "STATE": "BIHAR",
     "ADDRESS": "NEAR STATE BANK OF INDIA ATM,BABUNIYA ROAD,SIWAN,BIHAR-841226",
     "CONTACT": "08873009006",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "SIWAN",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001349": {
     "IFSC": "FINO0001349",
@@ -1498,14 +1503,14 @@
     "STATE": "BIHAR",
     "ADDRESS": "MAHNA ROAD,NEAR GANDHI CHOWK,MOTIPUR,DIST-MUZAFFARPUR,BIHAR-843111",
     "CONTACT": "08298808494",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUZAFFARPUR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001350": {
     "IFSC": "FINO0001350",
@@ -1515,14 +1520,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHIVAJI NAGAR,OPP.BHARAT GAS,WASHI,MAH-413503",
     "CONTACT": "09730609976",
-    "DATE": "43395",
     "MICR": "413882610",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "OSMANABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001351": {
     "BANK": "FINO PAYMENTS BANK",
@@ -1538,7 +1543,8 @@
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001356": {
     "IFSC": "FINO0001356",
@@ -1548,14 +1554,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "1297/A2,LONAR GALLI,SHIVAJI CHOWK,PANDARPUR MAH-413304",
     "CONTACT": "09049041042",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "SOLAPUR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001359": {
     "IFSC": "FINO0001359",
@@ -1565,14 +1571,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "NEAR BUS STAND,SHIVAJI CHOWK,TAL-UMARGA,DIST OSMANABAD,LOHARA-413608",
     "CONTACT": "09766141666",
-    "DATE": "43395",
     "MICR": "413882604",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "OSMANABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001407": {
     "BANK": "FINO PAYMENTS BANK",
@@ -1588,7 +1594,8 @@
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001414": {
     "IFSC": "FINO0001414",
@@ -1598,14 +1605,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "SERVE NO - 2124,VAPI SILVASSA ROAD,TALUKA - PARDI,DI - VALSAD -396191",
     "CONTACT": "09099230130",
-    "DATE": "43395",
     "MICR": "396771031",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "VAPI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001422": {
     "IFSC": "FINO0001422",
@@ -1615,14 +1622,14 @@
     "STATE": "BIHAR",
     "ADDRESS": "TERHI BAZAR,OPP.POWER HOUSE,NEAR NATIONAL CINEMA,DARBHANGA-846004",
     "CONTACT": "08420346056",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "DARBHANGA",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001437": {
     "IFSC": "FINO0001437",
@@ -1632,14 +1639,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "294,ASHIRWAD BUILDING,R.K.EXTENTION,STAND ROAD,SANGLI 416416",
     "CONTACT": "09175124754",
-    "DATE": "2017-06-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "SANGLI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001445": {
     "IFSC": "FINO0001445",
@@ -1649,14 +1656,14 @@
     "STATE": "BIHAR",
     "ADDRESS": "Opp Electric office, padari ki haweli, Patna City-800001",
     "CONTACT": "06127103500",
-    "DATE": "43676",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "Patna",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001447": {
     "IFSC": "FINO0001447",
@@ -1666,14 +1673,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shop 5,6,7,8, 23-1, Sauth Kasaba Laxmi Market, Solapur 413305",
     "CONTACT": "00",
-    "DATE": "43676",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "Solapur",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001448": {
     "IFSC": "FINO0001448",
@@ -1683,14 +1690,14 @@
     "STATE": "BIHAR",
     "ADDRESS": "Pethiya Bazar, Near Durga Asthan, Phulwari Sharif, Danapur, Dist - Patna, Bihar - 801505",
     "CONTACT": "05422410019",
-    "DATE": "43676",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "Danapur",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001550": {
     "IFSC": "FINO0001550",
@@ -1700,14 +1707,14 @@
     "STATE": "DAMAN AND DIU",
     "ADDRESS": "ASHAPURA MOBILE AND GENERAL STORE SHOP NO 3 OPPO PATELBAR O I D C, DABHEL DAMAN CHHAILSINGH DEORA 362520",
     "CONTACT": "00",
-    "DATE": "2020-07-18",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "DIU",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001551": {
     "IFSC": "FINO0001551",
@@ -1717,14 +1724,14 @@
     "STATE": "GOA",
     "ADDRESS": "B 003, CASA AMORA, PHASE 1, KADAMBA PLATUE, BAINGINIUM, OLD GOA, TISWADI, GOA 403402",
     "CONTACT": "00",
-    "DATE": "2020-07-18",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "NORTH GOA",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001552": {
     "IFSC": "FINO0001552",
@@ -1734,14 +1741,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "FINO PAYMENTS BANK LTD SECOND FLOOR, PLOT NO 143, MAHAKALI SOCIETY, TRILANGA, BHOPAL DISTT BHOPAL M P 462039",
     "CONTACT": "00",
-    "DATE": "2020-07-18",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "BHOPAL",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001553": {
     "IFSC": "FINO0001553",
@@ -1751,14 +1758,14 @@
     "STATE": "CHHATTISGARH",
     "ADDRESS": "OFFICE NO 317 AND 318, 3RD FLOOR, ORBIT MALL, SUNDER NAGAR CHOWK, MAHADEV GHAT ROAD, RAIPUR C G 492001",
     "CONTACT": "00",
-    "DATE": "2020-07-18",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "RAIPUR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001555": {
     "IFSC": "FINO0001555",
@@ -1768,14 +1775,14 @@
     "STATE": "KERALA",
     "ADDRESS": "LRA 1, 1ST FLOOR, SUBHASH CHANDRA BOSE RD, PONNURUNNI, VYTTILA, ERNAKULAM, KERALA 682019",
     "CONTACT": "00",
-    "DATE": "2020-10-01",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "ERNAKULAM",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001556": {
     "IFSC": "FINO0001556",
@@ -1785,14 +1792,14 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "NO 337 PSM NAGAR, MELAKKAL MAIN ROAD, KOCHADAI",
     "CONTACT": "00",
-    "DATE": "2020-10-01",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOCHADAI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0001557": {
     "IFSC": "FINO0001557",
@@ -1802,14 +1809,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "E 17, FRIENDS ENCLAVE, VIDHAN SABHA, RISHIKESH ROAD BEHIND DEFENSE COLONY NEAR RAILWAY CROSSING DEHRADUN 248012, UTTARAKHAND",
     "CONTACT": "00",
-    "DATE": "2020-07-18",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "DEHRADUN",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0009001": {
     "IFSC": "FINO0009001",
@@ -1819,14 +1826,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Mindspace Juinagar, Plot no. Gen 2/1/F, Tower 1, 8th Floor, TTC Industrial Area, MIDC Shirwane, Juinagar, Navi Mumbai- 400 706",
     "CONTACT": "71047054",
-    "DATE": "2020/05/22",
     "BANK": "Fino Payments Bank",
     "UPI": true,
     "RTGS": true,
     "CITY": "NAVI MUMBAI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0009002": {
     "IFSC": "FINO0009002",
@@ -1836,14 +1843,14 @@
     "STATE": "Jharkhand",
     "ADDRESS": "2nd Floor, COMMERCE HOUSE, LINE TANK ROAD, RANCHI 834001",
     "CONTACT": "71047054",
-    "DATE": "2020/04/25",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "RANCHI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0009003": {
     "IFSC": "FINO0009003",
@@ -1853,14 +1860,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Mindspace Juinagar, Plot no. Gen 2/1/F, Tower 1, 8th Floor, TTC Industrial Area, MIDC Shirwane, Juinagar, Navi Mumbai- 400 706",
     "CONTACT": "71047054",
-    "DATE": "2020/05/22",
     "BANK": "Fino Payments Bank",
     "UPI": true,
     "RTGS": true,
     "CITY": "NAVI MUMBAI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "FINO0009009": {
     "IFSC": "FINO0009009",
@@ -1870,13 +1877,13 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO 4 SAI PALACE NEXT TO OSWAL NAGAI TULINJ NALASOPARA E 401209",
     "CONTACT": "00",
-    "DATE": "2019-07-29",
     "BANK": "FINO PAYMENTS BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

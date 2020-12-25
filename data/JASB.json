@@ -11,10 +11,10 @@
     "IMPS": true,
     "CITY": "MUMBAI",
     "UPI": false,
-    "DATE": "23/08/2013",
     "MICR": "400804001",
     "RTGS": true,
-    "NEFT": false
+    "NEFT": false,
+    "SWIFT": null
   },
   "JASB0000002": {
     "BANK": "JANASEVA SAHAKARI BANK BORIVLI LIMITED",
@@ -30,7 +30,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JASB0000003": {
     "BANK": "JANASEVA SAHAKARI BANK BORIVLI LIMITED",
@@ -46,7 +47,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JASB0000004": {
     "BANK": "JANASEVA SAHAKARI BANK BORIVLI LIMITED",
@@ -62,7 +64,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JASB0000005": {
     "BANK": "JANASEVA SAHAKARI BANK BORIVLI LIMITED",
@@ -78,7 +81,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JASB0000006": {
     "BANK": "JANASEVA SAHAKARI BANK BORIVLI LIMITED",
@@ -94,7 +98,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JASB0000007": {
     "BANK": "JANASEVA SAHAKARI BANK BORIVLI LIMITED",
@@ -110,7 +115,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JASB0000008": {
     "BANK": "JANASEVA SAHAKARI BANK BORIVLI LIMITED",
@@ -126,7 +132,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JASB0000009": {
     "BANK": "JANASEVA SAHAKARI BANK BORIVLI LIMITED",
@@ -142,7 +149,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JASB0000010": {
     "BANK": "JANASEVA SAHAKARI BANK BORIVLI LIMITED",
@@ -158,7 +166,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JASB0000011": {
     "BANK": "JANASEVA SAHAKARI BANK BORIVLI LIMITED",
@@ -174,7 +183,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JASB0000012": {
     "BANK": "JANASEVA SAHAKARI BANK BORIVLI LIMITED",
@@ -190,7 +200,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JASB0000013": {
     "IFSC": "JASB0000013",
@@ -200,14 +211,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO. 11, GROUND FLOOR, VIRAR NAND DHAM CO OPERATIVE HOUSING LTD, VIVA COLLEGE ROAD, NEAR RAM NAGAR, VIRAR WEST, THANE 401303.",
     "CONTACT": "2506012411",
-    "DATE": "01/01/2015",
     "MICR": "400804013",
     "BANK": "JANASEVA SAHAKARI BANK (BORIVLI) LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "THANE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JASB0000014": {
     "IFSC": "JASB0000014",
@@ -217,14 +228,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO. 4,5 AND 6, JAY KHODIYAR BHAVAN, AMBADI ROAD, VASAI WEST, THANE 401202.",
     "CONTACT": "00",
-    "DATE": "01/01/2015",
     "MICR": "400804014",
     "BANK": "JANASEVA SAHAKARI BANK (BORIVLI) LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "THANE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "JASB0999999": {
     "BANK": "JANASEVA SAHAKARI BANK BORIVLI LIMITED",
@@ -240,6 +251,7 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

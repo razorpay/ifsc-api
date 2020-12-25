@@ -11,10 +11,10 @@
     "IMPS": true,
     "CITY": "NAGPUR",
     "UPI": false,
-    "DATE": "08/08/2011",
     "RTGS": true,
     "NEFT": false,
-    "MICR": null
+    "MICR": null,
+    "SWIFT": null
   },
   "NGSB0000002": {
     "IFSC": "NGSB0000002",
@@ -24,14 +24,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHAHID CHOWK, ITWARI",
     "CONTACT": "7122764787",
-    "DATE": "08/08/2011",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAGPUR",
     "MICR": "440183002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000003": {
     "IFSC": "NGSB0000003",
@@ -41,14 +41,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "1ST FLR,SITARAM SMRUTI,WEST HIGHCOURT RD,\nLAXMIBHAVAN SQ ,DHARAMPETH",
     "CONTACT": "7122555210",
-    "DATE": "08/08/2011",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAGPUR",
     "MICR": "440183003",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000004": {
     "IFSC": "NGSB0000004",
@@ -58,14 +58,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MURLIDHAR COMPLEX, TEMPLE BAZAR ROAD, SITABULDI",
     "CONTACT": "7122532111",
-    "DATE": "08/08/2011",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAGPUR",
     "MICR": "440183004",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000005": {
     "IFSC": "NGSB0000005",
@@ -75,14 +75,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "JR.BHOSALA PALACE,TULSHIBAGH ROAD, MAHAL",
     "CONTACT": "7122730044",
-    "DATE": "08/08/2011",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAGPUR",
     "MICR": "440183005",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000006": {
     "IFSC": "NGSB0000006",
@@ -92,14 +92,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "79,DR.AMBEDKAR CHOWK,CENTRAL AVENUE, NAGPUR",
     "CONTACT": "7122763523",
-    "DATE": "08/08/2011",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAGPUR",
     "MICR": "440183006",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000007": {
     "IFSC": "NGSB0000007",
@@ -109,14 +109,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MOUNT ROAD,SADAR",
     "CONTACT": "7122523080",
-    "DATE": "08/08/2011",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAGPUR",
     "MICR": "440183007",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000008": {
     "IFSC": "NGSB0000008",
@@ -126,14 +126,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "DEV NAGAR CHOWK",
     "CONTACT": "7122247690",
-    "DATE": "08/08/2011",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAGPUR",
     "MICR": "440183008",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000009": {
     "IFSC": "NGSB0000009",
@@ -143,14 +143,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MIDC AREA,SOUTH AMBAZARI,HINGNA ROAD",
     "CONTACT": "7104237482",
-    "DATE": "08/08/2011",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAGPUR",
     "MICR": "440183009",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000010": {
     "IFSC": "NGSB0000010",
@@ -160,14 +160,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "JUNI OLI,KAMPTEE DIST-NAGPUR",
     "CONTACT": "7109288405",
-    "DATE": "08/08/2011",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAGPUR",
     "MICR": "440183010",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000011": {
     "IFSC": "NGSB0000011",
@@ -177,14 +177,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "KALAMNAMARKET YARD",
     "CONTACT": "7122680536",
-    "DATE": "08/08/2011",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAGPUR",
     "MICR": "440183011",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000012": {
     "IFSC": "NGSB0000012",
@@ -194,14 +194,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "“SHRIKRISHNA”,RING ROAD,DEENDAYAL NAGAR",
     "CONTACT": "7122289906",
-    "DATE": "08/08/2011",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAGPUR",
     "MICR": "440183012",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000013": {
     "IFSC": "NGSB0000013",
@@ -211,14 +211,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "217,SIDDHESH SAI MAHIMA APART., \nINFRO OF SAKKARDARA POLICE STATION",
     "CONTACT": "7122748627",
-    "DATE": "08/08/2011",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAGPUR",
     "MICR": "440183013",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000014": {
     "IFSC": "NGSB0000014",
@@ -228,14 +228,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHILA COMPLEX,AMARAVATI ROAD, WADI",
     "CONTACT": "7104221297",
-    "DATE": "08/08/2011",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAGPUR",
     "MICR": "440183014",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000015": {
     "IFSC": "NGSB0000015",
@@ -245,14 +245,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "NR.AGRASEN CHOWK,ABOVE VIDARBHA ELECTRICAL,\n1ST FLOOR, GANDHIGAGH",
     "CONTACT": "7122764850",
-    "DATE": "08/08/2011",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAGPUR",
     "MICR": "440183015",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000016": {
     "IFSC": "NGSB0000016",
@@ -262,14 +262,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PLOT NO 38, HOUSE NO 568,LASHKARI BAGH, KAMAL TALKIES,",
     "CONTACT": "7122655170",
-    "DATE": "08/08/2011",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAGPUR",
     "MICR": "440183016",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000017": {
     "IFSC": "NGSB0000017",
@@ -279,14 +279,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "301,JAWAHAR NAGAR,MANEWADA ROAD",
     "CONTACT": "7122750881",
-    "DATE": "08/08/2011",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAGPUR",
     "MICR": "440183017",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000018": {
     "IFSC": "NGSB0000018",
@@ -296,14 +296,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "RAJKAMAL COMPLEX,PANCHASHIL CHOWK, DHANTOLI",
     "CONTACT": "7122430512",
-    "DATE": "08/08/2011",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAGPUR",
     "MICR": "440183018",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000019": {
     "IFSC": "NGSB0000019",
@@ -313,14 +313,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "43,RMS COLONY,NEAR ANANTNAGAR BUSSTOP, GITTIKHADAN",
     "CONTACT": "7122580470",
-    "DATE": "08/08/2011",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAGPUR",
     "MICR": "440183019",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000020": {
     "IFSC": "NGSB0000020",
@@ -330,14 +330,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "1028/29, SRI JAGDAMBA COMPLEX,\nMAHADULA BAZAR CHOWK, MAHADULA MAIN ROAD, KORADI",
     "CONTACT": "7109263272",
-    "DATE": "08/08/2011",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAGPUR",
     "MICR": "440183020",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000021": {
     "IFSC": "NGSB0000021",
@@ -347,14 +347,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "TAR BAZAR ,KATOL DIST-NAGPUR",
     "CONTACT": "07112222076",
-    "DATE": null,
     "MICR": "441183152",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "KATOL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000022": {
     "IFSC": "NGSB0000022",
@@ -364,14 +364,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GANDHI CHOWK,NARKHED,DIST-NAGPUR",
     "CONTACT": "07105232232",
-    "DATE": null,
     "MICR": "441183501",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "NARKHED",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000023": {
     "IFSC": "NGSB0000023",
@@ -381,14 +381,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "8,WARD NO.4, PANDHURNA CHOWK, WARUD, DIST- AMARAVATI",
     "CONTACT": "07229234293",
-    "DATE": null,
     "MICR": "444183352",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "WARUD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000024": {
     "IFSC": "NGSB0000024",
@@ -398,14 +398,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "JOGI THANA PETH, UMRER",
     "CONTACT": "07116242113",
-    "DATE": null,
     "MICR": "441183252",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "UMRED",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000025": {
     "IFSC": "NGSB0000025",
@@ -415,14 +415,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "RAJASTHAN BHAVAN,JUNA COTTON MARKET",
     "CONTACT": "7242421739",
-    "DATE": "08/08/2011",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "AKOLA",
     "MICR": "444183001",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000026": {
     "IFSC": "NGSB0000026",
@@ -432,14 +432,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "“ANNAPURNA”  , C/O DR. BELSARE HOSPITAL, \nFIRST FLOOR , PANCHSHEEL CINEMA ROAD, JAISTAMBH CHOWK",
     "CONTACT": "7212650434",
-    "DATE": "08/08/2011",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "AMRAVATI",
     "MICR": "444183026",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000027": {
     "IFSC": "NGSB0000027",
@@ -449,14 +449,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "K-58,A.P.M.C COMPLEX ,MARKET-1,PHASE -2,  SECTOR19,\nVASHI,NEW MUMBAI",
     "CONTACT": "2267901456",
-    "DATE": "08/08/2011",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "THANE",
     "MICR": "400240260",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000028": {
     "IFSC": "NGSB0000028",
@@ -466,14 +466,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "34,TILAKPATH,INDORE",
     "CONTACT": "7312544954",
-    "DATE": "08/08/2011",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "INDORE",
     "MICR": "452183028",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000029": {
     "IFSC": "NGSB0000029",
@@ -483,14 +483,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "PALIKA MARKET,ITWARI BAZAR",
     "CONTACT": "7162244379",
-    "DATE": "08/08/2011",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHHINDWARA",
     "MICR": "480183001",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000030": {
     "IFSC": "NGSB0000030",
@@ -500,14 +500,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "SHASTRI WARD,STATION ROAD,PANDHURNA",
     "CONTACT": "07164221267",
-    "DATE": null,
     "MICR": "480183501",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "PANDURANA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000031": {
     "IFSC": "NGSB0000031",
@@ -517,14 +517,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "NEAR MAHAVIR TALKIES ROAD,SHUKRAWARI,SEONI",
     "CONTACT": "07692220360",
-    "DATE": null,
     "MICR": "480183101",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "SEONI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000032": {
     "IFSC": "NGSB0000032",
@@ -534,14 +534,14 @@
     "STATE": "CHHATTISGARH",
     "ADDRESS": "\"RAJ TOWERS\", PLOT NO 16/163,166, TATYA PARA CHOWK, , M. G. ROAD,RAIPUR",
     "CONTACT": "7712226676",
-    "DATE": "25/08/2011",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "RAIPUR",
     "MICR": "492183002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000033": {
     "IFSC": "NGSB0000033",
@@ -551,14 +551,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "DNYANSAGAR BUILDING, S. K. BOLE ROAD, DADAR(W)",
     "CONTACT": "2224222681",
-    "DATE": "16/08/2011",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "440183025",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000034": {
     "IFSC": "NGSB0000034",
@@ -568,14 +568,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "18, JAIHIND CO-OP SOCIETY, SHYAMNAGAR, \nINFRONT OF RELIANCE FRESH, MANISH NAGAR",
     "CONTACT": "7122780661",
-    "DATE": "08/08/2011",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAGPUR",
     "MICR": "440183021",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000035": {
     "IFSC": "NGSB0000035",
@@ -585,14 +585,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Ward No.17,Chamorshi Road,In front of Radhe Building,Gadchiroli-442605",
     "CONTACT": "07132244310",
-    "DATE": null,
     "MICR": "442183202",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "Gadchiroli",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000036": {
     "IFSC": "NGSB0000036",
@@ -602,14 +602,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "DHULE CITY 424001",
     "CONTACT": "02562241110",
-    "DATE": null,
     "MICR": "424183001",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "DHULE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000037": {
     "IFSC": "NGSB0000037",
@@ -619,14 +619,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MAIN ROAD,SHIRPUR TAH SHIRPUR 425405",
     "CONTACT": "02563255760",
-    "DATE": null,
     "MICR": "425183052",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIRPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000038": {
     "IFSC": "NGSB0000038",
@@ -636,14 +636,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PLOT NO.7,SURVEY NO 767/35,WARD NO.4,SHESH NAGAR WARD,POST AND TAHSIL BRAMHAPURI,PIN 441206",
     "CONTACT": "07177222256",
-    "DATE": null,
     "MICR": "441183302",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "BRAMHAPURI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000039": {
     "IFSC": "NGSB0000039",
@@ -653,14 +653,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Shradha Busiplex,Old Shriram Takies,Near Weekly Market,Jagnath Ward,Hinganghat,Pin Code-442301",
     "CONTACT": "071530",
-    "DATE": null,
     "MICR": "442183152",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "Hinganghat",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000040": {
     "IFSC": "NGSB0000040",
@@ -670,14 +670,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "House No.1,Near Durga Mandir,Durga Nagar,Tumsar-441912",
     "CONTACT": "7183250411",
-    "DATE": "2019/12/11",
     "MICR": "425183502",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "Tumsar",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000041": {
     "IFSC": "NGSB0000041",
@@ -687,14 +687,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PLOT NO.76, BANK COLONY,BHAGWAN NAGAR,NAGPUR",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "440183023",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAGPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000042": {
     "IFSC": "NGSB0000042",
@@ -704,14 +704,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "43,SHASTRI LAYOUT,OPP SOMALWAR HIGH SCHOOL, PRATAP NAGAR,NAGPUR",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "440183022",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAGPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000043": {
     "IFSC": "NGSB0000043",
@@ -721,14 +721,14 @@
     "STATE": "CHHATTISGARH",
     "ADDRESS": "PLOT NO 159 SHANKAR NAGAR,DURG",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "491183001",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "DURG",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000044": {
     "IFSC": "NGSB0000044",
@@ -738,14 +738,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "7,VIDARBHA HOUSING BOARD COLONY,TAKIYA WARD,BHANDARA",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "441183102",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "BHANDARA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000045": {
     "IFSC": "NGSB0000045",
@@ -755,14 +755,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "YASH ELINA OPP KARISHMA SOCIETY LANE OFF KARVE ROAD KOTHRUD PUNE",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "411183001",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NGSB0000046": {
     "IFSC": "NGSB0000046",
@@ -772,13 +772,13 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PLOT NO 445 CHANDANBAI TEMPLE LAYOUT CHANDAN NAGAR NAGPUR",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "440183024",
     "BANK": "NAGPUR NAGRIK SAHAKARI BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAGPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

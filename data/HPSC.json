@@ -7,14 +7,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "SHIMLA THE MALL SHIMLA 171001",
     "CONTACT": "00",
-    "DATE": "2016-07-04",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIMLA",
     "NEFT": false,
     "IMPS": true,
-    "MICR": null
+    "MICR": null,
+    "SWIFT": null
   },
   "HPSC0000051": {
     "IFSC": "HPSC0000051",
@@ -24,14 +24,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "NEW SUBZI MANDI AZADPUR DELHI",
     "CONTACT": "1127681808",
-    "DATE": "2016-07-06",
     "MICR": "110013251",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "DELHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC00000SC": {
     "IFSC": "HPSC00000SC",
@@ -41,14 +41,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "SHIMLA THE MALL SHIMLA 171001",
     "CONTACT": "00",
-    "DATE": "2016-07-04",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIMLA",
     "NEFT": false,
     "IMPS": true,
-    "MICR": null
+    "MICR": null,
+    "SWIFT": null
   },
   "HPSC0000101": {
     "IFSC": "HPSC0000101",
@@ -58,14 +58,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "BARMANA TEHSIL SADAR PIN 174013",
     "CONTACT": "1978245036",
-    "DATE": "2016-07-06",
     "MICR": "174311053",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "BARMANA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000102": {
     "IFSC": "HPSC0000102",
@@ -75,14 +75,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "BASSI KEHLOOR TEHSIL SRI NAINA DEVI JI PIN 174002",
     "CONTACT": "1978214552",
-    "DATE": "2016-07-06",
     "MICR": "174311076",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "BASSI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000103": {
     "IFSC": "HPSC0000103",
@@ -92,14 +92,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "BERI PIN 174001",
     "CONTACT": "1978244522",
-    "DATE": "2016-07-06",
     "MICR": "174311071",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "BERI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000104": {
     "IFSC": "HPSC0000104",
@@ -109,14 +109,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "BERTHIN TEHSIL JHANDUTTA PIN 174029",
     "CONTACT": "1978266041",
-    "DATE": "2016-07-06",
     "MICR": "174311068",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "BERTHIN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000105": {
     "IFSC": "HPSC0000105",
@@ -126,14 +126,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "BHARARI, PO- LEHRI SAREL TEHSIL GHUMARWIN PIN-174027",
     "CONTACT": "1978273039",
-    "DATE": "2016-07-06",
     "MICR": "174311058",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "BHARARI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000106": {
     "IFSC": "HPSC0000106",
@@ -143,14 +143,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "BILASPUR MAIN MARKET PIN-174001",
     "CONTACT": "1978222542",
-    "DATE": "2016-07-06",
     "MICR": "174311052",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "BILASPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000107": {
     "IFSC": "HPSC0000107",
@@ -160,14 +160,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "DADHOL TEHSIL GHUMARWIN PIN 174023",
     "CONTACT": "1978278031",
-    "DATE": "2016-07-06",
     "MICR": "174311063",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "DADHOL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000108": {
     "IFSC": "HPSC0000108",
@@ -177,14 +177,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "DANGAR TEHSIL GHUMARWIN PIN-174023",
     "CONTACT": "1978278181",
-    "DATE": "2016-07-06",
     "MICR": "174311054",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "DANGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000109": {
     "IFSC": "HPSC0000109",
@@ -194,14 +194,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "GEHRWIN PIN 174034",
     "CONTACT": "1978270203",
-    "DATE": "2016-07-06",
     "MICR": "174311073",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "GEHRWIN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000110": {
     "IFSC": "HPSC0000110",
@@ -211,14 +211,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "GHUMARWIN PIN 174021",
     "CONTACT": "1978255243",
-    "DATE": "2016-07-06",
     "MICR": "174311069",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "GHUMARWIN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000111": {
     "IFSC": "HPSC0000111",
@@ -228,14 +228,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "JHANDUTTA PIN 174031",
     "CONTACT": "1978272043",
-    "DATE": "2016-07-06",
     "MICR": "174311074",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "JHANDUTA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000112": {
     "IFSC": "HPSC0000112",
@@ -245,14 +245,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "KALLARI, PO- NASWAL, TEHSIL GHUMARWIN PIN-174021",
     "CONTACT": "1978254043",
-    "DATE": "2016-07-06",
     "MICR": "174311060",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "KALLARI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000113": {
     "IFSC": "HPSC0000113",
@@ -262,14 +262,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "KUTHERA TEHSIL GHUMARWIN",
     "CONTACT": "1978275080",
-    "DATE": "2016-07-06",
     "MICR": "174311065",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "KUTHERA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000114": {
     "IFSC": "HPSC0000114",
@@ -279,14 +279,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "LAKHANPUR PIN-174001",
     "CONTACT": "1978222697",
-    "DATE": "2016-07-06",
     "MICR": "174311062",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "BILASPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000115": {
     "IFSC": "HPSC0000115",
@@ -296,14 +296,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "SRI NAINA DEVI JI PIN-174310",
     "CONTACT": "1978288097",
-    "DATE": "2016-07-06",
     "MICR": "174311075",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAINA DEVI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000116": {
     "IFSC": "HPSC0000116",
@@ -313,14 +313,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "NAMHOL, PIN-",
     "CONTACT": "1978240056",
-    "DATE": "2016-07-06",
     "MICR": "174311066",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAMHOL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000117": {
     "IFSC": "HPSC0000117",
@@ -330,14 +330,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "SHAHTALAI TEHSIL JHANDUTA DISTT BILASPUR",
     "CONTACT": "1978264077",
-    "DATE": "2016-07-06",
     "MICR": "174311077",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "JHANDUTA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000118": {
     "IFSC": "HPSC0000118",
@@ -347,14 +347,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "SWARGHAT TEHSIL SRI NAINA DEVI JI PIN-174011",
     "CONTACT": "1978284148",
-    "DATE": "2016-07-06",
     "MICR": "174311056",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SWARGHAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000119": {
     "IFSC": "HPSC0000119",
@@ -364,14 +364,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "KANDRAUR, TEHSIL SADAR PIN-174004",
     "CONTACT": "1978242080",
-    "DATE": "2016-07-06",
     "MICR": "174311059",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "KANDRAUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000120": {
     "IFSC": "HPSC0000120",
@@ -381,14 +381,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "HARNORA TEHSIL SADAR PIN",
     "CONTACT": "1978283141",
-    "DATE": "2016-07-06",
     "MICR": "174311072",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "HARNORA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000123": {
     "IFSC": "HPSC0000123",
@@ -398,14 +398,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "GUGA MOHRA, PO- KAPAHORA TEHSIL GHUMARWIN PIN-174029",
     "CONTACT": "1978260474",
-    "DATE": "2016-07-06",
     "MICR": "174311055",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "GUGA MOHRA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000124": {
     "IFSC": "HPSC0000124",
@@ -415,14 +415,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "TRIFAL GHAT, PO-HAWAN PIN-174003",
     "CONTACT": "1905256195",
-    "DATE": "2016-07-06",
     "MICR": "174311057",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "TRIFALGHAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000125": {
     "IFSC": "HPSC0000125",
@@ -432,14 +432,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "JUKHALA PIN-174033",
     "CONTACT": "1978286253",
-    "DATE": "2016-07-06",
     "MICR": "174311064",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "JUKHALA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000126": {
     "IFSC": "HPSC0000126",
@@ -449,14 +449,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "JEJWIN TEHSIL JHANDUTTA PIN 174017",
     "CONTACT": "1978268041",
-    "DATE": "2016-07-06",
     "MICR": "174311070",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "JEJWIN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000127": {
     "IFSC": "HPSC0000127",
@@ -466,14 +466,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "BUM, PO- PANTEHRA, TEHSIL GHUMARWIN PIN-174028",
     "CONTACT": "1978250067",
-    "DATE": "2016-07-06",
     "MICR": "174311061",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "BUM",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000128": {
     "IFSC": "HPSC0000128",
@@ -483,14 +483,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "MALOKHAR PO CHHAKHOH TEHSIL NAMHOL PIN 174001",
     "CONTACT": "1978249183",
-    "DATE": "2016-07-06",
     "MICR": "174311067",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAMHOL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000129": {
     "IFSC": "HPSC0000129",
@@ -500,14 +500,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "HATWAR TEHSIL GHUMARWIN",
     "CONTACT": "1978252243",
-    "DATE": null,
     "MICR": "174311078",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "HATWAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000130": {
     "IFSC": "HPSC0000130",
@@ -517,14 +517,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "GOLTHAI TEHSIL SRI NAINA DEVI JI",
     "CONTACT": "1978239522",
-    "DATE": null,
     "MICR": "140311152",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SRI NAINA DEVI JI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000132": {
     "IFSC": "HPSC0000132",
@@ -534,14 +534,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "VPO CHANDPUR TEHSIL SADAR",
     "CONTACT": "1978243015",
-    "DATE": null,
     "MICR": "174311080",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "BILASPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000133": {
     "IFSC": "HPSC0000133",
@@ -551,14 +551,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "VPO HARLOG TEHSIL GHUMARWIN",
     "CONTACT": "1978285015",
-    "DATE": null,
     "MICR": "174311081",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "BILASPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000134": {
     "IFSC": "HPSC0000134",
@@ -568,14 +568,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "VPO KAULAN WALA TOBA TEHSIL SHRI NAINA DEVI JI",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "174311079",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "BILASPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000135": {
     "IFSC": "HPSC0000135",
@@ -585,14 +585,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "VILLAGE AND PO BHAGER TEHSIL GHUMARWIN",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "174311082",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "GHUMARWIN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000176": {
     "IFSC": "HPSC0000176",
@@ -602,14 +602,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "BANIKHET PIN 176303",
     "CONTACT": "1899254051",
-    "DATE": "2016-07-06",
     "MICR": "176311008",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "BANIKHET",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000177": {
     "IFSC": "HPSC0000177",
@@ -619,14 +619,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "BHANJRARU TEHSIL CHAMBA PIN 176316",
     "CONTACT": "1896227071",
-    "DATE": "2016-07-06",
     "MICR": "176311015",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "BHANJRARU",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000178": {
     "IFSC": "HPSC0000178",
@@ -636,14 +636,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "BHARMAUR CHAMBA PIN-176015",
     "CONTACT": "1895225054",
-    "DATE": "2016-07-06",
     "MICR": "176311017",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "BHARMOUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000179": {
     "IFSC": "HPSC0000179",
@@ -653,14 +653,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "CHAMBA PIN 176310",
     "CONTACT": "1899222249",
-    "DATE": "2016-07-06",
     "MICR": "176311002",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHAMBA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000180": {
     "IFSC": "HPSC0000180",
@@ -670,14 +670,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "CHOWARI TEHSIL BHATTIYAT PIN 176302",
     "CONTACT": "1899266332",
-    "DATE": "2016-07-06",
     "MICR": "176311007",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHOWARI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000182": {
     "IFSC": "HPSC0000182",
@@ -687,14 +687,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "DALHOUSIE PIN 176304",
     "CONTACT": "1899240241",
-    "DATE": "2016-07-06",
     "MICR": "176311005",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "DALHOUSIE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000183": {
     "IFSC": "HPSC0000183",
@@ -704,14 +704,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "DHULARA PIN 176027",
     "CONTACT": "1899200495",
-    "DATE": "2016-07-06",
     "MICR": "176311010",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "DHULARA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000184": {
     "IFSC": "HPSC0000184",
@@ -721,14 +721,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "GAROLA TEHSIL BHARMAUR PIN 176309",
     "CONTACT": "1895224007",
-    "DATE": "2016-07-06",
     "MICR": "176377012",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "GAROLA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000185": {
     "IFSC": "HPSC0000185",
@@ -738,14 +738,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "HATLI PO DARMAN TEHSIL SIHUNTHA PIN 176223",
     "CONTACT": "1892238076",
-    "DATE": "2016-07-06",
     "MICR": "176311052",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SIHUNTA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000186": {
     "IFSC": "HPSC0000186",
@@ -755,14 +755,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "HOLI PIN 176309",
     "CONTACT": "1895232315",
-    "DATE": "2016-07-06",
     "MICR": "176311004",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "HOLI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000187": {
     "IFSC": "HPSC0000187",
@@ -772,14 +772,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "KAKIRA TEHSIL BHATTIYAT PIN 176313",
     "CONTACT": "1899257245",
-    "DATE": "2016-07-06",
     "MICR": "176311013",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "KAKIRA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000188": {
     "IFSC": "HPSC0000188",
@@ -789,14 +789,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "NAINI KHAD PIN",
     "CONTACT": "1899257645",
-    "DATE": "2016-07-06",
     "MICR": "176311014",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAINI KHAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000189": {
     "IFSC": "HPSC0000189",
@@ -806,14 +806,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "SALOONI PIN 176320",
     "CONTACT": "1896233237",
-    "DATE": "2016-07-06",
     "MICR": "176311011",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SALOONI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000190": {
     "IFSC": "HPSC0000190",
@@ -823,14 +823,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "SIHUNTHA PIN",
     "CONTACT": "1899265424",
-    "DATE": "2016-07-06",
     "MICR": "176311006",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SIHUNTA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000191": {
     "IFSC": "HPSC0000191",
@@ -840,14 +840,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "SURANGANI TEHSIL SALOONI PIN 176317",
     "CONTACT": "1896232007",
-    "DATE": "2016-07-06",
     "MICR": "176311009",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SURGANI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000192": {
     "IFSC": "HPSC0000192",
@@ -857,14 +857,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "TISSA TEHSIL CHURAH PIN 176316",
     "CONTACT": "1896227041",
-    "DATE": "2016-07-06",
     "MICR": "176311016",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "TISSA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000193": {
     "IFSC": "HPSC0000193",
@@ -874,14 +874,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "TUNDI TEHSIL SIHUNTA PIN 176207",
     "CONTACT": "1899200524",
-    "DATE": "2016-07-06",
     "MICR": "176311003",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SIHUNTA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000195": {
     "IFSC": "HPSC0000195",
@@ -891,14 +891,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "BATHARI DISTT CHAMBA",
     "CONTACT": "18999418397348",
-    "DATE": null,
     "MICR": "176311018",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "BATHARI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000197": {
     "IFSC": "HPSC0000197",
@@ -908,14 +908,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "VPO SAROL TEHSIL CHAMBA",
     "CONTACT": "1899226235",
-    "DATE": null,
     "MICR": "176311024",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHAMBA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000198": {
     "IFSC": "HPSC0000198",
@@ -925,14 +925,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "RAJNAGAR DISTT CHAMBA",
     "CONTACT": "18999418759447",
-    "DATE": null,
     "MICR": "176311019",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "RAJNAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000199": {
     "IFSC": "HPSC0000199",
@@ -942,14 +942,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "VPO SAHO TEHSIL CHAMBA",
     "CONTACT": "1899238413",
-    "DATE": null,
     "MICR": "176311020",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHAMBA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000200": {
     "IFSC": "HPSC0000200",
@@ -959,14 +959,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "VILL KARIAN PO BHARIAN KOTHI TEHSIL CHAMBA",
     "CONTACT": "1899220013",
-    "DATE": null,
     "MICR": "176311021",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHAMBA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000201": {
     "IFSC": "HPSC0000201",
@@ -976,14 +976,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "VPO DHARWALA TEHSIL CHAMBA",
     "CONTACT": "1899279513",
-    "DATE": null,
     "MICR": "176311022",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHAMBA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000202": {
     "IFSC": "HPSC0000202",
@@ -993,14 +993,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "VPO SUNDLA TEHSIL SALOONI",
     "CONTACT": "1896242007",
-    "DATE": null,
     "MICR": "176311023",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHAMBA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000203": {
     "IFSC": "HPSC0000203",
@@ -1010,14 +1010,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "PO KILLAR TEHSIL PANGI",
     "CONTACT": "1897242240",
-    "DATE": null,
     "MICR": "176311025",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHAMBA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000251": {
     "IFSC": "HPSC0000251",
@@ -1027,14 +1027,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "BHABA NAGAR TEHSIL NICHAR PIN 172115",
     "CONTACT": "1786253330",
-    "DATE": "2016-07-06",
     "MICR": "172311057",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "BHABA NAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000252": {
     "IFSC": "HPSC0000252",
@@ -1044,14 +1044,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "KALPA PIN-172108",
     "CONTACT": "1786226004",
-    "DATE": "2016-07-06",
     "MICR": "172311056",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "KALPA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000253": {
     "IFSC": "HPSC0000253",
@@ -1061,14 +1061,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "KATGAON PIN 172118",
     "CONTACT": "1786262295",
-    "DATE": "2016-07-06",
     "MICR": "172311059",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "KATGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000254": {
     "IFSC": "HPSC0000254",
@@ -1078,14 +1078,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "MOORENG PIN 172109",
     "CONTACT": "1785252739",
-    "DATE": "2016-07-06",
     "MICR": "172311061",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "MOORANG",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000255": {
     "IFSC": "HPSC0000255",
@@ -1095,14 +1095,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "NICHAR KINNAUR",
     "CONTACT": "1786204549",
-    "DATE": "2016-07-06",
     "MICR": "172311011",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "NICHAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000256": {
     "IFSC": "HPSC0000256",
@@ -1112,14 +1112,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "PANGI PIN 172107",
     "CONTACT": "1786228811",
-    "DATE": "2016-07-06",
     "MICR": "172311053",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "PANGI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000257": {
     "IFSC": "HPSC0000257",
@@ -1129,14 +1129,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "RECKONG PEO TEHSIL KALPA PIN 172107",
     "CONTACT": "1786222485",
-    "DATE": "2016-07-06",
     "MICR": "172311052",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "REKONG PEO",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000258": {
     "IFSC": "HPSC0000258",
@@ -1146,14 +1146,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "POOH PIN 172111",
     "CONTACT": "1785232297",
-    "DATE": "2016-07-06",
     "MICR": "172311060",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "POOH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000259": {
     "IFSC": "HPSC0000259",
@@ -1163,14 +1163,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "POWARI SHANTHONG TEHSIL KALPA PIN 172107",
     "CONTACT": "1786223523",
-    "DATE": "2016-07-06",
     "MICR": "172311054",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "KALPA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000260": {
     "IFSC": "HPSC0000260",
@@ -1180,14 +1180,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "SANGLA PIN 172106",
     "CONTACT": "1786242202",
-    "DATE": "2016-07-06",
     "MICR": "172311058",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SANGLA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000261": {
     "IFSC": "HPSC0000261",
@@ -1197,14 +1197,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "TAPRI KINNAUR",
     "CONTACT": "1786261207",
-    "DATE": "2016-07-06",
     "MICR": "172311010",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "TAPRI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000262": {
     "IFSC": "HPSC0000262",
@@ -1214,14 +1214,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "AKPA, TEHSIL MOORANG PIN-172116",
     "CONTACT": "1785225564",
-    "DATE": "2016-07-06",
     "MICR": "172311055",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "MOORANG",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000264": {
     "IFSC": "HPSC0000264",
@@ -1231,14 +1231,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "GIABONG PIN 172110",
     "CONTACT": "17859418761189",
-    "DATE": null,
     "MICR": "172311062",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "GIABONG",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000266": {
     "IFSC": "HPSC0000266",
@@ -1248,14 +1248,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "SPILLOW DISTT KINNAUR",
     "CONTACT": "17859816012458",
-    "DATE": null,
     "MICR": "172311063",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SPILLOW",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000267": {
     "IFSC": "HPSC0000267",
@@ -1265,14 +1265,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "VILLAGE AND PO LEO SUB TEHSIL YANGTHANG",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "172311064",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "KINNAUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000301": {
     "IFSC": "HPSC0000301",
@@ -1282,14 +1282,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "BAGSAID, TEHSIL THUNAG PIN-175035",
     "CONTACT": "1907254245",
-    "DATE": "2016-07-06",
     "MICR": "174311006",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "THUNAG",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000302": {
     "IFSC": "HPSC0000302",
@@ -1299,14 +1299,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "BALDWARA TEHSIL SARKAGHAT PIN 175033",
     "CONTACT": "1905258052",
-    "DATE": "2016-07-06",
     "MICR": "175311128",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SARKAGHAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000303": {
     "IFSC": "HPSC0000303",
@@ -1316,14 +1316,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "BALICHOWKI TEHSIL BALICHOWKI PIN 175106",
     "CONTACT": "1905229145",
-    "DATE": "2016-07-06",
     "MICR": "175311120",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "BALI CHOWKI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000304": {
     "IFSC": "HPSC0000304",
@@ -1333,14 +1333,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "BAROT MANDI",
     "CONTACT": "1908267241",
-    "DATE": "2016-07-06",
     "MICR": "175311129",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "BAROT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000305": {
     "IFSC": "HPSC0000305",
@@ -1350,14 +1350,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "CHAUNTRA PIN 175032",
     "CONTACT": "1908252227",
-    "DATE": "2016-07-06",
     "MICR": "175311108",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHAUNTRA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000306": {
     "IFSC": "HPSC0000306",
@@ -1367,14 +1367,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "CHHATRI MANDI PIN 175047",
     "CONTACT": "1907243201",
-    "DATE": "2016-07-06",
     "MICR": "174311011",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHHATRI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000307": {
     "IFSC": "HPSC0000307",
@@ -1384,14 +1384,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "CHURAG TEHSIL KARSOG PIN",
     "CONTACT": "1907224036",
-    "DATE": "2016-07-06",
     "MICR": "175311114",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "KARSOG",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000308": {
     "IFSC": "HPSC0000308",
@@ -1401,14 +1401,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "DEHAR TEHSIL SUNDER NAGAR PIN 175030",
     "CONTACT": "1907283004",
-    "DATE": "2016-07-06",
     "MICR": "174311009",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "DEHAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000309": {
     "IFSC": "HPSC0000309",
@@ -1418,14 +1418,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "DHARAMPUR TEHSIL SARKAGHAT PIN 175040",
     "CONTACT": "1905272005",
-    "DATE": "2016-07-06",
     "MICR": "175311125",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "DHARMPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000310": {
     "IFSC": "HPSC0000310",
@@ -1435,14 +1435,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "GOHAR TEHSIL CHACHYOT PIN 175029",
     "CONTACT": "1907250270",
-    "DATE": "2016-07-06",
     "MICR": "175311121",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "GOHAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000311": {
     "IFSC": "HPSC0000311",
@@ -1452,14 +1452,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "JANJEHLI MANDI PIN- 175047",
     "CONTACT": "1907256748",
-    "DATE": "2016-07-06",
     "MICR": "174311013",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "JANJEHLI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000312": {
     "IFSC": "HPSC0000312",
@@ -1469,14 +1469,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "JOGINDER NAGAR PIN 175015",
     "CONTACT": "1908222029",
-    "DATE": "2016-07-06",
     "MICR": "175311107",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "JOGINDER NAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000313": {
     "IFSC": "HPSC0000313",
@@ -1486,14 +1486,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "KARSOG MANDI PIN 175011",
     "CONTACT": "1907222248",
-    "DATE": "2016-07-06",
     "MICR": "174311010",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "KARSOG",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000314": {
     "IFSC": "HPSC0000314",
@@ -1503,14 +1503,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "KOTLI PIN 175003",
     "CONTACT": "1905281219",
-    "DATE": "2016-07-06",
     "MICR": "175311109",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "KOTLI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000315": {
     "IFSC": "HPSC0000315",
@@ -1520,14 +1520,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "LAD BHROL PIN 176126",
     "CONTACT": "1905278143",
-    "DATE": "2016-07-06",
     "MICR": "175311104",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "LADBHAROL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000316": {
     "IFSC": "HPSC0000316",
@@ -1537,14 +1537,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "MAKRIRI MANDI",
     "CONTACT": "1908256104",
-    "DATE": "2016-07-06",
     "MICR": "175311130",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "MAKRIRI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000317": {
     "IFSC": "HPSC0000317",
@@ -1554,14 +1554,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "CHOTA BAZAR MANDI PIN 175001",
     "CONTACT": "1905223035",
-    "DATE": "2016-07-06",
     "MICR": "175311102",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "MANDI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000318": {
     "IFSC": "HPSC0000318",
@@ -1571,14 +1571,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "NAGWAIN PIN 175121",
     "CONTACT": "1905287113",
-    "DATE": "2016-07-06",
     "MICR": "175311124",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAGWAIN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000319": {
     "IFSC": "HPSC0000319",
@@ -1588,14 +1588,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "NERCHOWK TEHSIL SADAR PIN 175008",
     "CONTACT": "1905242358",
-    "DATE": "2016-07-06",
     "MICR": "175311119",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "NER CHOWK",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000320": {
     "IFSC": "HPSC0000320",
@@ -1605,14 +1605,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "PANDOH PIN 175124",
     "CONTACT": "1905282207",
-    "DATE": "2016-07-06",
     "MICR": "175311123",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "PANDOH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000321": {
     "IFSC": "HPSC0000321",
@@ -1622,14 +1622,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "REWALSAR PIN 175023",
     "CONTACT": "1905240211",
-    "DATE": "2016-07-06",
     "MICR": "175311106",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "REWALSAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000322": {
     "IFSC": "HPSC0000322",
@@ -1639,14 +1639,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "SANDHOLE PIN 176090",
     "CONTACT": "1905273228",
-    "DATE": "2016-07-06",
     "MICR": "175311112",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SANDHOLE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000323": {
     "IFSC": "HPSC0000323",
@@ -1656,14 +1656,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "SARKAGHAT",
     "CONTACT": "1905230057",
-    "DATE": "2016-07-06",
     "MICR": "175311122",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SARKAGHAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000324": {
     "IFSC": "HPSC0000324",
@@ -1673,14 +1673,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "SERI BUNLOW TEHSIL KARSOG MANDI PIN-175011",
     "CONTACT": "1907226505",
-    "DATE": "2016-07-06",
     "MICR": "174311012",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "KARSOG",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000325": {
     "IFSC": "HPSC0000325",
@@ -1690,14 +1690,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "SUNDER NAGAR PIN 175019",
     "CONTACT": "1907262337",
-    "DATE": "2016-07-06",
     "MICR": "174311002",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SUNDERNAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000326": {
     "IFSC": "HPSC0000326",
@@ -1707,14 +1707,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "THUNAG PO & TEHSIL THUNAG PIN 175048",
     "CONTACT": "1907257514",
-    "DATE": "2016-07-06",
     "MICR": "175311115",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "THUNAG",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000327": {
     "IFSC": "HPSC0000327",
@@ -1724,14 +1724,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "BHAMBLA TEHSIL SARKAGHAT PIN 175004",
     "CONTACT": "1905256454",
-    "DATE": "2016-07-06",
     "MICR": "175311126",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SARKAGHAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000328": {
     "IFSC": "HPSC0000328",
@@ -1741,14 +1741,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "SAULIKAHD PIN 175001",
     "CONTACT": "1905237659",
-    "DATE": "2016-07-06",
     "MICR": "175311103",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "MANDI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000329": {
     "IFSC": "HPSC0000329",
@@ -1758,14 +1758,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "CHATROKHRI, TEHSIL SUNDER NAGAR PIN-174402",
     "CONTACT": "1907266309",
-    "DATE": "2016-07-06",
     "MICR": "174311003",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SUNDERNAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000330": {
     "IFSC": "HPSC0000330",
@@ -1775,14 +1775,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "BSL COLONY SNR PURANA BAZAR TEHSIL SUNDER NAGAR",
     "CONTACT": "1907264154",
-    "DATE": "2016-07-06",
     "MICR": "174311004",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SUNDERNAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000331": {
     "IFSC": "HPSC0000331",
@@ -1792,14 +1792,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "BALDWARA TEHSIL SARKAGHAT PIN 175033",
     "CONTACT": "1905271311",
-    "DATE": "2016-07-06",
     "MICR": "175311105",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SARKAGHAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000332": {
     "IFSC": "HPSC0000332",
@@ -1809,14 +1809,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "TIHRA TEHSIL SARKAGHAT PIN 175026",
     "CONTACT": "1905278401",
-    "DATE": "2016-07-06",
     "MICR": "174311008",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SARKAGHAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000333": {
     "IFSC": "HPSC0000333",
@@ -1826,14 +1826,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "MARHI TEHSIL SARKAGHAT PIN 175050",
     "CONTACT": "1905270100",
-    "DATE": "2016-07-06",
     "MICR": "175311127",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SARKAGHAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000334": {
     "IFSC": "HPSC0000334",
@@ -1843,14 +1843,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "LONGNI TEHSIL SARKAGHAT DISTT. MANDI PIN-175025",
     "CONTACT": "1905279055",
-    "DATE": null,
     "MICR": "175311131",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "LONGNI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000335": {
     "IFSC": "HPSC0000335",
@@ -1860,14 +1860,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "CHAIL CHOWK TEHSIL CHACHIOT PIN 175045",
     "CONTACT": "1907251048",
-    "DATE": "2016-07-06",
     "MICR": "175311117",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHAIL CHOWK",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000336": {
     "IFSC": "HPSC0000336",
@@ -1877,14 +1877,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "SAJAO PIPLU TEHSIL SARKAGHAT PIN 175025",
     "CONTACT": "1905251766",
-    "DATE": "2016-07-06",
     "MICR": "175311111",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SARKAGHAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000338": {
     "IFSC": "HPSC0000338",
@@ -1894,14 +1894,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "SMAILA, TEHSIL SARAGHAT PIN-175034",
     "CONTACT": "1905256310",
-    "DATE": "2016-07-06",
     "MICR": "174311007",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SARKAGHAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000339": {
     "IFSC": "HPSC0000339",
@@ -1911,14 +1911,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "VPO NABAHI DEVI TEH SARKAGHAT MANDI 175024",
     "CONTACT": "1905230174",
-    "DATE": null,
     "MICR": "175311135",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SARKAGHAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000340": {
     "IFSC": "HPSC0000340",
@@ -1928,14 +1928,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "JOGINDER NAGAR BUS STAND PIN 17",
     "CONTACT": "1908224307",
-    "DATE": "2016-07-06",
     "MICR": "175311116",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "JOGINDER NAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000341": {
     "IFSC": "HPSC0000341",
@@ -1945,14 +1945,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "KUNNU TEHSIL PADHAR PIN 176121",
     "CONTACT": "1908260640",
-    "DATE": "2016-07-06",
     "MICR": "175311110",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "PADHAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000342": {
     "IFSC": "HPSC0000342",
@@ -1962,14 +1962,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "DHANOTU TEHSIL SUNDER NAGAR PIN-174401",
     "CONTACT": "1907265066",
-    "DATE": "2016-07-06",
     "MICR": "174311005",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SUNDERNAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000343": {
     "IFSC": "HPSC0000343",
@@ -1979,14 +1979,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "CHANDESH PO GAHAR TEHSIL SARKAGHAT PIN 175049",
     "CONTACT": "1905257681",
-    "DATE": "2016-07-06",
     "MICR": "175311113",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SARKAGHAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000345": {
     "IFSC": "HPSC0000345",
@@ -1996,14 +1996,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "SARAUN (AWHA DEVI) PIN 175024",
     "CONTACT": "1972275157",
-    "DATE": "2016-07-06",
     "MICR": "175311118",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SARAUN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000347": {
     "IFSC": "HPSC0000347",
@@ -2013,14 +2013,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "VPO PADDAR TEH PADDAR MANDI 175012",
     "CONTACT": "1908260670",
-    "DATE": null,
     "MICR": "175311131",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "PADDAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000349": {
     "IFSC": "HPSC0000349",
@@ -2030,14 +2030,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "BAGA CHANOGI TEHSIL THUNAG VIA BAGSAID PIN 175035",
     "CONTACT": "1907217050",
-    "DATE": null,
     "MICR": "175311115",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "THUNAG",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000351": {
     "IFSC": "HPSC0000351",
@@ -2047,14 +2047,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "RAJGARH PIN 175027",
     "CONTACT": "1905244006",
-    "DATE": "2016-07-06",
     "MICR": "175311132",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "RAJGARH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000352": {
     "IFSC": "HPSC0000352",
@@ -2064,14 +2064,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "TAKOLI PIN 175025",
     "CONTACT": "1905287213",
-    "DATE": null,
     "MICR": "175311133",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "TAKOLI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000356": {
     "IFSC": "HPSC0000356",
@@ -2081,14 +2081,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "VILL CHAKKAR PO GUTKAR TEHSIL BALH",
     "CONTACT": "1905246358",
-    "DATE": null,
     "MICR": "175311138",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "MANDI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000357": {
     "IFSC": "HPSC0000357",
@@ -2098,14 +2098,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "VPO KHADDAR TEHSIL LADBHAROL",
     "CONTACT": "1908275180",
-    "DATE": null,
     "MICR": "175311136",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "MANDI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000358": {
     "IFSC": "HPSC0000358",
@@ -2115,14 +2115,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "VPO RAKHOH TEHSIL SARKAGHAT",
     "CONTACT": "1905254740",
-    "DATE": null,
     "MICR": "175311137",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "MANDI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000401": {
     "IFSC": "HPSC0000401",
@@ -2132,14 +2132,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "BHARANU TEHSIL CHOPAL",
     "CONTACT": "1783269521",
-    "DATE": "2016-07-06",
     "MICR": "171311036",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHOPAL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000402": {
     "IFSC": "HPSC0000402",
@@ -2149,14 +2149,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "BO ISBT SHIMLA PIN 171001",
     "CONTACT": "1772812945",
-    "DATE": "2016-07-06",
     "MICR": "171311003",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIMLA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000403": {
     "IFSC": "HPSC0000403",
@@ -2166,14 +2166,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "CHAMAIN TEHSIL KOTKHAI",
     "CONTACT": "1783240561",
-    "DATE": "2016-07-06",
     "MICR": "171311034",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "KOTKHAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000404": {
     "IFSC": "HPSC0000404",
@@ -2183,14 +2183,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "CHIRGAON PIN",
     "CONTACT": "1781277258",
-    "DATE": "2016-07-06",
     "MICR": "171311019",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHIRGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000405": {
     "IFSC": "HPSC0000405",
@@ -2200,14 +2200,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "CHOPAL",
     "CONTACT": "1783260025",
-    "DATE": "2016-07-06",
     "MICR": "171311020",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHOPAL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000406": {
     "IFSC": "HPSC0000406",
@@ -2217,14 +2217,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "CHHOTA SHIMLA-2",
     "CONTACT": "1772621886",
-    "DATE": "2016-07-06",
     "MICR": "171311005",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIMLA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000407": {
     "IFSC": "HPSC0000407",
@@ -2234,14 +2234,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "DALAN PO VIRGARH TEHSIL KUMARSAIN PIN 172030",
     "CONTACT": "1782222909",
-    "DATE": "2016-07-06",
     "MICR": "171311015",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "KUMARSAIN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000408": {
     "IFSC": "HPSC0000408",
@@ -2251,14 +2251,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "BO DEHA PIN 171201",
     "CONTACT": "1783231711",
-    "DATE": "2016-07-06",
     "MICR": "171311048",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "DEHA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000409": {
     "IFSC": "HPSC0000409",
@@ -2268,14 +2268,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "DHALLI DISTT SHIMLA PIN 171012",
     "CONTACT": "1772841099",
-    "DATE": "2016-07-06",
     "MICR": "171311009",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIMLA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000410": {
     "IFSC": "HPSC0000410",
@@ -2285,14 +2285,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "DODRA KWAR PIN 171221",
     "CONTACT": "1781262070",
-    "DATE": "2016-07-06",
     "MICR": "172311007",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHIRGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000411": {
     "IFSC": "HPSC0000411",
@@ -2302,14 +2302,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "GANAHATTI PIN 171011",
     "CONTACT": "1772774678",
-    "DATE": "2016-07-06",
     "MICR": "171311016",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIMLA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000412": {
     "IFSC": "HPSC0000412",
@@ -2319,14 +2319,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "JANGLA TEHSIL ROHRU PIN 171214",
     "CONTACT": "1781275801",
-    "DATE": "2016-07-06",
     "MICR": "171311035",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "ROHRU",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000413": {
     "IFSC": "HPSC0000413",
@@ -2336,14 +2336,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "JEORI TEHSIL RAMPUR PIN 172101",
     "CONTACT": "1782278460",
-    "DATE": "2016-07-06",
     "MICR": "172311008",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "RAMPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000414": {
     "IFSC": "HPSC0000414",
@@ -2353,14 +2353,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "JHAKRI, TEHSIL RAMPUR PIN-172201",
     "CONTACT": "1782275581",
-    "DATE": "2016-07-06",
     "MICR": "172311003",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "RAMPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000415": {
     "IFSC": "HPSC0000415",
@@ -2370,14 +2370,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "JHIKNIPUL TEHSIL CHOPAL PIN 171211",
     "CONTACT": "1783266530",
-    "DATE": "2016-07-06",
     "MICR": "171311038",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHOPAL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000416": {
     "IFSC": "HPSC0000416",
@@ -2387,14 +2387,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "JUBBAL TEHSIL JUBBAL DISTT SHIMLA PIN 171205",
     "CONTACT": "1781252047",
-    "DATE": "2016-07-06",
     "MICR": "171311028",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "JUBBAL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000417": {
     "IFSC": "HPSC0000417",
@@ -2404,14 +2404,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "KASUMPATI SHIMLA 9",
     "CONTACT": "1772624818",
-    "DATE": "2016-07-06",
     "MICR": "171311007",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIMLA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000418": {
     "IFSC": "HPSC0000418",
@@ -2421,14 +2421,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "KHALINI SHIMLA PIN 171002",
     "CONTACT": "1772623676",
-    "DATE": "2016-07-06",
     "MICR": "171311004",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIMLA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000419": {
     "IFSC": "HPSC0000419",
@@ -2438,14 +2438,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "KHALTUNALA TEHSIL KOTKHAI PIN 171202",
     "CONTACT": "1783244530",
-    "DATE": "2016-07-06",
     "MICR": "171311014",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "KOTKHAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000420": {
     "IFSC": "HPSC0000420",
@@ -2455,14 +2455,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "KHANETI SADOCH PO BATARI TEHSIL KUMARSAIN PIN 172031",
     "CONTACT": "1782228123",
-    "DATE": "2016-07-06",
     "MICR": "171311021",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "KUMARSAIN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000421": {
     "IFSC": "HPSC0000421",
@@ -2472,14 +2472,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "KIARI TEHSIL KOTKHAI PIN 171204",
     "CONTACT": "1783258213",
-    "DATE": "2016-07-06",
     "MICR": "171311037",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "KOTKHAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000422": {
     "IFSC": "HPSC0000422",
@@ -2489,14 +2489,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "KOTKHAI TEHSIL KOTKHAI DISTT SHIMLA PIN 171202",
     "CONTACT": "1783255313",
-    "DATE": "2016-07-06",
     "MICR": "171311029",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "KOTKHAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000423": {
     "IFSC": "HPSC0000423",
@@ -2506,14 +2506,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "BO AND TEHSIL KUMARSAIN PIN 172029",
     "CONTACT": "1782240004",
-    "DATE": "2016-07-06",
     "MICR": "171311027",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "KUMARSAIN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000424": {
     "IFSC": "HPSC0000424",
@@ -2523,14 +2523,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "MARAOG TEHSIL CHOPAL PIN 171211",
     "CONTACT": "1783261304",
-    "DATE": "2016-07-06",
     "MICR": "171311041",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHOPAL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000425": {
     "IFSC": "HPSC0000425",
@@ -2540,14 +2540,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "NANKHARI TEHSIL NANKHARI PIN 172021",
     "CONTACT": "1782225444",
-    "DATE": "2016-07-06",
     "MICR": "172311009",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "NANKHARI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000426": {
     "IFSC": "HPSC0000426",
@@ -2557,14 +2557,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "NARKANDA, TEHSIL KUMARSAIN PIN-171213",
     "CONTACT": "1782242433",
-    "DATE": "2016-07-06",
     "MICR": "171311018",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "KUMARSAIN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000427": {
     "IFSC": "HPSC0000427",
@@ -2574,14 +2574,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "NERWA TEHSIL CHOPAL PIN 171210",
     "CONTACT": "1783264427",
-    "DATE": "2016-07-06",
     "MICR": "171311046",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHOPAL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000428": {
     "IFSC": "HPSC0000428",
@@ -2591,14 +2591,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "NOGLI TEHSIL RAMPUR BUSHAHAR PIN 172022",
     "CONTACT": "1782271296",
-    "DATE": "2016-07-06",
     "MICR": "172311004",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "RAMPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000429": {
     "IFSC": "HPSC0000429",
@@ -2608,14 +2608,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "PRAGATI NAGAR TEHSIL KOTKHAI PIN 171202",
     "CONTACT": "1783253304",
-    "DATE": "2016-07-06",
     "MICR": "171311042",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "KOTKHAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000430": {
     "IFSC": "HPSC0000430",
@@ -2625,14 +2625,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "PREM NAGAR TEHSIL KUMARSAIN",
     "CONTACT": "1782244046",
-    "DATE": "2016-07-06",
     "MICR": "171311031",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "KUMARSAIN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000431": {
     "IFSC": "HPSC0000431",
@@ -2642,14 +2642,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "RAMPUR MAIN BAZAR PIN 172001",
     "CONTACT": "1782233034",
-    "DATE": "2016-07-06",
     "MICR": "172311002",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "RAMPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000432": {
     "IFSC": "HPSC0000432",
@@ -2659,14 +2659,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "ROHRU PIN 171207",
     "CONTACT": "1781240050",
-    "DATE": "2016-07-06",
     "MICR": "171311017",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "ROHRU",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000433": {
     "IFSC": "HPSC0000433",
@@ -2676,14 +2676,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "SANJAULI SHIMLA PIN 171006",
     "CONTACT": "1772841140",
-    "DATE": "2016-07-06",
     "MICR": "171311008",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIMLA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000434": {
     "IFSC": "HPSC0000434",
@@ -2693,14 +2693,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "SARAHAN BSR TEHSIL RAMPUR PIN 172002",
     "CONTACT": "1782274261",
-    "DATE": "2016-07-06",
     "MICR": "172311005",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "RAMPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000435": {
     "IFSC": "HPSC0000435",
@@ -2710,14 +2710,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "BO SECTT CHHOTA SHIMLA 171002",
     "CONTACT": "1772620991",
-    "DATE": "2016-07-06",
     "MICR": "171311006",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIMLA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000437": {
     "IFSC": "HPSC0000437",
@@ -2727,14 +2727,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "SHARONTHA TEHSIL TIKKAR PIN 171203",
     "CONTACT": "17819418071898",
-    "DATE": "2016-07-06",
     "MICR": "171311047",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHRONTHA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000438": {
     "IFSC": "HPSC0000438",
@@ -2744,14 +2744,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "SHIMLA THE MALL SHIMLA 171001",
     "CONTACT": "00",
-    "DATE": "2016-07-04",
     "MICR": "171311002",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIMLA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000439": {
     "IFSC": "HPSC0000439",
@@ -2761,14 +2761,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "SHIMLA THE MALL SHIMLA 171001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "171311022",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIMLA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000440": {
     "IFSC": "HPSC0000440",
@@ -2778,14 +2778,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "SHIMLA THE MALL SHIMLA 171001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "171311013",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIMLA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000441": {
     "IFSC": "HPSC0000441",
@@ -2795,14 +2795,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "BO SUNI SHIMLA",
     "CONTACT": "1772786621",
-    "DATE": null,
     "MICR": "171311033",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIMLA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000442": {
     "IFSC": "HPSC0000442",
@@ -2812,14 +2812,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "BO TAKLECH TEHSIL RAMPUR PIN 172022",
     "CONTACT": "1782272206",
-    "DATE": "2016-07-06",
     "MICR": "172311006",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "RAMPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000443": {
     "IFSC": "HPSC0000443",
@@ -2829,14 +2829,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "THANEDHAR TEHSIL KUMARSAIN PIN 172030",
     "CONTACT": "1782222350",
-    "DATE": "2016-07-06",
     "MICR": "171311030",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "KUMARSAIN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000444": {
     "IFSC": "HPSC0000444",
@@ -2846,14 +2846,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "THEOG PIN 171201",
     "CONTACT": "1783238207",
-    "DATE": "2016-07-06",
     "MICR": "171311026",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "THEOG",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000445": {
     "IFSC": "HPSC0000445",
@@ -2863,14 +2863,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "TIKKAR PIN 171203",
     "CONTACT": "1781233277",
-    "DATE": "2016-07-06",
     "MICR": "171311040",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "TIKKER",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000446": {
     "IFSC": "HPSC0000446",
@@ -2880,14 +2880,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "BO TOTU SHIMLA PIN 171011",
     "CONTACT": "1772837608",
-    "DATE": "2016-07-06",
     "MICR": "171311010",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIMLA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000447": {
     "IFSC": "HPSC0000447",
@@ -2897,14 +2897,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "RATNARI TEHSIL KOTKHAI PIN 171225",
     "CONTACT": "1783275801",
-    "DATE": "2016-07-06",
     "MICR": "171311044",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "KOTKHAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000448": {
     "IFSC": "HPSC0000448",
@@ -2914,14 +2914,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "SARASWATI NAGAR PIN 171206",
     "CONTACT": "1781238995",
-    "DATE": "2016-07-06",
     "MICR": "171311032",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SARASWATI NAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000449": {
     "IFSC": "HPSC0000449",
@@ -2931,14 +2931,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "DEORI KHANETI TEHSIL KOTKHAI PIN 171201",
     "CONTACT": "1783246707",
-    "DATE": "2016-07-06",
     "MICR": "171311045",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "KOTKHAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000450": {
     "IFSC": "HPSC0000450",
@@ -2948,14 +2948,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "SHILAROO PIN 171213",
     "CONTACT": "17829418095965",
-    "DATE": "2016-07-06",
     "MICR": "171311024",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHILAROO",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000451": {
     "IFSC": "HPSC0000451",
@@ -2965,14 +2965,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "KOTI TEHSIL JUNGA PIN 171012",
     "CONTACT": "1772733451",
-    "DATE": "2016-07-06",
     "MICR": "171311043",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIMLA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000453": {
     "IFSC": "HPSC0000453",
@@ -2982,14 +2982,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "BO DEOLI PIN 171203",
     "CONTACT": "17819418142342",
-    "DATE": "2016-07-06",
     "MICR": "171311023",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "DEOLI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000454": {
     "IFSC": "HPSC0000454",
@@ -2999,14 +2999,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "MANDAL PIN 171216",
     "CONTACT": "1781239156",
-    "DATE": null,
     "MICR": "171311054",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "MANDAL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000455": {
     "IFSC": "HPSC0000455",
@@ -3016,14 +3016,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "KHOLIGHAT NANKHARI PIN 171213",
     "CONTACT": "1782268755",
-    "DATE": "2016-07-06",
     "MICR": "171311039",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "NANKHARI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000456": {
     "IFSC": "HPSC0000456",
@@ -3033,14 +3033,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "KHARAHAN TEHSIL NANKHARI PIN 171213",
     "CONTACT": "17829418211634",
-    "DATE": "2016-07-06",
     "MICR": "171311012",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "NANKHARI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000457": {
     "IFSC": "HPSC0000457",
@@ -3050,14 +3050,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "BATAR GALU PO KATHASU TEHSIL JUBBAL PIN-171206",
     "CONTACT": "17818988125900",
-    "DATE": "2016-07-06",
     "MICR": "171311011",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "JUBBAL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000458": {
     "IFSC": "HPSC0000458",
@@ -3067,14 +3067,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "BACHHUNCH CHAPOTI",
     "CONTACT": "1781244231",
-    "DATE": "2016-07-06",
     "MICR": "171311025",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "ROHRU",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000459": {
     "IFSC": "HPSC0000459",
@@ -3084,14 +3084,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "KHARA PATHAR TEHSIL JUBBAL PIN 171205",
     "CONTACT": "17819418012762",
-    "DATE": "2016-07-06",
     "MICR": "171311049",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "JUBBAL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000460": {
     "IFSC": "HPSC0000460",
@@ -3101,14 +3101,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "FAGU TEHSIL THEOG DISTT SHIMLA",
     "CONTACT": "1783239207",
-    "DATE": null,
     "MICR": "171311050",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "THEOG",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000461": {
     "IFSC": "HPSC0000461",
@@ -3118,14 +3118,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "SUMMER HILL DISTT SHIMLA 171005",
     "CONTACT": "1772832500",
-    "DATE": null,
     "MICR": "171311057",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIMLA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000462": {
     "IFSC": "HPSC0000462",
@@ -3135,14 +3135,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "KUPVI TEHSIL KUPVI DISTT SHIMLA",
     "CONTACT": "1783270280",
-    "DATE": null,
     "MICR": "171311053",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "KUPVI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000466": {
     "IFSC": "HPSC0000466",
@@ -3152,14 +3152,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "VPO JALOG TEHSIL SUNNI",
     "CONTACT": "1772767211",
-    "DATE": null,
     "MICR": "171311055",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIMLA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000467": {
     "IFSC": "HPSC0000467",
@@ -3169,14 +3169,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "VPO JATHIA DEVI TEHSIL SHIMLA",
     "CONTACT": "1772736910",
-    "DATE": null,
     "MICR": "171311056",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIMLA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000468": {
     "IFSC": "HPSC0000468",
@@ -3186,14 +3186,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "GRAM PANCHAYAT AND PO THACHI TEHSIL SUNI",
     "CONTACT": "1772793444",
-    "DATE": null,
     "MICR": "171311058",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIMLA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000469": {
     "IFSC": "HPSC0000469",
@@ -3203,14 +3203,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "VILLAGE MASHOBRA-2 POST OFFICE MASHOBRA TEHSIL AND DISTRICT SHIMLA PIN 171007",
     "CONTACT": "1772740555",
-    "DATE": null,
     "MICR": "171311060",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIMLA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000470": {
     "IFSC": "HPSC0000470",
@@ -3220,14 +3220,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "PO JUNGA SUB TEHSIL JUNGA",
     "CONTACT": "1772752299",
-    "DATE": null,
     "MICR": "171311059",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIMLA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000471": {
     "IFSC": "HPSC0000471",
@@ -3237,14 +3237,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "VPO NARAIN TEHSIL RAMPUR",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "172311013",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIMLA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000472": {
     "IFSC": "HPSC0000472",
@@ -3254,14 +3254,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "RAMPUR BUS STAND CHUHABAG PO KHANERI RAMPUR BUSHAHAR",
     "CONTACT": "1782234034",
-    "DATE": null,
     "MICR": "172311012",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIMLA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000551": {
     "IFSC": "HPSC0000551",
@@ -3271,14 +3271,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "BO BADARI NAGAR PIN 173026",
     "CONTACT": "1704224788",
-    "DATE": "2016-07-06",
     "MICR": "173311103",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "PAONTA SAHIB",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000552": {
     "IFSC": "HPSC0000552",
@@ -3288,14 +3288,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "DHAULA KUAN PIN 173020",
     "CONTACT": "1704257619",
-    "DATE": "2016-07-06",
     "MICR": "173311107",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "DHAULA KUAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000553": {
     "IFSC": "HPSC0000553",
@@ -3305,14 +3305,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "DADAHU DISTT SIRMOUR PIN 173022",
     "CONTACT": "1702267353",
-    "DATE": "2016-07-06",
     "MICR": "173311059",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "DADAHU",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000555": {
     "IFSC": "HPSC0000555",
@@ -3322,14 +3322,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "HABBAN PIN 173101",
     "CONTACT": "1799266080",
-    "DATE": "2016-07-06",
     "MICR": "173311003",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "HABBAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000556": {
     "IFSC": "HPSC0000556",
@@ -3339,14 +3339,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "KALA AMB PIN 173020",
     "CONTACT": "1702254114",
-    "DATE": "2016-07-06",
     "MICR": "173311062",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "KAKA AMB",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000557": {
     "IFSC": "HPSC0000557",
@@ -3356,14 +3356,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "KATCHA TANK PIN 173001",
     "CONTACT": "1702223143",
-    "DATE": "2016-07-06",
     "MICR": "173311053",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAHAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000558": {
     "IFSC": "HPSC0000558",
@@ -3373,14 +3373,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "MAJRA PIN 173021",
     "CONTACT": "1704254047",
-    "DATE": "2016-07-06",
     "MICR": "173311109",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "MAJRA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000559": {
     "IFSC": "HPSC0000559",
@@ -3390,14 +3390,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "NAHAN PIN 173001",
     "CONTACT": "1702222687",
-    "DATE": "2016-07-06",
     "MICR": "173311052",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAHAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000560": {
     "IFSC": "HPSC0000560",
@@ -3407,14 +3407,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "NARAG PIN 173024",
     "CONTACT": "1799257335",
-    "DATE": "2016-07-06",
     "MICR": "173311055",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "NARAG",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000561": {
     "IFSC": "HPSC0000561",
@@ -3424,14 +3424,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "NOHRADHAR PIN 173104",
     "CONTACT": "1702240680",
-    "DATE": "2016-07-06",
     "MICR": "173311002",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "NOHRADHAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000562": {
     "IFSC": "HPSC0000562",
@@ -3441,14 +3441,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "PAONTA SAHIB PIN 173025",
     "CONTACT": "1704222336",
-    "DATE": "2016-07-06",
     "MICR": "173311102",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "PAONTA SAHIB",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000563": {
     "IFSC": "HPSC0000563",
@@ -3458,14 +3458,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "RAJGARH PIN 173101",
     "CONTACT": "1799221021",
-    "DATE": null,
     "MICR": "173311057",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "RAJGARH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000564": {
     "IFSC": "HPSC0000564",
@@ -3475,14 +3475,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "S PRURWALA PIN 173025",
     "CONTACT": "1704238838",
-    "DATE": "2016-07-06",
     "MICR": "173311106",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "PAONTA SAHIB",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000565": {
     "IFSC": "HPSC0000565",
@@ -3492,14 +3492,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "SANGRAH PIN 173023",
     "CONTACT": "1702248163",
-    "DATE": "2016-07-06",
     "MICR": "173311056",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SANGRAH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000566": {
     "IFSC": "HPSC0000566",
@@ -3509,14 +3509,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "SARAHAN SIRMOUR. PIN 173024",
     "CONTACT": "1799236745",
-    "DATE": "2016-07-06",
     "MICR": "173311061",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SRAHAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000567": {
     "IFSC": "HPSC0000567",
@@ -3526,14 +3526,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "SATAUN PIN 173029",
     "CONTACT": "1704262506",
-    "DATE": "2016-07-06",
     "MICR": "173311108",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SATAUN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000568": {
     "IFSC": "HPSC0000568",
@@ -3543,14 +3543,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "SHILLAI PIN 173027",
     "CONTACT": "1704278545",
-    "DATE": "2016-07-06",
     "MICR": "173311105",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHILLAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000569": {
     "IFSC": "HPSC0000569",
@@ -3560,14 +3560,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "TRILOKPUR PIN 173030",
     "CONTACT": "1702238679",
-    "DATE": "2016-07-06",
     "MICR": "173311060",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "KALA AMB",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000570": {
     "IFSC": "HPSC0000570",
@@ -3577,14 +3577,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "KAMRAU PIN 173029",
     "CONTACT": "1704271443",
-    "DATE": "2016-07-06",
     "MICR": "173311104",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "KAMRAU",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000571": {
     "IFSC": "HPSC0000571",
@@ -3594,14 +3594,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "LANA CHETA PIN 173104",
     "CONTACT": "1799247120",
-    "DATE": "2016-07-06",
     "MICR": "173311058",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "LANA CHETA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000572": {
     "IFSC": "HPSC0000572",
@@ -3611,14 +3611,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "DC NAHAN PIN 173026",
     "CONTACT": "1702222267",
-    "DATE": "2016-07-06",
     "MICR": "173311054",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAHAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000573": {
     "IFSC": "HPSC0000573",
@@ -3628,14 +3628,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "YASHWANT NAGAR PIN 173212",
     "CONTACT": "1799270400",
-    "DATE": null,
     "MICR": "173311004",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "YASHWANT NAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000575": {
     "IFSC": "HPSC0000575",
@@ -3645,14 +3645,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "KHERI TEHSIL RAJGARH DISTT SIRMOUR",
     "CONTACT": "1799275021",
-    "DATE": null,
     "MICR": "173311064",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "RAJGARH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000576": {
     "IFSC": "HPSC0000576",
@@ -3662,14 +3662,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "JAMTA TEHSIL NAHAN PIN",
     "CONTACT": "1702258666",
-    "DATE": null,
     "MICR": "173311063",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAHAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000577": {
     "IFSC": "HPSC0000577",
@@ -3679,14 +3679,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "NAINIDHAR TEHSIL SHILLAI PIN",
     "CONTACT": "1704206010",
-    "DATE": null,
     "MICR": "173311111",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHILLAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000578": {
     "IFSC": "HPSC0000578",
@@ -3696,14 +3696,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "RONHAT TEHSIL SHILLAI",
     "CONTACT": "1799270404",
-    "DATE": null,
     "MICR": "173311110",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHILLAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000579": {
     "IFSC": "HPSC0000579",
@@ -3713,14 +3713,14 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "PO SANGNA TEHSIL SANGRAH DISTT SIRMOUR 173023",
     "CONTACT": "17028894067667",
-    "DATE": null,
     "MICR": "173311065",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SANGRAH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HPSC0000580": {
     "IFSC": "HPSC0000580",
@@ -3730,13 +3730,13 @@
     "STATE": "HIMACHAL PRADESH",
     "ADDRESS": "VPO KAFOTA TEHSIL KAMRAU",
     "CONTACT": "1704273327",
-    "DATE": null,
     "MICR": "173311112",
     "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "PAONTA SAHIB",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

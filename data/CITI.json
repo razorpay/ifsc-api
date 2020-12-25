@@ -7,14 +7,14 @@
     "STATE": "WEST BENGAL",
     "ADDRESS": "Kanak Building, 41, Chowringhee Road, Kolkata - 700071",
     "CONTACT": "22881878",
-    "DATE": null,
     "BANK": "CITI BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
     "MICR": "700037002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CITI0000002": {
     "IFSC": "CITI0000002",
@@ -24,14 +24,14 @@
     "STATE": "DELHI",
     "ADDRESS": "Ground and first Floor,DLF Capitol Point, Baba Kharak Singh Marg,Connaught Place,New Delhi 110001",
     "CONTACT": "01123743584",
-    "DATE": "41739",
     "MICR": "110037002",
     "BANK": "CITI BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CITI0000003": {
     "IFSC": "CITI0000003",
@@ -41,14 +41,14 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "No. 2, Club House Road, Chennai - 600002",
     "CONTACT": "28460014",
-    "DATE": null,
     "BANK": "CITI BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR": "600037002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CITI0000004": {
     "IFSC": "CITI0000004",
@@ -58,14 +58,14 @@
     "STATE": "KARNATAKA",
     "ADDRESS": "506-507, Level 5, Prestige Meridian 2, # 30 M G Road, Bangalore - 560001",
     "CONTACT": "51123551",
-    "DATE": null,
     "BANK": "CITI BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
     "MICR": "560037002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CITI0000005": {
     "IFSC": "CITI0000005",
@@ -75,14 +75,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "37/3, Onyx Tower, Near Westin Hotel, Ground Floor, North Main Road, Koregaon Park, Pune 411001 India",
     "CONTACT": "0205606356",
-    "DATE": "10-APR-14",
     "MICR": "411037001",
     "BANK": "CITI BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CITI0000006": {
     "IFSC": "CITI0000006",
@@ -92,14 +92,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "G-Pulla Reddy Building, North Wing, GreenLands Road, Begumpet, Hyderabad - 500016",
     "CONTACT": "23415350",
-    "DATE": null,
     "BANK": "CITI BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR": "500037002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CITI0000007": {
     "IFSC": "CITI0000007",
@@ -109,14 +109,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "Rembrandt, C G Road, Near Panchvati Circle, Ahmedabad - 380006",
     "CONTACT": "26568497",
-    "DATE": null,
     "BANK": "CITI BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
     "MICR": "380037002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CITI0000008": {
     "IFSC": "CITI0000008",
@@ -126,14 +126,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "Pelican, 1st Floor, Opp. Race Course Towers, Gotri Road, Baroda 390007",
     "CONTACT": "2321649",
-    "DATE": null,
     "BANK": "CITI BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "VADODARA",
     "MICR": "390037002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CITI0000009": {
     "IFSC": "CITI0000009",
@@ -143,14 +143,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Bhagwati Bhavan, Govt. Hostel Crossing, M.I Road, Jaipur - 302001",
     "CONTACT": "5118144",
-    "DATE": null,
     "BANK": "CITI BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "MICR": "302037002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CITI0000011": {
     "IFSC": "CITI0000011",
@@ -160,14 +160,14 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "Tristar Towers, 657 Avinashi Road, Coimbatore 641 037",
     "CONTACT": "2217979",
-    "DATE": null,
     "BANK": "CITI BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
     "MICR": "641037002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CITI0000012": {
     "IFSC": "CITI0000012",
@@ -177,14 +177,14 @@
     "STATE": "KERALA",
     "ADDRESS": "Photofast Hs., Door No.38/1581, MG Road, Padma Junction, Cochin 682035",
     "CONTACT": "2383936",
-    "DATE": null,
     "BANK": "CITI BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOCHI",
     "MICR": "682037002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CITI0000013": {
     "IFSC": "CITI0000013",
@@ -194,14 +194,14 @@
     "STATE": "CHANDIGARH",
     "ADDRESS": "SCO 4-5,Sector 8C, Madhya Marg,Chandigarh- 160009",
     "CONTACT": "01726650900",
-    "DATE": "41739",
     "MICR": "160037002",
     "BANK": "CITI BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHANDIGARH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CITI0000014": {
     "IFSC": "CITI0000014",
@@ -211,14 +211,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "DLF Square, M Block, Jaracanda Marg, DLF City, Phase II, Gurgaon - 122002",
     "CONTACT": "5012137",
-    "DATE": null,
     "BANK": "CITI BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "GURGAON",
     "MICR": "122037002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CITI0000015": {
     "IFSC": "CITI0000015",
@@ -228,14 +228,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "1st Floor, Opp. Kakadia Complex, Ghod Dod road, Surat 395007",
     "CONTACT": "2256147",
-    "DATE": null,
     "BANK": "CITI BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
     "MICR": "395037002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CITI0000016": {
     "IFSC": "CITI0000016",
@@ -245,14 +245,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "Citibank NA,17/1, Ashok Marg,Lucknow - 226001",
     "CONTACT": "2231661",
-    "DATE": null,
     "BANK": "CITI BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "LUCKNOW",
     "MICR": "226037002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CITI0000017": {
     "IFSC": "CITI0000017",
@@ -262,14 +262,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "CITIBANK N.A, A-6, SECTOR-4, NOIDA ; UTTAR PRADESH- 201301",
     "CONTACT": "4396501",
-    "DATE": "28/09/2006",
     "BANK": "CITI BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "NOIDA",
     "MICR": "110037006",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CITI0000019": {
     "IFSC": "CITI0000019",
@@ -279,14 +279,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Saraswati Sankul, Nirala Bazar, Opp S B College Bus Stop, Aurangpura, Aurangabad 431 001",
     "CONTACT": "5627041",
-    "DATE": null,
     "BANK": "CITI BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "AURANGABAD",
     "MICR": "431037002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CITI0000022": {
     "IFSC": "CITI0000022",
@@ -296,14 +296,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Rushiraj Residency, 52-53 D'Souza Colony, College Road, Nasik",
     "CONTACT": "2309100",
-    "DATE": null,
     "BANK": "CITI BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "NASHIK",
     "MICR": "422037002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CITI0000027": {
     "IFSC": "CITI0000027",
@@ -313,14 +313,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "CITIBANK N.A, 24-27 Lower Ground Floor, Crowne Ansal Plaza, Mathura Road, Faridabad 121007 (HARYANA",
     "CONTACT": "2226853",
-    "DATE": "08/02/2006",
     "BANK": "CITI BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "FARIDABAD",
     "MICR": "110037007",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CITI0000028": {
     "IFSC": "CITI0000028",
@@ -330,14 +330,14 @@
     "STATE": "WEST BENGAL",
     "ADDRESS": "CITIBANK NA  9, BRABOURNE ROAD, GROUND FLOOR, KOLKATA-700001",
     "CONTACT": "09830201311",
-    "DATE": null,
     "MICR": "700037003",
     "BANK": "CITI BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CITI0000029": {
     "IFSC": "CITI0000029",
@@ -347,14 +347,14 @@
     "STATE": "DELHI",
     "ADDRESS": "CITIBANK NA  GROUND FLOOR, INTERNATIONAL TRADE TOWER, HOTEL PARK ROYAL COMPLEX,NEHRU PLACE, NEW DELHI - 10 019.",
     "CONTACT": "9811201932",
-    "DATE": "08/02/2008",
     "BANK": "CITI BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "MICR": "110037002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CITI0000030": {
     "IFSC": "CITI0000030",
@@ -364,14 +364,14 @@
     "STATE": "DELHI",
     "ADDRESS": "CITIBANK NA  PLOT NO.33, COMMUNITY CENTRE VASANT VIHAR NEW DELHI 110057",
     "CONTACT": "9871424422",
-    "DATE": "08/02/2008",
     "BANK": "CITI BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "MICR": "110037002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CITI0000031": {
     "IFSC": "CITI0000031",
@@ -381,14 +381,14 @@
     "STATE": "DELHI",
     "ADDRESS": "CITIBANK NA  27, CENTRAL MARKET PUNJABI BAGHNEW DELHI:110026",
     "CONTACT": "9810403350",
-    "DATE": "08/02/2008",
     "BANK": "CITI BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "MICR": "110037002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CITI0000032": {
     "IFSC": "CITI0000032",
@@ -398,14 +398,14 @@
     "STATE": "DELHI",
     "ADDRESS": "Level 1,Gurmehar, A-12, Ring Road,South Extension Part-I,New Delhi - 110049",
     "CONTACT": "09810530336",
-    "DATE": "41739",
     "MICR": "110037002",
     "BANK": "CITI BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CITI0000034": {
     "IFSC": "CITI0000034",
@@ -415,14 +415,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "CITIBANK NA  A-6, SECTOR-4, NOIDA.201301",
     "CONTACT": "9899971810",
-    "DATE": "08/02/2008",
     "BANK": "CITI BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "NOIDA",
     "MICR": "110037002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CITI0000036": {
     "IFSC": "CITI0000036",
@@ -432,14 +432,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Pheonix Mills Ltd.,462, Senapati Bapat Marg, Lower Parel, Mumbai - 400 013",
     "CONTACT": "09821227132",
-    "DATE": "10-APR-14",
     "MICR": "400037005",
     "BANK": "CITI BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CITI0000037": {
     "IFSC": "CITI0000037",
@@ -449,14 +449,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "CITIBANK NA, AMMU, B1, V MEHTA ROAD,JVPD SCHEME JUHU",
     "CONTACT": "09967659169",
-    "DATE": "10-APR-14",
     "MICR": "400037006",
     "BANK": "CITI BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CITI0000038": {
     "IFSC": "CITI0000038",
@@ -466,14 +466,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "CITIBANK NA, MAHATMA PHULE BHAVAN, PALM BEACH ROAD, JUNCTION SECTOR 17 VASHI, NEW MUMBAI",
     "CONTACT": "0982018847",
-    "DATE": "10-APR-14",
     "MICR": "400037007",
     "BANK": "CITI BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "NEW MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CITI0000039": {
     "IFSC": "CITI0000039",
@@ -483,14 +483,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "CITIBANK NA, WEST VIEW BLDG, LINKING ROAD KHAR DANDA JUNCTION, KHAR WEST",
     "CONTACT": "09820594168",
-    "DATE": "10-APR-14",
     "MICR": "400037004",
     "BANK": "CITI BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CITI0000040": {
     "IFSC": "CITI0000040",
@@ -500,14 +500,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Times Square IT Park, Wing B, Unit No. 1, Andheri-Kurla Road, Marol Andheri (E), Mumbai - 400 059",
     "CONTACT": "09820507303",
-    "DATE": "10-APR-14",
     "MICR": "400037003",
     "BANK": "CITI BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CITI0000042": {
     "IFSC": "CITI0000042",
@@ -517,14 +517,14 @@
     "STATE": "KARNATAKA",
     "ADDRESS": "CITIBANK NA  PRESTIGE SOUTH END, NO 91, SOUTH END ROAD, JAYANAGAR, BANGALORE - 560 004",
     "CONTACT": "9845594647",
-    "DATE": "08/02/2008",
     "BANK": "CITI BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
     "MICR": "560037002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CITI0000046": {
     "IFSC": "CITI0000046",
@@ -534,14 +534,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "CITIBANK N.A., NEXUS POINT, SHOP NO. 1, OPP. VIDHAN BHAVAN, CIVIL LINES",
     "CONTACT": "07126623123",
-    "DATE": "07/10/2014",
     "MICR": "440037002",
     "BANK": "CITI BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CITI0000047": {
     "BANK": "CITI BANK",
@@ -557,7 +557,8 @@
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CITI0000048": {
     "IFSC": "CITI0000048",
@@ -567,14 +568,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GROUND FLOOR, SHOP NO. 2, WING A, LALANI RESIDENCY, SURVEY NO. 199/4, VILLAGE KAVESAR, OPP. SURAJ WATER PARK, NEAR WAGHBIL NAKA, GHODBUNDER ROAD, THANE (WEST) - 400 615",
     "CONTACT": "02225981401",
-    "DATE": "13-MAR-15",
     "MICR": "400037008",
     "BANK": "CITI BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CITI00000CF": {
     "IFSC": "CITI00000CF",
@@ -584,14 +585,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Citigroup Centre, C-61, Bandra Kurla Complex, Bandra E, Mumbai - 51",
     "CONTACT": null,
-    "DATE": null,
     "BANK": "CITI BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": false,
     "IMPS": true,
-    "MICR": null
+    "MICR": null,
+    "SWIFT": null
   },
   "CITI00000DX": {
     "IFSC": "CITI00000DX",
@@ -601,14 +602,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Citigroup Centre, C-61, Bandra Kurla Complex, Bandra E, Mumbai - 51",
     "CONTACT": null,
-    "DATE": null,
     "BANK": "CITI BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": false,
     "IMPS": true,
-    "MICR": null
+    "MICR": null,
+    "SWIFT": null
   },
   "CITI00000FT": {
     "IFSC": "CITI00000FT",
@@ -618,14 +619,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Citigroup Centre, C-61, Bandra Kurla Complex, Bandra E, Mumbai - 51",
     "CONTACT": null,
-    "DATE": null,
     "BANK": "CITI BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": false,
     "IMPS": true,
-    "MICR": null
+    "MICR": null,
+    "SWIFT": null
   },
   "CITI00000FX": {
     "IFSC": "CITI00000FX",
@@ -635,14 +636,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Citigroup Centre, C-61, Bandra Kurla Complex, Bandra E, Mumbai - 51",
     "CONTACT": null,
-    "DATE": null,
     "BANK": "CITI BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": false,
     "IMPS": true,
-    "MICR": null
+    "MICR": null,
+    "SWIFT": null
   },
   "CITI00000MM": {
     "IFSC": "CITI00000MM",
@@ -652,14 +653,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Citigroup Centre, C-61, Bandra Kurla Complex, Bandra E, Mumbai - 51",
     "CONTACT": null,
-    "DATE": null,
     "BANK": "CITI BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": false,
     "IMPS": true,
-    "MICR": null
+    "MICR": null,
+    "SWIFT": null
   },
   "CITI0100000": {
     "IFSC": "CITI0100000",
@@ -669,14 +670,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "BOMBAY MUTUAL BUILDING,293, DR. D N ROAD, FORT, MUMBAI 400001",
     "CONTACT": "02240005706",
-    "DATE": "10-APR-14",
     "MICR": "400037002",
     "BANK": "CITI BANK",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CITI0RTGSMI": {
     "BANK": "CITI Bank",
@@ -690,9 +691,9 @@
     "IMPS": true,
     "CITY": "MUMBAI",
     "UPI": true,
-    "DATE": "41739",
     "MICR": "400037002",
     "RTGS": true,
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   }
 }

@@ -7,14 +7,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "DEPOSIT INSURANCE AND CREDIT GUARANTEE CORPORATION, RESERVE BANK OF INDIA, BYCULLA OFFICE, 2ND FLOOR, OPP. MUMBAI CENTRAL RAILWAY STATION, MUMBAI CENTRAL, MUMBAI-400 008",
     "CONTACT": "022",
-    "DATE": "30/05/2008",
     "BANK": "DEPOSIT INSURANCE AND CREDIT GUARANTEE CORPN",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": false,
     "IMPS": true,
-    "MICR": null
+    "MICR": null,
+    "SWIFT": null
   },
   "DICG0000002": {
     "BANK": "DEPOSIT INSURANCE AND CREDIT GUARANTEE CORPORATION",
@@ -30,6 +30,7 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

@@ -11,10 +11,10 @@
     "IMPS": true,
     "CITY": "VASAI",
     "UPI": true,
-    "DATE": "04/12/2009",
     "RTGS": true,
     "MICR": "NA",
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "BACB0000002": {
     "IFSC": "BACB0000002",
@@ -24,14 +24,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "CATHOLIC BANK BUILDING, HEAD OFFICE PAPDY, VASAI (WEST) -401207",
     "CONTACT": null,
-    "DATE": "11/06/2010",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VASAI",
     "NEFT": false,
     "IMPS": true,
-    "MICR": null
+    "MICR": null,
+    "SWIFT": null
   },
   "BACB0000003": {
     "IFSC": "BACB0000003",
@@ -41,14 +41,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SAROVAR, 'B' BUILDING, PAPDY, POST : PAPDY, TAL:VASAI, DIST : THANE, 401 207",
     "CONTACT": null,
-    "DATE": "11/06/2010",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VASAI",
     "MICR": "400238003",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000004": {
     "IFSC": "BACB0000004",
@@ -58,14 +58,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "BANGLI, SANDOR, POST : VASAI, TAL: VASAI, DIST: THANE, 401 201",
     "CONTACT": null,
-    "DATE": "11/06/2010",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VASAI",
     "MICR": "400238004",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000005": {
     "IFSC": "BACB0000005",
@@ -75,14 +75,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "HOLI BAZAR, PAN-KELA MARKET, TAL & P.O. VASAI, DIST : THANE, 401 201",
     "CONTACT": null,
-    "DATE": "11/06/2010",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VASAI",
     "MICR": "400238005",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000006": {
     "IFSC": "BACB0000006",
@@ -92,14 +92,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "LAWRENCE SHOPPING CENTRE,NAVGHAR, P.O.VASAI ROAD,TAL : VASAI, DIST : THANE, 401 202",
     "CONTACT": null,
-    "DATE": "11/06/2010",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VASAI",
     "MICR": "400238006",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000007": {
     "IFSC": "BACB0000007",
@@ -109,14 +109,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "NEAR NANDAKHAL CHURCH,NANDAKHAL, P.O. AGASHI, TAL: VASAI, DIST: THANE, 401 301",
     "CONTACT": null,
-    "DATE": "11/06/2010",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VASAI",
     "MICR": "400238007",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000008": {
     "IFSC": "BACB0000008",
@@ -126,14 +126,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "NIRMAL NAKA, POST : NIRMAL, TAL: VASAI, DIST : THANE, 401 304",
     "CONTACT": null,
-    "DATE": "14/05/2010",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NIRMAL",
     "MICR": "400238008",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000009": {
     "IFSC": "BACB0000009",
@@ -143,14 +143,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "FRENCY ARCADE,SAMELPADA,UMRALE,POST:SOPARA, NALLASOPARA(W), TAL:VASAI, 401 203",
     "CONTACT": null,
-    "DATE": "11/06/2010",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VASAI",
     "MICR": "400238009",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000010": {
     "IFSC": "BACB0000010",
@@ -160,14 +160,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SUVARTA SADAN, NEAR FISH MARKET,AGASHI,POST : AGASHI, 401 301",
     "CONTACT": null,
-    "DATE": "14/05/2010",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "AGASHI",
     "MICR": "400238010",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000011": {
     "IFSC": "BACB0000011",
@@ -177,14 +177,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "KOLAMBEKAR PARK,'B' BLDG.,NEAR NAIGAON STATION,POST:PAPDY,TAL:VASAI,DIST:THANE, 401 207",
     "CONTACT": null,
-    "DATE": "11/06/2010",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VASAI",
     "MICR": "400238011",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000012": {
     "IFSC": "BACB0000012",
@@ -194,14 +194,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "ROSEBEN ENCLAVE, FIRST FLOOR, STATION ROAD, BHAYANDER(W), 401 105",
     "CONTACT": null,
-    "DATE": "11/06/2010",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VASAI",
     "MICR": "400238012",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000013": {
     "IFSC": "BACB0000013",
@@ -211,14 +211,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MINAZ SHOPPING CENTER, UTTAN NAKA, VIA : BHAYANDER, DIST : THANE, 401 106",
     "CONTACT": null,
-    "DATE": "11/06/2010",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VASAI",
     "MICR": "400238013",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000014": {
     "IFSC": "BACB0000014",
@@ -228,14 +228,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHEETAL SAROVAR, SHEETAL NAGAR, NEAR MIRA ROAD TEL. EXCHANGE, MIRA ROAD(E), DIST:THANE, 401 107",
     "CONTACT": null,
-    "DATE": "11/06/2010",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VASAI",
     "MICR": "400238014",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000015": {
     "IFSC": "BACB0000015",
@@ -245,14 +245,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MOTISHA BHAVAN, NEAR DEEMPAL, ZENDABAZAR, TAL : VASAI, DIST : THANE, 401 201",
     "CONTACT": null,
-    "DATE": "11/06/2010",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VASAI",
     "MICR": "400238015",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000016": {
     "IFSC": "BACB0000016",
@@ -262,14 +262,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SUVRAT CO-OPERATIVE HOUSING SOC. LTD.,SUVRAT APPT, 1ST FLOOR, NEAR JAIN TEMPLE, BHAWANI CHOWK, TEMBHI NAKA, THANE-401 601",
     "CONTACT": null,
-    "DATE": "14/05/2010",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
     "MICR": "400238016",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000017": {
     "IFSC": "BACB0000017",
@@ -279,14 +279,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SAI KIRAN BUILDING, NARAYAN NAGAR, NALLASOPARA (E), TAL: VASAI, DIST : THANE, 401 209",
     "CONTACT": null,
-    "DATE": "14/05/2010",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NALLASOPARA",
     "MICR": "400238017",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000018": {
     "IFSC": "BACB0000018",
@@ -296,14 +296,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GOKHIVARE NAKA, POST : GOKHIVARE, TAL :VASAI, DIST : THANE, 401 208",
     "CONTACT": null,
-    "DATE": "11/06/2010",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VASAI",
     "MICR": "400238018",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000019": {
     "IFSC": "BACB0000019",
@@ -313,14 +313,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "NEAR POLICE STATION, POST : VIRAR (E), TAL: VASAI, 401 305",
     "CONTACT": null,
-    "DATE": "11/06/2010",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VASAI",
     "MICR": "400238019",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000020": {
     "IFSC": "BACB0000020",
@@ -330,14 +330,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SAHAKAR BHAVAN, MADINAKA, MERCES, TAL & POST : VASAI, DIST : THANE, 401 201",
     "CONTACT": null,
-    "DATE": "11/06/2010",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VASAI",
     "MICR": "400238020",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000021": {
     "IFSC": "BACB0000021",
@@ -347,14 +347,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "ST. GONSALO GARCIA SCHOOL BUILDING, GASS, POST : SOPARA, TAL : VASAI, DIST : THANE, 401 203",
     "CONTACT": null,
-    "DATE": "11/06/2010",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VASAI",
     "MICR": "400238021",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000022": {
     "IFSC": "BACB0000022",
@@ -364,14 +364,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "ST. PAUL CHURCH BUILDING, NANBHAT, POST: SOPARA, TAL : VASAI, DIST : THANE, 401 203",
     "CONTACT": null,
-    "DATE": "11/06/2010",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VASAI",
     "MICR": "400238022",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000023": {
     "IFSC": "BACB0000023",
@@ -381,14 +381,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GIRIZ CHURCH SCHOOL COMPOUND, GIRIZ, TAL & POST : VASAI, DIST : THANE, 401 201",
     "CONTACT": null,
-    "DATE": "11/06/2010",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VASAI",
     "MICR": "400238023",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000024": {
     "IFSC": "BACB0000024",
@@ -398,14 +398,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "BHUIGAON CHURCH SCHOOL COMPOUND, BHUIGAON, TAL & POST : VASAI, DIST : THANE, 401 201",
     "CONTACT": null,
-    "DATE": "11/06/2010",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VASAI",
     "MICR": "400238024",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000025": {
     "IFSC": "BACB0000025",
@@ -415,14 +415,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "ST. PETER SCHOOL, ARNALA, TAL & & POST : VASAI, DIST : THANE, 401 302",
     "CONTACT": null,
-    "DATE": "14/05/2010",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "ARNALA",
     "MICR": "400238025",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000026": {
     "IFSC": "BACB0000026",
@@ -432,14 +432,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "KOSHYA APPARTMENT, BAMANPURI ROAD, OPP. GREATER BOMBAY BANK LTD., J. B. NAGAR, MAROL, ANDHERI (E), MUMBAI - 400059",
     "CONTACT": null,
-    "DATE": "11/06/2010",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VASAI",
     "MICR": "401238026",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000027": {
     "IFSC": "BACB0000027",
@@ -449,14 +449,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.6, GROUND FLOOR, SHRI SAI PRASAD CO-OP HSG. SOCIETY LTD. , PLOT NO.63, SECTOR 14, VASHI, NAVI MUMBAI 400 073",
     "CONTACT": null,
-    "DATE": "41739",
     "MICR": "400238027",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NAVI MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000028": {
     "IFSC": "BACB0000028",
@@ -466,14 +466,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "KOSHYA APPARTMENT, BAMANPURI ROAD, OPP. GREATER BOMBAY BANK LTD., J. B. NAGAR, MAROL, ANDHERI (E), MUMBAI - 400059",
     "CONTACT": null,
-    "DATE": "11/06/2010",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VASAI",
     "MICR": "400238028",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000029": {
     "IFSC": "BACB0000029",
@@ -483,14 +483,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "HERITAGE GROTTO, GROUND FLOOR, OPP. ORLEM CHURCH, MARVE ROAD, ORLEM, MALAD (W), MUMBAI- 400 064",
     "CONTACT": null,
-    "DATE": "29/03/2012",
     "MICR": "400238029",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000030": {
     "IFSC": "BACB0000030",
@@ -500,14 +500,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GROUND FLOOR,SHOP NO. 6 AND 7, CROWN PAVILION BLDG. NO.1, CTS NO. 2990(PT), NEAR HOLY CROSS CONVENT,VILLAGE CHIKANGHAR, KALYAN WEST 401 301",
     "CONTACT": null,
-    "DATE": "43626",
     "MICR": "400238030",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KALYAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000031": {
     "IFSC": "BACB0000031",
@@ -517,14 +517,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PHARMA WORLD,NOOR SHAH COMMERCIAL CENTER, C.T.S. NO.207/208 OF 200, BESIDE JAIBUN TOWER, KASHIMIRA,MIRA ROAD (E), DIST. THANE 401107",
     "CONTACT": "00",
-    "DATE": "41739",
     "MICR": "400238031",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KASHIMIRA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000032": {
     "IFSC": "BACB0000032",
@@ -534,14 +534,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "CRYSTAL PLAZA,GROUND FLOOR, NEAR KALINA MARKET,KALINA VILLAGE,SANTACRUZ EAST, MUMBAI 400 029",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "400238032",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "CRYSTAL PLAZA,GROUND FLOOR, NEAR KALINA MARKET,KALINA VILLAGE,SANTACRUZ EAST, MUMBAI 400 029",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000033": {
     "IFSC": "BACB0000033",
@@ -551,14 +551,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "ST.MARY MAGDALENE HIGH SCHOOL, NEAR MULGAON CHURCH, MULGAON, VASAI WEST- 401 201",
     "CONTACT": null,
-    "DATE": "28-12-2012",
     "MICR": "400238033",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VASAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000034": {
     "IFSC": "BACB0000034",
@@ -568,14 +568,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PRATHAMESH PLAZA,OPP. PREMIUM PARK, AGASHI ROAD, BOLINJ, VIRAR (WEST) - 401 303",
     "CONTACT": "02502322449",
-    "DATE": "05/07/2013",
     "MICR": "400238034",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VIRAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000035": {
     "IFSC": "BACB0000035",
@@ -585,14 +585,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "RASHMI STAR CITY, PHASE I, BUILDING A-12, SHOP NO. 5,6,7,8, JUCHANDRA ROAD, NAIGAON (EAST) - 401 208",
     "CONTACT": "02502322449",
-    "DATE": "05/07/2013",
     "MICR": "400238035",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VASAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000036": {
     "IFSC": "BACB0000036",
@@ -602,14 +602,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PRAGATI NAGAR, A WING, GROUND FLOOR,SHOP NO. 10,11,12, KHUDUS, WADA, TALUKA WADA, DIST-THANE 431 312",
     "CONTACT": "02502322449",
-    "DATE": "05/07/2013",
     "MICR": "400238036",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "WADA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000037": {
     "IFSC": "BACB0000037",
@@ -619,14 +619,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SOHAM COMMERCIAL PLAZA, GROUND FLOOR, SHOP NO. 10,11 AND 13, NEAR VASAI ROAD RAILWAY STATION, NAVGHAR ROAD, VASAI EAST 401210",
     "CONTACT": "7719046600",
-    "DATE": "21/11/2014",
     "MICR": "400238037",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VASAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000038": {
     "IFSC": "BACB0000038",
@@ -636,14 +636,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "RADHA CHANDRA HERITAGE, TANDULWADI ROAD, NEAR MSEB OFFICE, SAPHALE EAST, TAL. PALGHAR, DIST. PALGHAR 401102",
     "CONTACT": "7719048800",
-    "DATE": "21/11/2014",
     "MICR": "400238038",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "SAPHALA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000039": {
     "IFSC": "BACB0000039",
@@ -653,14 +653,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO. 1, 2 AND 3, CITY POINT, NEAR PANCHBATTI, KACHERI ROAD, PALGHAR WEST, 401404",
     "CONTACT": "7719049900",
-    "DATE": "21/11/2014",
     "MICR": "400238039",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PALGHAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000040": {
     "IFSC": "BACB0000040",
@@ -670,14 +670,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "KUMAR CORNER, 103,104,105,106 AND 107, MAIN ROAD, DAHANU ROAD WEST, TAL. DAHANU 401602",
     "CONTACT": "7719045500",
-    "DATE": "21/11/2014",
     "MICR": "400238040",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DAHANU ROAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000041": {
     "IFSC": "BACB0000041",
@@ -687,14 +687,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GALA NO. 1 AND 2, S. NO. 161,H. NO. 1 (PART), KAMAN NAKA, VILLAGE KAMAN, TAL. VASAI, DIST. PALGHAR 401 208",
     "CONTACT": "02507719867444",
-    "DATE": "2015-10-28",
     "MICR": "400238041",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VASAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000042": {
     "IFSC": "BACB0000042",
@@ -704,14 +704,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO. 7 AND 8, SAI TOWER CHS LTD., D WING, AMBADI ROAD, POST-VASAI ROAD(WEST), TAL. VASAI, DIST. PALGHAR 401 202",
     "CONTACT": "02507719872444",
-    "DATE": "2015-10-28",
     "MICR": "400238042",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VASAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000043": {
     "IFSC": "BACB0000043",
@@ -721,14 +721,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO. 49, GROUND FLOOR, BUILDING NO. 5, AGARWAL NAGRI, NEW LINK ROAD, NALLASOPARA(EAST), TAL. VASAI, DIST. PALGHAR 401 208",
     "CONTACT": "02507719870444",
-    "DATE": "2015-10-28",
     "MICR": "400238043",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VASAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000044": {
     "IFSC": "BACB0000044",
@@ -738,14 +738,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO. 12 TO 15, GALA NO. G-1/B, RICHMOND TOWN, PHASE-2, BUILDING NO. 4, BHABOLA, TAL. VASAI, DIST. PALGHAR 401 202",
     "CONTACT": "02507719869444",
-    "DATE": "2015-10-28",
     "MICR": "400238044",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VASAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000045": {
     "IFSC": "BACB0000045",
@@ -755,14 +755,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GALA NO. 1, GROUND FLOOR, LOTUS APARTMENT, SRI PRASTHA COMPLEX, NALLASOPARA WEST, TAL. VASAI, DIST. PALGHAR 401 203",
     "CONTACT": "02507719871444",
-    "DATE": "2015-10-28",
     "MICR": "400238045",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VASAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000046": {
     "IFSC": "BACB0000046",
@@ -772,14 +772,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "FIRST FLOOR, MINI MARKET CO-OPERATIVE HOUSING SOCIETY LTD, B. P. ROAD, BHAYANDER EAST, DIST. THANE 401 105",
     "CONTACT": "0227719873444",
-    "DATE": "2015-10-28",
     "MICR": "400238046",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BHAYANDER",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000047": {
     "IFSC": "BACB0000047",
@@ -789,14 +789,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO. 1, GROUND FLOOR, VIJAY GALAXY, KAVESAR ROAD, GHODBUNDER, WAGHBIL, VIJAY NAGAR, THANE 400 607",
     "CONTACT": "07888029950",
-    "DATE": "2016-04-13",
     "MICR": "400238047",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000048": {
     "IFSC": "BACB0000048",
@@ -806,14 +806,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "HOUSE NO. 786, GROUND FLOOR, NATIONAL HIGHWAY NO. 8, S. NO. 26B, TALASARI NAKA, TAL. TALASARI, DIST. PALGHAR 401 606",
     "CONTACT": "07888029951",
-    "DATE": "2016-04-13",
     "MICR": "400238048",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "TALASARI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000049": {
     "IFSC": "BACB0000049",
@@ -823,14 +823,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "COMMERCIAL GALA NO.1,GROUND FLOOR, ANGEL BUSINESS CENTRE, VILLAGE WALIV,SATIVALI, TAL. VASAI, DIST. PALGHAR 401 208",
     "CONTACT": "07888029952",
-    "DATE": "2016-04-13",
     "MICR": "400238049",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VASAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000050": {
     "IFSC": "BACB0000050",
@@ -840,14 +840,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "KELWA ROAD (WEST), GRAMPANCHAYAT VAKSAI, TALATHI SAJA KELWA ROAD, POST KELVE, TAL.PALGHAR 401 401",
     "CONTACT": "07888029955",
-    "DATE": "2016-04-13",
     "MICR": "400238050",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "KELVE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000051": {
     "IFSC": "BACB0000051",
@@ -857,14 +857,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "D/22, ROCK ENCLAVE CHSL, OPP. JOY ICE CREAM, NEAR HINDUSTAN NAKA, KANDIVALI WEST, MUMBAI 400 067",
     "CONTACT": "00",
-    "DATE": "42815",
     "MICR": "400238051",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000052": {
     "IFSC": "BACB0000052",
@@ -874,14 +874,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO. 1, GR AND FIRST FLOOR, TURNER HEIGHTS, BANDRA WEST, MUMBAI 400 050",
     "CONTACT": "00",
-    "DATE": "2017-03-22",
     "MICR": "400238052",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000053": {
     "IFSC": "BACB0000053",
@@ -891,14 +891,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GALA NO. 3, KONARK ARCADE BUILDING, NIJAMPUR, BHIWANDI, DIST THANE 421 302",
     "CONTACT": "00",
-    "DATE": "2017-03-22",
     "MICR": "400238053",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BHIWANDI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000054": {
     "IFSC": "BACB0000054",
@@ -908,14 +908,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO. 1/15, GR FLOOR, MAKWANA COMPLEX, VEER SAVARKAR MARG, CHANDANSAR ROAD, VIRAR EAST 401 305",
     "CONTACT": "00",
-    "DATE": "2017-03-22",
     "MICR": "400238054",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "VIRAR EAST",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000055": {
     "IFSC": "BACB0000055",
@@ -925,14 +925,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.9,FLAT NO. 2, AVISHKAR BUILDING, NO.C-1/A,C-1/B, GR. GLOOR, DAHISAR WEST, MUMBAI 400 068",
     "CONTACT": "00",
-    "DATE": "2017-03-22",
     "MICR": "400238055",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000057": {
     "IFSC": "BACB0000057",
@@ -942,14 +942,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "ST. JOSEPH CHURCH,UMRALE CAMPUS,UMRALE,NALLASOPARA WEST,TAL.VASAI,DIST. PALGHAR 401 203",
     "CONTACT": null,
-    "DATE": "2018-03-12",
     "MICR": "400238057",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NALLASOPARA WEST",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000059": {
     "IFSC": "BACB0000059",
@@ -959,14 +959,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.7,8, GROUND FLOOR, SHREE SAI PRABHADEVI CHS NX., KASHINATH DHRUV ROAD, AGAR BAZAR, DADAR WEST, MUMBAI 400 028",
     "CONTACT": "007447417163",
-    "DATE": null,
     "MICR": "400238059",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "DADAR WEST",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000060": {
     "IFSC": "BACB0000060",
@@ -976,14 +976,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "RAM NIWAS,SHOP NO.1,RHB ROAD,MULUND WEST,MUMBAI 400 080",
     "CONTACT": null,
-    "DATE": "2018-03-12",
     "MICR": "400238060",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000061": {
     "IFSC": "BACB0000061",
@@ -993,14 +993,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "LEONA RESIDENCY, SHOP NO. 1 AND 2,OPP. ROSE NAGAR,PALLI, NAIGAON WEST, VASAI,401 207",
     "CONTACT": null,
-    "DATE": "2018-03-12",
     "MICR": "400238061",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NAIGAON WEST",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000102": {
     "IFSC": "BACB0000102",
@@ -1010,14 +1010,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "OSWAL EMPIRE, 'E' BUILDING, OPP. BOISAR BUS DEPO, BOISAR, DIST :THANE, 401 501",
     "CONTACT": null,
-    "DATE": "14/05/2010",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "BOISAR",
     "MICR": "401238102",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000111": {
     "IFSC": "BACB0000111",
@@ -1027,14 +1027,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "JAI GANESH VISION B BUILDING, FAME GANESH MULTIPLEX, AKURDI, PUNE 411035",
     "CONTACT": null,
-    "DATE": "29/03/2012",
     "MICR": "411089252",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "AKURDI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000112": {
     "IFSC": "BACB0000112",
@@ -1044,14 +1044,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOWROOM NO. B, C WING, KPCT MEGHA COMMERCIAL COMPLEX, FATIMANAGAR, WANAVADI, PUNE - 411 013",
     "CONTACT": null,
-    "DATE": "22/05/2013",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000113": {
     "IFSC": "BACB0000113",
@@ -1061,14 +1061,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GAT NO. 2427 OLD,481 NEW,ARYAA PRISM COMMERCIAL COMPLEX,SHOP NO. 2A,2B AND 5, CHAKAN TALEGAON ROAD,CHAKAN, TAL.KHED,DIST. PUNE 410 501",
     "CONTACT": "00",
-    "DATE": "42970",
     "MICR": "411238004",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000121": {
     "IFSC": "BACB0000121",
@@ -1078,14 +1078,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SK OPEN MALL, NEXT TO BYK COLLEGE, COLLEGE RD, NASIK 422 005",
     "CONTACT": "9850595566",
-    "DATE": "15-05-2013",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NASHIK",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000122": {
     "IFSC": "BACB0000122",
@@ -1095,14 +1095,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO. 3,4,5 DESHMUKH BHAVAN, JAIL ROAD, NEAR TALATHI OFFICE, NASHIK ROAD 422101",
     "CONTACT": "00",
-    "DATE": "2016-08-23",
     "MICR": "422238003",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NASHIK ",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000123": {
     "IFSC": "BACB0000123",
@@ -1112,14 +1112,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "COMMERCIAL OFFICE NO. 101,109 AND 110, FIRST FLOOR, SAI MIDAS TOUCH, T. P. SCHEME NO. 4, SAVEDI ROAD, AHMEDNAGAR 414003",
     "CONTACT": "00",
-    "DATE": "2016-08-23",
     "MICR": "414238002",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDNAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BACB0000124": {
     "IFSC": "BACB0000124",
@@ -1129,13 +1129,13 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MARUTI COMPLEX,SAINATH NAGAR,NEAR JOGGING TRACK,PATHARDI ROAD,NASHIK,422 009",
     "CONTACT": null,
-    "DATE": "43171",
     "MICR": "422238004",
     "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NASHIK",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

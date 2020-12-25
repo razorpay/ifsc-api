@@ -7,14 +7,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "SCO 78-80, BANK SQUARE, SECTOR-17B",
     "CONTACT": "01722721026",
-    "DATE": "42948",
     "BANK": "THE HARYANA STATE COOPERATIVE APEX BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHANDIGARH",
     "NEFT": false,
     "IMPS": true,
-    "MICR": null
+    "MICR": null,
+    "SWIFT": null
   },
   "HARC0000002": {
     "IFSC": "HARC0000002",
@@ -24,14 +24,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "SCO 78-80, BANK SQUARE, SECTOR-17B",
     "CONTACT": "01722709667",
-    "DATE": "42948",
     "MICR": "160346002",
     "BANK": "THE HARYANA STATE COOPERATIVE APEX BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHANDIGARH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HARC0000003": {
     "IFSC": "HARC0000003",
@@ -41,14 +41,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "SCO -04, SECTOR -15 CHANDIGARH",
     "CONTACT": "2771315",
-    "DATE": "42948",
     "MICR": "160346003",
     "BANK": "THE HARYANA STATE COOPERATIVE APEX BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHANDIGARH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HARC0000004": {
     "IFSC": "HARC0000004",
@@ -58,14 +58,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "SCO -147, SECTOR-28D, CHANDIGARH",
     "CONTACT": "2651634",
-    "DATE": "42948",
     "MICR": "160346004",
     "BANK": "THE HARYANA STATE COOPERATIVE APEX BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHANDIGARH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HARC0000005": {
     "IFSC": "HARC0000005",
@@ -75,14 +75,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "SCO -10 (F.F.) SECTOR-20, CHANDIGARH",
     "CONTACT": "2706557",
-    "DATE": "42948",
     "MICR": "160346005",
     "BANK": "THE HARYANA STATE COOPERATIVE APEX BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHANDIGARH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HARC0000006": {
     "IFSC": "HARC0000006",
@@ -92,14 +92,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "SCO 40, SECTOR-19 CHANDIGARH",
     "CONTACT": "2773077",
-    "DATE": "42948",
     "MICR": "160346006",
     "BANK": "THE HARYANA STATE COOPERATIVE APEX BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHANDIGARH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HARC0000007": {
     "IFSC": "HARC0000007",
@@ -109,14 +109,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "SCO 68, SECTOR-32C CHANDIGARH",
     "CONTACT": "2660672",
-    "DATE": "42948",
     "MICR": "160346007",
     "BANK": "THE HARYANA STATE COOPERATIVE APEX BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHANDIGARH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HARC0000008": {
     "IFSC": "HARC0000008",
@@ -126,14 +126,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "SCO 360, SECTOR-44D CHANDIGARH",
     "CONTACT": "2609540",
-    "DATE": "42948",
     "MICR": "160346008",
     "BANK": "THE HARYANA STATE COOPERATIVE APEX BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHANDIGARH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HARC0000009": {
     "IFSC": "HARC0000009",
@@ -143,14 +143,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "SCO 48, SECTOR-4 PANCHKULA",
     "CONTACT": "2566406",
-    "DATE": "42948",
     "MICR": "160346009",
     "BANK": "THE HARYANA STATE COOPERATIVE APEX BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "PANCHKULA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HARC0000010": {
     "IFSC": "HARC0000010",
@@ -160,14 +160,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "SAHAKARITA BHAWAN, SECTOR-2 PANCHKULA",
     "CONTACT": "2560178",
-    "DATE": "42948",
     "MICR": "160346010",
     "BANK": "THE HARYANA STATE COOPERATIVE APEX BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "PANCHKULA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HARC0000011": {
     "IFSC": "HARC0000011",
@@ -177,14 +177,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "SCF 94, SECTOR-11, PANCHKULA",
     "CONTACT": "2566365",
-    "DATE": "42948",
     "MICR": "160346011",
     "BANK": "THE HARYANA STATE COOPERATIVE APEX BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "PANCHKULA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HARC0000012": {
     "IFSC": "HARC0000012",
@@ -194,14 +194,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "SCF 20, SECTOR-15 PANCHULA",
     "CONTACT": "2594405",
-    "DATE": "42948",
     "MICR": "160346012",
     "BANK": "THE HARYANA STATE COOPERATIVE APEX BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "PANCHKULA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HARC0000013": {
     "IFSC": "HARC0000013",
@@ -211,14 +211,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "SCF 221, MOTOR MKT.MANI MAJRA CHANDIGARH",
     "CONTACT": "2739319",
-    "DATE": "42948",
     "MICR": "160346013",
     "BANK": "THE HARYANA STATE COOPERATIVE APEX BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHANDIGARH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HARC0000014": {
     "IFSC": "HARC0000014",
@@ -228,14 +228,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "HARYANA CIVIL SECRETARIAT, CHANDIGARH",
     "CONTACT": "2741604",
-    "DATE": "42948",
     "MICR": "160346014",
     "BANK": "THE HARYANA STATE COOPERATIVE APEX BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHANDIGARH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HARC0000015": {
     "IFSC": "HARC0000015",
@@ -245,14 +245,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "NEW SECRETARIAT, SECTOR-17 CHANDIGARH",
     "CONTACT": "2713908",
-    "DATE": "42948",
     "BANK": "THE HARYANA STATE COOPERATIVE APEX BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHANDIGARH",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HARC0000016": {
     "IFSC": "HARC0000016",
@@ -262,13 +262,13 @@
     "STATE": "HARYANA",
     "ADDRESS": "HSAMB, SECTOR-6, C-6, MANDI BHAWAN PANCHKULA",
     "CONTACT": "2563934",
-    "DATE": "42948",
     "BANK": "THE HARYANA STATE COOPERATIVE APEX BANK LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "PANCHKULA",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

@@ -7,14 +7,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "2, M. G. MARG,",
     "CONTACT": "05224151200",
-    "DATE": "2019/11/12",
     "BANK": "UTTAR PRADESH COOPERATIVE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "LUCKNOW",
     "NEFT": false,
     "IMPS": true,
-    "MICR": null
+    "MICR": null,
+    "SWIFT": null
   },
   "UPCB0000002": {
     "IFSC": "UPCB0000002",
@@ -24,14 +24,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "14, VIDHAN SABHA MARG,",
     "CONTACT": "05222629257",
-    "DATE": "2019/11/12",
     "MICR": "226185013",
     "BANK": "UTTAR PRADESH COOPERATIVE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "LUCKNOW",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB0000003": {
     "IFSC": "UPCB0000003",
@@ -41,14 +41,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "SINGAR NAGAR ALAMBAGH,",
     "CONTACT": "05222456410",
-    "DATE": "2019/11/12",
     "MICR": "226185003",
     "BANK": "UTTAR PRADESH COOPERATIVE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "LUCKNOW",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB0000004": {
     "IFSC": "UPCB0000004",
@@ -58,14 +58,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "C-46,SECTOR-G ALIGANJ,",
     "CONTACT": "05222321431",
-    "DATE": "2019/11/12",
     "MICR": "226185004",
     "BANK": "UTTAR PRADESH COOPERATIVE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "LUCKNOW",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB0000005": {
     "IFSC": "UPCB0000005",
@@ -75,14 +75,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "173/33,B.N.VERMA ROAD AMINABAD,",
     "CONTACT": "05222615346",
-    "DATE": "2019/11/12",
     "MICR": "226185005",
     "BANK": "UTTAR PRADESH COOPERATIVE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "LUCKNOW",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB0000006": {
     "IFSC": "UPCB0000006",
@@ -92,14 +92,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "JNDC COLLEGE,",
     "CONTACT": "05222630969",
-    "DATE": "2019/11/12",
     "MICR": "226185006",
     "BANK": "UTTAR PRADESH COOPERATIVE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "LUCKNOW",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB0000007": {
     "IFSC": "UPCB0000007",
@@ -109,14 +109,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "NADAN MAHAL ROAD,",
     "CONTACT": "05222269377",
-    "DATE": "2019/11/12",
     "MICR": "226185007",
     "BANK": "UTTAR PRADESH COOPERATIVE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "LUCKNOW",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB0000008": {
     "IFSC": "UPCB0000008",
@@ -126,14 +126,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "1- MADHO TOWER NAKA HINDOLA,",
     "CONTACT": "05222691860",
-    "DATE": "2019/11/12",
     "MICR": "226185008",
     "BANK": "UTTAR PRADESH COOPERATIVE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "LUCKNOW",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB0000009": {
     "IFSC": "UPCB0000009",
@@ -143,14 +143,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "FIRST FLOOR SINHA MARKET,NIRALA NAGAR,",
     "CONTACT": "05222787158",
-    "DATE": "2019/11/12",
     "MICR": "226185009",
     "BANK": "UTTAR PRADESH COOPERATIVE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "LUCKNOW",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB0000010": {
     "IFSC": "UPCB0000010",
@@ -160,14 +160,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "A-40 INDIRA NAGAR,",
     "CONTACT": "05222346747",
-    "DATE": "2019/11/12",
     "MICR": "226185010",
     "BANK": "UTTAR PRADESH COOPERATIVE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "LUCKNOW",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB0000011": {
     "IFSC": "UPCB0000011",
@@ -177,14 +177,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "630,MAHAVEER PRASAD ROAD SADAR,",
     "CONTACT": "05222480765",
-    "DATE": "2019/11/12",
     "MICR": "226185011",
     "BANK": "UTTAR PRADESH COOPERATIVE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "LUCKNOW",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB0000012": {
     "IFSC": "UPCB0000012",
@@ -194,14 +194,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "45/17,46/17 B BLOCK RAJAJIPURAM TALKATORA,",
     "CONTACT": "05222661708",
-    "DATE": "2019/11/12",
     "MICR": "226185012",
     "BANK": "UTTAR PRADESH COOPERATIVE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "LUCKNOW",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB0000013": {
     "IFSC": "UPCB0000013",
@@ -211,14 +211,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "CHRIST CHURCH COLLEGE,",
     "CONTACT": "05122367317",
-    "DATE": "2019/11/12",
     "MICR": "208185005",
     "BANK": "UTTAR PRADESH COOPERATIVE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KANPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB0000014": {
     "IFSC": "UPCB0000014",
@@ -228,14 +228,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "CIVIL LINES DAV COLLEGE,",
     "CONTACT": "05122305341",
-    "DATE": "2019/11/12",
     "MICR": "208185002",
     "BANK": "UTTAR PRADESH COOPERATIVE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KANPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB0000015": {
     "IFSC": "UPCB0000015",
@@ -245,14 +245,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "24/107,BIRHANA ROAD,",
     "CONTACT": "05122369540",
-    "DATE": "2019/11/12",
     "MICR": "208185004",
     "BANK": "UTTAR PRADESH COOPERATIVE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KANPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB0000016": {
     "IFSC": "UPCB0000016",
@@ -262,14 +262,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "70/71 PARADE NAVEEN MARKET,",
     "CONTACT": "05122304863",
-    "DATE": "2019/11/12",
     "MICR": "208185003",
     "BANK": "UTTAR PRADESH COOPERATIVE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KANPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB0000017": {
     "IFSC": "UPCB0000017",
@@ -279,14 +279,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "111A/325 ASHOK NAGAR MOTIJHEEL,",
     "CONTACT": "05122525188",
-    "DATE": "2019/11/12",
     "MICR": "208185006",
     "BANK": "UTTAR PRADESH COOPERATIVE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KANPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB0000018": {
     "IFSC": "UPCB0000018",
@@ -296,14 +296,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "124/7 N , MISHRA MARKET,",
     "CONTACT": "05122654267",
-    "DATE": "2019/12/17",
     "MICR": "208185007",
     "BANK": "UTTAR PRADESH COOPERATIVE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KANPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB0000019": {
     "IFSC": "UPCB0000019",
@@ -313,14 +313,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "SARVODAYA NAGAR,",
     "CONTACT": "05122218597",
-    "DATE": "2019/11/12",
     "MICR": "208185008",
     "BANK": "UTTAR PRADESH COOPERATIVE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KANPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB0000020": {
     "IFSC": "UPCB0000020",
@@ -330,14 +330,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "TRANSPORT CHAURAHA SITAPUR",
     "CONTACT": "5862242253",
-    "DATE": "2019/11/12",
     "MICR": "261185002",
     "BANK": "UTTAR PRADESH COOPERATIVE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SITAPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB0000021": {
     "IFSC": "UPCB0000021",
@@ -347,14 +347,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "95 A CIVIL LINE BAREILLY",
     "CONTACT": "05812573482",
-    "DATE": "2019/11/12",
     "MICR": "243185002",
     "BANK": "UTTAR PRADESH COOPERATIVE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "BAREILLY",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB0000022": {
     "IFSC": "UPCB0000022",
@@ -364,14 +364,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "BELANGANJ,",
     "CONTACT": "05622622263",
-    "DATE": "2019/11/12",
     "MICR": "282185002",
     "BANK": "UTTAR PRADESH COOPERATIVE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "AGRA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB0000023": {
     "IFSC": "UPCB0000023",
@@ -381,14 +381,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "E-23 NEW ARYA NAGAR GHAZIABAD",
     "CONTACT": "01202781403",
-    "DATE": "2019/11/12",
     "MICR": "110185002",
     "BANK": "UTTAR PRADESH COOPERATIVE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "GHAZIABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB0000024": {
     "IFSC": "UPCB0000024",
@@ -398,14 +398,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "BAJAJA BAZAR,",
     "CONTACT": "5278222112",
-    "DATE": "2019/11/12",
     "MICR": "224185002",
     "BANK": "UTTAR PRADESH COOPERATIVE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "FAIZABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB0000025": {
     "IFSC": "UPCB0000025",
@@ -415,14 +415,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "LALA CHHOTEY LAL KA HATA,STATION ROAD",
     "CONTACT": "5262228390",
-    "DATE": "2019/11/12",
     "MICR": "271185102",
     "BANK": "UTTAR PRADESH COOPERATIVE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "GONDA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB0000026": {
     "IFSC": "UPCB0000026",
@@ -432,14 +432,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "D-47/179,LUXA ROAD,",
     "CONTACT": "05422401707",
-    "DATE": "2019/11/12",
     "MICR": "221185002",
     "BANK": "UTTAR PRADESH COOPERATIVE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "VARANASI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB0000027": {
     "IFSC": "UPCB0000027",
@@ -449,14 +449,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "STATION ROAD SATHION AZAMGARH",
     "CONTACT": "5462272311",
-    "DATE": "2019/11/12",
     "MICR": "276185002",
     "BANK": "UTTAR PRADESH COOPERATIVE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "AZAMGARH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB0000100": {
     "IFSC": "UPCB0000100",
@@ -466,14 +466,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "2, M. G. MARG,",
     "CONTACT": "052241512000",
-    "DATE": "2019/11/12",
     "MICR": "226185001",
     "BANK": "UTTAR PRADESH COOPERATIVE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "LUCKNOW",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB000MAIN": {
     "IFSC": "UPCB000MAIN",
@@ -483,14 +483,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "2, M. G. MARG,",
     "CONTACT": "05222623269",
-    "DATE": "2019/11/12",
     "BANK": "UTTAR PRADESH COOPERATIVE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "LUCKNOW",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00AGDCB": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -506,7 +506,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00ALDCB": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -522,7 +523,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00AZSBL": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -538,7 +540,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00BAHDC": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -554,7 +557,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00BBDCB": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -570,7 +574,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00BDCBL": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -586,7 +591,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00BDCCB": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -602,7 +608,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00BIJNR": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -618,7 +625,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00BULND": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -634,7 +642,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00DCBLB": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -650,7 +659,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00DCBLS": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -666,7 +676,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00DCCBG": {
     "IFSC": "UPCB00DCCBG",
@@ -676,14 +687,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "COLLAGE ROAD",
     "CONTACT": "9411465077",
-    "DATE": "2019-11-20",
     "MICR": "273861030",
     "BANK": "UTTAR PRADESH COOPERATIVE BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "GORAKHPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00DCCBS": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -699,7 +710,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00DKDCB": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -715,7 +727,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00ETAWH": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -731,7 +744,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00ETDCB": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -747,7 +761,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00FDCBL": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -763,7 +778,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00FDCCB": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -779,7 +795,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00FDCCL": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -795,7 +812,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00FZSBL": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -811,7 +829,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00GZSBL": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -827,7 +846,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00HDCBL": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -843,7 +863,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00HDCCB": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -859,7 +880,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00JDCBL": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -875,7 +897,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00KHIRI": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -891,7 +914,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00KZSBL": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -907,7 +931,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00LDCBL": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -923,7 +948,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00MDCCB": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -939,7 +965,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00MERUT": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -955,7 +982,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00MIRZA": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -971,7 +999,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00MORAD": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -987,7 +1016,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00MUZAF": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -1003,7 +1033,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00MZSBL": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -1019,7 +1050,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00NMCBL": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -1035,7 +1067,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00PDCBL": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -1051,7 +1084,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00PRDCB": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -1067,7 +1101,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00RAMPR": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -1083,7 +1118,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00RBDCB": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -1099,7 +1135,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00SJDCB": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -1115,7 +1152,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00UDCCB": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -1131,7 +1169,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00VDCBL": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -1147,7 +1186,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00ZSBBU": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -1163,7 +1203,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00ZSBJR": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -1179,7 +1220,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00ZSBLA": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -1195,7 +1237,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00ZSBLB": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -1211,7 +1254,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00ZSBLG": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -1227,7 +1271,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00ZSBLJ": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -1243,7 +1288,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00ZSBLL": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -1259,7 +1305,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00ZSBLS": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -1275,7 +1322,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00ZSBSN": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -1291,7 +1339,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "UPCB00ZSMAU": {
     "BANK": "UTTAR PRADESH COOPERATIVE BANK LTD",
@@ -1307,6 +1356,7 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

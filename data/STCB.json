@@ -7,14 +7,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "101,RAHEJA CENTRE 1ST FLOOR,FREE PRESS JOURNAL ROAD,NARIMANPOINT MUMBAI 400021",
     "CONTACT": "02243028826",
-    "DATE": "41739",
     "MICR": "400332002",
     "BANK": "SBM BANK INDIA LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "STCB0000065": {
     "BANK": "State Bank of Mauritius",
@@ -28,9 +28,9 @@
     "IMPS": true,
     "CITY": "MUMBAI",
     "UPI": false,
-    "DATE": "41739",
     "MICR": "400332002",
     "RTGS": true,
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   }
 }

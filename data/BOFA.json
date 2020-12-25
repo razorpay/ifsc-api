@@ -7,14 +7,14 @@
     "STATE": "KARNATAKA",
     "ADDRESS": "907-908, 9th Floor, Prestige Meridian 1, 29 M.G. Road, Bangalore 560 001",
     "CONTACT": "66006203",
-    "DATE": null,
     "BANK": "BANK OF AMERICA",
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
     "MICR": "560032002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BOFA0CN6215": {
     "IFSC": "BOFA0CN6215",
@@ -24,14 +24,14 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "EA CHAMBERS,EXPRESS AVENUE,8TH FLOOR NO.49,50 L,WHITES ROAD,ROYAPETTAH,CHENNAI 600014",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "600032001",
     "BANK": "BANK OF AMERICA",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "BOFA0MM6205": {
     "BANK": "Bank of America",
@@ -45,10 +45,10 @@
     "IMPS": true,
     "CITY": "MUMBAI",
     "UPI": true,
-    "DATE": null,
     "MICR": "000032002",
     "RTGS": true,
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "BOFA0ND6216": {
     "IFSC": "BOFA0ND6216",
@@ -58,13 +58,13 @@
     "STATE": "DELHI",
     "ADDRESS": "DCM Building, 16, Barakhamba Road, New Delhi 110001",
     "CONTACT": "23715565",
-    "DATE": null,
     "BANK": "BANK OF AMERICA",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "MICR": "110032001",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

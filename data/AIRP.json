@@ -7,14 +7,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "AIRTEL CENTER, PLAT NO-16, UDYOG VIHAR, PHASE-4, GURGOAN",
     "CONTACT": "01244222222",
-    "DATE": "2016-11-03",
     "BANK": "AIRTEL PAYMENTS BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "GURGOAN",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "AIRP00000SC": {
     "BANK": "Airtel Payments Bank",
@@ -28,9 +28,9 @@
     "IMPS": true,
     "CITY": "GURGOAN",
     "UPI": true,
-    "DATE": "2016-11-03",
     "RTGS": true,
     "NEFT": false,
-    "MICR": null
+    "MICR": null,
+    "SWIFT": null
   }
 }

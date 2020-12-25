@@ -7,14 +7,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT JIVANSHREE PLOT NO 35 SECTOR G TOWN CENTRE CIDCO AURANGABAD 431005",
     "CONTACT": "02402476139",
-    "DATE": "2016-07-19",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "AURANGABAD",
     "NEFT": false,
     "IMPS": true,
-    "MICR": null
+    "MICR": null,
+    "SWIFT": null
   },
   "MAHG00000SC": {
     "BANK": "Maharashtra Gramin Bank",
@@ -30,7 +30,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004000": {
     "IFSC": "MAHG0004000",
@@ -40,14 +41,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT JIVANSHREE PLOT NO 35 SECTOR G TOWN CENTRE CIDCO AURANGABAD 431005",
     "CONTACT": "02402476139",
-    "DATE": "2016-07-25",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "AURANGABAD",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004100": {
     "IFSC": "MAHG0004100",
@@ -57,14 +58,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "REGIONAL OFFICE NANDED DR KESRALE BUILDING YASHWANT NAGAR PAWDEWADINAKA NANDED",
     "CONTACT": "02462250695",
-    "DATE": "2016-07-25",
     "MICR": "431570100",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "NANDED",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004101": {
     "IFSC": "MAHG0004101",
@@ -74,14 +75,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT ISALAPUR TQ KINWAT DIST NANDED",
     "CONTACT": "02469244040",
-    "DATE": "2016-07-25",
     "MICR": "431570620",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "ISLAPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004102": {
     "IFSC": "MAHG0004102",
@@ -91,14 +92,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT ARDHAPUR TQ ARDHAPUR DIST NANDED",
     "CONTACT": "02462272483",
-    "DATE": "2016-07-25",
     "MICR": "431570598",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "ARDHAPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004103": {
     "IFSC": "MAHG0004103",
@@ -108,14 +109,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT ARJAPUR TQ BILOLI DIST NANDED",
     "CONTACT": "02465202209",
-    "DATE": "2016-07-25",
     "MICR": "431570602",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "ARJAPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004104": {
     "IFSC": "MAHG0004104",
@@ -125,14 +126,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT BILOLI TQ BILOLI DIST NANDED",
     "CONTACT": "02465223688",
-    "DATE": "2016-07-25",
     "MICR": "431570603",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "BILOLI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004105": {
     "IFSC": "MAHG0004105",
@@ -142,14 +143,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT BARAD TQ MUDKHED DIST NANDED",
     "CONTACT": "02462276537",
-    "DATE": "2016-07-25",
     "MICR": "431570599",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "BARAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004106": {
     "IFSC": "MAHG0004106",
@@ -159,14 +160,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT BARBADA TQ NAIGAON DIST NANDED",
     "CONTACT": "02465268397",
-    "DATE": "2016-07-25",
     "MICR": "431570637",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "BARBADA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004107": {
     "IFSC": "MAHG0004107",
@@ -176,14 +177,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT BARUL TQ KANDHAR DIST NANDED",
     "CONTACT": "02466269574",
-    "DATE": "2016-07-25",
     "MICR": "431570615",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "BARUL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004108": {
     "IFSC": "MAHG0004108",
@@ -193,14 +194,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT BETMOGRA TQ MUKHED DIST NANDED",
     "CONTACT": "02461240057",
-    "DATE": "2016-07-25",
     "MICR": "431570629",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "BETMOGRA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004109": {
     "IFSC": "MAHG0004109",
@@ -210,14 +211,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KASRALI TQ BILOLI DIST NANDED",
     "CONTACT": "02465226707",
-    "DATE": "2016-07-25",
     "MICR": "431570604",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KASRALI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004110": {
     "IFSC": "MAHG0004110",
@@ -227,14 +228,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT BODHADI TQ KINWAT DIST NANDED",
     "CONTACT": "02469234673",
-    "DATE": "2016-07-25",
     "MICR": "431570619",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "BODHADI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004111": {
     "IFSC": "MAHG0004111",
@@ -244,14 +245,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT CHANDOLA TQ MUKHED DIST NANDED",
     "CONTACT": "02461202044",
-    "DATE": "2016-07-25",
     "MICR": "431570630",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHANDOLA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004112": {
     "IFSC": "MAHG0004112",
@@ -261,14 +262,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT DEGLOOR TQ DEGLOOR DIST NANDED",
     "CONTACT": "02463255064",
-    "DATE": "2016-07-25",
     "MICR": "431570452",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "DEGLOOR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004113": {
     "IFSC": "MAHG0004113",
@@ -278,14 +279,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT DIGRAS N TQ KANDHAR DIST NANDED",
     "CONTACT": "02466260152",
-    "DATE": "2016-07-25",
     "MICR": "431570616",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "DIGRAS N",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004114": {
     "IFSC": "MAHG0004114",
@@ -295,14 +296,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT GADGA TQ NAIGAON DIST NANDED",
     "CONTACT": "02465254204",
-    "DATE": "2016-07-25",
     "MICR": "431570638",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "GADGA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004115": {
     "IFSC": "MAHG0004115",
@@ -312,14 +313,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT HANEGAON TQ DEGLOOR DIST NANDED",
     "CONTACT": "02463263291",
-    "DATE": "2016-07-25",
     "MICR": "431570595",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "HANEGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004116": {
     "IFSC": "MAHG0004116",
@@ -329,14 +330,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT JAHOOR TQ MUKHED DIST NANDED",
     "CONTACT": "02461244713",
-    "DATE": "2016-07-25",
     "MICR": "431570631",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "JAHOOR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004118": {
     "IFSC": "MAHG0004118",
@@ -346,14 +347,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT JAMB TQ MUKHED DIST NANDED",
     "CONTACT": "02461242172",
-    "DATE": "2016-07-25",
     "MICR": "431570632",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "JAMB",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004119": {
     "IFSC": "MAHG0004119",
@@ -363,14 +364,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT DHARMABAD TQ DHARMABAD DIST NANDED",
     "CONTACT": "02465244512",
-    "DATE": "2016-07-25",
     "MICR": "431570608",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "DHARMABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004120": {
     "IFSC": "MAHG0004120",
@@ -380,14 +381,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KAMARI TQ HIMAYTNAGR DIST NANDED",
     "CONTACT": "02468202270",
-    "DATE": "2016-07-25",
     "MICR": "431570614",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KAMARI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004121": {
     "IFSC": "MAHG0004121",
@@ -397,14 +398,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KANDHAR TQ KANDHAR DIST NANDED",
     "CONTACT": "02466223603",
-    "DATE": "2016-07-25",
     "MICR": "431570617",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KANDHAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004122": {
     "IFSC": "MAHG0004122",
@@ -414,14 +415,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KAPSI TQ LOHA DIST NANDED",
     "CONTACT": "02466252138",
-    "DATE": "2016-07-25",
     "MICR": "431570623",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KAPSI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004123": {
     "IFSC": "MAHG0004123",
@@ -431,14 +432,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KARADKHED TQ DEGLOOR DIST NANDED",
     "CONTACT": "02463264258",
-    "DATE": "2016-07-25",
     "MICR": "431570596",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KARADKHED",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004124": {
     "IFSC": "MAHG0004124",
@@ -448,14 +449,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KHATGAON TQ BILOLI DIST NANDED",
     "CONTACT": "02465264317",
-    "DATE": "2016-07-25",
     "MICR": "431570605",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KHATGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004125": {
     "IFSC": "MAHG0004125",
@@ -465,14 +466,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KRUSHNUR TQ NAIGAON DIST NANDED",
     "CONTACT": "02465279998",
-    "DATE": "2016-07-25",
     "MICR": "431570639",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KRUSHNUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004126": {
     "IFSC": "MAHG0004126",
@@ -482,14 +483,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KUNTUR TQ NAIGAON DIST NANDED",
     "CONTACT": "02465258604",
-    "DATE": "2016-07-25",
     "MICR": "431570640",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KUNTUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004127": {
     "IFSC": "MAHG0004127",
@@ -499,14 +500,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT LAHAN TQ ARDHAPUR DIST NANDED",
     "CONTACT": "02462277589",
-    "DATE": "2016-07-25",
     "MICR": "431570600",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "LAHAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004128": {
     "IFSC": "MAHG0004128",
@@ -516,14 +517,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT LIMBGAON TQ NANDED DIST NANDED",
     "CONTACT": "02462270483",
-    "DATE": "2016-07-25",
     "MICR": "431570642",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "LIMBGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004129": {
     "IFSC": "MAHG0004129",
@@ -533,14 +534,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT LOHGAON TQ BILOLI DIST NANDED",
     "CONTACT": "02465202757",
-    "DATE": "2016-07-25",
     "MICR": "431570606",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "LOHGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004130": {
     "IFSC": "MAHG0004130",
@@ -550,14 +551,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT MAHUR TQ MAHUR DIST NANDED",
     "CONTACT": "02460268432",
-    "DATE": "2016-07-25",
     "MICR": "431570635",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MAHUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004131": {
     "IFSC": "MAHG0004131",
@@ -567,14 +568,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT MALAKOLI TQ LOHA DIST NANDED",
     "CONTACT": "02466246204",
-    "DATE": "2016-07-25",
     "MICR": "431570625",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MALAKOLI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004132": {
     "IFSC": "MAHG0004132",
@@ -584,14 +585,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT MALEGAON TQ ARDHAPUR DIST NANDED",
     "CONTACT": "02462273354",
-    "DATE": "2016-07-25",
     "MICR": "431570601",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MALEGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004133": {
     "IFSC": "MAHG0004133",
@@ -601,14 +602,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT MANATHA TQ HADGAON DIST NANDED",
     "CONTACT": "02468274277",
-    "DATE": "2016-07-25",
     "MICR": "431570610",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MANATHA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004134": {
     "IFSC": "MAHG0004134",
@@ -618,14 +619,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT MUDKHED TQ MUDKHED DIST NANDED",
     "CONTACT": "02462275403",
-    "DATE": "2016-07-25",
     "MICR": "431570628",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUDKHED",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004135": {
     "IFSC": "MAHG0004135",
@@ -635,14 +636,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT MUKRAMABAD TQ MUKHED DIST NANDED",
     "CONTACT": "02461267160",
-    "DATE": "2016-07-25",
     "MICR": "431570634",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUKRAMABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004136": {
     "IFSC": "MAHG0004136",
@@ -652,14 +653,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT BHAGYANAGAR NANDED TQ NANDED DIST NANDED",
     "CONTACT": "02462251075",
-    "DATE": "2016-07-25",
     "MICR": "431570102",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "BHAGYANAGAR NANDED",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004138": {
     "IFSC": "MAHG0004138",
@@ -669,14 +670,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT OSMANNAGAR TQ LOHA DIST NANDED",
     "CONTACT": "02466262637",
-    "DATE": "2016-07-25",
     "MICR": "431570626",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "OSMANNAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004139": {
     "IFSC": "MAHG0004139",
@@ -686,14 +687,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT BHOKAR TQ BHOKAR DIST NANDED",
     "CONTACT": "02467222790",
-    "DATE": "2016-07-25",
     "MICR": "431570607",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "BHOKAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004141": {
     "IFSC": "MAHG0004141",
@@ -703,14 +704,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT PETHWADAJ TQ KANDHAR DIST NANDED",
     "CONTACT": "02466261386",
-    "DATE": "2016-07-25",
     "MICR": "431570618",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "PETHWADAJ",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004142": {
     "IFSC": "MAHG0004142",
@@ -720,14 +721,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT HADGAON TQ HADGAON DIST NANDED",
     "CONTACT": "02468222552",
-    "DATE": "2016-07-25",
     "MICR": "431570609",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "HADGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004143": {
     "IFSC": "MAHG0004143",
@@ -737,14 +738,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT MUKHED TQ MUKHED DIST NANDED",
     "CONTACT": "02461222075",
-    "DATE": "2016-07-25",
     "MICR": "431570633",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUKHED",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004144": {
     "IFSC": "MAHG0004144",
@@ -754,14 +755,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT LOHA TQ LOHA DIST NANDED",
     "CONTACT": "02466242211",
-    "DATE": "2016-07-25",
     "MICR": "431570624",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "LOHA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004145": {
     "IFSC": "MAHG0004145",
@@ -771,14 +772,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT UMARI PETH TQ UMARI PETH DIST NANDED",
     "CONTACT": "02467244088",
-    "DATE": "2016-07-25",
     "MICR": "431570643",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "UMARI PETH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004147": {
     "IFSC": "MAHG0004147",
@@ -788,14 +789,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT TALNI TQ HADGAON DIST NANDED",
     "CONTACT": "02468273369",
-    "DATE": "2016-07-25",
     "MICR": "431570612",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "TALNI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004148": {
     "IFSC": "MAHG0004148",
@@ -805,14 +806,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT TAMLOOR TQ DEGLOOR DIST NANDED",
     "CONTACT": "02463269019",
-    "DATE": "2016-07-25",
     "MICR": "431570597",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "TAMLOOR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004149": {
     "IFSC": "MAHG0004149",
@@ -822,14 +823,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT UMRI BAZAR TQ KINWAT DIST NANDED",
     "CONTACT": "02460263170",
-    "DATE": "2016-07-25",
     "MICR": "431570622",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "UMRI BAZAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004150": {
     "IFSC": "MAHG0004150",
@@ -839,14 +840,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT WADEPURI TQ LOHA DIST NANDED",
     "CONTACT": "02466245048",
-    "DATE": "2016-07-25",
     "MICR": "431570627",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "WADEPURI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004151": {
     "IFSC": "MAHG0004151",
@@ -856,14 +857,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT VISHNUPURI TQ NANDED DIST NANDED",
     "CONTACT": "02462229334",
-    "DATE": "2016-07-25",
     "MICR": "431570108",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "VISHNUPURI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004152": {
     "IFSC": "MAHG0004152",
@@ -873,14 +874,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT WAI BAZAR TQ MAHUR DIST NANDED",
     "CONTACT": "02460264836",
-    "DATE": "2016-07-25",
     "MICR": "431570636",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "WAI BAZAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004153": {
     "IFSC": "MAHG0004153",
@@ -890,14 +891,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT TAMSA TQ HADGAON DIST NANDED",
     "CONTACT": "02468266614",
-    "DATE": "2016-07-25",
     "MICR": "431570611",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "TAMSA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004154": {
     "IFSC": "MAHG0004154",
@@ -907,14 +908,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KINWAT TQ KINWAT DIST NANDED",
     "CONTACT": "02469223016",
-    "DATE": "2016-07-25",
     "MICR": "431570621",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KINWAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004155": {
     "IFSC": "MAHG0004155",
@@ -924,14 +925,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT WAGHALA TQ NANDED DIST NANDED",
     "CONTACT": "02462227463",
-    "DATE": "2016-07-25",
     "MICR": "431570110",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "WAGHALA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004157": {
     "IFSC": "MAHG0004157",
@@ -941,14 +942,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SHIVAJINAGAR NANDED TQ NANDED DIST NANDED",
     "CONTACT": "02462242845",
-    "DATE": "2016-07-25",
     "MICR": "431570101",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIVAJINAGAR NANDED",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004158": {
     "IFSC": "MAHG0004158",
@@ -958,14 +959,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT TARODA TQ NANDED DIST NANDED",
     "CONTACT": "02462262510",
-    "DATE": "2016-07-25",
     "MICR": "431570106",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "TARODA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004159": {
     "IFSC": "MAHG0004159",
@@ -975,14 +976,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT NAIGAON TQ NAIGAON DIST NANDED",
     "CONTACT": "02465262116",
-    "DATE": "2016-07-25",
     "MICR": "431570641",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAIGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004160": {
     "IFSC": "MAHG0004160",
@@ -992,14 +993,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT VAZIRABAD NANDED TQ NANDED DIST NANDED",
     "CONTACT": "02462239853",
-    "DATE": "2016-07-19",
     "MICR": "431570107",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "VAZIRABAD NANDED",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004161": {
     "IFSC": "MAHG0004161",
@@ -1009,14 +1010,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT PAWADEWADI NAKA NANDED TQ NANDED DIST NANDED",
     "CONTACT": "02462255932",
-    "DATE": "2016-07-25",
     "MICR": "431570105",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "PAWADEWADI NAKA NANDED",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004162": {
     "IFSC": "MAHG0004162",
@@ -1026,14 +1027,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT BHAVSAR CHOWK NANDED TQ NANDED DIST NANDED",
     "CONTACT": "02462266472",
-    "DATE": "2016-07-25",
     "MICR": "431570103",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "BHAVSAR CHOWK NANDED",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004163": {
     "IFSC": "MAHG0004163",
@@ -1043,14 +1044,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT CHAITANYA NAGAR NANDED TQ NANDED DIST NANDED",
     "CONTACT": "02462267531",
-    "DATE": "2016-07-25",
     "MICR": "431570104",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHAITANYA NAGAR NANDED",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004164": {
     "IFSC": "MAHG0004164",
@@ -1060,14 +1061,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT HIMAYATNAGAR TQ HIMAYATNAGAR DIST NANDED",
     "CONTACT": "02468244083",
-    "DATE": "2016-07-25",
     "MICR": "431570613",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "HIMAYATNAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004165": {
     "IFSC": "MAHG0004165",
@@ -1077,14 +1078,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT VISHNUPURI SRTMU NANDED TQ NANDED DIST NANDED",
     "CONTACT": "02462229500",
-    "DATE": "2016-07-25",
     "MICR": "431570109",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "VISHNUPURI SRTMU NANDED",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004166": {
     "IFSC": "MAHG0004166",
@@ -1094,14 +1095,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT BARHALI TQ MUKHED DIST NANDED",
     "CONTACT": "02461246124",
-    "DATE": "2016-07-25",
     "MICR": "431570697",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "BARHALI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004167": {
     "IFSC": "MAHG0004167",
@@ -1111,14 +1112,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT NARSI TQ NAIGAON DIST NANDED",
     "CONTACT": "02465266366",
-    "DATE": "2016-07-25",
     "MICR": "431570698",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "NARSI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004168": {
     "IFSC": "MAHG0004168",
@@ -1128,14 +1129,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SHIVANI TQ KINWAT DIST NANDED",
     "CONTACT": "02469245050",
-    "DATE": "2016-07-25",
     "MICR": "431570706",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIVANI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004200": {
     "IFSC": "MAHG0004200",
@@ -1145,14 +1146,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "REGIONAL OFFICE PARBHANI SANT GURUKRUPA SHIVAJINAGAR TQ DIST PARBHANI",
     "CONTACT": "02452232042",
-    "DATE": "2016-07-25",
     "MICR": "431570062",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "PARBHANI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004201": {
     "IFSC": "MAHG0004201",
@@ -1162,14 +1163,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT AJEGAON TQ SENGAON DIST HINGOLI",
     "CONTACT": "02456241084",
-    "DATE": "2016-07-25",
     "MICR": "431570655",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "AJEGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004202": {
     "IFSC": "MAHG0004202",
@@ -1179,14 +1180,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT AMBACHONDI TQ BASMAT DIST HINGOLI",
     "CONTACT": "02454242215",
-    "DATE": "2016-07-25",
     "MICR": "431570658",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "AMBACHONDI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004203": {
     "IFSC": "MAHG0004203",
@@ -1196,14 +1197,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT ASOLA TQ PARBHANI DIST PARBHANI",
     "CONTACT": "02452265165",
-    "DATE": "2016-07-25",
     "MICR": "431570675",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "ASOLA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004204": {
     "IFSC": "MAHG0004204",
@@ -1213,14 +1214,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT ADGAON TQ JINTUR DIST PARBHANI",
     "CONTACT": "02457266200",
-    "DATE": "2016-07-25",
     "MICR": "431570666",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "ADGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004205": {
     "IFSC": "MAHG0004205",
@@ -1230,14 +1231,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT JINTUR TQ JINTUR DIST PARBHANI",
     "CONTACT": "02457220470",
-    "DATE": "2016-07-25",
     "MICR": "431570671",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "JINTUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004206": {
     "IFSC": "MAHG0004206",
@@ -1247,14 +1248,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT BHOGAON TQ JINTUR DIST PARBHANI",
     "CONTACT": "02457267057",
-    "DATE": "2016-07-25",
     "MICR": "431570667",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "BHOGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004207": {
     "IFSC": "MAHG0004207",
@@ -1264,14 +1265,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT CHARTHANA TQ JINTUR DIST PARBHANI",
     "CONTACT": "02457265010",
-    "DATE": "2016-07-25",
     "MICR": "431570669",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHARTHANA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004208": {
     "IFSC": "MAHG0004208",
@@ -1281,14 +1282,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT CHATORI TQ PALAM DIST PARBHANI",
     "CONTACT": "02453272041",
-    "DATE": "2016-07-25",
     "MICR": "431570680",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHATORI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004209": {
     "IFSC": "MAHG0004209",
@@ -1298,14 +1299,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT CHUDAWA TQ PURNA DIST PARBHANI",
     "CONTACT": "02452258220",
-    "DATE": "2016-07-25",
     "MICR": "431570684",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHUDAWA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004210": {
     "IFSC": "MAHG0004210",
@@ -1315,14 +1316,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT DIGRAS H TQ HINGOLI DIST HINGOLI",
     "CONTACT": "02456249124",
-    "DATE": "2016-07-25",
     "MICR": "431570651",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "DIGRAS H",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004211": {
     "IFSC": "MAHG0004211",
@@ -1332,14 +1333,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT DUDHGAON TQ JINTUR DIST PARBHANI",
     "CONTACT": "02457262057",
-    "DATE": "2016-07-25",
     "MICR": "431570670",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "DUDHGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004213": {
     "IFSC": "MAHG0004213",
@@ -1349,14 +1350,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT GANGAKHED TQ GANGAKHED DIST PARBHANI",
     "CONTACT": "02453222207",
-    "DATE": "2016-07-25",
     "MICR": "431570663",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "GANGAKHED",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004214": {
     "IFSC": "MAHG0004214",
@@ -1366,14 +1367,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT GIRGAON TQ BASMAT DIST HINGOLI",
     "CONTACT": "02454243018",
-    "DATE": "2016-07-25",
     "MICR": "431570660",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "GIRGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004215": {
     "IFSC": "MAHG0004215",
@@ -1383,14 +1384,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT HATTA TQ BASMAT DIST HINGOLI",
     "CONTACT": "02454244212",
-    "DATE": "2016-07-25",
     "MICR": "431570661",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "HATTA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004216": {
     "IFSC": "MAHG0004216",
@@ -1400,14 +1401,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT PATHRI TQ PATHRI DIST PARBHANI",
     "CONTACT": "02451255288",
-    "DATE": "2016-07-25",
     "MICR": "431570683",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "PATHRI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004217": {
     "IFSC": "MAHG0004217",
@@ -1417,14 +1418,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT BASMAT TQ BASMAT DIST HINGOLI",
     "CONTACT": "02454220817",
-    "DATE": "2016-07-25",
     "MICR": "431570659",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "BASMAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004218": {
     "IFSC": "MAHG0004218",
@@ -1434,14 +1435,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KATNESHWAR TQ PURNA DIST PARBHANI",
     "CONTACT": "02454251161",
-    "DATE": "2016-07-25",
     "MICR": "431570685",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KATNESHWAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004219": {
     "IFSC": "MAHG0004219",
@@ -1451,14 +1452,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KOLHA TQ MANWAT DIST PARBHANI",
     "CONTACT": "02451264131",
-    "DATE": "2016-07-25",
     "MICR": "431570673",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KOLHA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004220": {
     "IFSC": "MAHG0004220",
@@ -1468,14 +1469,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KANERGAON TQ HINGOLI DIST HINGOLI",
     "CONTACT": "02456266003",
-    "DATE": "2016-07-25",
     "MICR": "431570652",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KANERGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004221": {
     "IFSC": "MAHG0004221",
@@ -1485,14 +1486,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT BORI P TQ JINTUR DIST PARBHANI",
     "CONTACT": "02457242530",
-    "DATE": "2016-07-25",
     "MICR": "431570668",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "BORI P",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004222": {
     "IFSC": "MAHG0004222",
@@ -1502,14 +1503,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KURUNDA TQ BASMAT DIST HINGOLI",
     "CONTACT": "02454246068",
-    "DATE": "2016-07-25",
     "MICR": "431570662",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KURUNDA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004223": {
     "IFSC": "MAHG0004223",
@@ -1519,14 +1520,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KAWALGAON TQ PURNA DIST PARBHANI",
     "CONTACT": "02452257176",
-    "DATE": "2016-07-25",
     "MICR": "431570686",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KAWALGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004224": {
     "IFSC": "MAHG0004224",
@@ -1536,14 +1537,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KEKARJAWALA TQ PATHRI DIST PARBHANI",
     "CONTACT": "02451262234",
-    "DATE": "2016-07-25",
     "MICR": "431570682",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KEKARJAWALA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004225": {
     "IFSC": "MAHG0004225",
@@ -1553,14 +1554,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT JAWALA BAZAR TQ AUNDHAN DIST HINGOLI",
     "CONTACT": "02454240027",
-    "DATE": "2016-07-25",
     "MICR": "431570645",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "JAWALA BAZAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004226": {
     "IFSC": "MAHG0004226",
@@ -1570,14 +1571,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT HINGOLI TQ HINGOLI DIST HINGOLI",
     "CONTACT": "02456221138",
-    "DATE": "2016-07-25",
     "MICR": "431570402",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "HINGOLI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004227": {
     "IFSC": "MAHG0004227",
@@ -1587,14 +1588,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KALAMNURI TQ KALAMNURI DIST HINGOLI",
     "CONTACT": "02455220157",
-    "DATE": "2016-07-25",
     "MICR": "431570648",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KALAMNURI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004228": {
     "IFSC": "MAHG0004228",
@@ -1604,14 +1605,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT NARSI TQ HINGOLI DIST HINGOLI",
     "CONTACT": "02456268080",
-    "DATE": "2016-07-25",
     "MICR": "431570653",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "NARSI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004229": {
     "IFSC": "MAHG0004229",
@@ -1621,14 +1622,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT PARBHANI TQ PARBHANI DIST PARBHANI",
     "CONTACT": "02452223487",
-    "DATE": "2016-07-25",
     "MICR": "431570202",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "PARBHANI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004230": {
     "IFSC": "MAHG0004230",
@@ -1638,14 +1639,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT PINGLI TQ PARBHANI DIST PARBHANI",
     "CONTACT": "02452266798",
-    "DATE": "2016-07-25",
     "MICR": "431570677",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "PINGLI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004231": {
     "IFSC": "MAHG0004231",
@@ -1655,14 +1656,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT AKHADA BALAPUR TQ KALAMNURI DIST HINGOLI",
     "CONTACT": "02455242513",
-    "DATE": "2016-07-25",
     "MICR": "431570647",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "AKHADA BALAPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004232": {
     "IFSC": "MAHG0004232",
@@ -1672,14 +1673,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT PUSEGAON TQ SENGAON DIST HINGOLI",
     "CONTACT": "02456246171",
-    "DATE": "2016-07-25",
     "MICR": "431570656",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "PUSEGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004233": {
     "IFSC": "MAHG0004233",
@@ -1689,14 +1690,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT PEDGAON TQ PARBHANI DIST PARBHANI",
     "CONTACT": "02452269252",
-    "DATE": "2016-07-25",
     "MICR": "431570676",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "PEDGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004234": {
     "IFSC": "MAHG0004234",
@@ -1706,14 +1707,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT PALAM TQ PALAM DIST PARBHANI",
     "CONTACT": "02453270243",
-    "DATE": "2016-07-25",
     "MICR": "431570681",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "PALAM",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004235": {
     "IFSC": "MAHG0004235",
@@ -1723,14 +1724,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT POKHARNI TQ PARBHANI DIST PARBHANI",
     "CONTACT": "02452267382",
-    "DATE": "2016-07-25",
     "MICR": "431570678",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "POKHARNI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004236": {
     "IFSC": "MAHG0004236",
@@ -1740,14 +1741,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT RANISAWARGAON TQ GANGAKHED DIST PARBHANI",
     "CONTACT": "02453266290",
-    "DATE": "2016-07-25",
     "MICR": "431570665",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "RANISAWARGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004237": {
     "IFSC": "MAHG0004237",
@@ -1757,14 +1758,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT PURNA TQ PURNA DIST PARBHANI",
     "CONTACT": "02452255415",
-    "DATE": "2016-07-25",
     "MICR": "431570687",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "PURNA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004238": {
     "IFSC": "MAHG0004238",
@@ -1774,14 +1775,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SAILU TQ SAILU DIST PARBHANI",
     "CONTACT": "02451222598",
-    "DATE": "2016-07-25",
     "MICR": "431570689",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SAILU",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004239": {
     "IFSC": "MAHG0004239",
@@ -1791,14 +1792,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT MANWAT TQ MANWAT DIST PARBHANI",
     "CONTACT": "02451240001",
-    "DATE": "2016-07-25",
     "MICR": "431570674",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MANWAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004240": {
     "IFSC": "MAHG0004240",
@@ -1808,14 +1809,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SHELGAONG TQ SONPETH DIST PARBHANI",
     "CONTACT": "02453263242",
-    "DATE": "2016-07-25",
     "MICR": "431570691",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHELGAONG",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004241": {
     "IFSC": "MAHG0004241",
@@ -1825,14 +1826,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SHIRAD SHAHAPUR TQ AUNDHAN DIST HINGOLI",
     "CONTACT": "02454248260",
-    "DATE": "2016-07-25",
     "MICR": "431570646",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIRAD SHAHAPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004242": {
     "IFSC": "MAHG0004242",
@@ -1842,14 +1843,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SENGAON TQ SENGAON DIST HINGOLI",
     "CONTACT": "02456250306",
-    "DATE": "2016-07-25",
     "MICR": "431570657",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SENGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004243": {
     "IFSC": "MAHG0004243",
@@ -1859,14 +1860,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SINGNAPUR TQ PARBHANI DIST PARBHANI",
     "CONTACT": "02452264063",
-    "DATE": "2016-07-25",
     "MICR": "431570679",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SINGNAPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004244": {
     "IFSC": "MAHG0004244",
@@ -1876,14 +1877,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SIRSAM TQ HINGOLI DIST HINGOLI",
     "CONTACT": "02455232037",
-    "DATE": "2016-07-25",
     "MICR": "431570654",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SIRSAM",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004245": {
     "IFSC": "MAHG0004245",
@@ -1893,14 +1894,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT TADKALAS TQ PURNA DIST PARBHANI",
     "CONTACT": "02452256289",
-    "DATE": "2016-07-25",
     "MICR": "431570688",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "TADKALAS",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004246": {
     "IFSC": "MAHG0004246",
@@ -1910,14 +1911,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT UKHALI TQ SONPETH DIST PARBHANI",
     "CONTACT": "02453280805",
-    "DATE": "2016-07-25",
     "MICR": "431570693",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "UKHALI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004248": {
     "IFSC": "MAHG0004248",
@@ -1927,14 +1928,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT WARANGA TQ KALAMNURI DIST HINGOLI",
     "CONTACT": "02455248208",
-    "DATE": "2016-07-25",
     "MICR": "431570649",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "WARANGA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004249": {
     "IFSC": "MAHG0004249",
@@ -1944,14 +1945,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT AUNDHANAGNATH TQ AUNDHAN DIST HINGOLI",
     "CONTACT": "02456260091",
-    "DATE": "2016-07-25",
     "MICR": "431570644",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "AUNDHANAGNATH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004251": {
     "IFSC": "MAHG0004251",
@@ -1961,14 +1962,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT WADGAONG TQ SONPETH DIST PARBHANI",
     "CONTACT": "02453268182",
-    "DATE": "2016-07-25",
     "MICR": "431570694",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "WADGAONG",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004252": {
     "IFSC": "MAHG0004252",
@@ -1978,14 +1979,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT WALOOR TQ SAILU DIST PARBHANI",
     "CONTACT": "02451267089",
-    "DATE": "2016-07-25",
     "MICR": "431570690",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "WALOOR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004254": {
     "IFSC": "MAHG0004254",
@@ -1995,14 +1996,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT YELDARI CAMP TQ JINTUR DIST PARBHANI",
     "CONTACT": "02457260255",
-    "DATE": "2016-07-25",
     "MICR": "431570672",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "YELDARI CAMP",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004255": {
     "IFSC": "MAHG0004255",
@@ -2012,14 +2013,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT YEHLEGAON TUKARAM TQ KALAMNURI DIST HINGOLI",
     "CONTACT": "02455245068",
-    "DATE": "2016-07-25",
     "MICR": "431570650",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "YEHLEGAON TUKARAM",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004257": {
     "IFSC": "MAHG0004257",
@@ -2029,14 +2030,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT PIMPALDARI TQ GANGAKHED DIST PARBHANI",
     "CONTACT": "02453265187",
-    "DATE": "2016-07-25",
     "MICR": "431570664",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "PIMPALDARI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004258": {
     "IFSC": "MAHG0004258",
@@ -2046,14 +2047,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT BANWAS TQ PALAM DIST PARBHANI",
     "CONTACT": "02453278094",
-    "DATE": "2016-07-25",
     "MICR": "431570695",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "BANWAS",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004259": {
     "IFSC": "MAHG0004259",
@@ -2063,14 +2064,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT VIVEKNAGAR PARBHANI TQ PARBHANI DIST PARBHANI",
     "CONTACT": "02452249010",
-    "DATE": "2016-07-25",
     "MICR": "431570205",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "VIVEKNAGAR PARBHANI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004260": {
     "IFSC": "MAHG0004260",
@@ -2080,14 +2081,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SONPETH TQ SONPETH DIST PARBHANI",
     "CONTACT": "02453240306",
-    "DATE": "2016-07-25",
     "MICR": "431570692",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SONPETH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004261": {
     "IFSC": "MAHG0004261",
@@ -2097,14 +2098,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT JINTUR ROAD PARBHANI TQ PARBHANI DIST PARBHANI",
     "CONTACT": "02452241263",
-    "DATE": "2016-07-25",
     "MICR": "431570204",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "JINTUR ROAD PARBHANI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004262": {
     "IFSC": "MAHG0004262",
@@ -2114,14 +2115,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT AKOLA ROAD HINGOLI TQ HINGOLI DIST HINGOLI",
     "CONTACT": "02456224583",
-    "DATE": "2016-07-25",
     "MICR": "431570403",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "AKOLA ROAD HINGOLI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004263": {
     "IFSC": "MAHG0004263",
@@ -2131,14 +2132,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SHIVRAMNAGAR PARBHANI TQ PARBHANI DIST PARBHANI",
     "CONTACT": "02452234542",
-    "DATE": "2016-07-25",
     "MICR": "431570203",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIVRAMNAGAR PARBHANI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004264": {
     "IFSC": "MAHG0004264",
@@ -2148,14 +2149,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT PANKANERGAON TQ SENGAON DIST HINGOLI",
     "CONTACT": "02456244122",
-    "DATE": "2016-07-25",
     "MICR": "431570704",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "PANKANERGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004265": {
     "IFSC": "MAHG0004265",
@@ -2165,14 +2166,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT DONGARKADA TQ KALAMNURI DIST HINGOLI",
     "CONTACT": "02452232042",
-    "DATE": "2016-07-25",
     "MICR": "431570703",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "DONGARKADA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004300": {
     "IFSC": "MAHG0004300",
@@ -2182,14 +2183,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "REGIONAL OFFICE LATUR SHIVAJI CHOWAK SAMBHAJI COMPLEX TQ DIST LATUR",
     "CONTACT": "02382256708",
-    "DATE": "2016-07-25",
     "MICR": "461570122",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "LATUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004301": {
     "IFSC": "MAHG0004301",
@@ -2199,14 +2200,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT AMBULGA TQ NILANGA DIST LATUR",
     "CONTACT": "02384267233",
-    "DATE": "2016-07-25",
     "MICR": "413570632",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "AMBULGA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004302": {
     "IFSC": "MAHG0004302",
@@ -2216,14 +2217,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT ANDHORI TQ AHMADPUR DIST LATUR",
     "CONTACT": "02381278342",
-    "DATE": "2016-07-25",
     "MICR": "413570602",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "ANDHORI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004303": {
     "IFSC": "MAHG0004303",
@@ -2233,14 +2234,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT ASHIV TQ AUSA DIST LATUR",
     "CONTACT": "02383234574",
-    "DATE": "2016-07-25",
     "MICR": "413570616",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "ASHIV",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004305": {
     "IFSC": "MAHG0004305",
@@ -2250,14 +2251,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT ATNUR TQ JALKOT DIST LATUR",
     "CONTACT": "02385271333",
-    "DATE": "2016-07-25",
     "MICR": "413570607",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "ATNUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004306": {
     "IFSC": "MAHG0004306",
@@ -2267,14 +2268,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT BELKUND TQ AUSA DIST LATUR",
     "CONTACT": "02383221444",
-    "DATE": "2016-07-25",
     "MICR": "413570618",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "BELKUND",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004307": {
     "IFSC": "MAHG0004307",
@@ -2284,14 +2285,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT AUSA TQ AUSA DIST LATUR",
     "CONTACT": "02383222364",
-    "DATE": "2016-07-25",
     "MICR": "413570617",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "AUSA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004308": {
     "IFSC": "MAHG0004308",
@@ -2301,14 +2302,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT BORI L TQ LATUR DIST LATUR",
     "CONTACT": "02382260688",
-    "DATE": "2016-07-25",
     "MICR": "413570625",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "BORI L",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004309": {
     "IFSC": "MAHG0004309",
@@ -2318,14 +2319,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT BORUL TQ DEVANI DIST LATUR",
     "CONTACT": "02385262340",
-    "DATE": "2016-07-25",
     "MICR": "413570612",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "BORUL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004310": {
     "IFSC": "MAHG0004310",
@@ -2335,14 +2336,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT CHAPOLI TQ CHAKUR DIST LATUR",
     "CONTACT": "02381257567",
-    "DATE": "2016-07-25",
     "MICR": "413570621",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHAPOLI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004311": {
     "IFSC": "MAHG0004311",
@@ -2352,14 +2353,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT CHINCHOLI PAN TQ NILANGA DIST LATUR",
     "CONTACT": "02384263522",
-    "DATE": "2016-07-25",
     "MICR": "413570634",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHINCHOLI PAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004312": {
     "IFSC": "MAHG0004312",
@@ -2369,14 +2370,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT DEVARJAN TQ UDGIR DIST LATUR",
     "CONTACT": "02385265077",
-    "DATE": "2016-07-25",
     "MICR": "413570610",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "DEVARJAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004313": {
     "IFSC": "MAHG0004313",
@@ -2386,14 +2387,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT CHAKUR TQ CHAKUR DIST LATUR",
     "CONTACT": "02381252088",
-    "DATE": "2016-07-25",
     "MICR": "413570620",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHAKUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004314": {
     "IFSC": "MAHG0004314",
@@ -2403,14 +2404,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT AURADSHAHJANI TQ NILANGA DIST LATUR",
     "CONTACT": "02384245981",
-    "DATE": "2016-07-25",
     "MICR": "413570633",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "AURADSHAHJANI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004315": {
     "IFSC": "MAHG0004315",
@@ -2420,14 +2421,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT HALI TQ UDGIR DIST LATUR",
     "CONTACT": "02385264037",
-    "DATE": "2016-07-25",
     "MICR": "413570611",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "HALI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004316": {
     "IFSC": "MAHG0004316",
@@ -2437,14 +2438,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT UDGIR TQ UDGIR DIST LATUR",
     "CONTACT": "02385257590",
-    "DATE": "2016-07-25",
     "MICR": "413570227",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "UDGIR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004317": {
     "IFSC": "MAHG0004317",
@@ -2454,14 +2455,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SHIVAJI CHOWK LATUR TQ LATUR DIST LATUR",
     "CONTACT": "02382224696",
-    "DATE": "2016-07-25",
     "MICR": "413570052",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIVAJI CHOWK LATUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004318": {
     "IFSC": "MAHG0004318",
@@ -2471,14 +2472,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT JALKOT U TQ JALKOT DIST LATUR",
     "CONTACT": "02385276176",
-    "DATE": "2016-07-25",
     "MICR": "413570608",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "JALKOT U",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004319": {
     "IFSC": "MAHG0004319",
@@ -2488,14 +2489,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT JAWLA BK TQ LATUR DIST LATUR",
     "CONTACT": "02382275622",
-    "DATE": "2016-07-25",
     "MICR": "413570626",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "JAWLA BK",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004320": {
     "IFSC": "MAHG0004320",
@@ -2505,14 +2506,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KADEPUR TQ RENAPUR DIST LATUR",
     "CONTACT": "02382207208",
-    "DATE": "2016-07-25",
     "MICR": "413570628",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KADEPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004321": {
     "IFSC": "MAHG0004321",
@@ -2522,14 +2523,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KASAR BALKUNDA TQ NILANGA DIST LATUR",
     "CONTACT": "02384266751",
-    "DATE": "2016-07-25",
     "MICR": "413570635",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KASAR BALKUNDA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004322": {
     "IFSC": "MAHG0004322",
@@ -2539,14 +2540,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KASAR SHIRSHI TQ NILANGA DIST LATUR",
     "CONTACT": "02384262657",
-    "DATE": "2016-07-25",
     "MICR": "413570636",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KASAR SHIRSHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004323": {
     "IFSC": "MAHG0004323",
@@ -2556,14 +2557,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KHADGAON TQ LATUR DIST LATUR",
     "CONTACT": "02382245415",
-    "DATE": "2016-07-25",
     "MICR": "413570054",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KHADGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004324": {
     "IFSC": "MAHG0004324",
@@ -2573,14 +2574,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT AHAMADPUR TQ AHMADPUR DIST LATUR",
     "CONTACT": "02381262396",
-    "DATE": "2016-07-25",
     "MICR": "413570601",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "AHAMADPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004325": {
     "IFSC": "MAHG0004325",
@@ -2590,14 +2591,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KHAROLA TQ RENAPUR DIST LATUR",
     "CONTACT": "02382235876",
-    "DATE": "2016-07-25",
     "MICR": "413570629",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KHAROLA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004326": {
     "IFSC": "MAHG0004326",
@@ -2607,14 +2608,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KHAROSA TQ AUSA DIST LATUR",
     "CONTACT": "02383239535",
-    "DATE": "2016-07-25",
     "MICR": "413570619",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KHAROSA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004327": {
     "IFSC": "MAHG0004327",
@@ -2624,14 +2625,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KINGAON TQ AHMADPUR DIST LATUR",
     "CONTACT": "02381268504",
-    "DATE": "2016-07-25",
     "MICR": "413570603",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KINGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004328": {
     "IFSC": "MAHG0004328",
@@ -2641,14 +2642,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT NAGALGAON TQ UDGIR DIST LATUR",
     "CONTACT": "02385234550",
-    "DATE": "2016-07-25",
     "MICR": "413570613",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAGALGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004329": {
     "IFSC": "MAHG0004329",
@@ -2658,14 +2659,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT NALGIR TQ UDGIR DIST LATUR",
     "CONTACT": "02385263017",
-    "DATE": "2016-07-25",
     "MICR": "413570614",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "NALGIR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004330": {
     "IFSC": "MAHG0004330",
@@ -2675,14 +2676,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SHIRUR TAJBAND TQ AHMADPUR DIST LATUR",
     "CONTACT": "02381220176",
-    "DATE": "2016-07-25",
     "MICR": "413570604",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIRUR TAJBAND",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004331": {
     "IFSC": "MAHG0004331",
@@ -2692,14 +2693,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT TANDULJA TQ LATUR DIST LATUR",
     "CONTACT": "02382273659",
-    "DATE": "2016-07-25",
     "MICR": "413570627",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "TANDULJA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004332": {
     "IFSC": "MAHG0004332",
@@ -2709,14 +2710,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT WADHONA TQ UDGIR DIST LATUR",
     "CONTACT": "02385268273",
-    "DATE": "2016-07-25",
     "MICR": "413570615",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "WADHONA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004333": {
     "IFSC": "MAHG0004333",
@@ -2726,14 +2727,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT WADWAL NAGNATH TQ CHAKUR DIST LATUR",
     "CONTACT": "02381255673",
-    "DATE": "2016-07-25",
     "MICR": "413570623",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "WADWAL NAGNATH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004334": {
     "IFSC": "MAHG0004334",
@@ -2743,14 +2744,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT WALANDI TQ DEVANI DIST LATUR",
     "CONTACT": "02385266179",
-    "DATE": "2016-07-25",
     "MICR": "413570606",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "WALANDI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004335": {
     "IFSC": "MAHG0004335",
@@ -2760,14 +2761,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT WANJARWADA TQ JALKOT DIST LATUR",
     "CONTACT": "02385272732",
-    "DATE": "2016-07-25",
     "MICR": "413570609",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "WANJARWADA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004336": {
     "IFSC": "MAHG0004336",
@@ -2777,14 +2778,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT BHUISAMUDRA TQ LATUR DIST LATUR",
     "CONTACT": "02382204200",
-    "DATE": "2016-07-25",
     "MICR": "413570624",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "BHUISAMUDRA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004337": {
     "IFSC": "MAHG0004337",
@@ -2794,14 +2795,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT NILANGA TQ NILANGA DIST LATUR",
     "CONTACT": "02384242538",
-    "DATE": "2016-07-25",
     "MICR": "413570327",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "NILANGA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004338": {
     "IFSC": "MAHG0004338",
@@ -2811,14 +2812,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT NALEGAON TQ CHAKUR DIST LATUR",
     "CONTACT": "02381256709",
-    "DATE": "2016-07-25",
     "MICR": "413570622",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "NALEGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004339": {
     "IFSC": "MAHG0004339",
@@ -2828,14 +2829,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT DEVANI TQ DEVANI DIST LATUR",
     "CONTACT": "02385269918",
-    "DATE": "2016-07-25",
     "MICR": "413570605",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "DEVANI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004340": {
     "IFSC": "MAHG0004340",
@@ -2845,14 +2846,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT GANJGOLAI LATUR TQ LATUR DIST LATUR",
     "CONTACT": "02382259743",
-    "DATE": "2016-07-25",
     "MICR": "413570053",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "GANJGOLAI LATUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004341": {
     "IFSC": "MAHG0004341",
@@ -2862,14 +2863,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SHIRUR ANANTPAL TQ SHIRUR ANANTPA DIST LATUR",
     "CONTACT": "02384250500",
-    "DATE": "2016-07-25",
     "MICR": "413570631",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIRUR ANANTPAL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004342": {
     "IFSC": "MAHG0004342",
@@ -2879,14 +2880,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT RENAPUR TQ RENAPUR DIST LATUR",
     "CONTACT": "02382233076",
-    "DATE": "2016-07-25",
     "MICR": "413570630",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "RENAPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004343": {
     "IFSC": "MAHG0004343",
@@ -2896,14 +2897,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT PANGAON TQ RENAPUR DIST LATUR",
     "CONTACT": "02382236136",
-    "DATE": "2016-07-25",
     "MICR": "413570669",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "PANGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004344": {
     "IFSC": "MAHG0004344",
@@ -2913,14 +2914,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT VASANTRAO NAIK CHOWK LATUR TQ LATUR DIST LATUR",
     "CONTACT": "02382256708",
-    "DATE": "2016-07-25",
     "MICR": "413570055",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "VASANTRAO NAIK CHOWK LATUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004401": {
     "IFSC": "MAHG0004401",
@@ -2930,14 +2931,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT ALOOR TQ OMERGA DIST OSMANABAD",
     "CONTACT": "02475264049",
-    "DATE": "2016-07-25",
     "MICR": "413570648",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "ALOOR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004402": {
     "IFSC": "MAHG0004402",
@@ -2947,14 +2948,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT ANALA TQ PARANDA DIST OSMANABAD",
     "CONTACT": "02477234051",
-    "DATE": "2016-07-25",
     "MICR": "413570660",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "ANALA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004403": {
     "IFSC": "MAHG0004403",
@@ -2964,14 +2965,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT ASHTA KASAR TQ OMERGA DIST OSMANABAD",
     "CONTACT": "02475259046",
-    "DATE": "2016-07-25",
     "MICR": "413570649",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "ASHTA KASAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004404": {
     "IFSC": "MAHG0004404",
@@ -2981,14 +2982,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT BEMBLI TQ OSMANABAD DIST OSMANABAD",
     "CONTACT": "02472235188",
-    "DATE": "2016-07-25",
     "MICR": "413570655",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "BEMBLI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004405": {
     "IFSC": "MAHG0004405",
@@ -2998,14 +2999,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT GUNJOTI TQ OMERGA DIST OSMANABAD",
     "CONTACT": "02475253937",
-    "DATE": "2016-07-25",
     "MICR": "413570650",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "GUNJOTI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004406": {
     "IFSC": "MAHG0004406",
@@ -3015,14 +3016,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KALAMB TQ KALAMB DIST OSMANABAD",
     "CONTACT": "02473262582",
-    "DATE": "2016-07-25",
     "MICR": "413570640",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KALAMB",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004407": {
     "IFSC": "MAHG0004407",
@@ -3032,14 +3033,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT JALKOT T TQ TULJAPUR DIST OSMANABAD",
     "CONTACT": "02471250509",
-    "DATE": "2016-07-25",
     "MICR": "413570663",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "JALKOT T",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004409": {
     "IFSC": "MAHG0004409",
@@ -3049,14 +3050,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT JEVLI TQ LOHARA DIST OSMANABAD",
     "CONTACT": "02475263439",
-    "DATE": "2016-07-25",
     "MICR": "413570645",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "JEVLI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004410": {
     "IFSC": "MAHG0004410",
@@ -3066,14 +3067,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KATI TQ TULJAPUR DIST OSMANABAD",
     "CONTACT": "02471260532",
-    "DATE": "2016-07-25",
     "MICR": "413570664",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KATI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004411": {
     "IFSC": "MAHG0004411",
@@ -3083,14 +3084,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KHAMASWADI TQ KALAMB DIST OSMANABAD",
     "CONTACT": "02473285631",
-    "DATE": "2016-07-25",
     "MICR": "413570641",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KHAMASWADI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004412": {
     "IFSC": "MAHG0004412",
@@ -3100,14 +3101,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KOND TQ OSMANABAD DIST OSMANABAD",
     "CONTACT": "02472243187",
-    "DATE": "2016-07-25",
     "MICR": "413570656",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KOND",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004413": {
     "IFSC": "MAHG0004413",
@@ -3117,14 +3118,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT LOHARA TQ LOHARA DIST OSMANABAD",
     "CONTACT": "02475266591",
-    "DATE": "2016-07-25",
     "MICR": "413570646",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "LOHARA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004414": {
     "IFSC": "MAHG0004414",
@@ -3134,14 +3135,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT MAKNI TQ LOHARA DIST OSMANABAD",
     "CONTACT": "02475260047",
-    "DATE": "2016-07-25",
     "MICR": "413570647",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MAKNI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004415": {
     "IFSC": "MAHG0004415",
@@ -3151,14 +3152,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT TULJAPUR TQ TULJAPUR DIST OSMANABAD",
     "CONTACT": "02471242760",
-    "DATE": "2016-07-25",
     "MICR": "413570666",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "TULJAPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004416": {
     "IFSC": "MAHG0004416",
@@ -3168,14 +3169,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT MANKESHWAR TQ BHOOM DIST OSMANABAD",
     "CONTACT": "02478278855",
-    "DATE": "2016-07-25",
     "MICR": "413570638",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MANKESHWAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004417": {
     "IFSC": "MAHG0004417",
@@ -3185,14 +3186,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT MASSA TQ KALAMB DIST OSMANABAD",
     "CONTACT": "02473269550",
-    "DATE": "2016-07-25",
     "MICR": "413570642",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MASSA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004418": {
     "IFSC": "MAHG0004418",
@@ -3202,14 +3203,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT MOHA K TQ KALAMB DIST OSMANABAD",
     "CONTACT": "02473260390",
-    "DATE": "2016-07-25",
     "MICR": "413570643",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MOHA K",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004419": {
     "IFSC": "MAHG0004419",
@@ -3219,14 +3220,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT NAICHAKUR TQ OMERGA DIST OSMANABAD",
     "CONTACT": "02475288001",
-    "DATE": "2016-07-25",
     "MICR": "413570651",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAICHAKUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004420": {
     "IFSC": "MAHG0004420",
@@ -3236,14 +3237,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT OSMANABAD TQ OSMANABAD DIST OSMANABAD",
     "CONTACT": "02472223418",
-    "DATE": "2016-07-25",
     "MICR": "413570127",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "OSMANABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004421": {
     "IFSC": "MAHG0004421",
@@ -3253,14 +3254,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT PARA TQ WASHI DIST OSMANABAD",
     "CONTACT": "02478271524",
-    "DATE": "2016-07-25",
     "MICR": "413570667",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "PARA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004422": {
     "IFSC": "MAHG0004422",
@@ -3270,14 +3271,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT PARANDA TQ PARANDA DIST OSMANABAD",
     "CONTACT": "02477232169",
-    "DATE": "2016-07-25",
     "MICR": "413570661",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "PARANDA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004423": {
     "IFSC": "MAHG0004423",
@@ -3287,14 +3288,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT PATHRUD TQ BHOOM DIST OSMANABAD",
     "CONTACT": "02478274508",
-    "DATE": "2016-07-25",
     "MICR": "413570639",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "PATHRUD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004424": {
     "IFSC": "MAHG0004424",
@@ -3304,14 +3305,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SALGARA TQ TULJAPUR DIST OSMANABAD",
     "CONTACT": "02471263285",
-    "DATE": "2016-07-25",
     "MICR": "413570665",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SALGARA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004425": {
     "IFSC": "MAHG0004425",
@@ -3321,14 +3322,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SAMUDRAWANI TQ OSMANABAD DIST OSMANABAD",
     "CONTACT": "02472234081",
-    "DATE": "2016-07-25",
     "MICR": "413570657",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SAMUDRAWANI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004426": {
     "IFSC": "MAHG0004426",
@@ -3338,14 +3339,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SASTUR TQ OMERGA DIST OSMANABAD",
     "CONTACT": "02475259550",
-    "DATE": "2016-07-25",
     "MICR": "413570653",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SASTUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004428": {
     "IFSC": "MAHG0004428",
@@ -3355,14 +3356,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SHELGAON P TQ PARANDA DIST OSMANABAD",
     "CONTACT": "02477234653",
-    "DATE": "2016-07-25",
     "MICR": "413570662",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHELGAON P",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004429": {
     "IFSC": "MAHG0004429",
@@ -3372,14 +3373,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SHIRADHON TQ KALAMB DIST OSMANABAD",
     "CONTACT": "02473261150",
-    "DATE": "2016-07-25",
     "MICR": "413570644",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIRADHON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004430": {
     "IFSC": "MAHG0004430",
@@ -3389,14 +3390,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT TER TQ OSMANABAD DIST OSMANABAD",
     "CONTACT": "02472233348",
-    "DATE": "2016-07-25",
     "MICR": "413570658",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "TER",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004431": {
     "IFSC": "MAHG0004431",
@@ -3406,14 +3407,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT TURORI TQ OMERGA DIST OSMANABAD",
     "CONTACT": "02475254277",
-    "DATE": "2016-07-25",
     "MICR": "413570654",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "TURORI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004432": {
     "IFSC": "MAHG0004432",
@@ -3423,14 +3424,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT WAGHOLI TQ OSMANABAD DIST OSMANABAD",
     "CONTACT": "02472244500",
-    "DATE": "2016-07-25",
     "MICR": "413570659",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "WAGHOLI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004433": {
     "IFSC": "MAHG0004433",
@@ -3440,14 +3441,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT BHOOM TQ BHOOM DIST OSMANABAD",
     "CONTACT": "02478272229",
-    "DATE": "2016-07-25",
     "MICR": "413570637",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "BHOOM",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004434": {
     "IFSC": "MAHG0004434",
@@ -3457,14 +3458,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT WASHI TQ WASHI DIST OSMANABAD",
     "CONTACT": "02478276189",
-    "DATE": "2016-07-25",
     "MICR": "413570668",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "WASHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004435": {
     "IFSC": "MAHG0004435",
@@ -3474,14 +3475,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT ANANDNAGAR OSMANABAD TQ OSMANABAD DIST OSMANABAD",
     "CONTACT": "02472224730",
-    "DATE": "2016-07-25",
     "MICR": "413570128",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "ANANDNAGAR OSMANABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004436": {
     "IFSC": "MAHG0004436",
@@ -3491,14 +3492,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT OMERGA TQ OMERGA DIST OSMANABAD",
     "CONTACT": "02475252723",
-    "DATE": "2016-07-25",
     "MICR": "413570652",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "OMERGA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004437": {
     "IFSC": "MAHG0004437",
@@ -3508,14 +3509,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT NALDURG TQ TULJAPUR DIST OSMANABAD",
     "CONTACT": "02471246600",
-    "DATE": "2016-07-25",
     "MICR": "413570670",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "NALDURG",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004438": {
     "IFSC": "MAHG0004438",
@@ -3525,14 +3526,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SANJA TQ OSMANABAD DIST OSMANABAD",
     "CONTACT": "02472223416",
-    "DATE": "2016-07-25",
     "MICR": "413570671",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SANJA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004439": {
     "IFSC": "MAHG0004439",
@@ -3542,14 +3543,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MAHARASHTRA GRAMIN BANK AT POST KATI SAWANGI HOUSE OF SHREE DEVIDAS SANGVIKAR KATI SAWANGI OSMANABAD",
     "CONTACT": "09028202025",
-    "DATE": "2018-11-15",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "OSMANABAD",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004500": {
     "IFSC": "MAHG0004500",
@@ -3559,14 +3560,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "REGIONAL OFFICE BEED SUBHASH ROAD BEED TQ DIST BEED",
     "CONTACT": "02442228938",
-    "DATE": "2016-07-25",
     "MICR": "422570198",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "BEED",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004501": {
     "IFSC": "MAHG0004501",
@@ -3576,14 +3577,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT ADAS TQ KAIJ DIST BEED",
     "CONTACT": "02445275537",
-    "DATE": "2016-07-25",
     "MICR": "431570581",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "ADAS",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004502": {
     "IFSC": "MAHG0004502",
@@ -3593,14 +3594,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT APEGAON TQ AMBAJOGAI DIST BEED",
     "CONTACT": "02446253503",
-    "DATE": "2016-07-25",
     "MICR": "431570551",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "APEGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004503": {
     "IFSC": "MAHG0004503",
@@ -3610,14 +3611,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT BARDAPUR TQ AMBAJOGAI DIST BEED",
     "CONTACT": "02446271330",
-    "DATE": "2016-07-25",
     "MICR": "431570552",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "BARDAPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004504": {
     "IFSC": "MAHG0004504",
@@ -3627,14 +3628,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT BEED TQ BEED DIST BEED",
     "CONTACT": "02442222698",
-    "DATE": "2016-07-19",
     "MICR": "431570302",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "BEED",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004506": {
     "IFSC": "MAHG0004506",
@@ -3644,14 +3645,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KADA TQ ASHTI DIST BEED",
     "CONTACT": "02441239790",
-    "DATE": "2016-07-25",
     "MICR": "431570557",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KADA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004507": {
     "IFSC": "MAHG0004507",
@@ -3661,14 +3662,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT CHAKLAMBA TQ GEORAI DIST BEED",
     "CONTACT": "02447258163",
-    "DATE": "2016-07-25",
     "MICR": "431570566",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHAKLAMBA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004508": {
     "IFSC": "MAHG0004508",
@@ -3678,14 +3679,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT CHINCHOLI MALI TQ KAIJ DIST BEED",
     "CONTACT": "02445235501",
-    "DATE": "2016-07-25",
     "MICR": "431570582",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHINCHOLI MALI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004509": {
     "IFSC": "MAHG0004509",
@@ -3695,14 +3696,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT DEOLA TQ WADWANI DIST BEED",
     "CONTACT": "02442271617",
-    "DATE": "2016-07-25",
     "MICR": "431570577",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "DEOLA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004510": {
     "IFSC": "MAHG0004510",
@@ -3712,14 +3713,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT DHAMANGAON TQ ASHTI DIST BEED",
     "CONTACT": "02442224696",
-    "DATE": "2016-07-25",
     "MICR": "431570556",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "DHAMANGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004511": {
     "IFSC": "MAHG0004511",
@@ -3729,14 +3730,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT DHARMAPURI TQ PARALI DIST BEED",
     "CONTACT": "02446254073",
-    "DATE": "2016-07-25",
     "MICR": "431570591",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "DHARMAPURI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004512": {
     "IFSC": "MAHG0004512",
@@ -3746,14 +3747,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT DINDRUD TQ MAJALGAON DIST BEED",
     "CONTACT": "02443244558",
-    "DATE": "2016-07-25",
     "MICR": "431570588",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "DINDRUD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004513": {
     "IFSC": "MAHG0004513",
@@ -3763,14 +3764,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT DONGARKINI TQ PATODA DIST BEED",
     "CONTACT": "02444248481",
-    "DATE": "2016-07-25",
     "MICR": "431570572",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "DONGARKINI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004514": {
     "IFSC": "MAHG0004514",
@@ -3780,14 +3781,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT EDDA TQ KAIJ DIST BEED",
     "CONTACT": "02445234609",
-    "DATE": "2016-07-25",
     "MICR": "431570583",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "EDDA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004515": {
     "IFSC": "MAHG0004515",
@@ -3797,14 +3798,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT MAJALGAON TQ MAJALGAON DIST BEED",
     "CONTACT": "02443234723",
-    "DATE": "2016-07-25",
     "MICR": "431570252",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MAJALGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004516": {
     "IFSC": "MAHG0004516",
@@ -3814,14 +3815,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT GHATNANDUR TQ AMBAJOGAI DIST BEED",
     "CONTACT": "02446242580",
-    "DATE": "2016-07-25",
     "MICR": "431570553",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "GHATNANDUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004517": {
     "IFSC": "MAHG0004517",
@@ -3831,14 +3832,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT HOAL TQ KAIJ DIST BEED",
     "CONTACT": "02445237601",
-    "DATE": "2016-07-25",
     "MICR": "431570584",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "HOAL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004518": {
     "IFSC": "MAHG0004518",
@@ -3848,14 +3849,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT JATEGAON TQ GEORAI DIST BEED",
     "CONTACT": "02447255510",
-    "DATE": "2016-07-25",
     "MICR": "431570568",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "JATEGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004519": {
     "IFSC": "MAHG0004519",
@@ -3865,14 +3866,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KAIJ TQ KAIJ DIST BEED",
     "CONTACT": "02445252336",
-    "DATE": "2016-07-25",
     "MICR": "431570585",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KAIJ",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004520": {
     "IFSC": "MAHG0004520",
@@ -3882,14 +3883,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT WADWANI TQ WADWANI DIST BEED",
     "CONTACT": "02443257642",
-    "DATE": "2016-07-25",
     "MICR": "431570579",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "WADWANI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004521": {
     "IFSC": "MAHG0004521",
@@ -3899,14 +3900,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT UMAPUR TQ GEORAI DIST BEED",
     "CONTACT": "02447267056",
-    "DATE": "2016-07-25",
     "MICR": "431570571",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "UMAPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004522": {
     "IFSC": "MAHG0004522",
@@ -3916,14 +3917,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KITTI ADGAON TQ MAJALGAON DIST BEED",
     "CONTACT": "02443247646",
-    "DATE": "2016-07-25",
     "MICR": "431570589",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KITTI ADGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004523": {
     "IFSC": "MAHG0004523",
@@ -3933,14 +3934,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KOLGAON TQ GEORAI DIST BEED",
     "CONTACT": "02447203510",
-    "DATE": "2016-07-25",
     "MICR": "431570561",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KOLGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004524": {
     "IFSC": "MAHG0004524",
@@ -3950,14 +3951,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KUSLAMB TQ PATODA DIST BEED",
     "CONTACT": "02444244169",
-    "DATE": "2016-07-25",
     "MICR": "431570573",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KUSLAMB",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004525": {
     "IFSC": "MAHG0004525",
@@ -3967,14 +3968,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT LIMBAGANESH TQ BEED DIST BEED",
     "CONTACT": "02442251853",
-    "DATE": "2016-07-25",
     "MICR": "431570562",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "LIMBAGANESH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004526": {
     "IFSC": "MAHG0004526",
@@ -3984,14 +3985,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT MOHA M TQ PARALI DIST BEED",
     "CONTACT": "02446267459",
-    "DATE": "2016-07-25",
     "MICR": "431570592",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MOHA M",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004527": {
     "IFSC": "MAHG0004527",
@@ -4001,14 +4002,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT NANDURGHAT TQ KAIJ DIST BEED",
     "CONTACT": "02445231506",
-    "DATE": "2016-07-25",
     "MICR": "431570586",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "NANDURGHAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004529": {
     "IFSC": "MAHG0004529",
@@ -4018,14 +4019,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT TELGAON TQ WADWANI DIST BEED",
     "CONTACT": "02443241537",
-    "DATE": "2016-07-25",
     "MICR": "431570578",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "TELGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004530": {
     "IFSC": "MAHG0004530",
@@ -4035,14 +4036,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT PADALSINGI TQ GEORAI DIST BEED",
     "CONTACT": "02447256621",
-    "DATE": "2016-07-25",
     "MICR": "431570569",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "PADALSINGI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004531": {
     "IFSC": "MAHG0004531",
@@ -4052,14 +4053,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT PATODA AMBA TQ AMBAJOGAI DIST BEED",
     "CONTACT": "02446255563",
-    "DATE": "2016-07-25",
     "MICR": "431570554",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "PATODA AMBA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004532": {
     "IFSC": "MAHG0004532",
@@ -4069,14 +4070,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT PIMPALNER B TQ BEED DIST BEED",
     "CONTACT": "02441203160",
-    "DATE": "2016-07-25",
     "MICR": "431570564",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "PIMPALNER B",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004533": {
     "IFSC": "MAHG0004533",
@@ -4086,14 +4087,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SHIRUR KASAR TQ SHIRUR KASAR DIST BEED",
     "CONTACT": "02444259514",
-    "DATE": "2016-07-25",
     "MICR": "431570576",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIRUR KASAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004534": {
     "IFSC": "MAHG0004534",
@@ -4103,14 +4104,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT PIMPLA TQ ASHTI DIST BEED",
     "CONTACT": "02442254513",
-    "DATE": "2016-07-25",
     "MICR": "431570558",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "PIMPLA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004535": {
     "IFSC": "MAHG0004535",
@@ -4120,14 +4121,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT POHNER TQ PARALI DIST BEED",
     "CONTACT": "02446203170",
-    "DATE": "2016-07-25",
     "MICR": "431570593",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "POHNER",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004536": {
     "IFSC": "MAHG0004536",
@@ -4137,14 +4138,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT RAIMOHA TQ SHIRUR DIST BEED",
     "CONTACT": "02444258581",
-    "DATE": "2016-07-25",
     "MICR": "431570575",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "RAIMOHA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004537": {
     "IFSC": "MAHG0004537",
@@ -4154,14 +4155,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT RAJURI BK TQ BEED DIST BEED",
     "CONTACT": "02442255558",
-    "DATE": "2016-07-25",
     "MICR": "431570565",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "RAJURI BK",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004538": {
     "IFSC": "MAHG0004538",
@@ -4171,14 +4172,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SHIRAL TQ ASHTI DIST BEED",
     "CONTACT": "02441234643",
-    "DATE": "2016-07-25",
     "MICR": "431570560",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIRAL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004539": {
     "IFSC": "MAHG0004539",
@@ -4188,14 +4189,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT GEORAI TQ GEORAI DIST BEED",
     "CONTACT": "02447262791",
-    "DATE": "2016-07-25",
     "MICR": "431570567",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "GEORAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004540": {
     "IFSC": "MAHG0004540",
@@ -4205,14 +4206,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SIRSALA TQ PARALI DIST BEED",
     "CONTACT": "02446262457",
-    "DATE": "2016-07-25",
     "MICR": "431570594",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SIRSALA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004541": {
     "IFSC": "MAHG0004541",
@@ -4222,14 +4223,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT TAKARWAN TQ MAJALGAON DIST BEED",
     "CONTACT": "02443245386",
-    "DATE": "2016-07-25",
     "MICR": "431570590",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "TAKARWAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004542": {
     "IFSC": "MAHG0004542",
@@ -4239,14 +4240,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT TALWADA TQ GEORAI DIST BEED",
     "CONTACT": "02447252022",
-    "DATE": "2016-07-25",
     "MICR": "431570570",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "TALWADA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004544": {
     "IFSC": "MAHG0004544",
@@ -4256,14 +4257,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT WADGAON DAULA TQ ASHTI DIST BEED",
     "CONTACT": "02441202316",
-    "DATE": "2016-07-25",
     "MICR": "431570559",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "WADGAON DAULA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004545": {
     "IFSC": "MAHG0004545",
@@ -4273,14 +4274,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT NEKNOOR TQ BEED DIST BEED",
     "CONTACT": "02442250585",
-    "DATE": "2016-07-25",
     "MICR": "431570563",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "NEKNOOR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004546": {
     "IFSC": "MAHG0004546",
@@ -4290,14 +4291,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT YUSUF WADGAON TQ KAIJ DIST BEED",
     "CONTACT": "02445232756",
-    "DATE": "2016-07-25",
     "MICR": "431570587",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "YUSUF WADGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004547": {
     "IFSC": "MAHG0004547",
@@ -4307,14 +4308,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT AMBAJOGAI TQ AMBAJOGAI DIST BEED",
     "CONTACT": "02446248172",
-    "DATE": "2016-07-25",
     "MICR": "431570152",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "AMBAJOGAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004548": {
     "IFSC": "MAHG0004548",
@@ -4324,14 +4325,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT PARALI TQ PARALI DIST BEED",
     "CONTACT": "02446223408",
-    "DATE": "2016-07-25",
     "MICR": "431570352",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "PARALI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004549": {
     "IFSC": "MAHG0004549",
@@ -4341,14 +4342,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT PATODA TQ PATODA DIST BEED",
     "CONTACT": "02444242406",
-    "DATE": "2016-07-25",
     "MICR": "431570574",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "PATODA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004550": {
     "IFSC": "MAHG0004550",
@@ -4358,14 +4359,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT DHARUR TQ DHARUR DIST BEED",
     "CONTACT": "02445274040",
-    "DATE": "2016-07-25",
     "MICR": "431570580",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "DHARUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004551": {
     "IFSC": "MAHG0004551",
@@ -4375,14 +4376,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT ASHTI TQ ASHTI DIST BEED",
     "CONTACT": "02441282173",
-    "DATE": "2016-07-25",
     "MICR": "431570555",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "ASHTI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004552": {
     "IFSC": "MAHG0004552",
@@ -4392,14 +4393,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT DHANORA ROAD BEED TQ BEED DIST BEED",
     "CONTACT": "02441236693",
-    "DATE": "2016-07-25",
     "MICR": "431570303",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "DHANORA ROAD BEED",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004553": {
     "IFSC": "MAHG0004553",
@@ -4409,14 +4410,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT MOREWADI TQ AMBAJOGAI DIST BEED",
     "CONTACT": "02446246088",
-    "DATE": "2016-07-25",
     "MICR": "431570696",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MOREWADI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004554": {
     "IFSC": "MAHG0004554",
@@ -4426,14 +4427,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KHALAPURI TQ SHIRUR KASAR DIST BEED",
     "CONTACT": "02444268265",
-    "DATE": "2016-07-25",
     "MICR": "431570702",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KHALAPURI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004601": {
     "IFSC": "MAHG0004601",
@@ -4443,14 +4444,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT WAGHOLI P TQ HAVELI DIST PUNE",
     "CONTACT": "02027052550",
-    "DATE": "2016-07-25",
     "MICR": "411014252",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "WAGHOLI P",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004602": {
     "IFSC": "MAHG0004602",
@@ -4460,14 +4461,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SANASWADI TQ SHIRUR DIST PUNE",
     "CONTACT": "02137253570",
-    "DATE": "2016-07-25",
     "MICR": "411014251",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SANASWADI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004603": {
     "IFSC": "MAHG0004603",
@@ -4477,14 +4478,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KADAMWAKWASTI TQ HAVELI DIST PUNE",
     "CONTACT": "02026912025",
-    "DATE": "2016-07-25",
     "MICR": "411014255",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KADAMWAKWASTI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004604": {
     "IFSC": "MAHG0004604",
@@ -4494,14 +4495,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT BORI PARDHI TQ DAUND DIST PUNE",
     "CONTACT": "02119223022",
-    "DATE": "2016-07-25",
     "MICR": "411014256",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "BORI PARDHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004605": {
     "IFSC": "MAHG0004605",
@@ -4511,14 +4512,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KANHE TQ WADGAONMAVAL DIST PUNE",
     "CONTACT": "02114255014",
-    "DATE": "2016-07-25",
     "MICR": "411014254",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KANHE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004606": {
     "IFSC": "MAHG0004606",
@@ -4528,14 +4529,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT PERNE TQ HAVELI DIST PUNE",
     "CONTACT": "02137287116",
-    "DATE": "2016-07-25",
     "MICR": "411014253",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "PERNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004607": {
     "IFSC": "MAHG0004607",
@@ -4545,14 +4546,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT URALI DEVACHI TQ HAVELI DIST PUNE",
     "CONTACT": "02020266277",
-    "DATE": "2016-07-25",
     "MICR": "411014257",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "URALI DEVACHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004608": {
     "IFSC": "MAHG0004608",
@@ -4562,14 +4563,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KUNJARWADI TQ HAVELI DIST PUNE",
     "CONTACT": "02026913956",
-    "DATE": "2016-07-25",
     "MICR": "411570503",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KUNJARWADI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004609": {
     "IFSC": "MAHG0004609",
@@ -4579,14 +4580,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT LOHAGAON PUNE TQ HAVELI DIST PUNE",
     "CONTACT": "02020261333",
-    "DATE": "2016-07-25",
     "MICR": "411570504",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "LOHAGAON PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004610": {
     "IFSC": "MAHG0004610",
@@ -4596,14 +4597,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT BAHUL TQ KHED DIST PUNE",
     "CONTACT": "02225344059",
-    "DATE": "2016-07-25",
     "MICR": "411570505",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "BAHUL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004611": {
     "IFSC": "MAHG0004611",
@@ -4613,14 +4614,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KONDWE DHAWADE TQ HAVELI DIST PUNE",
     "CONTACT": "02025292535",
-    "DATE": "2016-07-25",
     "MICR": "411570508",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KONDWE DHAWADE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004612": {
     "IFSC": "MAHG0004612",
@@ -4630,14 +4631,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KARANDI TQ SHIRUR DIST PUNE",
     "CONTACT": "02225344059",
-    "DATE": "2016-07-25",
     "MICR": "411570506",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KARANDI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004614": {
     "IFSC": "MAHG0004614",
@@ -4647,14 +4648,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KESHAVNAGAR TQ HAVELI DIST PUNE",
     "CONTACT": "02020263111",
-    "DATE": "2016-07-25",
     "MICR": "411570509",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KESHAVNAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004615": {
     "IFSC": "MAHG0004615",
@@ -4664,14 +4665,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SHIRASWADI TQ HAVELI DIST PUNE",
     "CONTACT": "02225344059",
-    "DATE": "2016-07-25",
     "MICR": "411570507",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIRASWADI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004616": {
     "IFSC": "MAHG0004616",
@@ -4681,14 +4682,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT MEDANKARWADI TQ DIST PUNE",
     "CONTACT": "02135204202",
-    "DATE": "2016-07-25",
     "MICR": "411570511",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MEDANKARWADI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004617": {
     "IFSC": "MAHG0004617",
@@ -4698,14 +4699,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KOYALI TQ DIST PUNE",
     "CONTACT": "02225344059",
-    "DATE": "2016-07-25",
     "MICR": "411570510",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KOYALI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004618": {
     "IFSC": "MAHG0004618",
@@ -4715,14 +4716,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO 101 VARAD VINAYAK COMPLEX SURVEY NO 26 1 NARHE DHAYRI ROAD NARHE TQ HAVILI DIST PUNE",
     "CONTACT": "02225435154",
-    "DATE": "42576",
     "MICR": "411570512",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "NARHE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004619": {
     "IFSC": "MAHG0004619",
@@ -4732,14 +4733,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "INDYAYANI PLAZA MIDDLE AKLUJ ROAD VYANKETESHNAGAR INDAPUR TALUKA INDAPUR",
     "CONTACT": "02225344059",
-    "DATE": "42672",
     "MICR": "411570514",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004620": {
     "IFSC": "MAHG0004620",
@@ -4749,14 +4750,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "HOUSE NO 862 PUNE PAUD ROAD BHUGAON PO BHUGAON TALUKA MULSHI",
     "CONTACT": "02225344059",
-    "DATE": "42672",
     "MICR": "411570513",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0004621": {
     "IFSC": "MAHG0004621",
@@ -4766,14 +4767,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MAHARASHTRA GRAMIN BANK, SHIRUR BRANCH, SURVEY NO 1148/2, OXI GOLD BABURAO NAGAR PUNE-AHMEDNAGAR ROAD SHIRUR TALUKA SHIRUR DIST. PUNE 412210",
     "CONTACT": "02402476139",
-    "DATE": "2018-03-31",
     "MICR": "411570515",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "AHMEDNAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005100": {
     "IFSC": "MAHG0005100",
@@ -4783,14 +4784,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "REGIONAL OFFICE AURANGABAD SAMARTHNAGAR 108 JIVANGANGA SAMARTHANAGAR AURANGABAD",
     "CONTACT": "02402476139",
-    "DATE": "2016-07-25",
     "MICR": "422570251",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "AURANGABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005101": {
     "IFSC": "MAHG0005101",
@@ -4800,14 +4801,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT GARKHEDA ROAD AURANGABAD TQ DIST AURANGABAD",
     "CONTACT": "02402338252",
-    "DATE": "2016-07-19",
     "MICR": "431570003",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "GARKHEDA ROAD AURANGABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005102": {
     "IFSC": "MAHG0005102",
@@ -4817,14 +4818,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT WALUJ TQ DIST AURANGABAD",
     "CONTACT": "02402564523",
-    "DATE": "2016-07-19",
     "MICR": "431570005",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "WALUJ",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005103": {
     "IFSC": "MAHG0005103",
@@ -4834,14 +4835,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT BALANAGAR TQ DIST AURANGABAD",
     "CONTACT": "02431261053",
-    "DATE": "2016-07-25",
     "MICR": "431570512",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "BALANAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005104": {
     "IFSC": "MAHG0005104",
@@ -4851,14 +4852,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT GALLEBORGAON TQ DIST AURANGABAD",
     "CONTACT": "02437243513",
-    "DATE": "2016-07-25",
     "MICR": "431570510",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "GALLEBORGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005105": {
     "IFSC": "MAHG0005105",
@@ -4868,14 +4869,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KHANDALA TQ DIST AURANGABAD",
     "CONTACT": "02436281325",
-    "DATE": "2016-07-25",
     "MICR": "431570523",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KHANDALA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005106": {
     "IFSC": "MAHG0005106",
@@ -4885,14 +4886,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT PARSODA TQ DIST AURANGABAD",
     "CONTACT": "02436283373",
-    "DATE": "2016-07-25",
     "MICR": "431570526",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "PARSODA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005107": {
     "IFSC": "MAHG0005107",
@@ -4902,14 +4903,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT LONI KH TQ DIST AURANGABAD",
     "CONTACT": "02436288329",
-    "DATE": "2016-07-25",
     "MICR": "431570524",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "LONI KH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005109": {
     "IFSC": "MAHG0005109",
@@ -4919,14 +4920,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT LADSAVANGI TQ DIST AURANGABAD",
     "CONTACT": "02402626645",
-    "DATE": "2016-07-25",
     "MICR": "431570503",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "LADSAVANGI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005110": {
     "IFSC": "MAHG0005110",
@@ -4936,14 +4937,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SHIVNA TQ DIST AURANGABAD",
     "CONTACT": "02439289408",
-    "DATE": "2016-07-25",
     "MICR": "431570519",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIVNA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005111": {
     "IFSC": "MAHG0005111",
@@ -4953,14 +4954,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KARMAD TQ DIST AURANGABAD",
     "CONTACT": "02402623339",
-    "DATE": "2016-07-25",
     "MICR": "431570502",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KARMAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005112": {
     "IFSC": "MAHG0005112",
@@ -4970,14 +4971,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT PANVADOD TQ DIST AURANGABAD",
     "CONTACT": "02439287317",
-    "DATE": "2016-07-25",
     "MICR": "431570518",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "PANVADOD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005113": {
     "IFSC": "MAHG0005113",
@@ -4987,14 +4988,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT GHATNANDRA TQ DIST AURANGABAD",
     "CONTACT": "02430287456",
-    "DATE": "2016-07-25",
     "MICR": "431570517",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "GHATNANDRA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005114": {
     "IFSC": "MAHG0005114",
@@ -5004,14 +5005,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT NACHANVEL TQ DIST AURANGABAD",
     "CONTACT": "02435239452",
-    "DATE": "2016-07-25",
     "MICR": "431570509",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "NACHANVEL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005115": {
     "IFSC": "MAHG0005115",
@@ -5021,14 +5022,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT PHULAMBRI TQ DIST AURANGABAD",
     "CONTACT": "02402634091",
-    "DATE": "2016-07-25",
     "MICR": "431570513",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "PHULAMBRI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005116": {
     "IFSC": "MAHG0005116",
@@ -5038,14 +5039,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SHENDURWADA TQ DIST AURANGABAD",
     "CONTACT": "02433235854",
-    "DATE": "2016-07-25",
     "MICR": "431570507",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHENDURWADA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005118": {
     "IFSC": "MAHG0005118",
@@ -5055,14 +5056,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT CHITTEPIMPALGAON TQ DIST AURANGABAD",
     "CONTACT": "02402643622",
-    "DATE": "2016-07-25",
     "MICR": "431570501",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHITTEPIMPALGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005120": {
     "IFSC": "MAHG0005120",
@@ -5072,14 +5073,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT LASUR STATION TQ DIST AURANGABAD",
     "CONTACT": "02433241548",
-    "DATE": "2016-07-19",
     "MICR": "431570506",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "LASUR STATION",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005121": {
     "IFSC": "MAHG0005121",
@@ -5089,14 +5090,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SHEKTA TQ DIST AURANGABAD",
     "CONTACT": "02402624454",
-    "DATE": "2016-07-25",
     "MICR": "431570504",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHEKTA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005122": {
     "IFSC": "MAHG0005122",
@@ -5106,14 +5107,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT BABRA TQ DIST AURANGABAD",
     "CONTACT": "02430285342",
-    "DATE": "2016-07-25",
     "MICR": "431570514",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "BABRA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005123": {
     "IFSC": "MAHG0005123",
@@ -5123,14 +5124,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT AMBHAI TQ DIST AURANGABAD",
     "CONTACT": "02439286342",
-    "DATE": "2016-07-25",
     "MICR": "431570516",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "AMBHAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005124": {
     "IFSC": "MAHG0005124",
@@ -5140,14 +5141,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT MAHALGAON TQ DIST AURANGABAD",
     "CONTACT": "02436282327",
-    "DATE": "2016-07-25",
     "MICR": "431570525",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MAHALGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005125": {
     "IFSC": "MAHG0005125",
@@ -5157,14 +5158,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT GANGAPUR TQ DIST AURANGABAD",
     "CONTACT": "02433220597",
-    "DATE": "2016-07-25",
     "MICR": "431570505",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "GANGAPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005126": {
     "IFSC": "MAHG0005126",
@@ -5174,14 +5175,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT JARANDI TQ DIST AURANGABAD",
     "CONTACT": "02438264965",
-    "DATE": "2016-07-25",
     "MICR": "431570520",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "JARANDI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005127": {
     "IFSC": "MAHG0005127",
@@ -5191,14 +5192,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT VAIJAPUR TQ DIST AURANGABAD",
     "CONTACT": "02436222512",
-    "DATE": "2016-07-25",
     "MICR": "431570522",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "VAIJAPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005128": {
     "IFSC": "MAHG0005128",
@@ -5208,14 +5209,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SAWALATBARA TQ DIST AURANGABAD",
     "CONTACT": "02438245130",
-    "DATE": "2016-07-25",
     "MICR": "431570521",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SAWALATBARA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005129": {
     "IFSC": "MAHG0005129",
@@ -5225,14 +5226,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SAMARTHNAGAR AURANGABAD TQ DIST AURANGABAD",
     "CONTACT": "02430223952",
-    "DATE": "2016-07-19",
     "MICR": "431570002",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SAMARTHNAGAR AURANGABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005130": {
     "IFSC": "MAHG0005130",
@@ -5242,14 +5243,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SILLOD TQ DIST AURANGABAD",
     "CONTACT": "002402343606",
-    "DATE": "2016-07-25",
     "MICR": "431570515",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SILLOD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005131": {
     "IFSC": "MAHG0005131",
@@ -5259,14 +5260,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT MUKUNDWADI AURANGABAD TQ DIST AURANGABAD",
     "CONTACT": "002402487785",
-    "DATE": "2016-07-19",
     "MICR": "431570004",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUKUNDWADI AURANGABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005132": {
     "IFSC": "MAHG0005132",
@@ -5276,14 +5277,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SHIVAJINAGAR SATARAPARISAR AURANGABAD TQ DIST AURANGABAD",
     "CONTACT": "002402451232",
-    "DATE": "2016-07-19",
     "MICR": "431570006",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIVAJINAGAR SATARAPARISAR AURANGABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005133": {
     "IFSC": "MAHG0005133",
@@ -5293,14 +5294,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KANNAD TQ DIST AURANGABAD",
     "CONTACT": "02435222229",
-    "DATE": "2016-07-25",
     "MICR": "431570508",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KANNAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005134": {
     "IFSC": "MAHG0005134",
@@ -5310,14 +5311,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT PAITHAN TQ DIST AURANGABAD",
     "CONTACT": "02431223366",
-    "DATE": "2016-07-25",
     "MICR": "431570511",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "PAITHAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005135": {
     "IFSC": "MAHG0005135",
@@ -5327,14 +5328,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SATARA TQ DIST AURANGABAD",
     "CONTACT": "002402653100",
-    "DATE": "2016-07-25",
     "MICR": "431570700",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SATARA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005136": {
     "IFSC": "MAHG0005136",
@@ -5344,14 +5345,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT BIDKIN TQ DIST AURANGABAD",
     "CONTACT": "02431241017",
-    "DATE": "2016-07-25",
     "MICR": "431570699",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "BIDKIN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005137": {
     "IFSC": "MAHG0005137",
@@ -5361,14 +5362,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT ALAND TQ DIST AURANGABAD",
     "CONTACT": "02430284667",
-    "DATE": "2016-07-25",
     "MICR": "431570701",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "ALAND",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005138": {
     "IFSC": "MAHG0005138",
@@ -5378,14 +5379,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT RANJANGAON TQ DIST AURANGABAD",
     "CONTACT": "002402553309",
-    "DATE": "2016-07-25",
     "MICR": "431570705",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "RANJANGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005139": {
     "IFSC": "MAHG0005139",
@@ -5395,14 +5396,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PLOT NO 18, SURVEY NO 179/5/A, RASHMINAGAR, NEAR AUDITORS SOCIETY, HARSUL T-POINT, AURANGABAD 431008",
     "CONTACT": "02402476139",
-    "DATE": "2018-03-31",
     "MICR": "431570007",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "AURANGABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005140": {
     "IFSC": "MAHG0005140",
@@ -5412,14 +5413,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AURANGABAD-BEED HIGH-WAY AT POST ADUL TQ PAITHAN",
     "CONTACT": "02409823742280",
-    "DATE": "2019-03-07",
     "BANK": "Maharashtra Gramin Bank",
     "UPI": false,
     "RTGS": true,
     "CITY": "ADUL",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005201": {
     "IFSC": "MAHG0005201",
@@ -5429,14 +5430,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT JALNA MAIN TQ DIST JALNA",
     "CONTACT": "02482232529",
-    "DATE": "2016-07-19",
     "MICR": "431570052",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "JALNA MAIN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005202": {
     "IFSC": "MAHG0005202",
@@ -5446,14 +5447,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SATONA TQ DIST JALNA",
     "CONTACT": "02484226218",
-    "DATE": "2016-07-25",
     "MICR": "431570549",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SATONA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005203": {
     "IFSC": "MAHG0005203",
@@ -5463,14 +5464,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT MANTHA TQ DIST JALNA",
     "CONTACT": "02484270282",
-    "DATE": "2016-07-25",
     "MICR": "431570537",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MANTHA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005204": {
     "IFSC": "MAHG0005204",
@@ -5480,14 +5481,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT PARTUR MONDHA TQ DIST JALNA",
     "CONTACT": "02484221278",
-    "DATE": "2016-07-25",
     "MICR": "431570548",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "PARTUR MONDHA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005205": {
     "IFSC": "MAHG0005205",
@@ -5497,14 +5498,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT MAHORA TQ DIST JALNA",
     "CONTACT": "02485225208",
-    "DATE": "2016-07-25",
     "MICR": "431570542",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MAHORA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005206": {
     "IFSC": "MAHG0005206",
@@ -5514,14 +5515,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT BHOKARDAN TQ DIST JALNA",
     "CONTACT": "02485240172",
-    "DATE": "2016-07-25",
     "MICR": "431570530",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "BHOKARDAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005207": {
     "IFSC": "MAHG0005207",
@@ -5531,14 +5532,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT ANWA TQ DIST JALNA",
     "CONTACT": "02485242243",
-    "DATE": "2016-07-25",
     "MICR": "431570531",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "ANWA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005208": {
     "IFSC": "MAHG0005208",
@@ -5548,14 +5549,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT TIRTHPURI TQ DIST JALNA",
     "CONTACT": "02483226596",
-    "DATE": "2016-07-25",
     "MICR": "431570540",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "TIRTHPURI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005209": {
     "IFSC": "MAHG0005209",
@@ -5565,14 +5566,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT DABHADI TQ DIST JALNA",
     "CONTACT": "02482264014",
-    "DATE": "2016-07-25",
     "MICR": "431570535",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "DABHADI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005210": {
     "IFSC": "MAHG0005210",
@@ -5582,14 +5583,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SHELGAON TQ DIST JALNA",
     "CONTACT": "02482262052",
-    "DATE": "2016-07-25",
     "MICR": "431570536",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHELGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005211": {
     "IFSC": "MAHG0005211",
@@ -5599,14 +5600,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT VADIGODRI TQ DIST JALNA",
     "CONTACT": "02483227293",
-    "DATE": "2016-07-25",
     "MICR": "431570529",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "VADIGODRI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005212": {
     "IFSC": "MAHG0005212",
@@ -5616,14 +5617,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT TALNI J TQ DIST JALNA",
     "CONTACT": "02484275907",
-    "DATE": "2016-07-25",
     "MICR": "431570538",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "TALNI J",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005213": {
     "IFSC": "MAHG0005213",
@@ -5633,14 +5634,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT GONDI TQ DIST JALNA",
     "CONTACT": "02483232018",
-    "DATE": "2016-07-25",
     "MICR": "431570528",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "GONDI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005214": {
     "IFSC": "MAHG0005214",
@@ -5650,14 +5651,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT BADNAPUR TQ DIST JALNA",
     "CONTACT": "02482261140",
-    "DATE": "2016-07-25",
     "MICR": "431570534",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "BADNAPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005215": {
     "IFSC": "MAHG0005215",
@@ -5667,14 +5668,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SEVALI TQ DIST JALNA",
     "CONTACT": "02481253253",
-    "DATE": "2016-07-25",
     "MICR": "431570545",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SEVALI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005216": {
     "IFSC": "MAHG0005216",
@@ -5684,14 +5685,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT RAMNAGAR TQ DIST JALNA",
     "CONTACT": "02482256239",
-    "DATE": "2016-07-25",
     "MICR": "431570544",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "RAMNAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005217": {
     "IFSC": "MAHG0005217",
@@ -5701,14 +5702,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT WATURPHATA TQ DIST JALNA",
     "CONTACT": "02484224540",
-    "DATE": "2016-07-25",
     "MICR": "431570550",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "WATURPHATA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005218": {
     "IFSC": "MAHG0005218",
@@ -5718,14 +5719,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT WAGHRUL JAHANGIR TQ DIST JALNA",
     "CONTACT": "02482255240",
-    "DATE": "2016-07-25",
     "MICR": "431570546",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "WAGHRUL JAHANGIR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005219": {
     "IFSC": "MAHG0005219",
@@ -5735,14 +5736,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT GOLAPANGRI TQ DIST JALNA",
     "CONTACT": "02482204231",
-    "DATE": "2016-07-25",
     "MICR": "431570543",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "GOLAPANGRI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005220": {
     "IFSC": "MAHG0005220",
@@ -5752,14 +5753,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KUMBHAR PIMPALGAON TQ DIST JALNA",
     "CONTACT": "02483228385",
-    "DATE": "2016-07-25",
     "MICR": "431570539",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KUMBHAR PIMPALGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005221": {
     "IFSC": "MAHG0005221",
@@ -5769,14 +5770,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT RAJUR GANPATI TQ DIST JALNA",
     "CONTACT": "02485252417",
-    "DATE": "2016-07-25",
     "MICR": "431570533",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "RAJUR GANPATI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005222": {
     "IFSC": "MAHG0005222",
@@ -5786,14 +5787,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT PARTUR CITY TQ DIST JALNA",
     "CONTACT": "02484221086",
-    "DATE": "2016-07-25",
     "MICR": "431570547",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "PARTUR CITY",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005223": {
     "IFSC": "MAHG0005223",
@@ -5803,14 +5804,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT PIMPALGAON RENUKAI TQ DIST JALNA",
     "CONTACT": "02485245206",
-    "DATE": "2016-07-25",
     "MICR": "431570532",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "PIMPALGAON RENUKAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005224": {
     "IFSC": "MAHG0005224",
@@ -5820,14 +5821,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT JAFRABAD TQ DIST JALNA",
     "CONTACT": "02485222773",
-    "DATE": "2016-07-25",
     "MICR": "431570541",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "JAFRABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005226": {
     "IFSC": "MAHG0005226",
@@ -5837,14 +5838,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT AMBAD TQ DIST JALNA",
     "CONTACT": "02483220579",
-    "DATE": "2016-07-25",
     "MICR": "431570527",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "AMBAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005227": {
     "IFSC": "MAHG0005227",
@@ -5854,14 +5855,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT NEW JALNA TQ DIST JALNA",
     "CONTACT": "02482243393",
-    "DATE": "2016-07-25",
     "MICR": "431570053",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "NEW JALNA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005401": {
     "IFSC": "MAHG0005401",
@@ -5871,14 +5872,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT GULMOHAR COLONEY AHMEDNAGAR TQ DIST AHMEDNAGAR",
     "CONTACT": "02412428912",
-    "DATE": "2016-07-19",
     "MICR": "414570001",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "GULMOHAR COLONEY AHMEDNAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005402": {
     "IFSC": "MAHG0005402",
@@ -5888,14 +5889,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SANGAMNER TQ DIST AHMEDNAGAR",
     "CONTACT": "02425227272",
-    "DATE": "2016-07-25",
     "MICR": "422570201",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SANGAMNER",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005403": {
     "IFSC": "MAHG0005403",
@@ -5905,14 +5906,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KOPARGAON TQ DIST AHMEDNAGAR",
     "CONTACT": "02423225300",
-    "DATE": "2016-07-25",
     "MICR": "423570001",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KOPARGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005404": {
     "IFSC": "MAHG0005404",
@@ -5922,14 +5923,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT MADHI TQ DIST AHMEDNAGAR",
     "CONTACT": "02428244007",
-    "DATE": "2016-07-25",
     "MICR": "414570501",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MADHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005405": {
     "IFSC": "MAHG0005405",
@@ -5939,14 +5940,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SAROLA KASAR TQ DIST AHMEDNAGAR",
     "CONTACT": "02412537005",
-    "DATE": "2016-07-25",
     "MICR": "414570503",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SAROLA KASAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005406": {
     "IFSC": "MAHG0005406",
@@ -5956,14 +5957,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT MUKINDPUR NEWASA PHATA TQ DIST AHMEDNAGAR",
     "CONTACT": "02427244080",
-    "DATE": "2016-07-25",
     "MICR": "414570502",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUKINDPUR NEWASA PHATA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005407": {
     "IFSC": "MAHG0005407",
@@ -5973,14 +5974,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT RASHIN TQ DIST AHMEDNAGAR",
     "CONTACT": "02489258699",
-    "DATE": "2016-07-25",
     "MICR": "414570504",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "RASHIN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005408": {
     "IFSC": "MAHG0005408",
@@ -5990,14 +5991,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MAHARASHTRA GRAMIN BANK BURHANNAGAR BRANCH PLOT NO 17 SHRIRAM TAPOVAN ROAD AT PO BURHANNAGAR TALUKA DIST AHMEDNAGAR 414003",
     "CONTACT": "02225344059",
-    "DATE": "43038",
     "MICR": "414570505",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "AHMEDNAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005409": {
     "IFSC": "MAHG0005409",
@@ -6007,14 +6008,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MAHARASHTRA GRAMIN BANK NAVNAGAPUR BRANCH PMOT NO 11 49 2B HOUSE NO 909 VADGAON GUPTA ROAD GAJANAN COLONY NAVNAGAPUR TALUKA DIST AHMEDNAGAR 414003",
     "CONTACT": "02225344059",
-    "DATE": "43038",
     "MICR": "414570506",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "AHMEDNAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005501": {
     "IFSC": "MAHG0005501",
@@ -6024,14 +6025,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT JALGAON TQ DIST JALGAON",
     "CONTACT": "02572254400",
-    "DATE": "2016-07-25",
     "MICR": "425570002",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "JALGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005502": {
     "IFSC": "MAHG0005502",
@@ -6041,14 +6042,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT PACHORA TQ DIST JALGAON",
     "CONTACT": "02596244544",
-    "DATE": "2016-07-25",
     "MICR": "424570102",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "PACHORA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005503": {
     "IFSC": "MAHG0005503",
@@ -6058,14 +6059,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT MUKTAINAGAR TQ DIST JALGAON",
     "CONTACT": "02583235300",
-    "DATE": "2016-07-25",
     "MICR": "425570501",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUKTAINAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005504": {
     "IFSC": "MAHG0005504",
@@ -6075,14 +6076,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT AMADADE TQ DIST JALGAON",
     "CONTACT": "02596231269",
-    "DATE": "2016-07-25",
     "MICR": "424570501",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "AMADADE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005505": {
     "IFSC": "MAHG0005505",
@@ -6092,14 +6093,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KEKATNIMBHORA TQ DIST JALGAON",
     "CONTACT": "02580256255",
-    "DATE": "2016-07-25",
     "MICR": "425570502",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KEKATNIMBHORA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005506": {
     "IFSC": "MAHG0005506",
@@ -6109,14 +6110,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SATGAON TQ DIST JALGAON",
     "CONTACT": "02596281555",
-    "DATE": "2016-07-25",
     "MICR": "424570502",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SATGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005507": {
     "IFSC": "MAHG0005507",
@@ -6126,14 +6127,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT VARANGAON TQ DIST JALGAON",
     "CONTACT": "02582262258",
-    "DATE": "2016-07-25",
     "MICR": "425570503",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "VARANGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005508": {
     "IFSC": "MAHG0005508",
@@ -6143,14 +6144,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT YAWAL TQ DIST JALGAON",
     "CONTACT": "02585260044",
-    "DATE": "2016-07-25",
     "MICR": "425570505",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "YAWAL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005509": {
     "IFSC": "MAHG0005509",
@@ -6160,14 +6161,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT MEHUNBARE TQ DIST JALGAON",
     "CONTACT": "02589244190",
-    "DATE": "2016-07-25",
     "MICR": "424570503",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MEHUNBARE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005510": {
     "IFSC": "MAHG0005510",
@@ -6177,14 +6178,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SHIRSOLI P B TQ DIST JALGAON",
     "CONTACT": "02572359221",
-    "DATE": "2016-07-25",
     "MICR": "425570510",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIRSOLI P B",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005511": {
     "IFSC": "MAHG0005511",
@@ -6194,14 +6195,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT MHASAWAD TQ DIST JALGAON",
     "CONTACT": "02572355855",
-    "DATE": "2016-07-19",
     "MICR": "425570511",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MHASAWAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005512": {
     "IFSC": "MAHG0005512",
@@ -6211,14 +6212,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT PAROLA TQ DIST JALGAON",
     "CONTACT": "02597294666",
-    "DATE": "2016-07-25",
     "MICR": "425570512",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "PAROLA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005513": {
     "IFSC": "MAHG0005513",
@@ -6228,14 +6229,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT RAVER TQ DIST JALGAON",
     "CONTACT": "02485250140",
-    "DATE": "2016-07-25",
     "MICR": "425570252",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "RAVER",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005514": {
     "IFSC": "MAHG0005514",
@@ -6245,14 +6246,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MAHARASHTRA GRAMIN BANK KAMALSHANTI VYAPARI BIGAR SHETI SAHAKARI PATASANSTHA PREMISES NEAR BUS STAND KAJGAON DIST JALGAON 424103",
     "CONTACT": null,
-    "DATE": "42765",
     "MICR": "424570505",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "BHADGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005515": {
     "IFSC": "MAHG0005515",
@@ -6262,14 +6263,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PLOT NO 5 SHRIDHAR NAGAR PAMPING ROAD SAVKHEDA BRANCH TQ DIST JALGAON",
     "CONTACT": "02596231269",
-    "DATE": "43005",
     "MICR": "425570513",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "JALGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005516": {
     "IFSC": "MAHG0005516",
@@ -6279,14 +6280,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "BAJAJ PLAZA 2382/83 PATHAK GALLI MAIN ROAD AT POST AND TQ CHOPDA",
     "CONTACT": "02409823742280",
-    "DATE": "2019-03-07",
     "BANK": "Maharashtra Gramin Bank",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHOPDA",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005517": {
     "IFSC": "MAHG0005517",
@@ -6296,14 +6297,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHIVAJI ROAD NEW PLOT NEAR DADAWADI AMALNER TQ AMALNER",
     "CONTACT": "02409823742280",
-    "DATE": "2019-03-07",
     "BANK": "Maharashtra Gramin Bank",
     "UPI": false,
     "RTGS": true,
     "CITY": "AMALNER",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005518": {
     "IFSC": "MAHG0005518",
@@ -6313,14 +6314,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SADGURU VILLA BIRLA CHOWK NEAR PANDAV WADA AT POST AND TQ ERANDOL",
     "CONTACT": "02409823742280",
-    "DATE": "2019-03-07",
     "BANK": "Maharashtra Gramin Bank",
     "UPI": false,
     "RTGS": true,
     "CITY": "ERANDOL",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005600": {
     "IFSC": "MAHG0005600",
@@ -6330,14 +6331,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "REGIONAL OFFICE THANE 3RD FLOOR MTNL CHARAI BHAVAN INFRONT OF GANESH TALKIES MAULI MANDAL CHARAI TQ DIST THANE",
     "CONTACT": "02225344059",
-    "DATE": "2016-07-25",
     "MICR": "422570308",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "THANE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005601": {
     "IFSC": "MAHG0005601",
@@ -6347,14 +6348,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT VRINDAVAN THANEW TQ DIST THANE",
     "CONTACT": "02225437653",
-    "DATE": "2016-07-19",
     "MICR": "400014252",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "VRINDAVAN THANEW",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005602": {
     "IFSC": "MAHG0005602",
@@ -6364,14 +6365,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT BELAVALI TQ DIST THANE",
     "CONTACT": "02512673523",
-    "DATE": "2016-07-25",
     "MICR": "400014254",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "BELAVALI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005603": {
     "IFSC": "MAHG0005603",
@@ -6381,14 +6382,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT TOKAWADE TQ DIST THANE",
     "CONTACT": "02524242041",
-    "DATE": "2016-07-25",
     "MICR": "400570503",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "TOKAWADE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005604": {
     "IFSC": "MAHG0005604",
@@ -6398,14 +6399,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KUDUS TQ DIST PALGHAR",
     "CONTACT": "02526221111",
-    "DATE": "2016-07-25",
     "MICR": "400014266",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KUDUS",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005605": {
     "IFSC": "MAHG0005605",
@@ -6415,14 +6416,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT ALONDE TQ DIST PALGHAR",
     "CONTACT": "02520231023",
-    "DATE": "2016-07-25",
     "MICR": "400570509",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "ALONDE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005606": {
     "IFSC": "MAHG0005606",
@@ -6432,14 +6433,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT DOLKHAMB TQ DIST THANE",
     "CONTACT": "02529234144",
-    "DATE": "2016-07-25",
     "MICR": "400570505",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "DOLKHAMB",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005608": {
     "IFSC": "MAHG0005608",
@@ -6449,14 +6450,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT UDHAWA TQ DIST PALGHAR",
     "CONTACT": "02521232109",
-    "DATE": "2016-07-25",
     "MICR": "400570508",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "UDHAWA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005609": {
     "IFSC": "MAHG0005609",
@@ -6466,14 +6467,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KELWA TQ DIST PALGHAR",
     "CONTACT": "02525222120",
-    "DATE": "2016-07-25",
     "MICR": "400014264",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KELWA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005612": {
     "IFSC": "MAHG0005612",
@@ -6483,14 +6484,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT WADA TQ DIST PALGHAR",
     "CONTACT": "02526271115",
-    "DATE": "2016-07-25",
     "MICR": "400014267",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "WADA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005614": {
     "IFSC": "MAHG0005614",
@@ -6500,14 +6501,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT GIRGAON T TQ DIST PALGHAR",
     "CONTACT": "02602992690",
-    "DATE": "2016-07-25",
     "MICR": "400570506",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "GIRGAON T",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005615": {
     "IFSC": "MAHG0005615",
@@ -6517,14 +6518,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT MURBE TQ DIST PALGHAR",
     "CONTACT": "02525289032",
-    "DATE": "2016-07-25",
     "MICR": "400570504",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MURBE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005619": {
     "IFSC": "MAHG0005619",
@@ -6534,14 +6535,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT MHASA TQ DIST THANE",
     "CONTACT": "02524249195",
-    "DATE": "2016-07-25",
     "MICR": "400570502",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MHASA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005620": {
     "IFSC": "MAHG0005620",
@@ -6551,14 +6552,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KHADAVALI TQ DIST THANE",
     "CONTACT": "02512370021",
-    "DATE": "2016-07-25",
     "MICR": "400014263",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KHADAVALI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005622": {
     "IFSC": "MAHG0005622",
@@ -6568,14 +6569,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT GOVELI TQ DIST THANE",
     "CONTACT": "02512390017",
-    "DATE": "2016-07-25",
     "MICR": "400014262",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "GOVELI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005623": {
     "IFSC": "MAHG0005623",
@@ -6585,14 +6586,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT MOKHADA TQ DIST PALGHAR",
     "CONTACT": "02529256684",
-    "DATE": "2016-07-25",
     "MICR": "400570501",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MOKHADA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005625": {
     "IFSC": "MAHG0005625",
@@ -6602,14 +6603,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT TALASARI TQ DIST PALGHAR",
     "CONTACT": "02521220375",
-    "DATE": "2016-07-25",
     "MICR": "400570507",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "TALASARI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005628": {
     "IFSC": "MAHG0005628",
@@ -6619,14 +6620,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT GOTHEGHAR TQ DIST THANE",
     "CONTACT": "02527270835",
-    "DATE": "2016-07-25",
     "MICR": "400014265",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "GOTHEGHAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005629": {
     "IFSC": "MAHG0005629",
@@ -6636,14 +6637,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT VIKRAMGHAD TQ DIST PALGHAR",
     "CONTACT": "02520240376",
-    "DATE": "2016-07-25",
     "MICR": "400570510",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "VIKRAMGHAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005630": {
     "IFSC": "MAHG0005630",
@@ -6653,14 +6654,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT KHADAKPADA CHOWK KALYAN W TQ DIST THANE",
     "CONTACT": "02512230284",
-    "DATE": "2016-07-25",
     "MICR": "400014258",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "KHADAKPADA CHOWK KALYAN W",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005631": {
     "IFSC": "MAHG0005631",
@@ -6670,14 +6671,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT PALGHAR TQ DIST PALGHAR",
     "CONTACT": "02525250422",
-    "DATE": "2016-07-25",
     "MICR": "400014260",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "PALGHAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005632": {
     "IFSC": "MAHG0005632",
@@ -6687,14 +6688,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT GHANSOLI TQ DIST THANE",
     "CONTACT": "02227606580",
-    "DATE": "2016-07-25",
     "MICR": "400014259",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "GHANSOLI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005633": {
     "IFSC": "MAHG0005633",
@@ -6704,14 +6705,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT GHODBUNDER ROAD THANE TQ DIST THANE",
     "CONTACT": "02225971447",
-    "DATE": "2016-07-19",
     "MICR": "400014261",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "GHODBUNDER ROAD THANE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005634": {
     "IFSC": "MAHG0005634",
@@ -6721,14 +6722,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT DAHANU TQ DIST PALGHAR",
     "CONTACT": "02528224411",
-    "DATE": "2016-07-25",
     "MICR": "401570501",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "DAHANU",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005700": {
     "IFSC": "MAHG0005700",
@@ -6738,14 +6739,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MAHARASHTRA GRAMIN BANK REGIONAL OFFICE GAIKWAD CORNER FIRST FLOOR SUCHITA NAGAR NEAR INDIRA NAGAR JOGING TRACK MUMBAI AGRA HIGHWAY NASIK 422009",
     "CONTACT": "00",
-    "DATE": "2020-11-06",
     "BANK": "Maharashtra Gramin Bank",
     "UPI": false,
     "RTGS": true,
     "CITY": "NASIK",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005701": {
     "IFSC": "MAHG0005701",
@@ -6755,14 +6756,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT NASIK TQ DIST NASIK",
     "CONTACT": "02532472050",
-    "DATE": "2016-07-19",
     "MICR": "422570002",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "NASIK",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005702": {
     "IFSC": "MAHG0005702",
@@ -6772,14 +6773,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT DINDORI TQ DIST NASIK",
     "CONTACT": "02557221919",
-    "DATE": "2016-07-25",
     "MICR": "422570502",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "DINDORI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005703": {
     "IFSC": "MAHG0005703",
@@ -6789,14 +6790,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT NANDGAON TQ DIST NASIK",
     "CONTACT": "02552242041",
-    "DATE": "2016-07-25",
     "MICR": "422570501",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "NANDGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005704": {
     "IFSC": "MAHG0005704",
@@ -6806,14 +6807,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SINNAR TQ DIST NASIK",
     "CONTACT": "02551220010",
-    "DATE": "2016-07-25",
     "MICR": "422570003",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SINNAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005705": {
     "IFSC": "MAHG0005705",
@@ -6823,14 +6824,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT YEOLA TQ DIST NASIK",
     "CONTACT": "02559266621",
-    "DATE": "2016-07-25",
     "MICR": "423570352",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "YEOLA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005706": {
     "IFSC": "MAHG0005706",
@@ -6840,14 +6841,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SATANA TQ DIST NASIK",
     "CONTACT": "02555223700",
-    "DATE": "2016-07-25",
     "MICR": "423570151",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SATANA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005707": {
     "IFSC": "MAHG0005707",
@@ -6857,14 +6858,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SHINDE TQ DIST NASIK",
     "CONTACT": "02532802548",
-    "DATE": "2016-07-25",
     "MICR": "422570503",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHINDE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005708": {
     "IFSC": "MAHG0005708",
@@ -6874,14 +6875,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PLOT NO 528 TRIMBAK ROAD 6TH MILE BELGAON DHAGA PO TRIMBAK VIDYA MANDIR TQ DIST NASIK",
     "CONTACT": "02225344059",
-    "DATE": "42576",
     "MICR": "422570504",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "BELGAON DHAGA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005709": {
     "IFSC": "MAHG0005709",
@@ -6891,14 +6892,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PLOT NO 7 SAI DARSHAN COMPLEX OZAR SAIKHEDA ROAD TQ NIPHAD DIST NASIK",
     "CONTACT": "02225435154",
-    "DATE": "42576",
     "MICR": "422570505",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "OZAR MIG",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005710": {
     "IFSC": "MAHG0005710",
@@ -6908,14 +6909,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GUT NO 295 4 PLOT NO 5 SHREE GANESH SANKUL NASIK AURANGABAD HIGHWAY AT MADSANGVI TQ DIST NASIK",
     "CONTACT": "02225344059",
-    "DATE": "42576",
     "MICR": "422570506",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MADSANGVI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005711": {
     "IFSC": "MAHG0005711",
@@ -6925,14 +6926,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PINGLE PLAZA YESH CYBER CAFE BESIDE IRREGATION COLONY MAKHAMALABAD MHASRUL LINK ROAD MAKHAMALABAD 422003",
     "CONTACT": "919096305273",
-    "DATE": "2017-08-21",
     "MICR": "422570005",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "NASIK",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005712": {
     "IFSC": "MAHG0005712",
@@ -6942,14 +6943,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SAIJYOT CO OP HOUSING SOCIETY SURVEY NO 1018 2 PLOT NO 1 ABHIYANTA NAGAR CIDCO NASIK 422009",
     "CONTACT": "919545692169",
-    "DATE": "2017-08-21",
     "MICR": "422570004",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "NASIK",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005713": {
     "IFSC": "MAHG0005713",
@@ -6959,14 +6960,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MAHARASHTRA GRAMIN BANK BHAGUR BRANCH SURVEY NO 457 BAGDE NIWAS OLD NAGAR PARISHAD ROAD AT BHAGUR TALUKA DIST NASIK 422502",
     "CONTACT": "02225344059",
-    "DATE": "43038",
     "MICR": "422570507",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "BHAGUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005714": {
     "IFSC": "MAHG0005714",
@@ -6976,14 +6977,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MAHARASHTRA GRAMIN BANK EKLEHERE BRANCH SHOP NO 4 5 OM RESIDENCY SAIKHEDA ROAD JAIL ROAD NASIK ROAD EKLEHERE TALUKA DIST NASIK 422101",
     "CONTACT": "02225344059",
-    "DATE": "43038",
     "MICR": "422570509",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "EKLEHERE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005715": {
     "IFSC": "MAHG0005715",
@@ -6993,14 +6994,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MAHARASHTRA GRAMIN BANK, CHANDSI BRANCH, SHOP NO. 3,4,5 & 6 AARADDHYA PRESIDENCY AT & PO. CHANDSI TALUKA AND DISTRICT NASIK 422003",
     "CONTACT": "02402476139",
-    "DATE": "2018-03-31",
     "MICR": "422570508",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "NASIK",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005801": {
     "IFSC": "MAHG0005801",
@@ -7010,14 +7011,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT DEOPUR DHULE TQ DIST DHULE",
     "CONTACT": "02562222699",
-    "DATE": "2016-07-19",
     "MICR": "424570002",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "DEOPUR DHULE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005802": {
     "IFSC": "MAHG0005802",
@@ -7027,14 +7028,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT VARUL TQ DIST DHULE",
     "CONTACT": "02563271211",
-    "DATE": "2016-07-25",
     "MICR": "425570504",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "VARUL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005803": {
     "IFSC": "MAHG0005803",
@@ -7044,14 +7045,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SAKARI TQ DIST DHULE",
     "CONTACT": "02225344059",
-    "DATE": "2016-07-25",
     "MICR": "424570504",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SAKARI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005804": {
     "IFSC": "MAHG0005804",
@@ -7061,14 +7062,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MAHARASHTRA GRAMIN BANK, PAROLA ROAD DHULE BRANCH, B SQUARE LATE R R AABA PATIL COMMERTIAL COMPLEX, PAROLA ROAD DHULE TALUKA AND DISTRICT DHULE",
     "CONTACT": "02402476139",
-    "DATE": "2018-03-31",
     "MICR": "424570003",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "DHULE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005901": {
     "IFSC": "MAHG0005901",
@@ -7078,14 +7079,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT CHENDHARE ALIBAG TQ DIST RAIGAD",
     "CONTACT": "02141282162",
-    "DATE": "2016-07-25",
     "MICR": "402570501",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHENDHARE ALIBAG",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005902": {
     "IFSC": "MAHG0005902",
@@ -7095,14 +7096,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT DAHIVALI TQ DIST RAIGAD",
     "CONTACT": "02148222448",
-    "DATE": "2016-07-25",
     "MICR": "400014268",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "DAHIVALI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0005903": {
     "IFSC": "MAHG0005903",
@@ -7112,14 +7113,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SUKAPUR TQ DIST RAIGAD",
     "CONTACT": "02143232032",
-    "DATE": "2016-07-25",
     "MICR": "400014269",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SUKAPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0006000": {
     "IFSC": "MAHG0006000",
@@ -7129,14 +7130,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT NANDURBAR TQ DIST NANDURBAR",
     "CONTACT": "02562220100",
-    "DATE": "2016-07-25",
     "MICR": "425570202",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "NANDURBAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0006001": {
     "IFSC": "MAHG0006001",
@@ -7146,14 +7147,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT SHANIMANDAL TQ DIST NANDURBAR",
     "CONTACT": "02564251333",
-    "DATE": "2016-07-25",
     "MICR": "425570507",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHANIMANDAL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0006002": {
     "IFSC": "MAHG0006002",
@@ -7163,14 +7164,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT MOD TQ DIST NANDURBAR",
     "CONTACT": "02567236281",
-    "DATE": "2016-07-25",
     "MICR": "425570508",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MOD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0006003": {
     "IFSC": "MAHG0006003",
@@ -7180,14 +7181,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT VADALI TQ DIST NANDURBAR",
     "CONTACT": "02565255414",
-    "DATE": "2016-07-25",
     "MICR": "425570506",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "VADALI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0006004": {
     "IFSC": "MAHG0006004",
@@ -7197,14 +7198,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT TALODA TQ DIST NANDURBAR",
     "CONTACT": "02567233202",
-    "DATE": "2016-07-25",
     "MICR": "425570509",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "TALODA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "MAHG0099922": {
     "IFSC": "MAHG0099922",
@@ -7214,13 +7215,13 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AT JEEVANSHREE PLOT NO 35 SECTOR G TOWN CENTRE CIDCO AURANGABAD MAHARASHTRA 431005",
     "CONTACT": "02402476139",
-    "DATE": "2016-10-18",
     "BANK": "MAHARASHTRA GRAMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "AURANGABAD",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

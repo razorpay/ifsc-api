@@ -13,7 +13,8 @@
     "UPI": true,
     "MICR": "NA",
     "NEFT": true,
-    "RTGS": false
+    "RTGS": false,
+    "SWIFT": null
   },
   "DEUT0273PBC": {
     "IFSC": "DEUT0273PBC",
@@ -23,14 +24,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "221-B / 1B, E WARD, TARABAI PARK,, KOLHAPUR - 416003",
     "CONTACT": null,
-    "DATE": "19/04/2010",
     "MICR": "416200002",
     "BANK": "DEUTSCHE BANK LTD",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLHAPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEUT0274PBC": {
     "IFSC": "DEUT0274PBC",
@@ -40,14 +41,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "A-2, GROUND FLOOR, AURANGABAD BUSINESS CENTRE, DR.RAJENDRA PRASAD MARG, ADALAT ROAD, AURANGABAD - 431005",
     "CONTACT": null,
-    "DATE": "19/04/2010",
     "MICR": "431200003",
     "BANK": "DEUTSCHE BANK LTD",
     "UPI": true,
     "RTGS": true,
     "CITY": "AURANGABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEUT0278PBC": {
     "IFSC": "DEUT0278PBC",
@@ -57,14 +58,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "F4 & F5, SECTOR 18, NOIDA - 201301",
     "CONTACT": null,
-    "DATE": "19/04/2010",
     "MICR": "110200003",
     "BANK": "DEUTSCHE BANK LTD",
     "UPI": true,
     "RTGS": true,
     "CITY": "NOIDA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEUT0279PBC": {
     "IFSC": "DEUT0279PBC",
@@ -74,14 +75,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "DLF-INFINITY, TOWER A, GROUND FLOOR, SECTOR 25A, DLF PHASE II, DLF CITY, GURGAON - 122002",
     "CONTACT": null,
-    "DATE": "19/04/2010",
     "MICR": "110200004",
     "BANK": "DEUTSCHE BANK LTD",
     "UPI": true,
     "RTGS": true,
     "CITY": "GURGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEUT0401PBC": {
     "IFSC": "DEUT0401PBC",
@@ -91,14 +92,14 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "RJ PLAZA, NO.5, KATPADI MAIN ROAD,VILLAGE VIRUTHAMPET, VELLORE - 632 006",
     "CONTACT": null,
-    "DATE": "19/04/2010",
     "MICR": "632200002",
     "BANK": "DEUTSCHE BANK LTD",
     "UPI": true,
     "RTGS": true,
     "CITY": "VELLORE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEUT0402PBC": {
     "IFSC": "DEUT0402PBC",
@@ -108,14 +109,14 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "PLOT NO.9 & 10, VENKATATHRI NILAYAM, YERCAUD, ROAD, KARAN KURCHI POST, SALEM - 636 008",
     "CONTACT": null,
-    "DATE": "19/04/2010",
     "MICR": "636200002",
     "BANK": "DEUTSCHE BANK LTD",
     "UPI": true,
     "RTGS": true,
     "CITY": "SALEM",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEUT0403PBC": {
     "IFSC": "DEUT0403PBC",
@@ -125,14 +126,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "8TH KM. STONE, DELHI ROAD,, OPP. NAYA MORADABAD, MANGUPURA, MORADABAD - 244001",
     "CONTACT": null,
-    "DATE": "19/04/2010",
     "MICR": "244200002",
     "BANK": "DEUTSCHE BANK LTD",
     "UPI": true,
     "RTGS": true,
     "CITY": "MORADABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEUT0404PBC": {
     "IFSC": "DEUT0404PBC",
@@ -142,14 +143,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "SCO 9-10,GREEN PARK AVENUE,, CANAL COLONY, PAKHOWAL ROAD, LUDHIANA - 141002",
     "CONTACT": null,
-    "DATE": "19/04/2010",
     "MICR": "141200002",
     "BANK": "DEUTSCHE BANK LTD",
     "UPI": true,
     "RTGS": true,
     "CITY": "LUDHIANA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEUT0405PBC": {
     "BANK": "DEUSTCHE BANK",
@@ -165,7 +166,8 @@
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEUT0406AMD": {
     "BANK": "DEUSTCHE BANK",
@@ -181,7 +183,8 @@
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEUT0406PBC": {
     "IFSC": "DEUT0406PBC",
@@ -191,14 +194,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "637, OPP. CII HOUSE, NEAR PANCHVATI CROSS ROAD, OFF CG ROAD, GULBAI TEKRA, AHMEDABAD - 380006",
     "CONTACT": null,
-    "DATE": "06/07/2012",
     "MICR": "380200002",
     "BANK": "DEUTSCHE BANK LTD",
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEUT0537PUN": {
     "IFSC": "DEUT0537PUN",
@@ -208,14 +211,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SUPREM,”CTS NO. 1337/2, S.NO. 133/1 +2 & 134 / 2, MAIN ITI ROAD, AUNDH, PUNE -411007",
     "CONTACT": null,
-    "DATE": "03/10/2008",
     "MICR": "411200002",
     "BANK": "DEUTSCHE BANK LTD",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEUT0784BBY": {
     "IFSC": "DEUT0784BBY",
@@ -225,14 +228,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "DEUTSCHE BANK HOUSE,GROUND FLOOR,HAZARIMAL SOMANI MARG, FORT, MUMBAI -400001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "400200002",
     "BANK": "DEUTSCHE BANK LTD",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEUT0784DCO": {
     "IFSC": "DEUT0784DCO",
@@ -242,14 +245,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "222, Kodak House, Dr. D.N. Road, Fort, Mumbai - 400 001.",
     "CONTACT": null,
-    "DATE": null,
     "BANK": "DEUTSCHE BANK LTD",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400200002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEUT0784DSO": {
     "BANK": "DEUSTCHE BANK",
@@ -265,7 +268,8 @@
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEUT0784MMT": {
     "BANK": "DEUSTCHE BANK",
@@ -281,7 +285,8 @@
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEUT0784OPT": {
     "BANK": "DEUSTCHE BANK",
@@ -297,7 +302,8 @@
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEUT0784OTC": {
     "BANK": "DEUSTCHE BANK",
@@ -313,7 +319,8 @@
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEUT0784PBC": {
     "IFSC": "DEUT0784PBC",
@@ -323,14 +330,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "110 SIDRAH, S V ROAD, KHAR ( WEST ), MUMBAI - 400052",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "400200003",
     "BANK": "DEUTSCHE BANK LTD",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEUT0784TRS": {
     "IFSC": "DEUT0784TRS",
@@ -340,14 +347,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "222, Kodak House, Dr. D.N. Road, Fort, Mumbai - 400 001.",
     "CONTACT": null,
-    "DATE": null,
     "BANK": "DEUTSCHE BANK LTD",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400200002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEUT0784TRY": {
     "IFSC": "DEUT0784TRY",
@@ -357,14 +364,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "222, Kodak House, Dr. D.N. Road, Fort, Mumbai - 400 001.",
     "CONTACT": null,
-    "DATE": null,
     "BANK": "DEUTSCHE BANK LTD",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": false,
     "IMPS": true,
-    "MICR": null
+    "MICR": null,
+    "SWIFT": null
   },
   "DEUT0796DEL": {
     "IFSC": "DEUT0796DEL",
@@ -374,14 +381,14 @@
     "STATE": "DELHI",
     "ADDRESS": "Tolstoy House, 15-17, Tolstoy Marg, New Delhi - 110 001.",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "110200002",
     "BANK": "DEUTSCHE BANK LTD",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEUT0796TRS": {
     "IFSC": "DEUT0796TRS",
@@ -391,14 +398,14 @@
     "STATE": "DELHI",
     "ADDRESS": "Global Transaction Banking Trade Finance Dept., 4th floor, DLF Square, Jacaranda Marg, Gurgaon",
     "CONTACT": null,
-    "DATE": "23/11/2005",
     "BANK": "DEUTSCHE BANK LTD",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "MICR": "110200002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEUT0797BGL": {
     "IFSC": "DEUT0797BGL",
@@ -408,14 +415,14 @@
     "STATE": "KARNATAKA",
     "ADDRESS": "Raheja Towers, 26-27, M G Road, Bangalore - 560 001",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "560200002",
     "BANK": "DEUTSCHE BANK LTD",
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEUT0797TRS": {
     "IFSC": "DEUT0797TRS",
@@ -425,14 +432,14 @@
     "STATE": "KARNATAKA",
     "ADDRESS": "Raheja Towers, 26-27, M G Road, Bangalore - 560 001",
     "CONTACT": null,
-    "DATE": "23/11/2005",
     "BANK": "DEUTSCHE BANK LTD",
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
     "MICR": "560200002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEUT0916CNN": {
     "IFSC": "DEUT0916CNN",
@@ -442,14 +449,14 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "No4-4A Western Towers, Sunny side, Shafi mohammed Raod, Thousand Lights, Chennai-600 006, India",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "600200002",
     "BANK": "DEUTSCHE BANK LTD",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEUT0916TRS": {
     "IFSC": "DEUT0916TRS",
@@ -459,14 +466,14 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "Kothari Building, Ground Floor, 114 M.G. Road, Chennai - 600 034.",
     "CONTACT": null,
-    "DATE": "23/11/2005",
     "BANK": "DEUTSCHE BANK LTD",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR": "600200002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEUT0917CAL": {
     "IFSC": "DEUT0917CAL",
@@ -476,14 +483,14 @@
     "STATE": "WEST BENGAL",
     "ADDRESS": "Brooke House, 9, Shakespeare Sarani, kolkata - 700 071.",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "700200002",
     "BANK": "DEUTSCHE BANK LTD",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEUT0917TRS": {
     "IFSC": "DEUT0917TRS",
@@ -493,13 +500,13 @@
     "STATE": "WEST BENGAL",
     "ADDRESS": "Brooke House, 9, Shakespeare Sarani, kolkata - 700 071.",
     "CONTACT": null,
-    "DATE": "23/11/2005",
     "BANK": "DEUTSCHE BANK LTD",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
     "MICR": "700200002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

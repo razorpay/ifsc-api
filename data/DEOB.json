@@ -11,10 +11,10 @@
     "IMPS": true,
     "CITY": "AURANGABAD",
     "UPI": false,
-    "DATE": "2016-06-23",
     "RTGS": true,
     "NEFT": false,
-    "MICR": null
+    "MICR": null,
+    "SWIFT": null
   },
   "DEOB0000002": {
     "IFSC": "DEOB0000002",
@@ -24,14 +24,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "A.M.C.COMPLEX BLDG,NEAR RANI LAXMIBAI UDYAN,KRANTI CHOWK,AURANGABAD",
     "CONTACT": "02402240212",
-    "DATE": "42544",
     "MICR": "431582002",
     "BANK": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "AURANGABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEOB0000003": {
     "IFSC": "DEOB0000003",
@@ -41,14 +41,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "CTS.NO.15855/2/9,NEAR VEDANT GRUHKUL,NEW SHREYANAGAR,AURANGABAD",
     "CONTACT": "02402240212",
-    "DATE": "42544",
     "MICR": "431582003",
     "BANK": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "AURANGABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEOB0000004": {
     "IFSC": "DEOB0000004",
@@ -58,14 +58,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "N-7 SHOPPING COMPLEX,OPP.WOKHARDT COMPANY,CIDCO,AURANGABAD",
     "CONTACT": "02402240212",
-    "DATE": "42544",
     "MICR": "431582004",
     "BANK": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "AURANGABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEOB0000005": {
     "IFSC": "DEOB0000005",
@@ -75,14 +75,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PLOT NO.8,S.NO.14,PANDHARPUR POST.VALADGAON TQ.GANGAPUR DIST.AURANGABAD",
     "CONTACT": "02402240212",
-    "DATE": "42544",
     "MICR": "431582005",
     "BANK": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "AURANGABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEOB0000006": {
     "IFSC": "DEOB0000006",
@@ -92,14 +92,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "DESH VIDESH MARKET,RAILWAY STATION ROAD,AURANGABAD",
     "CONTACT": "02402240212",
-    "DATE": "42544",
     "MICR": "431582006",
     "BANK": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "AURANGABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEOB0000007": {
     "IFSC": "DEOB0000007",
@@ -109,14 +109,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PLOT NO.10 MAYANAGAR,N-2,CIDCO,AURANGABAD",
     "CONTACT": "02402240212",
-    "DATE": "42544",
     "MICR": "431582007",
     "BANK": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "AURANGABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEOB0000008": {
     "IFSC": "DEOB0000008",
@@ -126,14 +126,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "BALKRISHNA MAHARAJ MANDIR BLDG.NEAR Z.P.OFFICE,AURANGPURA,AURANGABAD",
     "CONTACT": "02402240212",
-    "DATE": "42544",
     "MICR": "431582008",
     "BANK": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "AURANGABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEOB0000009": {
     "IFSC": "DEOB0000009",
@@ -143,14 +143,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PLOT NO.2,S.NO.12/1,WARD NO.2,JADHAVWADI,JALGAON-ROAD,AURANGABAD",
     "CONTACT": "02402240212",
-    "DATE": "42544",
     "MICR": "431582009",
     "BANK": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "AURANGABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEOB0000010": {
     "IFSC": "DEOB0000010",
@@ -160,14 +160,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MAIN ROAD,LASUR STATION TQ.GANGAPUR DIST.AURANGABAD",
     "CONTACT": "2402240212",
-    "DATE": "2016-06-23",
     "MICR": "431582503",
     "BANK": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "LASUR STATION",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEOB0000011": {
     "IFSC": "DEOB0000011",
@@ -177,14 +177,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "BLOCK NO.3,SHOW ROOM NO.4,ARJUN KHOTKAR BUSINESS CENTER,OLD MONDHA,JALNA",
     "CONTACT": "2402240212",
-    "DATE": "2016-06-23",
     "MICR": "431582052",
     "BANK": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "JALNA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEOB0000012": {
     "IFSC": "DEOB0000012",
@@ -194,14 +194,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "DISHA SQUARE,OPP.SUT GIRNI,GARKHEDA PARISAR,AURANGABAD",
     "CONTACT": "2402240212",
-    "DATE": "2016-06-23",
     "MICR": "431582010",
     "BANK": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "AURANGABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEOB0000013": {
     "IFSC": "DEOB0000013",
@@ -211,14 +211,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MAYUR PARK AREA,JALGAON-ROAD,AURANGABAD",
     "CONTACT": "2402240212",
-    "DATE": "2016-06-23",
     "MICR": "431582012",
     "BANK": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "AURANGABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEOB0000014": {
     "IFSC": "DEOB0000014",
@@ -228,14 +228,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "NUTAN ROAD,SELU DIST.PARBHANI",
     "CONTACT": "2402240212",
-    "DATE": "2016-06-23",
     "MICR": "431582502",
     "BANK": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SELU",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEOB0000015": {
     "IFSC": "DEOB0000015",
@@ -245,14 +245,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PATIL PLAZA,NEAR MHASKE PETROL PUMP,BEED-BY PASS ROAD,AURANGABAD",
     "CONTACT": "2402240212",
-    "DATE": "2016-06-23",
     "MICR": "431582011",
     "BANK": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "AURANGABAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEOB0000016": {
     "IFSC": "DEOB0000016",
@@ -262,14 +262,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.8,9,10,RAUNAK CENTER,PIPE LINE ROAD,BHISTABHAG CHOWK,SAVEDI,AHMEDNAGAR",
     "CONTACT": "2402240212",
-    "DATE": "2016-06-23",
     "MICR": "414582002",
     "BANK": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "AHMEDNAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEOB0000017": {
     "IFSC": "DEOB0000017",
@@ -279,14 +279,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "52,NAVI PETH,JALGAON DIST.JALGAON",
     "CONTACT": "2402240212",
-    "DATE": "2016-06-23",
     "MICR": "425582002",
     "BANK": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "JALGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEOB0000018": {
     "IFSC": "DEOB0000018",
@@ -296,14 +296,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "S.NO.225/5,GADITAL,PUNE-SOLAPUR HIGHWAY,HADAPSAR,PUNE",
     "CONTACT": "2402240212",
-    "DATE": "2016-06-23",
     "MICR": "411582002",
     "BANK": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEOB0000019": {
     "IFSC": "DEOB0000019",
@@ -313,14 +313,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.13,14,15,16 PART,DAMODHAR VILLA,KOTHRUD,PUNE",
     "CONTACT": "2402240212",
-    "DATE": "2016-06-23",
     "MICR": "411582003",
     "BANK": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEOB0000020": {
     "IFSC": "DEOB0000020",
@@ -330,14 +330,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "DINDAYALNAGAR,POST.HUSSAINPUR TQ.DIST.AURANGABAD",
     "CONTACT": "02402240212",
-    "DATE": "42544",
     "MICR": "431582013",
     "BANK": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "HUSSAINPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEOB0000021": {
     "IFSC": "DEOB0000021",
@@ -347,14 +347,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "OPP.POLICE STATION,JALNA-ROAD,KARMAD TQ.DIST.AURANGABAD",
     "CONTACT": "02402240212",
-    "DATE": "42544",
     "MICR": "431582014",
     "BANK": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "KARMAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEOB0000022": {
     "IFSC": "DEOB0000022",
@@ -364,14 +364,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PLOT NO.40,SNEHNAGAR,CHALISGAON-ROAD,KANNAD TQ.KANNAD DIST.AURANGABAD",
     "CONTACT": "02402240212",
-    "DATE": "42544",
     "MICR": "431582501",
     "BANK": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "KANNAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEOB0000023": {
     "IFSC": "DEOB0000023",
@@ -381,14 +381,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHOP NO.7,MANSINGHKA COMPLEX,DR.AMBEDKAR-ROAD,PACHORA DIST.JALGAON",
     "CONTACT": "2402240212",
-    "DATE": "2016-06-23",
     "MICR": "424582102",
     "BANK": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "PACHORA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEOB0000024": {
     "IFSC": "DEOB0000024",
@@ -398,14 +398,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "H56C565043ULCELGBVLE",
     "CONTACT": "2402240212",
-    "DATE": "2016-06-23",
     "MICR": "400582002",
     "BANK": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "DOMBIVLI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEOB0000025": {
     "IFSC": "DEOB0000025",
@@ -415,14 +415,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "HL.55JH-DHLBD.BD.",
     "CONTACT": "02402240212",
-    "DATE": "42544",
     "MICR": "431582015",
     "BANK": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "PHULAMBRI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEOB0000026": {
     "IFSC": "DEOB0000026",
@@ -432,14 +432,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PLOT NO.1,GUT NO.8,SAVTANAGAR,NEAR NILAGGAON PHATA,BIDKIN TQ.PAITHAN DIST.AURANGABAD",
     "CONTACT": "02402240212",
-    "DATE": "42544",
     "MICR": "431582016",
     "BANK": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "BIDKIN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEOB0000027": {
     "IFSC": "DEOB0000027",
@@ -449,14 +449,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "S.NO.2,AURANGABAD-SOLAPUR HIGHWAY,SHAHAGAD TQ.AMBAD DIST.JALNA",
     "CONTACT": "02402240212",
-    "DATE": "42544",
     "MICR": "431582505",
     "BANK": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHAHAGAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEOB0000028": {
     "IFSC": "DEOB0000028",
@@ -466,14 +466,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PLOT NO.3,MALMATTA NO.3134,PRIYADARSHANI CHOWK,BHOKARDAN-ROAD,SILLOD DIST.AURANGABAD",
     "CONTACT": "02402240212",
-    "DATE": "42544",
     "MICR": "431582504",
     "BANK": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SILLOD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEOB0000029": {
     "IFSC": "DEOB0000029",
@@ -483,14 +483,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MILKAT NO.240/8,WARD NO.10,AURANGABAD-ROAD,LASUR NAKA,GANGAPUR DIST.AURANGABAD",
     "CONTACT": "02402240212",
-    "DATE": "42544",
     "MICR": "431582506",
     "BANK": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "GANGAPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEOB0000030": {
     "IFSC": "DEOB0000030",
@@ -500,14 +500,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "OPP.COURT,PAITHAN ROAD,PAITHAN DIST.AURANGABAD",
     "CONTACT": "02402240212",
-    "DATE": "42544",
     "MICR": "431582507",
     "BANK": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "PAITHAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEOB0000031": {
     "IFSC": "DEOB0000031",
@@ -517,14 +517,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "CTS.NO.3831/A,NEAR BANK OF BARODA,STATION-ROAD,CHALISGAON DIST.JALGAON",
     "CONTACT": "02402240212",
-    "DATE": "42544",
     "MICR": "424582202",
     "BANK": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHALISGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "DEOB0000032": {
     "IFSC": "DEOB0000032",
@@ -534,13 +534,13 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PLOT NO.6-B,7-B,8-B,CTS NO.1799 WARD NO.7,BUS-STAND ROAD,CHIKHLI DIST.BULDHANA",
     "CONTACT": "02402240212",
-    "DATE": "42544",
     "MICR": "443582102",
     "BANK": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHIKHLI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

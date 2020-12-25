@@ -11,10 +11,10 @@
     "IMPS": true,
     "CITY": "NOIDA",
     "UPI": true,
-    "DATE": "42877",
     "RTGS": true,
     "MICR": "NA",
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "PYTM00000SC": {
     "IFSC": "PYTM00000SC",
@@ -24,14 +24,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "B-121, SECTOR-5",
     "CONTACT": "01133996699",
-    "DATE": "2017-05-22",
     "BANK": "PAYTM PAYMENTS BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NOIDA",
     "NEFT": false,
     "IMPS": true,
-    "MICR": null
+    "MICR": null,
+    "SWIFT": null
   },
   "PYTM0123456": {
     "IFSC": "PYTM0123456",
@@ -41,13 +41,13 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "B-121, Sector-5,Noida-201301",
     "CONTACT": "01133996699",
-    "DATE": "42926",
     "BANK": "PAYTM PAYMENTS BANK LIMITED",
     "UPI": true,
     "RTGS": true,
     "CITY": "NOIDA",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

@@ -11,10 +11,10 @@
     "IMPS": true,
     "CITY": "NEW DELHI",
     "UPI": false,
-    "DATE": null,
     "MICR": "110040002",
     "RTGS": true,
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "SMBC0000002": {
     "IFSC": "SMBC0000002",
@@ -24,14 +24,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "UNIT 601, 6TH FLOOR, PLATINA BUILDING, PLOT NO C-59, BANDRA KURLA COMPLEX, BANDRA EAST, MUMBAI - 400051",
     "CONTACT": "02262295000",
-    "DATE": "43371",
     "MICR": "400040002",
     "BANK": "SUMITOMO MITSUI BANKING CORPORATION",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SMBC0000003": {
     "IFSC": "SMBC0000003",
@@ -41,13 +41,13 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "10TH FLOOR, CHAITANYA IMPERIAL TOWER, PLOT NO.610, BLOCK A, ANNA SALAI, TEYNAMPET, CHENNAI- 600018",
     "CONTACT": "04461449999",
-    "DATE": "2020-10-22",
     "MICR": "600040002",
     "BANK": "SUMITOMO MITSUI BANKING CORPORATION",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHENNAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

@@ -11,10 +11,10 @@
     "IMPS": true,
     "CITY": "GHAZIABAD",
     "UPI": false,
-    "DATE": "23/08/2013",
     "MICR": "110094286",
     "RTGS": true,
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "ZSBL0000011": {
     "IFSC": "ZSBL0000011",
@@ -24,14 +24,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "PAKKA BAGH HAPUR GZB",
     "CONTACT": "01222335980",
-    "DATE": "16/12/2013",
     "BANK": "ZILA SAHAKARI BANK LTD GHAZIABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "HAPUR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "ZSBL0000021": {
     "IFSC": "ZSBL0000021",
@@ -41,14 +41,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "79, WRIGHTGANJ (GHANTAGHAR) GZB",
     "CONTACT": "01202851608",
-    "DATE": "16/12/2013",
     "BANK": "ZILA SAHAKARI BANK LTD GHAZIABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "GHAZIABAD",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "ZSBL0000031": {
     "IFSC": "ZSBL0000031",
@@ -58,14 +58,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "G.T. ROAD MODINAGAR",
     "CONTACT": "01232243013",
-    "DATE": "16/12/2013",
     "BANK": "ZILA SAHAKARI BANK LTD GHAZIABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "MODINAGAR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "ZSBL0000041": {
     "IFSC": "ZSBL0000041",
@@ -75,14 +75,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "HAPUR GARH ROAD BUXAR SIMBHOLI",
     "CONTACT": "05731223046",
-    "DATE": "16/12/2013",
     "BANK": "ZILA SAHAKARI BANK LTD GHAZIABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SIMBHAOLI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "ZSBL0000051": {
     "IFSC": "ZSBL0000051",
@@ -92,14 +92,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "CHANDI ROAD PILKHUWA GZB",
     "CONTACT": "01222322242",
-    "DATE": "16/12/2013",
     "BANK": "ZILA SAHAKARI BANK LTD GHAZIABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "PILKHUWA",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "ZSBL0000061": {
     "IFSC": "ZSBL0000061",
@@ -109,14 +109,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "G.T ROAD DADRI  NEAR BUS STAND GBN",
     "CONTACT": "01202662643",
-    "DATE": "16/12/2013",
     "BANK": "ZILA SAHAKARI BANK LTD GHAZIABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "DADRI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "ZSBL0000071": {
     "IFSC": "ZSBL0000071",
@@ -126,14 +126,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "OPPOSITE BUS STAND GARH GZB",
     "CONTACT": "05731221133",
-    "DATE": "16/12/2013",
     "BANK": "ZILA SAHAKARI BANK LTD GHAZIABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "GARH MUKTESHWAR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "ZSBL0000081": {
     "IFSC": "ZSBL0000081",
@@ -143,14 +143,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "4/54, RAJENDRA NAGAR, SAHIBABAD",
     "CONTACT": "01202630432",
-    "DATE": "16/12/2013",
     "BANK": "ZILA SAHAKARI BANK LTD GHAZIABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SAHIBABAD",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "ZSBL0000091": {
     "IFSC": "ZSBL0000091",
@@ -160,14 +160,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "KASBA ROAD MURAD NAGAR",
     "CONTACT": "01232261101",
-    "DATE": "16/12/2013",
     "BANK": "ZILA SAHAKARI BANK LTD GHAZIABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "MURADNAGAR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "ZSBL00000SC": {
     "IFSC": "ZSBL00000SC",
@@ -177,14 +177,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "RDC A-20 RAJNAGAR GZB",
     "CONTACT": "01202824884",
-    "DATE": "21/01/2014",
     "BANK": "ZILA SAHAKARI BANK LTD GHAZIABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "GHAZIABAD",
     "NEFT": false,
     "IMPS": true,
-    "MICR": null
+    "MICR": null,
+    "SWIFT": null
   },
   "ZSBL0000101": {
     "IFSC": "ZSBL0000101",
@@ -194,14 +194,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "CHMBRS OF COMRS, CHANDI ROD HPR",
     "CONTACT": "01222335286",
-    "DATE": "16/12/2013",
     "BANK": "ZILA SAHAKARI BANK LTD GHAZIABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "HAPUR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "ZSBL0000111": {
     "IFSC": "ZSBL0000111",
@@ -211,14 +211,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "NAVEEN MANDI HAPUR",
     "CONTACT": "01222334483",
-    "DATE": "16/12/2013",
     "BANK": "ZILA SAHAKARI BANK LTD GHAZIABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "HAPUR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "ZSBL0000121": {
     "IFSC": "ZSBL0000121",
@@ -228,14 +228,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "RDC A-20 RAJNAGAR GZB",
     "CONTACT": "01222704884",
-    "DATE": "16/12/2013",
     "BANK": "ZILA SAHAKARI BANK LTD GHAZIABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "GHAZIABAD",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "ZSBL0000131": {
     "IFSC": "ZSBL0000131",
@@ -245,14 +245,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "A-53, RAMPURI SURYA NAGAR GHAZIABAD",
     "CONTACT": "01202640463",
-    "DATE": "16/12/2013",
     "BANK": "ZILA SAHAKARI BANK LTD GHAZIABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "GHAZIABAD",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "ZSBL0000141": {
     "IFSC": "ZSBL0000141",
@@ -262,14 +262,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "CITY BOARD HAPUR",
     "CONTACT": "01222310479",
-    "DATE": "16/12/2013",
     "BANK": "ZILA SAHAKARI BANK LTD GHAZIABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "HAPUR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "ZSBL0000151": {
     "IFSC": "ZSBL0000151",
@@ -279,14 +279,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "HAPUR GARH ROAD, KUCHESHAR ROAD CHAUPLA",
     "CONTACT": "01222342032",
-    "DATE": "16/12/2013",
     "BANK": "ZILA SAHAKARI BANK LTD GHAZIABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHOPLA",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "ZSBL0000161": {
     "IFSC": "ZSBL0000161",
@@ -296,14 +296,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "VILL. DHAULANA",
     "CONTACT": "01202376512",
-    "DATE": "16/12/2013",
     "BANK": "ZILA SAHAKARI BANK LTD GHAZIABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "DHAULANA",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "ZSBL0000171": {
     "IFSC": "ZSBL0000171",
@@ -313,14 +313,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "VILL. AND PO. BAHADURGARH",
     "CONTACT": "05731225625",
-    "DATE": "16/12/2013",
     "BANK": "ZILA SAHAKARI BANK LTD GHAZIABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "BAHADURGARH",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "ZSBL0000181": {
     "IFSC": "ZSBL0000181",
@@ -330,14 +330,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "HAPUR GARH ROAD BABUGARH",
     "CONTACT": "01222338037",
-    "DATE": "16/12/2013",
     "BANK": "ZILA SAHAKARI BANK LTD GHAZIABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "BABUGARH",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "ZSBL0000191": {
     "IFSC": "ZSBL0000191",
@@ -347,14 +347,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "VILL. AND PO. MUDAFRA",
     "CONTACT": "01222345028",
-    "DATE": "16/12/2013",
     "BANK": "ZILA SAHAKARI BANK LTD GHAZIABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUJAFRA BAGADPUR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "ZSBL0000201": {
     "IFSC": "ZSBL0000201",
@@ -364,14 +364,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "G.T. ROAD CHHAPRAULA G.B.NAGAR",
     "CONTACT": "01202673250",
-    "DATE": "16/12/2013",
     "BANK": "ZILA SAHAKARI BANK LTD GHAZIABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "BISRAKH",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "ZSBL0000211": {
     "IFSC": "ZSBL0000211",
@@ -381,14 +381,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "A-31 SEC-26 GAUTAMBUDHA NAGAR GAUTAMNAGAR",
     "CONTACT": "01202455863",
-    "DATE": "16/12/2013",
     "MICR": "110094275",
     "BANK": "ZILA SAHAKARI BANK LTD GHAZIABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "NOIDA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "ZSBL0000221": {
     "IFSC": "ZSBL0000221",
@@ -398,14 +398,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "G.T. ROAD MODINAGAR",
     "CONTACT": "01232242821",
-    "DATE": "16/12/2013",
     "BANK": "ZILA SAHAKARI BANK LTD GHAZIABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "MODINAGAR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "ZSBL0000231": {
     "IFSC": "ZSBL0000231",
@@ -415,14 +415,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "MALIWARA GHAZIABAD",
     "CONTACT": "01202792928",
-    "DATE": "16/12/2013",
     "BANK": "ZILA SAHAKARI BANK LTD GHAZIABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SEHANI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "ZSBL0000241": {
     "IFSC": "ZSBL0000241",
@@ -432,14 +432,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "MAIN ROAD SURAJPIUR  GB NAGAR",
     "CONTACT": "01202560063",
-    "DATE": "16/12/2013",
     "BANK": "ZILA SAHAKARI BANK LTD GHAZIABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SURAJPUR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "ZSBL0000251": {
     "IFSC": "ZSBL0000251",
@@ -449,14 +449,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "Muradnagar Road Surana",
     "CONTACT": "9212540922",
-    "DATE": "16/12/2013",
     "BANK": "ZILA SAHAKARI BANK LTD GHAZIABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "RAVLI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "ZSBL0000261": {
     "IFSC": "ZSBL0000261",
@@ -466,14 +466,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "UPBHOKTA SAHKARI SANGH FRGNJ ROD HAPUR",
     "CONTACT": "01222305299",
-    "DATE": "16/12/2013",
     "BANK": "ZILA SAHAKARI BANK LTD GHAZIABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "HAPUR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "ZSBL0000271": {
     "IFSC": "ZSBL0000271",
@@ -483,14 +483,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "MEERUT ROAD GOVINDPURI",
     "CONTACT": "01232251013",
-    "DATE": "16/12/2013",
     "BANK": "ZILA SAHAKARI BANK LTD GHAZIABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "MODINAGAR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "ZSBL0000281": {
     "IFSC": "ZSBL0000281",
@@ -500,14 +500,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "E-3, SITY PUBLIC SCHOOL SEC 61 GAUTAMBUDHA NAGAR",
     "CONTACT": "01204264325",
-    "DATE": "16/12/2013",
     "BANK": "ZILA SAHAKARI BANK LTD GHAZIABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "NOIDA",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "ZSBL0000291": {
     "IFSC": "ZSBL0000291",
@@ -517,14 +517,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "RDC A-20 RAJNAGAR GZB",
     "CONTACT": "01222704884",
-    "DATE": "16/12/2013",
     "BANK": "ZILA SAHAKARI BANK LTD GHAZIABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "GHAZIABAD",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "ZSBL0000301": {
     "IFSC": "ZSBL0000301",
@@ -534,14 +534,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "BHOJPUR MODINAGAR",
     "CONTACT": "011232279771",
-    "DATE": "16/12/2013",
     "BANK": "ZILA SAHAKARI BANK LTD GHAZIABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "MODINAGAR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "ZSBL0000311": {
     "IFSC": "ZSBL0000311",
@@ -551,14 +551,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "B-1, SEC-12 PRATAP VIHAR VIJAYNAGAR",
     "CONTACT": "01202844362",
-    "DATE": "16/12/2013",
     "BANK": "ZILA SAHAKARI BANK LTD GHAZIABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "GHAZIABAD",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "ZSBL0000321": {
     "IFSC": "ZSBL0000321",
@@ -568,14 +568,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "KHODA COLONY KHODA",
     "CONTACT": "01206490707",
-    "DATE": "16/12/2013",
     "BANK": "ZILA SAHAKARI BANK LTD GHAZIABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "GHAZIABAD",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "ZSBL0000331": {
     "IFSC": "ZSBL0000331",
@@ -585,14 +585,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "vill.- Ravlikala, Murad nagar",
     "CONTACT": "9457701786",
-    "DATE": "16/12/2013",
     "BANK": "ZILA SAHAKARI BANK LTD GHAZIABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "RAVLI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "ZSBL0000341": {
     "IFSC": "ZSBL0000341",
@@ -602,13 +602,13 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "HANSH AUTO MOBILS LONI GHAZIABAD",
     "CONTACT": "01202600906",
-    "DATE": "16/12/2013",
     "BANK": "ZILA SAHAKARI BANK LTD GHAZIABAD",
     "UPI": false,
     "RTGS": true,
     "CITY": "LONI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

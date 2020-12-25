@@ -7,14 +7,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "414 EMPIRE COMPLEX, SENAPATI BAPAT MARG LOWER PAREL WEST MUMBAI 400013",
     "CONTACT": null,
-    "DATE": "41739",
     "BANK": "NATWEST MARKETS PLC",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": false,
     "IMPS": true,
-    "MICR": null
+    "MICR": null,
+    "SWIFT": null
   },
   "ABNA0100310": {
     "IFSC": "ABNA0100310",
@@ -24,14 +24,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "BRADY HOUSE,14 VEER NARIMAN ROAD,FORT, MUMBAI - 400023",
     "CONTACT": null,
-    "DATE": "41739",
     "MICR": "400030002",
     "BANK": "NATWEST MARKETS PLC",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "ABNA0101310": {
     "IFSC": "ABNA0101310",
@@ -41,14 +41,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SAKHAR BHAVAN, 8TH FLOOR, NARIMAN ROAD,MUMBAI 400 021",
     "CONTACT": null,
-    "DATE": "41739",
     "BANK": "NATWEST MARKETS PLC",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": false,
     "IMPS": true,
-    "MICR": null
+    "MICR": null,
+    "SWIFT": null
   },
   "ABNA0200001": {
     "IFSC": "ABNA0200001",
@@ -58,14 +58,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SAKHAR BHAVAN, NARIMAN POINT,MUMBAI - 400021.",
     "CONTACT": null,
-    "DATE": "41739",
     "MICR": "400030004",
     "BANK": "NATWEST MARKETS PLC",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "ABNA0NEFT02": {
     "IFSC": "ABNA0NEFT02",
@@ -75,13 +75,13 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "ABN AMRO BANK,414 EMPIRE COMPLEX,SENAPATI BAPAT MARG LOWER PAREL WEST MUMBAI 400013",
     "CONTACT": null,
-    "DATE": "41739",
     "BANK": "NATWEST MARKETS PLC",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": false,
     "IMPS": true,
-    "MICR": null
+    "MICR": null,
+    "SWIFT": null
   }
 }

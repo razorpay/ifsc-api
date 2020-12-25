@@ -7,14 +7,14 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "233,N.S.C BOSE ROAD CHENNAI 600001",
     "CONTACT": "04425340973",
-    "DATE": null,
     "MICR": "600091001",
     "BANK": "TAMIL NADU STATE APEX COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHENNAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TNSC0010000": {
     "BANK": "Coimbatore District Central Co-operative Bank",
@@ -28,10 +28,10 @@
     "IMPS": true,
     "CITY": "COIMBATORE",
     "UPI": false,
-    "DATE": null,
     "MICR": "641464002",
     "RTGS": true,
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "TNSC0010100": {
     "BANK": "Dharmapuri District Central Co-operative Bank",
@@ -45,10 +45,10 @@
     "IMPS": true,
     "CITY": "DHARMAPURI",
     "UPI": false,
-    "DATE": null,
     "MICR": "636800002",
     "RTGS": true,
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "TNSC0010200": {
     "BANK": "Kancheepuram Central Co-operative Bank",
@@ -62,10 +62,10 @@
     "IMPS": true,
     "CITY": "KANCHIPURAM",
     "UPI": false,
-    "DATE": "41962",
     "MICR": "600091276",
     "RTGS": true,
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "TNSC0010300": {
     "BANK": "Kanyakumari District Central Co-operative Bank",
@@ -79,10 +79,10 @@
     "IMPS": true,
     "CITY": "NAGERCOIL",
     "UPI": false,
-    "DATE": null,
     "MICR": "629800002",
     "RTGS": true,
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "TNSC0010400": {
     "BANK": "Kumbakonam Central Co-operative Bank",
@@ -96,10 +96,10 @@
     "IMPS": true,
     "CITY": "KUMBAKONAM",
     "UPI": false,
-    "DATE": null,
     "MICR": "612800002",
     "RTGS": true,
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "TNSC0010500": {
     "BANK": "Chennai Central Co-operative Bank",
@@ -113,10 +113,10 @@
     "IMPS": true,
     "CITY": "CHENNAI",
     "UPI": false,
-    "DATE": null,
     "MICR": "600092002",
     "RTGS": true,
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "TNSC0010600": {
     "BANK": "Madurai District Central Co-operative Bank",
@@ -130,10 +130,10 @@
     "IMPS": true,
     "CITY": "MADURAI",
     "UPI": false,
-    "DATE": null,
     "MICR": "625306002",
     "RTGS": true,
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "TNSC0010700": {
     "BANK": "Nilgiris District Central Co-operative Bank",
@@ -147,10 +147,10 @@
     "IMPS": true,
     "CITY": "UDHAGAMANDALAM",
     "UPI": false,
-    "DATE": null,
     "MICR": "643800002",
     "RTGS": true,
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "TNSC0010800": {
     "BANK": "Erode District Central Co-operative Bank",
@@ -164,10 +164,10 @@
     "IMPS": true,
     "CITY": "ERODE",
     "UPI": false,
-    "DATE": null,
     "MICR": "638572002",
     "RTGS": true,
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "TNSC0010900": {
     "BANK": "Pudukottai District Central Co-operative Bank",
@@ -181,10 +181,10 @@
     "IMPS": true,
     "CITY": "PUDUKKOTTAI",
     "UPI": false,
-    "DATE": null,
     "MICR": "622800002",
     "RTGS": true,
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "TNSC0011000": {
     "BANK": "Ramanathapuram District Central Co-operative Bank",
@@ -198,10 +198,10 @@
     "IMPS": true,
     "CITY": "RAMANATHAPURAM",
     "UPI": false,
-    "DATE": null,
     "MICR": "623800002",
     "RTGS": true,
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "TNSC0011100": {
     "BANK": "Salem District Central Co-operative Bank",
@@ -215,10 +215,10 @@
     "IMPS": true,
     "CITY": "SALEM",
     "UPI": false,
-    "DATE": null,
     "MICR": "636624002",
     "RTGS": true,
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "TNSC0011200": {
     "BANK": "Cuddalore District Central Co-operative Bank",
@@ -232,10 +232,10 @@
     "IMPS": true,
     "CITY": "CUDDALORE",
     "UPI": false,
-    "DATE": null,
     "MICR": "607816002",
     "RTGS": true,
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "TNSC0011300": {
     "BANK": "Thanjavur Central Co-operative Bank",
@@ -249,10 +249,10 @@
     "IMPS": true,
     "CITY": "THANJAVUR",
     "UPI": false,
-    "DATE": null,
     "MICR": "613800002",
     "RTGS": true,
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "TNSC0011400": {
     "BANK": "Tiruchirapalli Dist. Cent Co-operative Bank",
@@ -266,10 +266,10 @@
     "IMPS": true,
     "CITY": "TIRUCHIRAPALLI",
     "UPI": false,
-    "DATE": "41963",
     "MICR": "620547002",
     "RTGS": true,
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "TNSC0011500": {
     "BANK": "Tirunelveli District Central Co-operative Bank",
@@ -283,10 +283,10 @@
     "IMPS": true,
     "CITY": "TIRUNELVELI",
     "UPI": false,
-    "DATE": "41963",
     "MICR": "627803002",
     "RTGS": true,
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "TNSC0011600": {
     "BANK": "Vellore District Central Co-operative Bank",
@@ -300,10 +300,10 @@
     "IMPS": true,
     "CITY": "VELLORE",
     "UPI": false,
-    "DATE": null,
     "MICR": "632800002",
     "RTGS": true,
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "TNSC0011700": {
     "BANK": "Dindigul Central Co-operative Bank",
@@ -317,10 +317,10 @@
     "IMPS": true,
     "CITY": "DINDIGUL",
     "UPI": false,
-    "DATE": null,
     "MICR": "625800001",
     "RTGS": true,
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "TNSC0011800": {
     "BANK": "Virudhunagar District Central Co-operative Bank",
@@ -334,10 +334,10 @@
     "IMPS": true,
     "CITY": "VIRUDHUNAGAR",
     "UPI": false,
-    "DATE": null,
     "MICR": "626800002",
     "RTGS": true,
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "TNSC0011900": {
     "BANK": "Sivagangai District Central Co-operative Bank",
@@ -351,10 +351,10 @@
     "IMPS": true,
     "CITY": "SIVAGANGAI",
     "UPI": false,
-    "DATE": "41963",
     "MICR": "630800002",
     "RTGS": true,
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "TNSC0012000": {
     "BANK": "Thiruvannamalai District Central Co-operative Bank",
@@ -368,10 +368,10 @@
     "IMPS": true,
     "CITY": "TIRUVANNAMALAI",
     "UPI": false,
-    "DATE": null,
     "MICR": "606800002",
     "RTGS": true,
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "TNSC0012100": {
     "BANK": "Thoothukudi District Central Co-operative Bank",
@@ -385,10 +385,10 @@
     "IMPS": true,
     "CITY": "THOOTHUKUDI",
     "UPI": false,
-    "DATE": "41963",
     "MICR": "627805002",
     "RTGS": true,
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "TNSC0012200": {
     "BANK": "Villupuram District Central Co-operative Bank",
@@ -402,10 +402,10 @@
     "IMPS": true,
     "CITY": "VILLUPURAM",
     "UPI": false,
-    "DATE": null,
     "MICR": "605800002",
     "RTGS": true,
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "TNSC0015000": {
     "BANK": "Tamilnadu Industrial Co-operative Bank",
@@ -419,10 +419,10 @@
     "IMPS": true,
     "CITY": "CHENNAI",
     "UPI": false,
-    "DATE": null,
     "MICR": "600411001",
     "RTGS": true,
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "TNSC0099999": {
     "BANK": "Tamilnadu State Apex Co-operative Bank",
@@ -438,7 +438,8 @@
     "UPI": false,
     "MICR": "600091001",
     "NEFT": true,
-    "RTGS": false
+    "RTGS": false,
+    "SWIFT": null
   },
   "TNSC00ROUTE": {
     "BANK": "THE TAMIL NADU STATE APEX COOPERATIVE BANK",
@@ -454,7 +455,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "TNSC0160101": {
     "BANK": "Pondicherry State Co-operative Bank",
@@ -468,10 +470,10 @@
     "IMPS": true,
     "CITY": "PUDUCHERRY",
     "UPI": false,
-    "DATE": "41963",
     "MICR": "605632001",
     "RTGS": true,
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "TNSC0NEFTSC": {
     "IFSC": "TNSC0NEFTSC",
@@ -481,13 +483,13 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "OLD NO  233, NEW NO 4 N.S.C BOSE ROAD CHENNAI 600001",
     "CONTACT": "004425332354",
-    "DATE": null,
     "MICR": "600091001",
     "BANK": "TAMIL NADU STATE APEX COOP BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHENNAI",
     "NEFT": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

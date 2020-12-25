@@ -11,10 +11,10 @@
     "IMPS": true,
     "CITY": "MUMBAI",
     "UPI": true,
-    "DATE": null,
     "RTGS": true,
     "MICR": "400036010",
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "SCBL0036002": {
     "IFSC": "SCBL0036002",
@@ -24,14 +24,14 @@
     "STATE": "WEST BENGAL",
     "ADDRESS": "142, M.G. ROAD, KOLKATA - 700 007.",
     "CONTACT": "66134722",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
     "MICR": "700036002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036003": {
     "IFSC": "SCBL0036003",
@@ -41,14 +41,14 @@
     "STATE": "WEST BENGAL",
     "ADDRESS": "CHOWRINGHEE- BRANCH, 31, JAWAHARLAL NEHRU ROAD, KOLKATA -  700 016.",
     "CONTACT": "22465151",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
     "MICR": "700036004",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036004": {
     "IFSC": "SCBL0036004",
@@ -58,14 +58,14 @@
     "STATE": "WEST BENGAL",
     "ADDRESS": "SALT LAKE- AB-17, SECTOR-1, SALT LAKE CITY, KOLKATA - 700 064.",
     "CONTACT": "23349958",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
     "MICR": "700036018",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036005": {
     "IFSC": "SCBL0036005",
@@ -75,14 +75,14 @@
     "STATE": "WEST BENGAL",
     "ADDRESS": "GARIAHAT BRANCH -208, RASHBEHARI AVENUE, GARIAHAT, KOLKATA - 700 029.",
     "CONTACT": "24635757",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
     "MICR": "700036007",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036006": {
     "IFSC": "SCBL0036006",
@@ -92,14 +92,14 @@
     "STATE": "WEST BENGAL",
     "ADDRESS": "SHYAMBAZAR BRANCH -21A, R.G. KAR ROAD, KOLKATA - 700 004.",
     "CONTACT": "25551870",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
     "MICR": "700036009",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036007": {
     "IFSC": "SCBL0036007",
@@ -109,14 +109,14 @@
     "STATE": "WEST BENGAL",
     "ADDRESS": "17, S A NALINI RANJAN AVENUE, NEW ALIPORE, KOLKATA - 700 053",
     "CONTACT": "24789770",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
     "MICR": "700036013",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036008": {
     "IFSC": "SCBL0036008",
@@ -126,14 +126,14 @@
     "STATE": "WEST BENGAL",
     "ADDRESS": "19, NETAJI SUBHAS ROAD, KOLKATA - 700 001",
     "CONTACT": "22220101",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
     "MICR": "700036012",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036009": {
     "IFSC": "SCBL0036009",
@@ -143,14 +143,14 @@
     "STATE": "WEST BENGAL",
     "ADDRESS": "41, CHOWRINGHEE ROAD, KOLKATA - 700 016",
     "CONTACT": "22889430",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
     "MICR": "700036011",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036010": {
     "IFSC": "SCBL0036010",
@@ -160,14 +160,14 @@
     "STATE": "WEST BENGAL",
     "ADDRESS": "163, RASH BEHARI AVENUE, KOLKATA - 700 019.",
     "CONTACT": "24661906",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
     "MICR": "700036015",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036011": {
     "IFSC": "SCBL0036011",
@@ -177,14 +177,14 @@
     "STATE": "WEST BENGAL",
     "ADDRESS": "139 C, BIDHAN SARANI, SHAMBAZAR, KOLKATA - 700 004",
     "CONTACT": "22801809",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
     "MICR": "700036017",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036012": {
     "IFSC": "SCBL0036012",
@@ -194,14 +194,14 @@
     "STATE": "WEST BENGAL",
     "ADDRESS": "CF 347, SECTOR I, SALT LAKE, KOLKATA, - 700 064",
     "CONTACT": "23370927",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
     "MICR": "700036005",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036013": {
     "IFSC": "SCBL0036013",
@@ -211,14 +211,14 @@
     "STATE": "WEST BENGAL",
     "ADDRESS": "6, CHURCH LANE, KOLKATA - 700 001",
     "CONTACT": "22420998",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
     "MICR": "700036014",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036014": {
     "IFSC": "SCBL0036014",
@@ -228,14 +228,14 @@
     "STATE": "WEST BENGAL",
     "ADDRESS": "21A, SHAKESPEARE SARANI, KOLKATA - 700 017",
     "CONTACT": "22801809",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
     "MICR": "700036016",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036015": {
     "IFSC": "SCBL0036015",
@@ -245,14 +245,14 @@
     "STATE": "WEST BENGAL",
     "ADDRESS": "1/425, GARIAHAT ROAD SOUTH, JODHPUR PARK, KOLKATA - 700 019",
     "CONTACT": "24148718",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
     "MICR": "700036010",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036016": {
     "IFSC": "SCBL0036016",
@@ -262,14 +262,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "G N BORDOLOI ROAD, AMBARIFANCY BAZAR, GUWAHATI - 781 001",
     "CONTACT": "2632264",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "GUWAHATI",
     "MICR": "781036002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036017": {
     "IFSC": "SCBL0036017",
@@ -279,14 +279,14 @@
     "STATE": "BIHAR",
     "ADDRESS": "BHAGWATI DWARKA ARCADE, PLOT NO.830P, EXHIBITION ROAD, PATNA - 800 001",
     "CONTACT": "2223124",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "PATNA",
     "MICR": "800036002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036018": {
     "IFSC": "SCBL0036018",
@@ -296,14 +296,14 @@
     "STATE": "ODISHA",
     "ADDRESS": "PLOT NO. 3, BAPUJI NAGAR, JANPATH, BHUBANESHWAR 751 009",
     "CONTACT": "2539485",
-    "DATE": "05/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "BHUBANESWAR",
     "MICR": "751036002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036019": {
     "IFSC": "SCBL0036019",
@@ -313,14 +313,14 @@
     "STATE": "WEST BENGAL",
     "ADDRESS": "144, HILL CART ROAD, SILIGURI - 743 001",
     "CONTACT": "2535991",
-    "DATE": "05/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "SILIGURI",
     "MICR": "734036002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036020": {
     "IFSC": "SCBL0036020",
@@ -330,14 +330,14 @@
     "STATE": "DELHI",
     "ADDRESS": "NARAYAN MANZIL,23 BARAKHAMBA ROAD,NEW DELHI - 110 091.",
     "CONTACT": "43518905",
-    "DATE": "04/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "MICR": "110036002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036021": {
     "IFSC": "SCBL0036021",
@@ -347,14 +347,14 @@
     "STATE": "DELHI",
     "ADDRESS": "VASANT VIHAR- 2 AND 3 BASANT LOK, VASANT VIHAR, NEW DELHI-110 057.",
     "CONTACT": "41669256",
-    "DATE": "04/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "MICR": "110036003",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036022": {
     "IFSC": "SCBL0036022",
@@ -364,14 +364,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "KANPUR-16/105 MAHATMA GANDHI ROAD, KANPUR 208 001",
     "CONTACT": "05122306536",
-    "DATE": "05/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "KANPUR",
     "MICR": "208036002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036023": {
     "IFSC": "SCBL0036023",
@@ -381,14 +381,14 @@
     "STATE": "DELHI",
     "ADDRESS": "PREET VIHAR BRANCH - 30, GRD FLR, ADITYA ARCADE, ADITYA COMPLEX, PREET VIHAR, DELHI - 110 092",
     "CONTACT": "22440201",
-    "DATE": "04/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "MICR": "110036005",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036024": {
     "IFSC": "SCBL0036024",
@@ -398,14 +398,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "NOIDA BRANCH - PLOT NO. K - 3, BRAHM DATT TOWER, GRD AND 1ST FLOOR, SECTOR - 18, NOIDA - 201 301.",
     "CONTACT": "01204323759",
-    "DATE": "05/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "NOIDA",
     "MICR": "110036004",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036025": {
     "IFSC": "SCBL0036025",
@@ -415,14 +415,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "GURGAON BRANCH - 12 A-C, 304 A AND B AND 305 A AND B, JMD REGENT SQUARE,  MEHRAULI - GURGAON ROAD, GURGAON  - 122 001.",
     "CONTACT": "01244059036",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "GURGAON",
     "MICR": "110036006",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036026": {
     "IFSC": "SCBL0036026",
@@ -432,14 +432,14 @@
     "STATE": "DELHI",
     "ADDRESS": "H-BLOCK, CONNAUGHT CIRCUS, NEW DELHI - 110 001",
     "CONTACT": "01123713101",
-    "DATE": "04/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "MICR": "110036015",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036027": {
     "IFSC": "SCBL0036027",
@@ -449,14 +449,14 @@
     "STATE": "DELHI",
     "ADDRESS": "10 SANSAD MARG, NEW DELHI - 110 001",
     "CONTACT": "01123406202",
-    "DATE": "04/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "MICR": "110036011",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036028": {
     "IFSC": "SCBL0036028",
@@ -466,14 +466,14 @@
     "STATE": "DELHI",
     "ADDRESS": "STANDARD CHARTERED BANK\nHL WINGS\nPOCKET 4, PLOT 2\nDWARKA, SECTOR-11(MLU)\nDELHI-110075",
     "CONTACT": "23406202",
-    "DATE": "04/09/2008",
     "MICR": "110036007",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036029": {
     "IFSC": "SCBL0036029",
@@ -483,14 +483,14 @@
     "STATE": "DELHI",
     "ADDRESS": "SHOP NO. 4, CENTRAL MARKET, SECTOR II, WESTAVENUE RD., PUNJABI BAGH (WEST), NEW DELHI - 110 038",
     "CONTACT": "42466792",
-    "DATE": "04/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "MICR": "110036012",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036030": {
     "IFSC": "SCBL0036030",
@@ -500,14 +500,14 @@
     "STATE": "DELHI",
     "ADDRESS": "13/37, WEA, ARYA SAMAJ ROAD, KAROL BAGH, NEW DELHI - 110 005",
     "CONTACT": "41546964",
-    "DATE": "04/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "MICR": "110036009",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036031": {
     "IFSC": "SCBL0036031",
@@ -517,14 +517,14 @@
     "STATE": "DELHI",
     "ADDRESS": "13, MALCHA MARG, CHANAKYAPURI, NEW DELHI - 110 021",
     "CONTACT": "26882196",
-    "DATE": "04/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "MICR": "110036013",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036032": {
     "IFSC": "SCBL0036032",
@@ -534,14 +534,14 @@
     "STATE": "DELHI",
     "ADDRESS": "M-1, SOUTH EXTENSION, PART II, NEW DELHI - 110 049",
     "CONTACT": "41644866",
-    "DATE": "04/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "MICR": "110036008",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036033": {
     "IFSC": "SCBL0036033",
@@ -551,14 +551,14 @@
     "STATE": "DELHI",
     "ADDRESS": "B-68, GREATER KAILASH, PART - I, NEW DELHI - 110 048",
     "CONTACT": "29245433",
-    "DATE": "04/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "MICR": "110036010",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036034": {
     "IFSC": "SCBL0036034",
@@ -568,14 +568,14 @@
     "STATE": "DELHI",
     "ADDRESS": "20, COMMUNITY CENTRE, NEW FRIENDS COLONY, NEW DELHI - 110065",
     "CONTACT": "41672305",
-    "DATE": "04/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "MICR": "110036014",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036035": {
     "IFSC": "SCBL0036035",
@@ -585,14 +585,14 @@
     "STATE": "CHANDIGARH",
     "ADDRESS": "SCO, 137 - 138, SECTOR - 9C, CHANDIGARH - 160 017, INDIA",
     "CONTACT": "01725072880",
-    "DATE": "04/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHANDIGARH",
     "MICR": "160036001",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036036": {
     "IFSC": "SCBL0036036",
@@ -602,14 +602,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "4,  SHAHNAJAF ROAD, HAZRATGANZ, LUCKNOW - 226 001, UP, INDIA",
     "CONTACT": "05222201870",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "LUCKNOW",
     "MICR": "226036002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036037": {
     "IFSC": "SCBL0036037",
@@ -619,14 +619,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "SCO 16-17, FEROZE GHANDHI MARKET, LUDHIANA - 141 001, PUNJAB, INDIA",
     "CONTACT": "01615084030",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "LUDHIANA",
     "MICR": "141036002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036038": {
     "IFSC": "SCBL0036038",
@@ -636,14 +636,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "360, MALL ROAD, GANDHI BAZAR, AMRITSAR - 143 001",
     "CONTACT": "01835003756",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "AMRITSAR",
     "MICR": "143036003",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036039": {
     "IFSC": "SCBL0036039",
@@ -653,14 +653,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "H - 8, SHOW ROOM NO. 1BHAGWAT BHAWAN,  M. I. ROAD, JAIPUR - 302 001, INDIA",
     "CONTACT": "01415116072",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "JAIPUR",
     "MICR": "302036002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036040": {
     "IFSC": "SCBL0036040",
@@ -670,14 +670,14 @@
     "STATE": "PUNJAB",
     "ADDRESS": "PLOT NO. 34, G.T. ROAD, G.P.O., JALANDHAR - 144 001",
     "CONTACT": "01815073410",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "JALANDHAR",
     "MICR": "144036001",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036041": {
     "IFSC": "SCBL0036041",
@@ -687,14 +687,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "SCF-77, SECTOR 14, GURGAON, HARYANA - 122001",
     "CONTACT": "01244088702",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "GURGAON",
     "MICR": "110036017",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036042": {
     "IFSC": "SCBL0036042",
@@ -704,14 +704,14 @@
     "STATE": "DELHI",
     "ADDRESS": "E-26, SAKET, NEW DELHI - 110017",
     "CONTACT": "41021454",
-    "DATE": "04/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "MICR": "110036018",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036043": {
     "IFSC": "SCBL0036043",
@@ -721,14 +721,14 @@
     "STATE": "DELHI",
     "ADDRESS": "B-1/517, OPP DISTRICT CENTRE, JANAKPURI, NEW DELHI - 110 058",
     "CONTACT": "41589327",
-    "DATE": "04/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "MICR": "110036016",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036044": {
     "IFSC": "SCBL0036044",
@@ -738,14 +738,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "2,SARDAR PATEL MARG, CIVIL LINES, ALLAHABAD - 211 001.",
     "CONTACT": "05322427070",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "ALLAHABAD",
     "MICR": "211036002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036045": {
     "IFSC": "SCBL0036045",
@@ -755,14 +755,14 @@
     "STATE": "DELHI",
     "ADDRESS": "H.B TWIN TOWERS,PLOT NO. A - 2,3AND4 DISTRICT CENTER,WAZIRPUR,NETAJI SUBHAS PLACE,PITAMPURA, NEW DELHI - 110 048",
     "CONTACT": "42470867",
-    "DATE": "04/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
     "MICR": "110036019",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036046": {
     "IFSC": "SCBL0036046",
@@ -772,14 +772,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MUMBAI MAIN -23/25, MAHATMA GANDHIROAD, FORT, MUMBAI - 400 001.",
     "CONTACT": "22792122",
-    "DATE": "04/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400036005",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036047": {
     "IFSC": "SCBL0036047",
@@ -789,14 +789,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "CHOWPATTY BRANCH -SHREE PANT BHUBAN, SANDHURST BRIDGE, CHOWPATTY, MUMBAI - 400 001.",
     "CONTACT": "23642168",
-    "DATE": "04/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400036004",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036048": {
     "IFSC": "SCBL0036048",
@@ -806,14 +806,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "CENTRE POINT BRANCH,JUNC. OF S.V.ROAD  AND  JUHU ROAD, SANTACRUZ(WEST), MUMBAI - 400 054.",
     "CONTACT": "26493966",
-    "DATE": "04/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400036003",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036049": {
     "IFSC": "SCBL0036049",
@@ -823,14 +823,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GHATKOPAR BRANCH -170,' ASHOK'DERASAR LANE, GHATKOPAR(EAST), TPS III,MUMBAI - 400 077.",
     "CONTACT": "25125542",
-    "DATE": "04/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400036006",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036050": {
     "IFSC": "SCBL0036050",
@@ -840,14 +840,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PUNE-SHRIRANG HOUSE, 364-365, JUNGLEE MAHARAJ ROAD, SHIVAJI NAGAR, PUNE- 411 005.",
     "CONTACT": "952025521880",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "MICR": "411036002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036051": {
     "IFSC": "SCBL0036051",
@@ -857,14 +857,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "PREMISES NO. 1,2,3 - GROUND FLOOR, ABHIJEET II, NEAR MITHAKALI 6 ROAD, ELLIS BRIDGE, AHMEDABAD - 380 006.",
     "CONTACT": "6468300",
-    "DATE": "05/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
     "MICR": "380036002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036052": {
     "IFSC": "SCBL0036052",
@@ -874,14 +874,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "STANDARD CHARTERED TOWERS,WESTERN EXPRESS HIGHWAY,GOREGAON (EAST),MUMBAI - 400 063.",
     "CONTACT": "67373171",
-    "DATE": "04/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400036008",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036053": {
     "IFSC": "SCBL0036053",
@@ -891,14 +891,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "LOKHANDWALA BRANCH, - 21 -23, SAMARTHA VAIBHAV, SHREE SWAMI SAMARTH NAGAR, OFF NEW LINK ROAD, LOKHANDWALA, ANDHERI (W), MUMBAI - 400 053",
     "CONTACT": "26327732",
-    "DATE": "04/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400036009",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036054": {
     "IFSC": "SCBL0036054",
@@ -908,14 +908,14 @@
     "STATE": "WEST BENGAL",
     "ADDRESS": "49, DOBSON ROAD, HOWRAH - 711101",
     "CONTACT": "26662541",
-    "DATE": "05/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HOWRAH",
     "MICR": "700036019",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036055": {
     "IFSC": "SCBL0036055",
@@ -925,14 +925,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "SHIVAJI MANDIR, N C KELKAR ROAD, DADAR, MUMBAI - 400 028.",
     "CONTACT": "24331920",
-    "DATE": "04/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400036012",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036056": {
     "IFSC": "SCBL0036056",
@@ -942,14 +942,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "65/F,  VITHALBHAI PATEL ROAD, SANTACRUZ (WEST), MUMBAI - 400 054",
     "CONTACT": "26487510",
-    "DATE": "04/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400036014",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036057": {
     "IFSC": "SCBL0036057",
@@ -959,14 +959,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "UNIQUE CENTRE, WATERFIELD ROAD, BANDRA (W), MUMBAI - 400 050",
     "CONTACT": "26443908",
-    "DATE": "04/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400036016",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036058": {
     "IFSC": "SCBL0036058",
@@ -976,14 +976,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "B21, SANGHVI PARITOSH, V. L. MEHTA ROAD,  J V P D SCHEMEVILE PARLE (WEST), MUMBAI - 400 049",
     "CONTACT": "26134705",
-    "DATE": "04/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400036017",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036059": {
     "IFSC": "SCBL0036059",
@@ -993,14 +993,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "87, BHULABHAI DESAI ROAD, CUMBALLA HILL, MUMBAI - 400 036",
     "CONTACT": "23696265",
-    "DATE": "04/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400036011",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036060": {
     "IFSC": "SCBL0036060",
@@ -1010,14 +1010,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "21/29, SHAMALDAS GANDHI MARG, MUMBAI 400 002",
     "CONTACT": "22019692",
-    "DATE": "04/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400036015",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036061": {
     "IFSC": "SCBL0036061",
@@ -1027,14 +1027,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "PLOT NO. 10, ALANKAR COMPLEX, M. P. NAGAR, SHIVAJI NAGAR, BHOPAL - 462 011",
     "CONTACT": "07552554280",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "BHOPAL",
     "MICR": "462036002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036062": {
     "IFSC": "SCBL0036062",
@@ -1044,14 +1044,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "GROUND FLOOR, GUKULESH', R.C. DUTT ROAD, ALKAPURI, VADODARA - 390 007",
     "CONTACT": "02652320071",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "VADODARA",
     "MICR": "390036002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036063": {
     "IFSC": "SCBL0036063",
@@ -1061,14 +1061,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "UG 4  AND   FF 4, MANAV MANDIR, PARLE POINT, SURAT - 395 007.",
     "CONTACT": "02612220110",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
     "MICR": "395036002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036064": {
     "IFSC": "SCBL0036064",
@@ -1078,14 +1078,14 @@
     "STATE": "GUJARAT",
     "ADDRESS": "BUSINESS EMPIRE, 5, JAGNATH PLOT CORNER, GYMKHANA ROAD, RAJKOT - 360 002",
     "CONTACT": "02815526002",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "RAJKOT",
     "MICR": "360036002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036065": {
     "IFSC": "SCBL0036065",
@@ -1095,14 +1095,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "NARANG TOWERS, 27, PALM ROAD, NAGPUR - 440001",
     "CONTACT": "07125620700",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "NAGPUR",
     "MICR": "440036002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036066": {
     "IFSC": "SCBL0036066",
@@ -1112,14 +1112,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GROUND FLOOR OF GARDEN APARTMENT, DIAMOND GARDEN CHS LTD,A.SORES ROAD, CHEMBUR, MUMBAI - 400071",
     "CONTACT": "25207392",
-    "DATE": "04/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400036018",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036067": {
     "IFSC": "SCBL0036067",
@@ -1129,14 +1129,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "ADITYA APARTMENT, CTS NO. 639, CHANDAVARKAR ROAD, BORIVALI (WEST), MUMBAI - 400092",
     "CONTACT": "28663900",
-    "DATE": "04/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400036019",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036068": {
     "IFSC": "SCBL0036068",
@@ -1146,14 +1146,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "BALWANT NIWAS, DR. MOOSE ROAD, TALAV PALI, THANE (W), 400 601",
     "CONTACT": "25890784",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "THANE",
     "MICR": "400036020",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036069": {
     "IFSC": "SCBL0036069",
@@ -1163,14 +1163,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "D.M.TOWERS, 21/1 RACE COURSE ROAD, INDORE - 452 001.",
     "CONTACT": "07315206900",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "INDORE",
     "MICR": "452036002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036070": {
     "IFSC": "SCBL0036070",
@@ -1180,14 +1180,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "AMEYA HOUSE,RAJKUMAR CORNER,J.P.ROAD,ANDHERI (WEST), MUMBAI - 400 058.",
     "CONTACT": "26790239",
-    "DATE": "04/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400036021",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036071": {
     "IFSC": "SCBL0036071",
@@ -1197,14 +1197,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "BABA PLAZA, AKASWANI SQUARE, MUMBAI-NAGPUR ROAD, JALGAON - 425 002.",
     "CONTACT": "912572237400",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "JALGAON",
     "MICR": "425036002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036072": {
     "IFSC": "SCBL0036072",
@@ -1214,14 +1214,14 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "MYLAPORE-RAJA RAJESHWARI TOWERS29/30, DR.RADHAKRISHNAN SALAI, CHENNAI - 600 004",
     "CONTACT": "04442107373",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR": "600036003",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036073": {
     "IFSC": "SCBL0036073",
@@ -1231,14 +1231,14 @@
     "STATE": "KARNATAKA",
     "ADDRESS": "14, CUNNINGHAM ROAD, HM GENEVA HOUSE, BANGALORE - 560 052",
     "CONTACT": "67079501",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
     "MICR": "560036002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036074": {
     "IFSC": "SCBL0036074",
@@ -1248,14 +1248,14 @@
     "STATE": "KARNATAKA",
     "ADDRESS": "RAHEJA TOWER, 26, M. G. ROAD, BANGALORE - 560 001.",
     "CONTACT": "08066310004",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
     "MICR": "560036003",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036075": {
     "IFSC": "SCBL0036075",
@@ -1265,14 +1265,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "6-3-1090, RAJ BHAVAN ROAD, SOMAJI GUDA, HYDERABAD - 500 082",
     "CONTACT": "04023321160",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR": "500036001",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036076": {
     "IFSC": "SCBL0036076",
@@ -1282,14 +1282,14 @@
     "STATE": "KERALA",
     "ADDRESS": "HDFC HOUSE, M G ROAD, RAVIPURAM JUNCTION, ERNAKULAM, COCHIN 682 015.",
     "CONTACT": "04842359086",
-    "DATE": "05/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOCHI",
     "MICR": "682036002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036077": {
     "IFSC": "SCBL0036077",
@@ -1299,14 +1299,14 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "509, D B ROAD, R S PURAM, COIMBATORE - 641 002",
     "CONTACT": "04222550589",
-    "DATE": "05/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "COIMBATORE",
     "MICR": "641036002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036078": {
     "IFSC": "SCBL0036078",
@@ -1316,14 +1316,14 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "GRINDLAYS CENTRE, 19, RAJAJI SALAI, CHENNAI - 600 001",
     "CONTACT": "04425349200",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR": "600036002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036079": {
     "IFSC": "SCBL0036079",
@@ -1333,14 +1333,14 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "GRINDLAYS GARDENS, 1-HADDOWS ROAD, CHENNAI - 600 006",
     "CONTACT": "04428219666",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR": "600036007",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036080": {
     "IFSC": "SCBL0036080",
@@ -1350,14 +1350,14 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "NO. 6, LATTICE BRIDGE ROAD, ADYAR, CHENNAI - 600 020",
     "CONTACT": "04442027272",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR": "600036006",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036081": {
     "IFSC": "SCBL0036081",
@@ -1367,14 +1367,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "GROUND FLOOR, UNIT NOS 2, 2A, 3, ASHOK BHOOPAL CHAMBERS, S.P. ROAD, SECUNDERABAD, HYDERABAD - 500 003.",
     "CONTACT": "04066907050",
-    "DATE": "05/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "SECUNDERABAD CANTONMENT",
     "MICR": "500036002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036082": {
     "IFSC": "SCBL0036082",
@@ -1384,14 +1384,14 @@
     "STATE": "KERALA",
     "ADDRESS": "COCHIN - XXIV/1633, K.P.K. MENON ROAD, WILLINGDON ISLAND, COCHIN - 682 003",
     "CONTACT": "04222550589",
-    "DATE": "04/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOCHI",
     "MICR": "682036003",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036083": {
     "IFSC": "SCBL0036083",
@@ -1401,14 +1401,14 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "SAGAS AMAR COURT, 59,G.N. CHETTY ROAD, T.NAGAR, CHENNAI - 600 017",
     "CONTACT": "04428158707",
-    "DATE": "13/08/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR": "600036008",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036084": {
     "IFSC": "SCBL0036084",
@@ -1418,14 +1418,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "90, M. G. ROAD, MUMBAI - 400 001",
     "CONTACT": "22683301",
-    "DATE": "04/09/2008",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "400036002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036085": {
     "IFSC": "SCBL0036085",
@@ -1435,14 +1435,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "C-38/39, G BLOCK, BANDRA KURLA COMPLEX\nBANDRA-E, OPP MCA CLUB, MUMBAI - 400051",
     "CONTACT": "26757038",
-    "DATE": "18-12-2012",
     "MICR": "400036022",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036086": {
     "BANK": "STANDARD CHARTERED BANK",
@@ -1458,7 +1458,8 @@
     "CENTRE": "NA",
     "UPI": true,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036087": {
     "IFSC": "SCBL0036087",
@@ -1468,14 +1469,14 @@
     "STATE": "WEST BENGAL",
     "ADDRESS": "G-08, ATRIA MALL, 23, GURUSADAY ROAD, KOLKATA 700 019",
     "CONTACT": "22900768",
-    "DATE": "05/01/2009",
     "MICR": "700036020",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036088": {
     "IFSC": "SCBL0036088",
@@ -1485,14 +1486,14 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "187, ANNA SALAI, CHENNAI 600 001.",
     "CONTACT": "66014444",
-    "DATE": "05/01/2009",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR": "600036009",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036089": {
     "IFSC": "SCBL0036089",
@@ -1502,14 +1503,14 @@
     "STATE": "KARNATAKA",
     "ADDRESS": "STANDARD CHARTERED BANK, IN ORBIT MALL GROUND FLOOR,UNIT, G2- 7, NEXT TO SATHYA SAI HOSPITAL, EPIP AREA WHITEFIELD,BANGALORE, KARNATAKA - 560066, INDIA",
     "CONTACT": "9036002139",
-    "DATE": "10-APR-14",
     "MICR": "560036004",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "BANGALORE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036090": {
     "IFSC": "SCBL0036090",
@@ -1519,14 +1520,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "301, DIAMOND BLOCK, LUMBINI ROCKDALE, SOMAJIGUDA, HYDERABAD 500 082.",
     "CONTACT": "39404444",
-    "DATE": "05/01/2009",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR": "500036003",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036091": {
     "IFSC": "SCBL0036091",
@@ -1536,14 +1537,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "403 SOHRAB HALL, 21 SASUN ROAD, PUNE 411 001.",
     "CONTACT": "66803800",
-    "DATE": "05/01/2009",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
     "MICR": "411036003",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036092": {
     "IFSC": "SCBL0036092",
@@ -1553,14 +1554,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "PACIFIC MALL, PLOT NO. C-1/B, SITE B, INDUSTRIAL AREA,  MATHURA 281006",
     "CONTACT": "0565",
-    "DATE": "14/09/2010",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "MATHURA",
     "MICR": "281036002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036093": {
     "IFSC": "SCBL0036093",
@@ -1570,14 +1571,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "GROUND FLOOR, MEGHANA MANSION,24/25, OPP LAXMI VILAS BANK, GANDHI ROAD, PRODDATUR ANDHRA PRADESH,516360",
     "CONTACT": "08564248841",
-    "DATE": "14/09/2010",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "CUDDAPAH",
     "MICR": "516036102",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036094": {
     "IFSC": "SCBL0036094",
@@ -1587,14 +1588,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "KRISHNA TOWER,69 RAJPURA ROAD, DEHRADUN - \n248 001, \nINDIA",
     "CONTACT": "3242061",
-    "DATE": "21-12-2012",
     "MICR": "248036002",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "DEHRADUN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036095": {
     "IFSC": "SCBL0036095",
@@ -1604,14 +1605,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "MUNDARJA NO. 262, DELHI – SAHARANPUR – YAMUNOTRI ROAD SAHARANPUR - 247001",
     "CONTACT": "2764855",
-    "DATE": "14/09/2010",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "SAHARANPUR",
     "MICR": "247036002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036096": {
     "IFSC": "SCBL0036096",
@@ -1621,14 +1622,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Ground Floor, Apex Square Bank Street  Madhuban Udaipur (Raj) – 313001",
     "CONTACT": "9587797777",
-    "DATE": "16/08/2012",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "UDAIPUR",
     "MICR": "313036002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036097": {
     "IFSC": "SCBL0036097",
@@ -1638,14 +1639,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "Ground Floor, Plot No. 839, 9th, Chopasani Road Jodhpur (Rajasthan) Pin-342003",
     "CONTACT": "012912433879",
-    "DATE": "06/11/2012",
     "MICR": "342036002",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "JODHPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036098": {
     "IFSC": "SCBL0036098",
@@ -1655,14 +1656,14 @@
     "STATE": "MADHYA PRADESH",
     "ADDRESS": "SHARMA COMPLEX,PLOT NO.491,WARD NO.38,PARASIA ROAD,CHHINDWARA 480001.MADHYA PRADESH",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "480036001",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "CHHINDWARA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036099": {
     "IFSC": "SCBL0036099",
@@ -1672,14 +1673,14 @@
     "STATE": "KERALA",
     "ADDRESS": "Vrindavan Terrace, Unit Nos. GB & 1B, Ground and First Floor, Vazhuthacaud, Opposite Trivandrum Club",
     "CONTACT": "9847025257",
-    "DATE": "21-12-2012",
     "MICR": "695036002",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "THIRUVANANTHAPURAM",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036100": {
     "IFSC": "SCBL0036100",
@@ -1689,14 +1690,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "4,Krishna Enclave Near Bhagat Halwai, Dayal Bagh, Agra -282005- Uttar Pradesh",
     "CONTACT": "9760090441",
-    "DATE": "04-01-2013",
     "MICR": "282036002",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "AGRA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "SCBL0036101": {
     "IFSC": "SCBL0036101",
@@ -1706,13 +1707,13 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "GROUND FLOOR, KHASRA NO - 356 & 357, VILLAGE MOHANPURA, PARGANA TEHSIL AND DISTRICT BAREILLY, UTTAR PRADESH",
     "CONTACT": "05819557935666",
-    "DATE": "31/10/2014",
     "MICR": "243036002",
     "BANK": "STANDARD CHARTERED BANK LTD.",
     "UPI": true,
     "RTGS": true,
     "CITY": "BAREILLY",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

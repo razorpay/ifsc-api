@@ -11,10 +11,10 @@
     "IMPS": true,
     "CITY": "DONDAICHA",
     "UPI": true,
-    "DATE": "05/12/2014",
     "MICR": "425868402",
     "RTGS": true,
-    "NEFT": false
+    "NEFT": false,
+    "SWIFT": null
   },
   "HCBL0000101": {
     "IFSC": "HCBL0000101",
@@ -24,14 +24,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "HASTI SAHAKAR DEEP STATION AREA DONDAICHA DIST DHULE Pin 425408",
     "CONTACT": "08888891644",
-    "DATE": "41974",
     "MICR": "425736402",
     "BANK": "HASTI COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "DONDAICHA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HCBL0000102": {
     "IFSC": "HCBL0000102",
@@ -41,14 +41,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Near S.T. Stand, Shindkheda, Dist Dhule Pin 425408",
     "CONTACT": "08888891646",
-    "DATE": "41974",
     "MICR": "425736501",
     "BANK": "HASTI COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHINDKHEDA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HCBL0000103": {
     "IFSC": "HCBL0000103",
@@ -58,14 +58,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Bazar Peth, Songir, Dist Dhule Pin 424309",
     "CONTACT": "08888891647",
-    "DATE": "41974",
     "MICR": "424736501",
     "BANK": "HASTI COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "SONGIR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HCBL0000104": {
     "IFSC": "HCBL0000104",
@@ -75,14 +75,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Near Ahilyabai Vihir, Hat Darwaja, Tal. Dist Nandurbar Pin 425412",
     "CONTACT": "08888891648",
-    "DATE": "41974",
     "MICR": "425736202",
     "BANK": "HASTI COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "NANDURBAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HCBL0000105": {
     "IFSC": "HCBL0000105",
@@ -92,14 +92,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Satana Road, Pimpalner, Tal.Sakri, Dist Dhule Pin 424306",
     "CONTACT": "08888891649",
-    "DATE": "41974",
     "MICR": "424736502",
     "BANK": "HASTI COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "PIMPALNER",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HCBL0000106": {
     "IFSC": "HCBL0000106",
@@ -109,14 +109,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "3,Panzara Colony, Sakri, Dist Dhule Pin 424308",
     "CONTACT": "08888891640",
-    "DATE": "41974",
     "MICR": "424736503",
     "BANK": "HASTI COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "SAKRI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HCBL0000107": {
     "IFSC": "HCBL0000107",
@@ -126,14 +126,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "1350, Lane No 5th, Nagarpatti ,Dhule. Pin 424001",
     "CONTACT": "08888891651",
-    "DATE": "41974",
     "MICR": "424736001",
     "BANK": "HASTI COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "DHULE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HCBL0000108": {
     "IFSC": "HCBL0000108",
@@ -143,14 +143,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Main Road, Akkalkuwa, Dist Nandurbar Pin 425415",
     "CONTACT": "08888891652",
-    "DATE": "41974",
     "MICR": "425736502",
     "BANK": "HASTI COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "AKKALKUWA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HCBL0000109": {
     "IFSC": "HCBL0000109",
@@ -160,14 +160,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Bohari Market, Near Bus Stand, Tal.Shahada Dist Nandurbar Pin 425409",
     "CONTACT": "08888891653",
-    "DATE": "41974",
     "MICR": "425736302",
     "BANK": "HASTI COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHAHADA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HCBL0000111": {
     "IFSC": "HCBL0000111",
@@ -177,14 +177,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Market Yard, Jalgaon Dist Jalgaon Pin 425001",
     "CONTACT": "08888891654",
-    "DATE": "41974",
     "MICR": "425736001",
     "BANK": "HASTI COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "JALGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HCBL0000112": {
     "IFSC": "HCBL0000112",
@@ -194,14 +194,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "237,Aadarsh Nagar,Near Gayatri Mandir, Shirpur Dist Dhule Pin 425405",
     "CONTACT": "08888891655",
-    "DATE": "41974",
     "MICR": "425736052",
     "BANK": "HASTI COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHIRPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HCBL0000113": {
     "IFSC": "HCBL0000113",
@@ -211,14 +211,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Limdiwadi, Navapur pin",
     "CONTACT": "08888891656",
-    "DATE": "41974",
     "MICR": "425736503",
     "BANK": "HASTI COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAVAPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HCBL0000114": {
     "IFSC": "HCBL0000114",
@@ -228,14 +228,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Ghat Road, Chalisgaon",
     "CONTACT": "08888843755",
-    "DATE": "41974",
     "MICR": "424736202",
     "BANK": "HASTI COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHALISGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HCBL0000115": {
     "IFSC": "HCBL0000115",
@@ -245,14 +245,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "New Plot, Bank Street , AMALNER Dist Jalgaon",
     "CONTACT": "08888843715",
-    "DATE": "41974",
     "MICR": "425736152",
     "BANK": "HASTI COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "AMALNER",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HCBL0000116": {
     "IFSC": "HCBL0000116",
@@ -262,14 +262,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "Near Uma Hospital SATANA dist Nasik",
     "CONTACT": "08888843722",
-    "DATE": "41974",
     "MICR": "423736151",
     "BANK": "HASTI COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "SATANA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HCBL0000117": {
     "IFSC": "HCBL0000117",
@@ -279,14 +279,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MAIN ROAD TALODA DIST NANDURBAR MH PIN 425413",
     "CONTACT": "02567233002",
-    "DATE": "42385",
     "MICR": "425736504",
     "BANK": "HASTI COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "TALODA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HCBL0000118": {
     "IFSC": "HCBL0000118",
@@ -296,14 +296,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "GIRIVIHAR GATE NANDURBAR 425412",
     "CONTACT": "02564233118",
-    "DATE": "42434",
     "MICR": "425736203",
     "BANK": "HASTI COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "NANDURBAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HCBL0000119": {
     "IFSC": "HCBL0000119",
@@ -313,14 +313,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PLOT NO 65 SARASWATI COLONY GONDUR ROAD DEOUPR DHULE 424002",
     "CONTACT": "02562244306",
-    "DATE": "42458",
     "MICR": "424736002",
     "BANK": "HASTI COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "DHULE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HCBL0000120": {
     "IFSC": "HCBL0000120",
@@ -330,14 +330,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "VISARWADI TAL NAVAPUR DIS NANDURBAR 425426",
     "CONTACT": "02569240306",
-    "DATE": "42471",
     "MICR": "425736505",
     "BANK": "HASTI COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "VISARWADI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HCBL0000121": {
     "IFSC": "HCBL0000121",
@@ -347,14 +347,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "NEAR DR.HEMANT PATIL NIJAMPUR TALUKA-SAKRI SIST-DHULE 424305",
     "CONTACT": "7447437805",
-    "DATE": "42909",
     "MICR": "425736506",
     "BANK": "HASTI COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "NIJAMPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "HCBL0000122": {
     "IFSC": "HCBL0000122",
@@ -364,13 +364,13 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "THE HASTI CO-OP BANK LTD PAUD PHATA KOTHARUD PUNE -411038",
     "CONTACT": "7447437806",
-    "DATE": "42909",
     "MICR": "411736002",
     "BANK": "HASTI COOPERATIVE BANK LTD.",
     "UPI": false,
     "RTGS": true,
     "CITY": "PUNE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

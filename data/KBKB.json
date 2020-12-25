@@ -7,14 +7,14 @@
     "STATE": "HARYANA",
     "ADDRESS": "UNIT 2B/2, 2nd FLOOR, TWO HORIZON CENTER, GOLF COURSE ROAD, PHASE 5, SECTOR 43, GURUGRAM 122002",
     "CONTACT": "4532222",
-    "DATE": null,
     "MICR": "110240273",
     "BANK": "KOOKMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "GURUGRAM",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "KBKB00000SC": {
     "IFSC": "KBKB00000SC",
@@ -24,13 +24,13 @@
     "STATE": "HARYANA",
     "ADDRESS": "UNIT 2B/2, 2nd FLOOR, TWO HORIZON CENTER, GOLF COURSE ROAD, PHASE 5, SECTOR 43, GURUGRAM 122002",
     "CONTACT": "4532222",
-    "DATE": null,
     "BANK": "KOOKMIN BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "GURUGRAM",
     "NEFT": false,
     "IMPS": true,
-    "MICR": null
+    "MICR": null,
+    "SWIFT": null
   }
 }

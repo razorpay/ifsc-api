@@ -7,14 +7,14 @@
     "STATE": "DELHI",
     "ADDRESS": "Ground Floor, |Nova Scotia  Dr. Gopaldas Bhavan,28, Barakhamba Road  New Delhi 110 001",
     "CONTACT": "49199999",
-    "DATE": null,
     "BANK": "BANK OF NOVA SCOTIA",
     "UPI": false,
     "RTGS": true,
     "CITY": "DELHI",
     "MICR": "110239002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NOSC0000MUM": {
     "BANK": "Bank of Nova Scotia",
@@ -28,9 +28,9 @@
     "IMPS": true,
     "CITY": "MUMBAI",
     "UPI": false,
-    "DATE": null,
     "RTGS": true,
     "MICR": "NA",
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   }
 }

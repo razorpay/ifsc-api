@@ -7,14 +7,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "04TH FLOOR, A WING, TRADE WORLD, KAMALA MILLS COMPOUND, SENAPATI BAPAT MARG, LOWER PAREL, MUMBAI - 400 013",
     "CONTACT": "224994200",
-    "DATE": "43399",
     "BANK": "NSDL PAYMENTS BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NSPB0000002": {
     "IFSC": "NSPB0000002",
@@ -24,13 +24,13 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "04TH FLOOR, A WING, TRADE WORLD, KAMALA MILLS COMPOUND, SENAPATI BAPAT MARG, LOWER PAREL, MUMBAI - 400 013",
     "CONTACT": "224994200",
-    "DATE": "2018-10-26",
     "BANK": "NSDL PAYMENTS BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

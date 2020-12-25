@@ -13,7 +13,8 @@
     "UPI": false,
     "NEFT": false,
     "RTGS": false,
-    "MICR": null
+    "MICR": null,
+    "SWIFT": null
   },
   "CRLY0000002": {
     "IFSC": "CRLY0000002",
@@ -23,14 +24,14 @@
     "STATE": "DELHI",
     "ADDRESS": "Mercantile House, 6th Floor, 15 Kasturba Gandhi Marg, New Delhi- 110 001",
     "CONTACT": "01123739177",
-    "DATE": null,
     "BANK": "CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "DELHI",
     "MICR": "110240252",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CRLY0000004": {
     "IFSC": "CRLY0000004",
@@ -40,14 +41,14 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "DBS  Westminster Bldg, 2nd Floor, 108 Radhakrishna Salai, Mylapore, Chennai- 600 004",
     "CONTACT": "04428478004",
-    "DATE": null,
     "BANK": "CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR": "600151001",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CRLY0000005": {
     "IFSC": "CRLY0000005",
@@ -57,14 +58,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "11th Floor, Hoechst House, Nariman Point, Mumbai - 400 021",
     "CONTACT": "02256319030",
-    "DATE": null,
     "BANK": "CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "560151002",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CRLY0000006": {
     "BANK": "CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK CALYON BANK",
@@ -80,7 +81,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CRLY0000010": {
     "IFSC": "CRLY0000010",
@@ -90,13 +92,13 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "HOECHST HOUSE 11TH FLOOR, NARIMAN POINT",
     "CONTACT": "2267371000",
-    "DATE": "41739",
     "MICR": "400151002",
     "BANK": "CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

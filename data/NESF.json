@@ -11,10 +11,10 @@
     "IMPS": true,
     "CITY": "GUWAHATI",
     "UPI": false,
-    "DATE": "2017-12-07",
     "RTGS": true,
     "MICR": "NA",
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "NESF0000002": {
     "IFSC": "NESF0000002",
@@ -24,14 +24,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "S/O, MR. MAHENDRA NATH BRAHMA, RESIDING AT ZOO ROAD, PO - GUWAHATI, PS - GUWAHATI, DIST - KAMRUP(M), ASSAM - 781003",
     "CONTACT": null,
-    "DATE": "2017-12-07",
     "MICR": "781773002",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "GUWAHATI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000003": {
     "IFSC": "NESF0000003",
@@ -41,14 +41,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "KSHUDRAPALAHA, BAIHATA CHARIALI, KAMRUP, ASSAM - 781381",
     "CONTACT": null,
-    "DATE": "2017-12-07",
     "MICR": "781773501",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "BAIHATA CHARIALI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000004": {
     "IFSC": "NESF0000004",
@@ -58,14 +58,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "KDM COMPLEX, GHUNUSHA, PO - JAGIROAD, PS - JAGIROAD, DIST - MORIGAON, ASSAM - 782410",
     "CONTACT": "00",
-    "DATE": "43734",
     "MICR": "782773202",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "JAGIROAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000005": {
     "IFSC": "NESF0000005",
@@ -75,14 +75,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "S/O LATE BALAK BAISHYA, RESIDING AT VILLAGE NAPARA (BUS STAND), PO - SUALKUCHI, PS - SUALKUCHI, DIST - KAMRUP, ASSAM - 781103",
     "CONTACT": null,
-    "DATE": "2017-12-07",
     "MICR": "781773502",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "SUALKUCHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000006": {
     "IFSC": "NESF0000006",
@@ -92,14 +92,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "PANIGAON CHARIALI,APARNA BHAWAN,SIX ALI ROAD,ITACHALI,NAGAON -782003",
     "CONTACT": null,
-    "DATE": "2018-04-06",
     "MICR": "782773102",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000007": {
     "IFSC": "NESF0000007",
@@ -109,14 +109,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "W/O PROBIR BARUAH,BONGALPUKHURI TIN-ALI,JORHAT",
     "CONTACT": null,
-    "DATE": "2018-01-31",
     "MICR": "785773002",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "JORHAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000008": {
     "IFSC": "NESF0000008",
@@ -126,14 +126,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "WARD NO 8,AMOLA PATTY,OPPOSITE INDIAN OIL PETROL PUMP,P.O.DIBRUGARH,P.S - DIBRUGARH,DIST-DIBRUGARH,PIN-786001,ASSAM",
     "CONTACT": null,
-    "DATE": "2018-06-22",
     "MICR": "786773002",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "DIBRUGARH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000009": {
     "IFSC": "NESF0000009",
@@ -143,14 +143,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "OPP.DC OFFICE,NEAR E-RICKSHAW SHOWROOM,PO.BONGAIGAON PS.BONGAIGAON,DIST.BONGAIGAON-783380",
     "CONTACT": null,
-    "DATE": "2018-04-06",
     "MICR": "783773002",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "BONGAIGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000010": {
     "IFSC": "NESF0000010",
@@ -160,14 +160,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "G.D PLAZA,KACHARI GAON,NEAR TRIBENI,P.S-SONITPUR,DISTRICT-SONITPUR,ASSAM,PIN-784001",
     "CONTACT": null,
-    "DATE": "2018-06-08",
     "MICR": "784773002",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "TEZPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000011": {
     "IFSC": "NESF0000011",
@@ -177,14 +177,14 @@
     "STATE": "TRIPURA",
     "ADDRESS": "A.A ROAD,KAMARPUKURPAR,OPP.MUCHOUMUHANI,BESIDE TROPICAL NURSING HOME,CHOWMUHANI BAZAR,AGARTALA-799007,WEST TRIPURA",
     "CONTACT": null,
-    "DATE": "2018-04-06",
     "MICR": "799773002",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "AGARTALA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000012": {
     "IFSC": "NESF0000012",
@@ -194,14 +194,14 @@
     "STATE": "SIKKIM",
     "ADDRESS": "TADONG,DARAGAON,P.O-TADAONG DARAGAON,P.S - GANGTOK,DIST-EAST SIKKIM,SIKKIM,PIN-737102",
     "CONTACT": null,
-    "DATE": "2018-06-22",
     "MICR": "737773002",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "GANGTOK",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000013": {
     "IFSC": "NESF0000013",
@@ -211,14 +211,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "OPP.FIRE BRIGADE,WARD NO.9,PO.MANGALDOI,PS.MANGALDOI,DIST.DARRANG-784125",
     "CONTACT": null,
-    "DATE": "2018-04-06",
     "MICR": "784773102",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "MANGALDOI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000014": {
     "IFSC": "NESF0000014",
@@ -228,14 +228,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "DHARMAKANTA ROAD,WARD NO.4,DHEMAJI",
     "CONTACT": null,
-    "DATE": "2018-01-31",
     "MICR": "787773102",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "DHEMAJI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000015": {
     "IFSC": "NESF0000015",
@@ -245,14 +245,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "VILL-DERGAON TOWN,WARD NO.II,PO DERGAON,PS.DERGAON,DIST.GOLAGHAT,ASSAM",
     "CONTACT": null,
-    "DATE": "2018-04-06",
     "MICR": "785773502",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "DERGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000016": {
     "IFSC": "NESF0000016",
@@ -262,14 +262,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "NEAR GOLAGHAT TENNIS CLUB ( OLD UBI BUILDING ),PO.GOLAGHAT PS.GOLAGHAT,DIST.GOLAGHAT-785621",
     "CONTACT": null,
-    "DATE": "2018-04-06",
     "MICR": "785773102",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "GOLAGHAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000017": {
     "IFSC": "NESF0000017",
@@ -279,14 +279,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "DIPHU MAIN BAZAR ROAD,OPP JAYANTI RANGPI RESIDENCE,P.O.DIPHU,PS - DIPHU",
     "CONTACT": null,
-    "DATE": "2018-07-31",
     "MICR": "782773002",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "DIPHU",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000018": {
     "IFSC": "NESF0000018",
@@ -296,14 +296,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "ISMAIL COMPLEX,LOVELY HOTEL BUILDING,NEAR PETROL PUMP,NH-15",
     "CONTACT": null,
-    "DATE": "2018-04-06",
     "MICR": "784773501",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "MANGALDOI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000019": {
     "IFSC": "NESF0000019",
@@ -313,14 +313,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "DHEKIAJULI,PO.DHEKIAJULI,PS.DHEKIAJULI,ASSAM,PIN-784 110",
     "CONTACT": null,
-    "DATE": "43357",
     "MICR": "784773302",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "SONITPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000020": {
     "IFSC": "NESF0000020",
@@ -330,14 +330,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "WARD NO-4,P.O-BOKAKHAT,P.S - BOKAKHAT,DIST - GOLAGHAT,PIN-785612,ASSAM",
     "CONTACT": null,
-    "DATE": "2018-07-31",
     "MICR": "785773504",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "BOKAKHAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000021": {
     "IFSC": "NESF0000021",
@@ -347,14 +347,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "VILL& PO JAMUGURIHAT,PS JAMUGURI",
     "CONTACT": null,
-    "DATE": "2018-10-08",
     "MICR": "783773506",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "JAMUGURIHAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000022": {
     "IFSC": "NESF0000022",
@@ -364,14 +364,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "BANDERDEWA,P.O-POTHALI PAHAR,P.S-BIHPURIA OUTPOST",
     "CONTACT": null,
-    "DATE": "2018-07-31",
     "MICR": "787773501",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "BANDERDEWA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000023": {
     "IFSC": "NESF0000023",
@@ -381,14 +381,14 @@
     "STATE": "SIKKIM",
     "ADDRESS": "JORETHANG,P.O.JORETHANG,P.S JORETHANG,PIN-737121",
     "CONTACT": null,
-    "DATE": "2018-09-06",
     "MICR": "737773152",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "SOUTH SIKKIM",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000024": {
     "IFSC": "NESF0000024",
@@ -398,14 +398,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "WARD NO.7,RAWMARI,PO.CHAPAR,PS.CHAPAR",
     "CONTACT": null,
-    "DATE": "2018-07-31",
     "MICR": "783773503",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHAPAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000025": {
     "IFSC": "NESF0000025",
@@ -415,14 +415,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "NEAR OLD BUS STAND SONA LODGE,BARPETA ( SARBANANDA PATH),P.O& P.S - BARPETA,DISTRICT - BARPETA,ASSAM,PIN-781301",
     "CONTACT": null,
-    "DATE": "2018-04-06",
     "MICR": "781773102",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "BARPETA TOWN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000026": {
     "IFSC": "NESF0000026",
@@ -432,14 +432,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "WARD NO.4,VILL & P.O-TANGLA,DIST UDALGURI,BTAD,ASSAM,PIN-784 521",
     "CONTACT": "09127063638",
-    "DATE": "2018-06-01",
     "MICR": "784773502",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "TANGLA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000028": {
     "IFSC": "NESF0000028",
@@ -449,14 +449,14 @@
     "STATE": "TRIPURA",
     "ADDRESS": "LAXMI NARAYAN BHAWAN,OPP.NETAJI NAGAR HIGH SCHOOL,VILL NETAJINAGAR,A.A ROAD,PO.TELIAMURA,PS.TELIAMURA,DIST.KHOWAI,WEST TRIPURA-799205",
     "CONTACT": null,
-    "DATE": "2018-04-06",
     "MICR": "799773052",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "AGARTALA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000029": {
     "IFSC": "NESF0000029",
@@ -466,14 +466,14 @@
     "STATE": "TRIPURA",
     "ADDRESS": "JIRANIA BLOCK,CHOWMUHANI,P.O JIRANIA,BIRENDRA NAGAR,DIST WEST TRIPURA-799045",
     "CONTACT": null,
-    "DATE": "2018-04-06",
     "MICR": "799773003",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "AGARTALA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000030": {
     "IFSC": "NESF0000030",
@@ -483,14 +483,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "WARD NO.2,PO.SIMALUGURI.PS.SIMALUGURI",
     "CONTACT": null,
-    "DATE": "2018-10-05",
     "MICR": "785773508",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "SIMALUGURI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000031": {
     "IFSC": "NESF0000031",
@@ -500,14 +500,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "VILL DHEKIAL,DHEKIAL CHARIALI,BLOCK - KATHALGURI,SUB DIV - DERGAON,P.S - DERGAON,DIST-GOLAGHAT,PIN-785622",
     "CONTACT": null,
-    "DATE": "2018-01-31",
     "MICR": "785773501",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "DHEKIAL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000032": {
     "IFSC": "NESF0000032",
@@ -517,14 +517,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "VILL.BORHOLLA,PO.BORHOLLA PS.BORHOLLA,PIN-785631",
     "CONTACT": null,
-    "DATE": "2018-09-19",
     "MICR": "785773505",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "BORHOLA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000033": {
     "IFSC": "NESF0000033",
@@ -534,14 +534,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "WARD-2,TITABOR TINIALI,PO.TITABOR",
     "CONTACT": null,
-    "DATE": "2018-10-16",
     "MICR": "785773507",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "TITABOR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000034": {
     "IFSC": "NESF0000034",
@@ -551,14 +551,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "BAPUJINAGAR,PO.BALADMARI,PS.GOALPARA,PIN-783121,ASSAM",
     "CONTACT": null,
-    "DATE": "2018-10-03",
     "MICR": "783773202",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "GOALPARA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000036": {
     "IFSC": "NESF0000036",
@@ -568,14 +568,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "WARD NO 3,TIHU,P.O.TIHU,P.S - TIHU,DIST-NALBARI,PIN-781371,ASSAM",
     "CONTACT": null,
-    "DATE": "2018-06-22",
     "MICR": "781773510",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "TIHU",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000037": {
     "IFSC": "NESF0000037",
@@ -585,14 +585,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "WARD NO.NO-06,SIMLAGURI,P.O - SIMLAGURI,P.S - BARPETA ROAD,DIST-BARPETA,PIN-781313,ASSAM",
     "CONTACT": null,
-    "DATE": "2018-06-22",
     "MICR": "781773152",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "BARPETA ROAD",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000038": {
     "IFSC": "NESF0000038",
@@ -602,14 +602,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "WARD NO 1 PAHSALA PO PATHSALA PS,ASSAM,PIN-781325",
     "CONTACT": null,
-    "DATE": "2018-10-03",
     "MICR": "781773402",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "PATHSALA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000039": {
     "IFSC": "NESF0000039",
@@ -619,14 +619,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "CHALANTAPARA,PO.CHALANTAPARA,PIN-783 388,ASSAM",
     "CONTACT": null,
-    "DATE": "2018-10-03",
     "MICR": "783773502",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "BOITAMARI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000040": {
     "IFSC": "NESF0000040",
@@ -636,14 +636,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "AT ROAD,TEOK,PO.TEOK,PS.TEOK",
     "CONTACT": null,
-    "DATE": "2018-10-16",
     "MICR": "785773503",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "TEOK",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000041": {
     "IFSC": "NESF0000041",
@@ -653,14 +653,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "WARD NO.3,PO.NAZIRA PS.NAZIRA,SIVASAGAR",
     "CONTACT": null,
-    "DATE": "2018-10-12",
     "MICR": "785773510",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAZIRA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000042": {
     "IFSC": "NESF0000042",
@@ -670,14 +670,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "B.G ROAD,STATION CHARIALI,IN FRONT OF HDFC BANK,P.O.SIVASAGAR,P.S - SIVASAGAR,DIST-SIVASAGAR,PIN-785640,ASSAM",
     "CONTACT": null,
-    "DATE": "2018-06-22",
     "MICR": "785773202",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "SIVASAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000043": {
     "IFSC": "NESF0000043",
@@ -687,14 +687,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "MAINAKHORONG,PAMOHI,P.S GORCHUK,P.O PAMOHI",
     "CONTACT": null,
-    "DATE": "2018-04-06",
     "MICR": "781773003",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "GUWAHATI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000044": {
     "IFSC": "NESF0000044",
@@ -704,14 +704,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "FATASIL,PO.DHIRENPARA,PS.FATASIL AMBARI,DIST.KAMRUP(M),ASSAM,PIN - 781025",
     "CONTACT": "00",
-    "DATE": "2019-03-16",
     "MICR": "781773005",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "GUWAHATI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000045": {
     "IFSC": "NESF0000045",
@@ -721,14 +721,14 @@
     "STATE": "MEGHALAYA",
     "ADDRESS": "UMLYNGDIAT,OPPOSITE FIRE BRIGADE,PO& P.S - NONGPOH,PIN - 793102",
     "CONTACT": null,
-    "DATE": "2018-09-04",
     "MICR": "793773502",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "NONGPOH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000047": {
     "IFSC": "NESF0000047",
@@ -738,14 +738,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "SOA)",
     "CONTACT": "00",
-    "DATE": "2019-01-14",
     "MICR": "783773505",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "MATIA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000048": {
     "IFSC": "NESF0000048",
@@ -755,14 +755,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "GAURIPUR,P.O-GAURIPUR,P.S-GAURIPUR",
     "CONTACT": null,
-    "DATE": "2018-07-31",
     "MICR": "783773504",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "GAURIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000049": {
     "IFSC": "NESF0000049",
@@ -772,14 +772,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "LALUK,P.O - LALUK,P.S - LALUK",
     "CONTACT": null,
-    "DATE": "2018-10-05",
     "MICR": "787773506",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "NORTH LAKHIMPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000051": {
     "IFSC": "NESF0000051",
@@ -789,14 +789,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "WARD NO-7,NORTH LAKHIMPUR,PO.NORTH LAKHIMPUR,PS.NORTH LAKHIMPUR,DIST.LAKHIMPUR,ASSAM,PIN-787001",
     "CONTACT": null,
-    "DATE": "2018-09-24",
     "MICR": "787773002",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "NORTH LAKHIMPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000052": {
     "IFSC": "NESF0000052",
@@ -806,14 +806,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "11 NO.KASHGAON,PO BISWANATH CHARIALI,PS BISWANATH CHARIALI,PIN-784176",
     "CONTACT": null,
-    "DATE": "2018-09-19",
     "MICR": "784773202",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "BISWANATH CHARIALI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000053": {
     "IFSC": "NESF0000053",
@@ -823,14 +823,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "VILL.MARAMGAON, PO. BORGANG, PS.BORGANG-BHELI",
     "CONTACT": null,
-    "DATE": "2018-10-16",
     "MICR": "784773504",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "BORGANG",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000054": {
     "IFSC": "NESF0000054",
@@ -840,14 +840,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "SONAPUR 2 NO.JYOTINAGAR,BORKATGAON",
     "CONTACT": null,
-    "DATE": "2018-10-05",
     "MICR": "781773503",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "SONAPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000055": {
     "IFSC": "NESF0000055",
@@ -857,14 +857,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "WARD NO.3 ( OPPOSITE SBI MORIGAON BRANCH ) P.O/ P.S - MORIGAON,DISTRICT - MORIGAON,ASSAM,PIN-782105",
     "CONTACT": null,
-    "DATE": "2018-06-08",
     "MICR": "782773203",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "MORIGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000056": {
     "IFSC": "NESF0000056",
@@ -874,14 +874,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "BORKA,PO.PUB BORKA,PS.KAMALPUR,PIN-781101",
     "CONTACT": null,
-    "DATE": "2018-09-06",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "KAMRUP",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000057": {
     "IFSC": "NESF0000057",
@@ -891,14 +891,14 @@
     "STATE": "TRIPURA",
     "ADDRESS": "WARD NO - 06,PO.AMARPUR,PS.BIRGANJ",
     "CONTACT": null,
-    "DATE": "2018-09-18",
     "MICR": "799773501",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "AMARPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000058": {
     "IFSC": "NESF0000058",
@@ -908,14 +908,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "NIZKATHIATULI,JURIPAR,P.O - JUMURPUR,NAGAON",
     "CONTACT": null,
-    "DATE": "2018-10-12",
     "MICR": "782773503",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "KOTHIATOLI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000059": {
     "IFSC": "NESF0000059",
@@ -925,14 +925,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "BIJNI TOWN,P.O-BIJNI,P.S-BIJNI,PIN-783390,ASSAM",
     "CONTACT": null,
-    "DATE": "2018-10-03",
     "MICR": "783773501",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "BONGAIGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000060": {
     "IFSC": "NESF0000060",
@@ -942,14 +942,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "SSSSDSPASSM",
     "CONTACT": "00",
-    "DATE": "2019-01-14",
     "MICR": "781773504",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "SARTHEBARI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000061": {
     "IFSC": "NESF0000061",
@@ -959,14 +959,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "VILL - BOKO,PO - BOKO,PS-BOKO,ASSAM",
     "CONTACT": null,
-    "DATE": "2018-10-03",
     "MICR": "781773507",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "BOKO",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000062": {
     "IFSC": "NESF0000062",
@@ -976,14 +976,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "VILL DHUPDHARA PT-2,PO DHUPDHARA PS DHUPDHARA",
     "CONTACT": null,
-    "DATE": "2018-10-08",
     "MICR": "784773505",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "DHUPDHARA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000063": {
     "IFSC": "NESF0000063",
@@ -993,14 +993,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "VILL.CHABUA TOWN,OPP.SBI CHABUA BRANCH,PO.CHABUA PS.CHABUA,DIST.DIBRUGARH-786184",
     "CONTACT": null,
-    "DATE": "2018-04-06",
     "MICR": "786773502",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHABUA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000064": {
     "IFSC": "NESF0000064",
@@ -1010,14 +1010,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "S/O,BHUBAN CH HAZARIKA,RESIDING AT VILL.TENGAKGAT,PO.TENGAKGAT PS.TENGAKGAT,DIST.DIBRUGARH",
     "CONTACT": null,
-    "DATE": "2018-01-31",
     "MICR": "786773501",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "TENGAKHAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000065": {
     "IFSC": "NESF0000065",
@@ -1027,14 +1027,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "GOBORDHAN GRANT,P.O-CHANDRAPUR,P.S-PRAGJYOTISHPUR",
     "CONTACT": null,
-    "DATE": "2018-09-18",
     "MICR": "781773508",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "GUWAHATI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000066": {
     "IFSC": "NESF0000066",
@@ -1044,14 +1044,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "VILL.MAINAPARA,PO.GOGAMUKH",
     "CONTACT": null,
-    "DATE": "2018-10-16",
     "MICR": "787773503",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "GOGAMUKH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000067": {
     "IFSC": "NESF0000067",
@@ -1061,14 +1061,14 @@
     "STATE": "ARUNACHAL PRADESH",
     "ADDRESS": "COMMERCIAL PLOT NO.652,PASSIGHAT MARKET,PASSIGHAT BAZAR,PO - PASSIGHAT,PS PASSIGHAT",
     "CONTACT": null,
-    "DATE": "2018-07-31",
     "MICR": "791773502",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "PASIGHAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000068": {
     "IFSC": "NESF0000068",
@@ -1078,14 +1078,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "VILL.BALIGAON,PO.DHAKUAKHANA PS.DHAKUAKHANA,DIST.NORTH LAKHIMPUR",
     "CONTACT": "00",
-    "DATE": "2019-01-14",
     "MICR": "787773505",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "DHAKUAKHANA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000069": {
     "IFSC": "NESF0000069",
@@ -1095,14 +1095,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "WARD NO.2 BIHPURIA,PO.BIHPURIA,PS.BIHPURIA,DIST.LAKHIMPUR,ASSAM",
     "CONTACT": "00",
-    "DATE": "2019-01-14",
     "MICR": "787773504",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "BIHPURIA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000070": {
     "IFSC": "NESF0000070",
@@ -1112,14 +1112,14 @@
     "STATE": "ARUNACHAL PRADESH",
     "ADDRESS": "OKNSUAUNHSH",
     "CONTACT": "00",
-    "DATE": "2019-01-14",
     "MICR": "791773503",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "PAPUMPARE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000071": {
     "IFSC": "NESF0000071",
@@ -1129,14 +1129,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "AMRANGA,PO.BORIHAT,P.S-PALASHBARI",
     "CONTACT": null,
-    "DATE": "2018-10-05",
     "MICR": "781773505",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "BORIHAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000072": {
     "IFSC": "NESF0000072",
@@ -1146,14 +1146,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "NH-37,OPPOSITE-CHAYGAON POLICE STATION,CHAYGAON,ASSAM,PIN-781124",
     "CONTACT": null,
-    "DATE": "2018-10-03",
     "MICR": "781773509",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHAYGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000073": {
     "IFSC": "NESF0000073",
@@ -1163,14 +1163,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "DEBERAPAR CHARI ALI,NEAR SBI ATM PO,JORHAT",
     "CONTACT": null,
-    "DATE": "2018-10-12",
     "MICR": "785773506",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAKACHARI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000074": {
     "IFSC": "NESF0000074",
@@ -1180,14 +1180,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "VILL.NAMDANGIA BONGALIGAON,PO.GAURISA,ASSAM",
     "CONTACT": null,
-    "DATE": "2018-10-03",
     "MICR": "785773509",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "GAURISAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000075": {
     "IFSC": "NESF0000075",
@@ -1197,14 +1197,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "WARD NO-4,GOHPUR,P.O-GAHPUR,P.S-GAHPUR",
     "CONTACT": null,
-    "DATE": "2018-10-12",
     "MICR": "784773503",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "SONITPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000076": {
     "IFSC": "NESF0000076",
@@ -1214,14 +1214,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "WARD NO 1 JAKHRIA PO DIKRANG PS NAR",
     "CONTACT": null,
-    "DATE": "2018-10-05",
     "MICR": "787773502",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "NARAYANPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000077": {
     "IFSC": "NESF0000077",
@@ -1231,14 +1231,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "AHATGURI,P.O - AHATGURI,P.S-DHARAMTUL",
     "CONTACT": null,
-    "DATE": "2018-07-31",
     "MICR": "782773501",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "AHATGURI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000078": {
     "IFSC": "NESF0000078",
@@ -1248,14 +1248,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "VILL.NAKHANDIA,PO.CHARAIBAHI,PS.MIKIRBHETA,DIST.(ASSAM)MORIGAON",
     "CONTACT": "00",
-    "DATE": "2019-03-16",
     "MICR": "782773502",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "MORIGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000079": {
     "IFSC": "NESF0000079",
@@ -1265,14 +1265,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "BALISATRA ANCAHALIK SPORTS ASSOCIATION,BALISATRA,PO BALISATRA,PS - KALYAN",
     "CONTACT": null,
-    "DATE": "2018-09-18",
     "MICR": "781773511",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "BALISATRA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000081": {
     "IFSC": "NESF0000081",
@@ -1282,14 +1282,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "SANTIPUR,WARD NO-7,NALBARI,NEAR AGREECULTURE OFFICE,ASSAM,PIN - 781335",
     "CONTACT": "00",
-    "DATE": "2019-09-27",
     "MICR": "781773202",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "NALBARI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000084": {
     "IFSC": "NESF0000084",
@@ -1299,14 +1299,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "KUSHAL NAGAR,P.O.MORANHAT,P.S MORAN",
     "CONTACT": "00",
-    "DATE": "13-02-2020",
     "MICR": "785773402",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "MORAN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000085": {
     "IFSC": "NESF0000085",
@@ -1316,14 +1316,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "CHIRWAPATTY,PO.TINSUKIA,PS.TINSUKIA,DIST.TINSUKIA,ASSAM-786125",
     "CONTACT": "00",
-    "DATE": "2019-04-04",
     "MICR": "786773202",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "TINSUKIA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000087": {
     "IFSC": "NESF0000087",
@@ -1333,14 +1333,14 @@
     "STATE": "MEGHALAYA",
     "ADDRESS": "MISSION COMPOUND,IEWDUH BARABAZAR",
     "CONTACT": null,
-    "DATE": "2018-10-29",
     "MICR": "793773002",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "SHILLONG",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000089": {
     "IFSC": "NESF0000089",
@@ -1350,14 +1350,14 @@
     "STATE": "ARUNACHAL PRADESH",
     "ADDRESS": "VILL.NIRJULI,BAGE TINALI PO.NAHARLAGUN PS.NAHARLAGUN,DIST.PAPUMPARE,ARUNACHAL PRADESH,PIN-791109",
     "CONTACT": null,
-    "DATE": "2018-09-24",
     "MICR": "791773501",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "BAGE TINALI NAHARLAGUN",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000092": {
     "IFSC": "NESF0000092",
@@ -1367,14 +1367,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "VILL-BEZERA,PO BEZERAPS BAIHATA CHARIALI,DIST-KAMRUP ASSAM",
     "CONTACT": "00",
-    "DATE": "2019-10-25",
     "MICR": "781773518",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "BEZERA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000096": {
     "IFSC": "NESF0000096",
@@ -1384,14 +1384,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "RUDFLR,FRTUECETRAL,BASISTHAPUR,BYELAE3,BELTLAUWAHATI,ASSAM",
     "CONTACT": "00",
-    "DATE": "2019-02-18",
     "MICR": "781773008",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "GUWAHATI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000099": {
     "IFSC": "NESF0000099",
@@ -1401,14 +1401,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "ABHAYPUR,P.O-COLLEGE NAGAR,NORTH GUWAHATI",
     "CONTACT": "00",
-    "DATE": "2019-11-19",
     "MICR": "781773009",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "NORTH GUWAHATI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000100": {
     "IFSC": "NESF0000100",
@@ -1418,14 +1418,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "NEAR SBI,ABOVE GURDWARA,PO-LANKA,HOJAI-782446",
     "CONTACT": "00",
-    "DATE": "2020-10-13",
     "MICR": "782773303",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "LANKA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000101": {
     "IFSC": "NESF0000101",
@@ -1435,14 +1435,14 @@
     "STATE": "MEGHALAYA",
     "ADDRESS": "BYRNIHAT,NEAR ICICI BANK LIMITED,P.O BYRNIHAT,P.S-BYRNIHAT,DIST-RI-BHOI,MEGHALAYA,793101",
     "CONTACT": "00",
-    "DATE": "2019-06-21",
     "MICR": "793773503",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "BYRNIHAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000104": {
     "IFSC": "NESF0000104",
@@ -1452,14 +1452,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "JUGIPARA,VIP,P.O-GUWAHATI AIRPORT,P.S.AZARA",
     "CONTACT": "00",
-    "DATE": "05-02-2020",
     "MICR": "781773516",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "GUWAHATI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000105": {
     "IFSC": "NESF0000105",
@@ -1469,14 +1469,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "NARENGI TINIALI,P.O-NARENGI,P.S - NOONMATI,DIST-KAMRUP,ASSAM",
     "CONTACT": "00",
-    "DATE": "2019-02-18",
     "MICR": "781773007",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "GUWAHATI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000106": {
     "IFSC": "NESF0000106",
@@ -1486,14 +1486,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "WARD NO-3,PO& PS - MARIANI,DIST - JORHAT,ASSAM",
     "CONTACT": "00",
-    "DATE": "2019-10-22",
     "MICR": "785773003",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "MARIANI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000109": {
     "IFSC": "NESF0000109",
@@ -1503,14 +1503,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "JALAHGHAT,PO. JALAHGHAT, PS. JALAHAGHAT, DIST. BAKSA (BTAD), ASSAM",
     "CONTACT": "00",
-    "DATE": null,
     "MICR": "781773514",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "JALAH",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000112": {
     "IFSC": "NESF0000112",
@@ -1520,14 +1520,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "P.O - NELLIE,P.S -JAGIROAD,MORIGAON",
     "CONTACT": "00",
-    "DATE": "26-02-2020",
     "MICR": "782773506",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "NELLIE",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000114": {
     "IFSC": "NESF0000114",
@@ -1537,14 +1537,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "JAYPURTINIALI,PO.NAHARKATIA,PS.NAHARKATIA,DIST.DIBRUGARH,ASSAM STATE,788610",
     "CONTACT": "00",
-    "DATE": "2019-06-21",
     "MICR": "786773252",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "NAHARKATIA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000115": {
     "IFSC": "NESF0000115",
@@ -1554,14 +1554,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "VILL.BARGHULI,PS-TAMULPUR",
     "CONTACT": null,
-    "DATE": "2018-09-26",
     "MICR": "781773512",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "DWARKUCHI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000124": {
     "IFSC": "NESF0000124",
@@ -1571,14 +1571,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "WARD NO-7,P.O- & P.S-SILAPATHAR,DIST-DHEMAJI,ASSAM,PIN - 787059",
     "CONTACT": "00",
-    "DATE": "2019-09-03",
     "MICR": "787773103",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "SILAPATHAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000125": {
     "IFSC": "NESF0000125",
@@ -1588,14 +1588,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "KALAG,OPPOSIT BARBHAG COLLEGE,P.O.- KALAG,KAMARKUCHI",
     "CONTACT": "00",
-    "DATE": "26-02-2020",
     "MICR": "781773515",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "BARBHAG",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000126": {
     "IFSC": "NESF0000126",
@@ -1605,14 +1605,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "OPPOSITEOFKALAIGAONHIGHERSECONDARYSCHOOL,VILL-KALAIGAON,PO-KALAIGAON,PS-KALAIGAON",
     "CONTACT": "00",
-    "DATE": "2019-10-22",
     "MICR": "784773507",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "KALAIGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000134": {
     "IFSC": "NESF0000134",
@@ -1622,14 +1622,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "VILL.BACHAGAON,PO.PANIGAON,PS.PANIGAON,DIST.NORTH LAKHIMPUR",
     "CONTACT": "00",
-    "DATE": "2019-01-14",
     "MICR": "787773507",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "PANIGAON",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000135": {
     "IFSC": "NESF0000135",
@@ -1639,14 +1639,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "WARD NO.1,COLLEGE ROAD,OPPOSITE LUMDING COLLEGE,DIST-NAGAON ASSAM",
     "CONTACT": "00",
-    "DATE": "2019-10-25",
     "MICR": "782773152",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "LUMDING",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000137": {
     "IFSC": "NESF0000137",
@@ -1656,14 +1656,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "JONAI BAZAR,P.O& P.S JONAI,DIST-DHEMAJI,ASSAM",
     "CONTACT": "00",
-    "DATE": "2019-08-09",
     "MICR": "787773508",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "JONAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000138": {
     "IFSC": "NESF0000138",
@@ -1673,14 +1673,14 @@
     "STATE": "WEST BENGAL",
     "ADDRESS": "BESIDE AXIS BANK LTD.1ST FLOOR,GOUTI ESTATE,TEENKONIYAMORE,NEAR GROCERY WHOLESALE MARKET,PO DINBAZAR,PS-KOTWALI",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "735773002",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "JALPAIGURI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000143": {
     "IFSC": "NESF0000143",
@@ -1690,14 +1690,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "PACHANIJAR,WARD NO-4,OPPOSITE PACHANIJAR SHIV MANDIR,KAMPUR-782426",
     "CONTACT": "00",
-    "DATE": "2020-10-23",
     "MICR": "782773507",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "KAMPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000149": {
     "IFSC": "NESF0000149",
@@ -1707,14 +1707,14 @@
     "STATE": "MANIPUR",
     "ADDRESS": "WARD NO-03,PO LAMPHELPAT,PS IMPHAL",
     "CONTACT": null,
-    "DATE": "2018-10-29",
     "MICR": "795773003",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "LAMPHELPAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000150": {
     "IFSC": "NESF0000150",
@@ -1724,14 +1724,14 @@
     "STATE": "MANIPUR",
     "ADDRESS": "KHUWAI THANGJAM LEIKAI,PO LANGLONG,PS POROMPAT",
     "CONTACT": null,
-    "DATE": "2018-10-29",
     "MICR": "795773002",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "POROMPAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000151": {
     "IFSC": "NESF0000151",
@@ -1741,14 +1741,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "WARD NO-04,PO.SILCHAR,PS.MALUGRAM,DIST.CACHAR,ASSAM,PIN-788001",
     "CONTACT": null,
-    "DATE": "2018-09-24",
     "MICR": "788773002",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "SILCHAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000152": {
     "IFSC": "NESF0000152",
@@ -1758,14 +1758,14 @@
     "STATE": "MEGHALAYA",
     "ADDRESS": "VILL / PO/PS MAIRANG,PYNDENGUMIONG,SHILLONG",
     "CONTACT": null,
-    "DATE": "2018-10-10",
     "MICR": "793773501",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "MAIRANG",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000153": {
     "IFSC": "NESF0000153",
@@ -1775,14 +1775,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "WARD NO - 2,PO& PS HAILAKANDI",
     "CONTACT": null,
-    "DATE": "2018-10-29",
     "MICR": "788773202",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "HAILAKANDI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000155": {
     "IFSC": "NESF0000155",
@@ -1792,14 +1792,14 @@
     "STATE": "MEGHALAYA",
     "ADDRESS": "LADTHALABOH,JOWAI,P.O-JOWAI,P.S-JOWAI,MEGHALAYA,793150",
     "CONTACT": null,
-    "DATE": "2018-10-30",
     "MICR": "793773102",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "JOWAI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000156": {
     "IFSC": "NESF0000156",
@@ -1809,14 +1809,14 @@
     "STATE": "MEGHALAYA",
     "ADDRESS": "KHLIEHRIAT,EAST JAINTIA HILLS,DIST-EAST JAINTIA HILLS,MEGHALAYA",
     "CONTACT": null,
-    "DATE": "2018-11-02",
     "MICR": "793773402",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "KHLIEHRIAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000157": {
     "IFSC": "NESF0000157",
@@ -1826,14 +1826,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "SAHPUR RAJGHAT,PO.GAMARIMURI,PS.BELSOR,PIN - 781306",
     "CONTACT": null,
-    "DATE": "2018-09-19",
     "MICR": "781773513",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "SAHPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000160": {
     "IFSC": "NESF0000160",
@@ -1843,14 +1843,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "WARD NO-19,PO& PS KARIMGANJ",
     "CONTACT": null,
-    "DATE": "2018-10-29",
     "MICR": "788773012",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "KARIMGANJ",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000162": {
     "IFSC": "NESF0000162",
@@ -1860,14 +1860,14 @@
     "STATE": "TRIPURA",
     "ADDRESS": "WARD NO-15,DHARMANAGAR,PO.DHARMANAGAR PS.DHARMANAGAR,DIST.NORTH TRIPURA,TRIPURA,PIN -799250",
     "CONTACT": "00",
-    "DATE": "2019-08-28",
     "MICR": "799773102",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "DHARMANAGAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000163": {
     "IFSC": "NESF0000163",
@@ -1877,14 +1877,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "VILL KHADIMAN,PO.BADARPURGHAT,PS.BADARPUR,DIST.KARIMGANJ,ASSAM,PIN - 788803",
     "CONTACT": "00",
-    "DATE": "2019-07-22",
     "MICR": "788773103",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "BADARPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000164": {
     "IFSC": "NESF0000164",
@@ -1894,14 +1894,14 @@
     "STATE": "SIKKIM",
     "ADDRESS": "TAMBUTAR,NONDOK BLOCK,PO.RANIPOOL,PS.RANIPOOL,DIST.GANGTOK,737135",
     "CONTACT": "00",
-    "DATE": "2019-06-21",
     "MICR": "737773003",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "SARAMSA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000165": {
     "IFSC": "NESF0000165",
@@ -1911,14 +1911,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "RANI FOREST CHOWK,P.O-RANI,P.S-PALASHBARI,DIST-KAMRUP,ASSAM STATE,PIN-781131",
     "CONTACT": "00",
-    "DATE": "2019-01-23",
     "MICR": "781773006",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "GUWAHATI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000167": {
     "IFSC": "NESF0000167",
@@ -1928,14 +1928,14 @@
     "STATE": "MANIPUR",
     "ADDRESS": "SINGJAMEI,P.O-IMPHAL,P.S-SINGJAMEI,DIST-IMPHAL ( WEST),MANIPUR",
     "CONTACT": "00",
-    "DATE": "2019-07-17",
     "MICR": "795773004",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "SINGJAMEI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000169": {
     "IFSC": "NESF0000169",
@@ -1945,14 +1945,14 @@
     "STATE": "MIZORAM",
     "ADDRESS": "P/126, TUIKHUAHPLANG, NEAR ALL INDIA RADIO STATION,AIZAWL,MIZORAM",
     "CONTACT": "00",
-    "DATE": null,
     "MICR": "796773002",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "AIZWAL",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000185": {
     "IFSC": "NESF0000185",
@@ -1962,14 +1962,14 @@
     "STATE": "MEGHALAYA",
     "ADDRESS": "SORA ARCADE,BYE LANE-HAWAKHANA,TURA,PO.HAWAKHANA,PS.TURA,DIST.WEST GARO HILLS",
     "CONTACT": "00",
-    "DATE": "2019-07-17",
     "MICR": "794773002",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "TURA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000189": {
     "IFSC": "NESF0000189",
@@ -1979,14 +1979,14 @@
     "STATE": "WEST BENGAL",
     "ADDRESS": "ALIPURDUAR,WARD NO -7,G.F ROAD( OPP.DOARS MOUNTAIN HOTEL),P.O - ALIPURDUAR,P.SALIPURDUAR",
     "CONTACT": "00",
-    "DATE": "2019-10-22",
     "MICR": "736773051",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "ALIPURDUAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000196": {
     "IFSC": "NESF0000196",
@@ -1996,14 +1996,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "LOHARGHAT,P.O.LOHARGHAT,P.S.PALASBARI",
     "CONTACT": "00",
-    "DATE": "05-02-2020",
     "MICR": "781773517",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "GUWAHATI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000199": {
     "IFSC": "NESF0000199",
@@ -2013,14 +2013,14 @@
     "STATE": "TRIPURA",
     "ADDRESS": "SLRC-PERAIVECMPLEX,BHAGASINGHCHUMUHANI,KUMARGHA,UNAKI-799264",
     "CONTACT": "00",
-    "DATE": "2020-10-16",
     "MICR": "799773103",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "KUMARGHAT",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000207": {
     "IFSC": "NESF0000207",
@@ -2030,14 +2030,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "DEBOJANI COMPLEX,CHANDAN NAGAR,HOCKEY STADIUM ROAD,HATIGAON,ASSAM",
     "CONTACT": "00",
-    "DATE": "10-01-2020",
     "MICR": "781773011",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "GUWAHATI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000208": {
     "IFSC": "NESF0000208",
@@ -2047,14 +2047,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "SUBHOM BUILDING,HOUSE NO 198,NEAR EPITOME,GNB ROAD,SILPUKHURI,PO PS-CHANDMARI",
     "CONTACT": "00",
-    "DATE": "2019-11-19",
     "MICR": "781773010",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "GUWAHATI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000214": {
     "IFSC": "NESF0000214",
@@ -2064,14 +2064,14 @@
     "STATE": "WEST BENGAL",
     "ADDRESS": "KAMESWARI ROAD,WARD NO - 1,NEAR BANK OF INDIA P.O - KOCH BIHAR,P.S - KOTWALI",
     "CONTACT": null,
-    "DATE": null,
     "MICR": "736773003",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "KOCH BIHAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000222": {
     "IFSC": "NESF0000222",
@@ -2081,14 +2081,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "WARD NO-4,KOKRAJHAR MARKET,NEAR MRM HOSPITAL,P.O KOKRAJHAR,P.S-KOKRAJHAR - 783370",
     "CONTACT": "00",
-    "DATE": "2020-10-29",
     "MICR": "783773302",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "KOKRAJHAR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000223": {
     "IFSC": "NESF0000223",
@@ -2098,14 +2098,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "3 C PUSHPANJALI ARCADE,G.S.ROAD,ABC BUS STOP,GUWAHATI -781005",
     "CONTACT": "00",
-    "DATE": "2020-11-18",
     "MICR": "781773012",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "GUWAHATI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "NESF0000999": {
     "IFSC": "NESF0000999",
@@ -2115,13 +2115,13 @@
     "STATE": "ASSAM",
     "ADDRESS": "1ST FLOOR FORTUNE CENTRAL BASISTHAPUR BYE NO 3 BELTOLA GUWAHTI",
     "CONTACT": "03617180104",
-    "DATE": "2018-06-01",
     "MICR": "781773004",
     "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
     "UPI": false,
     "RTGS": true,
     "CITY": "GUWAHATI",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

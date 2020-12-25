@@ -7,14 +7,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "PLOT NO.C-24, G-BLOCK, BANDRA-KURLA COMPLEX, BANDRA (E), MUMBAI 400051",
     "CONTACT": "02226530189",
-    "DATE": "2018-05-25",
     "BANK": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
     "NEFT": false,
     "IMPS": true,
-    "MICR": null
+    "MICR": null,
+    "SWIFT": null
   },
   "NBRD0000002": {
     "BANK": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -30,6 +30,7 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

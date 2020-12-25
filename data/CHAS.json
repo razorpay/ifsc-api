@@ -11,10 +11,10 @@
     "IMPS": true,
     "CITY": "MUMBAI",
     "UPI": false,
-    "DATE": "41739",
     "MICR": "400500002",
     "RTGS": true,
-    "NEFT": true
+    "NEFT": true,
+    "SWIFT": null
   },
   "CHAS0INBX02": {
     "IFSC": "CHAS0INBX02",
@@ -24,14 +24,14 @@
     "STATE": "DELHI",
     "ADDRESS": "UNIT NOS. 401 AND 402, 4TH FLOOR, NEW TOWER, BLOCK A, HYATT REGENCY DELHI, BHIKAJI CAMA PLACE, NEW DELHI 100066.",
     "CONTACT": "01166111700",
-    "DATE": "2016-07-12",
     "BANK": "JP MORGAN CHASE BANK, N A",
     "UPI": false,
     "RTGS": true,
     "CITY": "NEW DELHI",
     "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CHAS0INBX03": {
     "IFSC": "CHAS0INBX03",
@@ -41,14 +41,14 @@
     "STATE": "KARNATAKA",
     "ADDRESS": "HOYSALA CORPUS, SECOND FLOOR, SURVEY NUMBER 29(NEW SURVEY NO. 29/5), GUTTAHALLI VILLAGE, KASABA HOBLI, DEVANAHALLI TALUK, BANGALORE RURAL DISTRICT, 562110",
     "CONTACT": "08067693200",
-    "DATE": "2016-07-12",
     "BANK": "JP MORGAN CHASE BANK, N A",
     "UPI": false,
     "RTGS": true,
     "CITY": "BANGALORE",
     "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CHAS0INBX04": {
     "IFSC": "CHAS0INBX04",
@@ -58,13 +58,13 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "THE CANOPY, 2ND AVENUE, 2ND FLOOR, MAHINDRA WORLD CITY SUB-POST, PARANUR, CHENGALPATTU TALUK, KANCHIPURAM DISTRICT 603004.",
     "CONTACT": "00",
-    "DATE": "2016-07-12",
     "BANK": "JP MORGAN CHASE BANK, N A",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR": "WAITING",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

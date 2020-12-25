@@ -7,14 +7,14 @@
     "STATE": "DELHI",
     "ADDRESS": "Gr.Floor and 2nd Floor,Aria Tower,JW Mariott Hotel, Delhi Aerocity,Asset Area 4,New Delhi 110037",
     "CONTACT": "1143688888",
-    "DATE": "2018/08/04",
     "BANK": "CTBC BANK CO LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "NEW DELHI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "CTCB0000002": {
     "IFSC": "CTCB0000002",
@@ -24,14 +24,14 @@
     "STATE": "DELHI",
     "ADDRESS": "Gr.Floor and 2nd Floor,Aria Tower,JW Mariott Hotel, Delhi Aerocity,Asset Area 4,New Delhi 110037",
     "CONTACT": "1143688888",
-    "DATE": "2018/08/05",
     "BANK": "CTBC BANK CO LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "NEW DELHI",
     "NEFT": false,
     "IMPS": true,
-    "MICR": null
+    "MICR": null,
+    "SWIFT": null
   },
   "CTCB0000003": {
     "IFSC": "CTCB0000003",
@@ -41,13 +41,13 @@
     "STATE": "TAMIL NADU",
     "ADDRESS": "SRIPERUMBUDUR BRANCH (CHENNAI), PLOT NO 42 (OLD NO 105), CHENNAI BANGALORE HIGHWAY – NH4, SRIPERUMBUDUR, KANCHEEPURAM, DISTRICT TAMIL NADU - 602105.",
     "CONTACT": "4466227777",
-    "DATE": "2018/08/06",
     "BANK": "CTBC BANK CO LTD",
     "UPI": false,
     "RTGS": true,
     "CITY": "SRIPERUMBUDUR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }

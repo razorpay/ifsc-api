@@ -13,7 +13,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0AHPA01": {
     "BANK": "RESERVE BANK OF INDIA",
@@ -29,7 +30,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0BBPA01": {
     "BANK": "RESERVE BANK OF INDIA",
@@ -45,7 +47,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0BGPA01": {
     "BANK": "RESERVE BANK OF INDIA",
@@ -61,7 +64,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0BLPA01": {
     "BANK": "RESERVE BANK OF INDIA",
@@ -77,7 +81,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0CBICER": {
     "IFSC": "RBIS0CBICER",
@@ -87,14 +92,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MAIN BUILDING ,SHAHID BHAGAT SINGH MARG, MUMBAI 400001",
     "CONTACT": "02222704715",
-    "DATE": "2019-06-27",
     "BANK": "RESERVE BANK OF INDIA",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0CGDAEP": {
     "IFSC": "RBIS0CGDAEP",
@@ -104,14 +109,14 @@
     "STATE": "DELHI",
     "ADDRESS": "6, SANSAD MARG, NEW DELHI - 110001",
     "CONTACT": "01123452057",
-    "DATE": "2020-06-22",
     "BANK": "RESERVE BANK OF INDIA",
     "UPI": false,
     "RTGS": true,
     "CITY": "NEW DELHI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0CGPA01": {
     "BANK": "RESERVE BANK OF INDIA",
@@ -127,7 +132,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0CNPA01": {
     "BANK": "RESERVE BANK OF INDIA",
@@ -143,7 +149,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0COD001": {
     "IFSC": "RBIS0COD001",
@@ -153,14 +160,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "CENTRAL ADMINISTRATION DIVISION, HUMAN RESOURCE MANAGEMENT DEPARTMENT, CENTRAL OFFICE, AMAR BUILDING, 3RD FLOOR, SIR P M ROAD, MUMBAI 400001",
     "CONTACT": "02222661146",
-    "DATE": "43160",
     "BANK": "RESERVE BANK OF INDIA",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0DNPA01": {
     "BANK": "RESERVE BANK OF INDIA",
@@ -176,7 +183,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0GOAPEP": {
     "IFSC": "RBIS0GOAPEP",
@@ -186,14 +194,14 @@
     "STATE": "TELANGANA",
     "ADDRESS": "RESERVE BANK OF INDIA,6/1/56,SECRETARIAT ROAD,SAIFABAD,KHAIRATABAD,HYDERABAD,TELANGANA 500004",
     "CONTACT": "04023230499",
-    "DATE": "2018-03-26",
     "BANK": "RESERVE BANK OF INDIA",
     "UPI": false,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0GOAPER": {
     "BANK": "RESERVE BANK OF INDIA",
@@ -209,7 +217,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0GOASEP": {
     "IFSC": "RBIS0GOASEP",
@@ -219,14 +228,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "STATION ROAD,MAWHATI,PAN BAZAAR,GUWHATI,ASSAM 781001",
     "CONTACT": "3612734266",
-    "DATE": "08-02-2020",
     "BANK": "RESERVE BANK OF INDIA",
     "UPI": false,
     "RTGS": true,
     "CITY": "GUWAHATI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0GOBHEP": {
     "IFSC": "RBIS0GOBHEP",
@@ -236,14 +245,14 @@
     "STATE": "BIHAR",
     "ADDRESS": "RESERVE BANK OF INDIA, SOUTH GANDHI MAIDAN,\nPATNA - 800 001",
     "CONTACT": "06122323291",
-    "DATE": "2019-03-26",
     "BANK": "RESERVE BANK OF INDIA",
     "UPI": false,
     "RTGS": true,
     "CITY": "PATNA",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0GOCGEP": {
     "IFSC": "RBIS0GOCGEP",
@@ -253,14 +262,14 @@
     "STATE": "CHHATTISGARH",
     "ADDRESS": "RESERVE BANK OF INDIA, SUBHASHISH PARISAR SATYA PREM VIHAR MAHADEV GHAT ROAD SUNDER NAGAR RAIPUR 492 013",
     "CONTACT": "0771224231",
-    "DATE": "2018-11-16",
     "BANK": "RESERVE BANK OF INDIA",
     "UPI": false,
     "RTGS": true,
     "CITY": "RAIPUR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0GOGJEP": {
     "IFSC": "RBIS0GOGJEP",
@@ -270,14 +279,31 @@
     "STATE": "GUJARAT",
     "ADDRESS": "RESERVE BANK OF INDIA, NEAR GANDHI BRIDGE, INCOME TAX CIRCLE, ASHRAM ROAD, AHMEDABAD - 380014",
     "CONTACT": "07927540193",
-    "DATE": "2018-04-06",
     "BANK": "RESERVE BANK OF INDIA",
     "UPI": false,
     "RTGS": true,
     "CITY": "AHMEDABAD",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
+  },
+  "RBIS0GOHREP": {
+    "BANK": "RESERVE BANK OF INDIA",
+    "IFSC": "RBIS0GOHREP",
+    "BRANCH": "CHANDIGARH REGIONAL OFFICE",
+    "ADDRESS": "CENTRAL VISTA,SECTOR 17,CHANDIGARH -160017",
+    "CONTACT": "2784213",
+    "CITY": "CHANDIGARH",
+    "DISTRICT": "CHANDIGARH",
+    "STATE": "HARYANA",
+    "MICR": "NA",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": false,
+    "RTGS": false,
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0GOJHEP": {
     "IFSC": "RBIS0GOJHEP",
@@ -287,14 +313,14 @@
     "STATE": "JHARKHAND",
     "ADDRESS": "R.R.D.A. BUILDING ,PRAGATHI SADHAN(4TH FLOOR) KUTCHERY ROAD, RANCHI-834001",
     "CONTACT": "06512223305",
-    "DATE": "2019-12-19",
     "BANK": "RESERVE BANK OF INDIA",
     "UPI": false,
     "RTGS": true,
     "CITY": "RANCHI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0GOJHER": {
     "IFSC": "RBIS0GOJHER",
@@ -304,14 +330,14 @@
     "STATE": "JHARKHAND",
     "ADDRESS": "R.R.D.A.BUILDING,PRAGATI SADAN(4TH FLOOR),KUTCHERY ROAD,RANCHI-834001",
     "CONTACT": "06512210509",
-    "DATE": "2018-11-13",
     "BANK": "RESERVE BANK OF INDIA",
     "UPI": false,
     "RTGS": true,
     "CITY": "RANCHI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0GOJKEP": {
     "IFSC": "RBIS0GOJKEP",
@@ -321,14 +347,14 @@
     "STATE": "JAMMU AND KASHMIR",
     "ADDRESS": "RAIL HEAD COMPLEX,ýJAMMU - 180 012, INDIA",
     "CONTACT": "01912470061",
-    "DATE": "2019-07-10",
     "BANK": "RESERVE BANK OF INDIA",
     "UPI": false,
     "RTGS": true,
     "CITY": "JAMMU",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0GOKAEP": {
     "BANK": "RESERVE BANK OF INDIA",
@@ -344,7 +370,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0GOKAER": {
     "IFSC": "RBIS0GOKAER",
@@ -354,14 +381,14 @@
     "STATE": "KARNATAKA",
     "ADDRESS": "RESERVE BANK OF INDIA, 10/3/8, NRUPTHUNGA ROAD, BENGALURU-560 001",
     "CONTACT": "08022180510",
-    "DATE": "2018-05-15",
     "BANK": "RESERVE BANK OF INDIA",
     "UPI": false,
     "RTGS": true,
     "CITY": "BENGALURU",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0GOMHEP": {
     "IFSC": "RBIS0GOMHEP",
@@ -371,14 +398,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "RESERVE BANK OF INDIA,BANKING DEPT,MAIN BUILDING,MUMBAI REGIONAL OFFICE,FORT,MUMBAI,400 001",
     "CONTACT": "02222610464",
-    "DATE": "2018-02-21",
     "BANK": "RESERVE BANK OF INDIA",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0GOMNEP": {
     "IFSC": "RBIS0GOMNEP",
@@ -388,14 +415,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "STATION RD,MAWHATI,PAN BAZAR,GUWAHATI,ASSAM781001",
     "CONTACT": "361274266",
-    "DATE": "02-01-2020",
     "BANK": "RESERVE BANK OF INDIA",
     "UPI": false,
     "RTGS": true,
     "CITY": "GUWAHATI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0GOMZEP": {
     "IFSC": "RBIS0GOMZEP",
@@ -405,14 +432,14 @@
     "STATE": "ASSAM",
     "ADDRESS": "Station Rd, Mawhati, Pan Bazaar, Guwahati, Assam 781001",
     "CONTACT": "3612734266",
-    "DATE": "2020-09-15",
     "BANK": "RESERVE BANK OF INDIA",
     "UPI": false,
     "RTGS": true,
     "CITY": "Guwahati",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0GOODEP": {
     "IFSC": "RBIS0GOODEP",
@@ -422,14 +449,14 @@
     "STATE": "ODISHA",
     "ADDRESS": "RESERVE BANK OF INDIA,PT JAWAHARLAL NEHRU MARG,P.B.O.16,BHUBANESWAR 751001,ODISHA",
     "CONTACT": "6742396702",
-    "DATE": null,
     "BANK": "RESERVE BANK OF INDIA",
     "UPI": false,
     "RTGS": true,
     "CITY": "BHUBANESWAR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0GOPNEP": {
     "IFSC": "RBIS0GOPNEP",
@@ -439,14 +466,14 @@
     "STATE": "CHANDIGARH",
     "ADDRESS": "RESERVE BANK OF INDIA, CENTRAL VISTA, SECTOR 17, CHANDIGARH - 160 017",
     "CONTACT": "01722721507",
-    "DATE": "2018-06-26",
     "BANK": "RESERVE BANK OF INDIA",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHANDIGARH",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0GORJEP": {
     "IFSC": "RBIS0GORJEP",
@@ -456,14 +483,14 @@
     "STATE": "RAJASTHAN",
     "ADDRESS": "RESERVE BANK OF INDIA, RAMBAGH CIRCLE, TONK ROAD, JAIPUR - 302 004",
     "CONTACT": "01412571513",
-    "DATE": "2018-06-26",
     "BANK": "RESERVE BANK OF INDIA",
     "UPI": false,
     "RTGS": true,
     "CITY": "JAIPUR",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0GOTGEP": {
     "IFSC": "RBIS0GOTGEP",
@@ -473,14 +500,14 @@
     "STATE": "ANDHRA PRADESH",
     "ADDRESS": "RESERVE BANK OF INDIA,6-1-56,SECRETARIAT ROAD,SAIFABAD,KHAIRATABAD,HYDERABAD,TELANGANA 500004",
     "CONTACT": "04023230499",
-    "DATE": "2018-02-21",
     "BANK": "RESERVE BANK OF INDIA",
     "UPI": false,
     "RTGS": true,
     "CITY": "HYDERABAD",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0GOTNEP": {
     "IFSC": "RBIS0GOTNEP",
@@ -490,14 +517,14 @@
     "STATE": "TAMILNADU",
     "ADDRESS": "16, RAJAJI SALAI, FORT GLACIS, CHENNAI, TAMILNADU 600001",
     "CONTACT": "04425361337",
-    "DATE": "2019-10-10",
     "BANK": "RESERVE BANK OF INDIA",
     "UPI": false,
     "RTGS": true,
     "CITY": "CHENNAI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0GOUKEP": {
     "IFSC": "RBIS0GOUKEP",
@@ -507,14 +534,14 @@
     "STATE": "UTTARAKHAND",
     "ADDRESS": "74/1, RAJPUR ROAD, GMVN BUILDING, DEHRADUN, UTTARAKHAND - 248001",
     "CONTACT": "01352740085",
-    "DATE": "2019-12-20",
     "BANK": "RESERVE BANK OF INDIA",
     "UPI": false,
     "RTGS": true,
     "CITY": "DEHRADUN",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0GOUPEP": {
     "IFSC": "RBIS0GOUPEP",
@@ -524,14 +551,14 @@
     "STATE": "UTTAR PRADESH",
     "ADDRESS": "Reserve Bank of India, Post Box No. 82/142, M.G. Road, Kanpur - 208 001",
     "CONTACT": "05122305951",
-    "DATE": "2018-07-06",
     "BANK": "RESERVE BANK OF INDIA",
     "UPI": false,
     "RTGS": true,
     "CITY": "Kanpur",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0GOWBEP": {
     "IFSC": "RBIS0GOWBEP",
@@ -541,14 +568,14 @@
     "STATE": "WEST BENGAL",
     "ADDRESS": "15, NETAJI SUBHAS ROAD, KOLKATA-700 001",
     "CONTACT": "03322303299",
-    "DATE": "2019-05-29",
     "BANK": "RESERVE BANK OF INDIA",
     "UPI": false,
     "RTGS": true,
     "CITY": "KOLKATA",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0GSTPMT": {
     "IFSC": "RBIS0GSTPMT",
@@ -558,14 +585,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "ASST. GENERAL MANAGER,GST CELL,RESERVE BANK OF INDIA,MUMBAI REGIONAL OFFICE,FORT,MUMBAI - 400001",
     "CONTACT": "02222642836",
-    "DATE": "42907",
     "BANK": "RESERVE BANK OF INDIA",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0GTPA01": {
     "BANK": "RESERVE BANK OF INDIA",
@@ -581,7 +608,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0GWPA01": {
     "BANK": "RESERVE BANK OF INDIA",
@@ -597,7 +625,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0JMPA01": {
     "BANK": "RESERVE BANK OF INDIA",
@@ -613,7 +642,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0JPPA01": {
     "BANK": "RESERVE BANK OF INDIA",
@@ -629,7 +659,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0KCPA01": {
     "BANK": "RESERVE BANK OF INDIA",
@@ -645,7 +676,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0KLPA01": {
     "BANK": "RESERVE BANK OF INDIA",
@@ -661,7 +693,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0KNPA01": {
     "BANK": "RESERVE BANK OF INDIA",
@@ -677,7 +710,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0LKPA01": {
     "BANK": "RESERVE BANK OF INDIA",
@@ -693,7 +727,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0MBPA04": {
     "BANK": "RESERVE BANK OF INDIA",
@@ -709,7 +744,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0NDPA01": {
     "BANK": "Reserve Bank Of India",
@@ -725,7 +761,8 @@
     "UPI": false,
     "MICR": "NA",
     "NEFT": true,
-    "RTGS": false
+    "RTGS": false,
+    "SWIFT": null
   },
   "RBIS0NEFTHY": {
     "BANK": "RESERVE BANK OF INDIA",
@@ -741,7 +778,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0NGPA01": {
     "BANK": "RESERVE BANK OF INDIA",
@@ -757,7 +795,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0NMPA01": {
     "BANK": "RESERVE BANK OF INDIA",
@@ -773,7 +812,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0NTRPER": {
     "IFSC": "RBIS0NTRPER",
@@ -783,14 +823,14 @@
     "STATE": "MAHARASHTRA",
     "ADDRESS": "MAIN BUILDING ,SHAHID BHAGAT SINGH MARG, MUMBAI 400001",
     "CONTACT": "02222704715",
-    "DATE": "2019-06-27",
     "BANK": "RESERVE BANK OF INDIA",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0PFMS01": {
     "IFSC": "RBIS0PFMS01",
@@ -800,14 +840,14 @@
     "STATE": "DELHI",
     "ADDRESS": "RESERVE BANK OF INDIA, 6, SANSAD MARG, NEW DELHI - 110 001",
     "CONTACT": "01123318753",
-    "DATE": "2018-10-09",
     "BANK": "RESERVE BANK OF INDIA",
     "UPI": false,
     "RTGS": true,
     "CITY": "NEW DELHI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0PJPA01": {
     "BANK": "RESERVE BANK OF INDIA",
@@ -823,7 +863,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0PTPA01": {
     "BANK": "RESERVE BANK OF INDIA",
@@ -839,7 +880,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0PUPA01": {
     "BANK": "RESERVE BANK OF INDIA",
@@ -855,7 +897,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0RBIPI0": {
     "BANK": "Reserve Bank Employees Co-operative Bank",
@@ -871,7 +914,8 @@
     "UPI": false,
     "NEFT": false,
     "RTGS": false,
-    "MICR": null
+    "MICR": null,
+    "SWIFT": null
   },
   "RBIS0RNPA01": {
     "BANK": "RESERVE BANK OF INDIA",
@@ -887,7 +931,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0RPPA01": {
     "IFSC": "RBIS0RPPA01",
@@ -897,14 +942,14 @@
     "STATE": "CHHATTISGARH",
     "ADDRESS": "54 BY 949,SUBHASHISH PARISAR,SATYA PREM VIHAR,MAHADEV GHAT ROAD,SUNDAR NAGAR,RAIPUR 492 013",
     "CONTACT": "00",
-    "DATE": null,
     "MICR": "490059002",
     "BANK": "RESERVE BANK OF INDIA",
     "UPI": false,
     "RTGS": true,
     "CITY": "RAIPUR",
     "NEFT": true,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0SAMADN": {
     "BANK": "RESERVE BANK OF INDIA",
@@ -920,7 +965,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0SCPA01": {
     "BANK": "RESERVE BANK OF INDIA",
@@ -936,7 +982,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0SLPA01": {
     "BANK": "RESERVE BANK OF INDIA",
@@ -952,7 +999,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0SMPA01": {
     "BANK": "RESERVE BANK OF INDIA",
@@ -968,7 +1016,8 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   },
   "RBIS0THPA01": {
     "BANK": "RESERVE BANK OF INDIA",
@@ -984,6 +1033,7 @@
     "CENTRE": "NA",
     "UPI": false,
     "RTGS": false,
-    "IMPS": true
+    "IMPS": true,
+    "SWIFT": null
   }
 }
