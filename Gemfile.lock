@@ -6,7 +6,7 @@ GEM
     httparty (0.18.1)
       mime-types (~> 3.0)
       multi_xml (>= 0.5.2)
-    ifsc (1.5.9)
+    ifsc (1.5.10)
       httparty (~> 0.16)
     kramdown (2.3.0)
       rexml
@@ -24,7 +24,7 @@ GEM
     rack-ssl-enforcer (0.2.9)
     redis (4.2.5)
     rexml (3.2.4)
-    ruby2_keywords (0.0.2)
+    ruby2_keywords (0.0.4)
     secure_headers (6.3.1)
     sinatra (2.1.0)
       mustermann (~> 1.0)
@@ -58,4 +58,4 @@ DEPENDENCIES
   thin
 
 BUNDLED WITH
-   2.2.3
+   2.2.6
