@@ -3480,7 +3480,7 @@
     "UPI": false,
     "RTGS": true,
     "CITY": "JAIPUR",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
     "SWIFT": null
   },
@@ -3634,6 +3634,23 @@
     "RTGS": true,
     "CITY": "JAIPUR",
     "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null
+  },
+  "RSCB0022030": {
+    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "IFSC": "RSCB0022030",
+    "BRANCH": "TONK PHATAK",
+    "ADDRESS": "P.NO 62 RAMPURA ROOPA NEAR GOVT SCHOOL,TONK PHATAK JAIPUR, 302015",
+    "CONTACT": "8003699111",
+    "CITY": "JAIPUR",
+    "DISTRICT": "JAIPUR",
+    "STATE": "RAJASTHAN",
+    "MICR": "302189015",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": false,
+    "RTGS": false,
     "IMPS": true,
     "SWIFT": null
   },
