@@ -5,6 +5,7 @@ require 'json'
 require 'ifsc'
 require './metrics'
 require 'sinatra/json'
+require "sinatra/multi_route"
 require 'secure_headers'
 
 class IFSCPlus < Razorpay::IFSC::IFSC
@@ -80,12 +81,19 @@ helpers do
     data = settings.redis.hgetall code
 
     if !data.empty?
+
+      data['PINCODE'] = nil
       data['BANK'], data['BANKCODE'] = bank_details(code)
       data['IFSC'] = code
       data['RTGS'] = strtobool data['RTGS']
       data['NEFT'] = strtobool data['NEFT']
       data['IMPS'] = strtobool data['IMPS']
       data['UPI'] = strtobool data['UPI']
+
+      if data['ADDRESS'] =~ /(\d{6})/
+        data['PINCODE'] = data['ADDRESS'].match /(\d{6})/
+      end
+
       settings.metrics.increment code
     else
       data = nil
@@ -95,12 +103,31 @@ helpers do
 end
 
 get '/' do
-  readme = File.read 'README.md'
-  erb :index, locals: { text: markdown(readme) }
+  erb :index
 end
 
 get '/metrics' do
   settings.metrics.format
+end
+
+
+get '/:code.html', %r{/[\w-]+/[\w-]+/(?<code>[A-Z0-9]{11})} do
+  begin
+    data = ifsc_data(params['code'])
+    erb :ifsc, locals: { data: data }
+  rescue StandardError => e
+    status 404
+    json 'Not Found'
+  end
+end
+
+get '/banks/:code' do
+  begin
+    return json IFSCPlus::Bank.get_details params['code']
+  rescue Exception => e
+    status 404
+    json 'Not Found'
+  end
 end
 
 get '/:code' do
@@ -115,6 +142,6 @@ get '/:code' do
   rescue StandardError => e
     puts e
     status 404
-    json 'Not Found'
+    json "Not Found"
   end
 end
