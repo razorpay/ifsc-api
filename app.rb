@@ -54,9 +54,6 @@ configure do
   end
   set :redis, Redis.new
   set :server, 'thin'
-  set :bank_names, JSON.parse(File.read('data/banknames.json'))
-  set :sublet_list, JSON.parse(File.read('data/sublet.json'))
-  set :banks_list, JSON.parse(File.read('data/banks.json'))
   set :metrics, Metrics.new
 end
 
@@ -85,15 +82,7 @@ helpers do
 
     if !data.empty?
 
-      encoding_options = {
-        :invalid           => :replace,  # Replace invalid byte sequences
-        :undef             => :replace,  # Replace anything not defined in ASCII
-        :replace           => '',        # Use a blank for those replacements
-        :universal_newline => true       # Always break lines with \n
-      }
-
       data['PINCODE'] = nil
-      data['ADDRESS'] = data['ADDRESS'].encode(Encoding.find('ASCII'), encoding_options)
       data['BANK'], data['BANKCODE'] = bank_details(code)
       data['IFSC'] = code
       data['RTGS'] = strtobool data['RTGS']
@@ -127,7 +116,6 @@ get '/:code.html', %r{/[\w-]+/[\w-]+/(?<code>[A-Z0-9]{11})} do
     data = ifsc_data(params['code'])
     erb :ifsc, locals: { data: data }
   rescue StandardError => e
-    puts e
     status 404
     json 'Not Found'
   end
@@ -135,12 +123,8 @@ end
 
 get '/banks/:code' do
   begin
-    bank = settings.banks_list[params['code']]
-    bank['bank_code'] = bank['micr'][3..5]
-    bank['name'] = settings.bank_names[params['code']]
-    return json bank
+    return json IFSCPlus::Bank.get_details params['code']
   rescue Exception => e
-    puts e
     status 404
     json 'Not Found'
   end
@@ -158,6 +142,6 @@ get '/:code' do
   rescue StandardError => e
     puts e
     status 404
-    json 'Not Found'
+    json "Not Found"
   end
 end
