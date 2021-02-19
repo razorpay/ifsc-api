@@ -2,6 +2,7 @@
   "ICLL0000001": {
     "ADDRESS": "FLOOR 25, P J TOWERS, DALAL STREET, MUMBAI",
     "BRANCH": "Mumbai",
+    "BANK": "Indian Clearing Corporation",
     "CENTRE": "Mumbai",
     "CITY": "MUMBAI",
     "CONTACT": null,
@@ -13,6 +14,6 @@
     "STATE": "MAHARASHTRA",
     "SWIFT": null,
     "UPI": false,
-    "BANK": "Indian Clearing Corporation"
+    "IFSC": "ICLL0000001"
   }
 }

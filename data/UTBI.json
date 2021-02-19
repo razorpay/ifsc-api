@@ -11,9 +11,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KOLKATA",
-    "MICR": "NonMICR",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
+    "MICR": null,
     "SWIFT": null
   },
   "UTBI0AAD648": {

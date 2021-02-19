@@ -45,9 +45,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NORTH WEST DELHI",
-    "MICR": "NA",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
+    "MICR": null,
     "SWIFT": null
   },
   "FINO0001005": {
@@ -80,7 +80,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
     "SWIFT": null
   },
@@ -131,7 +131,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VALSAD",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
     "SWIFT": null
   },
@@ -165,7 +165,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "HYDERABAD",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
     "SWIFT": null
   },
@@ -198,9 +198,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR": "NA",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
+    "MICR": null,
     "SWIFT": null
   },
   "FINO0001043": {
@@ -249,9 +249,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "THANA",
-    "MICR": "NA",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
+    "MICR": null,
     "SWIFT": null
   },
   "FINO0001046": {
@@ -334,9 +334,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NORTH DELHI",
-    "MICR": "NA",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
+    "MICR": null,
     "SWIFT": null
   },
   "FINO0001060": {
@@ -402,9 +402,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "WEST DELHI",
-    "MICR": "NA",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
+    "MICR": null,
     "SWIFT": null
   },
   "FINO0001076": {
@@ -436,9 +436,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "CENTRAL DELHI",
-    "MICR": "NA",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
+    "MICR": null,
     "SWIFT": null
   },
   "FINO0001089": {
@@ -487,9 +487,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GURGAON",
-    "MICR": "NA",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
+    "MICR": null,
     "SWIFT": null
   },
   "FINO0001107": {
@@ -504,9 +504,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SOUTH DELHI",
-    "MICR": "NA",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
+    "MICR": null,
     "SWIFT": null
   },
   "FINO0001108": {
@@ -538,9 +538,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PUNE",
-    "MICR": "NA",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
+    "MICR": null,
     "SWIFT": null
   },
   "FINO0001111": {
@@ -606,9 +606,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR": "NA",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
+    "MICR": null,
     "SWIFT": null
   },
   "FINO0001116": {
@@ -658,7 +658,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BHARUCH",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
     "SWIFT": null
   },
@@ -674,9 +674,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR": "NA",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
+    "MICR": null,
     "SWIFT": null
   },
   "FINO0001128": {
@@ -692,7 +692,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "ANKLESHWAR",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
     "SWIFT": null
   },
@@ -725,9 +725,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "LUDHIANA",
-    "MICR": "NA",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
+    "MICR": null,
     "SWIFT": null
   },
   "FINO0001138": {
@@ -742,9 +742,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "LUDHIANA",
-    "MICR": "NA",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
+    "MICR": null,
     "SWIFT": null
   },
   "FINO0001141": {
@@ -759,9 +759,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAIGAD",
-    "MICR": "NA",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
+    "MICR": null,
     "SWIFT": null
   },
   "FINO0001142": {
@@ -778,23 +778,6 @@
     "CITY": "SOUTH DELHI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "SWIFT": null
-  },
-  "FINO0001143": {
-    "BANK": "FINO PAYMENTS BANK",
-    "IFSC": "FINO0001143",
-    "BRANCH": "KALWA W",
-    "ADDRESS": "SHOP NO9 GROUND FLOOR,ROOP SANGAM COOPERATIVE 400605",
-    "CONTACT": null,
-    "CITY": "THANE",
-    "DISTRICT": "THANE",
-    "STATE": "MAHARASHTRA",
-    "MICR": "NA",
-    "NEFT": true,
-    "CENTRE": "NA",
-    "UPI": true,
-    "RTGS": false,
     "IMPS": true,
     "SWIFT": null
   },
@@ -845,7 +828,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
     "SWIFT": null
   },
@@ -879,7 +862,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "AHMEDABAD",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
     "SWIFT": null
   },
@@ -895,9 +878,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "LUDHIANA",
-    "MICR": "NA",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
+    "MICR": null,
     "SWIFT": null
   },
   "FINO0001179": {
@@ -913,7 +896,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SURAT",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
     "SWIFT": null
   },
@@ -929,9 +912,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SOUTH WEST DELHI",
-    "MICR": "NA",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
+    "MICR": null,
     "SWIFT": null
   },
   "FINO0001183": {
@@ -946,9 +929,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MUMBAI",
-    "MICR": "NA",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
+    "MICR": null,
     "SWIFT": null
   },
   "FINO0001185": {
@@ -1014,9 +997,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "NORTH WEST DELHI",
-    "MICR": "NA",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
+    "MICR": null,
     "SWIFT": null
   },
   "FINO0001198": {
@@ -1050,23 +1033,6 @@
     "CITY": "VAISHALI",
     "MICR": "NA",
     "NEFT": true,
-    "IMPS": true,
-    "SWIFT": null
-  },
-  "FINO0001202": {
-    "BANK": "FINO PAYMENTS BANK",
-    "IFSC": "FINO0001202",
-    "BRANCH": "ICHALKARANJI",
-    "ADDRESS": "19 110111 PRATIK PLAZA,KOLHAPUR ROAD,ICHALKARANJI 416115",
-    "CONTACT": null,
-    "CITY": "KOLHAPUR",
-    "DISTRICT": "ICHALKARANJI",
-    "STATE": "MAHARASHTRA",
-    "MICR": "NA",
-    "NEFT": true,
-    "CENTRE": "NA",
-    "UPI": true,
-    "RTGS": false,
     "IMPS": true,
     "SWIFT": null
   },
@@ -1133,9 +1099,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "GOPALGANJ",
-    "MICR": "NA",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
+    "MICR": null,
     "SWIFT": null
   },
   "FINO0001269": {
@@ -1167,9 +1133,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KHAGARIA",
-    "MICR": "NA",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
+    "MICR": null,
     "SWIFT": null
   },
   "FINO0001281": {
@@ -1184,9 +1150,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SANGLI",
-    "MICR": "NA",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
+    "MICR": null,
     "SWIFT": null
   },
   "FINO0001284": {
@@ -1235,9 +1201,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PATNA",
-    "MICR": "NA",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
+    "MICR": null,
     "SWIFT": null
   },
   "FINO0001292": {
@@ -1252,9 +1218,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SATARA",
-    "MICR": "NA",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
+    "MICR": null,
     "SWIFT": null
   },
   "FINO0001296": {
@@ -1270,7 +1236,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "OSMANABAD",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
     "SWIFT": null
   },
@@ -1337,9 +1303,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SATARA",
-    "MICR": "NA",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
+    "MICR": null,
     "SWIFT": null
   },
   "FINO0001310": {
@@ -1354,9 +1320,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SOLAPUR",
-    "MICR": "NA",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
+    "MICR": null,
     "SWIFT": null
   },
   "FINO0001325": {
@@ -1405,9 +1371,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SANGLI",
-    "MICR": "NA",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
+    "MICR": null,
     "SWIFT": null
   },
   "FINO0001337": {
@@ -1422,9 +1388,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BEGUSARAI",
-    "MICR": "NA",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
+    "MICR": null,
     "SWIFT": null
   },
   "FINO0001339": {
@@ -1456,9 +1422,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "VAISHALI",
-    "MICR": "NA",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
+    "MICR": null,
     "SWIFT": null
   },
   "FINO0001346": {
@@ -1525,7 +1491,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "OSMANABAD",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
     "SWIFT": null
   },
@@ -1558,9 +1524,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SOLAPUR",
-    "MICR": "NA",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
+    "MICR": null,
     "SWIFT": null
   },
   "FINO0001359": {
@@ -1577,23 +1543,6 @@
     "RTGS": true,
     "CITY": "OSMANABAD",
     "NEFT": true,
-    "IMPS": true,
-    "SWIFT": null
-  },
-  "FINO0001407": {
-    "BANK": "FINO PAYMENTS BANK",
-    "IFSC": "FINO0001407",
-    "BRANCH": "HADAPSAR",
-    "ADDRESS": "SHOP NO 4 AMI PARK CO OP HSG SOC,156 2A 1MP 1 SOLAPUR ROAD HADAPSAR,PUNE 411028",
-    "CONTACT": null,
-    "CITY": "PUNE",
-    "DISTRICT": "PUNE",
-    "STATE": "MAHARASHTRA",
-    "MICR": "NA",
-    "NEFT": true,
-    "CENTRE": "NA",
-    "UPI": true,
-    "RTGS": false,
     "IMPS": true,
     "SWIFT": null
   },
@@ -1643,9 +1592,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "SANGLI",
-    "MICR": "NA",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
+    "MICR": null,
     "SWIFT": null
   },
   "FINO0001445": {
@@ -1677,9 +1626,9 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "Solapur",
-    "MICR": "NA",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
+    "MICR": null,
     "SWIFT": null
   },
   "FINO0001448": {

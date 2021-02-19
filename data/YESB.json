@@ -19651,6 +19651,23 @@
     "IMPS": true,
     "SWIFT": null
   },
+  "YESB00VNSBL": {
+    "BANK": "YES BANK",
+    "IFSC": "YESB00VNSBL",
+    "BRANCH": "VIVEKANAND NAGRIK SAHKARI BANK LTD",
+    "ADDRESS": "AMBIKA BAZAR, SHUJALPUR MANDI PIN 465333",
+    "CONTACT": "242442",
+    "CITY": "SHAJAPUR",
+    "DISTRICT": "SHUJALPUR",
+    "STATE": "MADHYA PRADESH",
+    "MICR": "NA",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true,
+    "SWIFT": null
+  },
   "YESB0ACB002": {
     "BANK": "Adinath Co-operative Bank",
     "IFSC": "YESB0ACB002",
@@ -23710,7 +23727,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BOUDH",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
     "SWIFT": null
   },
@@ -23727,7 +23744,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PHULBANI",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
     "SWIFT": null
   },
@@ -23744,7 +23761,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PHULBANI",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
     "SWIFT": null
   },
@@ -23761,7 +23778,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BOUDH",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
     "SWIFT": null
   },
@@ -23778,7 +23795,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "PURUNAKATAK",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
     "SWIFT": null
   },
@@ -23795,7 +23812,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "G.UDAYAGIRI",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
     "SWIFT": null
   },
@@ -23812,7 +23829,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "BALIGUDA",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
     "SWIFT": null
   },
@@ -23829,7 +23846,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "KANTAMAL",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
     "SWIFT": null
   },
@@ -23846,7 +23863,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "RAIKIA",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
     "SWIFT": null
   },
@@ -23863,7 +23880,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "TIKABALI",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
     "SWIFT": null
   },
@@ -23880,7 +23897,7 @@
     "UPI": true,
     "RTGS": true,
     "CITY": "MANAMUNDA",
-    "NEFT": true,
+    "NEFT": false,
     "IMPS": true,
     "SWIFT": null
   },
@@ -30276,6 +30293,23 @@
     "IMPS": true,
     "SWIFT": null
   },
+  "YESB0DEMCO1": {
+    "BANK": "YES BANK",
+    "IFSC": "YESB0DEMCO1",
+    "BRANCH": "THE DEOLA MERCHANTS COOP BANK LTD",
+    "ADDRESS": "BHAGYODHAY, DEOLA, DISTT NASHIK - 423102",
+    "CONTACT": "228229",
+    "CITY": "NASHIK",
+    "DISTRICT": "DEOLA",
+    "STATE": "MAHARASHTRA",
+    "MICR": "NA",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
+    "IMPS": true,
+    "SWIFT": null
+  },
   "YESB0DEVB01": {
     "BANK": "Development Co-operative Bank Kanpur",
     "IFSC": "YESB0DEVB01",
@@ -32143,6 +32177,23 @@
     "RTGS": true,
     "CITY": "GUNTUR",
     "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null
+  },
+  "YESB0GHOTI1": {
+    "BANK": "YES BANK",
+    "IFSC": "YESB0GHOTI1",
+    "BRANCH": "THE GHOTI MERCHANTS COOP BANK LTD",
+    "ADDRESS": "HO- BHAGAVARDINI, OLD AGRA ROAD, A/P GHOTI, TAL IGATPURI, DIST NASHIK 422402",
+    "CONTACT": "220563",
+    "CITY": "NASIK",
+    "DISTRICT": "GHOTI",
+    "STATE": "MAHARASHTRA",
+    "MICR": "NA",
+    "NEFT": true,
+    "CENTRE": "NA",
+    "UPI": true,
+    "RTGS": false,
     "IMPS": true,
     "SWIFT": null
   },
