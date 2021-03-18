@@ -8,7 +8,7 @@ GEM
       multi_xml (>= 0.5.2)
     ifsc (1.5.11)
       httparty (~> 0.16)
-    kramdown (2.3.0)
+    kramdown (2.3.1)
       rexml
     mime-types (3.3.1)
       mime-types-data (~> 3.2015)
