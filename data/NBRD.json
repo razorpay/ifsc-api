@@ -1,21 +1,4 @@
 {
-  "NBRD0000001": {
-    "IFSC": "NBRD0000001",
-    "BRANCH": "RTGS-HO",
-    "CENTRE": "MUMBAI",
-    "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA",
-    "ADDRESS": "PLOT NO.C-24, G-BLOCK, BANDRA-KURLA COMPLEX, BANDRA (E), MUMBAI 400051",
-    "CONTACT": "02226530189",
-    "BANK": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
-    "UPI": false,
-    "RTGS": true,
-    "CITY": "MUMBAI",
-    "NEFT": false,
-    "IMPS": true,
-    "MICR": null,
-    "SWIFT": null
-  },
   "NBRD0000002": {
     "BANK": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
     "IFSC": "NBRD0000002",
@@ -25,7 +8,7 @@
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
     "STATE": "MAHARASHTRA",
-    "MICR": "NA",
+    "MICR": null,
     "NEFT": true,
     "CENTRE": "NA",
     "UPI": false,

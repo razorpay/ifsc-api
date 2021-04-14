@@ -11,9 +11,26 @@
     "IMPS": true,
     "CITY": "RAJKOT",
     "UPI": true,
+    "MICR": null,
     "RTGS": true,
-    "MICR": "NA",
     "NEFT": true,
+    "SWIFT": null
+  },
+  "RNSB00000SC": {
+    "BANK": null,
+    "IFSC": "RNSB00000SC",
+    "MICR": "NA",
+    "BRANCH": "NAGARIK BHAVAN BRANCH",
+    "ADDRESS": "NAGARIK BHAVAN NO.1,DHEBARBHAI ROAD,RAJKOT 360001,GUJARAT",
+    "STATE": "GUJARAT",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "RAJKOT",
+    "CENTRE": "RAJKOT",
+    "DISTRICT": "RAJKOT",
+    "NEFT": false,
+    "IMPS": true,
     "SWIFT": null
   }
 }
