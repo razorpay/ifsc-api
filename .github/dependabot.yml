@@ -1,0 +1,15 @@
+version: 2
+updates:
+- package-ecosystem: bundler
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "04:00"
+    timezone: Asia/Calcutta
+  ignore:
+  - dependency-name: kramdown
+    versions:
+    - 2.3.1
+  - dependency-name: secure_headers
+    versions:
+    - 6.3.2
