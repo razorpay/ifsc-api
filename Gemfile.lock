@@ -1,12 +1,12 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    daemons (1.3.1)
+    daemons (1.4.0)
     eventmachine (1.2.7)
     httparty (0.18.1)
       mime-types (~> 3.0)
       multi_xml (>= 0.5.2)
-    ifsc (1.5.12)
+    ifsc (1.5.13)
       httparty (~> 0.16)
     kramdown (2.3.1)
       rexml
@@ -58,4 +58,4 @@ DEPENDENCIES
   thin
 
 BUNDLED WITH
-   2.2.16
+   2.2.17
