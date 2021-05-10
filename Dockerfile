@@ -35,7 +35,7 @@ RUN echo "** installing deps **" && \
     echo "** removing eventmachine-build deps **" && \
     apk del .eventmachine-builddeps
 
-LABEL maintainer "Team Razorpay <contact@razorpay.com>"
+LABEL maintainer="Team Razorpay <contact@razorpay.com>"
 
 COPY --from=rdbbuilder /app/dump.rdb /app/
 # This is not clean because we can't run a COPY . anymore
@@ -44,17 +44,6 @@ COPY --from=rdbbuilder /app/dump.rdb /app/
 COPY README.md app.rb metrics.rb config.ru entrypoint.sh /app/
 COPY public /app/public/
 COPY views /app/views/
-
-ARG BUILD_DATE
-ARG VCS_REF
-
-LABEL org.label-schema.build-date=$BUILD_DATE \
-      org.label-schema.name="Razorpay IFSC API" \
-      org.label-schema.vcs-url="https://github.com/razorpay/ifsc-api.git" \
-      org.label-schema.url="https://ifsc.razorpay.com" \
-      org.label-schema.vendor="Razorpay" \
-      org.label-schema.vcs-ref=$VCS_REF \
-      org.label-schema.schema-version="1.0.0-rc1"
 
 EXPOSE 3000
 ENTRYPOINT ["/app/entrypoint.sh"]
