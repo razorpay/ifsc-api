@@ -20,7 +20,7 @@
     "BANK": null,
     "IFSC": "KSCB00000SC",
     "MICR": "560226001",
-    "BRANCH": "HEAD OFFICE ",
+    "BRANCH": "HEAD OFFICE",
     "ADDRESS": "NO.1, UTHUNGA, PAMPAMAHAKAVI RAOD, CHAMARAJPET, BANGALORE - 560018",
     "STATE": "KARNATAKA",
     "CONTACT": "+918022676614",
@@ -929,7 +929,7 @@
     "IMPS": true,
     "CITY": "KOLAR",
     "UPI": false,
-    "MICR": null,
+    "MICR": "NA",
     "RTGS": true,
     "NEFT": true,
     "SWIFT": null
@@ -1524,7 +1524,7 @@
     "IMPS": true,
     "CITY": "DHARWAD",
     "UPI": false,
-    "MICR": null,
+    "MICR": "NA",
     "RTGS": true,
     "NEFT": true,
     "SWIFT": null
@@ -1583,7 +1583,7 @@
   "KSCB0020001": {
     "BANK": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
     "IFSC": "KSCB0020001",
-    "MICR": null,
+    "MICR": "NA",
     "BRANCH": "THE BALLARI DISTRICT COOP CENTRAL BANK LTD,HO,HOSAPETE",
     "ADDRESS": "P.B.NO.17,STATION ROAD,HEAD OFFICE,HOSPETE",
     "STATE": "KARNATAKA",

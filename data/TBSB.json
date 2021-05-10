@@ -11,7 +11,7 @@
     "IMPS": true,
     "CITY": "THANE",
     "UPI": true,
-    "MICR": null,
+    "MICR": "NA",
     "RTGS": true,
     "NEFT": true,
     "SWIFT": null
@@ -325,7 +325,7 @@
   "TBSB0000021": {
     "BANK": "THE THANE BHARAT SAHAKARI BANK LIMITED",
     "IFSC": "TBSB0000021",
-    "MICR": null,
+    "MICR": "NA",
     "BRANCH": "KALWA",
     "ADDRESS": "SHOP NO 7,8&16,AMRUTDHAM CHS LTD,",
     "STATE": "MAHARASHTRA",
@@ -342,7 +342,7 @@
   "TBSB0000022": {
     "BANK": "THE THANE BHARAT SAHAKARI BANK LIMITED",
     "IFSC": "TBSB0000022",
-    "MICR": null,
+    "MICR": "NA",
     "BRANCH": "PANVEL",
     "ADDRESS": "SHREE BASAV-NILAYA, GR.FLOOR, PLOT NO-152,",
     "STATE": "MAHARASHTRA",

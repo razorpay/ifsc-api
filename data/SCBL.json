@@ -1732,5 +1732,39 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
+  },
+  "SCBL0036102": {
+    "BANK": "STANDARD CHARTERED BANK",
+    "IFSC": "SCBL0036102",
+    "MICR": "560036005",
+    "BRANCH": "JAYANAGAR, BANGALORE",
+    "ADDRESS": "SURAJ TOWER, 27 CROSS ROAD, JAYANAGAR, 1ST BLOCK, BANGALORE - 560011",
+    "STATE": "KARNATAKA",
+    "CONTACT": "+918067079050",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "BANGALORE",
+    "CENTRE": "BANGALORE",
+    "DISTRICT": "BANGALORE",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null
+  },
+  "SCBL0036103": {
+    "BANK": "STANDARD CHARTERED BANK",
+    "IFSC": "SCBL0036103",
+    "MICR": "110036021",
+    "BRANCH": "GOLF COURSE ROAD, GURGAON",
+    "ADDRESS": "R1 011 AND R1 014, GROUND FLOOR, M3M TEE POINT, GOLF COURSE ROAD EXTENSION, GURGAON - 122018",
+    "STATE": "HARYANA",
+    "CONTACT": "+911244876027",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "GURGAON",
+    "CENTRE": "GURGAON",
+    "DISTRICT": "GURGAON",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null
   }
 }
