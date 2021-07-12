@@ -7,6 +7,7 @@ COPY Gemfile.build* init.rb /app/
 COPY data /app/data/
 
 RUN whoami && ls -lah / && \
+    touch /usr/local/bundle/test && \
     echo "** installing deps **" && \
     apk --no-cache add redis && \
     echo "** installing ruby gems **" && \
