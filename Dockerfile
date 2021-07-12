@@ -6,7 +6,8 @@ ENV BUNDLE_GEMFILE=Gemfile.build
 COPY Gemfile.build* init.rb /app/
 COPY data /app/data/
 
-RUN echo "** installing deps **" && \
+RUN whoami && ls -lah / && \
+    echo "** installing deps **" && \
     apk --no-cache add redis && \
     echo "** installing ruby gems **" && \
     bundle install && \
