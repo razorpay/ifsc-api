@@ -11,13 +11,13 @@
     "IMPS": true,
     "CITY": "MUMBAI",
     "UPI": false,
-    "MICR": "NA",
+    "MICR": null,
     "RTGS": true,
     "NEFT": true,
     "SWIFT": null
   },
   "EBIL00000SC": {
-    "BANK": null,
+    "BANK": "Emirates NBD Bank",
     "IFSC": "EBIL00000SC",
     "MICR": null,
     "BRANCH": "SERVICE CENTER",

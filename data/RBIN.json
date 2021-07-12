@@ -1,8 +1,8 @@
 {
   "RBIN0RTGS00": {
-    "BANK": null,
+    "BANK": "Reserve Bank Of India",
     "IFSC": "RBIN0RTGS00",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "HEAD OFFICE",
     "ADDRESS": "MUMBAI",
     "STATE": "MAHARASHTRA",
@@ -12,8 +12,9 @@
     "CITY": "MUMABI",
     "CENTRE": "MUMABI",
     "DISTRICT": "MUMABI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "imps": false
   }
 }

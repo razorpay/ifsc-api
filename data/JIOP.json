@@ -1,8 +1,8 @@
 {
   "JIOP0000001": {
-    "BANK": "JIO PAYMENTS BANK LIMITED",
+    "BANK": "Jio Payments Bank",
     "IFSC": "JIOP0000001",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "RTGS-HO",
     "ADDRESS": "RELIANCE CORPORATE PARK, GHANSOLI, NAVI MUMBAI, MAHARASHTRA, INDIA",
     "STATE": "MAHARASHTRA",
@@ -13,23 +13,6 @@
     "CENTRE": "MUMBAI",
     "DISTRICT": "MUMBAI",
     "NEFT": true,
-    "IMPS": true,
-    "SWIFT": null
-  },
-  "JIOP0SC9999": {
-    "BANK": null,
-    "IFSC": "JIOP0SC9999",
-    "MICR": "400767002",
-    "BRANCH": "NEFT SERVICE CENTRE",
-    "ADDRESS": "RELIANCE CORPORATE PARK,THANE BELAPUR ROAD,GHANSOLI,NAVI MUMBAI,MAHARASHTRA, INDIA - 400701",
-    "STATE": "MAHARASHTRA",
-    "CONTACT": null,
-    "UPI": false,
-    "RTGS": true,
-    "CITY": "NAVI MUMBAI",
-    "CENTRE": "NAVI MUMBAI",
-    "DISTRICT": "NAVI MUMBAI",
-    "NEFT": false,
     "IMPS": true,
     "SWIFT": null
   }

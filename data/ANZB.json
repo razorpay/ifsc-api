@@ -1,6 +1,6 @@
 {
   "ANZB0000001": {
-    "BANK": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
+    "BANK": "Australia and New Zealand Banking Group",
     "IFSC": "ANZB0000001",
     "MICR": "400064252",
     "BRANCH": "RTGS-HO",
@@ -13,23 +13,6 @@
     "CENTRE": "MUMBAI",
     "DISTRICT": "MUMBAI",
     "NEFT": true,
-    "IMPS": true,
-    "SWIFT": null
-  },
-  "ANZB00000SC": {
-    "BANK": null,
-    "IFSC": "ANZB00000SC",
-    "MICR": "400064252",
-    "BRANCH": "MUMBAI BRANCH",
-    "ADDRESS": "CNERGY, 6TH FLOOR, APPASAHEB MARATHE MARG, PRABHADEVI, MUMBAI - 400 025, INDIA",
-    "STATE": "MAHARASHTRA",
-    "CONTACT": "+912233620000",
-    "UPI": false,
-    "RTGS": true,
-    "CITY": "MUMBAI",
-    "CENTRE": "MUMBAI",
-    "DISTRICT": "MUMBAI",
-    "NEFT": false,
     "IMPS": true,
     "SWIFT": null
   }

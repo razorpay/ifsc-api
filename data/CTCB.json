@@ -1,8 +1,8 @@
 {
   "CTCB0000001": {
-    "BANK": "CTBC BANK CO LTD",
+    "BANK": "Chinatrust Commercial Bank",
     "IFSC": "CTCB0000001",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "RTGS-HO",
     "ADDRESS": "Gr.Floor and 2nd Floor,Aria Tower,JW Mariott Hotel, Delhi Aerocity,Asset Area 4,New Delhi 110037",
     "STATE": "DELHI",
@@ -16,27 +16,10 @@
     "IMPS": true,
     "SWIFT": null
   },
-  "CTCB0000002": {
-    "BANK": null,
-    "IFSC": "CTCB0000002",
-    "MICR": null,
-    "BRANCH": "NEW DELHI BRANCH",
-    "ADDRESS": "Gr.Floor and 2nd Floor,Aria Tower,JW Mariott Hotel, Delhi Aerocity,Asset Area 4,New Delhi 110037",
-    "STATE": "DELHI",
-    "CONTACT": "+911143688888",
-    "UPI": false,
-    "RTGS": true,
-    "CITY": "NEW DELHI",
-    "CENTRE": "NEW DELHI",
-    "DISTRICT": "NEW DELHI",
-    "NEFT": false,
-    "IMPS": true,
-    "SWIFT": null
-  },
   "CTCB0000003": {
-    "BANK": "CTBC BANK CO LTD",
+    "BANK": "Chinatrust Commercial Bank",
     "IFSC": "CTCB0000003",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "SRIPERUMBUDUR BRANCH",
     "ADDRESS": "SRIPERUMBUDUR BRANCH (CHENNAI), PLOT NO 42 (OLD NO 105), CHENNAI BANGALORE HIGHWAY   NH4, SRIPERUMBUDUR, KANCHEEPURAM, DISTRICT TAMIL NADU - 602105.",
     "STATE": "TAMIL NADU",

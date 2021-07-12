@@ -1,6 +1,6 @@
 {
   "BOFA0BG3978": {
-    "BANK": "BANK OF AMERICA",
+    "BANK": "Bank of America",
     "IFSC": "BOFA0BG3978",
     "MICR": "560032002",
     "BRANCH": "BANGALORE BRANCH",
@@ -17,7 +17,7 @@
     "SWIFT": null
   },
   "BOFA0CN6215": {
-    "BANK": "BANK OF AMERICA",
+    "BANK": "Bank of America",
     "IFSC": "BOFA0CN6215",
     "MICR": "600032001",
     "BRANCH": "CHENNAI BRANCH",
@@ -50,25 +50,8 @@
     "NEFT": true,
     "SWIFT": null
   },
-  "BOFA0MUM000": {
-    "BANK": null,
-    "IFSC": "BOFA0MUM000",
-    "MICR": "000032002",
-    "BRANCH": "MUMBAI",
-    "ADDRESS": "BANK OF AMERICA N.A GR.FLOOR, ONE BKC,  G-BLOCK, A-WING, BANDRA KURLA CPMPLEX , BANDRA EAST ,  MUMBAI-400051",
-    "STATE": "MAHARASHTRA",
-    "CONTACT": "+912266323109",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "MUMBAI",
-    "CENTRE": "MUMBAI",
-    "DISTRICT": "MUMBAI",
-    "NEFT": false,
-    "IMPS": true,
-    "SWIFT": null
-  },
   "BOFA0ND6216": {
-    "BANK": "BANK OF AMERICA",
+    "BANK": "Bank of America",
     "IFSC": "BOFA0ND6216",
     "MICR": "110032001",
     "BRANCH": "NEW DELHI",

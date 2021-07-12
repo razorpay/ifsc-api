@@ -1,8 +1,8 @@
 {
   "NSPB0000001": {
-    "BANK": "NSDL Payments Bank Limited",
+    "BANK": "NSDL Payments Bank",
     "IFSC": "NSPB0000001",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "LOWER PAREL",
     "ADDRESS": "04TH FLOOR, A WING, TRADE WORLD, KAMALA MILLS COMPOUND, SENAPATI BAPAT MARG, LOWER PAREL, MUMBAI - 400 013",
     "STATE": "MAHARASHTRA",
@@ -17,13 +17,30 @@
     "SWIFT": null
   },
   "NSPB0000002": {
-    "BANK": "NSDL Payments Bank Limited",
+    "BANK": "NSDL Payments Bank",
     "IFSC": "NSPB0000002",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "LOWER PAREL",
     "ADDRESS": "04TH FLOOR, A WING, TRADE WORLD, KAMALA MILLS COMPOUND, SENAPATI BAPAT MARG, LOWER PAREL, MUMBAI - 400 013",
     "STATE": "MAHARASHTRA",
     "CONTACT": "+9122224994200",
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "MUMBAI",
+    "CENTRE": "MUMBAI",
+    "DISTRICT": "MUMBAI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null
+  },
+  "NSPB0PYNRBY": {
+    "BANK": "NSDL Payments Bank",
+    "IFSC": "NSPB0PYNRBY",
+    "MICR": null,
+    "BRANCH": "NEARBY TECHNOLOGIES PRIVATE LTD",
+    "ADDRESS": "NEARBY TECHNOLOGIES PRIVATE LTD, ARENA HOUSE. RD NO. 12, MIDC ANDHERI,MUMBAI 400093",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": "+912249142756",
     "UPI": false,
     "RTGS": true,
     "CITY": "MUMBAI",

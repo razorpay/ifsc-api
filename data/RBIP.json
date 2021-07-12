@@ -1,8 +1,8 @@
 {
   "RBIP0NEFTBR": {
-    "BANK": null,
+    "BANK": "Reserve Bank of India",
     "IFSC": "RBIP0NEFTBR",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "NCC NPT",
     "ADDRESS": "FREE PRESS HOUSE, 1ST FLOOR, 215, NARIMAN POINT, MUMBAI 400 021",
     "STATE": "MAHARASHTRA",
@@ -14,12 +14,13 @@
     "DISTRICT": "MUMBAI",
     "NEFT": false,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "imps": false
   },
   "RBIP0NEFTSC": {
-    "BANK": null,
+    "BANK": "Reserve Bank of India",
     "IFSC": "RBIP0NEFTSC",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "HEAD OFFICE",
     "ADDRESS": "FREE PRESS HOUSE, 1ST FLOOR, 215, NARIMAN POINT, MUMBAI 400 021",
     "STATE": "MAHARASHTRA",
@@ -31,6 +32,7 @@
     "DISTRICT": "MUMBAI",
     "NEFT": false,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "imps": false
   }
 }

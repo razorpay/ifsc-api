@@ -1,6 +1,6 @@
 {
   "EIBI0HO0001": {
-    "BANK": "EXPORT IMPORT BANK OF INDIA",
+    "BANK": "Export Import Bank of India",
     "IFSC": "EIBI0HO0001",
     "BRANCH": "RTGS-HO",
     "ADDRESS": "FLOOR 21,CENTER ONE BUILDING,WORLD TRADE CENTRE COMPLEX,CUFFE PARADE,MUMBAI 400005.",
@@ -8,7 +8,7 @@
     "CITY": "MUMBAI",
     "DISTRICT": "MUMBAI",
     "STATE": "MAHARASHTRA",
-    "MICR": "NA",
+    "MICR": null,
     "NEFT": true,
     "CENTRE": null,
     "UPI": false,

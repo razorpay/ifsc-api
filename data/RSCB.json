@@ -11,13 +11,13 @@
     "IMPS": true,
     "CITY": "JAIPUR",
     "UPI": false,
-    "MICR": "NA",
+    "MICR": null,
     "RTGS": true,
     "NEFT": true,
     "SWIFT": null
   },
   "RSCB0000002": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0000002",
     "MICR": "313190002",
     "BRANCH": "UDAIPUR REGIONAL OFFICE",
@@ -34,7 +34,7 @@
     "SWIFT": null
   },
   "RSCB0000003": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0000003",
     "MICR": "302190003",
     "BRANCH": "C-SCHEME",
@@ -51,7 +51,7 @@
     "SWIFT": null
   },
   "RSCB0000004": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0000004",
     "MICR": "302190004",
     "BRANCH": "NEHRU BAZAAR",
@@ -68,7 +68,7 @@
     "SWIFT": null
   },
   "RSCB0000005": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0000005",
     "MICR": "302190005",
     "BRANCH": "KUMS",
@@ -85,7 +85,7 @@
     "SWIFT": null
   },
   "RSCB0000006": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0000006",
     "MICR": "302190006",
     "BRANCH": "BARKAT NAGAR",
@@ -102,7 +102,7 @@
     "SWIFT": null
   },
   "RSCB0000007": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0000007",
     "MICR": "302190007",
     "BRANCH": "JAWAHAR NAGAR",
@@ -119,7 +119,7 @@
     "SWIFT": null
   },
   "RSCB0000008": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0000008",
     "MICR": "302190008",
     "BRANCH": "NEHRU SHAHKAR BHAWAN",
@@ -136,7 +136,7 @@
     "SWIFT": null
   },
   "RSCB0000009": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0000009",
     "MICR": "302190009",
     "BRANCH": "MALVIYA NAGAR",
@@ -153,7 +153,7 @@
     "SWIFT": null
   },
   "RSCB0000010": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0000010",
     "MICR": "302190010",
     "BRANCH": "MANSAROVAR",
@@ -170,7 +170,7 @@
     "SWIFT": null
   },
   "RSCB0000011": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0000011",
     "MICR": "302190011",
     "BRANCH": "VIDHYADHAR NAGAR",
@@ -187,7 +187,7 @@
     "SWIFT": null
   },
   "RSCB0000012": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0000012",
     "MICR": "334190002",
     "BRANCH": "BIKANER REGIONAL OFFICE",
@@ -204,7 +204,7 @@
     "SWIFT": null
   },
   "RSCB0000013": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0000013",
     "MICR": "324190002",
     "BRANCH": "KOTA REGIONAL OFFICE",
@@ -221,7 +221,7 @@
     "SWIFT": null
   },
   "RSCB0000014": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0000014",
     "MICR": "342190002",
     "BRANCH": "JODHPUR REGIONAL OFFICE",
@@ -238,7 +238,7 @@
     "SWIFT": null
   },
   "RSCB0000015": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0000015",
     "MICR": "302190012",
     "BRANCH": "PRATAP NAGAR",
@@ -255,7 +255,7 @@
     "SWIFT": null
   },
   "RSCB0000016": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0000016",
     "MICR": "302190014",
     "BRANCH": "JAGATPURA",
@@ -272,7 +272,7 @@
     "SWIFT": null
   },
   "RSCB0000017": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0000017",
     "MICR": "302190013",
     "BRANCH": "SIKAR ROAD",
@@ -288,25 +288,8 @@
     "IMPS": true,
     "SWIFT": null
   },
-  "RSCB00000SC": {
-    "BANK": null,
-    "IFSC": "RSCB00000SC",
-    "MICR": "NA",
-    "BRANCH": "HEAD OFFICE",
-    "ADDRESS": "DC-1, OPP. NEHRU BALODYAN, TONK ROAD,JAIPUR - 302015",
-    "STATE": "RAJASTHAN",
-    "CONTACT": null,
-    "UPI": false,
-    "RTGS": true,
-    "CITY": "JAIPUR",
-    "CENTRE": "JAIPUR",
-    "DISTRICT": "JAIPUR",
-    "NEFT": false,
-    "IMPS": true,
-    "SWIFT": null
-  },
   "RSCB0011001": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0011001",
     "MICR": "305501001",
     "BRANCH": "AJMER CENTRAL COOP BANK LTD",
@@ -323,7 +306,7 @@
     "SWIFT": null
   },
   "RSCB0011002": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0011002",
     "MICR": "305501002",
     "BRANCH": "AJMER CENTRAL COOP BANK LTD",
@@ -340,7 +323,7 @@
     "SWIFT": null
   },
   "RSCB0011003": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0011003",
     "MICR": "305501026",
     "BRANCH": "AJMER CENTRAL COOP BANK LTD",
@@ -357,7 +340,7 @@
     "SWIFT": null
   },
   "RSCB0011004": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0011004",
     "MICR": "305501025",
     "BRANCH": "AJMER CENTRAL COOP BANK LTD",
@@ -374,7 +357,7 @@
     "SWIFT": null
   },
   "RSCB0011005": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0011005",
     "MICR": "305501027",
     "BRANCH": "AJMER CENTRAL COOP BANK LTD",
@@ -391,7 +374,7 @@
     "SWIFT": null
   },
   "RSCB0011006": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0011006",
     "MICR": "305501050",
     "BRANCH": "AJMER CENTRAL COOP BANK LTD",
@@ -408,7 +391,7 @@
     "SWIFT": null
   },
   "RSCB0011007": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0011007",
     "MICR": "305501075",
     "BRANCH": "AJMER CENTRAL COOP BANK LTD",
@@ -425,7 +408,7 @@
     "SWIFT": null
   },
   "RSCB0011008": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0011008",
     "MICR": "305501028",
     "BRANCH": "AJMER CENTRAL COOP BANK LTD",
@@ -442,7 +425,7 @@
     "SWIFT": null
   },
   "RSCB0011009": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0011009",
     "MICR": "305501029",
     "BRANCH": "AJMER CENTRAL COOP BANK LTD",
@@ -459,7 +442,7 @@
     "SWIFT": null
   },
   "RSCB0011010": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0011010",
     "MICR": "305501030",
     "BRANCH": "AJMER CENTRAL COOP BANK LTD",
@@ -476,7 +459,7 @@
     "SWIFT": null
   },
   "RSCB0011011": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0011011",
     "MICR": "305501031",
     "BRANCH": "AJMER CENTRAL COOP BANK LTD",
@@ -493,7 +476,7 @@
     "SWIFT": null
   },
   "RSCB0011012": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0011012",
     "MICR": "305501032",
     "BRANCH": "AJMER CENTRAL COOP BANK LTD",
@@ -510,7 +493,7 @@
     "SWIFT": null
   },
   "RSCB0011013": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0011013",
     "MICR": "305501033",
     "BRANCH": "AJMER CENTRAL COOP BANK LTD",
@@ -561,7 +544,7 @@
     "SWIFT": null
   },
   "RSCB0012002": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0012002",
     "MICR": "301802003",
     "BRANCH": "THE ALWAR CENTRAL COOP BANKLTD",
@@ -578,7 +561,7 @@
     "SWIFT": null
   },
   "RSCB0012003": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0012003",
     "MICR": "301802026",
     "BRANCH": "THE ALWAR CENTRAL COOP BANKLTD",
@@ -595,7 +578,7 @@
     "SWIFT": null
   },
   "RSCB0012004": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0012004",
     "MICR": "321802027",
     "BRANCH": "THE ALWAR CENTRAL COOP BANKLTD",
@@ -612,7 +595,7 @@
     "SWIFT": null
   },
   "RSCB0012005": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0012005",
     "MICR": "301802025",
     "BRANCH": "THE ALWAR CENTRAL COOP BANKLTD",
@@ -629,7 +612,7 @@
     "SWIFT": null
   },
   "RSCB0012006": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0012006",
     "MICR": "301802075",
     "BRANCH": "THE ALWAR CENTRAL COOP BANKLTD",
@@ -646,7 +629,7 @@
     "SWIFT": null
   },
   "RSCB0012007": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0012007",
     "MICR": "301802032",
     "BRANCH": "THE ALWAR CENTRAL COOP BANKLTD",
@@ -663,7 +646,7 @@
     "SWIFT": null
   },
   "RSCB0012008": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0012008",
     "MICR": "301802028",
     "BRANCH": "THE ALWAR CENTRAL COOP BANKLTD",
@@ -680,7 +663,7 @@
     "SWIFT": null
   },
   "RSCB0012009": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0012009",
     "MICR": "321802033",
     "BRANCH": "THE ALWAR CENTRAL COOP BANKLTD",
@@ -697,7 +680,7 @@
     "SWIFT": null
   },
   "RSCB0012010": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0012010",
     "MICR": "301802034",
     "BRANCH": "THE ALWAR CENTRAL COOP BANKLTD",
@@ -714,7 +697,7 @@
     "SWIFT": null
   },
   "RSCB0012011": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0012011",
     "MICR": "301802030",
     "BRANCH": "THE ALWAR CENTRAL COOP BANKLTD",
@@ -731,7 +714,7 @@
     "SWIFT": null
   },
   "RSCB0012012": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0012012",
     "MICR": "301802029",
     "BRANCH": "THE ALWAR CENTRAL COOP BANKLTD",
@@ -748,7 +731,7 @@
     "SWIFT": null
   },
   "RSCB0012013": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0012013",
     "MICR": "301802101",
     "BRANCH": "THE ALWAR CENTRAL COOP BANKLTD",
@@ -765,7 +748,7 @@
     "SWIFT": null
   },
   "RSCB0012014": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0012014",
     "MICR": "301802035",
     "BRANCH": "THE ALWAR CENTRAL COOP BANKLTD",
@@ -782,7 +765,7 @@
     "SWIFT": null
   },
   "RSCB0012015": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0012015",
     "MICR": "301802031",
     "BRANCH": "THE ALWAR CENTRAL COOP BANKLTD",
@@ -799,7 +782,7 @@
     "SWIFT": null
   },
   "RSCB0012016": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0012016",
     "MICR": "301802036",
     "BRANCH": "THE ALWAR CENTRAL COOP BANKLTD",
@@ -816,7 +799,7 @@
     "SWIFT": null
   },
   "RSCB0012017": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0012017",
     "MICR": "301802004",
     "BRANCH": "GOVINDGARH",
@@ -833,7 +816,7 @@
     "SWIFT": null
   },
   "RSCB0012018": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0012018",
     "MICR": "301802005",
     "BRANCH": "KATHUMAR",
@@ -850,7 +833,7 @@
     "SWIFT": null
   },
   "RSCB0012099": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0012099",
     "MICR": "301802000",
     "BRANCH": "THE ALWAR CENTRAL COOP BANKLTD",
@@ -867,7 +850,7 @@
     "SWIFT": null
   },
   "RSCB0013001": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0013001",
     "MICR": "327815004",
     "BRANCH": "THE BANSWARA CENTRAL COOP BANKLTD",
@@ -884,7 +867,7 @@
     "SWIFT": null
   },
   "RSCB0013002": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0013002",
     "MICR": "327815026",
     "BRANCH": "THE BANSWARA CENTRAL COOP BANKLTD",
@@ -901,7 +884,7 @@
     "SWIFT": null
   },
   "RSCB0013003": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0013003",
     "MICR": "327815027",
     "BRANCH": "THE BANSWARA CENTRAL COOP BANKLTD",
@@ -918,7 +901,7 @@
     "SWIFT": null
   },
   "RSCB0013004": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0013004",
     "MICR": "327815028",
     "BRANCH": "THE BANSWARA CENTRAL COOP BANKLTD",
@@ -935,7 +918,7 @@
     "SWIFT": null
   },
   "RSCB0013005": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0013005",
     "MICR": "327815029",
     "BRANCH": "THE BANSWARA CENTRAL COOP BANKLTD",
@@ -952,7 +935,7 @@
     "SWIFT": null
   },
   "RSCB0013006": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0013006",
     "MICR": "327815030",
     "BRANCH": "THE BANSWARA CENTRAL COOP BANKLTD",
@@ -969,7 +952,7 @@
     "SWIFT": null
   },
   "RSCB0013007": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0013007",
     "MICR": "327815031",
     "BRANCH": "THE BANSWARA CENTRAL COOP BANKLTD",
@@ -986,7 +969,7 @@
     "SWIFT": null
   },
   "RSCB0013008": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0013008",
     "MICR": "327815003",
     "BRANCH": "THE BANSWARA CENTRAL COOP BANKLTD",
@@ -1003,7 +986,7 @@
     "SWIFT": null
   },
   "RSCB0013009": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0013009",
     "MICR": "327815002",
     "BRANCH": "THE BANSWARA CENTRAL COOP BANKLTD",
@@ -1020,7 +1003,7 @@
     "SWIFT": null
   },
   "RSCB0013010": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0013010",
     "MICR": "327815051",
     "BRANCH": "GANGARTALAI",
@@ -1037,7 +1020,7 @@
     "SWIFT": null
   },
   "RSCB0013011": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0013011",
     "MICR": "327815052",
     "BRANCH": "TALWARA",
@@ -1071,7 +1054,7 @@
     "SWIFT": null
   },
   "RSCB0014001": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0014001",
     "MICR": "344809002",
     "BRANCH": "THE BARMER CENTRAL COOP BANKLTD",
@@ -1088,7 +1071,7 @@
     "SWIFT": null
   },
   "RSCB0014002": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0014002",
     "MICR": "344809003",
     "BRANCH": "THE BARMER CENTRAL COOP BANKLTD",
@@ -1105,7 +1088,7 @@
     "SWIFT": null
   },
   "RSCB0014003": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0014003",
     "MICR": "344809025",
     "BRANCH": "THE BARMER CENTRAL COOP BANKLTD",
@@ -1122,7 +1105,7 @@
     "SWIFT": null
   },
   "RSCB0014004": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0014004",
     "MICR": "344809036",
     "BRANCH": "THE BARMER CENTRAL COOP BANKLTD",
@@ -1139,7 +1122,7 @@
     "SWIFT": null
   },
   "RSCB0014005": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0014005",
     "MICR": "344809030",
     "BRANCH": "THE BARMER CENTRAL COOP BANKLTD",
@@ -1156,7 +1139,7 @@
     "SWIFT": null
   },
   "RSCB0014006": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0014006",
     "MICR": "344809028",
     "BRANCH": "THE BARMER CENTRAL COOP BANKLTD",
@@ -1173,7 +1156,7 @@
     "SWIFT": null
   },
   "RSCB0014007": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0014007",
     "MICR": "344809039",
     "BRANCH": "THE BARMER CENTRAL COOP BANKLTD",
@@ -1190,7 +1173,7 @@
     "SWIFT": null
   },
   "RSCB0014008": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0014008",
     "MICR": "344809032",
     "BRANCH": "THE BARMER CENTRAL COOP BANKLTD",
@@ -1207,7 +1190,7 @@
     "SWIFT": null
   },
   "RSCB0014009": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0014009",
     "MICR": "344809040",
     "BRANCH": "THE BARMER CENTRAL COOP BANKLTD",
@@ -1224,7 +1207,7 @@
     "SWIFT": null
   },
   "RSCB0014010": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0014010",
     "MICR": "344809026",
     "BRANCH": "THE BARMER CENTRAL COOP BANKLTD",
@@ -1241,7 +1224,7 @@
     "SWIFT": null
   },
   "RSCB0014011": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0014011",
     "MICR": "344809035",
     "BRANCH": "THE BARMER CENTRAL COOP BANKLTD",
@@ -1258,7 +1241,7 @@
     "SWIFT": null
   },
   "RSCB0014012": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0014012",
     "MICR": "344809042",
     "BRANCH": "THE BARMER CENTRAL COOP BANKLTD",
@@ -1275,7 +1258,7 @@
     "SWIFT": null
   },
   "RSCB0014014": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0014014",
     "MICR": "344809037",
     "BRANCH": "THE BARMER CENTRAL COOP BANKLTD",
@@ -1292,7 +1275,7 @@
     "SWIFT": null
   },
   "RSCB0014015": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0014015",
     "MICR": "344809034",
     "BRANCH": "THE BARMER CENTRAL COOP BANKLTD",
@@ -1309,7 +1292,7 @@
     "SWIFT": null
   },
   "RSCB0014016": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0014016",
     "MICR": "344809043",
     "BRANCH": "THE BARMER CENTRAL COOP BANKLTD",
@@ -1326,7 +1309,7 @@
     "SWIFT": null
   },
   "RSCB0014017": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0014017",
     "MICR": "344809031",
     "BRANCH": "THE BARMER CENTRAL COOP BANKLTD",
@@ -1343,7 +1326,7 @@
     "SWIFT": null
   },
   "RSCB0014018": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0014018",
     "MICR": "344809038",
     "BRANCH": "THE BARMER CENTRAL COOP BANKLTD",
@@ -1360,7 +1343,7 @@
     "SWIFT": null
   },
   "RSCB0014019": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0014019",
     "MICR": "344809033",
     "BRANCH": "THE BARMER CENTRAL COOP BANKLTD",
@@ -1377,7 +1360,7 @@
     "SWIFT": null
   },
   "RSCB0014020": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0014020",
     "MICR": "344809027",
     "BRANCH": "THE BARMER CENTRAL COOP BANKLTD",
@@ -1394,7 +1377,7 @@
     "SWIFT": null
   },
   "RSCB0014021": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0014021",
     "MICR": "344809006",
     "BRANCH": "THE BARMER CENTRAL COOP BANKLTD",
@@ -1411,7 +1394,7 @@
     "SWIFT": null
   },
   "RSCB0014022": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0014022",
     "MICR": "344809005",
     "BRANCH": "THE BARMER CENTRAL COOP BANKLTD",
@@ -1428,7 +1411,7 @@
     "SWIFT": null
   },
   "RSCB0014025": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0014025",
     "MICR": "344809029",
     "BRANCH": "THE BARMER CENTRAL COOP BANKLTD",
@@ -1445,7 +1428,7 @@
     "SWIFT": null
   },
   "RSCB0014026": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0014026",
     "MICR": "344809041",
     "BRANCH": "THE BARMER CENTRAL COOP BANKLTD",
@@ -1462,9 +1445,9 @@
     "SWIFT": null
   },
   "RSCB0014027": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0014027",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "BATADU",
     "ADDRESS": "MAIN BAZAR BATADU TEHSIL BAITU DISTT.RAJASTHAN",
     "STATE": "RAJASTHAN",
@@ -1479,7 +1462,7 @@
     "SWIFT": null
   },
   "RSCB0014028": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0014028",
     "MICR": "344809007",
     "BRANCH": "GIDA",
@@ -1530,9 +1513,9 @@
     "SWIFT": null
   },
   "RSCB0015002": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0015002",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "THE BHARATPUR CENTRAL COOP BANK LTD",
     "ADDRESS": "CIRCULER ROAD,KUMHERI GATE,BHARATPUR 321001",
     "STATE": "RAJASTHAN",
@@ -1547,7 +1530,7 @@
     "SWIFT": null
   },
   "RSCB0015003": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0015003",
     "MICR": "321804004",
     "BRANCH": "THE BHARATPUR CENTRAL COOP BANK LTD",
@@ -1564,7 +1547,7 @@
     "SWIFT": null
   },
   "RSCB0015004": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0015004",
     "MICR": "321804001",
     "BRANCH": "THE BHARATPUR CENTRAL COOP BANK LTD",
@@ -1581,7 +1564,7 @@
     "SWIFT": null
   },
   "RSCB0015005": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0015005",
     "MICR": "321804052",
     "BRANCH": "THE BHARATPUR CENTRAL COOP BANK LTD",
@@ -1598,7 +1581,7 @@
     "SWIFT": null
   },
   "RSCB0015006": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0015006",
     "MICR": "321804053",
     "BRANCH": "THE BHARATPUR CENTRAL COOP BANK LTD",
@@ -1615,9 +1598,9 @@
     "SWIFT": null
   },
   "RSCB0015007": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0015007",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "THE BHARATPUR CENTRAL COOP BANK LTD",
     "ADDRESS": "MAIN MARKET,KAMAN 321022",
     "STATE": "RAJASTHAN",
@@ -1632,7 +1615,7 @@
     "SWIFT": null
   },
   "RSCB0015008": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0015008",
     "MICR": "321804051",
     "BRANCH": "THE BHARATPUR CENTRAL COOP BANK LTD",
@@ -1649,7 +1632,7 @@
     "SWIFT": null
   },
   "RSCB0015009": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0015009",
     "MICR": "321804050",
     "BRANCH": "THE BHARATPUR CENTRAL COOP BANK LTD",
@@ -1666,7 +1649,7 @@
     "SWIFT": null
   },
   "RSCB0015010": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0015010",
     "MICR": "321804054",
     "BRANCH": "THE BHARATPUR CENTRAL COOP BANK LTD",
@@ -1683,7 +1666,7 @@
     "SWIFT": null
   },
   "RSCB0015011": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0015011",
     "MICR": "321804055",
     "BRANCH": "THE BHARATPUR CENTRAL COOP BANK LTD",
@@ -1700,7 +1683,7 @@
     "SWIFT": null
   },
   "RSCB0015012": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0015012",
     "MICR": "321804056",
     "BRANCH": "THE BHARATPUR CENTRAL COOP BANK LTD",
@@ -1717,9 +1700,9 @@
     "SWIFT": null
   },
   "RSCB0015013": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0015013",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "THE BHARATPUR CENTRAL COOP BANK LTD",
     "ADDRESS": "SITARAM BAZAR,BAARI 328021",
     "STATE": "RAJASTHAN",
@@ -1734,9 +1717,9 @@
     "SWIFT": null
   },
   "RSCB0015014": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0015014",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "THE BHARATPUR CENTRAL COOP BANK LTD",
     "ADDRESS": "K.V.S.S CAMPUS,DHOLPUR 320081",
     "STATE": "RAJASTHAN",
@@ -1751,9 +1734,9 @@
     "SWIFT": null
   },
   "RSCB0015015": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0015015",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "BHARATPUR",
     "ADDRESS": "NEAR RAJASTHAN GRAMIN BANK,JAGNER ROAD,BASEDI,DHOLPUR",
     "STATE": "RAJASTHAN",
@@ -1768,7 +1751,7 @@
     "SWIFT": null
   },
   "RSCB0015016": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0015016",
     "MICR": "328804058",
     "BRANCH": "RAJAKHERA",
@@ -1785,7 +1768,7 @@
     "SWIFT": null
   },
   "RSCB0015099": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0015099",
     "MICR": "321804000",
     "BRANCH": "THE BHARATPUR CENTRAL COOP BANK LTD",
@@ -1819,7 +1802,7 @@
     "SWIFT": null
   },
   "RSCB0016002": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0016002",
     "MICR": "311630200",
     "BRANCH": "THE CENTRAL COOP BANKLTD",
@@ -1836,7 +1819,7 @@
     "SWIFT": null
   },
   "RSCB0016003": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0016003",
     "MICR": "311630029",
     "BRANCH": "THE CENTRAL COOP BANKLTD",
@@ -1853,7 +1836,7 @@
     "SWIFT": null
   },
   "RSCB0016004": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0016004",
     "MICR": "311163002",
     "BRANCH": "THE CENTRAL COOP BANKLTD",
@@ -1870,7 +1853,7 @@
     "SWIFT": null
   },
   "RSCB0016005": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0016005",
     "MICR": "311630028",
     "BRANCH": "THE CENTRAL COOP BANKLTD",
@@ -1887,7 +1870,7 @@
     "SWIFT": null
   },
   "RSCB0016006": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0016006",
     "MICR": "311630035",
     "BRANCH": "THE CENTRAL COOP BANKLTD",
@@ -1904,7 +1887,7 @@
     "SWIFT": null
   },
   "RSCB0016007": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0016007",
     "MICR": "311630026",
     "BRANCH": "THE CENTRAL COOP BANKLTD",
@@ -1921,7 +1904,7 @@
     "SWIFT": null
   },
   "RSCB0016008": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0016008",
     "MICR": "311630034",
     "BRANCH": "THE CENTRAL COOP BANKLTD",
@@ -1938,7 +1921,7 @@
     "SWIFT": null
   },
   "RSCB0016009": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0016009",
     "MICR": "311630033",
     "BRANCH": "THE CENTRAL COOP BANKLTD",
@@ -1955,7 +1938,7 @@
     "SWIFT": null
   },
   "RSCB0016010": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0016010",
     "MICR": "311630031",
     "BRANCH": "THE CENTRAL COOP BANKLTD",
@@ -1972,7 +1955,7 @@
     "SWIFT": null
   },
   "RSCB0016011": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0016011",
     "MICR": "311630037",
     "BRANCH": "THE CENTRAL COOP BANKLTD",
@@ -1989,7 +1972,7 @@
     "SWIFT": null
   },
   "RSCB0016012": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0016012",
     "MICR": "311630036",
     "BRANCH": "THE CENTRAL COOP BANKLTD",
@@ -2006,7 +1989,7 @@
     "SWIFT": null
   },
   "RSCB0016013": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0016013",
     "MICR": "311630032",
     "BRANCH": "THE CENTRAL COOP BANKLTD",
@@ -2023,7 +2006,7 @@
     "SWIFT": null
   },
   "RSCB0016014": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0016014",
     "MICR": "311630030",
     "BRANCH": "THE CENTRAL COOP BANKLTD",
@@ -2040,7 +2023,7 @@
     "SWIFT": null
   },
   "RSCB0016015": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0016015",
     "MICR": "311630027",
     "BRANCH": "THE CENTRAL COOP BANKLTD",
@@ -2057,7 +2040,7 @@
     "SWIFT": null
   },
   "RSCB0016016": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0016016",
     "MICR": "311630038",
     "BRANCH": "THE CENTRAL COOP BANKLTD",
@@ -2074,7 +2057,7 @@
     "SWIFT": null
   },
   "RSCB0016017": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0016017",
     "MICR": "311630003",
     "BRANCH": "THE CENTRAL COOP BANKLTD",
@@ -2091,7 +2074,7 @@
     "SWIFT": null
   },
   "RSCB0016099": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0016099",
     "MICR": "311630000",
     "BRANCH": "THE CENTRAL COOP BANKLTD",
@@ -2125,7 +2108,7 @@
     "SWIFT": null
   },
   "RSCB0017002": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0017002",
     "MICR": "334512003",
     "BRANCH": "THE CENTRAL COOP BANK LTD",
@@ -2142,7 +2125,7 @@
     "SWIFT": null
   },
   "RSCB0017003": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0017003",
     "MICR": "334512029",
     "BRANCH": "THE CENTRAL COOP BANK LTD",
@@ -2159,7 +2142,7 @@
     "SWIFT": null
   },
   "RSCB0017004": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0017004",
     "MICR": "334512025",
     "BRANCH": "THE CENTRAL COOP BANK LTD",
@@ -2176,7 +2159,7 @@
     "SWIFT": null
   },
   "RSCB0017005": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0017005",
     "MICR": "334512032",
     "BRANCH": "THE CENTRAL COOP BANK LTD",
@@ -2193,7 +2176,7 @@
     "SWIFT": null
   },
   "RSCB0017006": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0017006",
     "MICR": "334512027",
     "BRANCH": "THE CENTRAL COOP BANK LTD",
@@ -2210,7 +2193,7 @@
     "SWIFT": null
   },
   "RSCB0017007": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0017007",
     "MICR": "334512026",
     "BRANCH": "THE CENTRAL COOP BANK LTD",
@@ -2227,7 +2210,7 @@
     "SWIFT": null
   },
   "RSCB0017008": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0017008",
     "MICR": "334512030",
     "BRANCH": "THE CENTRAL COOP BANK LTD",
@@ -2244,7 +2227,7 @@
     "SWIFT": null
   },
   "RSCB0017009": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0017009",
     "MICR": "334512031",
     "BRANCH": "THE CENTRAL COOP BANK LTD",
@@ -2261,7 +2244,7 @@
     "SWIFT": null
   },
   "RSCB0017010": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0017010",
     "MICR": "331512028",
     "BRANCH": "THE CENTRAL COOP BANK LTD",
@@ -2278,7 +2261,7 @@
     "SWIFT": null
   },
   "RSCB0017011": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0017011",
     "MICR": "334512003",
     "BRANCH": "THE CENTRAL COOP BANK LTD",
@@ -2295,9 +2278,9 @@
     "SWIFT": null
   },
   "RSCB0017012": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0017012",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "PUGAL",
     "ADDRESS": "THE BIKANER CENTRAL CO-OPERATIVE BANK LTD PUGAL BRANCH OLD GRAM PANCHAYAT BHAWAN NEAR BUS STAND PUGAL TEHSIL KHAJUWALA BIKANER RAJASTHAN",
     "STATE": "RAJASTHAN",
@@ -2312,9 +2295,9 @@
     "SWIFT": null
   },
   "RSCB0017013": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0017013",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "EXTENSION COUNTER MAIN BRANCH",
     "ADDRESS": "THE BIKANER CENTRAL CO-OPERATIVE BANK LTD HO BIKANER URMAL DAIRY KE SAAMNE BIKANER RAJASTHAN",
     "STATE": "RAJASTHAN",
@@ -2329,7 +2312,7 @@
     "SWIFT": null
   },
   "RSCB0017099": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0017099",
     "MICR": "334512000",
     "BRANCH": "THE CENTRAL COOP BANK LTD",
@@ -2346,7 +2329,7 @@
     "SWIFT": null
   },
   "RSCB0018001": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0018001",
     "MICR": "323711002",
     "BRANCH": "THE BUNDI CENTRAL COOP BANK LTD",
@@ -2363,7 +2346,7 @@
     "SWIFT": null
   },
   "RSCB0018002": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0018002",
     "MICR": "323711105",
     "BRANCH": "THE BUNDI CENTRAL COOP BANK LTD",
@@ -2380,7 +2363,7 @@
     "SWIFT": null
   },
   "RSCB0018003": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0018003",
     "MICR": "323711102",
     "BRANCH": "THE BUNDI CENTRAL COOP BANK LTD",
@@ -2397,7 +2380,7 @@
     "SWIFT": null
   },
   "RSCB0018004": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0018004",
     "MICR": "323711101",
     "BRANCH": "THE BUNDI CENTRAL COOP BANK LTD",
@@ -2414,7 +2397,7 @@
     "SWIFT": null
   },
   "RSCB0018005": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0018005",
     "MICR": "323711107",
     "BRANCH": "THE BUNDI CENTRAL COOP BANK LTD",
@@ -2431,7 +2414,7 @@
     "SWIFT": null
   },
   "RSCB0018006": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0018006",
     "MICR": "323711103",
     "BRANCH": "THE BUNDI CENTRAL COOP BANK LTD",
@@ -2448,7 +2431,7 @@
     "SWIFT": null
   },
   "RSCB0018007": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0018007",
     "MICR": "323711106",
     "BRANCH": "THE BUNDI CENTRAL COOP BANK LTD",
@@ -2465,7 +2448,7 @@
     "SWIFT": null
   },
   "RSCB0018008": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0018008",
     "MICR": "323711104",
     "BRANCH": "THE BUNDI CENTRAL COOP BANK LTD",
@@ -2482,7 +2465,7 @@
     "SWIFT": null
   },
   "RSCB0018009": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0018009",
     "MICR": "323711501",
     "BRANCH": "THE BUNDI CENTRAL COOP BANK LTD",
@@ -2499,7 +2482,7 @@
     "SWIFT": null
   },
   "RSCB0018010": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0018010",
     "MICR": "323711502",
     "BRANCH": "THE BUNDI CENTRAL COOP BANK LTD",
@@ -2516,7 +2499,7 @@
     "SWIFT": null
   },
   "RSCB0018012": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0018012",
     "MICR": "323711003",
     "BRANCH": "THE BUNDI CENTRAL COOP BANK LTD",
@@ -2550,7 +2533,7 @@
     "SWIFT": null
   },
   "RSCB0019001": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0019001",
     "MICR": "312814002",
     "BRANCH": "CHITTORGARH CENTRAL COOP BANK LTD",
@@ -2567,7 +2550,7 @@
     "SWIFT": null
   },
   "RSCB0019002": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0019002",
     "MICR": "312814201",
     "BRANCH": "CHITTORGARH CENTRAL COOP BANK LTD",
@@ -2584,7 +2567,7 @@
     "SWIFT": null
   },
   "RSCB0019003": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0019003",
     "MICR": "312814202",
     "BRANCH": "CHITTORGARH CENTRAL COOP BANK LTD",
@@ -2601,7 +2584,7 @@
     "SWIFT": null
   },
   "RSCB0019004": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0019004",
     "MICR": "312814050",
     "BRANCH": "CHITTORGARH CENTRAL COOP BANK LTD",
@@ -2618,7 +2601,7 @@
     "SWIFT": null
   },
   "RSCB0019005": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0019005",
     "MICR": "312814051",
     "BRANCH": "CHITTORGARH CENTRAL COOP BANK LTD",
@@ -2635,7 +2618,7 @@
     "SWIFT": null
   },
   "RSCB0019006": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0019006",
     "MICR": "312814052",
     "BRANCH": "CHITTORGARH CENTRAL COOP BANK LTD",
@@ -2652,7 +2635,7 @@
     "SWIFT": null
   },
   "RSCB0019007": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0019007",
     "MICR": "323814203",
     "BRANCH": "CHITTORGARH CENTRAL COOP BANK LTD",
@@ -2669,7 +2652,7 @@
     "SWIFT": null
   },
   "RSCB0019008": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0019008",
     "MICR": "312814204",
     "BRANCH": "CHITTORGARH CENTRAL COOP BANK LTD",
@@ -2686,7 +2669,7 @@
     "SWIFT": null
   },
   "RSCB0019009": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0019009",
     "MICR": "312814205",
     "BRANCH": "CHITTORGARH CENTRAL COOP BANK LTD",
@@ -2703,7 +2686,7 @@
     "SWIFT": null
   },
   "RSCB0019010": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0019010",
     "MICR": "312814206",
     "BRANCH": "CHITTORGARH CENTRAL COOP BANK LTD",
@@ -2720,7 +2703,7 @@
     "SWIFT": null
   },
   "RSCB0019011": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0019011",
     "MICR": "312814207",
     "BRANCH": "CHITTORGARH CENTRAL COOP BANK LTD",
@@ -2737,7 +2720,7 @@
     "SWIFT": null
   },
   "RSCB0019012": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0019012",
     "MICR": "312814208",
     "BRANCH": "CHITTORGARH CENTRAL COOP BANK LTD",
@@ -2754,7 +2737,7 @@
     "SWIFT": null
   },
   "RSCB0019013": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0019013",
     "MICR": "312814209",
     "BRANCH": "CHITTORGARH CENTRAL COOP BANK LTD",
@@ -2771,7 +2754,7 @@
     "SWIFT": null
   },
   "RSCB0019014": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0019014",
     "MICR": "312814210",
     "BRANCH": "CHITTORGARH CENTRAL COOP BANK LTD",
@@ -2788,7 +2771,7 @@
     "SWIFT": null
   },
   "RSCB0019015": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0019015",
     "MICR": "312814211",
     "BRANCH": "CHITTORGARH CENTRAL COOP BANK LTD",
@@ -2805,7 +2788,7 @@
     "SWIFT": null
   },
   "RSCB0019016": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0019016",
     "MICR": "312814004",
     "BRANCH": "CHITTORGARH CENTRAL COOP BANK LTD",
@@ -2822,7 +2805,7 @@
     "SWIFT": null
   },
   "RSCB0019017": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0019017",
     "MICR": "312814005",
     "BRANCH": "CHITTORGARH CENTRAL COOP BANK LTD",
@@ -2839,7 +2822,7 @@
     "SWIFT": null
   },
   "RSCB0019018": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0019018",
     "MICR": "312814212",
     "BRANCH": "DALOT",
@@ -2890,7 +2873,7 @@
     "SWIFT": null
   },
   "RSCB0020002": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0020002",
     "MICR": "331818050",
     "BRANCH": "THE CHURU CENTRAL COOP BANK LTD",
@@ -2907,7 +2890,7 @@
     "SWIFT": null
   },
   "RSCB0020003": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0020003",
     "MICR": "331818100",
     "BRANCH": "THE CHURU CENTRAL COOP BANK LTD",
@@ -2924,7 +2907,7 @@
     "SWIFT": null
   },
   "RSCB0020004": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0020004",
     "MICR": "331818075",
     "BRANCH": "THE CHURU CENTRAL COOP BANK LTD",
@@ -2941,7 +2924,7 @@
     "SWIFT": null
   },
   "RSCB0020005": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0020005",
     "MICR": "331818025",
     "BRANCH": "THE CHURU CENTRAL COOP BANK LTD",
@@ -2958,7 +2941,7 @@
     "SWIFT": null
   },
   "RSCB0020006": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0020006",
     "MICR": "331818101",
     "BRANCH": "THE CHURU CENTRAL COOP BANK LTD",
@@ -2975,7 +2958,7 @@
     "SWIFT": null
   },
   "RSCB0020008": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0020008",
     "MICR": "331818103",
     "BRANCH": "THE CHURU CENTRAL COOP BANK LTD",
@@ -2992,7 +2975,7 @@
     "SWIFT": null
   },
   "RSCB0020010": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0020010",
     "MICR": "331818125",
     "BRANCH": "THE CHURU CENTRAL COOP BANK LTD",
@@ -3009,7 +2992,7 @@
     "SWIFT": null
   },
   "RSCB0020011": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0020011",
     "MICR": "331818102",
     "BRANCH": "THE CHURU CENTRAL COOP BANK LTD",
@@ -3026,7 +3009,7 @@
     "SWIFT": null
   },
   "RSCB0020013": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0020013",
     "MICR": "331818105",
     "BRANCH": "SALASAR",
@@ -3043,7 +3026,7 @@
     "SWIFT": null
   },
   "RSCB0020099": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0020099",
     "MICR": "331818000",
     "BRANCH": "THE CHURU CENTRAL COOP BANK LTD",
@@ -3060,7 +3043,7 @@
     "SWIFT": null
   },
   "RSCB0021001": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0021001",
     "MICR": "314831401",
     "BRANCH": "THE DUNGARPUR CENTRAL COOP LTD",
@@ -3077,7 +3060,7 @@
     "SWIFT": null
   },
   "RSCB0021002": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0021002",
     "MICR": "314831101",
     "BRANCH": "THE DUNGARPUR CENTRAL COOP LTD",
@@ -3094,7 +3077,7 @@
     "SWIFT": null
   },
   "RSCB0021003": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0021003",
     "MICR": "314831051",
     "BRANCH": "THE DUNGARPUR CENTRAL COOP LTD",
@@ -3111,7 +3094,7 @@
     "SWIFT": null
   },
   "RSCB0021004": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0021004",
     "MICR": "314831504",
     "BRANCH": "THE DUNGARPUR CENTRAL COOP LTD",
@@ -3128,7 +3111,7 @@
     "SWIFT": null
   },
   "RSCB0021005": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0021005",
     "MICR": "314831502",
     "BRANCH": "THE DUNGARPUR CENTRAL COOP LTD",
@@ -3145,7 +3128,7 @@
     "SWIFT": null
   },
   "RSCB0021006": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0021006",
     "MICR": "314831301",
     "BRANCH": "THE DUNGARPUR CENTRAL COOP LTD",
@@ -3162,7 +3145,7 @@
     "SWIFT": null
   },
   "RSCB0021007": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0021007",
     "MICR": "314831503",
     "BRANCH": "THE DUNGARPUR CENTRAL COOP LTD",
@@ -3179,7 +3162,7 @@
     "SWIFT": null
   },
   "RSCB0021008": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0021008",
     "MICR": "314831003",
     "BRANCH": "THE DUNGARPUR CENTRAL COOP LTD",
@@ -3196,7 +3179,7 @@
     "SWIFT": null
   },
   "RSCB0021009": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0021009",
     "MICR": "314831002",
     "BRANCH": "THE DUNGARPUR CENTRAL COOP LTD",
@@ -3230,7 +3213,7 @@
     "SWIFT": null
   },
   "RSCB0022001": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0022001",
     "MICR": "302189002",
     "BRANCH": "THE JAIPUR CENTRAL COOP BANK LTD",
@@ -3247,7 +3230,7 @@
     "SWIFT": null
   },
   "RSCB0022003": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0022003",
     "MICR": "302189010",
     "BRANCH": "THE JAIPUR CENTRAL COOP BANK LTD",
@@ -3264,7 +3247,7 @@
     "SWIFT": null
   },
   "RSCB0022007": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0022007",
     "MICR": "303189077",
     "BRANCH": "THE JAIPUR CENTRAL COOP BANK LTD",
@@ -3281,7 +3264,7 @@
     "SWIFT": null
   },
   "RSCB0022008": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0022008",
     "MICR": "303189078",
     "BRANCH": "THE JAIPUR CENTRAL COOP BANK LTD",
@@ -3298,7 +3281,7 @@
     "SWIFT": null
   },
   "RSCB0022009": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0022009",
     "MICR": "302189006",
     "BRANCH": "THE JAIPUR CENTRAL COOP BANK LTD",
@@ -3315,7 +3298,7 @@
     "SWIFT": null
   },
   "RSCB0022010": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0022010",
     "MICR": "302189009",
     "BRANCH": "THE JAIPUR CENTRAL COOP BANK LTD",
@@ -3332,7 +3315,7 @@
     "SWIFT": null
   },
   "RSCB0022011": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0022011",
     "MICR": "303189081",
     "BRANCH": "THE JAIPUR CENTRAL COOP BANK LTD",
@@ -3349,7 +3332,7 @@
     "SWIFT": null
   },
   "RSCB0022012": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0022012",
     "MICR": "303189082",
     "BRANCH": "THE JAIPUR CENTRAL COOP BANK LTD",
@@ -3366,7 +3349,7 @@
     "SWIFT": null
   },
   "RSCB0022013": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0022013",
     "MICR": "303189083",
     "BRANCH": "THE JAIPUR CENTRAL COOP BANK LTD",
@@ -3383,7 +3366,7 @@
     "SWIFT": null
   },
   "RSCB0022014": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0022014",
     "MICR": "302189008",
     "BRANCH": "THE JAIPUR CENTRAL COOP BANK LTD",
@@ -3400,7 +3383,7 @@
     "SWIFT": null
   },
   "RSCB0022015": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0022015",
     "MICR": "303189100",
     "BRANCH": "THE JAIPUR CENTRAL COOP BANK LTD",
@@ -3417,7 +3400,7 @@
     "SWIFT": null
   },
   "RSCB0022016": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0022016",
     "MICR": "303189085",
     "BRANCH": "THE JAIPUR CENTRAL COOP BANK LTD",
@@ -3434,7 +3417,7 @@
     "SWIFT": null
   },
   "RSCB0022017": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0022017",
     "MICR": "303189084",
     "BRANCH": "THE JAIPUR CENTRAL COOP BANK LTD",
@@ -3451,7 +3434,7 @@
     "SWIFT": null
   },
   "RSCB0022018": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0022018",
     "MICR": "303189075",
     "BRANCH": "THE JAIPUR CENTRAL COOP BANK LTD",
@@ -3468,7 +3451,7 @@
     "SWIFT": null
   },
   "RSCB0022019": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0022019",
     "MICR": "303189076",
     "BRANCH": "THE JAIPUR CENTRAL COOP BANK LTD",
@@ -3485,7 +3468,7 @@
     "SWIFT": null
   },
   "RSCB0022021": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0022021",
     "MICR": "302189003",
     "BRANCH": "THE JAIPUR CENTRAL COOP BANK LTD",
@@ -3502,7 +3485,7 @@
     "SWIFT": null
   },
   "RSCB0022022": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0022022",
     "MICR": "302189005",
     "BRANCH": "THE JAIPUR CENTRAL COOP BANK LTD",
@@ -3519,7 +3502,7 @@
     "SWIFT": null
   },
   "RSCB0022023": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0022023",
     "MICR": "302189007",
     "BRANCH": "THE JAIPUR CENTRAL COOP BANK LTD",
@@ -3536,7 +3519,7 @@
     "SWIFT": null
   },
   "RSCB0022024": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0022024",
     "MICR": "303189079",
     "BRANCH": "THE JAIPUR CENTRAL COOP BANK LTD",
@@ -3553,7 +3536,7 @@
     "SWIFT": null
   },
   "RSCB0022025": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0022025",
     "MICR": "302189011",
     "BRANCH": "THE JAIPUR CENTRAL COOP BANK LTD",
@@ -3570,7 +3553,7 @@
     "SWIFT": null
   },
   "RSCB0022026": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0022026",
     "MICR": "303189080",
     "BRANCH": "THE JAIPUR CENTRAL COOP BANK LTD",
@@ -3587,7 +3570,7 @@
     "SWIFT": null
   },
   "RSCB0022027": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0022027",
     "MICR": "303189086",
     "BRANCH": "THE JAIPUR CENTRAL COOP BANK LTD",
@@ -3604,9 +3587,9 @@
     "SWIFT": null
   },
   "RSCB0022028": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0022028",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "THE JAIPUR CENTRAL COOP BANK LTD",
     "ADDRESS": "JAIPUR COLLECTRATE,JAIPUR",
     "STATE": "RAJASTHAN",
@@ -3621,7 +3604,7 @@
     "SWIFT": null
   },
   "RSCB0022029": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0022029",
     "MICR": "302189014",
     "BRANCH": "THE JAIPUR CENTRAL CO-OPERATIVE BANK LTD,HARMARA",
@@ -3638,7 +3621,7 @@
     "SWIFT": null
   },
   "RSCB0022030": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0022030",
     "MICR": "302189015",
     "BRANCH": "TONK PHATAK",
@@ -3672,7 +3655,7 @@
     "SWIFT": null
   },
   "RSCB0023001": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0023001",
     "MICR": "343825003",
     "BRANCH": "THE JALORE CENTRAL COOP BANKLTD",
@@ -3689,7 +3672,7 @@
     "SWIFT": null
   },
   "RSCB0023002": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0023002",
     "MICR": "343825005",
     "BRANCH": "THE JALORE CENTRAL COOP BANK LTD",
@@ -3706,7 +3689,7 @@
     "SWIFT": null
   },
   "RSCB0023003": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0023003",
     "MICR": "343825004",
     "BRANCH": "THE JALORE CENTRAL COOP BANK LTD",
@@ -3723,7 +3706,7 @@
     "SWIFT": null
   },
   "RSCB0023004": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0023004",
     "MICR": "343825006",
     "BRANCH": "THE JALORE CENTRAL COOP BANKLTD",
@@ -3740,7 +3723,7 @@
     "SWIFT": null
   },
   "RSCB0023005": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0023005",
     "MICR": "343825007",
     "BRANCH": "THE JALORE CENTRAL COOP BANKLTD",
@@ -3757,7 +3740,7 @@
     "SWIFT": null
   },
   "RSCB0023006": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0023006",
     "MICR": "343825008",
     "BRANCH": "THE JALORE CENTRAL COOP BANKLTD",
@@ -3774,7 +3757,7 @@
     "SWIFT": null
   },
   "RSCB0023007": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0023007",
     "MICR": "343825010",
     "BRANCH": "THE JALORE CENTRAL COOP BANKLTD",
@@ -3791,7 +3774,7 @@
     "SWIFT": null
   },
   "RSCB0023009": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0023009",
     "MICR": "343825009",
     "BRANCH": "THE JALORE CENTRAL COOP BANKLTD",
@@ -3808,7 +3791,7 @@
     "SWIFT": null
   },
   "RSCB0023011": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0023011",
     "MICR": "343825011",
     "BRANCH": "THE JALORE CENTRAL COOP BANKLTD",
@@ -3842,7 +3825,7 @@
     "SWIFT": null
   },
   "RSCB0023013": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0023013",
     "MICR": "343825013",
     "BRANCH": "THE JALORE CENTRAL COOP BANKLTD",
@@ -3859,7 +3842,7 @@
     "SWIFT": null
   },
   "RSCB0023014": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0023014",
     "MICR": "343825014",
     "BRANCH": "THE JALORE CENTRAL COOP BANKLTD",
@@ -3876,7 +3859,7 @@
     "SWIFT": null
   },
   "RSCB0023015": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0023015",
     "MICR": "343825015",
     "BRANCH": "THE JALORE CENTRAL COOPERATIVE BANK LTD, JASWANTPURA",
@@ -3893,7 +3876,7 @@
     "SWIFT": null
   },
   "RSCB0023099": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0023099",
     "MICR": "343825001",
     "BRANCH": "THE JALORE CENTRAL COOP BANKLTD",
@@ -3910,9 +3893,9 @@
     "SWIFT": null
   },
   "RSCB0024001": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0024001",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "JHALAWAR KENDRIYA SAHKARI BANK LTD",
     "ADDRESS": "SAHKAR BHAWAN,CHHAPAN LAKH COLONY,BACKSIDE JAIL,AKLERA 326033",
     "STATE": "RAJASTHAN",
@@ -3927,9 +3910,9 @@
     "SWIFT": null
   },
   "RSCB0024002": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0024002",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "JHALAWAR KENDRIYA SAHKARI BANK LTD",
     "ADDRESS": "NAI AABADI,NEAR NEW HOSPITAL,ASNAWAR326021",
     "STATE": "RAJASTHAN",
@@ -3944,9 +3927,9 @@
     "SWIFT": null
   },
   "RSCB0024003": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0024003",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "JHALAWAR KENDRIYA SAHKARI BANK LTD",
     "ADDRESS": "NEAR BUS STAND,BAKANI 326022",
     "STATE": "RAJASTHAN",
@@ -3961,7 +3944,7 @@
     "SWIFT": null
   },
   "RSCB0024004": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0024004",
     "MICR": "829025",
     "BRANCH": "JHALAWAR KENDRIYA SAHKARI BANK LTD",
@@ -3978,9 +3961,9 @@
     "SWIFT": null
   },
   "RSCB0024005": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0024005",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "JHALAWAR KENDRIYA SAHKARI BANK LTD",
     "ADDRESS": "JHANDA CHOK,CHAUMHELA 326502",
     "STATE": "RAJASTHAN",
@@ -3995,9 +3978,9 @@
     "SWIFT": null
   },
   "RSCB0024006": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0024006",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "JHALAWAR KENDRIYA SAHKARI BANK LTD",
     "ADDRESS": "GANESH CHOK,DAG326514",
     "STATE": "RAJASTHAN",
@@ -4012,7 +3995,7 @@
     "SWIFT": null
   },
   "RSCB0024007": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0024007",
     "MICR": "829002",
     "BRANCH": "JHALAWAR KENDRIYA SAHKARI BANK LTD",
@@ -4029,7 +4012,7 @@
     "SWIFT": null
   },
   "RSCB0024008": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0024008",
     "MICR": "829003",
     "BRANCH": "JHALAWAR KENDRIYA SAHKARI BANK LTD",
@@ -4046,9 +4029,9 @@
     "SWIFT": null
   },
   "RSCB0024009": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0024009",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "JHALAWAR KENDRIYA SAHKARI BANK LTD",
     "ADDRESS": "NEAR TAHSIL,KHANPUR 326038",
     "STATE": "RAJASTHAN",
@@ -4063,9 +4046,9 @@
     "SWIFT": null
   },
   "RSCB0024010": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0024010",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "JHALAWAR KENDRIYA SAHKARI BANK LTD",
     "ADDRESS": "NEAR BUS STAND,MANOHARTHANA326037",
     "STATE": "RAJASTHAN",
@@ -4080,9 +4063,9 @@
     "SWIFT": null
   },
   "RSCB0024011": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0024011",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "JHALAWAR KENDRIYA SAHKARI BANK LTD",
     "ADDRESS": "NEAR BUS STAND,PIRAWA 326034",
     "STATE": "RAJASTHAN",
@@ -4097,9 +4080,9 @@
     "SWIFT": null
   },
   "RSCB0024012": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0024012",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "JHALAWAR KENDRIYA SAHKARI BANK LTD",
     "ADDRESS": "NEAR POLICE STATION,RAIPUR 326036",
     "STATE": "RAJASTHAN",
@@ -4114,9 +4097,9 @@
     "SWIFT": null
   },
   "RSCB0024013": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0024013",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "JHALAWAR KENDRIYA SAHKARI BANK LTD",
     "ADDRESS": "NEAR PANCHAYAT BHAWAN SAROLA326035",
     "STATE": "RAJASTHAN",
@@ -4131,9 +4114,9 @@
     "SWIFT": null
   },
   "RSCB0024014": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0024014",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "JHALAWAR KENDRIYA SAHKARI BANK LTD",
     "ADDRESS": "CHHATRI CHOK,SUNEL326513",
     "STATE": "RAJASTHAN",
@@ -4148,9 +4131,9 @@
     "SWIFT": null
   },
   "RSCB0024015": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0024015",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "PAGARIA",
     "ADDRESS": "MAN SINGH JI EX-ZILA PRAMUKTH KA MAKAN, P.O. PAGARIA DISTRICT. JHALAWAR",
     "STATE": "RAJASTHAN",
@@ -4182,7 +4165,7 @@
     "SWIFT": null
   },
   "RSCB0025001": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0025001",
     "MICR": "333810010",
     "BRANCH": "JHUNJHUNU KENDRIYA SAHAKARI BANK LTD",
@@ -4199,7 +4182,7 @@
     "SWIFT": null
   },
   "RSCB0025002": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0025002",
     "MICR": "333810011",
     "BRANCH": "JHUNJHUNU KENDRIYA SAHAKARI BANK LTD",
@@ -4216,7 +4199,7 @@
     "SWIFT": null
   },
   "RSCB0025003": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0025003",
     "MICR": "333810003",
     "BRANCH": "JHUNJHUNU KENDRIYA SAHAKARI BANK LTD",
@@ -4233,7 +4216,7 @@
     "SWIFT": null
   },
   "RSCB0025004": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0025004",
     "MICR": "333810025",
     "BRANCH": "JHUNJHUNU KENDRIYA SAHAKARI BANK LTD",
@@ -4250,7 +4233,7 @@
     "SWIFT": null
   },
   "RSCB0025005": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0025005",
     "MICR": "333810007",
     "BRANCH": "JHUNJHUNU KENDRIYA SAHAKARI BANK LTD",
@@ -4267,7 +4250,7 @@
     "SWIFT": null
   },
   "RSCB0025006": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0025006",
     "MICR": "333810008",
     "BRANCH": "JHUNJHUNU KENDRIYA SAHAKARI BANK LTD",
@@ -4284,7 +4267,7 @@
     "SWIFT": null
   },
   "RSCB0025007": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0025007",
     "MICR": "333810006",
     "BRANCH": "JHUNJHUNU KENDRIYA SAHAKARI BANK LTD",
@@ -4301,7 +4284,7 @@
     "SWIFT": null
   },
   "RSCB0025008": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0025008",
     "MICR": "333810009",
     "BRANCH": "JHUNJHUNU KENDRIYA SAHAKARI BANK LTD",
@@ -4318,7 +4301,7 @@
     "SWIFT": null
   },
   "RSCB0025009": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0025009",
     "MICR": "333810005",
     "BRANCH": "JHUNJHUNU KENDRIYA SAHAKARI BANK LTD",
@@ -4335,7 +4318,7 @@
     "SWIFT": null
   },
   "RSCB0025010": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0025010",
     "MICR": "333810006",
     "BRANCH": "JHUNJHUNU KENDRIYA SAHAKARI BANK LTD",
@@ -4352,7 +4335,7 @@
     "SWIFT": null
   },
   "RSCB0025011": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0025011",
     "MICR": "333810008",
     "BRANCH": "JHUNJHUNU KENDRIYA SAHAKARI BANK LTD",
@@ -4369,7 +4352,7 @@
     "SWIFT": null
   },
   "RSCB0025012": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0025012",
     "MICR": "333810009",
     "BRANCH": "JHUNJHUNU KENDRIYA SAHAKARI BANK LTD",
@@ -4386,7 +4369,7 @@
     "SWIFT": null
   },
   "RSCB0025013": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0025013",
     "MICR": "333810004",
     "BRANCH": "JHUNJHUNU KENDRIYA SAHAKARI BANK LTD",
@@ -4403,7 +4386,7 @@
     "SWIFT": null
   },
   "RSCB0025014": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0025014",
     "MICR": "333810101",
     "BRANCH": "SULTANA",
@@ -4420,7 +4403,7 @@
     "SWIFT": null
   },
   "RSCB0025015": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0025015",
     "MICR": "333810051",
     "BRANCH": "MANDAWA",
@@ -4454,7 +4437,7 @@
     "SWIFT": null
   },
   "RSCB0026001": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0026001",
     "MICR": "342517009",
     "BRANCH": "THE JODHPUR CENTRAL COOP BANK LTD",
@@ -4471,7 +4454,7 @@
     "SWIFT": null
   },
   "RSCB0026002": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0026002",
     "MICR": "342517004",
     "BRANCH": "THE JODHPUR CENTRAL COOP BANK LTD",
@@ -4488,7 +4471,7 @@
     "SWIFT": null
   },
   "RSCB0026003": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0026003",
     "MICR": "342517003",
     "BRANCH": "THE JODHPUR CENTRAL COOP BANK LTD",
@@ -4505,7 +4488,7 @@
     "SWIFT": null
   },
   "RSCB0026004": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0026004",
     "MICR": "342517050",
     "BRANCH": "THE JODHPUR CENTRAL COOP BANK LTD",
@@ -4522,7 +4505,7 @@
     "SWIFT": null
   },
   "RSCB0026005": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0026005",
     "MICR": "342517006",
     "BRANCH": "THE JODHPUR CENTRAL COOP BANK LTD",
@@ -4539,7 +4522,7 @@
     "SWIFT": null
   },
   "RSCB0026006": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0026006",
     "MICR": "342517007",
     "BRANCH": "THE JODHPUR CENTRAL COOP BANK LTD",
@@ -4556,7 +4539,7 @@
     "SWIFT": null
   },
   "RSCB0026007": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0026007",
     "MICR": "342517010",
     "BRANCH": "THE JODHPUR CENTRAL COOP BANK LTD",
@@ -4573,7 +4556,7 @@
     "SWIFT": null
   },
   "RSCB0026008": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0026008",
     "MICR": "342517008",
     "BRANCH": "THE JODHPUR CENTRAL COOP BANK LTD",
@@ -4590,7 +4573,7 @@
     "SWIFT": null
   },
   "RSCB0026009": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0026009",
     "MICR": "342517014",
     "BRANCH": "THE JODHPUR CENTRAL COOP BANK LTD",
@@ -4607,7 +4590,7 @@
     "SWIFT": null
   },
   "RSCB0026010": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0026010",
     "MICR": "342517005",
     "BRANCH": "THE JODHPUR CENTRAL COOP BANK LTD",
@@ -4624,7 +4607,7 @@
     "SWIFT": null
   },
   "RSCB0026011": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0026011",
     "MICR": "342517012",
     "BRANCH": "THE JODHPUR CENTRAL COOP BANK LTD",
@@ -4641,7 +4624,7 @@
     "SWIFT": null
   },
   "RSCB0026012": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0026012",
     "MICR": "342517011",
     "BRANCH": "THE JODHPUR CENTRAL COOP BANK LTD",
@@ -4658,7 +4641,7 @@
     "SWIFT": null
   },
   "RSCB0026013": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0026013",
     "MICR": "342517009",
     "BRANCH": "THE JODHPUR CENTRAL COOP BANK LTD",
@@ -4675,7 +4658,7 @@
     "SWIFT": null
   },
   "RSCB0026014": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0026014",
     "MICR": "342517013",
     "BRANCH": "THE JODHPUR CENTRAL COOP BANK LTD",
@@ -4692,7 +4675,7 @@
     "SWIFT": null
   },
   "RSCB0026015": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0026015",
     "MICR": "342517016",
     "BRANCH": "THE JODHPUR CENTRAL COOP BANK LTD",
@@ -4709,7 +4692,7 @@
     "SWIFT": null
   },
   "RSCB0026016": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0026016",
     "MICR": "342517017",
     "BRANCH": "THE JODHPUR CENTRAL COOP BANK LTD",
@@ -4726,7 +4709,7 @@
     "SWIFT": null
   },
   "RSCB0026017": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0026017",
     "MICR": "342517015",
     "BRANCH": "THE JODHPUR CENTRAL COOP BANK LTD",
@@ -4743,9 +4726,9 @@
     "SWIFT": null
   },
   "RSCB0026018": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0026018",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "LOHAWAT",
     "ADDRESS": "NEAR PANCHYAT SAMITI, LOHAWAT RAILWAY STATION",
     "STATE": "RAJASTHAN",
@@ -4794,7 +4777,7 @@
     "SWIFT": null
   },
   "RSCB0027002": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0027002",
     "MICR": "324616003",
     "BRANCH": "THE KOTA CENTRAL COOP BANK LTD",
@@ -4811,9 +4794,9 @@
     "SWIFT": null
   },
   "RSCB0027003": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0027003",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "THE KOTA CENTRAL COOP BANK LTD",
     "ADDRESS": "KCCB BRANCH,NANDWANA BHAWAN KAITHOONDISTRICTKOTA 325001",
     "STATE": "RAJASTHAN",
@@ -4828,9 +4811,9 @@
     "SWIFT": null
   },
   "RSCB0027004": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0027004",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "THE KOTA CENTRAL COOP BANK LTD",
     "ADDRESS": "KCCB BRANCH KANWASDISTRICTKOTA 325602",
     "STATE": "RAJASTHAN",
@@ -4845,9 +4828,9 @@
     "SWIFT": null
   },
   "RSCB0027005": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0027005",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "THE KOTA CENTRAL COOP BANK LTD",
     "ADDRESS": "KCCB BRANCH SANGODDISTRICTKOTA 325601",
     "STATE": "RAJASTHAN",
@@ -4862,9 +4845,9 @@
     "SWIFT": null
   },
   "RSCB0027006": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0027006",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "THE KOTA CENTRAL COOP BANK LTD",
     "ADDRESS": "KCCB BRANCH BAPAWARDISTRICTKOTA 325207",
     "STATE": "RAJASTHAN",
@@ -4879,7 +4862,7 @@
     "SWIFT": null
   },
   "RSCB0027007": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0027007",
     "MICR": "326616050",
     "BRANCH": "THE KOTA CENTRAL COOP BANK LTD",
@@ -4896,9 +4879,9 @@
     "SWIFT": null
   },
   "RSCB0027008": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0027008",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "THE KOTA CENTRAL COOP BANK LTD",
     "ADDRESS": "KCCB BRANCH DIGODDISTRICTKOTA 325201",
     "STATE": "RAJASTHAN",
@@ -4913,9 +4896,9 @@
     "SWIFT": null
   },
   "RSCB0027009": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0027009",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "THE KOTA CENTRAL COOP BANK LTD",
     "ADDRESS": "KCCB BRANCH,MAIN MARKET,SULTANPURDISTRICTKOTA 325204",
     "STATE": "RAJASTHAN",
@@ -4930,9 +4913,9 @@
     "SWIFT": null
   },
   "RSCB0027010": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0027010",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "THE KOTA CENTRAL COOP BANK LTD",
     "ADDRESS": "KCCB BRANCH,OPP POLICE STATION ITAWADISTRICT KOTA 325004",
     "STATE": "RAJASTHAN",
@@ -4947,7 +4930,7 @@
     "SWIFT": null
   },
   "RSCB0027020": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0027020",
     "MICR": "324616002",
     "BRANCH": "THE KOTA CENTRAL COOP BANK LTD",
@@ -4964,7 +4947,7 @@
     "SWIFT": null
   },
   "RSCB0027099": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0027099",
     "MICR": "324616002",
     "BRANCH": "THE KOTA CENTRAL COOP BANK LTD",
@@ -4981,7 +4964,7 @@
     "SWIFT": null
   },
   "RSCB0028001": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0028001",
     "MICR": "341822002",
     "BRANCH": "THE NAGAUR CENTRAL COOP BANK LTD",
@@ -4998,7 +4981,7 @@
     "SWIFT": null
   },
   "RSCB0028002": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0028002",
     "MICR": "341822100",
     "BRANCH": "THE NAGAUR CENTRAL COOP BANK LTD",
@@ -5015,7 +4998,7 @@
     "SWIFT": null
   },
   "RSCB0028003": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0028003",
     "MICR": "341822125",
     "BRANCH": "THE NAGAUR CENTRAL COOP BANK LTD",
@@ -5032,7 +5015,7 @@
     "SWIFT": null
   },
   "RSCB0028004": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0028004",
     "MICR": "341822075",
     "BRANCH": "THE NAGAUR CENTRAL COOP BANK LTD",
@@ -5049,7 +5032,7 @@
     "SWIFT": null
   },
   "RSCB0028005": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0028005",
     "MICR": "341822025",
     "BRANCH": "THE NAGAUR CENTRAL COOP BANK LTD",
@@ -5066,7 +5049,7 @@
     "SWIFT": null
   },
   "RSCB0028006": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0028006",
     "MICR": "341822050",
     "BRANCH": "THE NAGAUR CENTRAL COOP BANK LTD",
@@ -5083,7 +5066,7 @@
     "SWIFT": null
   },
   "RSCB0028007": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0028007",
     "MICR": "341822501",
     "BRANCH": "THE NAGAUR CENTRAL COOP BANK LTD",
@@ -5100,7 +5083,7 @@
     "SWIFT": null
   },
   "RSCB0028008": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0028008",
     "MICR": "341822502",
     "BRANCH": "THE NAGAUR CENTRAL COOP BANK LTD",
@@ -5117,7 +5100,7 @@
     "SWIFT": null
   },
   "RSCB0028009": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0028009",
     "MICR": "341822503",
     "BRANCH": "THE NAGAUR CENTRAL COOP BANK LTD",
@@ -5134,7 +5117,7 @@
     "SWIFT": null
   },
   "RSCB0028010": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0028010",
     "MICR": "341822051",
     "BRANCH": "THE NAGAUR CENTRAL COOP BANK LTD",
@@ -5151,7 +5134,7 @@
     "SWIFT": null
   },
   "RSCB0028011": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0028011",
     "MICR": "341822052",
     "BRANCH": "THE NAGAUR CENTRAL COOP BANK LTD",
@@ -5168,7 +5151,7 @@
     "SWIFT": null
   },
   "RSCB0028012": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0028012",
     "MICR": "341822504",
     "BRANCH": "THE NAGAUR CENTRAL COOP BANK LTD",
@@ -5185,7 +5168,7 @@
     "SWIFT": null
   },
   "RSCB0028013": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0028013",
     "MICR": "341822505",
     "BRANCH": "THE NAGAUR CENTRAL COOP BANK LTD",
@@ -5202,7 +5185,7 @@
     "SWIFT": null
   },
   "RSCB0028014": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0028014",
     "MICR": "341822053",
     "BRANCH": "THE NAGAUR CENTRAL COOP BANK LTD",
@@ -5219,7 +5202,7 @@
     "SWIFT": null
   },
   "RSCB0028015": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0028015",
     "MICR": "341822506",
     "BRANCH": "THE NAGAUR CENTRAL COOP BANK LTD",
@@ -5236,9 +5219,9 @@
     "SWIFT": null
   },
   "RSCB0028016": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0028016",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "JAWLA",
     "ADDRESS": "MAIN BAZAR , JAWLA",
     "STATE": "RAJASTHAN",
@@ -5253,7 +5236,7 @@
     "SWIFT": null
   },
   "RSCB0028017": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0028017",
     "MICR": "341822027",
     "BRANCH": "SANJU",
@@ -5270,9 +5253,9 @@
     "SWIFT": null
   },
   "RSCB0028018": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0028018",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "BUTATI",
     "ADDRESS": "NEAR BUS STAND BUTATI PIN-341514",
     "STATE": "RAJASTHAN",
@@ -5287,7 +5270,7 @@
     "SWIFT": null
   },
   "RSCB0028019": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0028019",
     "MICR": "341822029",
     "BRANCH": "GACHCHIPURA",
@@ -5321,7 +5304,7 @@
     "SWIFT": null
   },
   "RSCB0029001": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0029001",
     "MICR": "306700026",
     "BRANCH": "THE PALI CENTRAL COOP BANKLTD",
@@ -5338,7 +5321,7 @@
     "SWIFT": null
   },
   "RSCB0029002": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0029002",
     "MICR": "306700029",
     "BRANCH": "THE PALI CENTRAL COOP BANKLTD",
@@ -5355,7 +5338,7 @@
     "SWIFT": null
   },
   "RSCB0029003": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0029003",
     "MICR": "306700125",
     "BRANCH": "THE PALI CENTRAL COOP BANKLTD",
@@ -5372,7 +5355,7 @@
     "SWIFT": null
   },
   "RSCB0029004": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0029004",
     "MICR": "306700030",
     "BRANCH": "THE PALI CENTRAL COOP BANKLTD",
@@ -5389,7 +5372,7 @@
     "SWIFT": null
   },
   "RSCB0029005": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0029005",
     "MICR": "306700027",
     "BRANCH": "THE PALI CENTRAL COOP BANKLTD",
@@ -5406,7 +5389,7 @@
     "SWIFT": null
   },
   "RSCB0029006": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0029006",
     "MICR": "306700003",
     "BRANCH": "THE PALI CENTRAL COOP BANKLTD",
@@ -5423,7 +5406,7 @@
     "SWIFT": null
   },
   "RSCB0029007": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0029007",
     "MICR": "306700028",
     "BRANCH": "THE PALI CENTRAL COOP BANKLTD",
@@ -5440,7 +5423,7 @@
     "SWIFT": null
   },
   "RSCB0029008": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0029008",
     "MICR": "306700031",
     "BRANCH": "THE PALI CENTRAL COOP BANKLTD",
@@ -5457,7 +5440,7 @@
     "SWIFT": null
   },
   "RSCB0029009": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0029009",
     "MICR": "306700004",
     "BRANCH": "THE PALI CENTRAL COOP BANKLTD",
@@ -5474,7 +5457,7 @@
     "SWIFT": null
   },
   "RSCB0029010": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0029010",
     "MICR": "306700025",
     "BRANCH": "THE PALI CENTRAL COOP BANKLTD",
@@ -5491,7 +5474,7 @@
     "SWIFT": null
   },
   "RSCB0029011": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0029011",
     "MICR": "306700032",
     "BRANCH": "THE PALI CENTRAL COOP BANKLTD",
@@ -5508,7 +5491,7 @@
     "SWIFT": null
   },
   "RSCB0029012": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0029012",
     "MICR": "306700033",
     "BRANCH": "THE PALI CENTRAL COOP BANKLTD",
@@ -5525,7 +5508,7 @@
     "SWIFT": null
   },
   "RSCB0029013": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0029013",
     "MICR": "306700034",
     "BRANCH": "THE PALI CENTRAL COOP BANKLTD",
@@ -5542,7 +5525,7 @@
     "SWIFT": null
   },
   "RSCB0029014": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0029014",
     "MICR": "306700006",
     "BRANCH": "THE PALI CENTRAL COOP BANKLTD",
@@ -5559,7 +5542,7 @@
     "SWIFT": null
   },
   "RSCB0029015": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0029015",
     "MICR": "306700035",
     "BRANCH": "THE PALI CENTRAL COOP BANKLTD",
@@ -5576,7 +5559,7 @@
     "SWIFT": null
   },
   "RSCB0029016": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0029016",
     "MICR": "306700036",
     "BRANCH": "THE PALI CENTRAL COOP BANKLTD",
@@ -5593,7 +5576,7 @@
     "SWIFT": null
   },
   "RSCB0029017": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0029017",
     "MICR": "306700037",
     "BRANCH": "THE PALI CENTRAL COOP BANKLTD",
@@ -5610,7 +5593,7 @@
     "SWIFT": null
   },
   "RSCB0029018": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0029018",
     "MICR": "306700002",
     "BRANCH": "THE PALI CENTRAL COOP BANKLTD",
@@ -5627,7 +5610,7 @@
     "SWIFT": null
   },
   "RSCB0029019": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0029019",
     "MICR": "306700038",
     "BRANCH": "THE PALI CENTRAL COOP BANKLTD",
@@ -5644,7 +5627,7 @@
     "SWIFT": null
   },
   "RSCB0029020": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0029020",
     "MICR": "306700039",
     "BRANCH": "THE PALI CENTRAL COOP BANKLTD",
@@ -5661,7 +5644,7 @@
     "SWIFT": null
   },
   "RSCB0029021": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0029021",
     "MICR": "306700040",
     "BRANCH": "THE PALI CENTRAL COOP BANKLTD",
@@ -5678,7 +5661,7 @@
     "SWIFT": null
   },
   "RSCB0029022": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0029022",
     "MICR": "306700041",
     "BRANCH": "THE PALI CENTRAL COOP BANKLTD",
@@ -5695,7 +5678,7 @@
     "SWIFT": null
   },
   "RSCB0029023": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0029023",
     "MICR": "306700042",
     "BRANCH": "THE PALI CENTRAL COOP BANKLTD",
@@ -5712,7 +5695,7 @@
     "SWIFT": null
   },
   "RSCB0029024": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0029024",
     "MICR": "306700043",
     "BRANCH": "THE PALI CENTRAL COOP BANKLTD",
@@ -5729,7 +5712,7 @@
     "SWIFT": null
   },
   "RSCB0029025": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0029025",
     "MICR": "306700044",
     "BRANCH": "THE PALI CENTRAL COOP BANKLTD",
@@ -5746,7 +5729,7 @@
     "SWIFT": null
   },
   "RSCB0029026": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0029026",
     "MICR": "306700005",
     "BRANCH": "THE PALI CENTRAL COOP BANKLTD",
@@ -5763,7 +5746,7 @@
     "SWIFT": null
   },
   "RSCB0029027": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0029027",
     "MICR": "306700045",
     "BRANCH": "THE PALI CENTRAL COOP BANKLTD",
@@ -5780,7 +5763,7 @@
     "SWIFT": null
   },
   "RSCB0029028": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0029028",
     "MICR": "306700046",
     "BRANCH": "THE PALI CENTRAL COOP BANKLTD",
@@ -5814,7 +5797,7 @@
     "SWIFT": null
   },
   "RSCB0030001": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0030001",
     "MICR": "322819003",
     "BRANCH": "SAWAI MADHOPUR KENDRIYA SAHAKARI",
@@ -5831,7 +5814,7 @@
     "SWIFT": null
   },
   "RSCB0030002": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0030002",
     "MICR": "322819025",
     "BRANCH": "SAWAI MADHOPUR KENDRIYA SAHAKARI",
@@ -5848,7 +5831,7 @@
     "SWIFT": null
   },
   "RSCB0030003": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0030003",
     "MICR": "322819201",
     "BRANCH": "S M K SAHAKARI BANK LTD",
@@ -5865,7 +5848,7 @@
     "SWIFT": null
   },
   "RSCB0030004": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0030004",
     "MICR": "322819075",
     "BRANCH": "S M K SAHAKARI BANK LTD",
@@ -5882,7 +5865,7 @@
     "SWIFT": null
   },
   "RSCB0030006": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0030006",
     "MICR": "322819002",
     "BRANCH": "SAWAI MADHOPUR KENDRIYA SAHAKARI",
@@ -5899,7 +5882,7 @@
     "SWIFT": null
   },
   "RSCB0030007": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0030007",
     "MICR": "322819026",
     "BRANCH": "SAWAI MADHOPUR KENDRIYA SAHAKARI",
@@ -5916,7 +5899,7 @@
     "SWIFT": null
   },
   "RSCB0030008": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0030008",
     "MICR": "322819027",
     "BRANCH": "SAWAI MADHOPUR KENDRIYA SAHAKARI",
@@ -5933,7 +5916,7 @@
     "SWIFT": null
   },
   "RSCB0030009": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0030009",
     "MICR": "322819028",
     "BRANCH": "SAWAI MADHOPUR KENDRIYA SAHAKARI",
@@ -5950,7 +5933,7 @@
     "SWIFT": null
   },
   "RSCB0030010": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0030010",
     "MICR": "322819031",
     "BRANCH": "SAWAI MADHOPUR KENDRIYA SAHAKARI",
@@ -5967,7 +5950,7 @@
     "SWIFT": null
   },
   "RSCB0030011": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0030011",
     "MICR": "322819029",
     "BRANCH": "SAWAI MADHOPUR KENDRIYA SAHAKARI",
@@ -5984,7 +5967,7 @@
     "SWIFT": null
   },
   "RSCB0030012": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0030012",
     "MICR": "322819033",
     "BRANCH": "S M K SAHAKARI BANK LTD",
@@ -6001,7 +5984,7 @@
     "SWIFT": null
   },
   "RSCB0030013": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0030013",
     "MICR": "322819030",
     "BRANCH": "S M K SAHAKARI BANK LTD",
@@ -6018,7 +6001,7 @@
     "SWIFT": null
   },
   "RSCB0030014": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0030014",
     "MICR": "322819032",
     "BRANCH": "S M K SAHAKARI BANK LTD",
@@ -6035,7 +6018,7 @@
     "SWIFT": null
   },
   "RSCB0030015": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0030015",
     "MICR": "322819034",
     "BRANCH": "S M K SAHAKARI BANK LTD",
@@ -6052,7 +6035,7 @@
     "SWIFT": null
   },
   "RSCB0030018": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0030018",
     "MICR": "322819035",
     "BRANCH": "S M K SAHAKARI BANK LTD",
@@ -6069,7 +6052,7 @@
     "SWIFT": null
   },
   "RSCB0030019": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0030019",
     "MICR": "322819036",
     "BRANCH": "SAWAI MADHOPUR KENDRIYA SAHAKARI",
@@ -6103,7 +6086,7 @@
     "SWIFT": null
   },
   "RSCB0031001": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0031001",
     "MICR": "332816004",
     "BRANCH": "SIKAR KENDRIYA SAHAKARI BANKLTD",
@@ -6120,7 +6103,7 @@
     "SWIFT": null
   },
   "RSCB0031002": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0031002",
     "MICR": "332816005",
     "BRANCH": "SIKAR KENDRIYA SAHAKARI BANKLTD",
@@ -6137,7 +6120,7 @@
     "SWIFT": null
   },
   "RSCB0031003": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0031003",
     "MICR": "332816301",
     "BRANCH": "SIKAR KENDRIYA SAHAKARI BANKLTD",
@@ -6154,7 +6137,7 @@
     "SWIFT": null
   },
   "RSCB0031004": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0031004",
     "MICR": "332816050",
     "BRANCH": "SIKAR KENDRIYA SAHAKARI BANKLTD",
@@ -6171,7 +6154,7 @@
     "SWIFT": null
   },
   "RSCB0031005": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0031005",
     "MICR": "332816502",
     "BRANCH": "SIKAR KENDRIYA SAHAKARI BANKLTD",
@@ -6188,7 +6171,7 @@
     "SWIFT": null
   },
   "RSCB0031006": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0031006",
     "MICR": "332816025",
     "BRANCH": "SIKAR KENDRIYA SAHAKARI BANKLTD",
@@ -6205,7 +6188,7 @@
     "SWIFT": null
   },
   "RSCB0031007": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0031007",
     "MICR": "332816101",
     "BRANCH": "SIKAR KENDRIYA SAHAKARI BANKLTD",
@@ -6222,7 +6205,7 @@
     "SWIFT": null
   },
   "RSCB0031008": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0031008",
     "MICR": "332816505",
     "BRANCH": "SIKAR KENDRIYA SAHAKARI BANKLTD",
@@ -6239,7 +6222,7 @@
     "SWIFT": null
   },
   "RSCB0031009": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0031009",
     "MICR": "332816510",
     "BRANCH": "SIKAR KENDRIYA SAHAKARI BANKLTD",
@@ -6256,7 +6239,7 @@
     "SWIFT": null
   },
   "RSCB0031010": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0031010",
     "MICR": "332816503",
     "BRANCH": "SIKAR KENDRIYA SAHAKARI BANKLTD",
@@ -6273,7 +6256,7 @@
     "SWIFT": null
   },
   "RSCB0031011": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0031011",
     "MICR": "332816511",
     "BRANCH": "SIKAR KENDRIYA SAHAKARI BANKLTD",
@@ -6290,7 +6273,7 @@
     "SWIFT": null
   },
   "RSCB0031012": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0031012",
     "MICR": "332816508",
     "BRANCH": "SIKAR KENDRIYA SAHAKARI BANKLTD",
@@ -6307,7 +6290,7 @@
     "SWIFT": null
   },
   "RSCB0031013": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0031013",
     "MICR": "332816507",
     "BRANCH": "SIKAR KENDRIYA SAHAKARI BANKLTD",
@@ -6324,7 +6307,7 @@
     "SWIFT": null
   },
   "RSCB0031014": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0031014",
     "MICR": "332816501",
     "BRANCH": "SIKAR KENDRIYA SAHAKARI BANKLTD",
@@ -6341,7 +6324,7 @@
     "SWIFT": null
   },
   "RSCB0031015": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0031015",
     "MICR": "332816504",
     "BRANCH": "SIKAR KENDRIYA SAHAKARI BANKLTD",
@@ -6358,7 +6341,7 @@
     "SWIFT": null
   },
   "RSCB0031016": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0031016",
     "MICR": "332816509",
     "BRANCH": "SIKAR KENDRIYA SAHAKARI BANKLTD",
@@ -6375,7 +6358,7 @@
     "SWIFT": null
   },
   "RSCB0031017": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0031017",
     "MICR": "332816506",
     "BRANCH": "SIKAR KENDRIYA SAHAKARI BANKLTD",
@@ -6392,7 +6375,7 @@
     "SWIFT": null
   },
   "RSCB0031018": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0031018",
     "MICR": "332816513",
     "BRANCH": "SIKAR KENDRIYA SAHAKARI BANKLTD",
@@ -6409,7 +6392,7 @@
     "SWIFT": null
   },
   "RSCB0031019": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0031019",
     "MICR": "332816002",
     "BRANCH": "SIKAR KENDRIYA SAHAKARI BANKLTD",
@@ -6426,7 +6409,7 @@
     "SWIFT": null
   },
   "RSCB0031020": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0031020",
     "MICR": "332816512",
     "BRANCH": "SIKAR KENDRIYA SAHAKARI BANKLTD",
@@ -6443,7 +6426,7 @@
     "SWIFT": null
   },
   "RSCB0031021": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0031021",
     "MICR": "332816006",
     "BRANCH": "SIKAR KENDRIYA SAHAKARI BANKLTD",
@@ -6477,7 +6460,7 @@
     "SWIFT": null
   },
   "RSCB0032001": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0032001",
     "MICR": "307813002",
     "BRANCH": "THE SIROHI CENTRAL COOP BANK LTD",
@@ -6494,7 +6477,7 @@
     "SWIFT": null
   },
   "RSCB0032002": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0032002",
     "MICR": "307813501",
     "BRANCH": "THE SIROHI CENTRAL COOP BANK LTD",
@@ -6511,7 +6494,7 @@
     "SWIFT": null
   },
   "RSCB0032003": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0032003",
     "MICR": "307813075",
     "BRANCH": "THE SIROHI CENTRAL COOP BANK LTD",
@@ -6528,7 +6511,7 @@
     "SWIFT": null
   },
   "RSCB0032004": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0032004",
     "MICR": "307813502",
     "BRANCH": "THE SIROHI CENTRAL COOP BANK LTD",
@@ -6545,7 +6528,7 @@
     "SWIFT": null
   },
   "RSCB0032005": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0032005",
     "MICR": "307813201",
     "BRANCH": "THE SIROHI CENTRAL COOP BANK LTD",
@@ -6562,7 +6545,7 @@
     "SWIFT": null
   },
   "RSCB0032006": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0032006",
     "MICR": "307813025",
     "BRANCH": "THE SIROHI CENTRAL COOP BANK LTD",
@@ -6579,7 +6562,7 @@
     "SWIFT": null
   },
   "RSCB0032007": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0032007",
     "MICR": "307813026",
     "BRANCH": "THE SIROHI CENTRAL COOP BANK LTD",
@@ -6596,7 +6579,7 @@
     "SWIFT": null
   },
   "RSCB0032008": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0032008",
     "MICR": "307813050",
     "BRANCH": "THE SIROHI CENTRAL COOP BANK LTD",
@@ -6613,7 +6596,7 @@
     "SWIFT": null
   },
   "RSCB0032009": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0032009",
     "MICR": "307813503",
     "BRANCH": "THE SIROHI CENTRAL COOP BANK LTD",
@@ -6630,7 +6613,7 @@
     "SWIFT": null
   },
   "RSCB0032010": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0032010",
     "MICR": "307813504",
     "BRANCH": "THE SIROHI CENTRAL COOP BANK LTD",
@@ -6647,7 +6630,7 @@
     "SWIFT": null
   },
   "RSCB0032011": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0032011",
     "MICR": "307813076",
     "BRANCH": "THE SIROHI CENTRAL COOP BANK LTD",
@@ -6664,9 +6647,9 @@
     "SWIFT": null
   },
   "RSCB0032013": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0032013",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "ANADARA",
     "ADDRESS": "NEAR BUS STATION POST ANADARA TEHSIL REODAR DIST SIROHI RAJ PIN 307511",
     "STATE": "RAJASTHAN",
@@ -6698,7 +6681,7 @@
     "SWIFT": null
   },
   "RSCB0033001": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0033001",
     "MICR": "335830175",
     "BRANCH": "THE GANGANAGAR KENDRIYA SAHAKARI BANK",
@@ -6715,7 +6698,7 @@
     "SWIFT": null
   },
   "RSCB0033002": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0033002",
     "MICR": "335830211",
     "BRANCH": "THE GANGANAGAR KENDRIYA SAHAKARI BANK",
@@ -6732,7 +6715,7 @@
     "SWIFT": null
   },
   "RSCB0033004": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0033004",
     "MICR": "335830075",
     "BRANCH": "THE GANGANAGAR KENDRIYA SAHAKARI BANK",
@@ -6749,7 +6732,7 @@
     "SWIFT": null
   },
   "RSCB0033006": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0033006",
     "MICR": "335830100",
     "BRANCH": "THE GANGANAGAR KENDRIYA SAHAKARI BANK",
@@ -6766,7 +6749,7 @@
     "SWIFT": null
   },
   "RSCB0033007": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0033007",
     "MICR": "335830025",
     "BRANCH": "THE GANGANAGAR KENDRIYA SAHAKARI BANK",
@@ -6783,7 +6766,7 @@
     "SWIFT": null
   },
   "RSCB0033008": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0033008",
     "MICR": "335830210",
     "BRANCH": "THE GANGANAGAR KENDRIYA SAHAKARI BANK",
@@ -6800,7 +6783,7 @@
     "SWIFT": null
   },
   "RSCB0033009": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0033009",
     "MICR": "335830212",
     "BRANCH": "THE GANGANAGAR KENDRIYA SAHAKARI BANK",
@@ -6817,7 +6800,7 @@
     "SWIFT": null
   },
   "RSCB0033011": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0033011",
     "MICR": "335830213",
     "BRANCH": "THE GANGANAGAR KENDRIYA SAHAKARI BANK",
@@ -6834,7 +6817,7 @@
     "SWIFT": null
   },
   "RSCB0033014": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0033014",
     "MICR": "335830214",
     "BRANCH": "THE GANGANAGAR KENDRIYA SAHAKARI BANK",
@@ -6851,7 +6834,7 @@
     "SWIFT": null
   },
   "RSCB0033016": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0033016",
     "MICR": "335830215",
     "BRANCH": "THE GANGANAGAR KENDRIYA SAHAKARI BANK",
@@ -6868,7 +6851,7 @@
     "SWIFT": null
   },
   "RSCB0033017": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0033017",
     "MICR": "335830216",
     "BRANCH": "THE GANGANAGAR KENDRIYA SAHAKARI BANK",
@@ -6885,7 +6868,7 @@
     "SWIFT": null
   },
   "RSCB0033020": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0033020",
     "MICR": "335830004",
     "BRANCH": "THE GANGANAGAR KENDRIYA SAHAKARI BANK",
@@ -6902,7 +6885,7 @@
     "SWIFT": null
   },
   "RSCB0033023": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0033023",
     "MICR": "335830217",
     "BRANCH": "THE GANGANAGAR KENDRIYA SAHAKARI BANK",
@@ -6919,7 +6902,7 @@
     "SWIFT": null
   },
   "RSCB0033024": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0033024",
     "MICR": "335830223",
     "BRANCH": "THE GANGANAGAR KENDRIYA SAHAKARI BANK",
@@ -6936,7 +6919,7 @@
     "SWIFT": null
   },
   "RSCB0033026": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0033026",
     "MICR": "335830218",
     "BRANCH": "THE GANGANAGAR KENDRIYA SAHAKARI BANK",
@@ -6953,7 +6936,7 @@
     "SWIFT": null
   },
   "RSCB0033028": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0033028",
     "MICR": "335830219",
     "BRANCH": "THE GANGANAGAR KENDRIYA SAHAKARI BANK",
@@ -6970,7 +6953,7 @@
     "SWIFT": null
   },
   "RSCB0033029": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0033029",
     "MICR": "335830220",
     "BRANCH": "THE GANGANAGAR KENDRIYA SAHAKARI BANK",
@@ -6987,7 +6970,7 @@
     "SWIFT": null
   },
   "RSCB0033030": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0033030",
     "MICR": "335830221",
     "BRANCH": "THE GANGANAGAR KENDRIYA SAHAKARI BANK",
@@ -7004,7 +6987,7 @@
     "SWIFT": null
   },
   "RSCB0033031": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0033031",
     "MICR": "335830222",
     "BRANCH": "THE GANGANAGAR KENDRIYA SAHAKARI BANK",
@@ -7021,7 +7004,7 @@
     "SWIFT": null
   },
   "RSCB0033032": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0033032",
     "MICR": "335830224",
     "BRANCH": "THE GANGANAGAR KENDRIYA SAHAKARI BANK",
@@ -7038,7 +7021,7 @@
     "SWIFT": null
   },
   "RSCB0033033": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0033033",
     "MICR": "335830003",
     "BRANCH": "THE GANGANAGAR KENDRIYA SAHAKARI BANK",
@@ -7055,7 +7038,7 @@
     "SWIFT": null
   },
   "RSCB0033035": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0033035",
     "MICR": "335830002",
     "BRANCH": "THE GANGANAGAR KENDRIYA SAHAKARI BANK",
@@ -7072,7 +7055,7 @@
     "SWIFT": null
   },
   "RSCB0033036": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0033036",
     "MICR": "335830226",
     "BRANCH": "NEW DHAN MANDI RAISINGHNAGAR",
@@ -7089,7 +7072,7 @@
     "SWIFT": null
   },
   "RSCB0033037": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0033037",
     "MICR": "335830225",
     "BRANCH": "BINJBAILA",
@@ -7123,7 +7106,7 @@
     "SWIFT": null
   },
   "RSCB0034001": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0034001",
     "MICR": "304820002",
     "BRANCH": "THE CENTARAL COOP BANK LTD",
@@ -7140,7 +7123,7 @@
     "SWIFT": null
   },
   "RSCB0034002": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0034002",
     "MICR": "304820027",
     "BRANCH": "THE CENTARAL COOP BANK LTD",
@@ -7157,7 +7140,7 @@
     "SWIFT": null
   },
   "RSCB0034003": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0034003",
     "MICR": "304820031",
     "BRANCH": "THE CENTARAL COOP BANK LTD",
@@ -7174,7 +7157,7 @@
     "SWIFT": null
   },
   "RSCB0034004": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0034004",
     "MICR": "304820028",
     "BRANCH": "THE CENTARAL COOP BANK LTD",
@@ -7191,7 +7174,7 @@
     "SWIFT": null
   },
   "RSCB0034005": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0034005",
     "MICR": "304820029",
     "BRANCH": "THE CENTARAL COOP BANK LTD",
@@ -7208,7 +7191,7 @@
     "SWIFT": null
   },
   "RSCB0034006": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0034006",
     "MICR": "304820025",
     "BRANCH": "THE CENTARAL COOP BANK LTD",
@@ -7225,7 +7208,7 @@
     "SWIFT": null
   },
   "RSCB0034007": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0034007",
     "MICR": "304820030",
     "BRANCH": "THE CENTARAL COOP BANK LTD",
@@ -7242,7 +7225,7 @@
     "SWIFT": null
   },
   "RSCB0034008": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0034008",
     "MICR": "304820026",
     "BRANCH": "THE CENTARAL COOP BANK LTD",
@@ -7259,7 +7242,7 @@
     "SWIFT": null
   },
   "RSCB0034009": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0034009",
     "MICR": "304820032",
     "BRANCH": "THE CENTARAL COOP BANK LTD",
@@ -7276,9 +7259,9 @@
     "SWIFT": null
   },
   "RSCB0034010": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0034010",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "THE CENTARAL COOP BANK LTD",
     "ADDRESS": "GHANTA GHAR BRANCH,TAUNK304001",
     "STATE": "RAJASTHAN",
@@ -7293,7 +7276,7 @@
     "SWIFT": null
   },
   "RSCB0034011": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0034011",
     "MICR": "304820033",
     "BRANCH": "THE CENTARAL COOP BANK LTD",
@@ -7327,7 +7310,7 @@
     "SWIFT": null
   },
   "RSCB0035001": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0035001",
     "MICR": "313578027",
     "BRANCH": "THE UDAIPUR CENTRAL COOP BANK LTD",
@@ -7344,7 +7327,7 @@
     "SWIFT": null
   },
   "RSCB0035002": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0035002",
     "MICR": "313578005",
     "BRANCH": "THE UDAIPUR CENTRAL COOP BANK LTD",
@@ -7361,7 +7344,7 @@
     "SWIFT": null
   },
   "RSCB0035003": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0035003",
     "MICR": "313578025",
     "BRANCH": "THE UDAIPUR CENTRAL COOP BANK LTD",
@@ -7378,7 +7361,7 @@
     "SWIFT": null
   },
   "RSCB0035004": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0035004",
     "MICR": "313578007",
     "BRANCH": "THE UDAIPUR CENTRAL COOP BANK LTD",
@@ -7395,7 +7378,7 @@
     "SWIFT": null
   },
   "RSCB0035005": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0035005",
     "MICR": "313578026",
     "BRANCH": "THE UDAIPUR CENTRAL COOP BANK LTD",
@@ -7412,7 +7395,7 @@
     "SWIFT": null
   },
   "RSCB0035006": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0035006",
     "MICR": "313578006",
     "BRANCH": "THE UDAIPUR CENTRAL COOP BANK LTD",
@@ -7429,7 +7412,7 @@
     "SWIFT": null
   },
   "RSCB0035007": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0035007",
     "MICR": "313578003",
     "BRANCH": "THE UDAIPUR CENTRAL COOP BANK LTD",
@@ -7463,7 +7446,7 @@
     "SWIFT": null
   },
   "RSCB0035009": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0035009",
     "MICR": "313578028",
     "BRANCH": "THE UDAIPUR CENTRAL COOP BANK LTD",
@@ -7480,7 +7463,7 @@
     "SWIFT": null
   },
   "RSCB0035010": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0035010",
     "MICR": "313578010",
     "BRANCH": "THE UDAIPUR CENTRAL COOP BANK LTD",
@@ -7497,7 +7480,7 @@
     "SWIFT": null
   },
   "RSCB0035011": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0035011",
     "MICR": "313578008",
     "BRANCH": "THE UDAIPUR CENTRAL COOP BANK LTD",
@@ -7514,7 +7497,7 @@
     "SWIFT": null
   },
   "RSCB0035012": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0035012",
     "MICR": "313578101",
     "BRANCH": "THE UDAIPUR CENTRAL COOP BANK LTD",
@@ -7531,7 +7514,7 @@
     "SWIFT": null
   },
   "RSCB0035013": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0035013",
     "MICR": "313578029",
     "BRANCH": "THE UDAIPUR CENTRAL COOP BANK LTD",
@@ -7548,7 +7531,7 @@
     "SWIFT": null
   },
   "RSCB0035015": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0035015",
     "MICR": "313578011",
     "BRANCH": "THE UDAIPUR CENTRAL COOP BANK LTD",
@@ -7565,7 +7548,7 @@
     "SWIFT": null
   },
   "RSCB0035016": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0035016",
     "MICR": "313578009",
     "BRANCH": "THE UDAIPUR CENTRAL COOP BANK LTD",
@@ -7582,7 +7565,7 @@
     "SWIFT": null
   },
   "RSCB0035017": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0035017",
     "MICR": "313578004",
     "BRANCH": "THE UDAIPUR CENTRAL COOP BANK LTD",
@@ -7599,9 +7582,9 @@
     "SWIFT": null
   },
   "RSCB0035018": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0035018",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "SARADA",
     "ADDRESS": "NEAR BUS STAND, TEHSIL SARADA",
     "STATE": "RAJASTHAN",
@@ -7616,7 +7599,7 @@
     "SWIFT": null
   },
   "RSCB0035019": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0035019",
     "MICR": "313578031",
     "BRANCH": "LASADIYA",
@@ -7633,7 +7616,7 @@
     "SWIFT": null
   },
   "RSCB0035020": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0035020",
     "MICR": "313578032",
     "BRANCH": "GIRWA",
@@ -7650,7 +7633,7 @@
     "SWIFT": null
   },
   "RSCB0035099": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0035099",
     "MICR": "313578000",
     "BRANCH": "THE UDAIPUR CENTRAL COOP BANK LTD",
@@ -7667,7 +7650,7 @@
     "SWIFT": null
   },
   "RSCB0036001": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0036001",
     "MICR": "345710002",
     "BRANCH": "THE JAISALMER CENTRAL COOP BANK LTD",
@@ -7684,7 +7667,7 @@
     "SWIFT": null
   },
   "RSCB0036002": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0036002",
     "MICR": "345710026",
     "BRANCH": "THE JAISALMER CENTRAL COOP BANK LTD",
@@ -7701,7 +7684,7 @@
     "SWIFT": null
   },
   "RSCB0036003": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0036003",
     "MICR": "345710027",
     "BRANCH": "THE JAISALMER CENTRAL COOP BANK LTD",
@@ -7718,7 +7701,7 @@
     "SWIFT": null
   },
   "RSCB0036004": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0036004",
     "MICR": "345710028",
     "BRANCH": "THE JAISALMER CENTRAL COOP BANK LTD",
@@ -7735,7 +7718,7 @@
     "SWIFT": null
   },
   "RSCB0036005": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0036005",
     "MICR": "345710031",
     "BRANCH": "THE JAISALMER CENTRAL COOP BANK LTD",
@@ -7752,7 +7735,7 @@
     "SWIFT": null
   },
   "RSCB0036006": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0036006",
     "MICR": "345710030",
     "BRANCH": "THE JAISALMER CENTRAL COOP BANK LTD",
@@ -7769,7 +7752,7 @@
     "SWIFT": null
   },
   "RSCB0036007": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0036007",
     "MICR": "345710032",
     "BRANCH": "THE JAISALMER CENTRAL COOP BANK LTD",
@@ -7786,7 +7769,7 @@
     "SWIFT": null
   },
   "RSCB0036008": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0036008",
     "MICR": "345710029",
     "BRANCH": "THE JAISALMER CENTRAL COOP BANK LTD",
@@ -7803,9 +7786,9 @@
     "SWIFT": null
   },
   "RSCB0036009": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0036009",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "CHANDHAN",
     "ADDRESS": "NH-15, JODHPUR MAIN ROAD, VILLAGE POST CHANDHAN",
     "STATE": "RAJASTHAN",
@@ -7815,6 +7798,23 @@
     "CITY": "JAISALMER",
     "CENTRE": "JAISALMER",
     "DISTRICT": "JAISALMER",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null
+  },
+  "RSCB0036010": {
+    "BANK": "Rajasthan State Co-operative Bank",
+    "IFSC": "RSCB0036010",
+    "MICR": null,
+    "BRANCH": "THE JAISALMER CENTRAL CO-OPERATIVE BANK LTD",
+    "ADDRESS": "NH-15, NEAR MARUDHARA GRAMIN BANK, MAIN ROAD, FATEHGARH - 345027",
+    "STATE": "RAJASTHAN",
+    "CONTACT": "+9129949414795731",
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "JAISALMER",
+    "CENTRE": "FATEHGARH",
+    "DISTRICT": "FATEHGARH",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7837,7 +7837,7 @@
     "SWIFT": null
   },
   "RSCB0037001": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0037001",
     "MICR": "303832002",
     "BRANCH": "DAUSA KENDRIYA SAHAKARI BANKLTD",
@@ -7854,7 +7854,7 @@
     "SWIFT": null
   },
   "RSCB0037002": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0037002",
     "MICR": "303832003",
     "BRANCH": "DAUSA KENDRIYA SAHAKARI BANKLTD",
@@ -7871,7 +7871,7 @@
     "SWIFT": null
   },
   "RSCB0037003": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0037003",
     "MICR": "303832004",
     "BRANCH": "DAUSA KENDRIYA SAHAKARI BANKLTD",
@@ -7888,7 +7888,7 @@
     "SWIFT": null
   },
   "RSCB0037004": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0037004",
     "MICR": "303832005",
     "BRANCH": "DAUSA KENDRIYA SAHAKARI BANKLTD",
@@ -7905,7 +7905,7 @@
     "SWIFT": null
   },
   "RSCB0037005": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0037005",
     "MICR": "303832006",
     "BRANCH": "DAUSA KENDRIYA SAHAKARI BANKLTD",
@@ -7922,7 +7922,7 @@
     "SWIFT": null
   },
   "RSCB0037006": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0037006",
     "MICR": "303832007",
     "BRANCH": "DAUSA KENDRIYA SAHAKARI BANKLTD",
@@ -7939,7 +7939,7 @@
     "SWIFT": null
   },
   "RSCB0037007": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0037007",
     "MICR": "303832008",
     "BRANCH": "DAUSA KENDRIYA SAHAKARI BANKLTD",
@@ -7956,9 +7956,9 @@
     "SWIFT": null
   },
   "RSCB0037008": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0037008",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "DAUSA",
     "ADDRESS": "RAHUWAS GSS COMPOUND,VPO RAHUWAS,TEH LALSOT 303505",
     "STATE": "RAJASTHAN",
@@ -7973,7 +7973,7 @@
     "SWIFT": null
   },
   "RSCB0037009": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0037009",
     "MICR": "303832010",
     "BRANCH": "DAUSA KENDRIYA SAHKARI BANK LTD.,  DAUSA",
@@ -8007,7 +8007,7 @@
     "SWIFT": null
   },
   "RSCB0038001": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0038001",
     "MICR": "335807102",
     "BRANCH": "HANUMANGARH KENDRIYA SAHAKARI BANK",
@@ -8024,7 +8024,7 @@
     "SWIFT": null
   },
   "RSCB0038002": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0038002",
     "MICR": "335807111",
     "BRANCH": "HANUMANGARH KENDRIYA SAHAKARI BANK",
@@ -8041,7 +8041,7 @@
     "SWIFT": null
   },
   "RSCB0038003": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0038003",
     "MICR": "335807112",
     "BRANCH": "HANUMANGARH KENDRIYA SAHAKARI BANK",
@@ -8058,7 +8058,7 @@
     "SWIFT": null
   },
   "RSCB0038004": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0038004",
     "MICR": "335807110",
     "BRANCH": "HANUMANGARH KENDRIYA SAHAKARI BANK",
@@ -8075,7 +8075,7 @@
     "SWIFT": null
   },
   "RSCB0038005": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0038005",
     "MICR": "335807050",
     "BRANCH": "HANUMANGARH KENDRIYA SAHAKARI BANK",
@@ -8092,7 +8092,7 @@
     "SWIFT": null
   },
   "RSCB0038006": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0038006",
     "MICR": "335807202",
     "BRANCH": "HANUMANGARH KENDRIYA SAHAKARI BANK",
@@ -8109,7 +8109,7 @@
     "SWIFT": null
   },
   "RSCB0038007": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0038007",
     "MICR": "335807103",
     "BRANCH": "HANUMANGARH KENDRIYA SAHAKARI BANK",
@@ -8126,7 +8126,7 @@
     "SWIFT": null
   },
   "RSCB0038008": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0038008",
     "MICR": "335807301",
     "BRANCH": "HANUMANGARH KENDRIYA SAHAKARI BANK",
@@ -8143,7 +8143,7 @@
     "SWIFT": null
   },
   "RSCB0038009": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0038009",
     "MICR": "335807115",
     "BRANCH": "HANUMANGARH KENDRIYA SAHAKARI BANK",
@@ -8160,7 +8160,7 @@
     "SWIFT": null
   },
   "RSCB0038010": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0038010",
     "MICR": "335807114",
     "BRANCH": "HANUMANGARH KENDRIYA SAHAKARI BANK",
@@ -8177,7 +8177,7 @@
     "SWIFT": null
   },
   "RSCB0038011": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0038011",
     "MICR": "335807113",
     "BRANCH": "HANUMANGARH KENDRIYA SAHAKARI BANK",
@@ -8194,7 +8194,7 @@
     "SWIFT": null
   },
   "RSCB0038012": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0038012",
     "MICR": "335807116",
     "BRANCH": "HANUMANGARH KENDRIYA SAHAKARI BANK",
@@ -8211,7 +8211,7 @@
     "SWIFT": null
   },
   "RSCB0038013": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0038013",
     "MICR": "335807117",
     "BRANCH": "HANUMANGARH KENDRIYA SAHAKARI BANK",
@@ -8228,7 +8228,7 @@
     "SWIFT": null
   },
   "RSCB0038014": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0038014",
     "MICR": "335807118",
     "BRANCH": "HANUMANGARH KENDRIYA SAHAKARI BANK",
@@ -8245,7 +8245,7 @@
     "SWIFT": null
   },
   "RSCB0038015": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0038015",
     "MICR": "335807119",
     "BRANCH": "HANUMANGARH KENDRIYA SAHAKARI BANK",
@@ -8262,9 +8262,9 @@
     "SWIFT": null
   },
   "RSCB0038016": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0038016",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "HANUMANGARH",
     "ADDRESS": "BRANCH GORKHANA,ADDRESS V.P.O.GORKHANA,PIN 335524",
     "STATE": "RAJASTHAN",
@@ -8296,7 +8296,7 @@
     "SWIFT": null
   },
   "RSCB0039001": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0039001",
     "MICR": "325811002",
     "BRANCH": "BARAN KENDRIYA SAHAKARI BANKLTD",
@@ -8313,7 +8313,7 @@
     "SWIFT": null
   },
   "RSCB0039002": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0039002",
     "MICR": "325811030",
     "BRANCH": "BARAN KENDRIYA SAHAKARI BANKLTD",
@@ -8330,7 +8330,7 @@
     "SWIFT": null
   },
   "RSCB0039003": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0039003",
     "MICR": "325811029",
     "BRANCH": "BARAN KENDRIYA SAHAKARI BANKLTD",
@@ -8347,7 +8347,7 @@
     "SWIFT": null
   },
   "RSCB0039004": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0039004",
     "MICR": "325811027",
     "BRANCH": "BARAN KENDRIYA SAHAKARI BANKLTD",
@@ -8364,7 +8364,7 @@
     "SWIFT": null
   },
   "RSCB0039005": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0039005",
     "MICR": "325811028",
     "BRANCH": "BARAN KENDRIYA SAHAKARI BANKLTD",
@@ -8381,7 +8381,7 @@
     "SWIFT": null
   },
   "RSCB0039006": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0039006",
     "MICR": "325811032",
     "BRANCH": "BARAN KENDRIYA SAHAKARI BANKLTD",
@@ -8398,7 +8398,7 @@
     "SWIFT": null
   },
   "RSCB0039007": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0039007",
     "MICR": "325811031",
     "BRANCH": "BARAN KENDRIYA SAHAKARI BANKLTD",
@@ -8415,7 +8415,7 @@
     "SWIFT": null
   },
   "RSCB0039008": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0039008",
     "MICR": "325811033",
     "BRANCH": "BARAN KENDRIYA SAHAKARI BANKLTD",
@@ -8432,7 +8432,7 @@
     "SWIFT": null
   },
   "RSCB0039009": {
-    "BANK": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "BANK": "Rajasthan State Co-operative Bank",
     "IFSC": "RSCB0039009",
     "MICR": "325811034",
     "BRANCH": "BARAN KENDRIYA SAHAKARI BANKLTD",

@@ -11,13 +11,13 @@
     "IMPS": true,
     "CITY": "THANE",
     "UPI": true,
-    "MICR": "NA",
+    "MICR": null,
     "RTGS": true,
     "NEFT": true,
     "SWIFT": null
   },
   "TBSB0000002": {
-    "BANK": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+    "BANK": "Thane Bharat Sahakari Bank",
     "IFSC": "TBSB0000002",
     "MICR": "400525002",
     "BRANCH": "MAIN",
@@ -34,7 +34,7 @@
     "SWIFT": null
   },
   "TBSB0000003": {
-    "BANK": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+    "BANK": "Thane Bharat Sahakari Bank",
     "IFSC": "TBSB0000003",
     "MICR": "400525003",
     "BRANCH": "THANE EAST",
@@ -51,7 +51,7 @@
     "SWIFT": null
   },
   "TBSB0000004": {
-    "BANK": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+    "BANK": "Thane Bharat Sahakari Bank",
     "IFSC": "TBSB0000004",
     "MICR": "400525004",
     "BRANCH": "POKHRAN",
@@ -68,7 +68,7 @@
     "SWIFT": null
   },
   "TBSB0000005": {
-    "BANK": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+    "BANK": "Thane Bharat Sahakari Bank",
     "IFSC": "TBSB0000005",
     "MICR": "400525005",
     "BRANCH": "CHANDANWADI",
@@ -85,7 +85,7 @@
     "SWIFT": null
   },
   "TBSB0000006": {
-    "BANK": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+    "BANK": "Thane Bharat Sahakari Bank",
     "IFSC": "TBSB0000006",
     "MICR": "400525006",
     "BRANCH": "CHENDANI KOLIWADA",
@@ -102,7 +102,7 @@
     "SWIFT": null
   },
   "TBSB0000007": {
-    "BANK": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+    "BANK": "Thane Bharat Sahakari Bank",
     "IFSC": "TBSB0000007",
     "MICR": "400525007",
     "BRANCH": "SHREE NAGAR",
@@ -119,7 +119,7 @@
     "SWIFT": null
   },
   "TBSB0000008": {
-    "BANK": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+    "BANK": "Thane Bharat Sahakari Bank",
     "IFSC": "TBSB0000008",
     "MICR": "400525008",
     "BRANCH": "SHIVAI NAGAR",
@@ -136,7 +136,7 @@
     "SWIFT": null
   },
   "TBSB0000009": {
-    "BANK": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+    "BANK": "Thane Bharat Sahakari Bank",
     "IFSC": "TBSB0000009",
     "MICR": "400525009",
     "BRANCH": "KALYAN",
@@ -153,7 +153,7 @@
     "SWIFT": null
   },
   "TBSB0000010": {
-    "BANK": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+    "BANK": "Thane Bharat Sahakari Bank",
     "IFSC": "TBSB0000010",
     "MICR": "400525010",
     "BRANCH": "MULUND",
@@ -170,7 +170,7 @@
     "SWIFT": null
   },
   "TBSB0000011": {
-    "BANK": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+    "BANK": "Thane Bharat Sahakari Bank",
     "IFSC": "TBSB0000011",
     "MICR": "400525011",
     "BRANCH": "GHATKOPAR (EAST)",
@@ -187,7 +187,7 @@
     "SWIFT": null
   },
   "TBSB0000012": {
-    "BANK": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+    "BANK": "Thane Bharat Sahakari Bank",
     "IFSC": "TBSB0000012",
     "MICR": "400525012",
     "BRANCH": "RUTU PARK",
@@ -204,7 +204,7 @@
     "SWIFT": null
   },
   "TBSB0000013": {
-    "BANK": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+    "BANK": "Thane Bharat Sahakari Bank",
     "IFSC": "TBSB0000013",
     "MICR": "400525013",
     "BRANCH": "GHATKOPAR (WEST)",
@@ -221,7 +221,7 @@
     "SWIFT": null
   },
   "TBSB0000015": {
-    "BANK": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+    "BANK": "Thane Bharat Sahakari Bank",
     "IFSC": "TBSB0000015",
     "MICR": "400525015",
     "BRANCH": "AIROLI",
@@ -238,7 +238,7 @@
     "SWIFT": null
   },
   "TBSB0000016": {
-    "BANK": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+    "BANK": "Thane Bharat Sahakari Bank",
     "IFSC": "TBSB0000016",
     "MICR": "400525016",
     "BRANCH": "GHODBUNDAR ROAD",
@@ -255,7 +255,7 @@
     "SWIFT": null
   },
   "TBSB0000017": {
-    "BANK": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+    "BANK": "Thane Bharat Sahakari Bank",
     "IFSC": "TBSB0000017",
     "MICR": "400525017",
     "BRANCH": "LOKMANYA NAGAR",
@@ -272,7 +272,7 @@
     "SWIFT": null
   },
   "TBSB0000018": {
-    "BANK": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+    "BANK": "Thane Bharat Sahakari Bank",
     "IFSC": "TBSB0000018",
     "MICR": "400525018",
     "BRANCH": "DOMBIVALI",
@@ -289,7 +289,7 @@
     "SWIFT": null
   },
   "TBSB0000019": {
-    "BANK": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+    "BANK": "Thane Bharat Sahakari Bank",
     "IFSC": "TBSB0000019",
     "MICR": "400525019",
     "BRANCH": "BHANDUP",
@@ -306,7 +306,7 @@
     "SWIFT": null
   },
   "TBSB0000020": {
-    "BANK": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+    "BANK": "Thane Bharat Sahakari Bank",
     "IFSC": "TBSB0000020",
     "MICR": "400525020",
     "BRANCH": "DADAR",
@@ -323,9 +323,9 @@
     "SWIFT": null
   },
   "TBSB0000021": {
-    "BANK": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+    "BANK": "Thane Bharat Sahakari Bank",
     "IFSC": "TBSB0000021",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "KALWA",
     "ADDRESS": "SHOP NO 7,8&16,AMRUTDHAM CHS LTD,",
     "STATE": "MAHARASHTRA",
@@ -340,9 +340,9 @@
     "SWIFT": null
   },
   "TBSB0000022": {
-    "BANK": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+    "BANK": "Thane Bharat Sahakari Bank",
     "IFSC": "TBSB0000022",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "PANVEL",
     "ADDRESS": "SHREE BASAV-NILAYA, GR.FLOOR, PLOT NO-152,",
     "STATE": "MAHARASHTRA",
@@ -357,7 +357,7 @@
     "SWIFT": null
   },
   "TBSB0000023": {
-    "BANK": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+    "BANK": "Thane Bharat Sahakari Bank",
     "IFSC": "TBSB0000023",
     "MICR": "400525023",
     "BRANCH": "BADLAPUR",
@@ -374,7 +374,7 @@
     "SWIFT": null
   },
   "TBSB0000024": {
-    "BANK": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+    "BANK": "Thane Bharat Sahakari Bank",
     "IFSC": "TBSB0000024",
     "MICR": "411525002",
     "BRANCH": "SADASHIVPETH PUNE",
@@ -391,7 +391,7 @@
     "SWIFT": null
   },
   "TBSB0000025": {
-    "BANK": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+    "BANK": "Thane Bharat Sahakari Bank",
     "IFSC": "TBSB0000025",
     "MICR": "402525051",
     "BRANCH": "PEN",
@@ -408,7 +408,7 @@
     "SWIFT": null
   },
   "TBSB0000026": {
-    "BANK": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+    "BANK": "Thane Bharat Sahakari Bank",
     "IFSC": "TBSB0000026",
     "MICR": "400525024",
     "BRANCH": "SHAHAPUR",
@@ -425,7 +425,7 @@
     "SWIFT": null
   },
   "TBSB0000027": {
-    "BANK": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+    "BANK": "Thane Bharat Sahakari Bank",
     "IFSC": "TBSB0000027",
     "MICR": "400525025",
     "BRANCH": "KURLA EAST",
@@ -442,7 +442,7 @@
     "SWIFT": null
   },
   "TBSB0000028": {
-    "BANK": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+    "BANK": "Thane Bharat Sahakari Bank",
     "IFSC": "TBSB0000028",
     "MICR": "400525026",
     "BRANCH": "PALGHAR",
@@ -459,7 +459,7 @@
     "SWIFT": null
   },
   "TBSB0000029": {
-    "BANK": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+    "BANK": "Thane Bharat Sahakari Bank",
     "IFSC": "TBSB0000029",
     "MICR": "400525027",
     "BRANCH": "KARJAT",
@@ -476,7 +476,7 @@
     "SWIFT": null
   },
   "TBSB0000030": {
-    "BANK": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+    "BANK": "Thane Bharat Sahakari Bank",
     "IFSC": "TBSB0000030",
     "MICR": "400525028",
     "BRANCH": "THAKURLI",
@@ -493,7 +493,7 @@
     "SWIFT": null
   },
   "TBSB0000031": {
-    "BANK": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+    "BANK": "Thane Bharat Sahakari Bank",
     "IFSC": "TBSB0000031",
     "MICR": "411525003",
     "BRANCH": "CHAKAN",
@@ -510,7 +510,7 @@
     "SWIFT": null
   },
   "TBSB0000032": {
-    "BANK": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+    "BANK": "Thane Bharat Sahakari Bank",
     "IFSC": "TBSB0000032",
     "MICR": "400525029",
     "BRANCH": "BALKUM",
@@ -523,23 +523,6 @@
     "CENTRE": "THANE",
     "DISTRICT": "THANE",
     "NEFT": true,
-    "IMPS": true,
-    "SWIFT": null
-  },
-  "TBSB0SERCEN": {
-    "BANK": null,
-    "IFSC": "TBSB0SERCEN",
-    "MICR": "NA",
-    "BRANCH": "BACK OFFICE",
-    "ADDRESS": "SATYAM PREMISES, OPP. NAUPADA TELEPHONE EXCHANGE,NAUPADA, THANE-W 400602",
-    "STATE": "MAHARASHTRA",
-    "CONTACT": "+912225373100",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "THANE",
-    "CENTRE": "THANE",
-    "DISTRICT": "THANE",
-    "NEFT": false,
     "IMPS": true,
     "SWIFT": null
   }

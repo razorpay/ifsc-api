@@ -1,6 +1,6 @@
 {
   "URBN0000001": {
-    "BANK": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+    "BANK": "Urban Co-operative Bank Perinthalmanna",
     "IFSC": "URBN0000001",
     "MICR": "679827152",
     "BRANCH": "RTGS-HO",
@@ -17,9 +17,9 @@
     "SWIFT": null
   },
   "URBN00000B1": {
-    "BANK": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+    "BANK": "Urban Co-operative Bank Perinthalmanna",
     "IFSC": "URBN00000B1",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "PERINTHALMANNA MAIN BRANCH",
     "ADDRESS": "URBAN BANK BUILDING,PATTABMI ROAD,PERINTHALMANNA POST",
     "STATE": "KERALA",
@@ -34,9 +34,9 @@
     "SWIFT": null
   },
   "URBN00000B2": {
-    "BANK": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+    "BANK": "Urban Co-operative Bank Perinthalmanna",
     "IFSC": "URBN00000B2",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "KARINKALLATHANI BRANCH",
     "ADDRESS": "KARINKALLATHANI,THAZHEKKODE POST",
     "STATE": "KERALA",
@@ -51,9 +51,9 @@
     "SWIFT": null
   },
   "URBN00000B3": {
-    "BANK": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+    "BANK": "Urban Co-operative Bank Perinthalmanna",
     "IFSC": "URBN00000B3",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "MALAPPURAM BRANCH",
     "ADDRESS": "UPHILL,MALAPPURAM POST",
     "STATE": "KERALA",
@@ -68,9 +68,9 @@
     "SWIFT": null
   },
   "URBN00000B4": {
-    "BANK": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+    "BANK": "Urban Co-operative Bank Perinthalmanna",
     "IFSC": "URBN00000B4",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "PANANGANGARA BRANCH",
     "ADDRESS": "PUZHAKKATTIRI POST",
     "STATE": "KERALA",
@@ -85,9 +85,9 @@
     "SWIFT": null
   },
   "URBN00000B5": {
-    "BANK": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+    "BANK": "Urban Co-operative Bank Perinthalmanna",
     "IFSC": "URBN00000B5",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "CHATTIPARAMBA BRANCH",
     "ADDRESS": "CHATTIPARAMBA POST",
     "STATE": "KERALA",
@@ -102,9 +102,9 @@
     "SWIFT": null
   },
   "URBN00000B6": {
-    "BANK": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+    "BANK": "Urban Co-operative Bank Perinthalmanna",
     "IFSC": "URBN00000B6",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "MELATUR BRANCH",
     "ADDRESS": "MELATUR POST",
     "STATE": "KERALA",
@@ -119,9 +119,9 @@
     "SWIFT": null
   },
   "URBN00000B7": {
-    "BANK": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+    "BANK": "Urban Co-operative Bank Perinthalmanna",
     "IFSC": "URBN00000B7",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "PULAMANTHOLE BRANCH",
     "ADDRESS": "PULAMANTHOLE POST",
     "STATE": "KERALA",
@@ -136,9 +136,9 @@
     "SWIFT": null
   },
   "URBN00000B8": {
-    "BANK": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+    "BANK": "Urban Co-operative Bank Perinthalmanna",
     "IFSC": "URBN00000B8",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "MAKKARAPARAMBA BRANCH",
     "ADDRESS": "MAKKARAPARAMBA POST",
     "STATE": "KERALA",
@@ -153,9 +153,9 @@
     "SWIFT": null
   },
   "URBN00000B9": {
-    "BANK": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+    "BANK": "Urban Co-operative Bank Perinthalmanna",
     "IFSC": "URBN00000B9",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "KOLATHUR BRANCH",
     "ADDRESS": "KOLATHUR POST",
     "STATE": "KERALA",
@@ -169,27 +169,10 @@
     "IMPS": true,
     "SWIFT": null
   },
-  "URBN00000SC": {
-    "BANK": null,
-    "IFSC": "URBN00000SC",
-    "MICR": "NA",
-    "BRANCH": "NEFT_SC",
-    "ADDRESS": "URBAN BANK BUILDING,PATTABMI ROAD,PERINTHALMANNA POST",
-    "STATE": "KERALA",
-    "CONTACT": "+914933227346",
-    "UPI": false,
-    "RTGS": true,
-    "CITY": "PERINTHALMANNA",
-    "CENTRE": "PERINTHALMANNA",
-    "DISTRICT": "PERINTHALMANNA",
-    "NEFT": false,
-    "IMPS": true,
-    "SWIFT": null
-  },
   "URBN0000B10": {
-    "BANK": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+    "BANK": "Urban Co-operative Bank Perinthalmanna",
     "IFSC": "URBN0000B10",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "PERINTHALMANNA EVENING BRANCH",
     "ADDRESS": "HOSPITAL ROAD,PERINTHALMANNA POST",
     "STATE": "KERALA",
@@ -204,9 +187,9 @@
     "SWIFT": null
   },
   "URBN0000B11": {
-    "BANK": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+    "BANK": "Urban Co-operative Bank Perinthalmanna",
     "IFSC": "URBN0000B11",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "PATTIKKAD BRANCH",
     "ADDRESS": "PATTIKKAD POST",
     "STATE": "KERALA",
@@ -221,9 +204,9 @@
     "SWIFT": null
   },
   "URBN0000B12": {
-    "BANK": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+    "BANK": "Urban Co-operative Bank Perinthalmanna",
     "IFSC": "URBN0000B12",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "THOOTHA BRANCH",
     "ADDRESS": "THOOTHA POST",
     "STATE": "KERALA",
@@ -238,9 +221,9 @@
     "SWIFT": null
   },
   "URBN0000B13": {
-    "BANK": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+    "BANK": "Urban Co-operative Bank Perinthalmanna",
     "IFSC": "URBN0000B13",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "ANGADIPURAM BRANCH",
     "ADDRESS": "ANGADIPURAM POST",
     "STATE": "KERALA",
@@ -255,9 +238,9 @@
     "SWIFT": null
   },
   "URBN0000B14": {
-    "BANK": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+    "BANK": "Urban Co-operative Bank Perinthalmanna",
     "IFSC": "URBN0000B14",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "MANKADA BRANCH",
     "ADDRESS": "MANKADA POST",
     "STATE": "KERALA",
@@ -272,9 +255,9 @@
     "SWIFT": null
   },
   "URBN0000B15": {
-    "BANK": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+    "BANK": "Urban Co-operative Bank Perinthalmanna",
     "IFSC": "URBN0000B15",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "MALAPPURAM EVENING BRANCH",
     "ADDRESS": "DOWN HILL,MALAPPURAM POST",
     "STATE": "KERALA",
@@ -289,9 +272,9 @@
     "SWIFT": null
   },
   "URBN0000B16": {
-    "BANK": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+    "BANK": "Urban Co-operative Bank Perinthalmanna",
     "IFSC": "URBN0000B16",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "MUTHUKURUSSI BRANCH",
     "ADDRESS": "MUTHUKURUSSI,ELAD POST",
     "STATE": "KERALA",
@@ -306,9 +289,9 @@
     "SWIFT": null
   },
   "URBN0000B17": {
-    "BANK": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+    "BANK": "Urban Co-operative Bank Perinthalmanna",
     "IFSC": "URBN0000B17",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "KOOTILANGADI BRANCH",
     "ADDRESS": "PADINATUMMURI POST",
     "STATE": "KERALA",
@@ -323,9 +306,9 @@
     "SWIFT": null
   },
   "URBN0000B18": {
-    "BANK": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+    "BANK": "Urban Co-operative Bank Perinthalmanna",
     "IFSC": "URBN0000B18",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "MOORKANAD BRANCH",
     "ADDRESS": "POTTIKUZHI,MOORKANAD POST",
     "STATE": "KERALA",
@@ -340,9 +323,9 @@
     "SWIFT": null
   },
   "URBN0000B19": {
-    "BANK": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+    "BANK": "Urban Co-operative Bank Perinthalmanna",
     "IFSC": "URBN0000B19",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "THACHINGANADAM BRANCH",
     "ADDRESS": "THACHINGANADAM POST",
     "STATE": "KERALA",
@@ -357,9 +340,9 @@
     "SWIFT": null
   },
   "URBN0000B20": {
-    "BANK": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+    "BANK": "Urban Co-operative Bank Perinthalmanna",
     "IFSC": "URBN0000B20",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "VETTATHUR BRANCH",
     "ADDRESS": "VETTATHUR POST",
     "STATE": "KERALA",
@@ -374,9 +357,9 @@
     "SWIFT": null
   },
   "URBN0000B21": {
-    "BANK": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+    "BANK": "Urban Co-operative Bank Perinthalmanna",
     "IFSC": "URBN0000B21",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "PANG CHENDI BRANCH",
     "ADDRESS": "PANG CHENDI POST",
     "STATE": "KERALA",
@@ -391,9 +374,9 @@
     "SWIFT": null
   },
   "URBN0000B22": {
-    "BANK": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+    "BANK": "Urban Co-operative Bank Perinthalmanna",
     "IFSC": "URBN0000B22",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "EDAPPATA BRANCH",
     "ADDRESS": "EDAPATTA POST",
     "STATE": "KERALA",
@@ -408,9 +391,9 @@
     "SWIFT": null
   },
   "URBN0000B23": {
-    "BANK": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+    "BANK": "Urban Co-operative Bank Perinthalmanna",
     "IFSC": "URBN0000B23",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "ALATHURPADI BRANCH",
     "ADDRESS": "ALATHURPADI,MELMURI POST",
     "STATE": "KERALA",
@@ -425,9 +408,9 @@
     "SWIFT": null
   },
   "URBN0000B24": {
-    "BANK": "THE URBAN CO OPERATIVE BANK Ltd No ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+    "BANK": "Urban Co-operative Bank Perinthalmanna",
     "IFSC": "URBN0000B24",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "PERINTHALMANNA BYE PASS BRACH",
     "ADDRESS": "THARAYIL BUSTAND BUILDING,BYE PASS,PERINTHALMANNA POST",
     "STATE": "KERALA",

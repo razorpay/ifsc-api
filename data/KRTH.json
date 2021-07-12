@@ -1,25 +1,8 @@
 {
-  "KRTH0INBB00": {
-    "BANK": null,
-    "IFSC": "KRTH0INBB00",
-    "MICR": "NA",
-    "BRANCH": "NEFT SERVICE CENTER",
-    "ADDRESS": "62,6TH FLOOR,MAKER CHAMBERS VI,NARIMAN POINT,MUMBAI 400021",
-    "STATE": "MAHARASHTRA",
-    "CONTACT": "+912222873741",
-    "UPI": false,
-    "RTGS": true,
-    "CITY": "MUMBAI",
-    "CENTRE": "MUMBAI",
-    "DISTRICT": "MUMBAI",
-    "NEFT": false,
-    "IMPS": true,
-    "SWIFT": null
-  },
   "KRTH0INBB01": {
-    "BANK": "KRUNG THAI BANK PCL",
+    "BANK": "Krungthai Bank",
     "IFSC": "KRTH0INBB01",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "RTGS-HO",
     "ADDRESS": "62 MAKER CHAMBERS VI, 6TH FLOOR, NARIMAN POINT, MUMBAI 400 021.",
     "STATE": "MAHARASHTRA",

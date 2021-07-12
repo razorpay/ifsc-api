@@ -1,6 +1,6 @@
 {
   "MAHG0000001": {
-    "BANK": null,
+    "BANK": "Maharashtra Gramin Bank",
     "IFSC": "MAHG0000001",
     "MICR": null,
     "BRANCH": "RTGS-HO",
@@ -19,24 +19,24 @@
   "MAHG00000SC": {
     "BANK": "Maharashtra Gramin Bank",
     "IFSC": "MAHG00000SC",
-    "MICR": "NA",
     "BRANCH": "SERVICE CENTRE",
     "ADDRESS": "AT JIVANSHREE PLOT NO 35 SECTOR G TOWN CENTRE CIDCO AURANGABAD 431005",
-    "STATE": "MAHARASHTRA",
     "CONTACT": "+912402476140",
-    "UPI": false,
-    "RTGS": true,
     "CITY": "AURANGABAD",
-    "CENTRE": "AURANGABAD",
     "DISTRICT": "AURANGABAD",
+    "STATE": "MAHARASHTRA",
+    "MICR": null,
     "NEFT": true,
+    "CENTRE": null,
+    "UPI": false,
+    "RTGS": false,
     "IMPS": true,
     "SWIFT": null
   },
   "MAHG0004000": {
     "BANK": "Maharashtra Gramin Bank",
     "IFSC": "MAHG0004000",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "HEAD OFFICE",
     "ADDRESS": "AT JIVANSHREE PLOT NO 35 SECTOR G TOWN CENTRE CIDCO AURANGABAD 431005",
     "STATE": "MAHARASHTRA",
@@ -3538,7 +3538,7 @@
   "MAHG0004439": {
     "BANK": "Maharashtra Gramin Bank",
     "IFSC": "MAHG0004439",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "SANGAVI KATI",
     "ADDRESS": "MAHARASHTRA GRAMIN BANK AT POST KATI SAWANGI HOUSE OF SHREE DEVIDAS SANGVIKAR KATI SAWANGI OSMANABAD",
     "STATE": "MAHARASHTRA",
@@ -5204,7 +5204,7 @@
   "MAHG0005128": {
     "BANK": "Maharashtra Gramin Bank",
     "IFSC": "MAHG0005128",
-    "MICR": "NonMICR",
+    "MICR": null,
     "BRANCH": "SAWALATBARA",
     "ADDRESS": "AT SAWALATBARA TQ DIST AURANGABAD",
     "STATE": "MAHARASHTRA",
@@ -5238,7 +5238,7 @@
   "MAHG0005130": {
     "BANK": "Maharashtra Gramin Bank",
     "IFSC": "MAHG0005130",
-    "MICR": "NonMICR",
+    "MICR": null,
     "BRANCH": "SILLOD",
     "ADDRESS": "AT SILLOD TQ DIST AURANGABAD",
     "STATE": "MAHARASHTRA",
@@ -5255,7 +5255,7 @@
   "MAHG0005131": {
     "BANK": "Maharashtra Gramin Bank",
     "IFSC": "MAHG0005131",
-    "MICR": "NonMICR",
+    "MICR": null,
     "BRANCH": "MUKUNDWADI AURANGABAD",
     "ADDRESS": "AT MUKUNDWADI AURANGABAD TQ DIST AURANGABAD",
     "STATE": "MAHARASHTRA",
@@ -5289,7 +5289,7 @@
   "MAHG0005133": {
     "BANK": "Maharashtra Gramin Bank",
     "IFSC": "MAHG0005133",
-    "MICR": "NonMICR",
+    "MICR": null,
     "BRANCH": "KANNAD",
     "ADDRESS": "AT KANNAD TQ DIST AURANGABAD",
     "STATE": "MAHARASHTRA",
@@ -5357,7 +5357,7 @@
   "MAHG0005137": {
     "BANK": "Maharashtra Gramin Bank",
     "IFSC": "MAHG0005137",
-    "MICR": "NonMICR",
+    "MICR": null,
     "BRANCH": "ALAND",
     "ADDRESS": "AT ALAND TQ DIST AURANGABAD",
     "STATE": "MAHARASHTRA",
@@ -5374,7 +5374,7 @@
   "MAHG0005138": {
     "BANK": "Maharashtra Gramin Bank",
     "IFSC": "MAHG0005138",
-    "MICR": "NonMICR",
+    "MICR": null,
     "BRANCH": "RANJANGAON",
     "ADDRESS": "AT RANJANGAON TQ DIST AURANGABAD",
     "STATE": "MAHARASHTRA",
@@ -5408,7 +5408,7 @@
   "MAHG0005140": {
     "BANK": "Maharashtra Gramin Bank",
     "IFSC": "MAHG0005140",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "ADUL",
     "ADDRESS": "AURANGABAD-BEED HIGH-WAY AT POST ADUL TQ PAITHAN",
     "STATE": "MAHARASHTRA",
@@ -6156,7 +6156,7 @@
   "MAHG0005509": {
     "BANK": "Maharashtra Gramin Bank",
     "IFSC": "MAHG0005509",
-    "MICR": "NonMICR",
+    "MICR": null,
     "BRANCH": "MEHUNBARE",
     "ADDRESS": "AT MEHUNBARE TQ DIST JALGAON",
     "STATE": "MAHARASHTRA",
@@ -6173,7 +6173,7 @@
   "MAHG0005510": {
     "BANK": "Maharashtra Gramin Bank",
     "IFSC": "MAHG0005510",
-    "MICR": "NonMICR",
+    "MICR": null,
     "BRANCH": "SHIRSOLI P B",
     "ADDRESS": "AT SHIRSOLI P B TQ DIST JALGAON",
     "STATE": "MAHARASHTRA",
@@ -6275,7 +6275,7 @@
   "MAHG0005516": {
     "BANK": "Maharashtra Gramin Bank",
     "IFSC": "MAHG0005516",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "CHOPDA",
     "ADDRESS": "BAJAJ PLAZA 2382/83 PATHAK GALLI MAIN ROAD AT POST AND TQ CHOPDA",
     "STATE": "MAHARASHTRA",
@@ -6292,7 +6292,7 @@
   "MAHG0005517": {
     "BANK": "Maharashtra Gramin Bank",
     "IFSC": "MAHG0005517",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "AMALNER",
     "ADDRESS": "SHIVAJI ROAD NEW PLOT NEAR DADAWADI AMALNER TQ AMALNER",
     "STATE": "MAHARASHTRA",
@@ -6309,7 +6309,7 @@
   "MAHG0005518": {
     "BANK": "Maharashtra Gramin Bank",
     "IFSC": "MAHG0005518",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "ERANDOL",
     "ADDRESS": "SADGURU VILLA BIRLA CHOWK NEAR PANDAV WADA AT POST AND TQ ERANDOL",
     "STATE": "MAHARASHTRA",
@@ -6734,7 +6734,7 @@
   "MAHG0005700": {
     "BANK": "Maharashtra Gramin Bank",
     "IFSC": "MAHG0005700",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "NASIK REGIONAL OFFICE",
     "ADDRESS": "MAHARASHTRA GRAMIN BANK REGIONAL OFFICE GAIKWAD CORNER FIRST FLOOR SUCHITA NAGAR NEAR INDIRA NAGAR JOGING TRACK MUMBAI AGRA HIGHWAY NASIK 422009",
     "STATE": "MAHARASHTRA",
@@ -7210,7 +7210,7 @@
   "MAHG0099922": {
     "BANK": "Maharashtra Gramin Bank",
     "IFSC": "MAHG0099922",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "VIRTUAL BRANCH",
     "ADDRESS": "AT JEEVANSHREE PLOT NO 35 SECTOR G TOWN CENTRE CIDCO AURANGABAD MAHARASHTRA 431005",
     "STATE": "MAHARASHTRA",

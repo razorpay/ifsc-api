@@ -11,13 +11,13 @@
     "IMPS": true,
     "CITY": "NOIDA",
     "UPI": true,
-    "MICR": "NA",
+    "MICR": null,
     "RTGS": true,
     "NEFT": true,
     "SWIFT": null
   },
   "PYTM00000SC": {
-    "BANK": null,
+    "BANK": "Paytm Payments Bank",
     "IFSC": "PYTM00000SC",
     "MICR": null,
     "BRANCH": "NOIDA BRANCH",
@@ -34,9 +34,9 @@
     "SWIFT": null
   },
   "PYTM0123456": {
-    "BANK": "PAYTM PAYMENTS BANK LTD",
+    "BANK": "Paytm Payments Bank",
     "IFSC": "PYTM0123456",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "Noida Branch",
     "ADDRESS": "B-121, Sector-5,Noida-201301",
     "STATE": "UTTAR PRADESH",

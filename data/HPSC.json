@@ -1,6 +1,6 @@
 {
   "HPSC0000001": {
-    "BANK": null,
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000001",
     "MICR": null,
     "BRANCH": "RTGS-HO",
@@ -12,12 +12,12 @@
     "CITY": "SHIMLA",
     "CENTRE": "SHIMLA",
     "DISTRICT": "SHIMLA",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null
   },
   "HPSC0000051": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000051",
     "MICR": "110013251",
     "BRANCH": "NEW SUBZI MANDI DELHI",
@@ -33,25 +33,8 @@
     "IMPS": true,
     "SWIFT": null
   },
-  "HPSC00000SC": {
-    "BANK": null,
-    "IFSC": "HPSC00000SC",
-    "MICR": null,
-    "BRANCH": "SERVICE CENTRE",
-    "ADDRESS": "THE MALL, SHIMLA 171001",
-    "STATE": "HIMACHAL PRADESH",
-    "CONTACT": null,
-    "UPI": false,
-    "RTGS": true,
-    "CITY": "SHIMLA",
-    "CENTRE": "SHIMLA",
-    "DISTRICT": "SHIMLA",
-    "NEFT": false,
-    "IMPS": true,
-    "SWIFT": null
-  },
   "HPSC0000101": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000101",
     "MICR": "174311053",
     "BRANCH": "BARMANA",
@@ -68,7 +51,7 @@
     "SWIFT": null
   },
   "HPSC0000102": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000102",
     "MICR": "174311076",
     "BRANCH": "BASSI",
@@ -85,7 +68,7 @@
     "SWIFT": null
   },
   "HPSC0000103": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000103",
     "MICR": "174311071",
     "BRANCH": "BERI",
@@ -102,7 +85,7 @@
     "SWIFT": null
   },
   "HPSC0000104": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000104",
     "MICR": "174311068",
     "BRANCH": "BERTHIN",
@@ -119,7 +102,7 @@
     "SWIFT": null
   },
   "HPSC0000105": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000105",
     "MICR": "174311058",
     "BRANCH": "BHARARI",
@@ -136,7 +119,7 @@
     "SWIFT": null
   },
   "HPSC0000106": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000106",
     "MICR": "174311052",
     "BRANCH": "BILASPUR",
@@ -153,7 +136,7 @@
     "SWIFT": null
   },
   "HPSC0000107": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000107",
     "MICR": "174311063",
     "BRANCH": "DADHOL",
@@ -170,7 +153,7 @@
     "SWIFT": null
   },
   "HPSC0000108": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000108",
     "MICR": "174311054",
     "BRANCH": "DANGAR",
@@ -187,7 +170,7 @@
     "SWIFT": null
   },
   "HPSC0000109": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000109",
     "MICR": "174311073",
     "BRANCH": "GEHRWIN",
@@ -204,7 +187,7 @@
     "SWIFT": null
   },
   "HPSC0000110": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000110",
     "MICR": "174311069",
     "BRANCH": "GHUMARWIN",
@@ -221,7 +204,7 @@
     "SWIFT": null
   },
   "HPSC0000111": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000111",
     "MICR": "174311074",
     "BRANCH": "JHANDUTTA",
@@ -238,7 +221,7 @@
     "SWIFT": null
   },
   "HPSC0000112": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000112",
     "MICR": "174311060",
     "BRANCH": "KALLARI",
@@ -255,7 +238,7 @@
     "SWIFT": null
   },
   "HPSC0000113": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000113",
     "MICR": "174311065",
     "BRANCH": "KUTHERA",
@@ -272,7 +255,7 @@
     "SWIFT": null
   },
   "HPSC0000114": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000114",
     "MICR": "174311062",
     "BRANCH": "LAKHANPUR",
@@ -289,7 +272,7 @@
     "SWIFT": null
   },
   "HPSC0000115": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000115",
     "MICR": "174311075",
     "BRANCH": "NAINA DEVI",
@@ -306,7 +289,7 @@
     "SWIFT": null
   },
   "HPSC0000116": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000116",
     "MICR": "174311066",
     "BRANCH": "NAMHOL",
@@ -323,7 +306,7 @@
     "SWIFT": null
   },
   "HPSC0000117": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000117",
     "MICR": "174311077",
     "BRANCH": "SHAH TALAI",
@@ -340,7 +323,7 @@
     "SWIFT": null
   },
   "HPSC0000118": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000118",
     "MICR": "174311056",
     "BRANCH": "SWARGHAT",
@@ -357,7 +340,7 @@
     "SWIFT": null
   },
   "HPSC0000119": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000119",
     "MICR": "174311059",
     "BRANCH": "KANDRAUR",
@@ -374,7 +357,7 @@
     "SWIFT": null
   },
   "HPSC0000120": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000120",
     "MICR": "174311072",
     "BRANCH": "HARNORA",
@@ -391,7 +374,7 @@
     "SWIFT": null
   },
   "HPSC0000123": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000123",
     "MICR": "174311055",
     "BRANCH": "GUGA MOHRA",
@@ -408,7 +391,7 @@
     "SWIFT": null
   },
   "HPSC0000124": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000124",
     "MICR": "174311057",
     "BRANCH": "TRIFALGHAT",
@@ -425,7 +408,7 @@
     "SWIFT": null
   },
   "HPSC0000125": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000125",
     "MICR": "174311064",
     "BRANCH": "JUKHALA",
@@ -442,7 +425,7 @@
     "SWIFT": null
   },
   "HPSC0000126": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000126",
     "MICR": "174311070",
     "BRANCH": "JEJHWIN",
@@ -459,7 +442,7 @@
     "SWIFT": null
   },
   "HPSC0000127": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000127",
     "MICR": "174311061",
     "BRANCH": "BUM",
@@ -476,7 +459,7 @@
     "SWIFT": null
   },
   "HPSC0000128": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000128",
     "MICR": "174311067",
     "BRANCH": "MALOKHAR",
@@ -493,7 +476,7 @@
     "SWIFT": null
   },
   "HPSC0000129": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000129",
     "MICR": "174311078",
     "BRANCH": "HATWAR",
@@ -510,7 +493,7 @@
     "SWIFT": null
   },
   "HPSC0000130": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000130",
     "MICR": "140311152",
     "BRANCH": "GOLTHAI",
@@ -527,7 +510,7 @@
     "SWIFT": null
   },
   "HPSC0000132": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000132",
     "MICR": "174311080",
     "BRANCH": "CHANDPUR",
@@ -544,7 +527,7 @@
     "SWIFT": null
   },
   "HPSC0000133": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000133",
     "MICR": "174311081",
     "BRANCH": "HARLOG",
@@ -561,7 +544,7 @@
     "SWIFT": null
   },
   "HPSC0000134": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000134",
     "MICR": "174311079",
     "BRANCH": "KAULAN WALA TOBA",
@@ -578,7 +561,7 @@
     "SWIFT": null
   },
   "HPSC0000135": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000135",
     "MICR": "174311082",
     "BRANCH": "BHAGER",
@@ -595,7 +578,7 @@
     "SWIFT": null
   },
   "HPSC0000176": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000176",
     "MICR": "176311008",
     "BRANCH": "BANIKHET",
@@ -612,7 +595,7 @@
     "SWIFT": null
   },
   "HPSC0000177": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000177",
     "MICR": "176311015",
     "BRANCH": "BHANJRARU",
@@ -629,7 +612,7 @@
     "SWIFT": null
   },
   "HPSC0000178": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000178",
     "MICR": "176311017",
     "BRANCH": "BHARMOUR",
@@ -646,7 +629,7 @@
     "SWIFT": null
   },
   "HPSC0000179": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000179",
     "MICR": "176311002",
     "BRANCH": "CHAMBA",
@@ -663,7 +646,7 @@
     "SWIFT": null
   },
   "HPSC0000180": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000180",
     "MICR": "176311007",
     "BRANCH": "CHOWARI",
@@ -680,7 +663,7 @@
     "SWIFT": null
   },
   "HPSC0000182": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000182",
     "MICR": "176311005",
     "BRANCH": "DALHOUSIE",
@@ -697,7 +680,7 @@
     "SWIFT": null
   },
   "HPSC0000183": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000183",
     "MICR": "176311010",
     "BRANCH": "DHULARA",
@@ -714,7 +697,7 @@
     "SWIFT": null
   },
   "HPSC0000184": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000184",
     "MICR": "176377012",
     "BRANCH": "GAROLA",
@@ -731,7 +714,7 @@
     "SWIFT": null
   },
   "HPSC0000185": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000185",
     "MICR": "176311052",
     "BRANCH": "HATLI",
@@ -748,7 +731,7 @@
     "SWIFT": null
   },
   "HPSC0000186": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000186",
     "MICR": "176311004",
     "BRANCH": "HOLI",
@@ -765,7 +748,7 @@
     "SWIFT": null
   },
   "HPSC0000187": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000187",
     "MICR": "176311013",
     "BRANCH": "KAKIRA",
@@ -782,7 +765,7 @@
     "SWIFT": null
   },
   "HPSC0000188": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000188",
     "MICR": "176311014",
     "BRANCH": "NAINI KHAD",
@@ -799,7 +782,7 @@
     "SWIFT": null
   },
   "HPSC0000189": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000189",
     "MICR": "176311011",
     "BRANCH": "SALOONI",
@@ -816,7 +799,7 @@
     "SWIFT": null
   },
   "HPSC0000190": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000190",
     "MICR": "176311006",
     "BRANCH": "SIHUNTA",
@@ -833,7 +816,7 @@
     "SWIFT": null
   },
   "HPSC0000191": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000191",
     "MICR": "176311009",
     "BRANCH": "SURGANI",
@@ -850,7 +833,7 @@
     "SWIFT": null
   },
   "HPSC0000192": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000192",
     "MICR": "176311016",
     "BRANCH": "TISSA",
@@ -867,7 +850,7 @@
     "SWIFT": null
   },
   "HPSC0000193": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000193",
     "MICR": "176311003",
     "BRANCH": "TUNDI",
@@ -884,7 +867,7 @@
     "SWIFT": null
   },
   "HPSC0000195": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000195",
     "MICR": "176311018",
     "BRANCH": "BATHARI",
@@ -901,7 +884,7 @@
     "SWIFT": null
   },
   "HPSC0000197": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000197",
     "MICR": "176311024",
     "BRANCH": "SAROL",
@@ -918,7 +901,7 @@
     "SWIFT": null
   },
   "HPSC0000198": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000198",
     "MICR": "176311019",
     "BRANCH": "RAJNAGAR",
@@ -935,7 +918,7 @@
     "SWIFT": null
   },
   "HPSC0000199": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000199",
     "MICR": "176311020",
     "BRANCH": "SAHO",
@@ -952,7 +935,7 @@
     "SWIFT": null
   },
   "HPSC0000200": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000200",
     "MICR": "176311021",
     "BRANCH": "KARIAN",
@@ -969,7 +952,7 @@
     "SWIFT": null
   },
   "HPSC0000201": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000201",
     "MICR": "176311022",
     "BRANCH": "DHARWALA",
@@ -986,7 +969,7 @@
     "SWIFT": null
   },
   "HPSC0000202": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000202",
     "MICR": "176311023",
     "BRANCH": "SUNDLA",
@@ -1003,7 +986,7 @@
     "SWIFT": null
   },
   "HPSC0000203": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000203",
     "MICR": "176311025",
     "BRANCH": "KILLAR",
@@ -1020,7 +1003,7 @@
     "SWIFT": null
   },
   "HPSC0000251": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000251",
     "MICR": "172311057",
     "BRANCH": "BHABA NAGAR",
@@ -1037,7 +1020,7 @@
     "SWIFT": null
   },
   "HPSC0000252": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000252",
     "MICR": "172311056",
     "BRANCH": "KALPA",
@@ -1054,7 +1037,7 @@
     "SWIFT": null
   },
   "HPSC0000253": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000253",
     "MICR": "172311059",
     "BRANCH": "KATGAON",
@@ -1071,7 +1054,7 @@
     "SWIFT": null
   },
   "HPSC0000254": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000254",
     "MICR": "172311061",
     "BRANCH": "MOORANG",
@@ -1088,7 +1071,7 @@
     "SWIFT": null
   },
   "HPSC0000255": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000255",
     "MICR": "172311011",
     "BRANCH": "NICHAR",
@@ -1105,7 +1088,7 @@
     "SWIFT": null
   },
   "HPSC0000256": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000256",
     "MICR": "172311053",
     "BRANCH": "PANGI",
@@ -1122,7 +1105,7 @@
     "SWIFT": null
   },
   "HPSC0000257": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000257",
     "MICR": "172311052",
     "BRANCH": "REKONG PEO",
@@ -1139,7 +1122,7 @@
     "SWIFT": null
   },
   "HPSC0000258": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000258",
     "MICR": "172311060",
     "BRANCH": "POOH",
@@ -1156,7 +1139,7 @@
     "SWIFT": null
   },
   "HPSC0000259": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000259",
     "MICR": "172311054",
     "BRANCH": "POWARI",
@@ -1173,7 +1156,7 @@
     "SWIFT": null
   },
   "HPSC0000260": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000260",
     "MICR": "172311058",
     "BRANCH": "SANGLA",
@@ -1190,7 +1173,7 @@
     "SWIFT": null
   },
   "HPSC0000261": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000261",
     "MICR": "172311010",
     "BRANCH": "TAPRI",
@@ -1207,7 +1190,7 @@
     "SWIFT": null
   },
   "HPSC0000262": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000262",
     "MICR": "172311055",
     "BRANCH": "AKPA",
@@ -1224,7 +1207,7 @@
     "SWIFT": null
   },
   "HPSC0000264": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000264",
     "MICR": "172311062",
     "BRANCH": "GIABONG",
@@ -1241,7 +1224,7 @@
     "SWIFT": null
   },
   "HPSC0000266": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000266",
     "MICR": "172311063",
     "BRANCH": "SPILLOW",
@@ -1258,7 +1241,7 @@
     "SWIFT": null
   },
   "HPSC0000267": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000267",
     "MICR": "172311064",
     "BRANCH": "LEO",
@@ -1275,7 +1258,7 @@
     "SWIFT": null
   },
   "HPSC0000301": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000301",
     "MICR": "174311006",
     "BRANCH": "BAGSIAD",
@@ -1292,7 +1275,7 @@
     "SWIFT": null
   },
   "HPSC0000302": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000302",
     "MICR": "175311128",
     "BRANCH": "BALDWARA",
@@ -1309,7 +1292,7 @@
     "SWIFT": null
   },
   "HPSC0000303": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000303",
     "MICR": "175311120",
     "BRANCH": "BALI CHOWKI",
@@ -1326,7 +1309,7 @@
     "SWIFT": null
   },
   "HPSC0000304": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000304",
     "MICR": "175311129",
     "BRANCH": "BAROT",
@@ -1343,7 +1326,7 @@
     "SWIFT": null
   },
   "HPSC0000305": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000305",
     "MICR": "175311108",
     "BRANCH": "CHAUNTRA",
@@ -1360,7 +1343,7 @@
     "SWIFT": null
   },
   "HPSC0000306": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000306",
     "MICR": "174311011",
     "BRANCH": "CHHATRI",
@@ -1377,7 +1360,7 @@
     "SWIFT": null
   },
   "HPSC0000307": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000307",
     "MICR": "175311114",
     "BRANCH": "CHURAG",
@@ -1394,7 +1377,7 @@
     "SWIFT": null
   },
   "HPSC0000308": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000308",
     "MICR": "174311009",
     "BRANCH": "DEHAR",
@@ -1411,7 +1394,7 @@
     "SWIFT": null
   },
   "HPSC0000309": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000309",
     "MICR": "175311125",
     "BRANCH": "DHARMARPUR",
@@ -1428,7 +1411,7 @@
     "SWIFT": null
   },
   "HPSC0000310": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000310",
     "MICR": "175311121",
     "BRANCH": "GOHAR",
@@ -1445,7 +1428,7 @@
     "SWIFT": null
   },
   "HPSC0000311": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000311",
     "MICR": "174311013",
     "BRANCH": "JANJEHLI",
@@ -1462,7 +1445,7 @@
     "SWIFT": null
   },
   "HPSC0000312": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000312",
     "MICR": "175311107",
     "BRANCH": "JOGINDER NAGAR",
@@ -1479,7 +1462,7 @@
     "SWIFT": null
   },
   "HPSC0000313": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000313",
     "MICR": "174311010",
     "BRANCH": "KARSOG",
@@ -1496,7 +1479,7 @@
     "SWIFT": null
   },
   "HPSC0000314": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000314",
     "MICR": "175311109",
     "BRANCH": "KOTLI",
@@ -1513,7 +1496,7 @@
     "SWIFT": null
   },
   "HPSC0000315": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000315",
     "MICR": "175311104",
     "BRANCH": "LADBADHOL",
@@ -1530,7 +1513,7 @@
     "SWIFT": null
   },
   "HPSC0000316": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000316",
     "MICR": "175311130",
     "BRANCH": "MAKARIRI",
@@ -1547,7 +1530,7 @@
     "SWIFT": null
   },
   "HPSC0000317": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000317",
     "MICR": "175311102",
     "BRANCH": "MANDI",
@@ -1564,7 +1547,7 @@
     "SWIFT": null
   },
   "HPSC0000318": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000318",
     "MICR": "175311124",
     "BRANCH": "NAGWAIN",
@@ -1581,7 +1564,7 @@
     "SWIFT": null
   },
   "HPSC0000319": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000319",
     "MICR": "175311119",
     "BRANCH": "NER CHOWK",
@@ -1598,7 +1581,7 @@
     "SWIFT": null
   },
   "HPSC0000320": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000320",
     "MICR": "175311123",
     "BRANCH": "PANDOH",
@@ -1615,7 +1598,7 @@
     "SWIFT": null
   },
   "HPSC0000321": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000321",
     "MICR": "175311106",
     "BRANCH": "REWALSAR",
@@ -1632,7 +1615,7 @@
     "SWIFT": null
   },
   "HPSC0000322": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000322",
     "MICR": "175311112",
     "BRANCH": "SANDHOLE",
@@ -1649,7 +1632,7 @@
     "SWIFT": null
   },
   "HPSC0000323": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000323",
     "MICR": "175311122",
     "BRANCH": "SARKAGHAT",
@@ -1666,7 +1649,7 @@
     "SWIFT": null
   },
   "HPSC0000324": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000324",
     "MICR": "174311012",
     "BRANCH": "SERI BANGLOW",
@@ -1683,7 +1666,7 @@
     "SWIFT": null
   },
   "HPSC0000325": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000325",
     "MICR": "174311002",
     "BRANCH": "SUNDER NAGAR",
@@ -1700,7 +1683,7 @@
     "SWIFT": null
   },
   "HPSC0000326": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000326",
     "MICR": "175311115",
     "BRANCH": "THUNAG",
@@ -1717,7 +1700,7 @@
     "SWIFT": null
   },
   "HPSC0000327": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000327",
     "MICR": "175311126",
     "BRANCH": "BHAMBLA",
@@ -1734,7 +1717,7 @@
     "SWIFT": null
   },
   "HPSC0000328": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000328",
     "MICR": "175311103",
     "BRANCH": "SAULIKHAD",
@@ -1751,7 +1734,7 @@
     "SWIFT": null
   },
   "HPSC0000329": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000329",
     "MICR": "174311003",
     "BRANCH": "CHATROKHARI",
@@ -1768,7 +1751,7 @@
     "SWIFT": null
   },
   "HPSC0000330": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000330",
     "MICR": "174311004",
     "BRANCH": "BSL SUNDERNAGAR",
@@ -1785,7 +1768,7 @@
     "SWIFT": null
   },
   "HPSC0000331": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000331",
     "MICR": "175311105",
     "BRANCH": "BHADARWAR",
@@ -1802,7 +1785,7 @@
     "SWIFT": null
   },
   "HPSC0000332": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000332",
     "MICR": "174311008",
     "BRANCH": "TIHRA",
@@ -1819,7 +1802,7 @@
     "SWIFT": null
   },
   "HPSC0000333": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000333",
     "MICR": "175311127",
     "BRANCH": "MARHI",
@@ -1836,7 +1819,7 @@
     "SWIFT": null
   },
   "HPSC0000334": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000334",
     "MICR": "175311131",
     "BRANCH": "LONGANI",
@@ -1853,7 +1836,7 @@
     "SWIFT": null
   },
   "HPSC0000335": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000335",
     "MICR": "175311117",
     "BRANCH": "CHAIL CHOWK",
@@ -1870,7 +1853,7 @@
     "SWIFT": null
   },
   "HPSC0000336": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000336",
     "MICR": "175311111",
     "BRANCH": "SAJAO PIPLU",
@@ -1887,7 +1870,7 @@
     "SWIFT": null
   },
   "HPSC0000338": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000338",
     "MICR": "174311007",
     "BRANCH": "SMAILA",
@@ -1904,7 +1887,7 @@
     "SWIFT": null
   },
   "HPSC0000339": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000339",
     "MICR": "175311135",
     "BRANCH": "NABAHI DEVI",
@@ -1921,7 +1904,7 @@
     "SWIFT": null
   },
   "HPSC0000340": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000340",
     "MICR": "175311116",
     "BRANCH": "BS JOGINDER NAGAR",
@@ -1938,7 +1921,7 @@
     "SWIFT": null
   },
   "HPSC0000341": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000341",
     "MICR": "175311110",
     "BRANCH": "KUNNU",
@@ -1955,7 +1938,7 @@
     "SWIFT": null
   },
   "HPSC0000342": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000342",
     "MICR": "174311005",
     "BRANCH": "DHANOTU",
@@ -1972,7 +1955,7 @@
     "SWIFT": null
   },
   "HPSC0000343": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000343",
     "MICR": "175311113",
     "BRANCH": "CHANDESH",
@@ -1989,7 +1972,7 @@
     "SWIFT": null
   },
   "HPSC0000345": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000345",
     "MICR": "175311118",
     "BRANCH": "AWAH DEVI",
@@ -2006,7 +1989,7 @@
     "SWIFT": null
   },
   "HPSC0000347": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000347",
     "MICR": "175311131",
     "BRANCH": "PADDAR",
@@ -2023,7 +2006,7 @@
     "SWIFT": null
   },
   "HPSC0000349": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000349",
     "MICR": "175311115",
     "BRANCH": "BAGA CHANOGI",
@@ -2040,7 +2023,7 @@
     "SWIFT": null
   },
   "HPSC0000351": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000351",
     "MICR": "175311132",
     "BRANCH": "RAJGARH   MND",
@@ -2057,7 +2040,7 @@
     "SWIFT": null
   },
   "HPSC0000352": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000352",
     "MICR": "175311133",
     "BRANCH": "TAKOLI",
@@ -2074,7 +2057,7 @@
     "SWIFT": null
   },
   "HPSC0000356": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000356",
     "MICR": "175311138",
     "BRANCH": "CHAKKAR",
@@ -2091,7 +2074,7 @@
     "SWIFT": null
   },
   "HPSC0000357": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000357",
     "MICR": "175311136",
     "BRANCH": "KHADDAR",
@@ -2108,7 +2091,7 @@
     "SWIFT": null
   },
   "HPSC0000358": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000358",
     "MICR": "175311137",
     "BRANCH": "RAKHOH",
@@ -2125,7 +2108,7 @@
     "SWIFT": null
   },
   "HPSC0000401": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000401",
     "MICR": "171311036",
     "BRANCH": "BHARANU",
@@ -2142,7 +2125,7 @@
     "SWIFT": null
   },
   "HPSC0000402": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000402",
     "MICR": "171311003",
     "BRANCH": "ISBT SHIMLA",
@@ -2159,7 +2142,7 @@
     "SWIFT": null
   },
   "HPSC0000403": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000403",
     "MICR": "171311034",
     "BRANCH": "CHAMAIN",
@@ -2176,7 +2159,7 @@
     "SWIFT": null
   },
   "HPSC0000404": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000404",
     "MICR": "171311019",
     "BRANCH": "CHIRGAON",
@@ -2193,7 +2176,7 @@
     "SWIFT": null
   },
   "HPSC0000405": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000405",
     "MICR": "171311020",
     "BRANCH": "CHOPAL",
@@ -2210,7 +2193,7 @@
     "SWIFT": null
   },
   "HPSC0000406": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000406",
     "MICR": "171311005",
     "BRANCH": "CHHOTA SHIMLA",
@@ -2227,7 +2210,7 @@
     "SWIFT": null
   },
   "HPSC0000407": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000407",
     "MICR": "171311015",
     "BRANCH": "DALAN",
@@ -2244,7 +2227,7 @@
     "SWIFT": null
   },
   "HPSC0000408": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000408",
     "MICR": "171311048",
     "BRANCH": "DEHA",
@@ -2261,7 +2244,7 @@
     "SWIFT": null
   },
   "HPSC0000409": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000409",
     "MICR": "171311009",
     "BRANCH": "DHALLI",
@@ -2278,7 +2261,7 @@
     "SWIFT": null
   },
   "HPSC0000410": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000410",
     "MICR": "172311007",
     "BRANCH": "DODRA",
@@ -2295,7 +2278,7 @@
     "SWIFT": null
   },
   "HPSC0000411": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000411",
     "MICR": "171311016",
     "BRANCH": "GHANAHATTI",
@@ -2312,7 +2295,7 @@
     "SWIFT": null
   },
   "HPSC0000412": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000412",
     "MICR": "171311035",
     "BRANCH": "JANGLA",
@@ -2329,7 +2312,7 @@
     "SWIFT": null
   },
   "HPSC0000413": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000413",
     "MICR": "172311008",
     "BRANCH": "JEORI",
@@ -2346,7 +2329,7 @@
     "SWIFT": null
   },
   "HPSC0000414": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000414",
     "MICR": "172311003",
     "BRANCH": "JHAKRI",
@@ -2363,7 +2346,7 @@
     "SWIFT": null
   },
   "HPSC0000415": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000415",
     "MICR": "171311038",
     "BRANCH": "JIKHNIPUL",
@@ -2380,7 +2363,7 @@
     "SWIFT": null
   },
   "HPSC0000416": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000416",
     "MICR": "171311028",
     "BRANCH": "JUBBAL",
@@ -2397,7 +2380,7 @@
     "SWIFT": null
   },
   "HPSC0000417": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000417",
     "MICR": "171311007",
     "BRANCH": "KASUMPATI",
@@ -2414,7 +2397,7 @@
     "SWIFT": null
   },
   "HPSC0000418": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000418",
     "MICR": "171311004",
     "BRANCH": "KHALINI",
@@ -2431,7 +2414,7 @@
     "SWIFT": null
   },
   "HPSC0000419": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000419",
     "MICR": "171311014",
     "BRANCH": "KHALTU NALA",
@@ -2448,7 +2431,7 @@
     "SWIFT": null
   },
   "HPSC0000420": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000420",
     "MICR": "171311021",
     "BRANCH": "KHANETI SANDOCH",
@@ -2465,7 +2448,7 @@
     "SWIFT": null
   },
   "HPSC0000421": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000421",
     "MICR": "171311037",
     "BRANCH": "KIARI",
@@ -2482,7 +2465,7 @@
     "SWIFT": null
   },
   "HPSC0000422": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000422",
     "MICR": "171311029",
     "BRANCH": "KOTKHAI",
@@ -2499,7 +2482,7 @@
     "SWIFT": null
   },
   "HPSC0000423": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000423",
     "MICR": "171311027",
     "BRANCH": "KUMARSAIN",
@@ -2516,7 +2499,7 @@
     "SWIFT": null
   },
   "HPSC0000424": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000424",
     "MICR": "171311041",
     "BRANCH": "MARAOG",
@@ -2533,7 +2516,7 @@
     "SWIFT": null
   },
   "HPSC0000425": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000425",
     "MICR": "172311009",
     "BRANCH": "NANKHARI",
@@ -2550,7 +2533,7 @@
     "SWIFT": null
   },
   "HPSC0000426": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000426",
     "MICR": "171311018",
     "BRANCH": "NARKANDA",
@@ -2567,7 +2550,7 @@
     "SWIFT": null
   },
   "HPSC0000427": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000427",
     "MICR": "171311046",
     "BRANCH": "NERWA",
@@ -2584,7 +2567,7 @@
     "SWIFT": null
   },
   "HPSC0000428": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000428",
     "MICR": "172311004",
     "BRANCH": "NOGLI",
@@ -2601,7 +2584,7 @@
     "SWIFT": null
   },
   "HPSC0000429": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000429",
     "MICR": "171311042",
     "BRANCH": "PRAGATI NAGAR",
@@ -2618,7 +2601,7 @@
     "SWIFT": null
   },
   "HPSC0000430": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000430",
     "MICR": "171311031",
     "BRANCH": "PREMNAGAR",
@@ -2635,7 +2618,7 @@
     "SWIFT": null
   },
   "HPSC0000431": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000431",
     "MICR": "172311002",
     "BRANCH": "RAMPUR BUSHAHAR",
@@ -2652,7 +2635,7 @@
     "SWIFT": null
   },
   "HPSC0000432": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000432",
     "MICR": "171311017",
     "BRANCH": "ROHRU",
@@ -2669,7 +2652,7 @@
     "SWIFT": null
   },
   "HPSC0000433": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000433",
     "MICR": "171311008",
     "BRANCH": "SANJAULI",
@@ -2686,7 +2669,7 @@
     "SWIFT": null
   },
   "HPSC0000434": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000434",
     "MICR": "172311005",
     "BRANCH": "SARAHAN-BSR",
@@ -2703,7 +2686,7 @@
     "SWIFT": null
   },
   "HPSC0000435": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000435",
     "MICR": "171311006",
     "BRANCH": "H P SECRETARIAT",
@@ -2720,7 +2703,7 @@
     "SWIFT": null
   },
   "HPSC0000437": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000437",
     "MICR": "171311047",
     "BRANCH": "SHARONTHA",
@@ -2737,7 +2720,7 @@
     "SWIFT": null
   },
   "HPSC0000438": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000438",
     "MICR": "171311002",
     "BRANCH": "THE MALL SHIMLA",
@@ -2754,7 +2737,7 @@
     "SWIFT": null
   },
   "HPSC0000439": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000439",
     "MICR": "171311022",
     "BRANCH": "THE MALL SHIMLA",
@@ -2771,7 +2754,7 @@
     "SWIFT": null
   },
   "HPSC0000440": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000440",
     "MICR": "171311013",
     "BRANCH": "THE MALL SHIMLA",
@@ -2788,7 +2771,7 @@
     "SWIFT": null
   },
   "HPSC0000441": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000441",
     "MICR": "171311033",
     "BRANCH": "SUNI",
@@ -2805,7 +2788,7 @@
     "SWIFT": null
   },
   "HPSC0000442": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000442",
     "MICR": "172311006",
     "BRANCH": "TAKLECH",
@@ -2822,7 +2805,7 @@
     "SWIFT": null
   },
   "HPSC0000443": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000443",
     "MICR": "171311030",
     "BRANCH": "THANEDHAR",
@@ -2839,7 +2822,7 @@
     "SWIFT": null
   },
   "HPSC0000444": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000444",
     "MICR": "171311026",
     "BRANCH": "THEOG",
@@ -2856,7 +2839,7 @@
     "SWIFT": null
   },
   "HPSC0000445": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000445",
     "MICR": "171311040",
     "BRANCH": "TIKKAR",
@@ -2873,7 +2856,7 @@
     "SWIFT": null
   },
   "HPSC0000446": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000446",
     "MICR": "171311010",
     "BRANCH": "TOTU",
@@ -2890,7 +2873,7 @@
     "SWIFT": null
   },
   "HPSC0000447": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000447",
     "MICR": "171311044",
     "BRANCH": "RATNARI",
@@ -2907,7 +2890,7 @@
     "SWIFT": null
   },
   "HPSC0000448": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000448",
     "MICR": "171311032",
     "BRANCH": "SARASWATI NAGAR",
@@ -2924,7 +2907,7 @@
     "SWIFT": null
   },
   "HPSC0000449": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000449",
     "MICR": "171311045",
     "BRANCH": "DEORI KHANETI",
@@ -2941,7 +2924,7 @@
     "SWIFT": null
   },
   "HPSC0000450": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000450",
     "MICR": "171311024",
     "BRANCH": "SHILAROO",
@@ -2958,7 +2941,7 @@
     "SWIFT": null
   },
   "HPSC0000451": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000451",
     "MICR": "171311043",
     "BRANCH": "KOTI",
@@ -2975,7 +2958,7 @@
     "SWIFT": null
   },
   "HPSC0000453": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000453",
     "MICR": "171311023",
     "BRANCH": "DEOLI",
@@ -2992,7 +2975,7 @@
     "SWIFT": null
   },
   "HPSC0000454": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000454",
     "MICR": "171311054",
     "BRANCH": "MANDAL",
@@ -3009,7 +2992,7 @@
     "SWIFT": null
   },
   "HPSC0000455": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000455",
     "MICR": "171311039",
     "BRANCH": "KHOLI GHAT",
@@ -3026,7 +3009,7 @@
     "SWIFT": null
   },
   "HPSC0000456": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000456",
     "MICR": "171311012",
     "BRANCH": "KHARAHAN",
@@ -3043,7 +3026,7 @@
     "SWIFT": null
   },
   "HPSC0000457": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000457",
     "MICR": "171311011",
     "BRANCH": "BATAR GALU",
@@ -3060,7 +3043,7 @@
     "SWIFT": null
   },
   "HPSC0000458": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000458",
     "MICR": "171311025",
     "BRANCH": "BACHHUNCH   CHAPOTI",
@@ -3077,7 +3060,7 @@
     "SWIFT": null
   },
   "HPSC0000459": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000459",
     "MICR": "171311049",
     "BRANCH": "KHARAPATHAR",
@@ -3094,7 +3077,7 @@
     "SWIFT": null
   },
   "HPSC0000460": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000460",
     "MICR": "171311050",
     "BRANCH": "FAGU",
@@ -3111,7 +3094,7 @@
     "SWIFT": null
   },
   "HPSC0000461": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000461",
     "MICR": "171311057",
     "BRANCH": "SUMMER HILL",
@@ -3128,7 +3111,7 @@
     "SWIFT": null
   },
   "HPSC0000462": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000462",
     "MICR": "171311053",
     "BRANCH": "KUPVI",
@@ -3145,7 +3128,7 @@
     "SWIFT": null
   },
   "HPSC0000466": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000466",
     "MICR": "171311055",
     "BRANCH": "JALOG",
@@ -3162,7 +3145,7 @@
     "SWIFT": null
   },
   "HPSC0000467": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000467",
     "MICR": "171311056",
     "BRANCH": "JATHIA DEVI",
@@ -3179,7 +3162,7 @@
     "SWIFT": null
   },
   "HPSC0000468": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000468",
     "MICR": "171311058",
     "BRANCH": "THACHI",
@@ -3196,7 +3179,7 @@
     "SWIFT": null
   },
   "HPSC0000469": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000469",
     "MICR": "171311060",
     "BRANCH": "MASHOBRA",
@@ -3213,7 +3196,7 @@
     "SWIFT": null
   },
   "HPSC0000470": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000470",
     "MICR": "171311059",
     "BRANCH": "JUNGA",
@@ -3230,7 +3213,7 @@
     "SWIFT": null
   },
   "HPSC0000471": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000471",
     "MICR": "172311013",
     "BRANCH": "NARAIN",
@@ -3247,7 +3230,7 @@
     "SWIFT": null
   },
   "HPSC0000472": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000472",
     "MICR": "172311012",
     "BRANCH": "RAMPUR BUS STAND",
@@ -3264,7 +3247,7 @@
     "SWIFT": null
   },
   "HPSC0000551": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000551",
     "MICR": "173311103",
     "BRANCH": "BADRINAGAR",
@@ -3281,7 +3264,7 @@
     "SWIFT": null
   },
   "HPSC0000552": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000552",
     "MICR": "173311107",
     "BRANCH": "DHAULA KUAN",
@@ -3298,7 +3281,7 @@
     "SWIFT": null
   },
   "HPSC0000553": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000553",
     "MICR": "173311059",
     "BRANCH": "DADAHU",
@@ -3315,7 +3298,7 @@
     "SWIFT": null
   },
   "HPSC0000555": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000555",
     "MICR": "173311003",
     "BRANCH": "HABBAN",
@@ -3332,7 +3315,7 @@
     "SWIFT": null
   },
   "HPSC0000556": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000556",
     "MICR": "173311062",
     "BRANCH": "KALA AMB",
@@ -3349,7 +3332,7 @@
     "SWIFT": null
   },
   "HPSC0000557": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000557",
     "MICR": "173311053",
     "BRANCH": "KATCHA TANK",
@@ -3366,7 +3349,7 @@
     "SWIFT": null
   },
   "HPSC0000558": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000558",
     "MICR": "173311109",
     "BRANCH": "MAJRA",
@@ -3383,7 +3366,7 @@
     "SWIFT": null
   },
   "HPSC0000559": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000559",
     "MICR": "173311052",
     "BRANCH": "NAHAN",
@@ -3400,7 +3383,7 @@
     "SWIFT": null
   },
   "HPSC0000560": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000560",
     "MICR": "173311055",
     "BRANCH": "NARAG",
@@ -3417,7 +3400,7 @@
     "SWIFT": null
   },
   "HPSC0000561": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000561",
     "MICR": "173311002",
     "BRANCH": "NOHRADHAR",
@@ -3434,7 +3417,7 @@
     "SWIFT": null
   },
   "HPSC0000562": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000562",
     "MICR": "173311102",
     "BRANCH": "PAONTA SAHIB",
@@ -3451,7 +3434,7 @@
     "SWIFT": null
   },
   "HPSC0000563": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000563",
     "MICR": "173311057",
     "BRANCH": "RAJGARH",
@@ -3468,7 +3451,7 @@
     "SWIFT": null
   },
   "HPSC0000564": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000564",
     "MICR": "173311106",
     "BRANCH": "S - PURUWALA",
@@ -3485,7 +3468,7 @@
     "SWIFT": null
   },
   "HPSC0000565": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000565",
     "MICR": "173311056",
     "BRANCH": "SANGRAH",
@@ -3502,7 +3485,7 @@
     "SWIFT": null
   },
   "HPSC0000566": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000566",
     "MICR": "173311061",
     "BRANCH": "SARAHAN-SIRMOUR",
@@ -3519,7 +3502,7 @@
     "SWIFT": null
   },
   "HPSC0000567": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000567",
     "MICR": "173311108",
     "BRANCH": "SATAUN",
@@ -3536,7 +3519,7 @@
     "SWIFT": null
   },
   "HPSC0000568": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000568",
     "MICR": "173311105",
     "BRANCH": "SHILLAI",
@@ -3553,7 +3536,7 @@
     "SWIFT": null
   },
   "HPSC0000569": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000569",
     "MICR": "173311060",
     "BRANCH": "TRILOKPUR",
@@ -3570,7 +3553,7 @@
     "SWIFT": null
   },
   "HPSC0000570": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000570",
     "MICR": "173311104",
     "BRANCH": "KAMRAU",
@@ -3587,7 +3570,7 @@
     "SWIFT": null
   },
   "HPSC0000571": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000571",
     "MICR": "173311058",
     "BRANCH": "LANA CHETA",
@@ -3604,7 +3587,7 @@
     "SWIFT": null
   },
   "HPSC0000572": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000572",
     "MICR": "173311054",
     "BRANCH": "DC OFFICE NAHAN",
@@ -3621,7 +3604,7 @@
     "SWIFT": null
   },
   "HPSC0000573": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000573",
     "MICR": "173311004",
     "BRANCH": "YASHWANT NAGAR",
@@ -3638,7 +3621,7 @@
     "SWIFT": null
   },
   "HPSC0000575": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000575",
     "MICR": "173311064",
     "BRANCH": "KHERI",
@@ -3655,7 +3638,7 @@
     "SWIFT": null
   },
   "HPSC0000576": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000576",
     "MICR": "173311063",
     "BRANCH": "JAMTA",
@@ -3672,7 +3655,7 @@
     "SWIFT": null
   },
   "HPSC0000577": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000577",
     "MICR": "173311111",
     "BRANCH": "NAINIDHAR",
@@ -3689,7 +3672,7 @@
     "SWIFT": null
   },
   "HPSC0000578": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000578",
     "MICR": "173311110",
     "BRANCH": "RONHAT",
@@ -3706,7 +3689,7 @@
     "SWIFT": null
   },
   "HPSC0000579": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000579",
     "MICR": "173311065",
     "BRANCH": "GATADHAR",
@@ -3723,7 +3706,7 @@
     "SWIFT": null
   },
   "HPSC0000580": {
-    "BANK": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "BANK": "Himachal Pradesh State Co-operative Bank",
     "IFSC": "HPSC0000580",
     "MICR": "173311112",
     "BRANCH": "KAFOTA",

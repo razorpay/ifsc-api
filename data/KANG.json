@@ -17,7 +17,7 @@
     "SWIFT": null
   },
   "KANG0000002": {
-    "BANK": "THE KANGRA COOPERATIVE BANK LIMITED",
+    "BANK": "Kangra Co-operative Bank",
     "IFSC": "KANG0000002",
     "MICR": "110304002",
     "BRANCH": "JAGATPURI",
@@ -34,7 +34,7 @@
     "SWIFT": null
   },
   "KANG0000003": {
-    "BANK": "THE KANGRA COOPERATIVE BANK LIMITED",
+    "BANK": "Kangra Co-operative Bank",
     "IFSC": "KANG0000003",
     "MICR": "110304003",
     "BRANCH": "JANAKPURI",
@@ -51,7 +51,7 @@
     "SWIFT": null
   },
   "KANG0000004": {
-    "BANK": "THE KANGRA COOPERATIVE BANK LIMITED",
+    "BANK": "Kangra Co-operative Bank",
     "IFSC": "KANG0000004",
     "MICR": "110304004",
     "BRANCH": "ROHINI",
@@ -68,7 +68,7 @@
     "SWIFT": null
   },
   "KANG0000005": {
-    "BANK": "THE KANGRA COOPERATIVE BANK LIMITED",
+    "BANK": "Kangra Co-operative Bank",
     "IFSC": "KANG0000005",
     "MICR": "110304005",
     "BRANCH": "GOVINDPURI",
@@ -85,7 +85,7 @@
     "SWIFT": null
   },
   "KANG0000006": {
-    "BANK": "THE KANGRA COOPERATIVE BANK LIMITED",
+    "BANK": "Kangra Co-operative Bank",
     "IFSC": "KANG0000006",
     "MICR": "110304006",
     "BRANCH": "MAYUR VIHAR",
@@ -102,7 +102,7 @@
     "SWIFT": null
   },
   "KANG0000007": {
-    "BANK": "THE KANGRA COOPERATIVE BANK LIMITED",
+    "BANK": "Kangra Co-operative Bank",
     "IFSC": "KANG0000007",
     "MICR": "110304007",
     "BRANCH": "SANT NAGAR, BURARI",
@@ -119,7 +119,7 @@
     "SWIFT": null
   },
   "KANG0000008": {
-    "BANK": "THE KANGRA COOPERATIVE BANK LIMITED",
+    "BANK": "Kangra Co-operative Bank",
     "IFSC": "KANG0000008",
     "MICR": "110304008",
     "BRANCH": "PUL PEHLADPUR",
@@ -136,7 +136,7 @@
     "SWIFT": null
   },
   "KANG0000009": {
-    "BANK": "THE KANGRA COOPERATIVE BANK LIMITED",
+    "BANK": "Kangra Co-operative Bank",
     "IFSC": "KANG0000009",
     "MICR": "110304009",
     "BRANCH": "BHAJANPURA",
@@ -153,7 +153,7 @@
     "SWIFT": null
   },
   "KANG0000010": {
-    "BANK": "THE KANGRA COOPERATIVE BANK LIMITED",
+    "BANK": "Kangra Co-operative Bank",
     "IFSC": "KANG0000010",
     "MICR": "110304010",
     "BRANCH": "UTTAM NAGAR BRANCH",
@@ -170,7 +170,7 @@
     "SWIFT": null
   },
   "KANG0000011": {
-    "BANK": "THE KANGRA COOPERATIVE BANK LIMITED",
+    "BANK": "Kangra Co-operative Bank",
     "IFSC": "KANG0000011",
     "MICR": "110304011",
     "BRANCH": "RANJIT NAGAR BRANCH",
@@ -187,7 +187,7 @@
     "SWIFT": null
   },
   "KANG0000012": {
-    "BANK": "THE KANGRA COOPERATIVE BANK LIMITED",
+    "BANK": "Kangra Co-operative Bank",
     "IFSC": "KANG0000012",
     "MICR": "110304012",
     "BRANCH": "NANGLOI BRANCH",
@@ -200,23 +200,6 @@
     "CENTRE": "DELHI",
     "DISTRICT": "DELHI",
     "NEFT": true,
-    "IMPS": true,
-    "SWIFT": null
-  },
-  "KANG00000SC": {
-    "BANK": null,
-    "IFSC": "KANG00000SC",
-    "MICR": "NA",
-    "BRANCH": "SERVICE CENTER",
-    "ADDRESS": "1916,CHUNA MANDI PAHARGANJ,NEW DELHI 110055",
-    "STATE": "DELHI",
-    "CONTACT": null,
-    "UPI": false,
-    "RTGS": true,
-    "CITY": "NEW DELHI",
-    "CENTRE": "NEW DELHI",
-    "DISTRICT": "NEW DELHI",
-    "NEFT": false,
     "IMPS": true,
     "SWIFT": null
   }

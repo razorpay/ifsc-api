@@ -11,32 +11,15 @@
     "IMPS": true,
     "CITY": "NAVI MUMBAI",
     "UPI": true,
-    "MICR": "NA",
+    "MICR": null,
     "RTGS": true,
     "NEFT": true,
     "SWIFT": null
   },
-  "FINO00000SC": {
-    "BANK": null,
-    "IFSC": "FINO00000SC",
-    "MICR": "NA",
-    "BRANCH": "JUINAGAR",
-    "ADDRESS": "SHREE SAWAN KNOWLEDGE PARK, PLOT NO D 507, SECOND FLOOR, MIDC TURBHE, NAVI MUMBAI 400705",
-    "STATE": "MAHARASHTRA",
-    "CONTACT": "+912271047054",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "NAVI MUMBAI",
-    "CENTRE": "NAVI MUMBAI",
-    "DISTRICT": "NAVI MUMBAI",
-    "NEFT": false,
-    "IMPS": true,
-    "SWIFT": null
-  },
   "FINO0001001": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001001",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "SATIVALI",
     "ADDRESS": "SHOP N.15& 25,GROUND FLOOR,ISTIYAK COMPLEX,S.NO.54,H.NO.D,VILLAGE SATIVALI,VASAI EAST,THANE-400 208",
     "STATE": "MAHARASHTRA",
@@ -51,7 +34,7 @@
     "SWIFT": null
   },
   "FINO0001005": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001005",
     "MICR": "500771006",
     "BRANCH": "SURARAM",
@@ -68,9 +51,9 @@
     "SWIFT": null
   },
   "FINO0001012": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001012",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "LABHGAON",
     "ADDRESS": "MILL ROAD,KHAGARIA,DIST -KHAGARIA,BIHAR -841204",
     "STATE": "BIHAR",
@@ -85,9 +68,9 @@
     "SWIFT": null
   },
   "FINO0001023": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001023",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "DIGHWARA",
     "ADDRESS": "MAIN ROAD DIGHWARA BUS STAND,FRONT OF BOI,DIGHARA,DIST -SARAN,BIHAR -841207",
     "STATE": "BIHAR",
@@ -102,7 +85,7 @@
     "SWIFT": null
   },
   "FINO0001025": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001025",
     "MICR": "500771003",
     "BRANCH": "CHINTAL",
@@ -119,7 +102,7 @@
     "SWIFT": null
   },
   "FINO0001029": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001029",
     "MICR": "500771004",
     "BRANCH": "SANATHNAGAR",
@@ -136,7 +119,7 @@
     "SWIFT": null
   },
   "FINO0001043": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001043",
     "MICR": "302771002",
     "BRANCH": "SANGANEER",
@@ -153,9 +136,9 @@
     "SWIFT": null
   },
   "FINO0001044": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001044",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "BHANGEL",
     "ADDRESS": "H.NO.136,SHOP NO.2,ABOVE PUNJABI DHABHA,CBA COMPLEX,NEAR SALARPUR GATE NO.1,DADRI ROAD,BHANGEL-NOIDA,NOIDA-201301",
     "STATE": "UTTAR PRADESH",
@@ -170,9 +153,9 @@
     "SWIFT": null
   },
   "FINO0001046": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001046",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "KALYAN PHATA",
     "ADDRESS": "SHOP NO.03,GROUND FLOOR,DASHRATH APARTMENT,OPP.DATTA MANDIR,KALYAN PHATA,DIAGHAR ROAD,POST.PADLE,TQ. & DIST.THANE-421204",
     "STATE": "MAHARASHTRA",
@@ -187,9 +170,9 @@
     "SWIFT": null
   },
   "FINO0001047": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001047",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "MIDC CHINCHWAD",
     "ADDRESS": "S.NO.100,RC 1,SHOP NO.2,NEAR SBI BANK,AKURDI,PUNE-411035",
     "STATE": "MAHARASHTRA",
@@ -204,9 +187,9 @@
     "SWIFT": null
   },
   "FINO0001048": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001048",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "PAROO",
     "ADDRESS": "THANA ROAD,AT PO&PS PAROO,DIST -MUZAFFARPUR,BIHAR -843112",
     "STATE": "BIHAR",
@@ -221,9 +204,9 @@
     "SWIFT": null
   },
   "FINO0001052": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001052",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "MUDHALTITTA",
     "ADDRESS": "BORAVADE,MAIN CIRCLE,BEHIND HOTEL,JANATA MUDHALTITTA,MUDHALTITTA,PANCHGAON BORAVADE BO",
     "STATE": "MAHARASHTRA",
@@ -238,7 +221,7 @@
     "SWIFT": null
   },
   "FINO0001060": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001060",
     "MICR": "301771002",
     "BRANCH": "BHIWADI",
@@ -255,9 +238,9 @@
     "SWIFT": null
   },
   "FINO0001061": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001061",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "BEGUSARAI",
     "ADDRESS": "UBI BUILDING GROUND FLOOR KALI CHAK BEGUSARAI 851101",
     "STATE": "BIHAR",
@@ -272,9 +255,9 @@
     "SWIFT": null
   },
   "FINO0001067": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001067",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "BAMBAVADE",
     "ADDRESS": "AT POST BAMBAWADE DIST KOLHAPUR,NEAR BUS STAND AND POLICE STATION,MAHARASHTRA 416213",
     "STATE": "MAHARASHTRA",
@@ -289,9 +272,9 @@
     "SWIFT": null
   },
   "FINO0001076": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001076",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "DABUA COLONY",
     "ADDRESS": "H.NO.2217/14,WARD NO-5,DOCTOR KAUSHIK GALI,JAWAHAR COLONY,N.I.T,FARIDABAD,SECTOR 22,HARYANA-121005",
     "STATE": "HARYANA",
@@ -306,9 +289,9 @@
     "SWIFT": null
   },
   "FINO0001089": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001089",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "JASOLA VILLAGE",
     "ADDRESS": "H NO 70, G , F, JASOLA VILLAGE, NEAR JAMIA COPERATIVE, NEW DELHI  110025",
     "STATE": "DELHI",
@@ -323,9 +306,9 @@
     "SWIFT": null
   },
   "FINO0001108": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001108",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "KALA AMB",
     "ADDRESS": "TIRLOKPUR ROAD,KALA AMB,AMBALA,HARYANA -133001",
     "STATE": "HARYANA",
@@ -340,9 +323,9 @@
     "SWIFT": null
   },
   "FINO0001111": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001111",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "ASHOK NAGAR",
     "ADDRESS": "PLOT NO-12,S.NO.495,RAJA KARMACHARI,ASHOK NAGAR,SATPUR,NASHIK -422007",
     "STATE": "MAHARASHTRA",
@@ -357,7 +340,7 @@
     "SWIFT": null
   },
   "FINO0001112": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001112",
     "MICR": "500771002",
     "BRANCH": "AUTO NAGAR",
@@ -374,9 +357,9 @@
     "SWIFT": null
   },
   "FINO0001113": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001113",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "BADDI",
     "ADDRESS": "WARD 3,SERAJ MANJRE,TEH BADDI DISTT.SOLAN,HP -173205",
     "STATE": "HIMACHAL PRADESH",
@@ -391,7 +374,7 @@
     "SWIFT": null
   },
   "FINO0001116": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001116",
     "MICR": "560771002",
     "BRANCH": "BOMANNAHALLI",
@@ -408,7 +391,7 @@
     "SWIFT": null
   },
   "FINO0001118": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001118",
     "MICR": "395771002",
     "BRANCH": "CHAR RASTA",
@@ -425,9 +408,9 @@
     "SWIFT": null
   },
   "FINO0001129": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001129",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "GANDHI NAGAR",
     "ADDRESS": "X/25006 RAGHUVARPURA NO 2,GHANDHI NAGAR - 110031",
     "STATE": "DELHI",
@@ -442,9 +425,9 @@
     "SWIFT": null
   },
   "FINO0001146": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001146",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "KHARABWADI",
     "ADDRESS": "GATE NO.2912,TAL-KHED,DIST-PUNE,KHARABWADI -410505",
     "STATE": "MAHARASHTRA",
@@ -459,9 +442,9 @@
     "SWIFT": null
   },
   "FINO0001147": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001147",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "KHORA COLONY",
     "ADDRESS": "A-10/1,GROUND FLOOR,DEEPAK VIHAR,KHORA ROAD,NOIDA,UP -201008",
     "STATE": "UTTAR PRADESH",
@@ -476,9 +459,9 @@
     "SWIFT": null
   },
   "FINO0001157": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001157",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "MANKHURD",
     "ADDRESS": "CEN 676,PLOT B 5,LANE - 5,MATANG,RUSHI NAGAR,G M LINK ROAD,MANKHURD-400073",
     "STATE": "MAHARASHTRA",
@@ -493,9 +476,9 @@
     "SWIFT": null
   },
   "FINO0001185": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001185",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "SODAL ROAD",
     "ADDRESS": "VAKIA RABADI,MAHAKALI NAGAR,SAIPUR,SODAL ROAD,JALAHANDAR-144004",
     "STATE": "PUNJAB",
@@ -510,7 +493,7 @@
     "SWIFT": null
   },
   "FINO0001192": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001192",
     "MICR": "500771005",
     "BRANCH": "VIVEKANANDA NAGAR",
@@ -527,9 +510,9 @@
     "SWIFT": null
   },
   "FINO0001193": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001193",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "WADKHAL",
     "ADDRESS": "SHRIKRISHNA BLD,OPP.BANK OF BARODA,WADKHAL,TAL - PEN,RAIGAD -402107",
     "STATE": "MAHARASHTRA",
@@ -544,9 +527,9 @@
     "SWIFT": null
   },
   "FINO0001198": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001198",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "YAMUNANAGAR",
     "ADDRESS": "KHAJURI ROAD,NEAR YAMUNA BHARAMANKANT,YAMUNAGAGAR,HARYANA -135001",
     "STATE": "HARYANA",
@@ -561,9 +544,9 @@
     "SWIFT": null
   },
   "FINO0001200": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001200",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "HAJIPUR",
     "ADDRESS": "STATION ROAD,DIGHI KALA,HAJIPUR,VAISHALI,BIHAR -844101",
     "STATE": "BIHAR",
@@ -578,9 +561,9 @@
     "SWIFT": null
   },
   "FINO0001207": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001207",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "GOPALGANJ",
     "ADDRESS": "UBI BUILDING,HOSPITAL CHOWK,IN FRONT OF SADAR HOSPITAL,STATION ROAD,GAPALGANJ BIHAR -841428",
     "STATE": "BIHAR",
@@ -595,9 +578,9 @@
     "SWIFT": null
   },
   "FINO0001220": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001220",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "BARH",
     "ADDRESS": "BAJITPUR STATION ROAD,  BARH BIHAR 803214",
     "STATE": "BIHAR",
@@ -612,9 +595,9 @@
     "SWIFT": null
   },
   "FINO0001226": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001226",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "GANJBAZAR",
     "ADDRESS": "GANJBAZAR,MUSTFAGANJ,MINAPUR,DIST -MUZAFFARPUR,BIHAR -843128",
     "STATE": "BIHAR",
@@ -629,9 +612,9 @@
     "SWIFT": null
   },
   "FINO0001269": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001269",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "KADAMWADI",
     "ADDRESS": "1284 MAJULA BUILDING,MAIN ROAD KASBA BAWDA,KADAMWADI KOLHAPUR 416006",
     "STATE": "MAHARASHTRA",
@@ -646,9 +629,9 @@
     "SWIFT": null
   },
   "FINO0001284": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001284",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "OSMANABAD",
     "ADDRESS": "KRANTIVIR COMPLEX,KALA MARUTI MANDIR ROAD,BEHIND TAJMAHAL TALKIES,OSMANABAD 413501",
     "STATE": "MAHARASHTRA",
@@ -663,9 +646,9 @@
     "SWIFT": null
   },
   "FINO0001289": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001289",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "BAHERI",
     "ADDRESS": "NEAR KALI MANDIR,MAIN CHOWK,BAHERI,DIST -MUZAFFARPUR,BIHAR -847105",
     "STATE": "BIHAR",
@@ -680,9 +663,9 @@
     "SWIFT": null
   },
   "FINO0001299": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001299",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "BUXAR",
     "ADDRESS": "BADI MASZID,SATYADEV GANJ,MAIN ROAD BUXAR,BIHAR PIN -802101",
     "STATE": "BIHAR",
@@ -697,9 +680,9 @@
     "SWIFT": null
   },
   "FINO0001306": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001306",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "CHHAPARA",
     "ADDRESS": "SARKARI BAZAR,TULSI GALI,CHHAPRA -841301",
     "STATE": "BIHAR",
@@ -714,9 +697,9 @@
     "SWIFT": null
   },
   "FINO0001308": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001308",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "DALSINGHSARAI",
     "ADDRESS": "KUER COMPLEX,GHAT NAWADA,DALSINGHSARAI,DIST -SAMASTIPUR,BIHAR -848114",
     "STATE": "BIHAR",
@@ -731,9 +714,9 @@
     "SWIFT": null
   },
   "FINO0001325": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001325",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "MUZAFFARPUR",
     "ADDRESS": "MAHESH BABU CHOWK,JHURAN CHHAPRA,MUZAFFARPUR,BIHAR -842003",
     "STATE": "BIHAR",
@@ -748,9 +731,9 @@
     "SWIFT": null
   },
   "FINO0001326": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001326",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "ARAH",
     "ADDRESS": "KARI MOHALLA MARE,NEAR MAHABIR MANDIR ARA BHOJPUR BIHAR -802301",
     "STATE": "BIHAR",
@@ -765,9 +748,9 @@
     "SWIFT": null
   },
   "FINO0001339": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001339",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "SAMASTIPUR",
     "ADDRESS": "WARD NO 21,BAHADURPUR,NEAR ANUP TAKIES,SAMASTIPUR-851211",
     "STATE": "BIHAR",
@@ -782,9 +765,9 @@
     "SWIFT": null
   },
   "FINO0001346": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001346",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "MAHUA",
     "ADDRESS": "MOBARAK RASULPUR,MOBARAKPUR MANIKPUR,MAHUA,VAISHALI-844122",
     "STATE": "BIHAR",
@@ -799,9 +782,9 @@
     "SWIFT": null
   },
   "FINO0001347": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001347",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "SIWAN",
     "ADDRESS": "NEAR STATE BANK OF INDIA ATM,BABUNIYA ROAD,SIWAN,BIHAR-841226",
     "STATE": "BIHAR",
@@ -816,9 +799,9 @@
     "SWIFT": null
   },
   "FINO0001349": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001349",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "MOTIPUR",
     "ADDRESS": "MAHNA ROAD,NEAR GANDHI CHOWK,MOTIPUR,DIST-MUZAFFARPUR,BIHAR-843111",
     "STATE": "BIHAR",
@@ -833,9 +816,9 @@
     "SWIFT": null
   },
   "FINO0001351": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001351",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "KALE",
     "ADDRESS": "DESAI GALLI,MAIN ROAD,KALE MAHARASHTRA",
     "STATE": "MAHARASHTRA",
@@ -850,7 +833,7 @@
     "SWIFT": null
   },
   "FINO0001359": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001359",
     "MICR": "413882604",
     "BRANCH": "LOHARA",
@@ -867,7 +850,7 @@
     "SWIFT": null
   },
   "FINO0001414": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001414",
     "MICR": "396771031",
     "BRANCH": "STATION RD VAPI",
@@ -884,9 +867,9 @@
     "SWIFT": null
   },
   "FINO0001422": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001422",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "DARBHANGA",
     "ADDRESS": "TERHI BAZAR,OPP.POWER HOUSE,NEAR NATIONAL CINEMA,DARBHANGA-846004",
     "STATE": "BIHAR",
@@ -901,9 +884,9 @@
     "SWIFT": null
   },
   "FINO0001445": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001445",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "Patna City",
     "ADDRESS": "Opp Electric office, padari ki haweli, Patna City-800001",
     "STATE": "BIHAR",
@@ -918,9 +901,9 @@
     "SWIFT": null
   },
   "FINO0001448": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001448",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "Danpur",
     "ADDRESS": "Pethiya Bazar, Near Durga Asthan, Phulwari Sharif, Danapur, Dist - Patna, Bihar - 801505",
     "STATE": "BIHAR",
@@ -935,9 +918,9 @@
     "SWIFT": null
   },
   "FINO0001550": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001550",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "DUNETHA B O",
     "ADDRESS": "ASHAPURA MOBILE AND GENERAL STORE SHOP NO 3 OPPO PATELBAR O I D C, DABHEL DAMAN CHHAILSINGH DEORA 362520",
     "STATE": "DAMAN AND DIU",
@@ -952,9 +935,9 @@
     "SWIFT": null
   },
   "FINO0001551": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001551",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "VEHLA GOA S O",
     "ADDRESS": "B 003, CASA AMORA, PHASE 1, KADAMBA PLATUE, BAINGINIUM, OLD GOA, TISWADI, GOA 403402",
     "STATE": "GOA",
@@ -969,9 +952,9 @@
     "SWIFT": null
   },
   "FINO0001552": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001552",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "TRILANGA S O",
     "ADDRESS": "FINO PAYMENTS BANK LTD SECOND FLOOR, PLOT NO 143, MAHAKALI SOCIETY, TRILANGA, BHOPAL DISTT BHOPAL M P 462039",
     "STATE": "MADHYA PRADESH",
@@ -986,9 +969,9 @@
     "SWIFT": null
   },
   "FINO0001553": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001553",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "BYRON BAZAR S O",
     "ADDRESS": "OFFICE NO 317 AND 318, 3RD FLOOR, ORBIT MALL, SUNDER NAGAR CHOWK, MAHADEV GHAT ROAD, RAIPUR C G 492001",
     "STATE": "CHHATTISGARH",
@@ -1003,9 +986,9 @@
     "SWIFT": null
   },
   "FINO0001555": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001555",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "COCHIN OFFICE",
     "ADDRESS": "LRA 1, 1ST FLOOR, SUBHASH CHANDRA BOSE RD, PONNURUNNI, VYTTILA, ERNAKULAM, KERALA 682019",
     "STATE": "KERALA",
@@ -1020,9 +1003,9 @@
     "SWIFT": null
   },
   "FINO0001556": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001556",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "MADURAI OFFICE",
     "ADDRESS": "NO 337 PSM NAGAR, MELAKKAL MAIN ROAD, KOCHADAI",
     "STATE": "TAMIL NADU",
@@ -1037,9 +1020,9 @@
     "SWIFT": null
   },
   "FINO0001557": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001557",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "SELAQUI S O",
     "ADDRESS": "E 17, FRIENDS ENCLAVE, VIDHAN SABHA, RISHIKESH ROAD BEHIND DEFENSE COLONY NEAR RAILWAY CROSSING DEHRADUN 248012, UTTARAKHAND",
     "STATE": "UTTARAKHAND",
@@ -1054,9 +1037,9 @@
     "SWIFT": null
   },
   "FINO0001558": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0001558",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "BHUBANESWAR",
     "ADDRESS": "FINO PAYMENTS BANK SAI SARASWATI COMPLEX, PLOT NO 81, 3RD FLOOR, DISTRICT CENTRE, CHANDRASHEKHARPUR, BHUBANESWAR 751016",
     "STATE": "ODISHA",
@@ -1071,9 +1054,9 @@
     "SWIFT": null
   },
   "FINO0009001": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0009001",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "HEAD OFFICE",
     "ADDRESS": "Mindspace Juinagar, Plot no. Gen 2/1/F, Tower 1, 8th Floor, TTC Industrial Area, MIDC Shirwane, Juinagar, Navi Mumbai- 400 706",
     "STATE": "MAHARASHTRA",
@@ -1088,9 +1071,9 @@
     "SWIFT": null
   },
   "FINO0009002": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0009002",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "Jharkhand_CPC",
     "ADDRESS": "2nd Floor, COMMERCE HOUSE, LINE TANK ROAD, RANCHI 834001",
     "STATE": "Jharkhand",
@@ -1105,9 +1088,9 @@
     "SWIFT": null
   },
   "FINO0009003": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0009003",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "HEAD OFFICE",
     "ADDRESS": "Mindspace Juinagar, Plot no. Gen 2/1/F, Tower 1, 8th Floor, TTC Industrial Area, MIDC Shirwane, Juinagar, Navi Mumbai- 400 706",
     "STATE": "MAHARASHTRA",
@@ -1122,9 +1105,9 @@
     "SWIFT": null
   },
   "FINO0009009": {
-    "BANK": "FINO PAYMENTS BANK",
+    "BANK": "Fino Payments Bank",
     "IFSC": "FINO0009009",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "NALLASOPARA PRAGATI NAGAR",
     "ADDRESS": "SHOP NO 4 SAI PALACE NEXT TO OSWAL NAGAI TULINJ NALASOPARA E 401209",
     "STATE": "MAHARASHTRA",

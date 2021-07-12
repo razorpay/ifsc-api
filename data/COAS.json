@@ -1,6 +1,6 @@
 {
   "COAS0000001": {
-    "BANK": "COASTAL LOCAL AREA BANK LTD",
+    "BANK": "Coastal Local Area Bank",
     "IFSC": "COAS0000001",
     "MICR": "520652002",
     "BRANCH": "RTGS-HO",
@@ -17,9 +17,9 @@
     "SWIFT": null
   },
   "COAS0000002": {
-    "BANK": "COASTAL LOCAL AREA BANK LTD",
+    "BANK": "Coastal Local Area Bank",
     "IFSC": "COAS0000002",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "VIJAYAWADA",
     "ADDRESS": "D.NO.59-12-6,GRACE LINE,GHANTASALAVARI STREET,GAYATRI NAGAR,NEAR BENZ CIRCLE",
     "STATE": "ANDHRA PRADESH",
@@ -30,23 +30,6 @@
     "CENTRE": "KRISHNA",
     "DISTRICT": "KRISHNA",
     "NEFT": true,
-    "IMPS": true,
-    "SWIFT": null
-  },
-  "COAS0009999": {
-    "BANK": null,
-    "IFSC": "COAS0009999",
-    "MICR": null,
-    "BRANCH": "NEFT SERVICE CENTER",
-    "ADDRESS": "D.NO.59-12-6, GRACE LINE, GHANTASALAVARI STREET, GAYATRI NAGAR, NEAR BENZ CIRCLE",
-    "STATE": "ANDHRA PRADESH",
-    "CONTACT": null,
-    "UPI": false,
-    "RTGS": true,
-    "CITY": "KRISHNA",
-    "CENTRE": "VIJAYAWADA",
-    "DISTRICT": "VIJAYAWADA",
-    "NEFT": false,
     "IMPS": true,
     "SWIFT": null
   }

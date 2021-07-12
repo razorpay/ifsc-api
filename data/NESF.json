@@ -11,13 +11,13 @@
     "IMPS": true,
     "CITY": "GUWAHATI",
     "UPI": true,
-    "MICR": "NA",
+    "MICR": null,
     "RTGS": true,
     "NEFT": true,
     "SWIFT": null
   },
   "NESF0000002": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000002",
     "MICR": "781773002",
     "BRANCH": "ZOO ROAD TINIALI",
@@ -34,7 +34,7 @@
     "SWIFT": null
   },
   "NESF0000003": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000003",
     "MICR": "781773501",
     "BRANCH": "BAIHATA CHARIALI",
@@ -51,7 +51,7 @@
     "SWIFT": null
   },
   "NESF0000004": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000004",
     "MICR": "782773202",
     "BRANCH": "GHUNUSA",
@@ -68,7 +68,7 @@
     "SWIFT": null
   },
   "NESF0000005": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000005",
     "MICR": "781773502",
     "BRANCH": "SUALKUCHI",
@@ -85,7 +85,7 @@
     "SWIFT": null
   },
   "NESF0000006": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000006",
     "MICR": "782773102",
     "BRANCH": "NAGAON",
@@ -102,7 +102,7 @@
     "SWIFT": null
   },
   "NESF0000007": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000007",
     "MICR": "785773002",
     "BRANCH": "JORHAT",
@@ -119,7 +119,7 @@
     "SWIFT": null
   },
   "NESF0000008": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000008",
     "MICR": "786773002",
     "BRANCH": "DIBRUGARH",
@@ -136,7 +136,7 @@
     "SWIFT": null
   },
   "NESF0000009": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000009",
     "MICR": "783773002",
     "BRANCH": "BONGAIGAON",
@@ -153,7 +153,7 @@
     "SWIFT": null
   },
   "NESF0000010": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000010",
     "MICR": "784773002",
     "BRANCH": "TEZPUR",
@@ -170,7 +170,7 @@
     "SWIFT": null
   },
   "NESF0000011": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000011",
     "MICR": "799773002",
     "BRANCH": "AGARTALA",
@@ -187,7 +187,7 @@
     "SWIFT": null
   },
   "NESF0000012": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000012",
     "MICR": "737773002",
     "BRANCH": "TADONG",
@@ -204,7 +204,7 @@
     "SWIFT": null
   },
   "NESF0000013": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000013",
     "MICR": "784773102",
     "BRANCH": "MANGALDOI",
@@ -221,7 +221,7 @@
     "SWIFT": null
   },
   "NESF0000014": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000014",
     "MICR": "787773102",
     "BRANCH": "DHEMAJI",
@@ -238,7 +238,7 @@
     "SWIFT": null
   },
   "NESF0000015": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000015",
     "MICR": "785773502",
     "BRANCH": "NEGHERITING",
@@ -255,7 +255,7 @@
     "SWIFT": null
   },
   "NESF0000016": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000016",
     "MICR": "785773102",
     "BRANCH": "GOLAGHAT",
@@ -272,7 +272,7 @@
     "SWIFT": null
   },
   "NESF0000017": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000017",
     "MICR": "782773002",
     "BRANCH": "DIPHU",
@@ -289,7 +289,7 @@
     "SWIFT": null
   },
   "NESF0000018": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000018",
     "MICR": "784773501",
     "BRANCH": "KHARUPETIA",
@@ -306,7 +306,7 @@
     "SWIFT": null
   },
   "NESF0000019": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000019",
     "MICR": "784773302",
     "BRANCH": "DHEKIAJULI",
@@ -323,7 +323,7 @@
     "SWIFT": null
   },
   "NESF0000020": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000020",
     "MICR": "785773504",
     "BRANCH": "BOKAKHAT",
@@ -340,7 +340,7 @@
     "SWIFT": null
   },
   "NESF0000021": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000021",
     "MICR": "783773506",
     "BRANCH": "JAMUGURIHAT",
@@ -357,7 +357,7 @@
     "SWIFT": null
   },
   "NESF0000022": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000022",
     "MICR": "787773501",
     "BRANCH": "BANDERDEWA",
@@ -374,7 +374,7 @@
     "SWIFT": null
   },
   "NESF0000023": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000023",
     "MICR": "737773152",
     "BRANCH": "JORETHANG",
@@ -391,7 +391,7 @@
     "SWIFT": null
   },
   "NESF0000024": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000024",
     "MICR": "783773503",
     "BRANCH": "CHAPAR",
@@ -408,7 +408,7 @@
     "SWIFT": null
   },
   "NESF0000025": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000025",
     "MICR": "781773102",
     "BRANCH": "BARPETA TOWN",
@@ -425,7 +425,7 @@
     "SWIFT": null
   },
   "NESF0000026": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000026",
     "MICR": "784773502",
     "BRANCH": "TANGLA",
@@ -442,7 +442,7 @@
     "SWIFT": null
   },
   "NESF0000028": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000028",
     "MICR": "799773052",
     "BRANCH": "TELIAMURA",
@@ -459,7 +459,7 @@
     "SWIFT": null
   },
   "NESF0000029": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000029",
     "MICR": "799773003",
     "BRANCH": "JIRANIA",
@@ -476,7 +476,7 @@
     "SWIFT": null
   },
   "NESF0000030": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000030",
     "MICR": "785773508",
     "BRANCH": "SIMALUGURI",
@@ -493,7 +493,7 @@
     "SWIFT": null
   },
   "NESF0000031": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000031",
     "MICR": "785773501",
     "BRANCH": "DHEKIAL",
@@ -510,7 +510,7 @@
     "SWIFT": null
   },
   "NESF0000032": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000032",
     "MICR": "785773505",
     "BRANCH": "BORHOLA",
@@ -527,7 +527,7 @@
     "SWIFT": null
   },
   "NESF0000033": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000033",
     "MICR": "785773507",
     "BRANCH": "TITABOR",
@@ -544,7 +544,7 @@
     "SWIFT": null
   },
   "NESF0000034": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000034",
     "MICR": "783773202",
     "BRANCH": "GOALPARA",
@@ -561,7 +561,7 @@
     "SWIFT": null
   },
   "NESF0000036": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000036",
     "MICR": "781773510",
     "BRANCH": "TIHU",
@@ -578,7 +578,7 @@
     "SWIFT": null
   },
   "NESF0000037": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000037",
     "MICR": "781773152",
     "BRANCH": "BARPETA ROAD",
@@ -595,7 +595,7 @@
     "SWIFT": null
   },
   "NESF0000038": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000038",
     "MICR": "781773402",
     "BRANCH": "PATHSALA",
@@ -612,7 +612,7 @@
     "SWIFT": null
   },
   "NESF0000039": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000039",
     "MICR": "783773502",
     "BRANCH": "CHALANTHAPARA",
@@ -629,7 +629,7 @@
     "SWIFT": null
   },
   "NESF0000040": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000040",
     "MICR": "785773503",
     "BRANCH": "TEOK",
@@ -646,7 +646,7 @@
     "SWIFT": null
   },
   "NESF0000041": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000041",
     "MICR": "785773510",
     "BRANCH": "NAZIRA",
@@ -663,7 +663,7 @@
     "SWIFT": null
   },
   "NESF0000042": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000042",
     "MICR": "785773202",
     "BRANCH": "SIVASAGAR",
@@ -680,7 +680,7 @@
     "SWIFT": null
   },
   "NESF0000043": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000043",
     "MICR": "781773003",
     "BRANCH": "PAMOHI",
@@ -697,7 +697,7 @@
     "SWIFT": null
   },
   "NESF0000044": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000044",
     "MICR": "781773005",
     "BRANCH": "BIRUBARI",
@@ -714,7 +714,7 @@
     "SWIFT": null
   },
   "NESF0000045": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000045",
     "MICR": "793773502",
     "BRANCH": "UMLYNGDIAT NONGPOH",
@@ -731,7 +731,7 @@
     "SWIFT": null
   },
   "NESF0000047": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000047",
     "MICR": "783773505",
     "BRANCH": "MATIA",
@@ -748,7 +748,7 @@
     "SWIFT": null
   },
   "NESF0000048": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000048",
     "MICR": "783773504",
     "BRANCH": "GAURIPUR",
@@ -765,7 +765,7 @@
     "SWIFT": null
   },
   "NESF0000049": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000049",
     "MICR": "787773506",
     "BRANCH": "LALUK",
@@ -782,7 +782,7 @@
     "SWIFT": null
   },
   "NESF0000051": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000051",
     "MICR": "787773002",
     "BRANCH": "NORTH LAKHIMPUR",
@@ -799,7 +799,7 @@
     "SWIFT": null
   },
   "NESF0000052": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000052",
     "MICR": "784773202",
     "BRANCH": "BISWANATH CHARIALI",
@@ -816,7 +816,7 @@
     "SWIFT": null
   },
   "NESF0000053": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000053",
     "MICR": "784773504",
     "BRANCH": "BORGANG",
@@ -833,7 +833,7 @@
     "SWIFT": null
   },
   "NESF0000054": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000054",
     "MICR": "781773503",
     "BRANCH": "BORKAT GAON",
@@ -850,7 +850,7 @@
     "SWIFT": null
   },
   "NESF0000055": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000055",
     "MICR": "782773203",
     "BRANCH": "MORIGAON",
@@ -867,9 +867,9 @@
     "SWIFT": null
   },
   "NESF0000056": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000056",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "PANITAMA",
     "ADDRESS": "BORKA,PO.PUB BORKA,PS.KAMALPUR,PIN-781101",
     "STATE": "ASSAM",
@@ -884,7 +884,7 @@
     "SWIFT": null
   },
   "NESF0000057": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000057",
     "MICR": "799773501",
     "BRANCH": "AMARPUR",
@@ -901,7 +901,7 @@
     "SWIFT": null
   },
   "NESF0000058": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000058",
     "MICR": "782773503",
     "BRANCH": "KOTHIATOLI",
@@ -918,7 +918,7 @@
     "SWIFT": null
   },
   "NESF0000059": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000059",
     "MICR": "783773501",
     "BRANCH": "BIJNI",
@@ -935,7 +935,7 @@
     "SWIFT": null
   },
   "NESF0000060": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000060",
     "MICR": "781773504",
     "BRANCH": "SARTHEBARI",
@@ -952,7 +952,7 @@
     "SWIFT": null
   },
   "NESF0000061": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000061",
     "MICR": "781773507",
     "BRANCH": "BOKO",
@@ -969,7 +969,7 @@
     "SWIFT": null
   },
   "NESF0000062": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000062",
     "MICR": "784773505",
     "BRANCH": "DHUPDHARA",
@@ -986,7 +986,7 @@
     "SWIFT": null
   },
   "NESF0000063": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000063",
     "MICR": "786773502",
     "BRANCH": "CHABUA",
@@ -1003,7 +1003,7 @@
     "SWIFT": null
   },
   "NESF0000064": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000064",
     "MICR": "786773501",
     "BRANCH": "TENGAKHAT",
@@ -1020,7 +1020,7 @@
     "SWIFT": null
   },
   "NESF0000065": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000065",
     "MICR": "781773508",
     "BRANCH": "GOBORDHAN CHANDRAPUR",
@@ -1037,7 +1037,7 @@
     "SWIFT": null
   },
   "NESF0000066": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000066",
     "MICR": "787773503",
     "BRANCH": "GOGAMUKH",
@@ -1054,7 +1054,7 @@
     "SWIFT": null
   },
   "NESF0000067": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000067",
     "MICR": "791773502",
     "BRANCH": "PASIGHAT",
@@ -1071,7 +1071,7 @@
     "SWIFT": null
   },
   "NESF0000068": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000068",
     "MICR": "787773505",
     "BRANCH": "DHAKUAKHANA",
@@ -1088,7 +1088,7 @@
     "SWIFT": null
   },
   "NESF0000069": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000069",
     "MICR": "787773504",
     "BRANCH": "BIHPURIA",
@@ -1105,7 +1105,7 @@
     "SWIFT": null
   },
   "NESF0000070": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000070",
     "MICR": "791773503",
     "BRANCH": "KIMIN",
@@ -1122,7 +1122,7 @@
     "SWIFT": null
   },
   "NESF0000071": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000071",
     "MICR": "781773505",
     "BRANCH": "BORIHAT",
@@ -1139,7 +1139,7 @@
     "SWIFT": null
   },
   "NESF0000072": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000072",
     "MICR": "781773509",
     "BRANCH": "CHAYGAON",
@@ -1156,7 +1156,7 @@
     "SWIFT": null
   },
   "NESF0000073": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000073",
     "MICR": "785773506",
     "BRANCH": "NAKACHARI",
@@ -1173,7 +1173,7 @@
     "SWIFT": null
   },
   "NESF0000074": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000074",
     "MICR": "785773509",
     "BRANCH": "GAURISAGAR",
@@ -1190,7 +1190,7 @@
     "SWIFT": null
   },
   "NESF0000075": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000075",
     "MICR": "784773503",
     "BRANCH": "GOHPUR",
@@ -1207,7 +1207,7 @@
     "SWIFT": null
   },
   "NESF0000076": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000076",
     "MICR": "787773502",
     "BRANCH": "NARAYANPUR",
@@ -1224,7 +1224,7 @@
     "SWIFT": null
   },
   "NESF0000077": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000077",
     "MICR": "782773501",
     "BRANCH": "AHATGURI",
@@ -1241,7 +1241,7 @@
     "SWIFT": null
   },
   "NESF0000078": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000078",
     "MICR": "782773502",
     "BRANCH": "MIKIRBHETA",
@@ -1258,7 +1258,7 @@
     "SWIFT": null
   },
   "NESF0000079": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000079",
     "MICR": "781773511",
     "BRANCH": "BALISATRA",
@@ -1275,7 +1275,7 @@
     "SWIFT": null
   },
   "NESF0000081": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000081",
     "MICR": "781773202",
     "BRANCH": "NALBARI",
@@ -1292,7 +1292,7 @@
     "SWIFT": null
   },
   "NESF0000082": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000082",
     "MICR": "781773302",
     "BRANCH": "RANGIA",
@@ -1309,7 +1309,7 @@
     "SWIFT": null
   },
   "NESF0000083": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000083",
     "MICR": "785773513",
     "BRANCH": "SARUPATHAR",
@@ -1326,7 +1326,7 @@
     "SWIFT": null
   },
   "NESF0000084": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000084",
     "MICR": "785773402",
     "BRANCH": "MORAN",
@@ -1343,7 +1343,7 @@
     "SWIFT": null
   },
   "NESF0000085": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000085",
     "MICR": "786773202",
     "BRANCH": "TINSUKIA",
@@ -1360,7 +1360,7 @@
     "SWIFT": null
   },
   "NESF0000086": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000086",
     "MICR": "785773517",
     "BRANCH": "DEMOW",
@@ -1377,7 +1377,7 @@
     "SWIFT": null
   },
   "NESF0000087": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000087",
     "MICR": "793773002",
     "BRANCH": "SHILLONG",
@@ -1394,7 +1394,7 @@
     "SWIFT": null
   },
   "NESF0000088": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000088",
     "MICR": "791773002",
     "BRANCH": "ITANAGAR",
@@ -1411,7 +1411,7 @@
     "SWIFT": null
   },
   "NESF0000089": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000089",
     "MICR": "791773501",
     "BRANCH": "BAGE TINALI NAHARLAGUN",
@@ -1428,7 +1428,7 @@
     "SWIFT": null
   },
   "NESF0000090": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000090",
     "MICR": "781773528",
     "BRANCH": "MIRZA,BIJOYNAGAR",
@@ -1445,7 +1445,7 @@
     "SWIFT": null
   },
   "NESF0000091": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000091",
     "MICR": "781773527",
     "BRANCH": "BELSOR",
@@ -1462,7 +1462,7 @@
     "SWIFT": null
   },
   "NESF0000092": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000092",
     "MICR": "781773518",
     "BRANCH": "BEZERA",
@@ -1479,7 +1479,7 @@
     "SWIFT": null
   },
   "NESF0000093": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000093",
     "MICR": "781773526",
     "BRANCH": "RAMPUR",
@@ -1496,7 +1496,7 @@
     "SWIFT": null
   },
   "NESF0000094": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000094",
     "MICR": "781773521",
     "BRANCH": "CHENGA,BOHORI",
@@ -1513,7 +1513,7 @@
     "SWIFT": null
   },
   "NESF0000095": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000095",
     "MICR": "781773523",
     "BRANCH": "NAGARBERA",
@@ -1530,7 +1530,7 @@
     "SWIFT": null
   },
   "NESF0000096": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000096",
     "MICR": "781773008",
     "BRANCH": "BELTOLA",
@@ -1547,7 +1547,7 @@
     "SWIFT": null
   },
   "NESF0000097": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000097",
     "MICR": "781773013",
     "BRANCH": "MALIGAON",
@@ -1564,7 +1564,7 @@
     "SWIFT": null
   },
   "NESF0000098": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000098",
     "MICR": "782773509",
     "BRANCH": "JAKHALABANDHA",
@@ -1581,7 +1581,7 @@
     "SWIFT": null
   },
   "NESF0000099": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000099",
     "MICR": "781773009",
     "BRANCH": "NORTH GUWAHATI",
@@ -1598,7 +1598,7 @@
     "SWIFT": null
   },
   "NESF0000100": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000100",
     "MICR": "782773303",
     "BRANCH": "LANKA",
@@ -1615,7 +1615,7 @@
     "SWIFT": null
   },
   "NESF0000101": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000101",
     "MICR": "793773503",
     "BRANCH": "BYRNIHAT",
@@ -1632,7 +1632,7 @@
     "SWIFT": null
   },
   "NESF0000102": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000102",
     "MICR": "783773102",
     "BRANCH": "BILASIPARA",
@@ -1649,7 +1649,7 @@
     "SWIFT": null
   },
   "NESF0000103": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000103",
     "MICR": "785773516",
     "BRANCH": "AMGURI",
@@ -1666,7 +1666,7 @@
     "SWIFT": null
   },
   "NESF0000104": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000104",
     "MICR": "781773516",
     "BRANCH": "BORJHAR",
@@ -1683,7 +1683,7 @@
     "SWIFT": null
   },
   "NESF0000105": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000105",
     "MICR": "781773007",
     "BRANCH": "NARENGI",
@@ -1700,7 +1700,7 @@
     "SWIFT": null
   },
   "NESF0000106": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000106",
     "MICR": "785773003",
     "BRANCH": "MARIANI",
@@ -1717,7 +1717,7 @@
     "SWIFT": null
   },
   "NESF0000107": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000107",
     "MICR": "784773508",
     "BRANCH": "MISSAMARI",
@@ -1734,7 +1734,7 @@
     "SWIFT": null
   },
   "NESF0000108": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000108",
     "MICR": "784773403",
     "BRANCH": "BALIPARA",
@@ -1751,7 +1751,7 @@
     "SWIFT": null
   },
   "NESF0000109": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000109",
     "MICR": "781773514",
     "BRANCH": "ANCHALI - JALAH",
@@ -1768,7 +1768,7 @@
     "SWIFT": null
   },
   "NESF0000110": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000110",
     "MICR": "782773003",
     "BRANCH": "KHETRI",
@@ -1785,7 +1785,7 @@
     "SWIFT": null
   },
   "NESF0000111": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000111",
     "MICR": "781773524",
     "BRANCH": "TAMULPUR",
@@ -1802,7 +1802,7 @@
     "SWIFT": null
   },
   "NESF0000112": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000112",
     "MICR": "782773506",
     "BRANCH": "NELLIE",
@@ -1819,7 +1819,7 @@
     "SWIFT": null
   },
   "NESF0000113": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000113",
     "MICR": "782773302",
     "BRANCH": "HOJAI",
@@ -1836,7 +1836,7 @@
     "SWIFT": null
   },
   "NESF0000114": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000114",
     "MICR": "786773252",
     "BRANCH": "NAHARKATIA",
@@ -1853,7 +1853,7 @@
     "SWIFT": null
   },
   "NESF0000115": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000115",
     "MICR": "781773512",
     "BRANCH": "TULSIBARI-DWARKUCHI",
@@ -1870,7 +1870,7 @@
     "SWIFT": null
   },
   "NESF0000116": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000116",
     "MICR": "784773509",
     "BRANCH": "SIPAJHAR",
@@ -1887,7 +1887,7 @@
     "SWIFT": null
   },
   "NESF0000117": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000117",
     "MICR": "782773511",
     "BRANCH": "SENCHOWA",
@@ -1904,7 +1904,7 @@
     "SWIFT": null
   },
   "NESF0000118": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000118",
     "MICR": "782773103",
     "BRANCH": "KAKI",
@@ -1921,7 +1921,7 @@
     "SWIFT": null
   },
   "NESF0000119": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000119",
     "MICR": "737773202",
     "BRANCH": "SINGTAM",
@@ -1938,7 +1938,7 @@
     "SWIFT": null
   },
   "NESF0000120": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000120",
     "MICR": "737773051",
     "BRANCH": "RANGPO",
@@ -1955,7 +1955,7 @@
     "SWIFT": null
   },
   "NESF0000121": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000121",
     "MICR": "797773002",
     "BRANCH": "DIMAPUR",
@@ -1972,7 +1972,7 @@
     "SWIFT": null
   },
   "NESF0000122": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000122",
     "MICR": "737773403",
     "BRANCH": "SINGHITHANG ,NAMCHI",
@@ -1989,7 +1989,7 @@
     "SWIFT": null
   },
   "NESF0000123": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000123",
     "MICR": "785773514",
     "BRANCH": "BARPATHAR",
@@ -2006,7 +2006,7 @@
     "SWIFT": null
   },
   "NESF0000124": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000124",
     "MICR": "787773103",
     "BRANCH": "SILAPATHAR",
@@ -2023,7 +2023,7 @@
     "SWIFT": null
   },
   "NESF0000125": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000125",
     "MICR": "781773515",
     "BRANCH": "BARBHAG",
@@ -2040,7 +2040,7 @@
     "SWIFT": null
   },
   "NESF0000126": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000126",
     "MICR": "784773507",
     "BRANCH": "KALAIGAON",
@@ -2057,7 +2057,7 @@
     "SWIFT": null
   },
   "NESF0000127": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000127",
     "MICR": "784773506",
     "BRANCH": "KHOIRABARI",
@@ -2074,7 +2074,7 @@
     "SWIFT": null
   },
   "NESF0000128": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000128",
     "MICR": "787773509",
     "BRANCH": "BOGINODI",
@@ -2091,7 +2091,7 @@
     "SWIFT": null
   },
   "NESF0000129": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000129",
     "MICR": "785773203",
     "BRANCH": "SONARI",
@@ -2108,7 +2108,7 @@
     "SWIFT": null
   },
   "NESF0000130": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000130",
     "MICR": "785773511",
     "BRANCH": "KHOWANG",
@@ -2125,7 +2125,7 @@
     "SWIFT": null
   },
   "NESF0000131": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000131",
     "MICR": "782773508",
     "BRANCH": "SAMAGURI",
@@ -2142,7 +2142,7 @@
     "SWIFT": null
   },
   "NESF0000132": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000132",
     "MICR": "786773003",
     "BRANCH": "BORBORUA",
@@ -2159,7 +2159,7 @@
     "SWIFT": null
   },
   "NESF0000133": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000133",
     "MICR": "786773203",
     "BRANCH": "MARGHERITA",
@@ -2176,7 +2176,7 @@
     "SWIFT": null
   },
   "NESF0000134": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000134",
     "MICR": "787773507",
     "BRANCH": "PANIGAON",
@@ -2193,7 +2193,7 @@
     "SWIFT": null
   },
   "NESF0000135": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000135",
     "MICR": "782773152",
     "BRANCH": "LUMDING",
@@ -2210,7 +2210,7 @@
     "SWIFT": null
   },
   "NESF0000136": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000136",
     "MICR": "781773522",
     "BRANCH": "SORBHOG",
@@ -2227,7 +2227,7 @@
     "SWIFT": null
   },
   "NESF0000137": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000137",
     "MICR": "787773508",
     "BRANCH": "JONAI",
@@ -2244,7 +2244,7 @@
     "SWIFT": null
   },
   "NESF0000138": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000138",
     "MICR": "735773002",
     "BRANCH": "JALPAIGURI",
@@ -2261,7 +2261,7 @@
     "SWIFT": null
   },
   "NESF0000139": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000139",
     "MICR": "735773003",
     "BRANCH": "MAYNAGURI",
@@ -2278,7 +2278,7 @@
     "SWIFT": null
   },
   "NESF0000140": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000140",
     "MICR": "735773102",
     "BRANCH": "BIRPARA",
@@ -2295,7 +2295,7 @@
     "SWIFT": null
   },
   "NESF0000141": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000141",
     "MICR": "737773302",
     "BRANCH": "GEYZING",
@@ -2312,7 +2312,7 @@
     "SWIFT": null
   },
   "NESF0000142": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000142",
     "MICR": "785773515",
     "BRANCH": "KAMALABARI",
@@ -2329,7 +2329,7 @@
     "SWIFT": null
   },
   "NESF0000143": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000143",
     "MICR": "782773507",
     "BRANCH": "KAMPUR",
@@ -2346,7 +2346,7 @@
     "SWIFT": null
   },
   "NESF0000144": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000144",
     "MICR": "782773510",
     "BRANCH": "RUPAHITOLI",
@@ -2363,7 +2363,7 @@
     "SWIFT": null
   },
   "NESF0000145": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000145",
     "MICR": "781773525",
     "BRANCH": "GORESHWAR",
@@ -2380,7 +2380,7 @@
     "SWIFT": null
   },
   "NESF0000146": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000146",
     "MICR": "781773519",
     "BRANCH": "KONIHA",
@@ -2397,7 +2397,7 @@
     "SWIFT": null
   },
   "NESF0000147": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000147",
     "MICR": "781773520",
     "BRANCH": "KHARA PART II DARANGIRI",
@@ -2414,7 +2414,7 @@
     "SWIFT": null
   },
   "NESF0000148": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000148",
     "MICR": "785773004",
     "BRANCH": "LICHUBARI",
@@ -2431,7 +2431,7 @@
     "SWIFT": null
   },
   "NESF0000149": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000149",
     "MICR": "795773003",
     "BRANCH": "LAMPHELPAT",
@@ -2448,7 +2448,7 @@
     "SWIFT": null
   },
   "NESF0000150": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000150",
     "MICR": "795773002",
     "BRANCH": "POROMPAT",
@@ -2465,7 +2465,7 @@
     "SWIFT": null
   },
   "NESF0000151": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000151",
     "MICR": "788773002",
     "BRANCH": "SILCHAR",
@@ -2482,7 +2482,7 @@
     "SWIFT": null
   },
   "NESF0000152": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000152",
     "MICR": "793773501",
     "BRANCH": "MAIRANG",
@@ -2499,7 +2499,7 @@
     "SWIFT": null
   },
   "NESF0000153": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000153",
     "MICR": "788773202",
     "BRANCH": "HAILAKANDI",
@@ -2516,7 +2516,7 @@
     "SWIFT": null
   },
   "NESF0000155": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000155",
     "MICR": "793773102",
     "BRANCH": "JOWAI",
@@ -2533,7 +2533,7 @@
     "SWIFT": null
   },
   "NESF0000156": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000156",
     "MICR": "793773402",
     "BRANCH": "KHLIEHRIAT",
@@ -2550,7 +2550,7 @@
     "SWIFT": null
   },
   "NESF0000157": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000157",
     "MICR": "781773513",
     "BRANCH": "SAHPUR",
@@ -2567,7 +2567,7 @@
     "SWIFT": null
   },
   "NESF0000158": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000158",
     "MICR": "799773004",
     "BRANCH": "DURJOYNAGAR",
@@ -2584,7 +2584,7 @@
     "SWIFT": null
   },
   "NESF0000160": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000160",
     "MICR": "788773012",
     "BRANCH": "KARIMGANJ",
@@ -2601,7 +2601,7 @@
     "SWIFT": null
   },
   "NESF0000162": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000162",
     "MICR": "799773102",
     "BRANCH": "DHARMANAGAR",
@@ -2618,7 +2618,7 @@
     "SWIFT": null
   },
   "NESF0000163": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000163",
     "MICR": "788773103",
     "BRANCH": "BADARPUR",
@@ -2635,7 +2635,7 @@
     "SWIFT": null
   },
   "NESF0000164": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000164",
     "MICR": "737773003",
     "BRANCH": "SARAMSA",
@@ -2652,7 +2652,7 @@
     "SWIFT": null
   },
   "NESF0000165": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000165",
     "MICR": "781773006",
     "BRANCH": "KAILASHPUR RANI",
@@ -2669,7 +2669,7 @@
     "SWIFT": null
   },
   "NESF0000166": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000166",
     "MICR": "782773505",
     "BRANCH": "DOKMOKA",
@@ -2686,7 +2686,7 @@
     "SWIFT": null
   },
   "NESF0000167": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000167",
     "MICR": "795773004",
     "BRANCH": "SINGJAMEI",
@@ -2703,7 +2703,7 @@
     "SWIFT": null
   },
   "NESF0000169": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000169",
     "MICR": "796773002",
     "BRANCH": "AIZWAL",
@@ -2720,7 +2720,7 @@
     "SWIFT": null
   },
   "NESF0000185": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000185",
     "MICR": "794773002",
     "BRANCH": "TURA",
@@ -2737,7 +2737,7 @@
     "SWIFT": null
   },
   "NESF0000189": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000189",
     "MICR": "736773051",
     "BRANCH": "ALIPURDUAR",
@@ -2754,7 +2754,7 @@
     "SWIFT": null
   },
   "NESF0000196": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000196",
     "MICR": "781773517",
     "BRANCH": "BARDUAR TEA ESTATE",
@@ -2771,7 +2771,7 @@
     "SWIFT": null
   },
   "NESF0000199": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000199",
     "MICR": "799773103",
     "BRANCH": "KUMARGHAT",
@@ -2788,7 +2788,7 @@
     "SWIFT": null
   },
   "NESF0000207": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000207",
     "MICR": "781773011",
     "BRANCH": "BHETAPARA",
@@ -2805,7 +2805,7 @@
     "SWIFT": null
   },
   "NESF0000208": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000208",
     "MICR": "781773010",
     "BRANCH": "SILPUKHURI",
@@ -2822,7 +2822,7 @@
     "SWIFT": null
   },
   "NESF0000214": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000214",
     "MICR": "736773003",
     "BRANCH": "KOCH BIHAR",
@@ -2839,7 +2839,7 @@
     "SWIFT": null
   },
   "NESF0000215": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000215",
     "MICR": "784773402",
     "BRANCH": "UDALGURI",
@@ -2856,7 +2856,7 @@
     "SWIFT": null
   },
   "NESF0000222": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000222",
     "MICR": "783773302",
     "BRANCH": "KOKRAJHAR",
@@ -2873,7 +2873,7 @@
     "SWIFT": null
   },
   "NESF0000223": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000223",
     "MICR": "781773012",
     "BRANCH": "GUWAHATI G.S. ROAD",
@@ -2889,8 +2889,25 @@
     "IMPS": true,
     "SWIFT": null
   },
+  "NESF0000224": {
+    "BANK": "North East Small Finance Bank",
+    "IFSC": "NESF0000224",
+    "MICR": "734773002",
+    "BRANCH": "SILIGURI",
+    "ADDRESS": "1ST FLOOR,MANGALJYOTI BUILDING, SEVOKE ROAD, OPPOSITE DDTS PETROL PUMP KOTAK MAHINDRA BANK, SILIGURI",
+    "STATE": "WEST BENGAL",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "DARJEELING",
+    "CENTRE": "SILIGURI",
+    "DISTRICT": "SILIGURI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null
+  },
   "NESF0000999": {
-    "BANK": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "BANK": "North East Small Finance Bank",
     "IFSC": "NESF0000999",
     "MICR": "781773004",
     "BRANCH": "CPC",

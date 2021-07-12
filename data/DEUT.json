@@ -11,13 +11,13 @@
     "IMPS": true,
     "CITY": "MUMBAI",
     "UPI": true,
-    "MICR": "NA",
+    "MICR": null,
     "RTGS": true,
     "NEFT": true,
     "SWIFT": null
   },
   "DEUT0273PBC": {
-    "BANK": "DEUSTCHE BANK",
+    "BANK": "Deutsche Bank",
     "IFSC": "DEUT0273PBC",
     "MICR": "416200002",
     "BRANCH": "KOLHAPUR",
@@ -34,7 +34,7 @@
     "SWIFT": null
   },
   "DEUT0274PBC": {
-    "BANK": "DEUSTCHE BANK",
+    "BANK": "Deutsche Bank",
     "IFSC": "DEUT0274PBC",
     "MICR": "431200003",
     "BRANCH": "AURANGABAD",
@@ -51,7 +51,7 @@
     "SWIFT": null
   },
   "DEUT0278PBC": {
-    "BANK": "DEUSTCHE BANK",
+    "BANK": "Deutsche Bank",
     "IFSC": "DEUT0278PBC",
     "MICR": "110200003",
     "BRANCH": "NOIDA",
@@ -68,7 +68,7 @@
     "SWIFT": null
   },
   "DEUT0279PBC": {
-    "BANK": "DEUSTCHE BANK",
+    "BANK": "Deutsche Bank",
     "IFSC": "DEUT0279PBC",
     "MICR": "110200004",
     "BRANCH": "GURGAON",
@@ -85,7 +85,7 @@
     "SWIFT": null
   },
   "DEUT0401PBC": {
-    "BANK": "DEUSTCHE BANK",
+    "BANK": "Deutsche Bank",
     "IFSC": "DEUT0401PBC",
     "MICR": "632200002",
     "BRANCH": "VELLORE",
@@ -102,7 +102,7 @@
     "SWIFT": null
   },
   "DEUT0402PBC": {
-    "BANK": "DEUSTCHE BANK",
+    "BANK": "Deutsche Bank",
     "IFSC": "DEUT0402PBC",
     "MICR": "636200002",
     "BRANCH": "SALEM",
@@ -119,7 +119,7 @@
     "SWIFT": null
   },
   "DEUT0403PBC": {
-    "BANK": "DEUSTCHE BANK",
+    "BANK": "Deutsche Bank",
     "IFSC": "DEUT0403PBC",
     "MICR": "244200002",
     "BRANCH": "MORADABAD",
@@ -136,7 +136,7 @@
     "SWIFT": null
   },
   "DEUT0404PBC": {
-    "BANK": "DEUSTCHE BANK",
+    "BANK": "Deutsche Bank",
     "IFSC": "DEUT0404PBC",
     "MICR": "141200002",
     "BRANCH": "LUDHIANA",
@@ -153,7 +153,7 @@
     "SWIFT": null
   },
   "DEUT0405PBC": {
-    "BANK": "DEUSTCHE BANK",
+    "BANK": "Deutsche Bank",
     "IFSC": "DEUT0405PBC",
     "MICR": "395200002",
     "BRANCH": "SURAT",
@@ -170,7 +170,7 @@
     "SWIFT": null
   },
   "DEUT0406AMD": {
-    "BANK": "DEUSTCHE BANK",
+    "BANK": "Deutsche Bank",
     "IFSC": "DEUT0406AMD",
     "MICR": "380200002",
     "BRANCH": "AHMEDABAD",
@@ -187,7 +187,7 @@
     "SWIFT": null
   },
   "DEUT0406PBC": {
-    "BANK": "DEUSTCHE BANK",
+    "BANK": "Deutsche Bank",
     "IFSC": "DEUT0406PBC",
     "MICR": "380200002",
     "BRANCH": "AHMEDABAD",
@@ -204,7 +204,7 @@
     "SWIFT": null
   },
   "DEUT0537PUN": {
-    "BANK": "DEUSTCHE BANK",
+    "BANK": "Deutsche Bank",
     "IFSC": "DEUT0537PUN",
     "MICR": "411200002",
     "BRANCH": "PUNE",
@@ -221,7 +221,7 @@
     "SWIFT": null
   },
   "DEUT0784BBY": {
-    "BANK": "DEUSTCHE BANK",
+    "BANK": "Deutsche Bank",
     "IFSC": "DEUT0784BBY",
     "MICR": "400200002",
     "BRANCH": "MUMBAI",
@@ -238,7 +238,7 @@
     "SWIFT": null
   },
   "DEUT0784DCO": {
-    "BANK": "DEUSTCHE BANK",
+    "BANK": "Deutsche Bank",
     "IFSC": "DEUT0784DCO",
     "MICR": "400200002",
     "BRANCH": "MUMBAI DOMESTIC CUSTODY",
@@ -255,9 +255,9 @@
     "SWIFT": null
   },
   "DEUT0784DSO": {
-    "BANK": "DEUSTCHE BANK",
+    "BANK": "Deutsche Bank",
     "IFSC": "DEUT0784DSO",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "MUMBAI  DEBT MARKET BRANCH",
     "ADDRESS": "222, KODAK HOUSE, DR. D.N. ROAD, FORT, MUMBAI - 400 001.",
     "STATE": "MAHARASHTRA",
@@ -272,9 +272,9 @@
     "SWIFT": null
   },
   "DEUT0784MMT": {
-    "BANK": "DEUSTCHE BANK",
+    "BANK": "Deutsche Bank",
     "IFSC": "DEUT0784MMT",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "MUMBAI  MONEY MARKET BRANCH",
     "ADDRESS": "222, KODAK HOUSE, DR. D.N. ROAD, FORT, MUMBAI - 400 001.",
     "STATE": "MAHARASHTRA",
@@ -289,9 +289,9 @@
     "SWIFT": null
   },
   "DEUT0784OPT": {
-    "BANK": "DEUSTCHE BANK",
+    "BANK": "Deutsche Bank",
     "IFSC": "DEUT0784OPT",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "MUMBAI  OPTIONS BRANCH",
     "ADDRESS": "222, KODAK HOUSE, DR. D.N. ROAD, FORT, MUMBAI - 400 001.",
     "STATE": "MAHARASHTRA",
@@ -306,9 +306,9 @@
     "SWIFT": null
   },
   "DEUT0784OTC": {
-    "BANK": "DEUSTCHE BANK",
+    "BANK": "Deutsche Bank",
     "IFSC": "DEUT0784OTC",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "MUMBAI  DERIVATIVES BRANCH",
     "ADDRESS": "222, KODAK HOUSE, DR. D.N. ROAD, FORT, MUMBAI - 400 001.",
     "STATE": "MAHARASHTRA",
@@ -323,7 +323,7 @@
     "SWIFT": null
   },
   "DEUT0784PBC": {
-    "BANK": "DEUSTCHE BANK",
+    "BANK": "Deutsche Bank",
     "IFSC": "DEUT0784PBC",
     "MICR": "400200003",
     "BRANCH": "KHAR",
@@ -339,25 +339,8 @@
     "IMPS": true,
     "SWIFT": null
   },
-  "DEUT0784SER": {
-    "BANK": null,
-    "IFSC": "DEUT0784SER",
-    "MICR": "NA",
-    "BRANCH": "MUMBAI",
-    "ADDRESS": "6TH FLR, TOWER 2, PENINSULA CORPORATE PARK, LOWER PAREL, MUMBAI 400013",
-    "STATE": "MAHARASHTRA",
-    "CONTACT": null,
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "MUMBAI",
-    "CENTRE": "MUMBAI",
-    "DISTRICT": "MUMBAI",
-    "NEFT": false,
-    "IMPS": true,
-    "SWIFT": null
-  },
   "DEUT0784TRS": {
-    "BANK": "DEUSTCHE BANK",
+    "BANK": "Deutsche Bank",
     "IFSC": "DEUT0784TRS",
     "MICR": "400200002",
     "BRANCH": "MUMBAI",
@@ -374,7 +357,7 @@
     "SWIFT": null
   },
   "DEUT0784TRY": {
-    "BANK": null,
+    "BANK": "Deutsche Bank",
     "IFSC": "DEUT0784TRY",
     "MICR": null,
     "BRANCH": "Mumbai - Treasury",
@@ -391,7 +374,7 @@
     "SWIFT": null
   },
   "DEUT0796DEL": {
-    "BANK": "DEUSTCHE BANK",
+    "BANK": "Deutsche Bank",
     "IFSC": "DEUT0796DEL",
     "MICR": "110200002",
     "BRANCH": "DELHI",
@@ -408,7 +391,7 @@
     "SWIFT": null
   },
   "DEUT0796TRS": {
-    "BANK": "DEUSTCHE BANK",
+    "BANK": "Deutsche Bank",
     "IFSC": "DEUT0796TRS",
     "MICR": "110200002",
     "BRANCH": "DELHI",
@@ -425,7 +408,7 @@
     "SWIFT": null
   },
   "DEUT0797BGL": {
-    "BANK": "DEUSTCHE BANK",
+    "BANK": "Deutsche Bank",
     "IFSC": "DEUT0797BGL",
     "MICR": "560200002",
     "BRANCH": "BANGALORE",
@@ -442,7 +425,7 @@
     "SWIFT": null
   },
   "DEUT0797TRS": {
-    "BANK": "DEUSTCHE BANK",
+    "BANK": "Deutsche Bank",
     "IFSC": "DEUT0797TRS",
     "MICR": "560200002",
     "BRANCH": "BANGALORE",
@@ -459,7 +442,7 @@
     "SWIFT": null
   },
   "DEUT0916CNN": {
-    "BANK": "DEUSTCHE BANK",
+    "BANK": "Deutsche Bank",
     "IFSC": "DEUT0916CNN",
     "MICR": "600200002",
     "BRANCH": "CHENNAI",
@@ -476,7 +459,7 @@
     "SWIFT": null
   },
   "DEUT0916TRS": {
-    "BANK": "DEUSTCHE BANK",
+    "BANK": "Deutsche Bank",
     "IFSC": "DEUT0916TRS",
     "MICR": "600200002",
     "BRANCH": "CHENNAI",
@@ -493,7 +476,7 @@
     "SWIFT": null
   },
   "DEUT0917CAL": {
-    "BANK": "DEUSTCHE BANK",
+    "BANK": "Deutsche Bank",
     "IFSC": "DEUT0917CAL",
     "MICR": "700200002",
     "BRANCH": "KOLKATTA",
@@ -510,7 +493,7 @@
     "SWIFT": null
   },
   "DEUT0917TRS": {
-    "BANK": "DEUSTCHE BANK",
+    "BANK": "Deutsche Bank",
     "IFSC": "DEUT0917TRS",
     "MICR": "700200002",
     "BRANCH": "KOLKATTA",

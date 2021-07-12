@@ -11,30 +11,13 @@
     "IMPS": true,
     "CITY": "NAINITAL",
     "UPI": false,
-    "MICR": "NA",
+    "MICR": null,
     "RTGS": true,
     "NEFT": true,
     "SWIFT": null
   },
-  "KNSB00000SC": {
-    "BANK": null,
-    "IFSC": "KNSB00000SC",
-    "MICR": "NA",
-    "BRANCH": "HEAD OFFICE-SERVICE CENTER",
-    "ADDRESS": "KURMANCHAL BHAWAN, TALLITAL",
-    "STATE": "UTTARAKHAND",
-    "CONTACT": "+915646231525",
-    "UPI": false,
-    "RTGS": true,
-    "CITY": "NAINITAL",
-    "CENTRE": "NAINITAL",
-    "DISTRICT": "NAINITAL",
-    "NEFT": false,
-    "IMPS": true,
-    "SWIFT": null
-  },
   "KNSB0010001": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010001",
     "MICR": "263846003",
     "BRANCH": "HALDWANI",
@@ -51,7 +34,7 @@
     "SWIFT": null
   },
   "KNSB0010002": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010002",
     "MICR": "263846304",
     "BRANCH": "BALIKA",
@@ -68,7 +51,7 @@
     "SWIFT": null
   },
   "KNSB0010003": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010003",
     "MICR": "263846102",
     "BRANCH": "ALMORA",
@@ -85,7 +68,7 @@
     "SWIFT": null
   },
   "KNSB0010004": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010004",
     "MICR": "263846702",
     "BRANCH": "BAGESHWAR",
@@ -102,7 +85,7 @@
     "SWIFT": null
   },
   "KNSB0010005": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010005",
     "MICR": "263846302",
     "BRANCH": "MALLITAL",
@@ -119,7 +102,7 @@
     "SWIFT": null
   },
   "KNSB0010006": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010006",
     "MICR": "262846602",
     "BRANCH": "CHAMPAWAT",
@@ -136,7 +119,7 @@
     "SWIFT": null
   },
   "KNSB0010007": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010007",
     "MICR": "263846002",
     "BRANCH": "MUKHANI",
@@ -153,7 +136,7 @@
     "SWIFT": null
   },
   "KNSB0010008": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010008",
     "MICR": "249846102",
     "BRANCH": "RISHIKESH",
@@ -170,7 +153,7 @@
     "SWIFT": null
   },
   "KNSB0010009": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010009",
     "MICR": "262846351",
     "BRANCH": "TANKPUR",
@@ -187,7 +170,7 @@
     "SWIFT": null
   },
   "KNSB0010010": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010010",
     "MICR": "263846303",
     "BRANCH": "TALLITAL",
@@ -204,7 +187,7 @@
     "SWIFT": null
   },
   "KNSB0010011": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010011",
     "MICR": "263846005",
     "BRANCH": "DCC",
@@ -221,7 +204,7 @@
     "SWIFT": null
   },
   "KNSB0010012": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010012",
     "MICR": "263846006",
     "BRANCH": "TP NAGAR",
@@ -238,7 +221,7 @@
     "SWIFT": null
   },
   "KNSB0010013": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010013",
     "MICR": "263846402",
     "BRANCH": "GADARPUR",
@@ -255,7 +238,7 @@
     "SWIFT": null
   },
   "KNSB0010014": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010014",
     "MICR": "262846302",
     "BRANCH": "KHATIMA",
@@ -272,7 +255,7 @@
     "SWIFT": null
   },
   "KNSB0010015": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010015",
     "MICR": "262846502",
     "BRANCH": "SITARJANG",
@@ -289,7 +272,7 @@
     "SWIFT": null
   },
   "KNSB0010016": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010016",
     "MICR": "262846202",
     "BRANCH": "BAZPUR",
@@ -306,7 +289,7 @@
     "SWIFT": null
   },
   "KNSB0010017": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010017",
     "MICR": "263846004",
     "BRANCH": "MANDI",
@@ -323,7 +306,7 @@
     "SWIFT": null
   },
   "KNSB0010018": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010018",
     "MICR": "244846402",
     "BRANCH": "RAMNAGAR",
@@ -340,7 +323,7 @@
     "SWIFT": null
   },
   "KNSB0010019": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010019",
     "MICR": "244846202",
     "BRANCH": "KASHIPUR",
@@ -357,7 +340,7 @@
     "SWIFT": null
   },
   "KNSB0010020": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010020",
     "MICR": "263846202",
     "BRANCH": "RUDRAPUR",
@@ -374,7 +357,7 @@
     "SWIFT": null
   },
   "KNSB0010021": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010021",
     "MICR": "263846502",
     "BRANCH": "KICHHA",
@@ -391,7 +374,7 @@
     "SWIFT": null
   },
   "KNSB0010022": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010022",
     "MICR": "262846802",
     "BRANCH": "PITHORAGARH",
@@ -408,7 +391,7 @@
     "SWIFT": null
   },
   "KNSB0010023": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010023",
     "MICR": "263846305",
     "BRANCH": "BHOWALI",
@@ -425,7 +408,7 @@
     "SWIFT": null
   },
   "KNSB0010024": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010024",
     "MICR": "248846003",
     "BRANCH": "DHARMPUR",
@@ -442,7 +425,7 @@
     "SWIFT": null
   },
   "KNSB0010025": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010025",
     "MICR": "248846002",
     "BRANCH": "DEHRADUN",
@@ -459,7 +442,7 @@
     "SWIFT": null
   },
   "KNSB0010026": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010026",
     "MICR": "248846004",
     "BRANCH": "PALTON BAZAR",
@@ -476,7 +459,7 @@
     "SWIFT": null
   },
   "KNSB0010027": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010027",
     "MICR": "249846002",
     "BRANCH": "HARIDWAR",
@@ -493,7 +476,7 @@
     "SWIFT": null
   },
   "KNSB0010028": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010028",
     "MICR": "246846802",
     "BRANCH": "KOTDWAR",
@@ -510,7 +493,7 @@
     "SWIFT": null
   },
   "KNSB0010029": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010029",
     "MICR": "263846602",
     "BRANCH": "RANIKHET",
@@ -527,7 +510,7 @@
     "SWIFT": null
   },
   "KNSB0010030": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010030",
     "MICR": "247846102",
     "BRANCH": "ROORKEE",
@@ -544,7 +527,7 @@
     "SWIFT": null
   },
   "KNSB0010031": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010031",
     "MICR": "246846902",
     "BRANCH": "SRINAGAR",
@@ -561,9 +544,9 @@
     "SWIFT": null
   },
   "KNSB0010032": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010032",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "UNCHAPUL",
     "ADDRESS": "KALADHUNGI ROAD UNCHAPUL HALDWANI",
     "STATE": "UTTARAKHAND",
@@ -578,9 +561,9 @@
     "SWIFT": null
   },
   "KNSB0010033": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010033",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "MITRA BHAWAN",
     "ADDRESS": "MITRA BHAWAN NAINITAL ROAD TIKONIA HALDWANI",
     "STATE": "UTTARAKHAND",
@@ -595,9 +578,9 @@
     "SWIFT": null
   },
   "KNSB0010034": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010034",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "RUDRAPUR 2",
     "ADDRESS": "GURU NANAK BALIKA INTER COLLEGE RUDRAPUR",
     "STATE": "UTTARAKHAND",
@@ -612,9 +595,9 @@
     "SWIFT": null
   },
   "KNSB0010035": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010035",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "KMOU BUS STATION",
     "ADDRESS": "TAKANA ROAD NEAR KMOU BUS STATION PITHORAGARH",
     "STATE": "UTTARAKHAND",
@@ -629,9 +612,9 @@
     "SWIFT": null
   },
   "KNSB0010036": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010036",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "GARUR",
     "ADDRESS": "NEAR KUMAUN PHARMACY GARUR BAGESHWAR",
     "STATE": "UTTARAKHAND",
@@ -646,9 +629,9 @@
     "SWIFT": null
   },
   "KNSB0010037": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010037",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "NIRANJANPUR",
     "ADDRESS": "OPPOSITE SABZI MANDI NIRANJANPUR DEHRADUN",
     "STATE": "UTTARAKHAND",
@@ -663,9 +646,9 @@
     "SWIFT": null
   },
   "KNSB0010038": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010038",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "DOIWALA",
     "ADDRESS": "H NO 207 DEHRADUN ROAD DOIWALA",
     "STATE": "UTTARAKHAND",
@@ -680,9 +663,9 @@
     "SWIFT": null
   },
   "KNSB0010039": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010039",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "JWALAPUR",
     "ADDRESS": "RAILWAY STATION ROAD JWALAPUR",
     "STATE": "UTTARAKHAND",
@@ -697,9 +680,9 @@
     "SWIFT": null
   },
   "KNSB0010040": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010040",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "RUDRAPRAYAG",
     "ADDRESS": "BADRINATH ROAD MAIN MARKET RUDRAPRAYAG",
     "STATE": "UTTARAKHAND",
@@ -714,9 +697,9 @@
     "SWIFT": null
   },
   "KNSB0010041": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010041",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "PAURI",
     "ADDRESS": "PAURI DHARA ROAD PAURI",
     "STATE": "UTTARAKHAND",
@@ -731,9 +714,9 @@
     "SWIFT": null
   },
   "KNSB0010042": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010042",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "DARSHANI GATE",
     "ADDRESS": "01 DARSHANI GATE NEAR HANUMAAN CHOWK DEHRADUN",
     "STATE": "UTTARAKHAND",
@@ -748,9 +731,9 @@
     "SWIFT": null
   },
   "KNSB0010043": {
-    "BANK": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "BANK": "Kurla Nagarik Sahakari Bank",
     "IFSC": "KNSB0010043",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "KULRI BAZAR",
     "ADDRESS": "KULRI BAZAR MALL ROAD MUSSOORIE",
     "STATE": "UTTARAKHAND",

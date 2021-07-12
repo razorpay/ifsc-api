@@ -11,30 +11,13 @@
     "IMPS": true,
     "CITY": "VASAI",
     "UPI": true,
-    "MICR": "NA",
+    "MICR": null,
     "RTGS": true,
     "NEFT": true,
     "SWIFT": null
   },
-  "BACB0000002": {
-    "BANK": null,
-    "IFSC": "BACB0000002",
-    "MICR": null,
-    "BRANCH": "HEAD OFFICE",
-    "ADDRESS": "CATHOLIC BANK BUILDING, HEAD OFFICE PAPDY, VASAI (WEST) -401207",
-    "STATE": "MAHARASHTRA",
-    "CONTACT": null,
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "THANE",
-    "CENTRE": "VASAI",
-    "DISTRICT": "VASAI",
-    "NEFT": false,
-    "IMPS": true,
-    "SWIFT": null
-  },
   "BACB0000003": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000003",
     "MICR": "400238003",
     "BRANCH": "PAPDY",
@@ -51,7 +34,7 @@
     "SWIFT": null
   },
   "BACB0000004": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000004",
     "MICR": "400238004",
     "BRANCH": "BANGLI",
@@ -68,7 +51,7 @@
     "SWIFT": null
   },
   "BACB0000005": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000005",
     "MICR": "400238005",
     "BRANCH": "HOLI",
@@ -85,7 +68,7 @@
     "SWIFT": null
   },
   "BACB0000006": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000006",
     "MICR": "400238006",
     "BRANCH": "MANICKPUR",
@@ -102,7 +85,7 @@
     "SWIFT": null
   },
   "BACB0000007": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000007",
     "MICR": "400238007",
     "BRANCH": "NANDAKHAL",
@@ -119,7 +102,7 @@
     "SWIFT": null
   },
   "BACB0000008": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000008",
     "MICR": "400238008",
     "BRANCH": "NIRMAL",
@@ -136,7 +119,7 @@
     "SWIFT": null
   },
   "BACB0000009": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000009",
     "MICR": "400238009",
     "BRANCH": "UMRALE",
@@ -153,7 +136,7 @@
     "SWIFT": null
   },
   "BACB0000010": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000010",
     "MICR": "400238010",
     "BRANCH": "AGASHI",
@@ -170,7 +153,7 @@
     "SWIFT": null
   },
   "BACB0000011": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000011",
     "MICR": "400238011",
     "BRANCH": "NAIGAON",
@@ -187,7 +170,7 @@
     "SWIFT": null
   },
   "BACB0000012": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000012",
     "MICR": "400238012",
     "BRANCH": "BHAYANDER",
@@ -204,7 +187,7 @@
     "SWIFT": null
   },
   "BACB0000013": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000013",
     "MICR": "400238013",
     "BRANCH": "UTTAN",
@@ -221,7 +204,7 @@
     "SWIFT": null
   },
   "BACB0000014": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000014",
     "MICR": "400238014",
     "BRANCH": "MIRA RD.",
@@ -238,7 +221,7 @@
     "SWIFT": null
   },
   "BACB0000015": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000015",
     "MICR": "400238015",
     "BRANCH": "ZENDA BAZAR",
@@ -255,7 +238,7 @@
     "SWIFT": null
   },
   "BACB0000016": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000016",
     "MICR": "400238016",
     "BRANCH": "THANE",
@@ -272,7 +255,7 @@
     "SWIFT": null
   },
   "BACB0000017": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000017",
     "MICR": "400238017",
     "BRANCH": "NALLASOPARA",
@@ -289,7 +272,7 @@
     "SWIFT": null
   },
   "BACB0000018": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000018",
     "MICR": "400238018",
     "BRANCH": "GOKHIVARE",
@@ -306,7 +289,7 @@
     "SWIFT": null
   },
   "BACB0000019": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000019",
     "MICR": "400238019",
     "BRANCH": "VIRAR",
@@ -323,7 +306,7 @@
     "SWIFT": null
   },
   "BACB0000020": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000020",
     "MICR": "400238020",
     "BRANCH": "MADINAKA",
@@ -340,7 +323,7 @@
     "SWIFT": null
   },
   "BACB0000021": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000021",
     "MICR": "400238021",
     "BRANCH": "GASS",
@@ -357,7 +340,7 @@
     "SWIFT": null
   },
   "BACB0000022": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000022",
     "MICR": "400238022",
     "BRANCH": "NANBHAT",
@@ -374,7 +357,7 @@
     "SWIFT": null
   },
   "BACB0000023": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000023",
     "MICR": "400238023",
     "BRANCH": "GIRIZ",
@@ -391,7 +374,7 @@
     "SWIFT": null
   },
   "BACB0000024": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000024",
     "MICR": "400238024",
     "BRANCH": "BHUIGAON",
@@ -408,7 +391,7 @@
     "SWIFT": null
   },
   "BACB0000025": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000025",
     "MICR": "400238025",
     "BRANCH": "ARNALA",
@@ -425,7 +408,7 @@
     "SWIFT": null
   },
   "BACB0000026": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000026",
     "MICR": "401238026",
     "BRANCH": "MAROL",
@@ -442,7 +425,7 @@
     "SWIFT": null
   },
   "BACB0000027": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000027",
     "MICR": "400238027",
     "BRANCH": "VASHI",
@@ -459,7 +442,7 @@
     "SWIFT": null
   },
   "BACB0000028": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000028",
     "MICR": "400238028",
     "BRANCH": "BORIVALI",
@@ -476,7 +459,7 @@
     "SWIFT": null
   },
   "BACB0000029": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000029",
     "MICR": "400238029",
     "BRANCH": "MALAD",
@@ -493,7 +476,7 @@
     "SWIFT": null
   },
   "BACB0000030": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000030",
     "MICR": "400238030",
     "BRANCH": "KALYAN",
@@ -510,7 +493,7 @@
     "SWIFT": null
   },
   "BACB0000031": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000031",
     "MICR": "400238031",
     "BRANCH": "KASHIMIRA",
@@ -527,7 +510,7 @@
     "SWIFT": null
   },
   "BACB0000032": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000032",
     "MICR": "400238032",
     "BRANCH": "SANTACRUZ KALINA",
@@ -544,7 +527,7 @@
     "SWIFT": null
   },
   "BACB0000033": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000033",
     "MICR": "400238033",
     "BRANCH": "EXTENSION COUNTER-MULGAON, VASAI WEST",
@@ -561,7 +544,7 @@
     "SWIFT": null
   },
   "BACB0000034": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000034",
     "MICR": "400238034",
     "BRANCH": "VIRAR (WEST)",
@@ -578,7 +561,7 @@
     "SWIFT": null
   },
   "BACB0000035": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000035",
     "MICR": "400238035",
     "BRANCH": "NAIGAON (EAST)",
@@ -595,7 +578,7 @@
     "SWIFT": null
   },
   "BACB0000036": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000036",
     "MICR": "400238036",
     "BRANCH": "WADA",
@@ -612,7 +595,7 @@
     "SWIFT": null
   },
   "BACB0000037": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000037",
     "MICR": "400238037",
     "BRANCH": "NAVGHAR ROAD VASAI EAST",
@@ -629,7 +612,7 @@
     "SWIFT": null
   },
   "BACB0000038": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000038",
     "MICR": "400238038",
     "BRANCH": "SAPHALE EAST",
@@ -646,7 +629,7 @@
     "SWIFT": null
   },
   "BACB0000039": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000039",
     "MICR": "400238039",
     "BRANCH": "PALGHAR WEST",
@@ -663,7 +646,7 @@
     "SWIFT": null
   },
   "BACB0000040": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000040",
     "MICR": "400238040",
     "BRANCH": "DAHANU WEST",
@@ -680,7 +663,7 @@
     "SWIFT": null
   },
   "BACB0000041": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000041",
     "MICR": "400238041",
     "BRANCH": "KAMAN",
@@ -697,7 +680,7 @@
     "SWIFT": null
   },
   "BACB0000042": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000042",
     "MICR": "400238042",
     "BRANCH": "AMBADI ROAD",
@@ -714,7 +697,7 @@
     "SWIFT": null
   },
   "BACB0000043": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000043",
     "MICR": "400238043",
     "BRANCH": "NALLASOPARA EAST NEW LINK ROAD",
@@ -731,7 +714,7 @@
     "SWIFT": null
   },
   "BACB0000044": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000044",
     "MICR": "400238044",
     "BRANCH": "BHABOLA",
@@ -748,7 +731,7 @@
     "SWIFT": null
   },
   "BACB0000045": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000045",
     "MICR": "400238045",
     "BRANCH": "NALLASOPARA WEST",
@@ -765,7 +748,7 @@
     "SWIFT": null
   },
   "BACB0000046": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000046",
     "MICR": "400238046",
     "BRANCH": "BHAYANDER EAST",
@@ -782,7 +765,7 @@
     "SWIFT": null
   },
   "BACB0000047": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000047",
     "MICR": "400238047",
     "BRANCH": "GHODBUNDER BRANCH",
@@ -799,7 +782,7 @@
     "SWIFT": null
   },
   "BACB0000048": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000048",
     "MICR": "400238048",
     "BRANCH": "TALASARI BRANCH",
@@ -816,7 +799,7 @@
     "SWIFT": null
   },
   "BACB0000049": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000049",
     "MICR": "400238049",
     "BRANCH": "SATIVALI BRANCH",
@@ -833,7 +816,7 @@
     "SWIFT": null
   },
   "BACB0000050": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000050",
     "MICR": "400238050",
     "BRANCH": "KELVE BRANCH",
@@ -850,7 +833,7 @@
     "SWIFT": null
   },
   "BACB0000051": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000051",
     "MICR": "400238051",
     "BRANCH": "CHARKOP KANDIVALI BRANCH",
@@ -867,7 +850,7 @@
     "SWIFT": null
   },
   "BACB0000052": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000052",
     "MICR": "400238052",
     "BRANCH": "BANDRA WEST BRANCH",
@@ -884,7 +867,7 @@
     "SWIFT": null
   },
   "BACB0000053": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000053",
     "MICR": "400238053",
     "BRANCH": "BHIWANDI BRANCH",
@@ -901,7 +884,7 @@
     "SWIFT": null
   },
   "BACB0000054": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000054",
     "MICR": "400238054",
     "BRANCH": "CHANDANSAR VIRAR BRANCH",
@@ -918,7 +901,7 @@
     "SWIFT": null
   },
   "BACB0000055": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000055",
     "MICR": "400238055",
     "BRANCH": "DAHISAR WEST BRANCH",
@@ -935,7 +918,7 @@
     "SWIFT": null
   },
   "BACB0000057": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000057",
     "MICR": "400238057",
     "BRANCH": "ST. JOSEPH EXTENSION COUNTER",
@@ -952,7 +935,7 @@
     "SWIFT": null
   },
   "BACB0000059": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000059",
     "MICR": "400238059",
     "BRANCH": "DADAR WEST BRANCH",
@@ -969,7 +952,7 @@
     "SWIFT": null
   },
   "BACB0000060": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000060",
     "MICR": "400238060",
     "BRANCH": "MULUND WEST BRANCH",
@@ -986,7 +969,7 @@
     "SWIFT": null
   },
   "BACB0000061": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000061",
     "MICR": "400238061",
     "BRANCH": "PALLI NAIGAON WEST BRANCH",
@@ -1003,7 +986,7 @@
     "SWIFT": null
   },
   "BACB0000102": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000102",
     "MICR": "401238102",
     "BRANCH": "BOISAR",
@@ -1020,7 +1003,7 @@
     "SWIFT": null
   },
   "BACB0000111": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000111",
     "MICR": "411089252",
     "BRANCH": "PUNE",
@@ -1037,9 +1020,9 @@
     "SWIFT": null
   },
   "BACB0000112": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000112",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "PUNE",
     "ADDRESS": "SHOWROOM NO. B, C WING, KPCT MEGHA COMMERCIAL COMPLEX, FATIMANAGAR, WANAVADI, PUNE - 411 013",
     "STATE": "MAHARASHTRA",
@@ -1054,7 +1037,7 @@
     "SWIFT": null
   },
   "BACB0000113": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000113",
     "MICR": "411238004",
     "BRANCH": "CHAKAN BRANCH",
@@ -1071,9 +1054,9 @@
     "SWIFT": null
   },
   "BACB0000121": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000121",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "NASIK",
     "ADDRESS": "SK OPEN MALL, NEXT TO BYK COLLEGE, COLLEGE RD, NASIK 422 005",
     "STATE": "MAHARASHTRA",
@@ -1088,7 +1071,7 @@
     "SWIFT": null
   },
   "BACB0000122": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000122",
     "MICR": "422238003",
     "BRANCH": "NASHIK ROAD BRANCH",
@@ -1105,7 +1088,7 @@
     "SWIFT": null
   },
   "BACB0000123": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000123",
     "MICR": "414238002",
     "BRANCH": "AHMEDNAGAR BRANCH",
@@ -1122,7 +1105,7 @@
     "SWIFT": null
   },
   "BACB0000124": {
-    "BANK": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "BANK": "Bassein Catholic Co-operative Bank",
     "IFSC": "BACB0000124",
     "MICR": "422238004",
     "BRANCH": "SAINATH NAGAR NASHIK BRANCH",

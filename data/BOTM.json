@@ -1,8 +1,8 @@
 {
   "BOTM0003611": {
-    "BANK": "Bank of Tokyo Mitsubishi",
+    "BANK": "MUFG Bank",
     "IFSC": "BOTM0003611",
-    "BRANCH": "Bank of Tokyo Mitsubishi IMPS",
+    "BRANCH": "MUFG Bank IMPS",
     "CENTRE": "NEW DELHI",
     "DISTRICT": "NEW DELHI",
     "STATE": "DELHI",
@@ -17,7 +17,7 @@
     "SWIFT": null
   },
   "BOTM0BL3626": {
-    "BANK": "MUFG BANK, LTD",
+    "BANK": "MUFG Bank",
     "IFSC": "BOTM0BL3626",
     "MICR": "560033002",
     "BRANCH": "BANGALORE",
@@ -34,9 +34,9 @@
     "SWIFT": null
   },
   "BOTM0CN3615": {
-    "BANK": "MUFG BANK, LTD",
+    "BANK": "MUFG Bank",
     "IFSC": "BOTM0CN3615",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "CHENNAI BRANCH",
     "ADDRESS": "SESHACHALAM CENTRE, 6TH AND 7TH FLOOR DOOR NO. 636 BY 1, ANNA SALAI NANDANAM CHENNAI 600035",
     "STATE": "TAMIL NADU",
@@ -51,9 +51,9 @@
     "SWIFT": null
   },
   "BOTM0MB3612": {
-    "BANK": "MUFG BANK, LTD",
+    "BANK": "MUFG Bank",
     "IFSC": "BOTM0MB3612",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "MUMBAI",
     "ADDRESS": "HOECHST HOUSE,15TH FLOOR,VINAY K SHAH MARG,NARIMAN POINT,MUMBAI 400 005",
     "STATE": "MAHARASHTRA",
@@ -68,9 +68,9 @@
     "SWIFT": null
   },
   "BOTM0ND3611": {
-    "BANK": "MUFG BANK, LTD",
+    "BANK": "MUFG Bank",
     "IFSC": "BOTM0ND3611",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "NEW DELHI BRANCH",
     "ADDRESS": "The Bank of Tokyo-Mitsubishi UFJ Ltd.,Worldmark 2, 5th Floor,Asset 8, Aerocity, N.H. 8,New Delhi - 110037",
     "STATE": "DELHI",
@@ -85,9 +85,9 @@
     "SWIFT": null
   },
   "BOTM0NEEMRA": {
-    "BANK": "MUFG BANK, LTD",
+    "BANK": "MUFG Bank",
     "IFSC": "BOTM0NEEMRA",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "NEEMRANA",
     "ADDRESS": "G47,INDUSTRIAL AREA,NEEMRANA,TEHSIL BEHROD,DISTT.ALWAR 301705,RAJASTHAN",
     "STATE": "RAJASTHAN",

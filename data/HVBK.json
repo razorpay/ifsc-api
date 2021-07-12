@@ -1,6 +1,6 @@
 {
   "HVBK0000001": {
-    "BANK": "WOORI BANK",
+    "BANK": "Woori Bank",
     "IFSC": "HVBK0000001",
     "MICR": "600240253",
     "BRANCH": "CHENNAI BRANCH",
@@ -17,7 +17,7 @@
     "SWIFT": null
   },
   "HVBK0000002": {
-    "BANK": "WOORI BANK",
+    "BANK": "Woori Bank",
     "IFSC": "HVBK0000002",
     "MICR": "110240272",
     "BRANCH": "GURGAON BRANCH",
@@ -34,7 +34,7 @@
     "SWIFT": null
   },
   "HVBK0000003": {
-    "BANK": "WOORI BANK",
+    "BANK": "Woori Bank",
     "IFSC": "HVBK0000003",
     "MICR": "400240277",
     "BRANCH": "MUMBAI BRANCH",
@@ -51,9 +51,9 @@
     "SWIFT": null
   },
   "HVBK0999999": {
-    "BANK": "WOORI BANK",
+    "BANK": "Woori Bank",
     "IFSC": "HVBK0999999",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "HO TREASURY",
     "ADDRESS": "UNIT NO 601, 6TH FLOOR, BIRLA CENTURION, CENTURY MILLS COMPOUND, PANDURANG BUDHKAR MARG, WORLI, MUMBAI - 400030",
     "STATE": "MAHARASHTRA",
@@ -68,7 +68,7 @@
     "SWIFT": null
   },
   "HVBK0NEFTSC": {
-    "BANK": null,
+    "BANK": "Woori Bank",
     "IFSC": "HVBK0NEFTSC",
     "MICR": null,
     "BRANCH": "RTGS-HO",

@@ -16,25 +16,8 @@
     "NEFT": true,
     "SWIFT": null
   },
-  "SHBK0000002": {
-    "BANK": null,
-    "IFSC": "SHBK0000002",
-    "MICR": "400659002",
-    "BRANCH": "MUMBAI BRANCH",
-    "ADDRESS": "Peninsula Corporate Park, 701,702, Tower 1, Ganpatrao Kadam Marg, Lower Parel, Mumbai  400013",
-    "STATE": "MAHARASHTRA",
-    "CONTACT": null,
-    "UPI": false,
-    "RTGS": true,
-    "CITY": "MUMBAI",
-    "CENTRE": "MUMBAI",
-    "DISTRICT": "MUMBAI",
-    "NEFT": false,
-    "IMPS": true,
-    "SWIFT": null
-  },
   "SHBK0000003": {
-    "BANK": "SHINHAN BANK",
+    "BANK": "Shinhan Bank",
     "IFSC": "SHBK0000003",
     "MICR": "400659002",
     "BRANCH": "MUMBAI BRANCH",
@@ -51,7 +34,7 @@
     "SWIFT": null
   },
   "SHBK0000004": {
-    "BANK": "SHINHAN BANK",
+    "BANK": "Shinhan Bank",
     "IFSC": "SHBK0000004",
     "MICR": "110017254",
     "BRANCH": "NEW DELHI BRANCH",
@@ -68,7 +51,7 @@
     "SWIFT": null
   },
   "SHBK0000005": {
-    "BANK": "SHINHAN BANK",
+    "BANK": "Shinhan Bank",
     "IFSC": "SHBK0000005",
     "MICR": "632659102",
     "BRANCH": "VELLORE BRANCH",
@@ -85,9 +68,9 @@
     "SWIFT": null
   },
   "SHBK0000006": {
-    "BANK": "SHINHAN BANK",
+    "BANK": "Shinhan Bank",
     "IFSC": "SHBK0000006",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "PUNE BRANCH",
     "ADDRESS": "SHINHAN BANK PUNE BRANCH, GROUND FLOOR, RED BUILDING, GALAXY SOCIETY, PLOT NO 2, BOAT CLUB ROAD, PUNE 411001",
     "STATE": "MAHARASHTRA",
@@ -102,9 +85,9 @@
     "SWIFT": null
   },
   "SHBK0000007": {
-    "BANK": "SHINHAN BANK",
+    "BANK": "Shinhan Bank",
     "IFSC": "SHBK0000007",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "RANGA REDDY BRANCH",
     "ADDRESS": "SHINHAN BANK,RANGA REDDY BRANCH,UNIT L1 08,1ST FLOOR,SURVEY NO.133,SLN TERMINUS,GACHIBOWLI,SERILINGAMPALLY MANDAL,RANGA REDDY DISTRICT,TELANGANA STATE 500032,INDIA",
     "STATE": "TELANGANA",
@@ -119,9 +102,9 @@
     "SWIFT": null
   },
   "SHBK0000008": {
-    "BANK": "SHINHAN BANK",
+    "BANK": "Shinhan Bank",
     "IFSC": "SHBK0000008",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "AHMEDABAD BRANCH",
     "ADDRESS": "SHINHAN BANK,AHMEDABAD BRANCH,SHAPATH V,FIRST FLOOR,UNIT 2 AND 3,BESIDE CROWNE PLAZA HOTEL,OPP KARNAVATI CLUB,SG ROAD,AHMEDABAD -380018",
     "STATE": "GUJARAT",

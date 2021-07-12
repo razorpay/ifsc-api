@@ -11,32 +11,15 @@
     "IMPS": true,
     "CITY": "CUDDAPAH",
     "UPI": true,
-    "MICR": "NA",
+    "MICR": null,
     "RTGS": true,
     "NEFT": true,
     "SWIFT": null
   },
-  "APGB00000SC": {
-    "BANK": null,
-    "IFSC": "APGB00000SC",
-    "MICR": "NA",
-    "BRANCH": "SERVICE CENTRE",
-    "ADDRESS": "POST BOX 65,OPP OFFICERS CLUB,KADAPA",
-    "STATE": "ANDHRA PRADESH",
-    "CONTACT": null,
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "KADAPA",
-    "CENTRE": "KADAPA",
-    "DISTRICT": "KADAPA",
-    "NEFT": false,
-    "IMPS": true,
-    "SWIFT": null
-  },
   "APGB0001000": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001000",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "ANANTAPURAM RO",
     "ADDRESS": "ANDHRA PRAGATHI GRAMEENA BANK,REGIONAL OFFICE,OPP ZILLA PARISHAD OFFICE,DR.AMBEDKAR ROAD,ANANTAPURAM-515001",
     "STATE": "ANDHRA PRADESH",
@@ -51,7 +34,7 @@
     "SWIFT": null
   },
   "APGB0001001": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001001",
     "MICR": "515703103",
     "BRANCH": "LEPAKSHI",
@@ -68,7 +51,7 @@
     "SWIFT": null
   },
   "APGB0001002": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001002",
     "MICR": "515703005",
     "BRANCH": "ANANTAPUR  MAIN BRANCH",
@@ -85,7 +68,7 @@
     "SWIFT": null
   },
   "APGB0001003": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001003",
     "MICR": "515703623",
     "BRANCH": "MUDDINAYANIPALLI",
@@ -102,7 +85,7 @@
     "SWIFT": null
   },
   "APGB0001004": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001004",
     "MICR": "515703823",
     "BRANCH": "NUTHIMADUGU",
@@ -119,7 +102,7 @@
     "SWIFT": null
   },
   "APGB0001005": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001005",
     "MICR": "515703725",
     "BRANCH": "MARALA",
@@ -136,7 +119,7 @@
     "SWIFT": null
   },
   "APGB0001006": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001006",
     "MICR": "515703403",
     "BRANCH": "A.KONDAPURAM",
@@ -153,7 +136,7 @@
     "SWIFT": null
   },
   "APGB0001007": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001007",
     "MICR": "515703522",
     "BRANCH": "PAMIDI",
@@ -170,7 +153,7 @@
     "SWIFT": null
   },
   "APGB0001008": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001008",
     "MICR": "515703503",
     "BRANCH": "KALASAMUDRAM",
@@ -187,7 +170,7 @@
     "SWIFT": null
   },
   "APGB0001009": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001009",
     "MICR": "515703523",
     "BRANCH": "RAYALACHERUVU",
@@ -204,7 +187,7 @@
     "SWIFT": null
   },
   "APGB0001010": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001010",
     "MICR": "515703843",
     "BRANCH": "KODIKONDA",
@@ -221,7 +204,7 @@
     "SWIFT": null
   },
   "APGB0001011": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001011",
     "MICR": "515703665",
     "BRANCH": "ROLLA",
@@ -238,7 +221,7 @@
     "SWIFT": null
   },
   "APGB0001012": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001012",
     "MICR": "515703744",
     "BRANCH": "GUGUDU",
@@ -255,7 +238,7 @@
     "SWIFT": null
   },
   "APGB0001013": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001013",
     "MICR": "515703783",
     "BRANCH": "RAMAPURAM(A)",
@@ -272,7 +255,7 @@
     "SWIFT": null
   },
   "APGB0001014": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001014",
     "MICR": "515703702",
     "BRANCH": "NALLAMADA",
@@ -289,7 +272,7 @@
     "SWIFT": null
   },
   "APGB0001015": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001015",
     "MICR": "515703703",
     "BRANCH": "OBULA DEVARA CHERUVU",
@@ -306,7 +289,7 @@
     "SWIFT": null
   },
   "APGB0001016": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001016",
     "MICR": "515703624",
     "BRANCH": "SHETTUR",
@@ -323,7 +306,7 @@
     "SWIFT": null
   },
   "APGB0001017": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001017",
     "MICR": "515703592",
     "BRANCH": "D.HIREHAL",
@@ -340,7 +323,7 @@
     "SWIFT": null
   },
   "APGB0001018": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001018",
     "MICR": "515703583",
     "BRANCH": "GUMMAGATTA",
@@ -357,7 +340,7 @@
     "SWIFT": null
   },
   "APGB0001019": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001019",
     "MICR": "515703593",
     "BRANCH": "SOMALAPURAM",
@@ -374,7 +357,7 @@
     "SWIFT": null
   },
   "APGB0001020": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001020",
     "MICR": "515703604",
     "BRANCH": "PEDABALLI",
@@ -391,7 +374,7 @@
     "SWIFT": null
   },
   "APGB0001021": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001021",
     "MICR": "515703504",
     "BRANCH": "GANDLAPENTA",
@@ -408,7 +391,7 @@
     "SWIFT": null
   },
   "APGB0001022": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001022",
     "MICR": "515703532",
     "BRANCH": "NAMBULA POOLAKUNTA",
@@ -425,7 +408,7 @@
     "SWIFT": null
   },
   "APGB0001023": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001023",
     "MICR": "515703726",
     "BRANCH": "PAMUTHURTHI",
@@ -442,7 +425,7 @@
     "SWIFT": null
   },
   "APGB0001024": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001024",
     "MICR": "515703642",
     "BRANCH": "PERUR",
@@ -459,7 +442,7 @@
     "SWIFT": null
   },
   "APGB0001025": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001025",
     "MICR": "515703302",
     "BRANCH": "GUNTAKAL",
@@ -476,7 +459,7 @@
     "SWIFT": null
   },
   "APGB0001026": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001026",
     "MICR": "515703405",
     "BRANCH": "PEDDA PAPPUR",
@@ -493,7 +476,7 @@
     "SWIFT": null
   },
   "APGB0001027": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001027",
     "MICR": "515703406",
     "BRANCH": "PUTLUR",
@@ -510,7 +493,7 @@
     "SWIFT": null
   },
   "APGB0001028": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001028",
     "MICR": "515703727",
     "BRANCH": "N.S.GATE",
@@ -527,7 +510,7 @@
     "SWIFT": null
   },
   "APGB0001029": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001029",
     "MICR": "515703202",
     "BRANCH": "DHARMAVARAM",
@@ -544,7 +527,7 @@
     "SWIFT": null
   },
   "APGB0001030": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001030",
     "MICR": "515703622",
     "BRANCH": "KALYANDURG",
@@ -561,7 +544,7 @@
     "SWIFT": null
   },
   "APGB0001031": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001031",
     "MICR": "515703582",
     "BRANCH": "RAYADURG",
@@ -578,7 +561,7 @@
     "SWIFT": null
   },
   "APGB0001032": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001032",
     "MICR": "515703502",
     "BRANCH": "KADIRI - MAIN BRANCH",
@@ -595,7 +578,7 @@
     "SWIFT": null
   },
   "APGB0001033": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001033",
     "MICR": "515703728",
     "BRANCH": "KANUMUKKALA",
@@ -612,7 +595,7 @@
     "SWIFT": null
   },
   "APGB0001034": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001034",
     "MICR": "515703824",
     "BRANCH": "THIMMAPURAM",
@@ -629,7 +612,7 @@
     "SWIFT": null
   },
   "APGB0001035": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001035",
     "MICR": "515703602",
     "BRANCH": "PUTTAPARTHI",
@@ -646,7 +629,7 @@
     "SWIFT": null
   },
   "APGB0001036": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001036",
     "MICR": "515703584",
     "BRANCH": "BHOOPASAMUDRAM",
@@ -663,7 +646,7 @@
     "SWIFT": null
   },
   "APGB0001037": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001037",
     "MICR": "515703543",
     "BRANCH": "PATHAKOTHACHERUVU",
@@ -680,7 +663,7 @@
     "SWIFT": null
   },
   "APGB0001038": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001038",
     "MICR": "515703404",
     "BRANCH": "CHEEMALAVAGUPALLI",
@@ -697,7 +680,7 @@
     "SWIFT": null
   },
   "APGB0001039": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001039",
     "MICR": "515703729",
     "BRANCH": "BANDAMEEDAPALLI",
@@ -714,7 +697,7 @@
     "SWIFT": null
   },
   "APGB0001040": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001040",
     "MICR": "515703706",
     "BRANCH": "NALLAGUTLAPALLI",
@@ -731,7 +714,7 @@
     "SWIFT": null
   },
   "APGB0001041": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001041",
     "MICR": "515703762",
     "BRANCH": "TALPULA",
@@ -748,7 +731,7 @@
     "SWIFT": null
   },
   "APGB0001042": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001042",
     "MICR": "515703662",
     "BRANCH": "MADAKASIRA",
@@ -765,7 +748,7 @@
     "SWIFT": null
   },
   "APGB0001043": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001043",
     "MICR": "515703682",
     "BRANCH": "GORANTLA",
@@ -782,7 +765,7 @@
     "SWIFT": null
   },
   "APGB0001044": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001044",
     "MICR": "515703730",
     "BRANCH": "TALAMARLA",
@@ -799,7 +782,7 @@
     "SWIFT": null
   },
   "APGB0001045": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001045",
     "MICR": "515703842",
     "BRANCH": "GOWNIVARIPALLI",
@@ -816,7 +799,7 @@
     "SWIFT": null
   },
   "APGB0001046": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001046",
     "MICR": "515703667",
     "BRANCH": "NEELAKANTAPURAM",
@@ -833,7 +816,7 @@
     "SWIFT": null
   },
   "APGB0001047": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001047",
     "MICR": "515703704",
     "BRANCH": "NALLACHERUVU",
@@ -850,7 +833,7 @@
     "SWIFT": null
   },
   "APGB0001048": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001048",
     "MICR": "515703663",
     "BRANCH": "HEMAVATHI",
@@ -867,7 +850,7 @@
     "SWIFT": null
   },
   "APGB0001049": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001049",
     "MICR": "515703742",
     "BRANCH": "GARLADINNE",
@@ -884,7 +867,7 @@
     "SWIFT": null
   },
   "APGB0001050": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001050",
     "MICR": "515703782",
     "BRANCH": "BATHALAPALLI",
@@ -901,7 +884,7 @@
     "SWIFT": null
   },
   "APGB0001051": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001051",
     "MICR": "515703625",
     "BRANCH": "THAGGUPARTHI",
@@ -918,7 +901,7 @@
     "SWIFT": null
   },
   "APGB0001052": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001052",
     "MICR": "515703745",
     "BRANCH": "B.PAPPUR",
@@ -935,7 +918,7 @@
     "SWIFT": null
   },
   "APGB0001053": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001053",
     "MICR": "515703786",
     "BRANCH": "DADITHOTA",
@@ -952,7 +935,7 @@
     "SWIFT": null
   },
   "APGB0001054": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001054",
     "MICR": "515703626",
     "BRANCH": "DURADAKUNTA",
@@ -969,7 +952,7 @@
     "SWIFT": null
   },
   "APGB0001055": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001055",
     "MICR": "515703844",
     "BRANCH": "BUDILI",
@@ -986,7 +969,7 @@
     "SWIFT": null
   },
   "APGB0001056": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001056",
     "MICR": "515703705",
     "BRANCH": "AMADAGURU",
@@ -1003,7 +986,7 @@
     "SWIFT": null
   },
   "APGB0001057": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001057",
     "MICR": "515703526",
     "BRANCH": "TARIMALA",
@@ -1020,7 +1003,7 @@
     "SWIFT": null
   },
   "APGB0001058": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001058",
     "MICR": "515703010",
     "BRANCH": "GANDLAPARTHI",
@@ -1037,7 +1020,7 @@
     "SWIFT": null
   },
   "APGB0001059": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001059",
     "MICR": "515703011",
     "BRANCH": "KUDAIR",
@@ -1054,7 +1037,7 @@
     "SWIFT": null
   },
   "APGB0001060": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001060",
     "MICR": "515703544",
     "BRANCH": "RAKETLA",
@@ -1071,7 +1054,7 @@
     "SWIFT": null
   },
   "APGB0001061": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001061",
     "MICR": "515703563",
     "BRANCH": "UDDEHAL",
@@ -1088,7 +1071,7 @@
     "SWIFT": null
   },
   "APGB0001062": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001062",
     "MICR": "515703545",
     "BRANCH": "PALTHUR",
@@ -1105,7 +1088,7 @@
     "SWIFT": null
   },
   "APGB0001063": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001063",
     "MICR": "515703722",
     "BRANCH": "KANAGANAPALLI",
@@ -1122,7 +1105,7 @@
     "SWIFT": null
   },
   "APGB0001064": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001064",
     "MICR": "515703014",
     "BRANCH": "B.KOTHAPALLI",
@@ -1139,7 +1122,7 @@
     "SWIFT": null
   },
   "APGB0001065": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001065",
     "MICR": "515703542",
     "BRANCH": "URAVAKONDA",
@@ -1156,7 +1139,7 @@
     "SWIFT": null
   },
   "APGB0001066": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001066",
     "MICR": "515703684",
     "BRANCH": "PEDDAMANTHUR",
@@ -1173,7 +1156,7 @@
     "SWIFT": null
   },
   "APGB0001067": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001067",
     "MICR": "515703527",
     "BRANCH": "EDDULAPALLI",
@@ -1190,7 +1173,7 @@
     "SWIFT": null
   },
   "APGB0001068": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001068",
     "MICR": "515703303",
     "BRANCH": "GADEKAL",
@@ -1207,7 +1190,7 @@
     "SWIFT": null
   },
   "APGB0001069": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001069",
     "MICR": "515703009",
     "BRANCH": "JELLIPALLI",
@@ -1224,7 +1207,7 @@
     "SWIFT": null
   },
   "APGB0001070": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001070",
     "MICR": "515703002",
     "BRANCH": "ANANTPUR -AMBEDKAR ROAD BRANCH",
@@ -1241,7 +1224,7 @@
     "SWIFT": null
   },
   "APGB0001071": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001071",
     "MICR": "515703004",
     "BRANCH": "ANANTAPUR-PTC BRANCH",
@@ -1258,7 +1241,7 @@
     "SWIFT": null
   },
   "APGB0001072": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001072",
     "MICR": "515703743",
     "BRANCH": "NARPALA",
@@ -1275,7 +1258,7 @@
     "SWIFT": null
   },
   "APGB0001073": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001073",
     "MICR": "515703683",
     "BRANCH": "PENUKONDA",
@@ -1292,7 +1275,7 @@
     "SWIFT": null
   },
   "APGB0001074": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001074",
     "MICR": "515703512",
     "BRANCH": "MUDIGUBBA",
@@ -1309,7 +1292,7 @@
     "SWIFT": null
   },
   "APGB0001075": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001075",
     "MICR": "515703524",
     "BRANCH": "GOOTY",
@@ -1326,7 +1309,7 @@
     "SWIFT": null
   },
   "APGB0001076": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001076",
     "MICR": "515703102",
     "BRANCH": "HINDUPUR",
@@ -1343,7 +1326,7 @@
     "SWIFT": null
   },
   "APGB0001077": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001077",
     "MICR": "515703402",
     "BRANCH": "TADPATRI",
@@ -1360,7 +1343,7 @@
     "SWIFT": null
   },
   "APGB0001078": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001078",
     "MICR": "515703723",
     "BRANCH": "KOTHACHERUVU",
@@ -1377,7 +1360,7 @@
     "SWIFT": null
   },
   "APGB0001079": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001079",
     "MICR": "515703664",
     "BRANCH": "AGALI",
@@ -1394,7 +1377,7 @@
     "SWIFT": null
   },
   "APGB0001080": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001080",
     "MICR": "515703562",
     "BRANCH": "KANEKAL",
@@ -1411,7 +1394,7 @@
     "SWIFT": null
   },
   "APGB0001081": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001081",
     "MICR": "515703003",
     "BRANCH": "MARUTHI-NAGAR BRANCH,ANANTAPUR",
@@ -1428,7 +1411,7 @@
     "SWIFT": null
   },
   "APGB0001082": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001082",
     "MICR": "515703006",
     "BRANCH": "NIRMALA CONVENT, REVENUE COLONY, ANANTAPUR",
@@ -1445,7 +1428,7 @@
     "SWIFT": null
   },
   "APGB0001083": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001083",
     "MICR": "515703007",
     "BRANCH": "SAI JR. COLLEGE, TARAKNADH NGR, ANANTAPUR",
@@ -1462,7 +1445,7 @@
     "SWIFT": null
   },
   "APGB0001084": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001084",
     "MICR": "515703008",
     "BRANCH": "MEDICAL COLLEGE, GOVT. GEN. HOSP., ANANTAPUR",
@@ -1479,7 +1462,7 @@
     "SWIFT": null
   },
   "APGB0001085": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001085",
     "MICR": "515703203",
     "BRANCH": "MAMILLAPALLI",
@@ -1496,7 +1479,7 @@
     "SWIFT": null
   },
   "APGB0001086": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001086",
     "MICR": "515703505",
     "BRANCH": "REKKAMANU",
@@ -1513,7 +1496,7 @@
     "SWIFT": null
   },
   "APGB0001087": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001087",
     "MICR": "515703525",
     "BRANCH": "PEDDAVADUGUR",
@@ -1530,7 +1513,7 @@
     "SWIFT": null
   },
   "APGB0001088": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001088",
     "MICR": "515703746",
     "BRANCH": "BUKKARAYA SAMUDRAM",
@@ -1547,7 +1530,7 @@
     "SWIFT": null
   },
   "APGB0001089": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001089",
     "MICR": "515703012",
     "BRANCH": "ANANTAPUR-VENUGOPAL NAGAR",
@@ -1564,7 +1547,7 @@
     "SWIFT": null
   },
   "APGB0001090": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001090",
     "MICR": "515703506",
     "BRANCH": "M. G. ROAD, KADIRI",
@@ -1581,7 +1564,7 @@
     "SWIFT": null
   },
   "APGB0001091": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001091",
     "MICR": "515703548",
     "BRANCH": "NAGASAMUDRAM",
@@ -1598,7 +1581,7 @@
     "SWIFT": null
   },
   "APGB0001092": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001092",
     "MICR": "515703845",
     "BRANCH": "KODURU",
@@ -1615,7 +1598,7 @@
     "SWIFT": null
   },
   "APGB0001093": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001093",
     "MICR": "515703707",
     "BRANCH": "MOHAMMADABAD",
@@ -1632,7 +1615,7 @@
     "SWIFT": null
   },
   "APGB0001094": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001094",
     "MICR": "515703627",
     "BRANCH": "ENUMULADODDI",
@@ -1649,7 +1632,7 @@
     "SWIFT": null
   },
   "APGB0001095": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001095",
     "MICR": "515703785",
     "BRANCH": "CHIGICHERLA",
@@ -1666,7 +1649,7 @@
     "SWIFT": null
   },
   "APGB0001096": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001096",
     "MICR": "515703628",
     "BRANCH": "GANGAVARAM",
@@ -1683,7 +1666,7 @@
     "SWIFT": null
   },
   "APGB0001097": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001097",
     "MICR": "515703594",
     "BRANCH": "GODISELAPALLI",
@@ -1700,7 +1683,7 @@
     "SWIFT": null
   },
   "APGB0001098": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001098",
     "MICR": "515703668",
     "BRANCH": "BASAVANAHALLI",
@@ -1717,7 +1700,7 @@
     "SWIFT": null
   },
   "APGB0001099": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001099",
     "MICR": "515703666",
     "BRANCH": "RATNAGIRI",
@@ -1734,7 +1717,7 @@
     "SWIFT": null
   },
   "APGB0001100": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001100",
     "MICR": "515703724",
     "BRANCH": "RAMAGIRI",
@@ -1751,7 +1734,7 @@
     "SWIFT": null
   },
   "APGB0001101": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001101",
     "MICR": "515703013",
     "BRANCH": "TAPOVANAM-A",
@@ -1768,7 +1751,7 @@
     "SWIFT": null
   },
   "APGB0001102": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001102",
     "MICR": "515703603",
     "BRANCH": "VENGALAMMA CHERUVU",
@@ -1785,7 +1768,7 @@
     "SWIFT": null
   },
   "APGB0001103": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001103",
     "MICR": "515703204",
     "BRANCH": "DHARMAVARAM KOTHAPET",
@@ -1802,7 +1785,7 @@
     "SWIFT": null
   },
   "APGB0001104": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001104",
     "MICR": "515703629",
     "BRANCH": "BELUGUPPA",
@@ -1819,9 +1802,9 @@
     "SWIFT": null
   },
   "APGB0001105": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001105",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "VANAVOLU",
     "ADDRESS": "GORANTLA MANDAL",
     "STATE": "ANDHRA PRADESH",
@@ -1836,9 +1819,9 @@
     "SWIFT": null
   },
   "APGB0001106": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001106",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "HANUMESH NAGAR",
     "ADDRESS": "HANUMESH NAGAR GUNTAKAL",
     "STATE": "ANDHRA PRADESH",
@@ -1853,9 +1836,9 @@
     "SWIFT": null
   },
   "APGB0001107": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001107",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "KALYANADURG ROAD",
     "ADDRESS": "DNO 6/64/2 GANESH NAGAR KALYANADURG ROAD ANANTAPURAM",
     "STATE": "ANDHRA PRADESH",
@@ -1870,9 +1853,9 @@
     "SWIFT": null
   },
   "APGB0001108": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001108",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "VIDYUTH NAGAR ANANTAPURAM",
     "ADDRESS": "D.NO 11/1/464/2,VIDYUTH NAGAR CIRCLE, ANANTAPURAM",
     "STATE": "ANDHRA PRADESH",
@@ -1887,9 +1870,9 @@
     "SWIFT": null
   },
   "APGB0001109": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001109",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "KALYANADURG VALMIKI CIRICLE",
     "ADDRESS": "D.NO 8/1184, HINDUPUR ROAD, VALMIKIN NAGAR, KALYANADURG-515761",
     "STATE": "ANDHRA PRADESH",
@@ -1904,9 +1887,9 @@
     "SWIFT": null
   },
   "APGB0001110": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001110",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "TADIPATRI SANJEEV NAGAR",
     "ADDRESS": "DNO 13/915, FIRST ROAD, SANJEEV NAGAR, OPP KRISHNAPURAM,TADIPATRI",
     "STATE": "ANDHRA PRADESH",
@@ -1921,9 +1904,9 @@
     "SWIFT": null
   },
   "APGB0001111": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001111",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "NANEPPA NAGAR",
     "ADDRESS": "D.NO 5/4/13A, NANEPPA NAGAR, LEPAKSHI ROAD, HINDUPUR.",
     "STATE": "ANDHRA PRADESH",
@@ -1938,9 +1921,9 @@
     "SWIFT": null
   },
   "APGB0001112": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001112",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "HINDUPUR RPGT ROAD",
     "ADDRESS": "17/1/4, HINDUPUR RGPT ROAD, HINDUPUR, ANANTAPURAM DISTRICT,ANDHRA PRADESH.",
     "STATE": "ANDHRA PRADESH",
@@ -1955,9 +1938,9 @@
     "SWIFT": null
   },
   "APGB0001113": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001113",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "NARSIMPALLI",
     "ADDRESS": "ANDHRA PRAGATHI GRAMEENA BANK,NARASIMPALLI BRANCH,OPP POST OFFICE,NARASIMPALLI. TADIMARRI(MANDAL),ANANTAPUR(DIST),ANDHRA PRADESH",
     "STATE": "ANDHRA PRADESH",
@@ -1972,9 +1955,9 @@
     "SWIFT": null
   },
   "APGB0001114": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001114",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "RUDRAMPETA",
     "ADDRESS": "DNO 1/99-1,NEAR BYEPASS ROAD,RUDRAMPETA,ANANTAPUR(TOWN),ANDHRA PRADESH",
     "STATE": "ANDHRA PRADESH",
@@ -1989,9 +1972,9 @@
     "SWIFT": null
   },
   "APGB0001115": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001115",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "KONDAKAMARLA",
     "ADDRESS": "DNO 5/211, MAIN ROAD, KONDAKAMARLA VILLAGE,KONDAKAMARLA POST,OBULADEVARA CHERUVU MANDAL,ANANTAPUR DIST,ANDHRA PRADESH. PIN-515531",
     "STATE": "ANDHRA PRADESH",
@@ -2006,9 +1989,9 @@
     "SWIFT": null
   },
   "APGB0001116": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001116",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "GUTTURU",
     "ADDRESS": "DNO 2/62,KOTHACHERUVU ROAD, GUTTURU(VILLAGE),PENUKONDA(MANDAL),ANANTAPURAM (DIST),ANDHRA PRADESH. PIN-515164",
     "STATE": "ANDHRA PRADESH",
@@ -2023,9 +2006,9 @@
     "SWIFT": null
   },
   "APGB0001118": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001118",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "RODDAM",
     "ADDRESS": "ANDHRA PRAGATHI GRAMEENA BANK,DOOR NO 13/99,MAIN ROAD,RODDAM(POST & MANDAL),ANANTAPURAM(DIST).PIN-515123",
     "STATE": "ANDHRA PRADESH",
@@ -2040,9 +2023,9 @@
     "SWIFT": null
   },
   "APGB0001119": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001119",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "REDDIPALLI",
     "ADDRESS": "ANDHRA PRAGATHI GRAMEENA BANK,DOOR NO 1/174-A,NALLAMADA MAIN ROAD,REDDIPALLI(VILLAE & POST),NALLAMADA MANDAL,ANANTAPURAM. PIN-515501",
     "STATE": "ANDHRA PRADESH",
@@ -2057,9 +2040,9 @@
     "SWIFT": null
   },
   "APGB0001120": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001120",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "BRAHMASAMUDRAM",
     "ADDRESS": "D.NO 2/114, BRAHMASAMUDRAM VILLAGE,BRAHMASAMUDRAM MANDAL,ANANTAPURAM (DIST),ANDHRA PRADESH",
     "STATE": "ANDHRA PRADESH",
@@ -2074,9 +2057,9 @@
     "SWIFT": null
   },
   "APGB0001121": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001121",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "BOMMANAHL",
     "ADDRESS": "D NO 3/159, BOMMAHAHAL (VILLAGE AND MANDAL),ANANTAPURAM(DIST),ANDHRA PRADESH",
     "STATE": "ANDHRA PRADESH",
@@ -2091,9 +2074,9 @@
     "SWIFT": null
   },
   "APGB0001122": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001122",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "SANAPA",
     "ADDRESS": "DNO 1/140,SANAPA(VILLAGE),ATHMAKUR(MANDAL),ANANTAPURAM(DIST),ANDHRA PRADESH.PIN-515751",
     "STATE": "ANDHRA PRADESH",
@@ -2108,9 +2091,9 @@
     "SWIFT": null
   },
   "APGB0001123": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001123",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "CHOLASAMUDRAM",
     "ADDRESS": "D.NO 1-4,CHOLASAMUDRAM(V),NEAR SIVALAYAM,KUDAIR MANDAL,ANANTPUR DIST.-515711",
     "STATE": "ANDHRA PRADESH",
@@ -2125,9 +2108,9 @@
     "SWIFT": null
   },
   "APGB0001124": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0001124",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "KAMBADUR",
     "ADDRESS": "D NO 5 25 A PUTTANAGARI VEEDHI KAMBADUR VILLEGE KAMBADUR MANDAL",
     "STATE": "ANDHRA PRADESH",
@@ -2142,9 +2125,9 @@
     "SWIFT": null
   },
   "APGB0002000": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002000",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "KADAPA RO",
     "ADDRESS": "ANDHRA PRAGATHI GRAMEENA BANK,REGIONAL OFFICE,D.NO 4/622/R/3,ARAVINDA NAGAR,OPP RTC BUS STAND,KADAPA-516003",
     "STATE": "ANDHRA PRADESH",
@@ -2159,7 +2142,7 @@
     "SWIFT": null
   },
   "APGB0002002": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002002",
     "MICR": "516703107",
     "BRANCH": "VEERAPANAYANIPALLE",
@@ -2176,7 +2159,7 @@
     "SWIFT": null
   },
   "APGB0002005": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002005",
     "MICR": "516703013",
     "BRANCH": "VALLUR",
@@ -2193,7 +2176,7 @@
     "SWIFT": null
   },
   "APGB0002006": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002006",
     "MICR": "516703623",
     "BRANCH": "VEERABALLE",
@@ -2210,7 +2193,7 @@
     "SWIFT": null
   },
   "APGB0002007": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002007",
     "MICR": "516703682",
     "BRANCH": "PORUMAMILLA",
@@ -2227,7 +2210,7 @@
     "SWIFT": null
   },
   "APGB0002008": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002008",
     "MICR": "516703012",
     "BRANCH": "UPPARAPALLE",
@@ -2244,7 +2227,7 @@
     "SWIFT": null
   },
   "APGB0002012": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002012",
     "MICR": "516703585",
     "BRANCH": "VEMULA",
@@ -2261,7 +2244,7 @@
     "SWIFT": null
   },
   "APGB0002013": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002013",
     "MICR": "516703002",
     "BRANCH": "KADAPA MAIN",
@@ -2278,7 +2261,7 @@
     "SWIFT": null
   },
   "APGB0002014": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002014",
     "MICR": "516703531",
     "BRANCH": "KORRAPADU",
@@ -2295,7 +2278,7 @@
     "SWIFT": null
   },
   "APGB0002015": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002015",
     "MICR": "516703524",
     "BRANCH": "PEDDA PASUPULA",
@@ -2312,7 +2295,7 @@
     "SWIFT": null
   },
   "APGB0002018": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002018",
     "MICR": "516703662",
     "BRANCH": "OBULAVARIPALLE",
@@ -2329,7 +2312,7 @@
     "SWIFT": null
   },
   "APGB0002019": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002019",
     "MICR": "516703102",
     "BRANCH": "PRODDATUR",
@@ -2346,7 +2329,7 @@
     "SWIFT": null
   },
   "APGB0002020": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002020",
     "MICR": "516703723",
     "BRANCH": "RAYAVARAM",
@@ -2363,7 +2346,7 @@
     "SWIFT": null
   },
   "APGB0002022": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002022",
     "MICR": "516703582",
     "BRANCH": "VEMPALLE",
@@ -2380,7 +2363,7 @@
     "SWIFT": null
   },
   "APGB0002023": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002023",
     "MICR": "516703542",
     "BRANCH": "KONDAPURAM",
@@ -2397,7 +2380,7 @@
     "SWIFT": null
   },
   "APGB0002024": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002024",
     "MICR": "516703702",
     "BRANCH": "ATLUR",
@@ -2414,7 +2397,7 @@
     "SWIFT": null
   },
   "APGB0002032": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002032",
     "MICR": "516703742",
     "BRANCH": "NANDALUR",
@@ -2431,7 +2414,7 @@
     "SWIFT": null
   },
   "APGB0002033": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002033",
     "MICR": "516703507",
     "BRANCH": "BRAHMAM GARIMATTAM",
@@ -2448,7 +2431,7 @@
     "SWIFT": null
   },
   "APGB0002035": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002035",
     "MICR": "516703525",
     "BRANCH": "KANAGUDUR",
@@ -2465,7 +2448,7 @@
     "SWIFT": null
   },
   "APGB0002037": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002037",
     "MICR": "516703008",
     "BRANCH": "CHINTHAKOMMADINNE",
@@ -2482,7 +2465,7 @@
     "SWIFT": null
   },
   "APGB0002038": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002038",
     "MICR": "516703569",
     "BRANCH": "CHINNAGURUVALURU",
@@ -2499,7 +2482,7 @@
     "SWIFT": null
   },
   "APGB0002039": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002039",
     "MICR": "516703011",
     "BRANCH": "RAMANAPALLE",
@@ -2516,7 +2499,7 @@
     "SWIFT": null
   },
   "APGB0002040": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002040",
     "MICR": "516703526",
     "BRANCH": "PEDDAMUDIYAM",
@@ -2533,7 +2516,7 @@
     "SWIFT": null
   },
   "APGB0002041": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002041",
     "MICR": "516703527",
     "BRANCH": "MYLAVARAM",
@@ -2550,7 +2533,7 @@
     "SWIFT": null
   },
   "APGB0002042": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002042",
     "MICR": "516703802",
     "BRANCH": "LINGALA",
@@ -2567,7 +2550,7 @@
     "SWIFT": null
   },
   "APGB0002043": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002043",
     "MICR": "516703570",
     "BRANCH": "NALLAPUREDDYPALLE",
@@ -2584,7 +2567,7 @@
     "SWIFT": null
   },
   "APGB0002053": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002053",
     "MICR": "516703703",
     "BRANCH": "SIDDAVATTAM",
@@ -2601,7 +2584,7 @@
     "SWIFT": null
   },
   "APGB0002054": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002054",
     "MICR": "516703683",
     "BRANCH": "KALASAPADU",
@@ -2618,7 +2601,7 @@
     "SWIFT": null
   },
   "APGB0002055": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002055",
     "MICR": "516703762",
     "BRANCH": "GALIVEEDU",
@@ -2635,7 +2618,7 @@
     "SWIFT": null
   },
   "APGB0002057": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002057",
     "MICR": "516703562",
     "BRANCH": "KAMALAPURAM",
@@ -2652,7 +2635,7 @@
     "SWIFT": null
   },
   "APGB0002067": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002067",
     "MICR": "516703563",
     "BRANCH": "CHILAMAKUR",
@@ -2669,7 +2652,7 @@
     "SWIFT": null
   },
   "APGB0002072": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002072",
     "MICR": "516703583",
     "BRANCH": "CHAKRAYPET",
@@ -2686,7 +2669,7 @@
     "SWIFT": null
   },
   "APGB0002076": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002076",
     "MICR": "516703642",
     "BRANCH": "RAJAMPET",
@@ -2703,7 +2686,7 @@
     "SWIFT": null
   },
   "APGB0002078": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002078",
     "MICR": "516703564",
     "BRANCH": "MYDUKUR",
@@ -2720,7 +2703,7 @@
     "SWIFT": null
   },
   "APGB0002079": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002079",
     "MICR": "516703764",
     "BRANCH": "SAMBEPALLI",
@@ -2737,7 +2720,7 @@
     "SWIFT": null
   },
   "APGB0002082": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002082",
     "MICR": "516703537",
     "BRANCH": "PENDLIMARRY",
@@ -2754,7 +2737,7 @@
     "SWIFT": null
   },
   "APGB0002083": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002083",
     "MICR": "516703502",
     "BRANCH": "BADVEL",
@@ -2771,7 +2754,7 @@
     "SWIFT": null
   },
   "APGB0002085": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002085",
     "MICR": "516703508",
     "BRANCH": "ITUKALAPADU",
@@ -2788,7 +2771,7 @@
     "SWIFT": null
   },
   "APGB0002087": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002087",
     "MICR": "516703668",
     "BRANCH": "NAGARIPADU",
@@ -2805,7 +2788,7 @@
     "SWIFT": null
   },
   "APGB0002092": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002092",
     "MICR": "516703763",
     "BRANCH": "CHINNAMANDEM",
@@ -2822,7 +2805,7 @@
     "SWIFT": null
   },
   "APGB0002094": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002094",
     "MICR": "516703744",
     "BRANCH": "PONDALUR",
@@ -2839,7 +2822,7 @@
     "SWIFT": null
   },
   "APGB0002095": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002095",
     "MICR": "516703528",
     "BRANCH": "VADDIRALA",
@@ -2856,7 +2839,7 @@
     "SWIFT": null
   },
   "APGB0002101": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002101",
     "MICR": "516703586",
     "BRANCH": "THONDUR",
@@ -2873,7 +2856,7 @@
     "SWIFT": null
   },
   "APGB0002102": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002102",
     "MICR": "516703568",
     "BRANCH": "NARASAPURAM",
@@ -2890,7 +2873,7 @@
     "SWIFT": null
   },
   "APGB0002107": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002107",
     "MICR": "516703622",
     "BRANCH": "RAYACHOTI",
@@ -2907,7 +2890,7 @@
     "SWIFT": null
   },
   "APGB0002108": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002108",
     "MICR": "516703765",
     "BRANCH": "NOOLIVEEDU",
@@ -2924,7 +2907,7 @@
     "SWIFT": null
   },
   "APGB0002109": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002109",
     "MICR": "516703505",
     "BRANCH": "SETTIGUNTA",
@@ -2941,7 +2924,7 @@
     "SWIFT": null
   },
   "APGB0002112": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002112",
     "MICR": "516703503",
     "BRANCH": "B.KODURU",
@@ -2958,7 +2941,7 @@
     "SWIFT": null
   },
   "APGB0002116": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002116",
     "MICR": "516703003",
     "BRANCH": "KADAPA - MOCHAMPETA",
@@ -2975,7 +2958,7 @@
     "SWIFT": null
   },
   "APGB0002117": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002117",
     "MICR": "516703504",
     "BRANCH": "KODUR",
@@ -2992,7 +2975,7 @@
     "SWIFT": null
   },
   "APGB0002118": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002118",
     "MICR": "516703643",
     "BRANCH": "BOYANAPALLE",
@@ -3009,7 +2992,7 @@
     "SWIFT": null
   },
   "APGB0002120": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002120",
     "MICR": "516703543",
     "BRANCH": "YERRAGUNTLA",
@@ -3026,7 +3009,7 @@
     "SWIFT": null
   },
   "APGB0002121": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002121",
     "MICR": "516703602",
     "BRANCH": "RAMAPURAM(K)",
@@ -3043,7 +3026,7 @@
     "SWIFT": null
   },
   "APGB0002122": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002122",
     "MICR": "516703665",
     "BRANCH": "VATHALUR",
@@ -3060,7 +3043,7 @@
     "SWIFT": null
   },
   "APGB0002123": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002123",
     "MICR": "516703587",
     "BRANCH": "ALAVALAPADU",
@@ -3077,7 +3060,7 @@
     "SWIFT": null
   },
   "APGB0002124": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002124",
     "MICR": "516703009",
     "BRANCH": "KOTHA NELLORE",
@@ -3094,7 +3077,7 @@
     "SWIFT": null
   },
   "APGB0002128": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002128",
     "MICR": "516703016",
     "BRANCH": "PEDDA CHAPPALI",
@@ -3111,7 +3094,7 @@
     "SWIFT": null
   },
   "APGB0002133": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002133",
     "MICR": "516703803",
     "BRANCH": "ANKALAMMA GUDUR",
@@ -3128,7 +3111,7 @@
     "SWIFT": null
   },
   "APGB0002135": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002135",
     "MICR": "516703506",
     "BRANCH": "ANANTHARAJUPETA",
@@ -3145,7 +3128,7 @@
     "SWIFT": null
   },
   "APGB0002137": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002137",
     "MICR": "516703106",
     "BRANCH": "RAJUPALEM",
@@ -3162,7 +3145,7 @@
     "SWIFT": null
   },
   "APGB0002138": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002138",
     "MICR": "516703522",
     "BRANCH": "JAMMALAMADUGU",
@@ -3179,7 +3162,7 @@
     "SWIFT": null
   },
   "APGB0002139": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002139",
     "MICR": "516703588",
     "BRANCH": "BALA THIMMAYYAGARI PALLE",
@@ -3196,7 +3179,7 @@
     "SWIFT": null
   },
   "APGB0002140": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002140",
     "MICR": "516703004",
     "BRANCH": "KADAPA - KAGITALAPENTA",
@@ -3213,7 +3196,7 @@
     "SWIFT": null
   },
   "APGB0002143": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002143",
     "MICR": "516703005",
     "BRANCH": "KADAPA-JAYANAGAR COLONY BRANCH",
@@ -3230,7 +3213,7 @@
     "SWIFT": null
   },
   "APGB0002144": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002144",
     "MICR": "516703804",
     "BRANCH": "SIMHADRIPURAM",
@@ -3247,7 +3230,7 @@
     "SWIFT": null
   },
   "APGB0002145": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002145",
     "MICR": "516703584",
     "BRANCH": "PULIVENDLA",
@@ -3264,7 +3247,7 @@
     "SWIFT": null
   },
   "APGB0002150": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002150",
     "MICR": "516703663",
     "BRANCH": "PULLAMPET",
@@ -3281,7 +3264,7 @@
     "SWIFT": null
   },
   "APGB0002151": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002151",
     "MICR": "516703565",
     "BRANCH": "CHENNUR",
@@ -3298,7 +3281,7 @@
     "SWIFT": null
   },
   "APGB0002154": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002154",
     "MICR": "516703722",
     "BRANCH": "TSUNDUPALLI",
@@ -3315,7 +3298,7 @@
     "SWIFT": null
   },
   "APGB0002155": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002155",
     "MICR": "516703664",
     "BRANCH": "CHITVEL",
@@ -3332,7 +3315,7 @@
     "SWIFT": null
   },
   "APGB0002156": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002156",
     "MICR": "516703006",
     "BRANCH": "KADAPA POLICE LINE BRANCH",
@@ -3349,7 +3332,7 @@
     "SWIFT": null
   },
   "APGB0002157": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002157",
     "MICR": "516703523",
     "BRANCH": "DUVVUR",
@@ -3366,7 +3349,7 @@
     "SWIFT": null
   },
   "APGB0002158": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002158",
     "MICR": "516703566",
     "BRANCH": "KHAJIPETA",
@@ -3383,7 +3366,7 @@
     "SWIFT": null
   },
   "APGB0002159": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002159",
     "MICR": "516703544",
     "BRANCH": "MUDDANUR",
@@ -3400,7 +3383,7 @@
     "SWIFT": null
   },
   "APGB0002160": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002160",
     "MICR": "516703603",
     "BRANCH": "LAKKIREDDIPALLE",
@@ -3417,7 +3400,7 @@
     "SWIFT": null
   },
   "APGB0002161": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002161",
     "MICR": "516703014",
     "BRANCH": "DEVUNIKADAPA",
@@ -3434,7 +3417,7 @@
     "SWIFT": null
   },
   "APGB0002162": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002162",
     "MICR": "516703007",
     "BRANCH": "KADAPA NESCO",
@@ -3451,7 +3434,7 @@
     "SWIFT": null
   },
   "APGB0002163": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002163",
     "MICR": "516703644",
     "BRANCH": "RAJAMPET - R. S. ROAD",
@@ -3468,7 +3451,7 @@
     "SWIFT": null
   },
   "APGB0002164": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002164",
     "MICR": "516703015",
     "BRANCH": "YERRAMUKKAPALLI",
@@ -3485,7 +3468,7 @@
     "SWIFT": null
   },
   "APGB0002166": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002166",
     "MICR": "516703103",
     "BRANCH": "GOPAVARAM",
@@ -3502,7 +3485,7 @@
     "SWIFT": null
   },
   "APGB0002167": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002167",
     "MICR": "516703104",
     "BRANCH": "PRODDATUR - MODEMPALLI",
@@ -3519,9 +3502,9 @@
     "SWIFT": null
   },
   "APGB0002168": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002168",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "MANGAMPET",
     "ADDRESS": "APMDC LTD.,MANGAMPET",
     "STATE": "ANDHRA PRADESH",
@@ -3536,7 +3519,7 @@
     "SWIFT": null
   },
   "APGB0002169": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002169",
     "MICR": "516703545",
     "BRANCH": "POTLADURTHI",
@@ -3553,7 +3536,7 @@
     "SWIFT": null
   },
   "APGB0002171": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002171",
     "MICR": "516703667",
     "BRANCH": "NAGAVARAM",
@@ -3570,7 +3553,7 @@
     "SWIFT": null
   },
   "APGB0002172": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002172",
     "MICR": "516703782",
     "BRANCH": "NANDIMANDALAM",
@@ -3587,7 +3570,7 @@
     "SWIFT": null
   },
   "APGB0002173": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002173",
     "MICR": "516703529",
     "BRANCH": "GUDIPADU",
@@ -3604,7 +3587,7 @@
     "SWIFT": null
   },
   "APGB0002174": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002174",
     "MICR": "516703530",
     "BRANCH": "MORAGUDI",
@@ -3621,7 +3604,7 @@
     "SWIFT": null
   },
   "APGB0002175": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002175",
     "MICR": "516703743",
     "BRANCH": "PENAGALURU",
@@ -3638,7 +3621,7 @@
     "SWIFT": null
   },
   "APGB0002176": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002176",
     "MICR": "516703105",
     "BRANCH": "CHAPADU",
@@ -3655,7 +3638,7 @@
     "SWIFT": null
   },
   "APGB0002177": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002177",
     "MICR": "516703010",
     "BRANCH": "NAGARAJUPETA, KADAPA",
@@ -3672,9 +3655,9 @@
     "SWIFT": null
   },
   "APGB0002178": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002178",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "KAMALAKURU",
     "ADDRESS": "270 A, MAIN ROAD, KAMALAKURU VILLAGE, ATLURU MANDAL, BADVEL POST.",
     "STATE": "ANDHRA PRADESH",
@@ -3689,9 +3672,9 @@
     "SWIFT": null
   },
   "APGB0002179": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002179",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "G V SATRAM",
     "ADDRESS": "MAIN ROAD,G V SATRAM VILL AND POST,MYDUKURU MANDAL,Y.S.R.KADAPA DIST,AP,516172",
     "STATE": "ANDHRA PRADESH",
@@ -3706,9 +3689,9 @@
     "SWIFT": null
   },
   "APGB0002180": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002180",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "URUTURU",
     "ADDRESS": "D.NO.2 BY 175 C,MAIN ROAD,URUTURU VILLAGE,VEERAPUNAYUNIPALLI MANDAL,Y.S.R.KADAPA DIST,AP,516339",
     "STATE": "ANDHRA PRADESH",
@@ -3723,9 +3706,9 @@
     "SWIFT": null
   },
   "APGB0002181": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002181",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "EGUVA RAMAPURAM",
     "ADDRESS": "6-153 EGUVA RAMAPURAM KALASAPADU MANDAL",
     "STATE": "ANDHRA PRADESH",
@@ -3740,9 +3723,9 @@
     "SWIFT": null
   },
   "APGB0002182": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002182",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "PP KUNTA",
     "ADDRESS": "10/262 MAIN ROAD PEDDA POLUPALLI KUNTA VILLAGE GOPAVARAM PROJECT SITE GOPAVARAM MANDAL",
     "STATE": "ANDHRA PRADESH",
@@ -3757,9 +3740,9 @@
     "SWIFT": null
   },
   "APGB0002183": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002183",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "RAVINDRA NAGAR KADAPA",
     "ADDRESS": "5-446 RAVINDRA NAGAR KADAPA",
     "STATE": "ANDHRA PRADESH",
@@ -3774,9 +3757,9 @@
     "SWIFT": null
   },
   "APGB0002184": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002184",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "PRODDATUR GANDHI ROAD",
     "ADDRESS": "DOOR NO 24-591,VASANTH RAO STREET, GANDHI ROAD, RAMESWARAM PRODDATUR",
     "STATE": "ANDHRA PRADESH",
@@ -3791,9 +3774,9 @@
     "SWIFT": null
   },
   "APGB0002185": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002185",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "PRODDATUR NGOS COLONY",
     "ADDRESS": "DNO 10/107 NGOS COLONY  NEAR RTC BUS STAND PRODDATUR",
     "STATE": "ANDHRA PRADESH",
@@ -3808,9 +3791,9 @@
     "SWIFT": null
   },
   "APGB0002186": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002186",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "SETTYPALLI",
     "ADDRESS": "SETTIPALLI VILLAGE, SAMBEPALLI MANDAL, YSR KADAPA DISTRICT",
     "STATE": "ANDHRA PRADESH",
@@ -3825,9 +3808,9 @@
     "SWIFT": null
   },
   "APGB0002187": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002187",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "PULIVENDULA POOLA ANGALLU",
     "ADDRESS": "DOOR NO 1/4/309 BESIDE LAKSHMI THEATRE,PARNAPALLI ROAD,POOLA ANGALLU",
     "STATE": "ANDHRA PRADESH",
@@ -3842,9 +3825,9 @@
     "SWIFT": null
   },
   "APGB0002188": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002188",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "VEMPALLI FOUR ROADS CROSSING",
     "ADDRESS": "DOOR NO 1/397, KANDULA COMPLEX, PULIVENDULA ROAD,FOUR ROADS CROSSING, VEMPALLI-516329",
     "STATE": "ANDHRA PRADESH",
@@ -3859,9 +3842,9 @@
     "SWIFT": null
   },
   "APGB0002189": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002189",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "KADAPA AMEENPEER DARGA",
     "ADDRESS": "14/154, NEAR AMEENPEER DARGA,KADAPA,YSR KADAPA DISTRICT,ANDHRA PRADESH",
     "STATE": "ANDHRA PRADESH",
@@ -3876,9 +3859,9 @@
     "SWIFT": null
   },
   "APGB0002190": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002190",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "VONTIMITTA",
     "ADDRESS": "DOOR NO 2/19 MAIN BAZAR VONTIMITTA,VONTIMITTA MANDAL,YSR KADAPA DIST",
     "STATE": "ANDHRA PRADESH",
@@ -3893,9 +3876,9 @@
     "SWIFT": null
   },
   "APGB0002191": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002191",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "JAMMALAMADUGU NEW MARKET",
     "ADDRESS": "DOOR NO 1/604, NEAR LIC OFFICE, NEW MARKET CENTRE,RTC BUSSTAND ROAD,JAMMALAMADUGU",
     "STATE": "ANDHRA PRADESH",
@@ -3910,9 +3893,9 @@
     "SWIFT": null
   },
   "APGB0002192": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002192",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "RAILWAY KODURU RS ROAD",
     "ADDRESS": "D.NO 7/543, RAILWAY STATION ROAD,RAILWAY KODURU",
     "STATE": "ANDHRA PRADESH",
@@ -3927,9 +3910,9 @@
     "SWIFT": null
   },
   "APGB0002193": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002193",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "MALLELA",
     "ADDRESS": "MALLELA VILLAGE, THONDUR MANDAL,KADAPA(DIST),ANDHRA PRADESH. PIN-516401",
     "STATE": "ANDHRA PRADESH",
@@ -3944,9 +3927,9 @@
     "SWIFT": null
   },
   "APGB0002194": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002194",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "KADAPA MARIAPURAM",
     "ADDRESS": "HEAD OFFICE PREMISES, OPP. BISHOPS HOUSE,MARIAPURAM,YSR KADAPA-516002. YSR KADAPA(DIST),ANDHRA PRADESH",
     "STATE": "ANDHRA PRADESH",
@@ -3961,9 +3944,9 @@
     "SWIFT": null
   },
   "APGB0002195": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002195",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "RAYACHOTY-KOTHAPETA",
     "ADDRESS": "DOOR NO 51/124/1,KOTHAPETA MAIN ROAD,RAYACHOTY,YSR KADAPA (DIST),ANDHRA PRADESH.PIN-516269.",
     "STATE": "ANDHRA PRADESH",
@@ -3978,9 +3961,9 @@
     "SWIFT": null
   },
   "APGB0002196": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002196",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "CHINNA ORAMPADU",
     "ADDRESS": "DOOR NO 2/121, GNANAMPALLI ROAD,CHINNA ORAMPADU VILLAGE, OBULAVARIPALLI MANDAL,YSR KADAPA(DIST),ANDHRA PRADESH. PIN-516108",
     "STATE": "ANDHRA PRADESH",
@@ -3995,9 +3978,9 @@
     "SWIFT": null
   },
   "APGB0002197": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002197",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "UTUKURU",
     "ADDRESS": "DOOR NO 1/121-A-1, BALIJA STREET,UTUKURU (VILLAGE & POST),RAJAMPETA MANDAL,YSR KADAPA(DIST),ANDHRA PRADESH. PIN-516126",
     "STATE": "ANDHRA PRADESH",
@@ -4012,9 +3995,9 @@
     "SWIFT": null
   },
   "APGB0002198": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002198",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "KAMALAPURAM X ROADS",
     "ADDRESS": "DNO 15/3008-1,KAMALAPURAM X ROADS,KAMALAPURAM YSR KADAPA(DIST) ANDHRA PRADESH PIN-516310",
     "STATE": "ANDHRA PRADESH",
@@ -4029,9 +4012,9 @@
     "SWIFT": null
   },
   "APGB0002199": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002199",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "TANGATUR",
     "ADDRESS": "4/51,TANGATUR VILLAGE,RAJUPALEM MANDAL,YSR KADAPA(DIST),ANDHRA PRADESH",
     "STATE": "ANDHRA PRADESH",
@@ -4046,9 +4029,9 @@
     "SWIFT": null
   },
   "APGB0002200": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0002200",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "VELIDANDLA",
     "ADDRESS": "D NO 1/27,VELIDANDLA,LINGALA(MANDAL),YSR KADAPA(DIST),ANDHRA PRADESHE.PIN-516396",
     "STATE": "ANDHRA PRADESH",
@@ -4063,9 +4046,9 @@
     "SWIFT": null
   },
   "APGB0003000": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003000",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "KURNOOL RO",
     "ADDRESS": "ANDHRA PRAGATHI GRAMEENA BANK,REGIONAL OFFICE,NAGIREDDY REVENUE COLONY,OPP BISHOP CHURCH,KURNOOL-518002",
     "STATE": "ANDHRA PRADESH",
@@ -4080,7 +4063,7 @@
     "SWIFT": null
   },
   "APGB0003003": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003003",
     "MICR": "518703202",
     "BRANCH": "ADONI",
@@ -4097,9 +4080,9 @@
     "SWIFT": null
   },
   "APGB0003004": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003004",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "PARLA",
     "ADDRESS": "PARLA-518478 (VIA) K.NAGALAPURAM,  KALLUR MANDAL KURNOOL DISTRICT",
     "STATE": "ANDHRA PRADESH",
@@ -4114,7 +4097,7 @@
     "SWIFT": null
   },
   "APGB0003009": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003009",
     "MICR": "518703002",
     "BRANCH": "KURNOOL-MAIN",
@@ -4131,7 +4114,7 @@
     "SWIFT": null
   },
   "APGB0003010": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003010",
     "MICR": "518703628",
     "BRANCH": "NANDIVARGAM",
@@ -4148,7 +4131,7 @@
     "SWIFT": null
   },
   "APGB0003011": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003011",
     "MICR": "518703010",
     "BRANCH": "NANOOR",
@@ -4165,7 +4148,7 @@
     "SWIFT": null
   },
   "APGB0003016": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003016",
     "MICR": "518703562",
     "BRANCH": "NEMAKAL",
@@ -4182,7 +4165,7 @@
     "SWIFT": null
   },
   "APGB0003017": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003017",
     "MICR": "518703524",
     "BRANCH": "PARUMANCHALA",
@@ -4199,7 +4182,7 @@
     "SWIFT": null
   },
   "APGB0003021": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003021",
     "MICR": "518703563",
     "BRANCH": "ALUR",
@@ -4216,7 +4199,7 @@
     "SWIFT": null
   },
   "APGB0003025": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003025",
     "MICR": "518703622",
     "BRANCH": "BETAMCHERLA",
@@ -4233,7 +4216,7 @@
     "SWIFT": null
   },
   "APGB0003026": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003026",
     "MICR": "518703012",
     "BRANCH": "UYYALAWADA",
@@ -4250,7 +4233,7 @@
     "SWIFT": null
   },
   "APGB0003027": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003027",
     "MICR": "518703105",
     "BRANCH": "DEEBAGUNTLA",
@@ -4267,7 +4250,7 @@
     "SWIFT": null
   },
   "APGB0003028": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003028",
     "MICR": "518703584",
     "BRANCH": "DEVANAKONDA",
@@ -4284,7 +4267,7 @@
     "SWIFT": null
   },
   "APGB0003029": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003029",
     "MICR": "518703629",
     "BRANCH": "TANGUTUR",
@@ -4301,7 +4284,7 @@
     "SWIFT": null
   },
   "APGB0003030": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003030",
     "MICR": "518703204",
     "BRANCH": "PEDDA TUMBALAM",
@@ -4318,7 +4301,7 @@
     "SWIFT": null
   },
   "APGB0003031": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003031",
     "MICR": "518703682",
     "BRANCH": "GADIVEMULA",
@@ -4335,7 +4318,7 @@
     "SWIFT": null
   },
   "APGB0003034": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003034",
     "MICR": "518703542",
     "BRANCH": "KODUMUR",
@@ -4352,7 +4335,7 @@
     "SWIFT": null
   },
   "APGB0003036": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003036",
     "MICR": "518703662",
     "BRANCH": "MANTRALAYAM",
@@ -4369,7 +4352,7 @@
     "SWIFT": null
   },
   "APGB0003047": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003047",
     "MICR": "518703303",
     "BRANCH": "TERNEKAL",
@@ -4386,7 +4369,7 @@
     "SWIFT": null
   },
   "APGB0003049": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003049",
     "MICR": "518703623",
     "BRANCH": "KOILKUNTLA",
@@ -4403,7 +4386,7 @@
     "SWIFT": null
   },
   "APGB0003050": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003050",
     "MICR": "518703624",
     "BRANCH": "KOLIMIGUNDLA",
@@ -4420,7 +4403,7 @@
     "SWIFT": null
   },
   "APGB0003051": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003051",
     "MICR": "518703608",
     "BRANCH": "GARLADINNE",
@@ -4437,7 +4420,7 @@
     "SWIFT": null
   },
   "APGB0003060": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003060",
     "MICR": "518703644",
     "BRANCH": "DORNIPADU",
@@ -4454,7 +4437,7 @@
     "SWIFT": null
   },
   "APGB0003061": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003061",
     "MICR": "518703625",
     "BRANCH": "GOSPADU",
@@ -4471,7 +4454,7 @@
     "SWIFT": null
   },
   "APGB0003062": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003062",
     "MICR": "518703106",
     "BRANCH": "GAJULAPALLE",
@@ -4488,7 +4471,7 @@
     "SWIFT": null
   },
   "APGB0003063": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003063",
     "MICR": "518703013",
     "BRANCH": "GARGEYAPURAM",
@@ -4505,7 +4488,7 @@
     "SWIFT": null
   },
   "APGB0003064": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003064",
     "MICR": "518703503",
     "BRANCH": "MIDTHUR",
@@ -4522,7 +4505,7 @@
     "SWIFT": null
   },
   "APGB0003065": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003065",
     "MICR": "518703522",
     "BRANCH": "ATMAKUR (K)",
@@ -4539,7 +4522,7 @@
     "SWIFT": null
   },
   "APGB0003066": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003066",
     "MICR": "518703585",
     "BRANCH": "PERAVALI",
@@ -4556,7 +4539,7 @@
     "SWIFT": null
   },
   "APGB0003070": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003070",
     "MICR": "518703302",
     "BRANCH": "YEMMIGANUR",
@@ -4573,7 +4556,7 @@
     "SWIFT": null
   },
   "APGB0003071": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003071",
     "MICR": "518703525",
     "BRANCH": "RAGADAGUDUR",
@@ -4590,7 +4573,7 @@
     "SWIFT": null
   },
   "APGB0003073": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003073",
     "MICR": "518703505",
     "BRANCH": "HUSSAINAPURAM(K)",
@@ -4607,7 +4590,7 @@
     "SWIFT": null
   },
   "APGB0003074": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003074",
     "MICR": "518703546",
     "BRANCH": "KOTHAKOTA",
@@ -4624,7 +4607,7 @@
     "SWIFT": null
   },
   "APGB0003075": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003075",
     "MICR": "518703602",
     "BRANCH": "VELDURTHI",
@@ -4641,7 +4624,7 @@
     "SWIFT": null
   },
   "APGB0003080": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003080",
     "MICR": "518703308",
     "BRANCH": "HALAHARVI",
@@ -4658,7 +4641,7 @@
     "SWIFT": null
   },
   "APGB0003081": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003081",
     "MICR": "518703582",
     "BRANCH": "PATTIKONDA",
@@ -4675,7 +4658,7 @@
     "SWIFT": null
   },
   "APGB0003084": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003084",
     "MICR": "518703586",
     "BRANCH": "TUGGALI",
@@ -4692,7 +4675,7 @@
     "SWIFT": null
   },
   "APGB0003089": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003089",
     "MICR": "518703626",
     "BRANCH": "NOSSAM",
@@ -4709,7 +4692,7 @@
     "SWIFT": null
   },
   "APGB0003090": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003090",
     "MICR": "518703603",
     "BRANCH": "DHONE",
@@ -4726,7 +4709,7 @@
     "SWIFT": null
   },
   "APGB0003093": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003093",
     "MICR": "518703205",
     "BRANCH": "HEBBATAM",
@@ -4743,7 +4726,7 @@
     "SWIFT": null
   },
   "APGB0003096": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003096",
     "MICR": "518703504",
     "BRANCH": "JUPADU BUNGLOW",
@@ -4760,7 +4743,7 @@
     "SWIFT": null
   },
   "APGB0003097": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003097",
     "MICR": "518703630",
     "BRANCH": "PETNIKOTA",
@@ -4777,7 +4760,7 @@
     "SWIFT": null
   },
   "APGB0003099": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003099",
     "MICR": "518703526",
     "BRANCH": "SUNNIPENTA",
@@ -4794,7 +4777,7 @@
     "SWIFT": null
   },
   "APGB0003100": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003100",
     "MICR": "518703543",
     "BRANCH": "POLAKAL",
@@ -4811,7 +4794,7 @@
     "SWIFT": null
   },
   "APGB0003103": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003103",
     "MICR": "518703304",
     "BRANCH": "TUNGABHADRA",
@@ -4828,7 +4811,7 @@
     "SWIFT": null
   },
   "APGB0003105": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003105",
     "MICR": "518703587",
     "BRANCH": "JONNAGIRI",
@@ -4845,7 +4828,7 @@
     "SWIFT": null
   },
   "APGB0003106": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003106",
     "MICR": "518703103",
     "BRANCH": "NANDYAL  NOONEPALLE BRANCH",
@@ -4862,7 +4845,7 @@
     "SWIFT": null
   },
   "APGB0003110": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003110",
     "MICR": "518703102",
     "BRANCH": "NANDYAL MAIN",
@@ -4879,7 +4862,7 @@
     "SWIFT": null
   },
   "APGB0003113": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003113",
     "MICR": "518703112",
     "BRANCH": "THIMMAPURAM",
@@ -4896,7 +4879,7 @@
     "SWIFT": null
   },
   "APGB0003114": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003114",
     "MICR": "518703111",
     "BRANCH": "POLURU",
@@ -4913,7 +4896,7 @@
     "SWIFT": null
   },
   "APGB0003119": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003119",
     "MICR": "518703206",
     "BRANCH": "PEDDAKADABURU",
@@ -4930,7 +4913,7 @@
     "SWIFT": null
   },
   "APGB0003125": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003125",
     "MICR": "518703609",
     "BRANCH": "HUSSAINAPURAM-D",
@@ -4947,7 +4930,7 @@
     "SWIFT": null
   },
   "APGB0003126": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003126",
     "MICR": "518703663",
     "BRANCH": "URUKUNDA",
@@ -4964,7 +4947,7 @@
     "SWIFT": null
   },
   "APGB0003127": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003127",
     "MICR": "518703305",
     "BRANCH": "DAIVAMDINNE",
@@ -4981,7 +4964,7 @@
     "SWIFT": null
   },
   "APGB0003129": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003129",
     "MICR": "518703207",
     "BRANCH": "BADINEHAL",
@@ -4998,7 +4981,7 @@
     "SWIFT": null
   },
   "APGB0003131": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003131",
     "MICR": "518703208",
     "BRANCH": "KAIRUPPALA",
@@ -5015,7 +4998,7 @@
     "SWIFT": null
   },
   "APGB0003136": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003136",
     "MICR": "518703003",
     "BRANCH": "KRISHNA NAGAR-KURNOOL",
@@ -5032,7 +5015,7 @@
     "SWIFT": null
   },
   "APGB0003141": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003141",
     "MICR": "518703605",
     "BRANCH": "KRISHNAGIRI",
@@ -5049,7 +5032,7 @@
     "SWIFT": null
   },
   "APGB0003142": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003142",
     "MICR": "518703583",
     "BRANCH": "ASPARI",
@@ -5066,7 +5049,7 @@
     "SWIFT": null
   },
   "APGB0003146": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003146",
     "MICR": "518703604",
     "BRANCH": "PEAPULLY",
@@ -5083,7 +5066,7 @@
     "SWIFT": null
   },
   "APGB0003147": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003147",
     "MICR": "518703627",
     "BRANCH": "BANGANAPALLE",
@@ -5100,7 +5083,7 @@
     "SWIFT": null
   },
   "APGB0003148": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003148",
     "MICR": "518703502",
     "BRANCH": "NANDIKOTKUR",
@@ -5117,7 +5100,7 @@
     "SWIFT": null
   },
   "APGB0003149": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003149",
     "MICR": "518703545",
     "BRANCH": "GUDUR(K)",
@@ -5134,7 +5117,7 @@
     "SWIFT": null
   },
   "APGB0003152": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003152",
     "MICR": "518703664",
     "BRANCH": "KOSIGI",
@@ -5151,7 +5134,7 @@
     "SWIFT": null
   },
   "APGB0003153": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003153",
     "MICR": "518703642",
     "BRANCH": "CHAGALAMARRY",
@@ -5168,7 +5151,7 @@
     "SWIFT": null
   },
   "APGB0003155": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003155",
     "MICR": "518703107",
     "BRANCH": "MAHANANDI",
@@ -5185,7 +5168,7 @@
     "SWIFT": null
   },
   "APGB0003156": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003156",
     "MICR": "518703004",
     "BRANCH": "GOVT GENERAL HOSPITAL, KURNOOL",
@@ -5202,7 +5185,7 @@
     "SWIFT": null
   },
   "APGB0003157": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003157",
     "MICR": "518703631",
     "BRANCH": "ANKIREDDYPALLI",
@@ -5219,7 +5202,7 @@
     "SWIFT": null
   },
   "APGB0003158": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003158",
     "MICR": "518703643",
     "BRANCH": "ALLAGADDA",
@@ -5236,7 +5219,7 @@
     "SWIFT": null
   },
   "APGB0003159": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003159",
     "MICR": "518703007",
     "BRANCH": "KURNOOL-POOLA BAZAR",
@@ -5253,7 +5236,7 @@
     "SWIFT": null
   },
   "APGB0003160": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003160",
     "MICR": "518703104",
     "BRANCH": "NANDYAL-BALA JUNIOR COLLEGE",
@@ -5270,7 +5253,7 @@
     "SWIFT": null
   },
   "APGB0003161": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003161",
     "MICR": "518703523",
     "BRANCH": "VELGODU",
@@ -5287,7 +5270,7 @@
     "SWIFT": null
   },
   "APGB0003162": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003162",
     "MICR": "518703005",
     "BRANCH": "KURNOOL-VR COLONY",
@@ -5304,7 +5287,7 @@
     "SWIFT": null
   },
   "APGB0003163": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003163",
     "MICR": "518703108",
     "BRANCH": "NANDYAL - S P Y REDDY DEGREE COLLEGE FOR WOMEN",
@@ -5321,7 +5304,7 @@
     "SWIFT": null
   },
   "APGB0003164": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003164",
     "MICR": "518703008",
     "BRANCH": "CHENNAMMA CIRCLE, KALLUR",
@@ -5338,7 +5321,7 @@
     "SWIFT": null
   },
   "APGB0003165": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003165",
     "MICR": "518703203",
     "BRANCH": "MOSQUE STREET, ADONI",
@@ -5355,7 +5338,7 @@
     "SWIFT": null
   },
   "APGB0003166": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003166",
     "MICR": "518703109",
     "BRANCH": "SRINIVASA NAGAR, NANDYAL",
@@ -5372,7 +5355,7 @@
     "SWIFT": null
   },
   "APGB0003167": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003167",
     "MICR": "518703306",
     "BRANCH": "YEMMIGANUR-SIVA CIRCLE",
@@ -5389,7 +5372,7 @@
     "SWIFT": null
   },
   "APGB0003168": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003168",
     "MICR": "518703009",
     "BRANCH": "KURNOOL-REVENUE COLONY",
@@ -5406,7 +5389,7 @@
     "SWIFT": null
   },
   "APGB0003169": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003169",
     "MICR": "518703006",
     "BRANCH": "ZP OFFICE-KURNOOL",
@@ -5423,7 +5406,7 @@
     "SWIFT": null
   },
   "APGB0003170": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003170",
     "MICR": "518703665",
     "BRANCH": "HALVI",
@@ -5440,7 +5423,7 @@
     "SWIFT": null
   },
   "APGB0003171": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003171",
     "MICR": "518703544",
     "BRANCH": "P.KOTAKONDA",
@@ -5457,7 +5440,7 @@
     "SWIFT": null
   },
   "APGB0003172": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003172",
     "MICR": "518703209",
     "BRANCH": "CHINTAKUNTA",
@@ -5474,7 +5457,7 @@
     "SWIFT": null
   },
   "APGB0003173": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003173",
     "MICR": "518703683",
     "BRANCH": "PANYAM",
@@ -5491,7 +5474,7 @@
     "SWIFT": null
   },
   "APGB0003174": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003174",
     "MICR": "518703632",
     "BRANCH": "RAMAPURAM",
@@ -5508,7 +5491,7 @@
     "SWIFT": null
   },
   "APGB0003175": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003175",
     "MICR": "518703605",
     "BRANCH": "JALADURGAM",
@@ -5525,7 +5508,7 @@
     "SWIFT": null
   },
   "APGB0003176": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003176",
     "MICR": "518703588",
     "BRANCH": "HOSUR",
@@ -5542,7 +5525,7 @@
     "SWIFT": null
   },
   "APGB0003177": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003177",
     "MICR": "518703011",
     "BRANCH": "ULCHALA",
@@ -5559,7 +5542,7 @@
     "SWIFT": null
   },
   "APGB0003178": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003178",
     "MICR": "518703307",
     "BRANCH": "H.MURAVANI",
@@ -5576,7 +5559,7 @@
     "SWIFT": null
   },
   "APGB0003179": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003179",
     "MICR": "518703606",
     "BRANCH": "CHITYALA",
@@ -5593,7 +5576,7 @@
     "SWIFT": null
   },
   "APGB0003180": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003180",
     "MICR": "518703633",
     "BRANCH": "AKUMALLA",
@@ -5610,9 +5593,9 @@
     "SWIFT": null
   },
   "APGB0003181": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003181",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "MOOLASGARAM",
     "ADDRESS": "D.NO.26-349/B, 1ST FLOOR, MOOLASAGARAM VILLAGE, NANDYAL, KURNOOL",
     "STATE": "ANDHRA PRADESH",
@@ -5627,9 +5610,9 @@
     "SWIFT": null
   },
   "APGB0003182": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003182",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "NGO COLONY NANDYAL",
     "ADDRESS": "JALAGAM VENGAL RAO NAGAR,NANDYAL,KURNOOL DISTRICT,AP,PIN 518501",
     "STATE": "ANDHRA PRADESH",
@@ -5644,9 +5627,9 @@
     "SWIFT": null
   },
   "APGB0003183": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003183",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "SRISAILAMGUDEM DEVASTHANAM",
     "ADDRESS": "COTTAGE NO 69, DEVASTHANAM, NEAR PETROL BUNK, MAIN ROAD, SRISAILAM.",
     "STATE": "ANDHRA PRADESH",
@@ -5661,9 +5644,9 @@
     "SWIFT": null
   },
   "APGB0003184": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003184",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "PANCHALINGALA",
     "ADDRESS": "2-146-3 MAIN ROAD PANCHALINGALA VILLAGE KURNOOL MANDAL",
     "STATE": "ANDHRA PRADESH",
@@ -5678,9 +5661,9 @@
     "SWIFT": null
   },
   "APGB0003185": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003185",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "MARKET CENTER ALLAGADDA",
     "ADDRESS": "S V PALACE STREET NEAR OLD BUS STAND ALLAGADDA",
     "STATE": "ANDHRA PRADESH",
@@ -5695,9 +5678,9 @@
     "SWIFT": null
   },
   "APGB0003186": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003186",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "PADMAVATHI NAGAR NANDYAL",
     "ADDRESS": "25/685 C PADMAVATHI NAGAR NANDYAL 518502",
     "STATE": "ANDHRA PRADESH",
@@ -5712,9 +5695,9 @@
     "SWIFT": null
   },
   "APGB0003187": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003187",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "KURNOOL BABA BRINDAVAN NAGAR",
     "ADDRESS": "PLOT NO 13 BABA BRINDAVAN NAGAR KURNOOL-518003",
     "STATE": "ANDHRA PRADESH",
@@ -5729,9 +5712,9 @@
     "SWIFT": null
   },
   "APGB0003188": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003188",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "KURNOOL KISAN NAGAR",
     "ADDRESS": "PLOT NO 50, SREE LAKSHMI NAGAR COLONY, KISAN NAGAR,KURNOOL",
     "STATE": "ANDHRA PRADESH",
@@ -5746,9 +5729,9 @@
     "SWIFT": null
   },
   "APGB0003189": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003189",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "GULLADURTHY",
     "ADDRESS": "DOOR NO 5/43, GULLADURTHY, KOILAKUNTLA MANADAL,KURNOOL DISTRICT, ANDHRA PRADESH",
     "STATE": "ANDHRA PRADESH",
@@ -5763,9 +5746,9 @@
     "SWIFT": null
   },
   "APGB0003190": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003190",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "KAPPATRALLA",
     "ADDRESS": "DOOR NO 1/85, MAIN BAZAR, KAPATRALLA(VILLAGE & POST),DEVANAKONDA MANDAL,KURNOOL DISTRICT. PIN-518465",
     "STATE": "ANDHRA PRADESH",
@@ -5780,9 +5763,9 @@
     "SWIFT": null
   },
   "APGB0003191": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003191",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "DHONE-KONDAPETA",
     "ADDRESS": "OPP. SARADA ENGLISH MEDIUM SCHOOL,SRI VENKATESWARA SWAMY TEMPLE STREET, NEHRU NAGAR, DHONE,KURNOOL DIST,ANDHRA PRADESH. PIN-518222",
     "STATE": "ANDHRA PRADESH",
@@ -5797,9 +5780,9 @@
     "SWIFT": null
   },
   "APGB0003192": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003192",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "OWK",
     "ADDRESS": "DOOR NO 1/71, RAJA STREET,NEAR VASAVI DEVASTHANAM,OWK(VILLAGE & MANDAL),KURNOOL DISTRICT,ANDHRA PRADESH. PIN-518122",
     "STATE": "ANDHRA PRADESH",
@@ -5814,9 +5797,9 @@
     "SWIFT": null
   },
   "APGB0003193": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003193",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "KURNOOL OLD BUS STAND",
     "ADDRESS": "DOOR NO 46/1/1C2,SAPAGIRI NAGAR, NEAR AYYAPPA SWAMY NEW TEMPLE,KURNOOL.PIN-518002. ANDHRA PRADESH.",
     "STATE": "ANDHRA PRADESH",
@@ -5831,9 +5814,9 @@
     "SWIFT": null
   },
   "APGB0003194": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003194",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "KURNOOL BALAJI NAGAR",
     "ADDRESS": "PLOT NO 37, BALAJI NAGAR, VENKATA RAMANA COLONY,KURNOOL-518006. ANDHRA PRADESH",
     "STATE": "ANDHRA PRADESH",
@@ -5848,9 +5831,9 @@
     "SWIFT": null
   },
   "APGB0003195": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003195",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "YERRAGUNTLA",
     "ADDRESS": "DNO 2/127,KAPAPETA,YERRAGUNTLA (VILLAGE),SIRIVELLA(MANDAL),KURNOOL (DISTRICT),ANDHRA PRADESH. PIN-518510",
     "STATE": "ANDHRA PRADESH",
@@ -5865,9 +5848,9 @@
     "SWIFT": null
   },
   "APGB0003196": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003196",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "JILLELA",
     "ADDRESS": "JILLELA VILLAGE,GOSPADU(MANDAL),KURNOOL(DISTRICT),ANDHRA PRADESH.PIN-518563",
     "STATE": "ANDHRA PRADESH",
@@ -5882,9 +5865,9 @@
     "SWIFT": null
   },
   "APGB0003197": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003197",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "PAMULAPADU",
     "ADDRESS": "DNO 3/129,CHOWDAMMA TEMPLET,PAMULAPADU(VILLAGE),PAMULAPADU(MANDAL),KURNOOL(DISTRICT),ANDHRA PRADESH. PIN-518442",
     "STATE": "ANDHRA PRADESH",
@@ -5899,9 +5882,9 @@
     "SWIFT": null
   },
   "APGB0003198": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003198",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "SANTHAJUTUR",
     "ADDRESS": "DNO 1/65, NEAR RAMALAYAM,SANTHAJUTUR VILLAGE,BANDI ATMAKUR MANDAL,KURNOOL(DISTRICT),ANDHRA PRADESH.PIN-518513",
     "STATE": "ANDHRA PRADESH",
@@ -5916,9 +5899,9 @@
     "SWIFT": null
   },
   "APGB0003199": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003199",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "NANDAVARAM",
     "ADDRESS": "CHERUVUPALLI ROAD, BESIDE SRI CHOWDESWARI TEMPLE,NANDAVARAM VILLAGE,BANAGANAPALLE MANDAL,KURNOOL(DIST),ANDHRA PRADESH.PIN-518124",
     "STATE": "ANDHRA PRADESH",
@@ -5933,9 +5916,9 @@
     "SWIFT": null
   },
   "APGB0003200": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003200",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "GULYAM",
     "ADDRESS": "2/469 A,NEAR GADELINGESHWARA TEMPLE,GULYAM(VILLAGE),HALAHARVI(MANDAL),KURNOOL(DIST),ANDHRA PRADESH. PIN-518348",
     "STATE": "ANDHRA PRADESH",
@@ -5950,9 +5933,9 @@
     "SWIFT": null
   },
   "APGB0003201": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003201",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "KOTHAPALLI",
     "ADDRESS": "DNO 11/1,KOTHAPALLI(VILLAGE & POST),KURNOOL(DIST),ANDHRA PRADESH. PIN-518422",
     "STATE": "ANDHRA PRADESH",
@@ -5967,9 +5950,9 @@
     "SWIFT": null
   },
   "APGB0003202": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003202",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "NANDYAL SBI COLONY",
     "ADDRESS": "DOOR NO 29/178/F2/AF, BESIDE RANI PRAMEELA HOSPITAL,SBI COLONY,NANDYAL,KURNOOL(DIST),ANDHRA PRADESH.PIN- 518502",
     "STATE": "ANDHRA PRADESH",
@@ -5984,9 +5967,9 @@
     "SWIFT": null
   },
   "APGB0003203": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003203",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "NAGALADINNE",
     "ADDRESS": "MANTRALAYAM ROAD,NAGALADINNE VILLAGE,NANDAVARAM MANDAL, KURNOOL (DIST),ANDHRA PRADESH. PIN- 513360",
     "STATE": "ANDHRA PRADESH",
@@ -6001,9 +5984,9 @@
     "SWIFT": null
   },
   "APGB0003204": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003204",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "ELLAVATHULA",
     "ADDRESS": "DOOR NO 3/45, PEDDAMMA BAYALU, ELLAVATHULA VILLAGE,RUDRAVARAM(MANDAL),KURNOOL(DIST),ANDHRA PRADESH- 518583",
     "STATE": "ANDHRA PRADESH",
@@ -6018,9 +6001,9 @@
     "SWIFT": null
   },
   "APGB0003205": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003205",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "DUDYALA",
     "ADDRESS": "DOOR NO 4/8, BODDURAYI STREET,DUDYALA VILLAGE,KOTHAPALLE MANDAL,KURNOOL DIST,ANDHRA PRADESH-518422",
     "STATE": "ANDHRA PRADESH",
@@ -6035,9 +6018,9 @@
     "SWIFT": null
   },
   "APGB0003206": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003206",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "GOVARDHANAGIRI",
     "ADDRESS": "ANDHRA PRAGATHI GRAMEENA BANK,3/451,GOVARDHANAGIRI (VILLAGE & POST), VELDURTHY,KURNOOL(DIST),ANDHRA PRADESH.PIN-518216",
     "STATE": "ANDHRA PRADESH",
@@ -6052,9 +6035,9 @@
     "SWIFT": null
   },
   "APGB0003207": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003207",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "ALLUR",
     "ADDRESS": "ANDHRA PRAGATHI GRAMEENA BANK,DOOR NO 1/1/A,ALLUR VILLAGE,NANDIKOTKUR,KURNOOL(DIST),ANDHRA PRADESH.PIN-518401",
     "STATE": "ANDHRA PRADESH",
@@ -6069,9 +6052,9 @@
     "SWIFT": null
   },
   "APGB0003208": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003208",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "ADONI ALURU BUS STAND",
     "ADDRESS": "ANDHRA PRAGATHI GRAMEENA BANK,DOOR NO 17/137,ALURU ROAD,NEAR OLD BUS STAND,ADONI TOWN,KURNOOL(DIST),ANDHRA PRADESH.PIN-518301",
     "STATE": "ANDHRA PRADESH",
@@ -6086,9 +6069,9 @@
     "SWIFT": null
   },
   "APGB0003209": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003209",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "RANGAPURAM",
     "ADDRESS": "DHONE ROAD, RANGAPURAM VILLAGE,BETAMCHERLA MANDAL,KURNOOL(DIST),ANDHRA PRADESH.PIN-518598",
     "STATE": "ANDHRA PRADESH",
@@ -6103,9 +6086,9 @@
     "SWIFT": null
   },
   "APGB0003210": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003210",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "C BELAGAL",
     "ADDRESS": "ANDHRA PRAGATHI GRAMEENA BANK,DNO 3-238-1-2,C BELAGAL (VILL & POST),KURNOOL (DIST),ANDRHA PRADESH. PIN-518462",
     "STATE": "ANDHRA PRADESH",
@@ -6120,9 +6103,9 @@
     "SWIFT": null
   },
   "APGB0003211": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003211",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "CHINNA TEKUR",
     "ADDRESS": "ANDHRA PRAGATHI GRAMEENA BANK,DNO 1-9 E,BESIDE ELECTRIC POWER STATION,CHINNA TEKUR(VILL & POST),KALLUR MANDAL,KURNOOL(DIST),ANDHRA PRADESH.PIN-518218",
     "STATE": "ANDHRA PRADESH",
@@ -6137,9 +6120,9 @@
     "SWIFT": null
   },
   "APGB0003212": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0003212",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "PERUSOMALA",
     "ADDRESS": "ANDHRA PRAGATHI GRAMEENA BANK,PERUSOMALA BRANCH, PERUSOMALA(VILLAGE),SANJAMALA(MANDAL),KURNOOL(DIST),ANDHRA PRADESH.PIN-518166",
     "STATE": "ANDHRA PRADESH",
@@ -6154,9 +6137,9 @@
     "SWIFT": null
   },
   "APGB0004000": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004000",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "NELLORE RO",
     "ADDRESS": "ANDHRA PRAGATHI GRAMEENA BANK,REGIONAL OFFICE,RITHWIK ENCLAVE,NEAR CURRENT OFFICE CENTRE,NELLORE-524004",
     "STATE": "ANDHRA PRADESH",
@@ -6171,7 +6154,7 @@
     "SWIFT": null
   },
   "APGB0004001": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004001",
     "MICR": "524703003",
     "BRANCH": "NELLORE MAIN",
@@ -6188,7 +6171,7 @@
     "SWIFT": null
   },
   "APGB0004002": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004002",
     "MICR": "524703662",
     "BRANCH": "VAKADU",
@@ -6205,7 +6188,7 @@
     "SWIFT": null
   },
   "APGB0004003": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004003",
     "MICR": "524703664",
     "BRANCH": "PELLAKURU",
@@ -6222,7 +6205,7 @@
     "SWIFT": null
   },
   "APGB0004004": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004004",
     "MICR": "524703723",
     "BRANCH": "JAGADEVIPETA",
@@ -6239,7 +6222,7 @@
     "SWIFT": null
   },
   "APGB0004006": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004006",
     "MICR": "524703503",
     "BRANCH": "GANDIPALEM",
@@ -6256,7 +6239,7 @@
     "SWIFT": null
   },
   "APGB0004007": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004007",
     "MICR": "524703011",
     "BRANCH": "KASUMUR",
@@ -6273,7 +6256,7 @@
     "SWIFT": null
   },
   "APGB0004008": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004008",
     "MICR": "524703002",
     "BRANCH": "NELLORE - VEDAYAPALEM",
@@ -6290,7 +6273,7 @@
     "SWIFT": null
   },
   "APGB0004009": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004009",
     "MICR": "524703584",
     "BRANCH": "VAVILLA",
@@ -6307,7 +6290,7 @@
     "SWIFT": null
   },
   "APGB0004010": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004010",
     "MICR": "524703303",
     "BRANCH": "BANGARUPET",
@@ -6324,7 +6307,7 @@
     "SWIFT": null
   },
   "APGB0004011": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004011",
     "MICR": "524703665",
     "BRANCH": "KURUGONDA",
@@ -6341,7 +6324,7 @@
     "SWIFT": null
   },
   "APGB0004012": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004012",
     "MICR": "524703204",
     "BRANCH": "GOURAVARAM",
@@ -6358,7 +6341,7 @@
     "SWIFT": null
   },
   "APGB0004013": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004013",
     "MICR": "524703513",
     "BRANCH": "CHILAKALAMARI",
@@ -6375,7 +6358,7 @@
     "SWIFT": null
   },
   "APGB0004014": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004014",
     "MICR": "524703512",
     "BRANCH": "MARRIPADU",
@@ -6392,7 +6375,7 @@
     "SWIFT": null
   },
   "APGB0004015": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004015",
     "MICR": "524703524",
     "BRANCH": "CHAKALAKONDA",
@@ -6409,7 +6392,7 @@
     "SWIFT": null
   },
   "APGB0004016": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004016",
     "MICR": "524703525",
     "BRANCH": "SIDDANAKONDURU",
@@ -6426,7 +6409,7 @@
     "SWIFT": null
   },
   "APGB0004017": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004017",
     "MICR": "524703666",
     "BRANCH": "MALLAM",
@@ -6443,7 +6426,7 @@
     "SWIFT": null
   },
   "APGB0004018": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004018",
     "MICR": "524703684",
     "BRANCH": "BRAHMANAKRAKA",
@@ -6460,7 +6443,7 @@
     "SWIFT": null
   },
   "APGB0004019": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004019",
     "MICR": "524703703",
     "BRANCH": "POOLATHOTA",
@@ -6477,7 +6460,7 @@
     "SWIFT": null
   },
   "APGB0004020": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004020",
     "MICR": "524703585",
     "BRANCH": "UTKUR",
@@ -6494,7 +6477,7 @@
     "SWIFT": null
   },
   "APGB0004021": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004021",
     "MICR": "524703586",
     "BRANCH": "TALAHANCHI",
@@ -6511,7 +6494,7 @@
     "SWIFT": null
   },
   "APGB0004022": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004022",
     "MICR": "524703012",
     "BRANCH": "EDURU",
@@ -6528,7 +6511,7 @@
     "SWIFT": null
   },
   "APGB0004023": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004023",
     "MICR": "524703526",
     "BRANCH": "KONDAPURAM",
@@ -6545,7 +6528,7 @@
     "SWIFT": null
   },
   "APGB0004025": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004025",
     "MICR": "524703527",
     "BRANCH": "GUNAPADU",
@@ -6562,7 +6545,7 @@
     "SWIFT": null
   },
   "APGB0004026": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004026",
     "MICR": "524703667",
     "BRANCH": "MANGA NELLORE",
@@ -6579,7 +6562,7 @@
     "SWIFT": null
   },
   "APGB0004027": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004027",
     "MICR": "524703587",
     "BRANCH": "VEGURU",
@@ -6596,7 +6579,7 @@
     "SWIFT": null
   },
   "APGB0004028": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004028",
     "MICR": "524703103",
     "BRANCH": "MALAVYA NAGAR BRANCH, GUDUR",
@@ -6613,7 +6596,7 @@
     "SWIFT": null
   },
   "APGB0004030": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004030",
     "MICR": "524703623",
     "BRANCH": "DAKKILI",
@@ -6630,7 +6613,7 @@
     "SWIFT": null
   },
   "APGB0004032": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004032",
     "MICR": "524703550",
     "BRANCH": "ADURUPALLI",
@@ -6647,7 +6630,7 @@
     "SWIFT": null
   },
   "APGB0004033": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004033",
     "MICR": "524703102",
     "BRANCH": "GUDUR(N)",
@@ -6664,7 +6647,7 @@
     "SWIFT": null
   },
   "APGB0004034": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004034",
     "MICR": "524703546",
     "BRANCH": "KULLUR",
@@ -6681,7 +6664,7 @@
     "SWIFT": null
   },
   "APGB0004035": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004035",
     "MICR": "524703547",
     "BRANCH": "MAMUDURU",
@@ -6698,7 +6681,7 @@
     "SWIFT": null
   },
   "APGB0004036": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004036",
     "MICR": "524703504",
     "BRANCH": "NANDI PADU",
@@ -6715,7 +6698,7 @@
     "SWIFT": null
   },
   "APGB0004037": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004037",
     "MICR": "524703548",
     "BRANCH": "MOHAMMADAPURAM",
@@ -6732,7 +6715,7 @@
     "SWIFT": null
   },
   "APGB0004038": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004038",
     "MICR": "524703505",
     "BRANCH": "GUNDEMADAKALA",
@@ -6749,7 +6732,7 @@
     "SWIFT": null
   },
   "APGB0004039": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004039",
     "MICR": "524703682",
     "BRANCH": "ALLUR",
@@ -6766,7 +6749,7 @@
     "SWIFT": null
   },
   "APGB0004040": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004040",
     "MICR": "524703685",
     "BRANCH": "CHINTALAPALEM",
@@ -6783,7 +6766,7 @@
     "SWIFT": null
   },
   "APGB0004042": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004042",
     "MICR": "524703013",
     "BRANCH": "PEDAPUTTEDU",
@@ -6800,7 +6783,7 @@
     "SWIFT": null
   },
   "APGB0004043": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004043",
     "MICR": "524703205",
     "BRANCH": "RUDRAKOTA",
@@ -6817,7 +6800,7 @@
     "SWIFT": null
   },
   "APGB0004044": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004044",
     "MICR": "524703549",
     "BRANCH": "VASILI",
@@ -6834,7 +6817,7 @@
     "SWIFT": null
   },
   "APGB0004045": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004045",
     "MICR": "524703014",
     "BRANCH": "NIDIGUNTAPALEM",
@@ -6851,7 +6834,7 @@
     "SWIFT": null
   },
   "APGB0004047": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004047",
     "MICR": "524703563",
     "BRANCH": "DUVUURU",
@@ -6868,7 +6851,7 @@
     "SWIFT": null
   },
   "APGB0004048": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004048",
     "MICR": "524703015",
     "BRANCH": "JONNAWADA",
@@ -6885,7 +6868,7 @@
     "SWIFT": null
   },
   "APGB0004049": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004049",
     "MICR": "524703722",
     "BRANCH": "INDUKURPET",
@@ -6902,7 +6885,7 @@
     "SWIFT": null
   },
   "APGB0004050": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004050",
     "MICR": "524703202",
     "BRANCH": "KAVALI",
@@ -6919,7 +6902,7 @@
     "SWIFT": null
   },
   "APGB0004065": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004065",
     "MICR": "524703662",
     "BRANCH": "NAIDUPET",
@@ -6936,7 +6919,7 @@
     "SWIFT": null
   },
   "APGB0004066": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004066",
     "MICR": "524703302",
     "BRANCH": "VENKATAGIRI",
@@ -6953,7 +6936,7 @@
     "SWIFT": null
   },
   "APGB0004067": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004067",
     "MICR": "524703622",
     "BRANCH": "RAPUR",
@@ -6970,7 +6953,7 @@
     "SWIFT": null
   },
   "APGB0004071": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004071",
     "MICR": "524703522",
     "BRANCH": "VINJAMUR",
@@ -6987,7 +6970,7 @@
     "SWIFT": null
   },
   "APGB0004072": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004072",
     "MICR": "524703506",
     "BRANCH": "NARRAWADA",
@@ -7004,7 +6987,7 @@
     "SWIFT": null
   },
   "APGB0004073": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004073",
     "MICR": "524703502",
     "BRANCH": "UDAYAGIRI",
@@ -7021,7 +7004,7 @@
     "SWIFT": null
   },
   "APGB0004074": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004074",
     "MICR": "524703582",
     "BRANCH": "KOVUR",
@@ -7038,7 +7021,7 @@
     "SWIFT": null
   },
   "APGB0004075": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004075",
     "MICR": "524703104",
     "BRANCH": "BADDEVOLU",
@@ -7055,7 +7038,7 @@
     "SWIFT": null
   },
   "APGB0004083": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004083",
     "MICR": "524703105",
     "BRANCH": "TIKKAVARAM",
@@ -7072,7 +7055,7 @@
     "SWIFT": null
   },
   "APGB0004084": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004084",
     "MICR": "524703562",
     "BRANCH": "BUTCHIREDDIPALEM",
@@ -7089,7 +7072,7 @@
     "SWIFT": null
   },
   "APGB0004087": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004087",
     "MICR": "524703702",
     "BRANCH": "SULLURPET",
@@ -7106,7 +7089,7 @@
     "SWIFT": null
   },
   "APGB0004093": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004093",
     "MICR": "524703542",
     "BRANCH": "ATMAKUR(N)",
@@ -7123,7 +7106,7 @@
     "SWIFT": null
   },
   "APGB0004097": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004097",
     "MICR": "524703583",
     "BRANCH": "RAJUPALEM",
@@ -7140,7 +7123,7 @@
     "SWIFT": null
   },
   "APGB0004098": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004098",
     "MICR": "524703543",
     "BRANCH": "PODALAKUR",
@@ -7157,7 +7140,7 @@
     "SWIFT": null
   },
   "APGB0004100": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004100",
     "MICR": "524703544",
     "BRANCH": "KALUVOY",
@@ -7174,7 +7157,7 @@
     "SWIFT": null
   },
   "APGB0004101": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004101",
     "MICR": "524703006",
     "BRANCH": "STONEHOUSEPET BRANCH, NELLORE",
@@ -7191,7 +7174,7 @@
     "SWIFT": null
   },
   "APGB0004103": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004103",
     "MICR": "524703642",
     "BRANCH": "MUTHUKUR",
@@ -7208,7 +7191,7 @@
     "SWIFT": null
   },
   "APGB0004104": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004104",
     "MICR": "524703545",
     "BRANCH": "CHEJERLA",
@@ -7225,7 +7208,7 @@
     "SWIFT": null
   },
   "APGB0004111": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004111",
     "MICR": "524703523",
     "BRANCH": "KALIGIRI",
@@ -7242,7 +7225,7 @@
     "SWIFT": null
   },
   "APGB0004112": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004112",
     "MICR": "524703004",
     "BRANCH": "A.K.NAGAR , NELLORE",
@@ -7259,7 +7242,7 @@
     "SWIFT": null
   },
   "APGB0004113": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004113",
     "MICR": "524703742",
     "BRANCH": "TADA",
@@ -7276,7 +7259,7 @@
     "SWIFT": null
   },
   "APGB0004114": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004114",
     "MICR": "524703005",
     "BRANCH": "NELLORE, SANGHA MITRA VIDYALAYA",
@@ -7293,7 +7276,7 @@
     "SWIFT": null
   },
   "APGB0004115": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004115",
     "MICR": "524703009",
     "BRANCH": "MULUMUDI BUS STAND NELLORE",
@@ -7310,7 +7293,7 @@
     "SWIFT": null
   },
   "APGB0004116": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004116",
     "MICR": "524703663",
     "BRANCH": "KOTA",
@@ -7327,7 +7310,7 @@
     "SWIFT": null
   },
   "APGB0004117": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004117",
     "MICR": "524703683",
     "BRANCH": "JALADANKI",
@@ -7344,7 +7327,7 @@
     "SWIFT": null
   },
   "APGB0004118": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004118",
     "MICR": "524703206",
     "BRANCH": "JANATHAPETA-KAVALI",
@@ -7361,9 +7344,9 @@
     "SWIFT": null
   },
   "APGB0004119": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004119",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "DUVVUR RAMANAMMA WOMEN'S COLLEGE",
     "ADDRESS": "DUVVUR RAMANAMMA WOMEN'S COLLEGE,  GUDUR,NELLORE DT.-524101",
     "STATE": "ANDHRA PRADESH",
@@ -7378,7 +7361,7 @@
     "SWIFT": null
   },
   "APGB0004120": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004120",
     "MICR": "524703304",
     "BRANCH": "VENKATAGIRI CROSS ROADS",
@@ -7395,7 +7378,7 @@
     "SWIFT": null
   },
   "APGB0004121": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004121",
     "MICR": "524703010",
     "BRANCH": "PADUGUPADU",
@@ -7412,7 +7395,7 @@
     "SWIFT": null
   },
   "APGB0004122": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004122",
     "MICR": "524703106",
     "BRANCH": "CHILLAKURU",
@@ -7429,7 +7412,7 @@
     "SWIFT": null
   },
   "APGB0004123": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004123",
     "MICR": "524703203",
     "BRANCH": "KOMMI",
@@ -7446,7 +7429,7 @@
     "SWIFT": null
   },
   "APGB0004124": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004124",
     "MICR": "524703624",
     "BRANCH": "PENCHALAKONA",
@@ -7463,7 +7446,7 @@
     "SWIFT": null
   },
   "APGB0004125": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004125",
     "MICR": "524703007",
     "BRANCH": "NELLORE, BALAJI NAGAR",
@@ -7480,7 +7463,7 @@
     "SWIFT": null
   },
   "APGB0004126": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004126",
     "MICR": "524703008",
     "BRANCH": "NELLORE, KISAN NAGAR",
@@ -7497,9 +7480,9 @@
     "SWIFT": null
   },
   "APGB0004127": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004127",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "DYCUS ROAD BRANCH",
     "ADDRESS": "25 5 310, SANJAY GANDHI NAGAR, DYCUS ROAD, PDALAKURU ROAD, NELLORE",
     "STATE": "ANDHRA PRADESH",
@@ -7514,9 +7497,9 @@
     "SWIFT": null
   },
   "APGB0004128": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004128",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "MULAPET-NELLORE",
     "ADDRESS": "20-194 BESIDE SRI MAHALAKSHMI TEMPLE BRAHMIN STREET MULAPET NELLORE 524003",
     "STATE": "ANDHRA PRADESH",
@@ -7531,9 +7514,9 @@
     "SWIFT": null
   },
   "APGB0004129": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004129",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "HARRANATHAPURAM-NELLORE",
     "ADDRESS": "16-3-1571 SAHAKAR BHAVAN HARANATHAPURAM NELLORE 524003",
     "STATE": "ANDHRA PRADESH",
@@ -7548,9 +7531,9 @@
     "SWIFT": null
   },
   "APGB0004130": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004130",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "CHILDREN PARK ROAD NELLORE",
     "ADDRESS": "16-4-1703-1 BEHIND MURALI KRISHNA MANDIRAM CHILDREN PARK ROAD NELLORE",
     "STATE": "ANDHRA PRADESH",
@@ -7565,9 +7548,9 @@
     "SWIFT": null
   },
   "APGB0004131": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004131",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "MANUBOLU",
     "ADDRESS": "DOOR NO 11/4,KODANDARAMAPURAM,MANUBOLU-524405",
     "STATE": "ANDHRA PRADESH",
@@ -7582,9 +7565,9 @@
     "SWIFT": null
   },
   "APGB0004132": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004132",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "REVUR",
     "ADDRESS": "D.NO 3/15, SOMASILA ROAD,REVUR,ANANTHASAGARAM(M),PSR NELLORE DIST,ANDHRA PRADESH.PIN-524303",
     "STATE": "ANDHRA PRADESH",
@@ -7599,9 +7582,9 @@
     "SWIFT": null
   },
   "APGB0004133": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004133",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "NELLORE RAMACHANDRAPURAM",
     "ADDRESS": "DOOR NO 2/2/14/2, GANDLA STREET, DABBALA CENTRE,NAWABPET, NELLORE-524002.SPSR NELLORE(DIST). ANDHRA PRADESH",
     "STATE": "ANDHRA PRADESH",
@@ -7616,9 +7599,9 @@
     "SWIFT": null
   },
   "APGB0004134": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004134",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "SULLURUPET-SHAR STREET",
     "ADDRESS": "3/3/98 BAPUJI COLONY, GOODS SHED ROAD,SHAR BUS STAND CENTER,SULLURUPET MANDAL,SPSR NELLORE DISTRICT, ANDHRA PRADESH",
     "STATE": "ANDHRA PRADESH",
@@ -7633,9 +7616,9 @@
     "SWIFT": null
   },
   "APGB0004135": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004135",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "TUMMALAPENTA",
     "ADDRESS": "MAIN ROAD,TUMMALAPENTA VILLAGE,KAVALI MANDAL,SPSR NELLORE DISTRICT,ANDHRA PRADESH",
     "STATE": "ANDHRA PRADESH",
@@ -7650,9 +7633,9 @@
     "SWIFT": null
   },
   "APGB0004136": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004136",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "MAHIMALUR",
     "ADDRESS": "MAIN ROAD,MAHIMALUR VILLAGE,ATMAKUR MANDAL,SPSR NELLORE DISTRICT,ANDHRA PRADESH. PIN-524307",
     "STATE": "ANDHRA PRADESH",
@@ -7667,9 +7650,9 @@
     "SWIFT": null
   },
   "APGB0004137": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004137",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "NELLORE KOTHAKALUVA",
     "ADDRESS": "DOOR NO 6/6,KOTHA KALUVA CENTER,NELLORE RURAL MANDAL,SPSR NELLORE(DIST),ANDHRA PRADESH. PIN- 524002",
     "STATE": "ANDHRA PRADESH",
@@ -7684,9 +7667,9 @@
     "SWIFT": null
   },
   "APGB0004138": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004138",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "APPARAOPALEM",
     "ADDRESS": "DOOR NO 2/29,TOORPU VEEDHI, APPARAOPALEM VILLAGE,ATMAKUR MANDAL,SPS NELLORE DIST,ANDHRA PRADESH. PIN- 524322",
     "STATE": "ANDHRA PRADESH",
@@ -7701,9 +7684,9 @@
     "SWIFT": null
   },
   "APGB0004139": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0004139",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "PADURUPALLI",
     "ADDRESS": "D NO 26/11/468,NEAR SRI VENKATESWARA TEMPLE,PADURUPALLI-524004.NELLORE(DIST) ANDHRA PRADESH",
     "STATE": "ANDHRA PRADESH",
@@ -7718,9 +7701,9 @@
     "SWIFT": null
   },
   "APGB0005000": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005000",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "ONGOLE RO",
     "ADDRESS": "ANDHRA PRAGATHI GRAMEENA BANK,REGIONAL OFFICE,RAAVI ANJANEYULU STREET,BEHIND PARADISE RESTAURANT,KURNOOL ROAD,ONGOLE-523001",
     "STATE": "ANDHRA PRADESH",
@@ -7735,7 +7718,7 @@
     "SWIFT": null
   },
   "APGB0005044": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005044",
     "MICR": "523703544",
     "BRANCH": "ARTHAVEEDU",
@@ -7752,7 +7735,7 @@
     "SWIFT": null
   },
   "APGB0005045": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005045",
     "MICR": "523703523",
     "BRANCH": "RACHERLA",
@@ -7769,7 +7752,7 @@
     "SWIFT": null
   },
   "APGB0005046": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005046",
     "MICR": "523703202",
     "BRANCH": "MARKAPUR",
@@ -7786,7 +7769,7 @@
     "SWIFT": null
   },
   "APGB0005051": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005051",
     "MICR": "523703005",
     "BRANCH": "EDUGUNDLAPADU",
@@ -7803,7 +7786,7 @@
     "SWIFT": null
   },
   "APGB0005052": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005052",
     "MICR": "523703543",
     "BRANCH": "BESTAVARIPET",
@@ -7820,7 +7803,7 @@
     "SWIFT": null
   },
   "APGB0005053": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005053",
     "MICR": "523703626",
     "BRANCH": "MUNDLAMUR",
@@ -7837,7 +7820,7 @@
     "SWIFT": null
   },
   "APGB0005054": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005054",
     "MICR": "523703685",
     "BRANCH": "TETTU(MOCHERLA)",
@@ -7854,7 +7837,7 @@
     "SWIFT": null
   },
   "APGB0005055": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005055",
     "MICR": "523703666",
     "BRANCH": "DRONADULA",
@@ -7871,7 +7854,7 @@
     "SWIFT": null
   },
   "APGB0005056": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005056",
     "MICR": "523703584",
     "BRANCH": "MADDULUR",
@@ -7888,7 +7871,7 @@
     "SWIFT": null
   },
   "APGB0005057": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005057",
     "MICR": "523703603",
     "BRANCH": "PEDACHERLOPALLI",
@@ -7905,7 +7888,7 @@
     "SWIFT": null
   },
   "APGB0005058": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005058",
     "MICR": "523703504",
     "BRANCH": "YERRAGONDAPALEM",
@@ -7922,7 +7905,7 @@
     "SWIFT": null
   },
   "APGB0005059": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005059",
     "MICR": "523703522",
     "BRANCH": "GIDDALUR",
@@ -7939,7 +7922,7 @@
     "SWIFT": null
   },
   "APGB0005060": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005060",
     "MICR": "523703667",
     "BRANCH": "BALLIKURAVA",
@@ -7956,7 +7939,7 @@
     "SWIFT": null
   },
   "APGB0005061": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005061",
     "MICR": "523703803",
     "BRANCH": "CHODAVARAM",
@@ -7973,7 +7956,7 @@
     "SWIFT": null
   },
   "APGB0005062": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005062",
     "MICR": "523703648",
     "BRANCH": "KUNDURU",
@@ -7990,7 +7973,7 @@
     "SWIFT": null
   },
   "APGB0005063": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005063",
     "MICR": "523703563",
     "BRANCH": "VEMULAPADU",
@@ -8007,7 +7990,7 @@
     "SWIFT": null
   },
   "APGB0005064": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005064",
     "MICR": "523703007",
     "BRANCH": "KARUMANCHI",
@@ -8024,7 +8007,7 @@
     "SWIFT": null
   },
   "APGB0005068": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005068",
     "MICR": "523703524",
     "BRANCH": "MUNDLAPADU",
@@ -8041,7 +8024,7 @@
     "SWIFT": null
   },
   "APGB0005069": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005069",
     "MICR": "523703542",
     "BRANCH": "CUMBUM",
@@ -8058,7 +8041,7 @@
     "SWIFT": null
   },
   "APGB0005070": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005070",
     "MICR": "523703649",
     "BRANCH": "PAMIDIPADU",
@@ -8075,7 +8058,7 @@
     "SWIFT": null
   },
   "APGB0005078": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005078",
     "MICR": "523703725",
     "BRANCH": "EEDUMUDI",
@@ -8092,7 +8075,7 @@
     "SWIFT": null
   },
   "APGB0005080": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005080",
     "MICR": "523703585",
     "BRANCH": "BODDIKURAPADU",
@@ -8109,7 +8092,7 @@
     "SWIFT": null
   },
   "APGB0005082": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005082",
     "MICR": "523703668",
     "BRANCH": "KOPPERAPADU",
@@ -8126,7 +8109,7 @@
     "SWIFT": null
   },
   "APGB0005085": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005085",
     "MICR": "523703583",
     "BRANCH": "CHIMAKURTHI",
@@ -8143,7 +8126,7 @@
     "SWIFT": null
   },
   "APGB0005086": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005086",
     "MICR": "523703505",
     "BRANCH": "GALIZERUGULLA",
@@ -8160,7 +8143,7 @@
     "SWIFT": null
   },
   "APGB0005088": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005088",
     "MICR": "523703506",
     "BRANCH": "AMMANAGUDIPADU",
@@ -8177,7 +8160,7 @@
     "SWIFT": null
   },
   "APGB0005089": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005089",
     "MICR": "523703802",
     "BRANCH": "KONDAPI",
@@ -8194,7 +8177,7 @@
     "SWIFT": null
   },
   "APGB0005090": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005090",
     "MICR": "523703582",
     "BRANCH": "PODILI",
@@ -8211,7 +8194,7 @@
     "SWIFT": null
   },
   "APGB0005091": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005091",
     "MICR": "523703507",
     "BRANCH": "PULLALACHERUVU",
@@ -8228,7 +8211,7 @@
     "SWIFT": null
   },
   "APGB0005092": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005092",
     "MICR": "523703003",
     "BRANCH": "ONGOLE MARKET CENTRE",
@@ -8245,7 +8228,7 @@
     "SWIFT": null
   },
   "APGB0005094": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005094",
     "MICR": "523703647",
     "BRANCH": "MEDARAMETLA BRANCH",
@@ -8262,7 +8245,7 @@
     "SWIFT": null
   },
   "APGB0005095": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005095",
     "MICR": "523703762",
     "BRANCH": "ULAVAPADU",
@@ -8279,7 +8262,7 @@
     "SWIFT": null
   },
   "APGB0005096": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005096",
     "MICR": "523703702",
     "BRANCH": "PAMUR",
@@ -8296,7 +8279,7 @@
     "SWIFT": null
   },
   "APGB0005098": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005098",
     "MICR": "523703203",
     "BRANCH": "GAJJALAKONDA",
@@ -8313,7 +8296,7 @@
     "SWIFT": null
   },
   "APGB0005099": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005099",
     "MICR": "523703623",
     "BRANCH": "KURICHEDU",
@@ -8330,7 +8313,7 @@
     "SWIFT": null
   },
   "APGB0005102": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005102",
     "MICR": "523703686",
     "BRANCH": "SINGARAYAKONDA",
@@ -8347,7 +8330,7 @@
     "SWIFT": null
   },
   "APGB0005105": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005105",
     "MICR": "523703665",
     "BRANCH": "MARTURU",
@@ -8364,7 +8347,7 @@
     "SWIFT": null
   },
   "APGB0005106": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005106",
     "MICR": "523703622",
     "BRANCH": "DARSI",
@@ -8381,7 +8364,7 @@
     "SWIFT": null
   },
   "APGB0005107": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005107",
     "MICR": "523703664",
     "BRANCH": "KARAMCHEDU",
@@ -8398,7 +8381,7 @@
     "SWIFT": null
   },
   "APGB0005108": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005108",
     "MICR": "523703726",
     "BRANCH": "PANDILLA  PALLE",
@@ -8415,7 +8398,7 @@
     "SWIFT": null
   },
   "APGB0005109": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005109",
     "MICR": "523703663",
     "BRANCH": "PARCHOOR",
@@ -8432,7 +8415,7 @@
     "SWIFT": null
   },
   "APGB0005110": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005110",
     "MICR": "523703002",
     "BRANCH": "MUNGAMUR ROAD, ONGOLE BRANCH",
@@ -8449,7 +8432,7 @@
     "SWIFT": null
   },
   "APGB0005111": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005111",
     "MICR": "523703204",
     "BRANCH": "THIPPAYAPALEM",
@@ -8466,7 +8449,7 @@
     "SWIFT": null
   },
   "APGB0005130": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005130",
     "MICR": "523703508",
     "BRANCH": "NAIDU PALEM",
@@ -8483,7 +8466,7 @@
     "SWIFT": null
   },
   "APGB0005132": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005132",
     "MICR": "523703503",
     "BRANCH": "TRIPURANTAKAM",
@@ -8500,7 +8483,7 @@
     "SWIFT": null
   },
   "APGB0005152": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005152",
     "MICR": "523703669",
     "BRANCH": "NUTHALAPADU",
@@ -8517,7 +8500,7 @@
     "SWIFT": null
   },
   "APGB0005158": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005158",
     "MICR": "523703586",
     "BRANCH": "MARRIPUDI",
@@ -8534,7 +8517,7 @@
     "SWIFT": null
   },
   "APGB0005159": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005159",
     "MICR": "523703624",
     "BRANCH": "AVULAMANDA",
@@ -8551,7 +8534,7 @@
     "SWIFT": null
   },
   "APGB0005168": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005168",
     "MICR": "523703009",
     "BRANCH": "ONGOLE- MAIN",
@@ -8568,7 +8551,7 @@
     "SWIFT": null
   },
   "APGB0005169": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005169",
     "MICR": "523703646",
     "BRANCH": "ADDANKI",
@@ -8585,7 +8568,7 @@
     "SWIFT": null
   },
   "APGB0005186": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005186",
     "MICR": "523703682",
     "BRANCH": "KANDUKUR",
@@ -8602,7 +8585,7 @@
     "SWIFT": null
   },
   "APGB0005188": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005188",
     "MICR": "523703102",
     "BRANCH": "CHIRALA",
@@ -8619,7 +8602,7 @@
     "SWIFT": null
   },
   "APGB0005191": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005191",
     "MICR": "523703602",
     "BRANCH": "KANIGIRI",
@@ -8636,7 +8619,7 @@
     "SWIFT": null
   },
   "APGB0005192": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005192",
     "MICR": "523703670",
     "BRANCH": "CHERUKURU",
@@ -8653,7 +8636,7 @@
     "SWIFT": null
   },
   "APGB0005193": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005193",
     "MICR": "523703502",
     "BRANCH": "KOMAROLE",
@@ -8670,7 +8653,7 @@
     "SWIFT": null
   },
   "APGB0005194": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005194",
     "MICR": "523703645",
     "BRANCH": "MUPPAVARAM",
@@ -8687,7 +8670,7 @@
     "SWIFT": null
   },
   "APGB0005195": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005195",
     "MICR": "523703012",
     "BRANCH": "PERNAMITTA",
@@ -8704,7 +8687,7 @@
     "SWIFT": null
   },
   "APGB0005196": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005196",
     "MICR": "523703103",
     "BRANCH": "KOTHAPETA",
@@ -8721,7 +8704,7 @@
     "SWIFT": null
   },
   "APGB0005197": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005197",
     "MICR": "523703644",
     "BRANCH": "VALAPARLA",
@@ -8738,7 +8721,7 @@
     "SWIFT": null
   },
   "APGB0005198": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005198",
     "MICR": "523703643",
     "BRANCH": "KAMEPALLY",
@@ -8755,7 +8738,7 @@
     "SWIFT": null
   },
   "APGB0005199": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005199",
     "MICR": "523703724",
     "BRANCH": "INKOLLU",
@@ -8772,7 +8755,7 @@
     "SWIFT": null
   },
   "APGB0005200": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005200",
     "MICR": "523703723",
     "BRANCH": "UPPUGUNDUR",
@@ -8789,7 +8772,7 @@
     "SWIFT": null
   },
   "APGB0005201": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005201",
     "MICR": "523703722",
     "BRANCH": "CHINAGANJAM",
@@ -8806,7 +8789,7 @@
     "SWIFT": null
   },
   "APGB0005202": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005202",
     "MICR": "523703016",
     "BRANCH": "TANGUTURU",
@@ -8823,7 +8806,7 @@
     "SWIFT": null
   },
   "APGB0005203": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005203",
     "MICR": "523703013",
     "BRANCH": "SANTHANUTHALAPADU",
@@ -8840,7 +8823,7 @@
     "SWIFT": null
   },
   "APGB0005204": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005204",
     "MICR": "523703010",
     "BRANCH": "GANDHI BAZAR, ONGOLE",
@@ -8857,7 +8840,7 @@
     "SWIFT": null
   },
   "APGB0005205": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005205",
     "MICR": "523703014",
     "BRANCH": "THROVAGUNTA",
@@ -8874,7 +8857,7 @@
     "SWIFT": null
   },
   "APGB0005206": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005206",
     "MICR": "523703684",
     "BRANCH": "VEERA RAGHAVUNI KOTA",
@@ -8891,7 +8874,7 @@
     "SWIFT": null
   },
   "APGB0005207": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005207",
     "MICR": "523703104",
     "BRANCH": "CHIRALA (RURAL)",
@@ -8908,7 +8891,7 @@
     "SWIFT": null
   },
   "APGB0005208": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005208",
     "MICR": "523703642",
     "BRANCH": "J. PANGULURU",
@@ -8925,7 +8908,7 @@
     "SWIFT": null
   },
   "APGB0005209": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005209",
     "MICR": "523703662",
     "BRANCH": "YADDANAPUDI",
@@ -8942,7 +8925,7 @@
     "SWIFT": null
   },
   "APGB0005210": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005210",
     "MICR": "523703683",
     "BRANCH": "KANDUKUR, KANIGIRI ROAD",
@@ -8959,7 +8942,7 @@
     "SWIFT": null
   },
   "APGB0005211": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005211",
     "MICR": "523703804",
     "BRANCH": "PETLUR",
@@ -8976,7 +8959,7 @@
     "SWIFT": null
   },
   "APGB0005212": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005212",
     "MICR": "523703008",
     "BRANCH": "MARLAPADU",
@@ -8993,7 +8976,7 @@
     "SWIFT": null
   },
   "APGB0005213": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005213",
     "MICR": "523703625",
     "BRANCH": "RAJAMPALLI",
@@ -9010,7 +8993,7 @@
     "SWIFT": null
   },
   "APGB0005214": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005214",
     "MICR": "523703671",
     "BRANCH": "KOLALAPUDI",
@@ -9027,7 +9010,7 @@
     "SWIFT": null
   },
   "APGB0005215": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005215",
     "MICR": "523703011",
     "BRANCH": "ONGOLE, KAMMAPALEM",
@@ -9044,7 +9027,7 @@
     "SWIFT": null
   },
   "APGB0005216": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005216",
     "MICR": "523703004",
     "BRANCH": "ALLURU",
@@ -9061,7 +9044,7 @@
     "SWIFT": null
   },
   "APGB0005217": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005217",
     "MICR": "523703006",
     "BRANCH": "INAMANAMELLORE",
@@ -9078,7 +9061,7 @@
     "SWIFT": null
   },
   "APGB0005218": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005218",
     "MICR": "523703015",
     "BRANCH": "ULCHI",
@@ -9095,9 +9078,9 @@
     "SWIFT": null
   },
   "APGB0005219": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005219",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "MULAGUNTAPAU",
     "ADDRESS": "BEHIND RTC BUSTAND,MULAGUNTAPADU,PINCODE 523101",
     "STATE": "ANDHRA PRADESH",
@@ -9112,9 +9095,9 @@
     "SWIFT": null
   },
   "APGB0005220": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005220",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "ARIVEMULA",
     "ADDRESS": "1 86, ARIVEMULA VILLAGE AND POST, CHANDRASEKHARAPURAM MANDAL",
     "STATE": "ANDHRA PRADESH",
@@ -9129,9 +9112,9 @@
     "SWIFT": null
   },
   "APGB0005221": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005221",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "PUTTAVARIPALEM",
     "ADDRESS": "SANTHMAGULURU",
     "STATE": "ANDHRA PRADESH",
@@ -9146,9 +9129,9 @@
     "SWIFT": null
   },
   "APGB0005222": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005222",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "VALETIVARIPALEM",
     "ADDRESS": "PRAKASAM",
     "STATE": "ANDHRA PRADESH",
@@ -9163,9 +9146,9 @@
     "SWIFT": null
   },
   "APGB0005223": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005223",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "YSR CIRCLE GIDDALURU",
     "ADDRESS": "8-20-50 YSR CIRCLE KOMAROLU ROAD GIDDALURU",
     "STATE": "ANDHRA PRADESH",
@@ -9180,9 +9163,9 @@
     "SWIFT": null
   },
   "APGB0005224": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005224",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "JAVAHAR NAGAR MARKAPUR",
     "ADDRESS": "10-378 JAVAHAR NAGAR COLONY MARKAPUR",
     "STATE": "ANDHRA PRADESH",
@@ -9197,9 +9180,9 @@
     "SWIFT": null
   },
   "APGB0005225": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005225",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "ONGOLE SUJATHA NAGAR",
     "ADDRESS": "DOOR NO. 217/1B,5TH LANE,MAIN ROAD,SUJATHA NAGAR,ONGOLE-523002",
     "STATE": "ANDHRA PRADESH",
@@ -9214,9 +9197,9 @@
     "SWIFT": null
   },
   "APGB0005226": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005226",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "KRISHNAMSETTY PALLI",
     "ADDRESS": "SURVEY NO 554, KRISHNAMSETTY PALLI VILLAGE,GIDDALURU MANADAL,PRAKASHAM DISTRICT",
     "STATE": "ANDHRA PRADESH",
@@ -9231,9 +9214,9 @@
     "SWIFT": null
   },
   "APGB0005227": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005227",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "TOORPU GANGAVARAM",
     "ADDRESS": "DOOR NO 7/201 TOORPU GANGAVARAM TALLURU MANDAL PRAKASAM DIST",
     "STATE": "ANDHRA PRADESH",
@@ -9248,9 +9231,9 @@
     "SWIFT": null
   },
   "APGB0005228": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005228",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "CHOUTAPALEM",
     "ADDRESS": "DOOR NO 7/84 CHOUTAPALEM PONNALURU MANDAL PRAKASAM DIST",
     "STATE": "ANDHRA PRADESH",
@@ -9265,9 +9248,9 @@
     "SWIFT": null
   },
   "APGB0005229": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005229",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "KUNTA",
     "ADDRESS": "D NO 2/7,MAIN ROAD,KUNTA,PEDDARAVEEDU MANDAL,PRAKASAM DIST,PIN-523329,ANDHRA PRADESH",
     "STATE": "ANDHRA PRADESH",
@@ -9282,9 +9265,9 @@
     "SWIFT": null
   },
   "APGB0005230": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005230",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "B CHERLOPALLI",
     "ADDRESS": "3/90 NEAR RAMASWAMY TEMPLE,B CHERLOPALLI,PEDDARAVEEDU MANDAL,PRAKASAM DIST,ANDHRA PRADESH. PIN-523320",
     "STATE": "ANDHRA PRADESH",
@@ -9299,9 +9282,9 @@
     "SWIFT": null
   },
   "APGB0005231": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005231",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "NAGULUPPALAPADU",
     "ADDRESS": "DOOR NO 4/61, NEAR POST OFFICE, NAGULUPPALAPADU (VILLAGE & MANDAL),PRAKASAM (DIST),ANDHRA PRADESH. PIN-523183",
     "STATE": "ANDHRA PRADESH",
@@ -9316,9 +9299,9 @@
     "SWIFT": null
   },
   "APGB0005232": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005232",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "PALLAMALLI",
     "ADDRESS": "4/211, NTR BC COLONY,PALLAMALLI(VILLAGE), CHIMAKURTHI(MANDAL),PRAKASAM(DIST),ANDHRA PRADESH, PIN-523263",
     "STATE": "ANDHRA PRADESH",
@@ -9333,9 +9316,9 @@
     "SWIFT": null
   },
   "APGB0005233": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005233",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "TARLUPADU",
     "ADDRESS": "DNO 2/59-A, RATHAM BAZAR, NEAR VENUGOPALA SWAMY TEMPLE,TARLUPADU(VILLAGE & POST).PIN-523322. ANDHRA PRADESH",
     "STATE": "ANDHRA PRADESH",
@@ -9350,9 +9333,9 @@
     "SWIFT": null
   },
   "APGB0005234": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005234",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "ONGOLE HOUSING BOARD COLONY",
     "ADDRESS": "DOOR NO 9/16/137, HOUSING BOARD COLONY,ONGOLE TOWN,PRAKASAM(DIST),ANDHRA PRADESH.PIN-523002",
     "STATE": "ANDHRA PRADESH",
@@ -9367,9 +9350,9 @@
     "SWIFT": null
   },
   "APGB0005235": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005235",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "AYINAMUKKALA",
     "ADDRESS": "4/264-H,K.G.ROAD,PEDDA DORNALA,AYINAMUKKALA,PRAKASAM(DIST),ANDHRA PRADESH. PIN-523331",
     "STATE": "ANDHRA PRADESH",
@@ -9384,9 +9367,9 @@
     "SWIFT": null
   },
   "APGB0005236": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005236",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "DUPADU",
     "ADDRESS": "OPP PRIMARY HEALTH CENTER, BUS STAND CENTER,DUPADU VILLAGE,TRIPURANTHAKAM MANDAL,PRAKASAM(DIST),ANDHRA PRADESH.",
     "STATE": "ANDHRA PRADESH",
@@ -9401,9 +9384,9 @@
     "SWIFT": null
   },
   "APGB0005237": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005237",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "NALADALAPUR",
     "ADDRESS": "DOOR NO 2/58,TOORPU BAZAR, NALADALAPUR VILLAGE,VALETIVARIPALEM MANDAL, PRAKASAM(DIST),ANDHRA PRADESH. PIN - 523113",
     "STATE": "ANDHRA PRADESH",
@@ -9418,9 +9401,9 @@
     "SWIFT": null
   },
   "APGB0005238": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005238",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "KONAKANAMITLA",
     "ADDRESS": "ANDHRA PRAGATHI GRAMEENA BANK,KONAKANAMITLA BRANCH,KONAKANAMITLA,MAIN ROAD,KONAKANAMITLA.PRAKASAM(DIST)",
     "STATE": "ANDHRA PRADESH",
@@ -9435,9 +9418,9 @@
     "SWIFT": null
   },
   "APGB0005239": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005239",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "VEERAVENKATAPURAM",
     "ADDRESS": "ANDHRA PRAGATHI GRAMEENA BANK,VEERA VENKATAPURAM BRANCH,DONAKONDA BUS STAND CENTER,BESIDES GROMOR,DONAKONDA(RS),PRAKASAM(DT) PIN-523305",
     "STATE": "ANDHRA PRADESH",
@@ -9452,9 +9435,9 @@
     "SWIFT": null
   },
   "APGB0005240": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005240",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "KOTCHERLA KOTA",
     "ADDRESS": "DOOR NO 1/8,KOTCHERLA KOTA VILLAGE,DONAKONDA MANDAL,PRAKASAM(DIST),ANDHRA PRADESH. PIN-523315",
     "STATE": "ANDHRA PRADESH",
@@ -9469,9 +9452,9 @@
     "SWIFT": null
   },
   "APGB0005241": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005241",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "DARAKANIPADU",
     "ADDRESS": "ANDHRA PRAGATHI GRAMEENA BANK,DARAKANIPADU VILLAGE,GUDLURU MANDAL,PRAKASAM(DIST),ANDHRA PRADESH.PIN-523281",
     "STATE": "ANDHRA PRADESH",
@@ -9486,9 +9469,9 @@
     "SWIFT": null
   },
   "APGB0005242": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0005242",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "SANJEEVA RAO PETA",
     "ADDRESS": "ANDHRA PRAGATHI GRAMEENA BANK,SANJEEVA RAO PETA BRANCH,SANJEEVA RAO PETA(VILLAGE),GIDDALUR(MANDAL),PRAKASAM(DIST),ANDHRA PRADESH.PIN-523367",
     "STATE": "ANDHRA PRADESH",
@@ -9503,9 +9486,9 @@
     "SWIFT": null
   },
   "APGB0006000": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0006000",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "KADIRI RO",
     "ADDRESS": "ANDHRA PRAGATHI GRAMEENA BANK,REGIONAL OFFICE,DOOR NO 1/776,BY-PASS ROAD,KADIRI-515591.",
     "STATE": "ANDHRA PRADESH",
@@ -9520,9 +9503,9 @@
     "SWIFT": null
   },
   "APGB0007000": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0007000",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "NANDYAL RO",
     "ADDRESS": "ANDHRA PRAGATHI GRAMEENA BANK,REGIONAL OFFICE,DOOR NO 25/697,3RD FLOOR,SRINIVASA NAGAR,NANDYAL-518501.",
     "STATE": "ANDHRA PRADESH",
@@ -9537,9 +9520,9 @@
     "SWIFT": null
   },
   "APGB0008000": {
-    "BANK": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "BANK": "Andhra Pragathi Grameena Bank",
     "IFSC": "APGB0008000",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "RAJAMPETA RO",
     "ADDRESS": "ANDHRA PRAGATHI GRAMEENA BANK,REGIONAL OFFICE,D.NO.9/380-A,BESIDE SARADA VAIDYALAM,MADRAS ROAD,MANNURU,RAJAMPETA-516115.",
     "STATE": "ANDHRA PRADESH",

@@ -1,6 +1,6 @@
 {
   "UOVB0000001": {
-    "BANK": "UNITED OVERSEAS BANK LIMITED",
+    "BANK": "United Overseas Bank",
     "IFSC": "UOVB0000001",
     "MICR": "400036257",
     "BRANCH": "RTGS-HO",
@@ -13,23 +13,6 @@
     "CENTRE": "MUMBAI",
     "DISTRICT": "MUMBAI",
     "NEFT": true,
-    "IMPS": true,
-    "SWIFT": null
-  },
-  "UOVB00000SC": {
-    "BANK": null,
-    "IFSC": "UOVB00000SC",
-    "MICR": "400036257",
-    "BRANCH": "MUMBAI BRANCH",
-    "ADDRESS": "UNITED OVERSEAS BANK LTD, UNIT 31, 32, 37, 3RD FLOOR, 3RD NORTH AVENUE, MAKER MAXITY, BKC, BANDRA EAST, MUMBAI - 400051",
-    "STATE": "MAHARASHTRA",
-    "CONTACT": "+912242472828",
-    "UPI": false,
-    "RTGS": true,
-    "CITY": "MUMBAI",
-    "CENTRE": "MUMBAI",
-    "DISTRICT": "MUMBAI",
-    "NEFT": false,
     "IMPS": true,
     "SWIFT": null
   }

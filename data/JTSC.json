@@ -1,8 +1,8 @@
 {
   "JTSC0000001": {
-    "BANK": "JANATHA SEVA COOPERATIVE BANK LTD",
+    "BANK": "Janatha Seva Co-operative Bank",
     "IFSC": "JTSC0000001",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "RTGS-HO",
     "ADDRESS": "NO14,RAJATHA BHAVANA,1ST MAIN ROAD,HAKKA ROAD,VIJAYANAGARA,BENGALURU-560104",
     "STATE": "KARNATAKA",
@@ -17,9 +17,9 @@
     "SWIFT": null
   },
   "JTSC0000002": {
-    "BANK": "JANATHA SEVA COOPERATIVE BANK LTD",
+    "BANK": "Janatha Seva Co-operative Bank",
     "IFSC": "JTSC0000002",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "VIJAYANAGARA BRANCH",
     "ADDRESS": "NO14,RAJATHA BHAVANA,1ST MAIN ROAD,HAKKA ROAD,VIJAYANAGARA,BENGALURU-560104",
     "STATE": "KARNATAKA",
@@ -34,7 +34,7 @@
     "SWIFT": null
   },
   "JTSC0000003": {
-    "BANK": "JANATHA SEVA COOPERATIVE BANK LTD",
+    "BANK": "Janatha Seva Co-operative Bank",
     "IFSC": "JTSC0000003",
     "MICR": "560903003",
     "BRANCH": "MOODALAPALYA BRACNH",
@@ -51,7 +51,7 @@
     "SWIFT": null
   },
   "JTSC0000004": {
-    "BANK": "JANATHA SEVA COOPERATIVE BANK LTD",
+    "BANK": "Janatha Seva Co-operative Bank",
     "IFSC": "JTSC0000004",
     "MICR": "560903004",
     "BRANCH": "MAHALAKSHMI PURAM",
@@ -68,7 +68,7 @@
     "SWIFT": null
   },
   "JTSC0000005": {
-    "BANK": "JANATHA SEVA COOPERATIVE BANK LTD",
+    "BANK": "Janatha Seva Co-operative Bank",
     "IFSC": "JTSC0000005",
     "MICR": "560903005",
     "BRANCH": "RAJARAJESHWARI NAGARA",
@@ -85,7 +85,7 @@
     "SWIFT": null
   },
   "JTSC0000006": {
-    "BANK": "JANATHA SEVA COOPERATIVE BANK LTD",
+    "BANK": "Janatha Seva Co-operative Bank",
     "IFSC": "JTSC0000006",
     "MICR": "560903006",
     "BRANCH": "SUNKADAKATTE",
@@ -102,9 +102,9 @@
     "SWIFT": null
   },
   "JTSC0000099": {
-    "BANK": null,
+    "BANK": "Janatha Seva Co-operative Bank",
     "IFSC": "JTSC0000099",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "NEFT SERVICE CENTRE",
     "ADDRESS": "NO14,RAJATHA BHAVANA,1ST MAIN ROAD,HAKKA ROAD,VIJAYANAGARA,BENGALURU-560104",
     "STATE": "KARNATAKA",

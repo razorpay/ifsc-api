@@ -11,30 +11,13 @@
     "IMPS": true,
     "CITY": "HUBLI-DHARWAD",
     "UPI": true,
-    "MICR": "NA",
+    "MICR": null,
     "RTGS": true,
     "NEFT": true,
     "SWIFT": null
   },
-  "KVGB00000SC": {
-    "BANK": null,
-    "IFSC": "KVGB00000SC",
-    "MICR": "NA",
-    "BRANCH": "SERVICE CENTER",
-    "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK HEAD OFFICE BUILDING,BELGAUM ROAD DHARWAD 580008",
-    "STATE": "KARNATAKA",
-    "CONTACT": null,
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "DHARWAD",
-    "CENTRE": "DHARWAD",
-    "DISTRICT": "DHARWAD",
-    "NEFT": false,
-    "IMPS": true,
-    "SWIFT": null
-  },
   "KVGB0001001": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001001",
     "MICR": "587483501",
     "BRANCH": "BADAMI",
@@ -51,7 +34,7 @@
     "SWIFT": null
   },
   "KVGB0001002": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001002",
     "MICR": "587483502",
     "BRANCH": "BELUR",
@@ -68,7 +51,7 @@
     "SWIFT": null
   },
   "KVGB0001003": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001003",
     "MICR": "587483503",
     "BRANCH": "CHOLACHAGUDDA",
@@ -85,7 +68,7 @@
     "SWIFT": null
   },
   "KVGB0001004": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001004",
     "MICR": "587483504",
     "BRANCH": "HEBBALLI",
@@ -102,7 +85,7 @@
     "SWIFT": null
   },
   "KVGB0001005": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001005",
     "MICR": "587483505",
     "BRANCH": "KATAGERI",
@@ -119,7 +102,7 @@
     "SWIFT": null
   },
   "KVGB0001006": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001006",
     "MICR": "587483506",
     "BRANCH": "MUSTIGERI",
@@ -136,7 +119,7 @@
     "SWIFT": null
   },
   "KVGB0001007": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001007",
     "MICR": "587483507",
     "BRANCH": "NANDIKESHWAR",
@@ -153,7 +136,7 @@
     "SWIFT": null
   },
   "KVGB0001008": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001008",
     "MICR": "587483508",
     "BRANCH": "NEELAGUND",
@@ -170,7 +153,7 @@
     "SWIFT": null
   },
   "KVGB0001009": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001009",
     "MICR": "587483509",
     "BRANCH": "GULEDGUDDA",
@@ -187,9 +170,9 @@
     "SWIFT": null
   },
   "KVGB0001010": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001010",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "KAGALAGOMB",
     "ADDRESS": "PKPSB BUILDING, NEAR BUS STAND, KAGALAGOMB",
     "STATE": "KARNATAKA",
@@ -204,9 +187,9 @@
     "SWIFT": null
   },
   "KVGB0001012": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001012",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "KERUR",
     "ADDRESS": "├╜KARNATAKA VIKAS GRAMEENA BANK, SRI M B KATTI BUILDING, OPPOSIT GOVT HOSPITAL, SOLAPUR-HUBLI MAIN ROAD, KERUR, KARNATAKA",
     "STATE": "KARNATAKA",
@@ -221,9 +204,9 @@
     "SWIFT": null
   },
   "KVGB0001013": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001013",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "KULAGERI CROSS",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK BRANCH KULAGERI CROSS BADAMI TALUK BAGALKOT DIST",
     "STATE": "KARNATAKA",
@@ -238,9 +221,9 @@
     "SWIFT": null
   },
   "KVGB0001014": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001014",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "HALIGERI",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK, AT POST HALIGERI,TQ BADAMI,DIST BAGALKOT PINCODE 587206",
     "STATE": "KARNATAKA",
@@ -255,9 +238,9 @@
     "SWIFT": null
   },
   "KVGB0001100": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001100",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "BAGALKOTE R O",
     "ADDRESS": "REGIONAL MANAGER,KARNATAKA VIKAS GRAMEENA BANK,RO,SBI BUILDING,NAVANAGAR,BAGALKOT.587183",
     "STATE": "KARNATAKA",
@@ -272,7 +255,7 @@
     "SWIFT": null
   },
   "KVGB0001101": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001101",
     "MICR": "587483102",
     "BRANCH": "BAGALAKOT",
@@ -289,7 +272,7 @@
     "SWIFT": null
   },
   "KVGB0001102": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001102",
     "MICR": "587483510",
     "BRANCH": "BENAKATTI",
@@ -306,7 +289,7 @@
     "SWIFT": null
   },
   "KVGB0001103": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001103",
     "MICR": "587483511",
     "BRANCH": "GADDANAKERI",
@@ -323,7 +306,7 @@
     "SWIFT": null
   },
   "KVGB0001104": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001104",
     "MICR": "587483512",
     "BRANCH": "SUTAGUNDAR",
@@ -340,7 +323,7 @@
     "SWIFT": null
   },
   "KVGB0001105": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001105",
     "MICR": "587483103",
     "BRANCH": "NAVANAGAR-BAGALKOT",
@@ -357,7 +340,7 @@
     "SWIFT": null
   },
   "KVGB0001106": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001106",
     "MICR": "587483549",
     "BRANCH": "KALADGI",
@@ -374,7 +357,7 @@
     "SWIFT": null
   },
   "KVGB0001107": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001107",
     "MICR": "587483553",
     "BRANCH": "ANWAL",
@@ -391,7 +374,7 @@
     "SWIFT": null
   },
   "KVGB0001108": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001108",
     "MICR": "587483555",
     "BRANCH": "BHANTANUR",
@@ -408,7 +391,7 @@
     "SWIFT": null
   },
   "KVGB0001109": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001109",
     "MICR": "587483559",
     "BRANCH": "RAMPUR",
@@ -425,9 +408,9 @@
     "SWIFT": null
   },
   "KVGB0001110": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001110",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "VIDYAGIRI BAGALAKOT",
     "ADDRESS": "KARNATAKA VIKAS GRAMMENA BANK, SRI B V V SANGH KATTI BUILDING, OPPOSIT ENGINEERING COLLEGE, BAGALAKOT-587103, KARNATAKA",
     "STATE": "KARNATAKA",
@@ -442,9 +425,9 @@
     "SWIFT": null
   },
   "KVGB0001111": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001111",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "TULASIGERI",
     "ADDRESS": "KARNATAKA VIKAS GRAMMENA BANK, NO 196 B, GPC BUILDING, TULASIGERI-587204, DT BAGALAKOT, KARNATAKA",
     "STATE": "KARNATAKA",
@@ -459,7 +442,7 @@
     "SWIFT": null
   },
   "KVGB0001201": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001201",
     "MICR": "587483553",
     "BRANCH": "AMALAZARI",
@@ -476,7 +459,7 @@
     "SWIFT": null
   },
   "KVGB0001202": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001202",
     "MICR": "587483514",
     "BRANCH": "ANAGAWADI",
@@ -493,7 +476,7 @@
     "SWIFT": null
   },
   "KVGB0001203": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001203",
     "MICR": "587483515",
     "BRANCH": "BILAGI",
@@ -510,7 +493,7 @@
     "SWIFT": null
   },
   "KVGB0001204": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001204",
     "MICR": "587483516",
     "BRANCH": "KATARAKI",
@@ -527,7 +510,7 @@
     "SWIFT": null
   },
   "KVGB0001205": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001205",
     "MICR": "587483517",
     "BRANCH": "SUNAG",
@@ -544,7 +527,7 @@
     "SWIFT": null
   },
   "KVGB0001206": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001206",
     "MICR": "587483518",
     "BRANCH": "TEGGI",
@@ -561,9 +544,9 @@
     "SWIFT": null
   },
   "KVGB0001207": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001207",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "JANAMATTI",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK BRANCH JANAMATTI TALUK BILAGI DIST BAGALKOT",
     "STATE": "KARNATAKA",
@@ -578,7 +561,7 @@
     "SWIFT": null
   },
   "KVGB0001301": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001301",
     "MICR": "587483519",
     "BRANCH": "AIHOLE",
@@ -595,7 +578,7 @@
     "SWIFT": null
   },
   "KVGB0001302": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001302",
     "MICR": "587483520",
     "BRANCH": "CHITTARAGI",
@@ -612,7 +595,7 @@
     "SWIFT": null
   },
   "KVGB0001303": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001303",
     "MICR": "587483521",
     "BRANCH": "DHANNUR",
@@ -629,7 +612,7 @@
     "SWIFT": null
   },
   "KVGB0001304": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001304",
     "MICR": "587483522",
     "BRANCH": "GANJIHAL",
@@ -646,7 +629,7 @@
     "SWIFT": null
   },
   "KVGB0001305": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001305",
     "MICR": "587483523",
     "BRANCH": "HUNGUND",
@@ -663,7 +646,7 @@
     "SWIFT": null
   },
   "KVGB0001306": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001306",
     "MICR": "587483524",
     "BRANCH": "KANDAGAL",
@@ -680,7 +663,7 @@
     "SWIFT": null
   },
   "KVGB0001307": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001307",
     "MICR": "587483525",
     "BRANCH": "NAGUR",
@@ -697,7 +680,7 @@
     "SWIFT": null
   },
   "KVGB0001308": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001308",
     "MICR": "587483526",
     "BRANCH": "ILKAL",
@@ -714,7 +697,7 @@
     "SWIFT": null
   },
   "KVGB0001309": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001309",
     "MICR": "587483550",
     "BRANCH": "KUDALASANGAM",
@@ -731,7 +714,7 @@
     "SWIFT": null
   },
   "KVGB0001310": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001310",
     "MICR": "587483560",
     "BRANCH": "KAMATAGI",
@@ -748,9 +731,9 @@
     "SWIFT": null
   },
   "KVGB0001311": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001311",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "AMINGAD",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK BRANCH AMINGAD GRAM PANCHAYATH BUILDING HUNAGUND TALUK BAGALKOT DIST-587112",
     "STATE": "KARNATAKA",
@@ -765,9 +748,9 @@
     "SWIFT": null
   },
   "KVGB0001312": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001312",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "TUMBA",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK BRANCH TUMBA C/O BASAVARAJ Y SAJJAN TUMBA HUNAGUND TALUK BAGALKOT DIST-587154",
     "STATE": "KARNATAKA",
@@ -782,9 +765,9 @@
     "SWIFT": null
   },
   "KVGB0001313": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001313",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "GUDUR",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK, AT POST GUDUR,TQ HUNAGUND,DIST BAGALKOT PINCODE 587202",
     "STATE": "KARNATAKA",
@@ -799,7 +782,7 @@
     "SWIFT": null
   },
   "KVGB0001401": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001401",
     "MICR": "587483527",
     "BRANCH": "ALAGUR",
@@ -816,7 +799,7 @@
     "SWIFT": null
   },
   "KVGB0001402": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001402",
     "MICR": "587483352",
     "BRANCH": "BANAHATTI",
@@ -833,7 +816,7 @@
     "SWIFT": null
   },
   "KVGB0001403": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001403",
     "MICR": "587483529",
     "BRANCH": "BIDARI",
@@ -850,7 +833,7 @@
     "SWIFT": null
   },
   "KVGB0001404": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001404",
     "MICR": "587483530",
     "BRANCH": "GOTHE",
@@ -867,7 +850,7 @@
     "SWIFT": null
   },
   "KVGB0001405": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001405",
     "MICR": "587483544",
     "BRANCH": "HALINGALI",
@@ -884,7 +867,7 @@
     "SWIFT": null
   },
   "KVGB0001406": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001406",
     "MICR": "587483532",
     "BRANCH": "HIPPARAGI",
@@ -901,7 +884,7 @@
     "SWIFT": null
   },
   "KVGB0001407": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001407",
     "MICR": "587483533",
     "BRANCH": "HIRE PADASALAGI",
@@ -918,7 +901,7 @@
     "SWIFT": null
   },
   "KVGB0001408": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001408",
     "MICR": "587483534",
     "BRANCH": "JAKANUR",
@@ -935,7 +918,7 @@
     "SWIFT": null
   },
   "KVGB0001409": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001409",
     "MICR": "587483302",
     "BRANCH": "JAMKHANDI",
@@ -952,7 +935,7 @@
     "SWIFT": null
   },
   "KVGB0001410": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001410",
     "MICR": "587483535",
     "BRANCH": "KONNUR",
@@ -969,7 +952,7 @@
     "SWIFT": null
   },
   "KVGB0001411": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001411",
     "MICR": "587483545",
     "BRANCH": "NAVALAGI",
@@ -986,7 +969,7 @@
     "SWIFT": null
   },
   "KVGB0001412": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001412",
     "MICR": "587483546",
     "BRANCH": "SASALATTI",
@@ -1003,7 +986,7 @@
     "SWIFT": null
   },
   "KVGB0001413": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001413",
     "MICR": "587483547",
     "BRANCH": "TERDAL",
@@ -1020,7 +1003,7 @@
     "SWIFT": null
   },
   "KVGB0001414": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001414",
     "MICR": "587483552",
     "BRANCH": "KULAHALLI",
@@ -1037,7 +1020,7 @@
     "SWIFT": null
   },
   "KVGB0001415": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001415",
     "MICR": "587483551",
     "BRANCH": "LINGANUR",
@@ -1054,7 +1037,7 @@
     "SWIFT": null
   },
   "KVGB0001416": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001416",
     "MICR": "587483558",
     "BRANCH": "CHIMMAD",
@@ -1071,7 +1054,7 @@
     "SWIFT": null
   },
   "KVGB0001417": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001417",
     "MICR": "587483303",
     "BRANCH": "KUNCHANUR CIRCLE JAMAKANDI",
@@ -1088,7 +1071,7 @@
     "SWIFT": null
   },
   "KVGB0001501": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001501",
     "MICR": "587483548",
     "BRANCH": "BELAGALI",
@@ -1105,7 +1088,7 @@
     "SWIFT": null
   },
   "KVGB0001502": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001502",
     "MICR": "587483540",
     "BRANCH": "CHICHAKHANDI KD",
@@ -1122,7 +1105,7 @@
     "SWIFT": null
   },
   "KVGB0001503": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001503",
     "MICR": "587483541",
     "BRANCH": "HOSAKOTI",
@@ -1139,7 +1122,7 @@
     "SWIFT": null
   },
   "KVGB0001504": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001504",
     "MICR": "587483528",
     "BRANCH": "MACHAKANUR",
@@ -1156,7 +1139,7 @@
     "SWIFT": null
   },
   "KVGB0001505": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001505",
     "MICR": "587483513",
     "BRANCH": "MAHALINGAPUR",
@@ -1173,7 +1156,7 @@
     "SWIFT": null
   },
   "KVGB0001506": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001506",
     "MICR": "587483542",
     "BRANCH": "MUDDAPUR",
@@ -1190,7 +1173,7 @@
     "SWIFT": null
   },
   "KVGB0001507": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001507",
     "MICR": "587483543",
     "BRANCH": "MUDHOL",
@@ -1207,7 +1190,7 @@
     "SWIFT": null
   },
   "KVGB0001508": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001508",
     "MICR": "587483531",
     "BRANCH": "MUGALAKHOD",
@@ -1224,7 +1207,7 @@
     "SWIFT": null
   },
   "KVGB0001509": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001509",
     "MICR": "587483536",
     "BRANCH": "SHIROL",
@@ -1241,7 +1224,7 @@
     "SWIFT": null
   },
   "KVGB0001510": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001510",
     "MICR": "587483537",
     "BRANCH": "UTTUR",
@@ -1258,7 +1241,7 @@
     "SWIFT": null
   },
   "KVGB0001511": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001511",
     "MICR": "587483538",
     "BRANCH": "VAJRAMATTI",
@@ -1275,7 +1258,7 @@
     "SWIFT": null
   },
   "KVGB0001512": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001512",
     "MICR": "587483539",
     "BRANCH": "LOKAPUR",
@@ -1292,7 +1275,7 @@
     "SWIFT": null
   },
   "KVGB0001513": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001513",
     "MICR": "587483554",
     "BRANCH": "VANTAGODI",
@@ -1309,7 +1292,7 @@
     "SWIFT": null
   },
   "KVGB0001514": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001514",
     "MICR": "587483556",
     "BRANCH": "MALALI",
@@ -1326,9 +1309,9 @@
     "SWIFT": null
   },
   "KVGB0001515": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0001515",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "MADABHAVI",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK TIMMAPUR BUILDING MARAPUR ROAD MADABHAVI BAGALKOT- 587316",
     "STATE": "KARNATAKA",
@@ -1343,9 +1326,9 @@
     "SWIFT": null
   },
   "KVGB0002000": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002000",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "BELGAUM R O",
     "ADDRESS": "REGIONAL OFFICE,2ND FLOOR,PLD BANK BUILDING,1076,OLD P.B ROAD,KOLHAPUR CROSS,BELGAUM 590 016",
     "STATE": "KARNATAKA",
@@ -1360,7 +1343,7 @@
     "SWIFT": null
   },
   "KVGB0002001": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002001",
     "MICR": "591483521",
     "BRANCH": "ADAHALLI",
@@ -1377,7 +1360,7 @@
     "SWIFT": null
   },
   "KVGB0002002": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002002",
     "MICR": "591483402",
     "BRANCH": "ATHANI",
@@ -1394,7 +1377,7 @@
     "SWIFT": null
   },
   "KVGB0002003": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002003",
     "MICR": "591483522",
     "BRANCH": "HALYAL",
@@ -1411,7 +1394,7 @@
     "SWIFT": null
   },
   "KVGB0002004": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002004",
     "MICR": "591483523",
     "BRANCH": "KAGAWAD",
@@ -1428,7 +1411,7 @@
     "SWIFT": null
   },
   "KVGB0002005": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002005",
     "MICR": "591483524",
     "BRANCH": "KHILEGAON",
@@ -1445,7 +1428,7 @@
     "SWIFT": null
   },
   "KVGB0002006": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002006",
     "MICR": "591483525",
     "BRANCH": "KOKATNUR",
@@ -1462,7 +1445,7 @@
     "SWIFT": null
   },
   "KVGB0002007": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002007",
     "MICR": "591483526",
     "BRANCH": "MADABHAVI",
@@ -1479,7 +1462,7 @@
     "SWIFT": null
   },
   "KVGB0002008": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002008",
     "MICR": "591483527",
     "BRANCH": "MANGASULI",
@@ -1496,7 +1479,7 @@
     "SWIFT": null
   },
   "KVGB0002009": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002009",
     "MICR": "591483528",
     "BRANCH": "MOLE",
@@ -1513,7 +1496,7 @@
     "SWIFT": null
   },
   "KVGB0002010": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002010",
     "MICR": "591483529",
     "BRANCH": "SHANKRAHATI",
@@ -1530,7 +1513,7 @@
     "SWIFT": null
   },
   "KVGB0002011": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002011",
     "MICR": "591483530",
     "BRANCH": "SHIRAGUPPI",
@@ -1547,7 +1530,7 @@
     "SWIFT": null
   },
   "KVGB0002012": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002012",
     "MICR": "591483531",
     "BRANCH": "SHIRAHATTI",
@@ -1564,7 +1547,7 @@
     "SWIFT": null
   },
   "KVGB0002013": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002013",
     "MICR": "591483532",
     "BRANCH": "TELSANG",
@@ -1581,7 +1564,7 @@
     "SWIFT": null
   },
   "KVGB0002014": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002014",
     "MICR": "591483598",
     "BRANCH": "KOTTALAGI",
@@ -1598,9 +1581,9 @@
     "SWIFT": null
   },
   "KVGB0002016": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002016",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "KAKAMARI",
     "ADDRESS": "├╜KARNATAKA VIKAS GRAMEENA BANK, SRI G S DYASHAL BUILDING, MAIN MARKET, KAKAMARI, TQ ATHANI, DT BELGAUM, KARNATAKA",
     "STATE": "KARNATAKA",
@@ -1615,9 +1598,9 @@
     "SWIFT": null
   },
   "KVGB0002017": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002017",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "MALABAD",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK, KALLOLI BUILDING, VPC NO. 32, MALABAD, TQ ATHNI, DT BELAGAVI",
     "STATE": "KARNATAKA",
@@ -1632,9 +1615,9 @@
     "SWIFT": null
   },
   "KVGB0002018": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002018",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "AINAPUR",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK AINAPUR BRANCH LONDE BUILDING BAZAAR ROAD AINAPUR- TQ ATHANI DT BELGAUM PIN 591303",
     "STATE": "KARNATAKA",
@@ -1649,9 +1632,9 @@
     "SWIFT": null
   },
   "KVGB0002019": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002019",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "ARTAL",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK,GRAMA PANCHAYAT BUILDING,ARTAL,ATHANI TALUK,BELGAUM DISTRICT.PIN 591248",
     "STATE": "KARNATAKA",
@@ -1666,7 +1649,7 @@
     "SWIFT": null
   },
   "KVGB0002101": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002101",
     "MICR": "590483501",
     "BRANCH": "BAILHONGAL",
@@ -1683,7 +1666,7 @@
     "SWIFT": null
   },
   "KVGB0002102": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002102",
     "MICR": "590483502",
     "BRANCH": "BAILUR",
@@ -1700,7 +1683,7 @@
     "SWIFT": null
   },
   "KVGB0002103": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002103",
     "MICR": "590483503",
     "BRANCH": "DODAWAD",
@@ -1717,7 +1700,7 @@
     "SWIFT": null
   },
   "KVGB0002104": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002104",
     "MICR": "590483504",
     "BRANCH": "HUNASHIKATTI",
@@ -1734,7 +1717,7 @@
     "SWIFT": null
   },
   "KVGB0002105": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002105",
     "MICR": "590483505",
     "BRANCH": "KITTUR",
@@ -1751,7 +1734,7 @@
     "SWIFT": null
   },
   "KVGB0002106": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002106",
     "MICR": "590483506",
     "BRANCH": "M.K.HUBLI",
@@ -1768,7 +1751,7 @@
     "SWIFT": null
   },
   "KVGB0002107": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002107",
     "MICR": "590483507",
     "BRANCH": "NEGINAHAL",
@@ -1785,7 +1768,7 @@
     "SWIFT": null
   },
   "KVGB0002108": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002108",
     "MICR": "590483508",
     "BRANCH": "NESARAGI",
@@ -1802,7 +1785,7 @@
     "SWIFT": null
   },
   "KVGB0002109": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002109",
     "MICR": "590483509",
     "BRANCH": "SANGOLLI",
@@ -1819,7 +1802,7 @@
     "SWIFT": null
   },
   "KVGB0002110": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002110",
     "MICR": "590483510",
     "BRANCH": "TIGADI",
@@ -1836,7 +1819,7 @@
     "SWIFT": null
   },
   "KVGB0002111": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002111",
     "MICR": "590483511",
     "BRANCH": "UDUKERI",
@@ -1853,7 +1836,7 @@
     "SWIFT": null
   },
   "KVGB0002112": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002112",
     "MICR": "591483594",
     "BRANCH": "VANNUR",
@@ -1870,9 +1853,9 @@
     "SWIFT": null
   },
   "KVGB0002113": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002113",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "AMBADAGATTI",
     "ADDRESS": "GRAMA PANCHAYATH BUILDING, AMBADGATTI",
     "STATE": "KARNATAKA",
@@ -1887,9 +1870,9 @@
     "SWIFT": null
   },
   "KVGB0002114": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002114",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "BUDARKATTI",
     "ADDRESS": "GRAMA PANCHAYATH BUILDING, BUDARKATTI",
     "STATE": "KARNATAKA",
@@ -1904,9 +1887,9 @@
     "SWIFT": null
   },
   "KVGB0002115": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002115",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "BELAVADI",
     "ADDRESS": "SHRI KANCHIGIDAD COMMERCIAL COMPLEX, BAILHONGAL ROAD, BELAVADI - 591102",
     "STATE": "KARNATAKA",
@@ -1921,9 +1904,9 @@
     "SWIFT": null
   },
   "KVGB0002116": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002116",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "DEVARSHIGIHALLI",
     "ADDRESS": "GRAM PANCHAYAT BUILDING, DEVARSHIGIHALLI, TQ- BAILHONGALDIST BELAGAVI, PINCODE - 591153",
     "STATE": "KARNATAKA",
@@ -1938,9 +1921,9 @@
     "SWIFT": null
   },
   "KVGB0002117": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002117",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "WAKKUND",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK,GRAMA PANCHAYAT BUILDING,AT POST WAKKUND,TQ BAILHONGAL,DIST BELAGAVI PINCODE 591102",
     "STATE": "KARNATAKA",
@@ -1955,9 +1938,9 @@
     "SWIFT": null
   },
   "KVGB0002200": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002200",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "CHICKODI R O",
     "ADDRESS": "REGIONAL OFFICE,VANTAMUTTE BUILDING,GURUWAR PET,CHIKKODI.591201",
     "STATE": "KARNATAKA",
@@ -1972,7 +1955,7 @@
     "SWIFT": null
   },
   "KVGB0002201": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002201",
     "MICR": "590483008",
     "BRANCH": "AZAMNAGAR, BELGAUM",
@@ -1989,7 +1972,7 @@
     "SWIFT": null
   },
   "KVGB0002202": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002202",
     "MICR": "590483002",
     "BRANCH": "BELGAUM MAIN",
@@ -2006,7 +1989,7 @@
     "SWIFT": null
   },
   "KVGB0002203": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002203",
     "MICR": "590483003",
     "BRANCH": "FORT-ROAD BELGAUM",
@@ -2023,7 +2006,7 @@
     "SWIFT": null
   },
   "KVGB0002204": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002204",
     "MICR": "590483007",
     "BRANCH": "GOAVES-BELGAUM",
@@ -2040,7 +2023,7 @@
     "SWIFT": null
   },
   "KVGB0002205": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002205",
     "MICR": "590483005",
     "BRANCH": "HINDALAGA",
@@ -2057,7 +2040,7 @@
     "SWIFT": null
   },
   "KVGB0002206": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002206",
     "MICR": "590483512",
     "BRANCH": "HIREBAGEWADI",
@@ -2074,7 +2057,7 @@
     "SWIFT": null
   },
   "KVGB0002207": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002207",
     "MICR": "590483513",
     "BRANCH": "HUDLI",
@@ -2091,7 +2074,7 @@
     "SWIFT": null
   },
   "KVGB0002208": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002208",
     "MICR": "590483514",
     "BRANCH": "K K KOPPA",
@@ -2108,7 +2091,7 @@
     "SWIFT": null
   },
   "KVGB0002209": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002209",
     "MICR": "590483515",
     "BRANCH": "MARIHAL",
@@ -2125,7 +2108,7 @@
     "SWIFT": null
   },
   "KVGB0002210": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002210",
     "MICR": "590483006",
     "BRANCH": "PEERANAWADI",
@@ -2142,7 +2125,7 @@
     "SWIFT": null
   },
   "KVGB0002211": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002211",
     "MICR": "590483004",
     "BRANCH": "SHAHPUR-BELGAUM",
@@ -2159,7 +2142,7 @@
     "SWIFT": null
   },
   "KVGB0002212": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002212",
     "MICR": "590483516",
     "BRANCH": "UCHAGAON",
@@ -2176,7 +2159,7 @@
     "SWIFT": null
   },
   "KVGB0002213": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002213",
     "MICR": "590483009",
     "BRANCH": "HANUMAN NAGAR-BELGAUM",
@@ -2193,7 +2176,7 @@
     "SWIFT": null
   },
   "KVGB0002214": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002214",
     "MICR": "590483010",
     "BRANCH": "SAMBRA",
@@ -2210,7 +2193,7 @@
     "SWIFT": null
   },
   "KVGB0002215": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002215",
     "MICR": "590483011",
     "BRANCH": "VAIBHAV NAGAR - BELGAUM",
@@ -2227,7 +2210,7 @@
     "SWIFT": null
   },
   "KVGB0002216": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002216",
     "MICR": "590483012",
     "BRANCH": "SRINAGAR BELGAUM",
@@ -2244,7 +2227,7 @@
     "SWIFT": null
   },
   "KVGB0002217": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002217",
     "MICR": "590483529",
     "BRANCH": "DESUR",
@@ -2261,7 +2244,7 @@
     "SWIFT": null
   },
   "KVGB0002218": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002218",
     "MICR": "590483013",
     "BRANCH": "UDYAMBHAG",
@@ -2278,9 +2261,9 @@
     "SWIFT": null
   },
   "KVGB0002219": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002219",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "SANTI BASTAWAD",
     "ADDRESS": "HOUSE NO. 1341 PATIL BUILDING, SANTI BASTAWAD",
     "STATE": "KARNATAKA",
@@ -2295,9 +2278,9 @@
     "SWIFT": null
   },
   "KVGB0002220": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002220",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "AGASAGE",
     "ADDRESS": "KALAGOUDA B PATIL BUILDING, AGASAGE",
     "STATE": "KARNATAKA",
@@ -2312,9 +2295,9 @@
     "SWIFT": null
   },
   "KVGB0002221": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002221",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "RANICHANNAMMANAGAR, BELGAUM",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK,├╜SRI S N HEBBAR BUILDING, 1ST STAGE, RANI CHANAMMA NAGAR, BELGAUM-590016, KARNATAKA",
     "STATE": "KARNATAKA",
@@ -2329,9 +2312,9 @@
     "SWIFT": null
   },
   "KVGB0002222": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002222",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "BASAVAN KUDACHI",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK, SRI. S B PATIL BUILDING, R S NO.528, BASAVANKUDACHI, DIST. BELAGAVI",
     "STATE": "KARNATAKA",
@@ -2346,9 +2329,9 @@
     "SWIFT": null
   },
   "KVGB0002223": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002223",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "BADALANKALAGI",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK, SMT. P C PATIL BUILDING, MAIN ROAD, NEAR BUS STAND, BADALANKALAGI, TQ BELGAUM DT BELGAUM, KARNATAKA",
     "STATE": "KARNATAKA",
@@ -2363,9 +2346,9 @@
     "SWIFT": null
   },
   "KVGB0002224": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002224",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "KANABARGI",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK, NEAR BUS STAND, PLOT 12, RS NO 429 2, TQ AND DT BELGAUM, KARNATAKA",
     "STATE": "KARNATAKA",
@@ -2380,9 +2363,9 @@
     "SWIFT": null
   },
   "KVGB0002225": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002225",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "MUTNAL",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK BRANCH MUTNAL TALUK BELGAUM DIST BELGAUM-591109",
     "STATE": "KARNATAKA",
@@ -2397,9 +2380,9 @@
     "SWIFT": null
   },
   "KVGB0002226": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002226",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "GANESHPUR",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK GANESHPUR BRANCH GRAMA PANCHAYATH BUILDING BELGAUM TAULK BELGAUM DIST 591108",
     "STATE": "KARNATAKA",
@@ -2414,9 +2397,9 @@
     "SWIFT": null
   },
   "KVGB0002300": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002300",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "CHIKODI REGIONAL OFFICE",
     "ADDRESS": "CHIKKODI REGIONA OFFICE, VANTAMUTTE BUILDING, GURUWAR PETH. CHIKODI",
     "STATE": "KARNATAKA",
@@ -2431,7 +2414,7 @@
     "SWIFT": null
   },
   "KVGB0002301": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002301",
     "MICR": "591483533",
     "BRANCH": "BENADI",
@@ -2448,7 +2431,7 @@
     "SWIFT": null
   },
   "KVGB0002302": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002302",
     "MICR": "591483534",
     "BRANCH": "BHOJ",
@@ -2465,7 +2448,7 @@
     "SWIFT": null
   },
   "KVGB0002303": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002303",
     "MICR": "591483535",
     "BRANCH": "BORGAON",
@@ -2482,7 +2465,7 @@
     "SWIFT": null
   },
   "KVGB0002304": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002304",
     "MICR": "591483202",
     "BRANCH": "CHIKKODI",
@@ -2499,7 +2482,7 @@
     "SWIFT": null
   },
   "KVGB0002305": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002305",
     "MICR": "591483563",
     "BRANCH": "HIREKUDI",
@@ -2516,7 +2499,7 @@
     "SWIFT": null
   },
   "KVGB0002306": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002306",
     "MICR": "591483555",
     "BRANCH": "INGALI",
@@ -2533,7 +2516,7 @@
     "SWIFT": null
   },
   "KVGB0002307": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002307",
     "MICR": "591483556",
     "BRANCH": "KABBUR",
@@ -2550,7 +2533,7 @@
     "SWIFT": null
   },
   "KVGB0002308": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002308",
     "MICR": "591483557",
     "BRANCH": "KALLOL",
@@ -2567,7 +2550,7 @@
     "SWIFT": null
   },
   "KVGB0002309": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002309",
     "MICR": "591483558",
     "BRANCH": "KERUR",
@@ -2584,7 +2567,7 @@
     "SWIFT": null
   },
   "KVGB0002310": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002310",
     "MICR": "591483536",
     "BRANCH": "KOGANALLI",
@@ -2601,7 +2584,7 @@
     "SWIFT": null
   },
   "KVGB0002311": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002311",
     "MICR": "591483537",
     "BRANCH": "KURLI",
@@ -2618,7 +2601,7 @@
     "SWIFT": null
   },
   "KVGB0002312": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002312",
     "MICR": "591483559",
     "BRANCH": "MANJARI",
@@ -2635,7 +2618,7 @@
     "SWIFT": null
   },
   "KVGB0002313": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002313",
     "MICR": "591483560",
     "BRANCH": "NAGARAMUNOLI",
@@ -2652,7 +2635,7 @@
     "SWIFT": null
   },
   "KVGB0002314": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002314",
     "MICR": "591483573",
     "BRANCH": "NIPPANI",
@@ -2669,7 +2652,7 @@
     "SWIFT": null
   },
   "KVGB0002315": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002315",
     "MICR": "591483538",
     "BRANCH": "PATTANAKUDI",
@@ -2686,7 +2669,7 @@
     "SWIFT": null
   },
   "KVGB0002316": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002316",
     "MICR": "591483561",
     "BRANCH": "YADUR",
@@ -2703,7 +2686,7 @@
     "SWIFT": null
   },
   "KVGB0002317": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002317",
     "MICR": "591483562",
     "BRANCH": "EXAMBA",
@@ -2720,7 +2703,7 @@
     "SWIFT": null
   },
   "KVGB0002318": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002318",
     "MICR": "591483542",
     "BRANCH": "GALATAGA",
@@ -2737,7 +2720,7 @@
     "SWIFT": null
   },
   "KVGB0002319": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002319",
     "MICR": "591483601",
     "BRANCH": "NEJ",
@@ -2754,7 +2737,7 @@
     "SWIFT": null
   },
   "KVGB0002320": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002320",
     "MICR": "591483605",
     "BRANCH": "KAROSHI",
@@ -2771,9 +2754,9 @@
     "SWIFT": null
   },
   "KVGB0002321": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002321",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "BASAVA CIRCLE, CHIKKODI",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK,├╜├╜VANTAMUTTE BUILDING, CHIKKODI-BIJAPUR MAIN ROAD, CHIKKODI-591201, KARNATAKA",
     "STATE": "KARNATAKA",
@@ -2788,9 +2771,9 @@
     "SWIFT": null
   },
   "KVGB0002322": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002322",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "SADALAGA",
     "ADDRESS": "CHANDGADE BULDING, NEAR OLD BUS STAND, SADALAGA",
     "STATE": "KARNATAKA",
@@ -2805,9 +2788,9 @@
     "SWIFT": null
   },
   "KVGB0002324": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002324",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "KHADAKLAT",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK, RAJASHREE BUILDING, CO ANNA LINGAOUDA PATIL, KHADALAKAT TQ CHIKKODI, DT BELGAUM, KARNATAKA",
     "STATE": "KARNATAKA",
@@ -2822,9 +2805,9 @@
     "SWIFT": null
   },
   "KVGB0002325": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002325",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "SHIRGOAN",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK, CO BEERAPPA SIDAPPA BANNE, SHIRGAON, TQ CHIKKODI, DT BELGAUM, KARNATAKA",
     "STATE": "KARNATAKA",
@@ -2839,9 +2822,9 @@
     "SWIFT": null
   },
   "KVGB0002326": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002326",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "MANGUR",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK BRANCH MANGUR TALUK CHIKKODI DIST BELGAUM",
     "STATE": "KARNATAKA",
@@ -2856,9 +2839,9 @@
     "SWIFT": null
   },
   "KVGB0002327": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002327",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "JAGANUR",
     "ADDRESS": "PANCHAYAT BUILDING, MAIN ROAD, JAGANUR, TQ CHIKKODI, DIST. BELAGAVI - 591305",
     "STATE": "KARNATAKA",
@@ -2873,9 +2856,9 @@
     "SWIFT": null
   },
   "KVGB0002400": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002400",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "GOKAK REGIONAL OFFICE",
     "ADDRESS": "VAISHNAVI ANNEX, LET COLLEGE ROAD, NEAR SAMUDAYA BHAWAN, BASAWA NAGAR, GOKAK",
     "STATE": "KARNATAKA",
@@ -2890,7 +2873,7 @@
     "SWIFT": null
   },
   "KVGB0002401": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002401",
     "MICR": "591483502",
     "BRANCH": "ARABHAVI",
@@ -2907,7 +2890,7 @@
     "SWIFT": null
   },
   "KVGB0002402": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002402",
     "MICR": "591483543",
     "BRANCH": "GOKAK",
@@ -2924,7 +2907,7 @@
     "SWIFT": null
   },
   "KVGB0002403": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002403",
     "MICR": "591483544",
     "BRANCH": "KALLOLLI",
@@ -2941,7 +2924,7 @@
     "SWIFT": null
   },
   "KVGB0002404": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002404",
     "MICR": "591483545",
     "BRANCH": "KHANAGAON",
@@ -2958,7 +2941,7 @@
     "SWIFT": null
   },
   "KVGB0002405": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002405",
     "MICR": "591483546",
     "BRANCH": "KOUJALAGI",
@@ -2975,7 +2958,7 @@
     "SWIFT": null
   },
   "KVGB0002406": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002406",
     "MICR": "591483547",
     "BRANCH": "MAMADAPUR",
@@ -2992,7 +2975,7 @@
     "SWIFT": null
   },
   "KVGB0002407": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002407",
     "MICR": "591483548",
     "BRANCH": "MUDALAGI",
@@ -3009,7 +2992,7 @@
     "SWIFT": null
   },
   "KVGB0002408": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002408",
     "MICR": "591483549",
     "BRANCH": "NAGANUR",
@@ -3026,7 +3009,7 @@
     "SWIFT": null
   },
   "KVGB0002409": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002409",
     "MICR": "591483550",
     "BRANCH": "SINDHIKURBET",
@@ -3043,7 +3026,7 @@
     "SWIFT": null
   },
   "KVGB0002410": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002410",
     "MICR": "591483551",
     "BRANCH": "SUNADHOLLI",
@@ -3060,7 +3043,7 @@
     "SWIFT": null
   },
   "KVGB0002411": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002411",
     "MICR": "591483551",
     "BRANCH": "YADAWAD",
@@ -3077,7 +3060,7 @@
     "SWIFT": null
   },
   "KVGB0002412": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002412",
     "MICR": "591483597",
     "BRANCH": "RAJAPUR",
@@ -3094,7 +3077,7 @@
     "SWIFT": null
   },
   "KVGB0002413": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002413",
     "MICR": "590483517",
     "BRANCH": "ANKALGI",
@@ -3111,7 +3094,7 @@
     "SWIFT": null
   },
   "KVGB0002414": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002414",
     "MICR": "591483552",
     "BRANCH": "KONNUR",
@@ -3128,9 +3111,9 @@
     "SWIFT": null
   },
   "KVGB0002415": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002415",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "AKKATANGEERAHAL",
     "ADDRESS": "KARANATAKA VIKAS GRAMEENA BANK, CO NINGAPPA ADIVEPPA SATIGERI, AKKATANGERHAL, TQ GOKAK, DT BELGAUM, KARNATAKA",
     "STATE": "KARNATAKA",
@@ -3145,9 +3128,9 @@
     "SWIFT": null
   },
   "KVGB0002416": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002416",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "GHATAPRABHA",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK C/O MARUTHI RAJARAM MANE NO 668 MALAPUR PG GHATAPRABHA TALUK GOKAK DIAT BELGAUM 591306",
     "STATE": "KARNATAKA",
@@ -3162,9 +3145,9 @@
     "SWIFT": null
   },
   "KVGB0002417": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002417",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "HALLUR",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK C/O KEMPANNA M ANGADI NEAR GRAM PANCHAYATH HALLUR GOKAK TALUK BELGAUM DIST-591312",
     "STATE": "KARNATAKA",
@@ -3179,9 +3162,9 @@
     "SWIFT": null
   },
   "KVGB0002418": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002418",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "DURADUNDI",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK, RS 1173/1/A GRAMA PANCHAYAT BUILDING, DURADUNDI TQ GOKAK DIST BELGAVI.PIN 591218",
     "STATE": "KARNATAKA",
@@ -3196,9 +3179,9 @@
     "SWIFT": null
   },
   "KVGB0002419": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002419",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "URABINAHATTI",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK,NINGANAGOUDA B PATIL BUILDING,AT POST URABINAHATTI,TQ GOKAK,DIST BELAGAVI PINCODE 591122",
     "STATE": "KARNATAKA",
@@ -3213,7 +3196,7 @@
     "SWIFT": null
   },
   "KVGB0002501": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002501",
     "MICR": "591483553",
     "BRANCH": "BASAPUR",
@@ -3230,7 +3213,7 @@
     "SWIFT": null
   },
   "KVGB0002502": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002502",
     "MICR": "591483539",
     "BRANCH": "GUDAS",
@@ -3247,7 +3230,7 @@
     "SWIFT": null
   },
   "KVGB0002503": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002503",
     "MICR": "591483540",
     "BRANCH": "HIDAKAL-DAM",
@@ -3264,7 +3247,7 @@
     "SWIFT": null
   },
   "KVGB0002504": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002504",
     "MICR": "591483576",
     "BRANCH": "HUKKERI",
@@ -3281,7 +3264,7 @@
     "SWIFT": null
   },
   "KVGB0002505": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002505",
     "MICR": "591483541",
     "BRANCH": "KANAGALE",
@@ -3298,7 +3281,7 @@
     "SWIFT": null
   },
   "KVGB0002506": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002506",
     "MICR": "591483577",
     "BRANCH": "NIDASOSHI",
@@ -3315,7 +3298,7 @@
     "SWIFT": null
   },
   "KVGB0002507": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002507",
     "MICR": "591483541",
     "BRANCH": "SANKESWARA",
@@ -3332,7 +3315,7 @@
     "SWIFT": null
   },
   "KVGB0002508": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002508",
     "MICR": "591483577",
     "BRANCH": "BELLAD BAGEWADI",
@@ -3349,9 +3332,9 @@
     "SWIFT": null
   },
   "KVGB0002509": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002509",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "NIDASOSHI EC",
     "ADDRESS": "THE OFFICER INCHARGE , HIT COLLEGE COMPLEX , NIDASOSHI",
     "STATE": "KARNATAKA",
@@ -3366,7 +3349,7 @@
     "SWIFT": null
   },
   "KVGB0002510": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002510",
     "MICR": "591483595",
     "BRANCH": "YADAGUD",
@@ -3383,7 +3366,7 @@
     "SWIFT": null
   },
   "KVGB0002511": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002511",
     "MICR": "590483528",
     "BRANCH": "GODAGERI",
@@ -3400,9 +3383,9 @@
     "SWIFT": null
   },
   "KVGB0002512": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002512",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "AMMANAGI",
     "ADDRESS": "GRAMA PANCHAYATH BUILDING, AMMANAGI",
     "STATE": "KARNATAKA",
@@ -3417,9 +3400,9 @@
     "SWIFT": null
   },
   "KVGB0002513": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002513",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "SOLAPUR",
     "ADDRESS": "KARANATA VIKAS GRAMEENA BANK, S P K P SAHAKARI SANGH BUILDING, NEAR GRAM PANCHYAT BUILDING, TQ HUKKERI DT BELGAUM, KARNATAKA",
     "STATE": "KARNATAKA",
@@ -3434,9 +3417,9 @@
     "SWIFT": null
   },
   "KVGB0002514": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002514",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "SULTANPUR",
     "ADDRESS": "KARANATA VIKAS GRAMEENA BANK, SR. S D MULLA BUILDING, BASAVESHWAR CIRCLE, SULTANPUR, TQ HUKKERI, DT BELGAUM, KARNATAKA",
     "STATE": "KARNATAKA",
@@ -3451,7 +3434,7 @@
     "SWIFT": null
   },
   "KVGB0002601": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002601",
     "MICR": "590483520",
     "BRANCH": "BEEDI",
@@ -3468,7 +3451,7 @@
     "SWIFT": null
   },
   "KVGB0002602": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002602",
     "MICR": "590483521",
     "BRANCH": "GANDIGWAD",
@@ -3485,7 +3468,7 @@
     "SWIFT": null
   },
   "KVGB0002603": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002603",
     "MICR": "590483522",
     "BRANCH": "GARLAGUNJI",
@@ -3502,7 +3485,7 @@
     "SWIFT": null
   },
   "KVGB0002604": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002604",
     "MICR": "590483523",
     "BRANCH": "GUNJI",
@@ -3519,7 +3502,7 @@
     "SWIFT": null
   },
   "KVGB0002605": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002605",
     "MICR": "590483524",
     "BRANCH": "HALASHI",
@@ -3536,7 +3519,7 @@
     "SWIFT": null
   },
   "KVGB0002606": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002606",
     "MICR": "590483525",
     "BRANCH": "JAMBOTI",
@@ -3553,7 +3536,7 @@
     "SWIFT": null
   },
   "KVGB0002607": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002607",
     "MICR": "590483526",
     "BRANCH": "KHANAPUR",
@@ -3570,7 +3553,7 @@
     "SWIFT": null
   },
   "KVGB0002608": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002608",
     "MICR": "590483525",
     "BRANCH": "LINGANAMATH",
@@ -3587,7 +3570,7 @@
     "SWIFT": null
   },
   "KVGB0002609": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002609",
     "MICR": "590483526",
     "BRANCH": "LONDA",
@@ -3604,7 +3587,7 @@
     "SWIFT": null
   },
   "KVGB0002610": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002610",
     "MICR": "591483564",
     "BRANCH": "NANDAGAD",
@@ -3621,7 +3604,7 @@
     "SWIFT": null
   },
   "KVGB0002611": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002611",
     "MICR": "591483565",
     "BRANCH": "PARISHWAD",
@@ -3638,7 +3621,7 @@
     "SWIFT": null
   },
   "KVGB0002701": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002701",
     "MICR": "591483566",
     "BRANCH": "BHENDAWAD",
@@ -3655,7 +3638,7 @@
     "SWIFT": null
   },
   "KVGB0002702": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002702",
     "MICR": "591483567",
     "BRANCH": "CHINCHALI",
@@ -3672,7 +3655,7 @@
     "SWIFT": null
   },
   "KVGB0002703": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002703",
     "MICR": "591483568",
     "BRANCH": "HANDIGUND",
@@ -3689,7 +3672,7 @@
     "SWIFT": null
   },
   "KVGB0002704": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002704",
     "MICR": "591483569",
     "BRANCH": "HARUGERI",
@@ -3706,7 +3689,7 @@
     "SWIFT": null
   },
   "KVGB0002705": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002705",
     "MICR": "591483570",
     "BRANCH": "HIDAKAL",
@@ -3723,7 +3706,7 @@
     "SWIFT": null
   },
   "KVGB0002706": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002706",
     "MICR": "591483571",
     "BRANCH": "KANKANAWADI",
@@ -3740,7 +3723,7 @@
     "SWIFT": null
   },
   "KVGB0002707": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002707",
     "MICR": "591483572",
     "BRANCH": "MEKHALI",
@@ -3757,7 +3740,7 @@
     "SWIFT": null
   },
   "KVGB0002708": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002708",
     "MICR": "591483302",
     "BRANCH": "MORAB",
@@ -3774,7 +3757,7 @@
     "SWIFT": null
   },
   "KVGB0002709": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002709",
     "MICR": "591483574",
     "BRANCH": "MUGALKHOD",
@@ -3791,7 +3774,7 @@
     "SWIFT": null
   },
   "KVGB0002710": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002710",
     "MICR": "591483575",
     "BRANCH": "NIPPANAL",
@@ -3808,7 +3791,7 @@
     "SWIFT": null
   },
   "KVGB0002711": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002711",
     "MICR": "591483574",
     "BRANCH": "PARAMANANDWADI",
@@ -3825,7 +3808,7 @@
     "SWIFT": null
   },
   "KVGB0002712": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002712",
     "MICR": "591483554",
     "BRANCH": "RAIBAG",
@@ -3842,7 +3825,7 @@
     "SWIFT": null
   },
   "KVGB0002713": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002713",
     "MICR": "591483602",
     "BRANCH": "NANDIKURLI",
@@ -3859,9 +3842,9 @@
     "SWIFT": null
   },
   "KVGB0002714": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002714",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "ITNAL",
     "ADDRESS": "GRAMA PANCHAYATH BUILDING ITNAL BRANCH RAIBAG TALUK BELGAUM DIST",
     "STATE": "KARNATAKA",
@@ -3876,9 +3859,9 @@
     "SWIFT": null
   },
   "KVGB0002715": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002715",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "PALABHAVI",
     "ADDRESS": "NEAR BASAVESHWAR TEMPLE, TEMPLE ROAD, PALABHAVI, TQ RAIBHAG, DIST. BELAGAVI - 591235",
     "STATE": "KARNATAKA",
@@ -3893,7 +3876,7 @@
     "SWIFT": null
   },
   "KVGB0002801": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002801",
     "MICR": "591483579",
     "BRANCH": "BATAKURKI",
@@ -3910,7 +3893,7 @@
     "SWIFT": null
   },
   "KVGB0002802": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002802",
     "MICR": "591483580",
     "BRANCH": "HOSAKOTI",
@@ -3927,7 +3910,7 @@
     "SWIFT": null
   },
   "KVGB0002803": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002803",
     "MICR": "591483581",
     "BRANCH": "HULKUND",
@@ -3944,7 +3927,7 @@
     "SWIFT": null
   },
   "KVGB0002804": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002804",
     "MICR": "591483582",
     "BRANCH": "KATKOL",
@@ -3961,7 +3944,7 @@
     "SWIFT": null
   },
   "KVGB0002805": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002805",
     "MICR": "591483581",
     "BRANCH": "RAMADURGA",
@@ -3978,7 +3961,7 @@
     "SWIFT": null
   },
   "KVGB0002806": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002806",
     "MICR": "591483583",
     "BRANCH": "SALAHALLI",
@@ -3995,7 +3978,7 @@
     "SWIFT": null
   },
   "KVGB0002807": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002807",
     "MICR": "591483596",
     "BRANCH": "CHUNCHANUR",
@@ -4012,9 +3995,9 @@
     "SWIFT": null
   },
   "KVGB0002808": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002808",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "MUDAKAVI",
     "ADDRESS": "KVGB MUDAKAVI, TQ RAMDURG BELGAUM",
     "STATE": "KARNATAKA",
@@ -4029,9 +4012,9 @@
     "SWIFT": null
   },
   "KVGB0002809": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002809",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "K JUNIPETH",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK SHIRAJ G MAHAT AT POST K JUNIPETH TQ RAMADURG DIST BELGAUM PIN-591123",
     "STATE": "KARNATAKA",
@@ -4046,7 +4029,7 @@
     "SWIFT": null
   },
   "KVGB0002901": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002901",
     "MICR": "591483585",
     "BRANCH": "HANCHINAL",
@@ -4063,7 +4046,7 @@
     "SWIFT": null
   },
   "KVGB0002902": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002902",
     "MICR": "591483586",
     "BRANCH": "HOSUR",
@@ -4080,7 +4063,7 @@
     "SWIFT": null
   },
   "KVGB0002903": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002903",
     "MICR": "591483587",
     "BRANCH": "HULIKATTI",
@@ -4097,7 +4080,7 @@
     "SWIFT": null
   },
   "KVGB0002904": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002904",
     "MICR": "591483588",
     "BRANCH": "INAMHONGAL",
@@ -4114,7 +4097,7 @@
     "SWIFT": null
   },
   "KVGB0002905": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002905",
     "MICR": "591483589",
     "BRANCH": "INCHAL",
@@ -4131,7 +4114,7 @@
     "SWIFT": null
   },
   "KVGB0002906": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002906",
     "MICR": "591483588",
     "BRANCH": "MUNAVALLI",
@@ -4148,7 +4131,7 @@
     "SWIFT": null
   },
   "KVGB0002907": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002907",
     "MICR": "591483590",
     "BRANCH": "SIRASANGI",
@@ -4165,7 +4148,7 @@
     "SWIFT": null
   },
   "KVGB0002908": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002908",
     "MICR": "591483591",
     "BRANCH": "SOUNDATTI",
@@ -4182,7 +4165,7 @@
     "SWIFT": null
   },
   "KVGB0002909": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002909",
     "MICR": "591483592",
     "BRANCH": "TALLUR",
@@ -4199,7 +4182,7 @@
     "SWIFT": null
   },
   "KVGB0002910": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002910",
     "MICR": "590483527",
     "BRANCH": "UGARGOL",
@@ -4216,7 +4199,7 @@
     "SWIFT": null
   },
   "KVGB0002911": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002911",
     "MICR": "591483592",
     "BRANCH": "YAKKUNDI",
@@ -4233,7 +4216,7 @@
     "SWIFT": null
   },
   "KVGB0002912": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002912",
     "MICR": "586483501",
     "BRANCH": "YARAGATTI",
@@ -4250,7 +4233,7 @@
     "SWIFT": null
   },
   "KVGB0002913": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002913",
     "MICR": "591483604",
     "BRANCH": "ASUNDI",
@@ -4267,9 +4250,9 @@
     "SWIFT": null
   },
   "KVGB0002914": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002914",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "MURAGOD",
     "ADDRESS": "HOUSE NO. 419, OPPOSITE BUS STAND, MURAGOD",
     "STATE": "KARNATAKA",
@@ -4284,9 +4267,9 @@
     "SWIFT": null
   },
   "KVGB0002915": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002915",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "HOOLI",
     "ADDRESS": "KARNATAKA VIKAS GRAMEEN BANK, HOOLI UNNE UTPADAKAR KAIGARIKA SAHAKARI SANGH LTD, HOOLI, TQ SOUNDATTI, DT BELGAUM, KARNATAKA",
     "STATE": "KARNATAKA",
@@ -4301,9 +4284,9 @@
     "SWIFT": null
   },
   "KVGB0002916": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0002916",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "SATTIGERI",
     "ADDRESS": "KARNATAKA VIKAS GRAMEEN BANK, ANGADI BUILDING, NEAR BUS STAND, TQ SAUNDATTI, DT BELGAUM, KARNATAKA",
     "STATE": "KARNATAKA",
@@ -4318,9 +4301,9 @@
     "SWIFT": null
   },
   "KVGB0003000": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003000",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "BIJAPUR R O",
     "ADDRESS": "REGIONAL MANAGER,KARNATAKA VIKAS GRAMEENA BANK,RO,VIVEK NAGAR WEST,BAGEWADI ROAD,BIJAPUR.586101",
     "STATE": "KARNATAKA",
@@ -4335,7 +4318,7 @@
     "SWIFT": null
   },
   "KVGB0003001": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003001",
     "MICR": "586483503",
     "BRANCH": "BASAVAN BAGEWADI",
@@ -4352,7 +4335,7 @@
     "SWIFT": null
   },
   "KVGB0003002": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003002",
     "MICR": "586483504",
     "BRANCH": "ITAGI",
@@ -4369,7 +4352,7 @@
     "SWIFT": null
   },
   "KVGB0003003": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003003",
     "MICR": "586483505",
     "BRANCH": "KOLHAR",
@@ -4386,7 +4369,7 @@
     "SWIFT": null
   },
   "KVGB0003004": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003004",
     "MICR": "586483506",
     "BRANCH": "MASUTI",
@@ -4403,7 +4386,7 @@
     "SWIFT": null
   },
   "KVGB0003005": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003005",
     "MICR": "586483507",
     "BRANCH": "MULAWAD",
@@ -4420,7 +4403,7 @@
     "SWIFT": null
   },
   "KVGB0003006": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003006",
     "MICR": "586483508",
     "BRANCH": "MUTTAGI",
@@ -4437,7 +4420,7 @@
     "SWIFT": null
   },
   "KVGB0003007": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003007",
     "MICR": "586483507",
     "BRANCH": "UKKALI",
@@ -4454,7 +4437,7 @@
     "SWIFT": null
   },
   "KVGB0003008": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003008",
     "MICR": "582483527",
     "BRANCH": "NIDAGUNDI-BJP",
@@ -4471,7 +4454,7 @@
     "SWIFT": null
   },
   "KVGB0003009": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003009",
     "MICR": "586483552",
     "BRANCH": "KUDIGI",
@@ -4488,7 +4471,7 @@
     "SWIFT": null
   },
   "KVGB0003010": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003010",
     "MICR": "586483002",
     "BRANCH": "MANAGULI",
@@ -4505,7 +4488,7 @@
     "SWIFT": null
   },
   "KVGB0003011": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003011",
     "MICR": "586483557",
     "BRANCH": "HRS-RC CENTER",
@@ -4522,9 +4505,9 @@
     "SWIFT": null
   },
   "KVGB0003012": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003012",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "KUDARE SALAWADAGI",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK,BM DESI BUILDING , MIN ROAD, AT POST UDE SLWDGI, TQ BASAVAN BAGEWADI,DIST VIJAYAPUR",
     "STATE": "KARNATAKA",
@@ -4539,7 +4522,7 @@
     "SWIFT": null
   },
   "KVGB0003101": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003101",
     "MICR": "586483511",
     "BRANCH": "ARJUNAGI",
@@ -4556,7 +4539,7 @@
     "SWIFT": null
   },
   "KVGB0003102": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003102",
     "MICR": "586483510",
     "BRANCH": "BIJAPUR",
@@ -4573,7 +4556,7 @@
     "SWIFT": null
   },
   "KVGB0003103": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003103",
     "MICR": "586483517",
     "BRANCH": "HONAWAD",
@@ -4590,7 +4573,7 @@
     "SWIFT": null
   },
   "KVGB0003104": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003104",
     "MICR": "586483512",
     "BRANCH": "HONNUTAGI",
@@ -4607,7 +4590,7 @@
     "SWIFT": null
   },
   "KVGB0003105": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003105",
     "MICR": "586483513",
     "BRANCH": "JAINAPUR",
@@ -4624,7 +4607,7 @@
     "SWIFT": null
   },
   "KVGB0003106": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003106",
     "MICR": "586483514",
     "BRANCH": "JAMBAGI",
@@ -4641,7 +4624,7 @@
     "SWIFT": null
   },
   "KVGB0003107": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003107",
     "MICR": "586483515",
     "BRANCH": "KANAMADI",
@@ -4658,7 +4641,7 @@
     "SWIFT": null
   },
   "KVGB0003108": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003108",
     "MICR": "586483516",
     "BRANCH": "NAGATHAN",
@@ -4675,7 +4658,7 @@
     "SWIFT": null
   },
   "KVGB0003109": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003109",
     "MICR": "586483003",
     "BRANCH": "SARAWAD",
@@ -4692,7 +4675,7 @@
     "SWIFT": null
   },
   "KVGB0003110": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003110",
     "MICR": "586483518",
     "BRANCH": "TIKOTA",
@@ -4709,7 +4692,7 @@
     "SWIFT": null
   },
   "KVGB0003111": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003111",
     "MICR": "586483004",
     "BRANCH": "VIVEKNAGAR",
@@ -4726,7 +4709,7 @@
     "SWIFT": null
   },
   "KVGB0003112": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003112",
     "MICR": "586483005",
     "BRANCH": "BABALESHWAR",
@@ -4743,7 +4726,7 @@
     "SWIFT": null
   },
   "KVGB0003113": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003113",
     "MICR": "586483547",
     "BRANCH": "ASHRAM ROAD-BIJAPUR",
@@ -4760,7 +4743,7 @@
     "SWIFT": null
   },
   "KVGB0003114": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003114",
     "MICR": "586483006",
     "BRANCH": "SAINIK SCHOOL RD BJP",
@@ -4777,7 +4760,7 @@
     "SWIFT": null
   },
   "KVGB0003115": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003115",
     "MICR": "586483547",
     "BRANCH": "DEVARAGENNUR",
@@ -4794,7 +4777,7 @@
     "SWIFT": null
   },
   "KVGB0003116": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003116",
     "MICR": "586483521",
     "BRANCH": "STATION RD BIJAPUR",
@@ -4811,7 +4794,7 @@
     "SWIFT": null
   },
   "KVGB0003117": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003117",
     "MICR": "586483548",
     "BRANCH": "TAJPUR",
@@ -4828,7 +4811,7 @@
     "SWIFT": null
   },
   "KVGB0003118": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003118",
     "MICR": "586483558",
     "BRANCH": "TORAVI",
@@ -4845,7 +4828,7 @@
     "SWIFT": null
   },
   "KVGB0003119": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003119",
     "MICR": "586483007",
     "BRANCH": "SHOLAPUR ROAD BIJAPUR",
@@ -4862,9 +4845,9 @@
     "SWIFT": null
   },
   "KVGB0003120": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003120",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "GUNADAL",
     "ADDRESS": "B K SALINKE BUILDING, DOOR NO. 210, GUNADAL",
     "STATE": "KARNATAKA",
@@ -4879,9 +4862,9 @@
     "SWIFT": null
   },
   "KVGB0003121": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003121",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "VAJRA HANUMAN NAGAR, BIJAPUR",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK, SRI M S KAMALAPUR BUILDING, NEAR SAINT JOSEPH SCHOOL, MAIN ROAD, VAJRA HANUMAN NAGAR, BIJAPUR 586103, KARNATAKA",
     "STATE": "KARNATAKA",
@@ -4896,9 +4879,9 @@
     "SWIFT": null
   },
   "KVGB0003122": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003122",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "DARGA ROAD",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK BRANCH DARGA ROAD NAIK BUILDING MANASA RESIDENTIAL DARGA ROAD VIJAYAPUR-586101",
     "STATE": "KARNATAKA",
@@ -4913,7 +4896,7 @@
     "SWIFT": null
   },
   "KVGB0003201": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003201",
     "MICR": "586483523",
     "BRANCH": "BHATAGUNAKI",
@@ -4930,7 +4913,7 @@
     "SWIFT": null
   },
   "KVGB0003202": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003202",
     "MICR": "586483524",
     "BRANCH": "DHULAKHED",
@@ -4947,7 +4930,7 @@
     "SWIFT": null
   },
   "KVGB0003203": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003203",
     "MICR": "586483525",
     "BRANCH": "INDI",
@@ -4964,7 +4947,7 @@
     "SWIFT": null
   },
   "KVGB0003204": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003204",
     "MICR": "586483526",
     "BRANCH": "JIGAJIVANI",
@@ -4981,7 +4964,7 @@
     "SWIFT": null
   },
   "KVGB0003205": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003205",
     "MICR": "586483527",
     "BRANCH": "LONI BK",
@@ -4998,7 +4981,7 @@
     "SWIFT": null
   },
   "KVGB0003206": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003206",
     "MICR": "586483526",
     "BRANCH": "NAD BK",
@@ -5015,7 +4998,7 @@
     "SWIFT": null
   },
   "KVGB0003207": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003207",
     "MICR": "586483527",
     "BRANCH": "CHADACHAN",
@@ -5032,7 +5015,7 @@
     "SWIFT": null
   },
   "KVGB0003208": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003208",
     "MICR": "586483553",
     "BRANCH": "KHEDAGI",
@@ -5049,7 +5032,7 @@
     "SWIFT": null
   },
   "KVGB0003209": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003209",
     "MICR": "586483551",
     "BRANCH": "UMARANI",
@@ -5066,7 +5049,7 @@
     "SWIFT": null
   },
   "KVGB0003210": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003210",
     "MICR": "586483529",
     "BRANCH": "TAMBA",
@@ -5083,9 +5066,9 @@
     "SWIFT": null
   },
   "KVGB0003211": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003211",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "SHIRSHYAD",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK BRANCH SHIRSHYAD TALUK INDI DIST BIJAPUR 586217",
     "STATE": "KARNATAKA",
@@ -5100,9 +5083,9 @@
     "SWIFT": null
   },
   "KVGB0003212": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003212",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "MASALI BK",
     "ADDRESS": "GRAM PANCHAYAT BUILDING, MASALI BK,TQ- INDI, DIST VIJAYAPUR, PIN CODE - 586215",
     "STATE": "KARNATAKA",
@@ -5117,9 +5100,9 @@
     "SWIFT": null
   },
   "KVGB0003213": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003213",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "SATALAGAON P I",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK, GRAM PANCHAYAT BUILDING, TQINDI, DIST VIJAYAPUR PINCODE 586217",
     "STATE": "KARNATAKA",
@@ -5134,7 +5117,7 @@
     "SWIFT": null
   },
   "KVGB0003301": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003301",
     "MICR": "586483530",
     "BRANCH": "ALUR",
@@ -5151,7 +5134,7 @@
     "SWIFT": null
   },
   "KVGB0003302": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003302",
     "MICR": "586483531",
     "BRANCH": "MINAJAGI",
@@ -5168,7 +5151,7 @@
     "SWIFT": null
   },
   "KVGB0003303": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003303",
     "MICR": "586483532",
     "BRANCH": "MUDDEBIHAL",
@@ -5185,7 +5168,7 @@
     "SWIFT": null
   },
   "KVGB0003304": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003304",
     "MICR": "586483533",
     "BRANCH": "TALIKOTI",
@@ -5202,9 +5185,9 @@
     "SWIFT": null
   },
   "KVGB0003305": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003305",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "HULLUR",
     "ADDRESS": "R B KONDIKATTI BUILDING, DOOR NO. 441, HULLUR",
     "STATE": "KARNATAKA",
@@ -5219,9 +5202,9 @@
     "SWIFT": null
   },
   "KVGB0003306": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003306",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "RAKKASAGI",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK, GRAM PANCHAYAT BUILDING, RAKKASAGI, TQ MUDDEBIHAL, DT VIJAYAPUR",
     "STATE": "KARNATAKA",
@@ -5236,9 +5219,9 @@
     "SWIFT": null
   },
   "KVGB0003307": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003307",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "NALATAWAD",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK, M M MENEDALMATH BUILDING, AT POST NALATAWAD,TQ MUDDEBIHAL,DIST VIJAYAPUR PINCODE 586124",
     "STATE": "KARNATAKA",
@@ -5253,9 +5236,9 @@
     "SWIFT": null
   },
   "KVGB0003308": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003308",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "HIRUR",
     "ADDRESS": "AT PO HIRUR, MUDDEBIHAL TALUKA, BIJAPUR DIST",
     "STATE": "KARNATAKA",
@@ -5270,7 +5253,7 @@
     "SWIFT": null
   },
   "KVGB0003401": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003401",
     "MICR": "586483534",
     "BRANCH": "ALMEL",
@@ -5287,7 +5270,7 @@
     "SWIFT": null
   },
   "KVGB0003402": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003402",
     "MICR": "586483535",
     "BRANCH": "ASKI",
@@ -5304,7 +5287,7 @@
     "SWIFT": null
   },
   "KVGB0003403": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003403",
     "MICR": "586483536",
     "BRANCH": "BALAGANUR",
@@ -5321,7 +5304,7 @@
     "SWIFT": null
   },
   "KVGB0003404": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003404",
     "MICR": "586483537",
     "BRANCH": "CHANDAKAVATE",
@@ -5338,7 +5321,7 @@
     "SWIFT": null
   },
   "KVGB0003405": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003405",
     "MICR": "586483538",
     "BRANCH": "CHIKRUGI",
@@ -5355,7 +5338,7 @@
     "SWIFT": null
   },
   "KVGB0003406": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003406",
     "MICR": "586483539",
     "BRANCH": "DEVANAGAON",
@@ -5372,7 +5355,7 @@
     "SWIFT": null
   },
   "KVGB0003407": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003407",
     "MICR": "586483540",
     "BRANCH": "DEVARA NAVADAGI",
@@ -5389,7 +5372,7 @@
     "SWIFT": null
   },
   "KVGB0003408": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003408",
     "MICR": "586483541",
     "BRANCH": "GABASAVALAGI",
@@ -5406,7 +5389,7 @@
     "SWIFT": null
   },
   "KVGB0003409": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003409",
     "MICR": "586483542",
     "BRANCH": "GOLAGERI",
@@ -5423,7 +5406,7 @@
     "SWIFT": null
   },
   "KVGB0003410": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003410",
     "MICR": "586483543",
     "BRANCH": "GUBBEWAD",
@@ -5440,7 +5423,7 @@
     "SWIFT": null
   },
   "KVGB0003411": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003411",
     "MICR": "586483544",
     "BRANCH": "JALAWAD",
@@ -5457,7 +5440,7 @@
     "SWIFT": null
   },
   "KVGB0003412": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003412",
     "MICR": "586483520",
     "BRANCH": "KANNOLI",
@@ -5474,7 +5457,7 @@
     "SWIFT": null
   },
   "KVGB0003413": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003413",
     "MICR": "586483519",
     "BRANCH": "KONDAGULI",
@@ -5491,7 +5474,7 @@
     "SWIFT": null
   },
   "KVGB0003414": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003414",
     "MICR": "586483545",
     "BRANCH": "MALAGHAN",
@@ -5508,7 +5491,7 @@
     "SWIFT": null
   },
   "KVGB0003415": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003415",
     "MICR": "586483546",
     "BRANCH": "SINDAGI",
@@ -5525,7 +5508,7 @@
     "SWIFT": null
   },
   "KVGB0003416": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003416",
     "MICR": "586483549",
     "BRANCH": "YANKANCHI",
@@ -5542,7 +5525,7 @@
     "SWIFT": null
   },
   "KVGB0003417": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003417",
     "MICR": "586483546",
     "BRANCH": "YARAGAL BK",
@@ -5559,7 +5542,7 @@
     "SWIFT": null
   },
   "KVGB0003418": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003418",
     "MICR": "586483549",
     "BRANCH": "KADANI",
@@ -5576,7 +5559,7 @@
     "SWIFT": null
   },
   "KVGB0003419": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003419",
     "MICR": "586483550",
     "BRANCH": "HONNALLI",
@@ -5593,7 +5576,7 @@
     "SWIFT": null
   },
   "KVGB0003420": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003420",
     "MICR": "586483556",
     "BRANCH": "MORATAGI",
@@ -5610,9 +5593,9 @@
     "SWIFT": null
   },
   "KVGB0003421": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003421",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "DEVARAHIPPARAGI",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK, SRI. SIDDESHWAR JANA KALYAN SANSTHE BUILDING, DEVAR HIPPARAGI, TQ SINDAGI, DT BIJAPUR, KARNATAKA",
     "STATE": "KARNATAKA",
@@ -5627,9 +5610,9 @@
     "SWIFT": null
   },
   "KVGB0003422": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003422",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "SUNGATHAN",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK, I S BIRADAR BUILDING, VPC NO. 85 B, SUNGATHAN, TQ SINDAGI, DT VIJAYAPUR",
     "STATE": "KARNATAKA",
@@ -5644,9 +5627,9 @@
     "SWIFT": null
   },
   "KVGB0003423": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003423",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "YALGOD",
     "ADDRESS": "B S PATTAR BUILDING AT PO YALGOD",
     "STATE": "KARNATAKA",
@@ -5661,9 +5644,9 @@
     "SWIFT": null
   },
   "KVGB0003424": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0003424",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "KOKATNUR",
     "ADDRESS": "GRAM PANCHAYAT BUILDING, KOKATNUR, TQ- SINDAGI DIST VIJAYAPUR, PIN CODE - 599370",
     "STATE": "KARNATAKA",
@@ -5678,9 +5661,9 @@
     "SWIFT": null
   },
   "KVGB0004000": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004000",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "DHARWAD RO",
     "ADDRESS": "REGIONAL OFFICE HEAD OFFICE BUILDING,BELGAUM ROAD,DHARWAD 580 008",
     "STATE": "KARNATAKA",
@@ -5695,7 +5678,7 @@
     "SWIFT": null
   },
   "KVGB0004001": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004001",
     "MICR": "580483502",
     "BRANCH": "ALANAVAR",
@@ -5712,7 +5695,7 @@
     "SWIFT": null
   },
   "KVGB0004002": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004002",
     "MICR": "580483014",
     "BRANCH": "APMC BRANCH",
@@ -5729,7 +5712,7 @@
     "SWIFT": null
   },
   "KVGB0004003": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004003",
     "MICR": "580483013",
     "BRANCH": "ARAWATAGI",
@@ -5746,7 +5729,7 @@
     "SWIFT": null
   },
   "KVGB0004004": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004004",
     "MICR": "580483019",
     "BRANCH": "DBHPS DWD",
@@ -5763,7 +5746,7 @@
     "SWIFT": null
   },
   "KVGB0004005": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004005",
     "MICR": "580483015",
     "BRANCH": "DHARWAD",
@@ -5780,7 +5763,7 @@
     "SWIFT": null
   },
   "KVGB0004006": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004006",
     "MICR": "580483016",
     "BRANCH": "DODDANAIKANKOP",
@@ -5797,7 +5780,7 @@
     "SWIFT": null
   },
   "KVGB0004007": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004007",
     "MICR": "580483020",
     "BRANCH": "GANDHINAGAR",
@@ -5814,7 +5797,7 @@
     "SWIFT": null
   },
   "KVGB0004008": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004008",
     "MICR": "580483017",
     "BRANCH": "H O BRANCH",
@@ -5831,7 +5814,7 @@
     "SWIFT": null
   },
   "KVGB0004009": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004009",
     "MICR": "580483503",
     "BRANCH": "JAYANAGAR DWD",
@@ -5848,7 +5831,7 @@
     "SWIFT": null
   },
   "KVGB0004010": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004010",
     "MICR": "580483504",
     "BRANCH": "LINE BAZAR DWD",
@@ -5865,7 +5848,7 @@
     "SWIFT": null
   },
   "KVGB0004011": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004011",
     "MICR": "580483505",
     "BRANCH": "MUGAD",
@@ -5882,7 +5865,7 @@
     "SWIFT": null
   },
   "KVGB0004012": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004012",
     "MICR": "580483506",
     "BRANCH": "MUMMIGATTI",
@@ -5899,7 +5882,7 @@
     "SWIFT": null
   },
   "KVGB0004013": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004013",
     "MICR": "580483507",
     "BRANCH": "NAVALUR",
@@ -5916,7 +5899,7 @@
     "SWIFT": null
   },
   "KVGB0004014": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004014",
     "MICR": "580483508",
     "BRANCH": "NIGADI",
@@ -5933,7 +5916,7 @@
     "SWIFT": null
   },
   "KVGB0004015": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004015",
     "MICR": "580483509",
     "BRANCH": "SHIVALLI",
@@ -5950,7 +5933,7 @@
     "SWIFT": null
   },
   "KVGB0004016": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004016",
     "MICR": "580483510",
     "BRANCH": "TADAKOD",
@@ -5967,7 +5950,7 @@
     "SWIFT": null
   },
   "KVGB0004017": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004017",
     "MICR": "580483511",
     "BRANCH": "TEGUR",
@@ -5984,7 +5967,7 @@
     "SWIFT": null
   },
   "KVGB0004018": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004018",
     "MICR": "580483022",
     "BRANCH": "UPPIN BETAGERI",
@@ -6001,7 +5984,7 @@
     "SWIFT": null
   },
   "KVGB0004019": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004019",
     "MICR": "580483511",
     "BRANCH": "WALMI COMPLEX-DHARWAD",
@@ -6018,7 +6001,7 @@
     "SWIFT": null
   },
   "KVGB0004020": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004020",
     "MICR": "580483022",
     "BRANCH": "GANDHI CHOWK DWD",
@@ -6035,7 +6018,7 @@
     "SWIFT": null
   },
   "KVGB0004021": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004021",
     "MICR": "580483543",
     "BRANCH": "KOTABAGI",
@@ -6052,7 +6035,7 @@
     "SWIFT": null
   },
   "KVGB0004022": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004022",
     "MICR": "580483544",
     "BRANCH": "MAADANBHAVI",
@@ -6069,7 +6052,7 @@
     "SWIFT": null
   },
   "KVGB0004023": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004023",
     "MICR": "580483311",
     "BRANCH": "VIKAS NAGAR",
@@ -6086,7 +6069,7 @@
     "SWIFT": null
   },
   "KVGB0004024": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004024",
     "MICR": "580483023",
     "BRANCH": "MALAMADDI",
@@ -6103,7 +6086,7 @@
     "SWIFT": null
   },
   "KVGB0004025": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004025",
     "MICR": "580483024",
     "BRANCH": "RAJATGIRI",
@@ -6120,9 +6103,9 @@
     "SWIFT": null
   },
   "KVGB0004026": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004026",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "HALLIGERI",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK, OLD PANCHAYAT BUILDING, MAIN ROAD, HALLIGERI, DT DHARWAD, KARNATAKA",
     "STATE": "KARNATAKA",
@@ -6137,9 +6120,9 @@
     "SWIFT": null
   },
   "KVGB0004027": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004027",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "DISTRICT COURT COMPLEX - DHARWAD",
     "ADDRESS": "DISTRICT COURT COMPLEX, GROUND FLOOR, PRINCIPAL DISTRICT AND SESSION COURT COMPLEX, NEAR KALABHAVAN, PB ROAD, DHARWAD - 580008",
     "STATE": "KARNATAKA",
@@ -6154,9 +6137,9 @@
     "SWIFT": null
   },
   "KVGB0004028": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004028",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "MANAGUNDI",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK WALMIKI SEVA SANGH BUILDING MANAGUNDI DHARWAD",
     "STATE": "KARNATAKA",
@@ -6171,7 +6154,7 @@
     "SWIFT": null
   },
   "KVGB0004101": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004101",
     "MICR": "580483520",
     "BRANCH": "CBT HUBLI",
@@ -6188,7 +6171,7 @@
     "SWIFT": null
   },
   "KVGB0004102": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004102",
     "MICR": "580483002",
     "BRANCH": "GOKUL RD HUBLI",
@@ -6205,7 +6188,7 @@
     "SWIFT": null
   },
   "KVGB0004103": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004103",
     "MICR": "580483521",
     "BRANCH": "HALLIHAL",
@@ -6222,7 +6205,7 @@
     "SWIFT": null
   },
   "KVGB0004104": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004104",
     "MICR": "580483008",
     "BRANCH": "HUBLI (M)",
@@ -6239,7 +6222,7 @@
     "SWIFT": null
   },
   "KVGB0004105": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004105",
     "MICR": "580483522",
     "BRANCH": "INGALAHALLI",
@@ -6256,7 +6239,7 @@
     "SWIFT": null
   },
   "KVGB0004106": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004106",
     "MICR": "580483010",
     "BRANCH": "KESHWAPUR-HUBLI",
@@ -6273,7 +6256,7 @@
     "SWIFT": null
   },
   "KVGB0004107": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004107",
     "MICR": "580483523",
     "BRANCH": "KUSUGAL",
@@ -6290,7 +6273,7 @@
     "SWIFT": null
   },
   "KVGB0004108": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004108",
     "MICR": "580483009",
     "BRANCH": "NAVANAGAR",
@@ -6307,7 +6290,7 @@
     "SWIFT": null
   },
   "KVGB0004109": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004109",
     "MICR": "580483004",
     "BRANCH": "NULVI",
@@ -6324,7 +6307,7 @@
     "SWIFT": null
   },
   "KVGB0004110": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004110",
     "MICR": "580483003",
     "BRANCH": "OLD HUBLI",
@@ -6341,7 +6324,7 @@
     "SWIFT": null
   },
   "KVGB0004111": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004111",
     "MICR": "580483006",
     "BRANCH": "SHIRUR PARK HBL",
@@ -6358,7 +6341,7 @@
     "SWIFT": null
   },
   "KVGB0004112": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004112",
     "MICR": "580483524",
     "BRANCH": "SRINAGARHBL",
@@ -6375,7 +6358,7 @@
     "SWIFT": null
   },
   "KVGB0004113": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004113",
     "MICR": "580483021",
     "BRANCH": "VIJAYNAGAR HBL",
@@ -6392,7 +6375,7 @@
     "SWIFT": null
   },
   "KVGB0004114": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004114",
     "MICR": "580483011",
     "BRANCH": "WARUR",
@@ -6409,7 +6392,7 @@
     "SWIFT": null
   },
   "KVGB0004115": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004115",
     "MICR": "580483012",
     "BRANCH": "BHAIRIDEVARAKOPPA-HBL",
@@ -6426,7 +6409,7 @@
     "SWIFT": null
   },
   "KVGB0004116": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004116",
     "MICR": "580483011",
     "BRANCH": "MADHURA COLONY HUBLI",
@@ -6443,7 +6426,7 @@
     "SWIFT": null
   },
   "KVGB0004117": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004117",
     "MICR": "580483542",
     "BRANCH": "STATION RD HUBLI",
@@ -6460,7 +6443,7 @@
     "SWIFT": null
   },
   "KVGB0004118": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004118",
     "MICR": "580483011",
     "BRANCH": "GOKUL",
@@ -6477,7 +6460,7 @@
     "SWIFT": null
   },
   "KVGB0004119": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004119",
     "MICR": "580483542",
     "BRANCH": "SHIRAGUPPI",
@@ -6494,7 +6477,7 @@
     "SWIFT": null
   },
   "KVGB0004120": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004120",
     "MICR": "580483545",
     "BRANCH": "ADARAGUNCHI",
@@ -6511,9 +6494,9 @@
     "SWIFT": null
   },
   "KVGB0004121": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004121",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "RAYANAL",
     "ADDRESS": "REVANA SIDDESHWARA SAMSTHANA VIRAKTHAMATHA AVARANA, RAYANAL",
     "STATE": "KARNATAKA",
@@ -6528,7 +6511,7 @@
     "SWIFT": null
   },
   "KVGB0004201": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004201",
     "MICR": "580483533",
     "BRANCH": "BOMMIGATTI",
@@ -6545,7 +6528,7 @@
     "SWIFT": null
   },
   "KVGB0004202": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004202",
     "MICR": "580483534",
     "BRANCH": "GA.HULKOPPA",
@@ -6562,7 +6545,7 @@
     "SWIFT": null
   },
   "KVGB0004203": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004203",
     "MICR": "580483535",
     "BRANCH": "HI.HO.HALLI",
@@ -6579,7 +6562,7 @@
     "SWIFT": null
   },
   "KVGB0004204": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004204",
     "MICR": "580483536",
     "BRANCH": "KALAGHATAGI",
@@ -6596,7 +6579,7 @@
     "SWIFT": null
   },
   "KVGB0004205": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004205",
     "MICR": "580483537",
     "BRANCH": "MISHRIKOTI",
@@ -6613,7 +6596,7 @@
     "SWIFT": null
   },
   "KVGB0004206": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004206",
     "MICR": "580483525",
     "BRANCH": "MUTTAGI",
@@ -6630,7 +6613,7 @@
     "SWIFT": null
   },
   "KVGB0004207": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004207",
     "MICR": "580483526",
     "BRANCH": "TA.HO.HALLI",
@@ -6647,7 +6630,7 @@
     "SWIFT": null
   },
   "KVGB0004208": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004208",
     "MICR": "580483547",
     "BRANCH": "DEVIKOPPA",
@@ -6664,9 +6647,9 @@
     "SWIFT": null
   },
   "KVGB0004209": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004209",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "TAVARGERI",
     "ADDRESS": "KARNATAKA VIKAS GRAMEEN BANK, GRAM PANCHYAT BLDG, TAWARAGERI TQ KALAGHATAGI DT DHARWAD, KARNATAKA",
     "STATE": "KARNATAKA",
@@ -6681,7 +6664,7 @@
     "SWIFT": null
   },
   "KVGB0004301": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004301",
     "MICR": "580483527",
     "BRANCH": "INGALAGI",
@@ -6698,7 +6681,7 @@
     "SWIFT": null
   },
   "KVGB0004302": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004302",
     "MICR": "580483528",
     "BRANCH": "KALAS",
@@ -6715,7 +6698,7 @@
     "SWIFT": null
   },
   "KVGB0004303": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004303",
     "MICR": "580483530",
     "BRANCH": "KAMADOLLI",
@@ -6732,7 +6715,7 @@
     "SWIFT": null
   },
   "KVGB0004304": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004304",
     "MICR": "580483529",
     "BRANCH": "KUNDAGOL",
@@ -6749,7 +6732,7 @@
     "SWIFT": null
   },
   "KVGB0004305": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004305",
     "MICR": "580483512",
     "BRANCH": "YARAGUPPI",
@@ -6766,7 +6749,7 @@
     "SWIFT": null
   },
   "KVGB0004306": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004306",
     "MICR": "580483513",
     "BRANCH": "YAREBUDIHAL",
@@ -6783,9 +6766,9 @@
     "SWIFT": null
   },
   "KVGB0004307": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004307",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "TARLAGHATTA",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK BRANCH TARLAGHATTA KUNDAGOL TALUK DHARWAD DIST",
     "STATE": "KARNATAKA",
@@ -6800,9 +6783,9 @@
     "SWIFT": null
   },
   "KVGB0004308": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004308",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "HIREHARAKUNI",
     "ADDRESS": "KARNATAKA VIKAS GRAMEEN BANK, GRAM PANCHYAT BUILDING, HIREHARAKUNI, TQ KUNDGOL, DT DHARWAD, KARNATAKA",
     "STATE": "KARNATAKA",
@@ -6817,9 +6800,9 @@
     "SWIFT": null
   },
   "KVGB0004309": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004309",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "GUDAGERI",
     "ADDRESS": "JAIN BUILDING, STATION ROAD GUDAGERI TQ- KUNDAGOL, DIST DHARWAD PIN CODE - 580007",
     "STATE": "KARNATAKA",
@@ -6834,7 +6817,7 @@
     "SWIFT": null
   },
   "KVGB0004401": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004401",
     "MICR": "580483514",
     "BRANCH": "ALAGAWADI",
@@ -6851,7 +6834,7 @@
     "SWIFT": null
   },
   "KVGB0004402": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004402",
     "MICR": "580483515",
     "BRANCH": "AREKURAHATTI",
@@ -6868,7 +6851,7 @@
     "SWIFT": null
   },
   "KVGB0004403": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004403",
     "MICR": "580483516",
     "BRANCH": "HALLIKERI",
@@ -6885,7 +6868,7 @@
     "SWIFT": null
   },
   "KVGB0004404": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004404",
     "MICR": "580483517",
     "BRANCH": "NALAWADI",
@@ -6902,7 +6885,7 @@
     "SWIFT": null
   },
   "KVGB0004405": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004405",
     "MICR": "580483518",
     "BRANCH": "NAVALGUND",
@@ -6919,7 +6902,7 @@
     "SWIFT": null
   },
   "KVGB0004406": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004406",
     "MICR": "580483519",
     "BRANCH": "SHALAWADI",
@@ -6936,7 +6919,7 @@
     "SWIFT": null
   },
   "KVGB0004407": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004407",
     "MICR": "580483518",
     "BRANCH": "SHIRKOL",
@@ -6953,7 +6936,7 @@
     "SWIFT": null
   },
   "KVGB0004408": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004408",
     "MICR": "575483004",
     "BRANCH": "TIRLAPUR",
@@ -6970,7 +6953,7 @@
     "SWIFT": null
   },
   "KVGB0004410": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004410",
     "MICR": "575483504",
     "BRANCH": "MORAB",
@@ -6987,9 +6970,9 @@
     "SWIFT": null
   },
   "KVGB0004411": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0004411",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "ANNIGERI",
     "ADDRESS": "VM HUBLI COMPLEX  CTS NO 44/C1 OPPOSITE TO SBI NAVALGUND GADAG ROAD ANNIGERI DHARWAD-582201",
     "STATE": "KARNATAKA",
@@ -7004,9 +6987,9 @@
     "SWIFT": null
   },
   "KVGB0005000": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0005000",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "MANGALORE R O",
     "ADDRESS": "I ST FLOOR,KRISHNA TOWERS,LADY HILL,CHILIMBI,MANGALORE 575006",
     "STATE": "KARNATAKA",
@@ -7021,7 +7004,7 @@
     "SWIFT": null
   },
   "KVGB0005001": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0005001",
     "MICR": "575483009",
     "BRANCH": "BC ROAD",
@@ -7038,7 +7021,7 @@
     "SWIFT": null
   },
   "KVGB0005002": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0005002",
     "MICR": "575483501",
     "BRANCH": "KALLADKA",
@@ -7055,7 +7038,7 @@
     "SWIFT": null
   },
   "KVGB0005003": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0005003",
     "MICR": "575483502",
     "BRANCH": "VITTAL",
@@ -7072,9 +7055,9 @@
     "SWIFT": null
   },
   "KVGB0005004": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0005004",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "FARANGIPETE",
     "ADDRESS": "ATHAYEE COMPLEX, IST FLOOR, MAIN ROAD, FARANGIPETE",
     "STATE": "KARNATAKA",
@@ -7089,9 +7072,9 @@
     "SWIFT": null
   },
   "KVGB0005005": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0005005",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "SIDDAKATTE",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK SWAGATH COMPLEX SIDDAKATTE BANTWALA DK 574237",
     "STATE": "KARNATAKA",
@@ -7106,7 +7089,7 @@
     "SWIFT": null
   },
   "KVGB0005101": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0005101",
     "MICR": "575483503",
     "BRANCH": "ARASINMAKKI",
@@ -7123,7 +7106,7 @@
     "SWIFT": null
   },
   "KVGB0005102": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0005102",
     "MICR": "575483005",
     "BRANCH": "UJRE",
@@ -7140,7 +7123,7 @@
     "SWIFT": null
   },
   "KVGB0005103": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0005103",
     "MICR": "575483002",
     "BRANCH": "VENUR",
@@ -7157,7 +7140,7 @@
     "SWIFT": null
   },
   "KVGB0005104": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0005104",
     "MICR": "575483510",
     "BRANCH": "ALADANGADY",
@@ -7174,7 +7157,7 @@
     "SWIFT": null
   },
   "KVGB0005201": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0005201",
     "MICR": "575483006",
     "BRANCH": "KAIKAMBA",
@@ -7191,7 +7174,7 @@
     "SWIFT": null
   },
   "KVGB0005202": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0005202",
     "MICR": "575483002",
     "BRANCH": "KARANGALAPADY",
@@ -7208,7 +7191,7 @@
     "SWIFT": null
   },
   "KVGB0005203": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0005203",
     "MICR": "575483003",
     "BRANCH": "MOODABIDRI",
@@ -7225,7 +7208,7 @@
     "SWIFT": null
   },
   "KVGB0005204": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0005204",
     "MICR": "575483014",
     "BRANCH": "Z P EXTENSION MANGALORE",
@@ -7242,7 +7225,7 @@
     "SWIFT": null
   },
   "KVGB0005205": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0005205",
     "MICR": "575483011",
     "BRANCH": "SURATKAL",
@@ -7259,7 +7242,7 @@
     "SWIFT": null
   },
   "KVGB0005206": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0005206",
     "MICR": "575483012",
     "BRANCH": "TALAPADY",
@@ -7276,7 +7259,7 @@
     "SWIFT": null
   },
   "KVGB0005207": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0005207",
     "MICR": "575483013",
     "BRANCH": "KATEEL (KONDEMULA)",
@@ -7293,7 +7276,7 @@
     "SWIFT": null
   },
   "KVGB0005208": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0005208",
     "MICR": "575483007",
     "BRANCH": "KAVOOR",
@@ -7310,7 +7293,7 @@
     "SWIFT": null
   },
   "KVGB0005209": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0005209",
     "MICR": "575483010",
     "BRANCH": "BUNDER MANGALORE",
@@ -7327,7 +7310,7 @@
     "SWIFT": null
   },
   "KVGB0005210": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0005210",
     "MICR": "575483508",
     "BRANCH": "BELVAI",
@@ -7344,7 +7327,7 @@
     "SWIFT": null
   },
   "KVGB0005211": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0005211",
     "MICR": "575483015",
     "BRANCH": "KRISHNAPUR",
@@ -7361,7 +7344,7 @@
     "SWIFT": null
   },
   "KVGB0005401": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0005401",
     "MICR": "574483501",
     "BRANCH": "PUTTUR",
@@ -7378,7 +7361,7 @@
     "SWIFT": null
   },
   "KVGB0005402": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0005402",
     "MICR": "574483302",
     "BRANCH": "UPPINGADY",
@@ -7395,7 +7378,7 @@
     "SWIFT": null
   },
   "KVGB0005403": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0005403",
     "MICR": "575483509",
     "BRANCH": "KABAK",
@@ -7412,9 +7395,9 @@
     "SWIFT": null
   },
   "KVGB0005404": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0005404",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "KANIYOOR",
     "ADDRESS": "D K COMPLEX, IST FLOOR, MAIN ROAD, KANIYOOR",
     "STATE": "KARNATAKA",
@@ -7429,7 +7412,7 @@
     "SWIFT": null
   },
   "KVGB0005501": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0005501",
     "MICR": "574483502",
     "BRANCH": "BELLARE",
@@ -7446,7 +7429,7 @@
     "SWIFT": null
   },
   "KVGB0005502": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0005502",
     "MICR": "582483501",
     "BRANCH": "SULLIA",
@@ -7463,7 +7446,7 @@
     "SWIFT": null
   },
   "KVGB0005503": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0005503",
     "MICR": "582483003",
     "BRANCH": "SUBRAMANYA",
@@ -7480,9 +7463,9 @@
     "SWIFT": null
   },
   "KVGB0006000": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006000",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "GADAG R O",
     "ADDRESS": "CHAMBER OF COMMERCE BUILDING,APMC ROAD,GADAG.582101",
     "STATE": "KARNATAKA",
@@ -7497,7 +7480,7 @@
     "SWIFT": null
   },
   "KVGB0006001": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006001",
     "MICR": "582483002",
     "BRANCH": "BALAGANUR",
@@ -7514,7 +7497,7 @@
     "SWIFT": null
   },
   "KVGB0006002": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006002",
     "MICR": "582483502",
     "BRANCH": "BETAGERI",
@@ -7531,7 +7514,7 @@
     "SWIFT": null
   },
   "KVGB0006003": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006003",
     "MICR": "582483503",
     "BRANCH": "GADAG",
@@ -7548,7 +7531,7 @@
     "SWIFT": null
   },
   "KVGB0006004": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006004",
     "MICR": "582483504",
     "BRANCH": "HARTI",
@@ -7565,7 +7548,7 @@
     "SWIFT": null
   },
   "KVGB0006005": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006005",
     "MICR": "582483004",
     "BRANCH": "HOMBAL",
@@ -7582,7 +7565,7 @@
     "SWIFT": null
   },
   "KVGB0006006": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006006",
     "MICR": "582483505",
     "BRANCH": "KURTHAKOTI",
@@ -7599,7 +7582,7 @@
     "SWIFT": null
   },
   "KVGB0006007": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006007",
     "MICR": "582483506",
     "BRANCH": "MULAGUND NAKA",
@@ -7616,7 +7599,7 @@
     "SWIFT": null
   },
   "KVGB0006008": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006008",
     "MICR": "582483507",
     "BRANCH": "NAGAVI",
@@ -7633,7 +7616,7 @@
     "SWIFT": null
   },
   "KVGB0006009": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006009",
     "MICR": "582483508",
     "BRANCH": "SORATUR",
@@ -7650,7 +7633,7 @@
     "SWIFT": null
   },
   "KVGB0006010": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006010",
     "MICR": "582483509",
     "BRANCH": "MULAGUND",
@@ -7667,7 +7650,7 @@
     "SWIFT": null
   },
   "KVGB0006011": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006011",
     "MICR": "582483510",
     "BRANCH": "HATALGERI NAKA",
@@ -7684,7 +7667,7 @@
     "SWIFT": null
   },
   "KVGB0006012": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006012",
     "MICR": "582483548",
     "BRANCH": "KOTAMUCHAGI",
@@ -7701,9 +7684,9 @@
     "SWIFT": null
   },
   "KVGB0006013": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006013",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "LAKKUNDI",
     "ADDRESS": "KARNATAKA VIKAS GRAMEEN BANK, GRAM PANCHYAT BUILDING, LAKKUNDI, DT GADAG, KARNATAKA",
     "STATE": "KARNATAKA",
@@ -7718,9 +7701,9 @@
     "SWIFT": null
   },
   "KVGB0006014": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006014",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "HULKOTI",
     "ADDRESS": "KARNATAKA VIKAS GRAMEEN BANK, PATIL BUILDING, HARTI ROAD, HULKOTI, TQ AND DT GADAG 582205, KARNATAKA",
     "STATE": "KARNATAKA",
@@ -7735,9 +7718,9 @@
     "SWIFT": null
   },
   "KVGB0006015": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006015",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "ANTUR BENTUR",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK BRANCH ANTUR BENTUR TALUK GADAG DIST GADAG",
     "STATE": "KARNATAKA",
@@ -7752,9 +7735,9 @@
     "SWIFT": null
   },
   "KVGB0006016": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006016",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "YALISHIRUR",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK YALISHIRUR BRANCH GRAMA PANCHAYATH BUILDING YELISHIRUR TALUKA GADAG DIST GADAG",
     "STATE": "KARNATAKA",
@@ -7769,9 +7752,9 @@
     "SWIFT": null
   },
   "KVGB0006017": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006017",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "HUILGOL",
     "ADDRESS": "KIRITAGERI ROAD, OPP. SUGURESHWAR MATH, HUILGOL, TQ GADAG, DIST. GADAG - 582102",
     "STATE": "KARNATAKA",
@@ -7786,7 +7769,7 @@
     "SWIFT": null
   },
   "KVGB0006101": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006101",
     "MICR": "582483511",
     "BRANCH": "BAGEWADI",
@@ -7803,7 +7786,7 @@
     "SWIFT": null
   },
   "KVGB0006102": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006102",
     "MICR": "582483512",
     "BRANCH": "DAMBAL",
@@ -7820,7 +7803,7 @@
     "SWIFT": null
   },
   "KVGB0006103": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006103",
     "MICR": "582483513",
     "BRANCH": "HALLIGUDI",
@@ -7837,7 +7820,7 @@
     "SWIFT": null
   },
   "KVGB0006104": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006104",
     "MICR": "582483514",
     "BRANCH": "HAMMIGI",
@@ -7854,7 +7837,7 @@
     "SWIFT": null
   },
   "KVGB0006105": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006105",
     "MICR": "582483515",
     "BRANCH": "KALKERI",
@@ -7871,7 +7854,7 @@
     "SWIFT": null
   },
   "KVGB0006106": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006106",
     "MICR": "582483516",
     "BRANCH": "KORLAHALLI",
@@ -7888,7 +7871,7 @@
     "SWIFT": null
   },
   "KVGB0006107": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006107",
     "MICR": "582483515",
     "BRANCH": "MEVUNDI",
@@ -7905,7 +7888,7 @@
     "SWIFT": null
   },
   "KVGB0006108": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006108",
     "MICR": "582483516",
     "BRANCH": "MUNDARAGI",
@@ -7922,7 +7905,7 @@
     "SWIFT": null
   },
   "KVGB0006109": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006109",
     "MICR": "582483541",
     "BRANCH": "DONI",
@@ -7939,7 +7922,7 @@
     "SWIFT": null
   },
   "KVGB0006110": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006110",
     "MICR": "582483543",
     "BRANCH": "JANTLI SHIRUR",
@@ -7956,9 +7939,9 @@
     "SWIFT": null
   },
   "KVGB0006111": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006111",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "MUNDAWAD",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK, MUNDAWAD BRANCH, KELAGINAGOUDAR BUILDING, NEAR BUS STAND, AT POST MUNDAWAD TALUK MUNDARGI GADAG",
     "STATE": "KARNATAKA",
@@ -7973,9 +7956,9 @@
     "SWIFT": null
   },
   "KVGB0006112": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006112",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "PETHALUR",
     "ADDRESS": "C/O B V MARIGOUDRA, PETAALUR, POST PETAALUR, TQ MUNDARAGI",
     "STATE": "KARNATAKA",
@@ -7990,7 +7973,7 @@
     "SWIFT": null
   },
   "KVGB0006201": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006201",
     "MICR": "582483519",
     "BRANCH": "CHI-NARAGUND",
@@ -8007,7 +7990,7 @@
     "SWIFT": null
   },
   "KVGB0006202": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006202",
     "MICR": "582483520",
     "BRANCH": "HADLI",
@@ -8024,7 +8007,7 @@
     "SWIFT": null
   },
   "KVGB0006203": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006203",
     "MICR": "582483521",
     "BRANCH": "NARAGUND",
@@ -8041,7 +8024,7 @@
     "SWIFT": null
   },
   "KVGB0006204": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006204",
     "MICR": "582483522",
     "BRANCH": "KONNUR",
@@ -8058,7 +8041,7 @@
     "SWIFT": null
   },
   "KVGB0006205": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006205",
     "MICR": "582483548",
     "BRANCH": "SHIROL",
@@ -8075,7 +8058,7 @@
     "SWIFT": null
   },
   "KVGB0006301": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006301",
     "MICR": "582483523",
     "BRANCH": "ABBIGERI",
@@ -8092,7 +8075,7 @@
     "SWIFT": null
   },
   "KVGB0006302": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006302",
     "MICR": "582483524",
     "BRANCH": "GAJENDRAGAD",
@@ -8109,7 +8092,7 @@
     "SWIFT": null
   },
   "KVGB0006303": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006303",
     "MICR": "582483525",
     "BRANCH": "HIREHAL",
@@ -8126,7 +8109,7 @@
     "SWIFT": null
   },
   "KVGB0006304": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006304",
     "MICR": "582483526",
     "BRANCH": "MENASAGI",
@@ -8143,7 +8126,7 @@
     "SWIFT": null
   },
   "KVGB0006305": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006305",
     "MICR": "582483527",
     "BRANCH": "MUSHIGERI",
@@ -8160,7 +8143,7 @@
     "SWIFT": null
   },
   "KVGB0006306": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006306",
     "MICR": "582483528",
     "BRANCH": "NAREGAL(RON",
@@ -8177,7 +8160,7 @@
     "SWIFT": null
   },
   "KVGB0006307": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006307",
     "MICR": "582483529",
     "BRANCH": "NIDAGUNDI",
@@ -8194,7 +8177,7 @@
     "SWIFT": null
   },
   "KVGB0006308": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006308",
     "MICR": "582483530",
     "BRANCH": "RON",
@@ -8211,7 +8194,7 @@
     "SWIFT": null
   },
   "KVGB0006309": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006309",
     "MICR": "582483531",
     "BRANCH": "SAVADI",
@@ -8228,7 +8211,7 @@
     "SWIFT": null
   },
   "KVGB0006310": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006310",
     "MICR": "582483538",
     "BRANCH": "SUDI",
@@ -8245,7 +8228,7 @@
     "SWIFT": null
   },
   "KVGB0006311": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006311",
     "MICR": "582483539",
     "BRANCH": "HOLE ALUR",
@@ -8262,7 +8245,7 @@
     "SWIFT": null
   },
   "KVGB0006312": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006312",
     "MICR": "582483538",
     "BRANCH": "YAVAGAL",
@@ -8279,7 +8262,7 @@
     "SWIFT": null
   },
   "KVGB0006313": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006313",
     "MICR": "582483539",
     "BRANCH": "ASUTI",
@@ -8296,7 +8279,7 @@
     "SWIFT": null
   },
   "KVGB0006314": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006314",
     "MICR": "582483544",
     "BRANCH": "ITAGI",
@@ -8313,9 +8296,9 @@
     "SWIFT": null
   },
   "KVGB0006315": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006315",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "SHANTAGIRI",
     "ADDRESS": "GRAMA PANCHAYATH BUILDING, SHANTAGIRI",
     "STATE": "KARNATAKA",
@@ -8330,9 +8313,9 @@
     "SWIFT": null
   },
   "KVGB0006316": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006316",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "JAKKALI",
     "ADDRESS": "PRATHAMIKA KRISHI PATTINA SAHAKARI SANGHA BUILDING, JAKKALI",
     "STATE": "KARNATAKA",
@@ -8347,9 +8330,9 @@
     "SWIFT": null
   },
   "KVGB0006317": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006317",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "HALAKERI",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK, GRAM PANCHAYAT BUILDING, HALAKERI, TQ RON",
     "STATE": "KARNATAKA",
@@ -8364,7 +8347,7 @@
     "SWIFT": null
   },
   "KVGB0006401": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006401",
     "MICR": "582483534",
     "BRANCH": "HOLE-ITAGI",
@@ -8381,7 +8364,7 @@
     "SWIFT": null
   },
   "KVGB0006402": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006402",
     "MICR": "582483535",
     "BRANCH": "LAXMESWARA",
@@ -8398,7 +8381,7 @@
     "SWIFT": null
   },
   "KVGB0006403": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006403",
     "MICR": "582483536",
     "BRANCH": "SHIRAHATTI(DWD)",
@@ -8415,7 +8398,7 @@
     "SWIFT": null
   },
   "KVGB0006404": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006404",
     "MICR": "582483537",
     "BRANCH": "SURANAGI",
@@ -8432,7 +8415,7 @@
     "SWIFT": null
   },
   "KVGB0006405": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006405",
     "MICR": "582483540",
     "BRANCH": "YALAVATTI",
@@ -8449,7 +8432,7 @@
     "SWIFT": null
   },
   "KVGB0006406": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006406",
     "MICR": "582483537",
     "BRANCH": "BELLATTI",
@@ -8466,7 +8449,7 @@
     "SWIFT": null
   },
   "KVGB0006407": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006407",
     "MICR": "582483540",
     "BRANCH": "HEBBAL",
@@ -8483,7 +8466,7 @@
     "SWIFT": null
   },
   "KVGB0006408": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006408",
     "MICR": "582483542",
     "BRANCH": "BALEHOSUR",
@@ -8500,7 +8483,7 @@
     "SWIFT": null
   },
   "KVGB0006409": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006409",
     "MICR": "581483542",
     "BRANCH": "SHIGLI",
@@ -8517,7 +8500,7 @@
     "SWIFT": null
   },
   "KVGB0006410": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0006410",
     "MICR": "582483546",
     "BRANCH": "MAGADI",
@@ -8534,9 +8517,9 @@
     "SWIFT": null
   },
   "KVGB0007000": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007000",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "HAVERI R O",
     "ADDRESS": "SURAJ COMPLEX HIGH SCHOOL ROAD NEAR SBM,P B ROAD,HAVERI 581 110",
     "STATE": "KARNATAKA",
@@ -8551,7 +8534,7 @@
     "SWIFT": null
   },
   "KVGB0007001": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007001",
     "MICR": "581483565",
     "BRANCH": "BYADAGI",
@@ -8568,7 +8551,7 @@
     "SWIFT": null
   },
   "KVGB0007002": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007002",
     "MICR": "581483557",
     "BRANCH": "CHIKBASUR",
@@ -8585,7 +8568,7 @@
     "SWIFT": null
   },
   "KVGB0007003": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007003",
     "MICR": "581483567",
     "BRANCH": "KADARAMANDALAGI",
@@ -8602,7 +8585,7 @@
     "SWIFT": null
   },
   "KVGB0007004": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007004",
     "MICR": "581483540",
     "BRANCH": "KAGINELLI",
@@ -8619,7 +8602,7 @@
     "SWIFT": null
   },
   "KVGB0007005": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007005",
     "MICR": "581483541",
     "BRANCH": "MOTEBENNUR",
@@ -8636,9 +8619,9 @@
     "SWIFT": null
   },
   "KVGB0007006": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007006",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "BISALAHALLI",
     "ADDRESS": "SHEKARAGOUDA PATIL BUILDING, MAIN ROAD, BISALAHALLI",
     "STATE": "KARNATAKA",
@@ -8653,7 +8636,7 @@
     "SWIFT": null
   },
   "KVGB0007101": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007101",
     "MICR": "581483564",
     "BRANCH": "ADUR",
@@ -8670,7 +8653,7 @@
     "SWIFT": null
   },
   "KVGB0007102": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007102",
     "MICR": "581483543",
     "BRANCH": "AKKIALUR",
@@ -8687,7 +8670,7 @@
     "SWIFT": null
   },
   "KVGB0007103": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007103",
     "MICR": "581483566",
     "BRANCH": "CHI.HOSUR",
@@ -8704,7 +8687,7 @@
     "SWIFT": null
   },
   "KVGB0007104": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007104",
     "MICR": "581483545",
     "BRANCH": "HANAGAL",
@@ -8721,7 +8704,7 @@
     "SWIFT": null
   },
   "KVGB0007105": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007105",
     "MICR": "581483546",
     "BRANCH": "KUSANUR",
@@ -8738,7 +8721,7 @@
     "SWIFT": null
   },
   "KVGB0007106": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007106",
     "MICR": "581483554",
     "BRANCH": "NAREGAL",
@@ -8755,7 +8738,7 @@
     "SWIFT": null
   },
   "KVGB0007107": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007107",
     "MICR": "581483546",
     "BRANCH": "SHESHAGIRI",
@@ -8772,7 +8755,7 @@
     "SWIFT": null
   },
   "KVGB0007108": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007108",
     "MICR": "581483592",
     "BRANCH": "TILAVALLI",
@@ -8789,7 +8772,7 @@
     "SWIFT": null
   },
   "KVGB0007109": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007109",
     "MICR": "581483521",
     "BRANCH": "BOMMANAHALLI",
@@ -8806,7 +8789,7 @@
     "SWIFT": null
   },
   "KVGB0007110": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007110",
     "MICR": "581483602",
     "BRANCH": "BAICHAWALLI",
@@ -8823,9 +8806,9 @@
     "SWIFT": null
   },
   "KVGB0007111": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007111",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "KANCHINEGALUR",
     "ADDRESS": "M R LANGTI BUILDING, KANCHINEGALUR",
     "STATE": "KARNATAKA",
@@ -8840,9 +8823,9 @@
     "SWIFT": null
   },
   "KVGB0007112": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007112",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "SOMASAGAR",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK, TILAVALLI BUILDING, MAIN ROAD, NEAR GRAM PANCHAYAT, SOMASAGAR, TQ HANGAL, DIST HAVERI",
     "STATE": "KARNATAKA",
@@ -8857,9 +8840,9 @@
     "SWIFT": null
   },
   "KVGB0007113": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007113",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "HERUR",
     "ADDRESS": "BHAGSAR BUILDING, HERUR, TQ- HANGAL DIST HAVERI PIN CODE - 581148",
     "STATE": "KARNATAKA",
@@ -8874,7 +8857,7 @@
     "SWIFT": null
   },
   "KVGB0007201": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007201",
     "MICR": "581483526",
     "BRANCH": "AGADI",
@@ -8891,7 +8874,7 @@
     "SWIFT": null
   },
   "KVGB0007202": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007202",
     "MICR": "581483527",
     "BRANCH": "BELAVIGI",
@@ -8908,7 +8891,7 @@
     "SWIFT": null
   },
   "KVGB0007203": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007203",
     "MICR": "581483528",
     "BRANCH": "DEVAGIRI",
@@ -8925,7 +8908,7 @@
     "SWIFT": null
   },
   "KVGB0007204": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007204",
     "MICR": "581483052",
     "BRANCH": "DEVIHOSUR",
@@ -8942,7 +8925,7 @@
     "SWIFT": null
   },
   "KVGB0007205": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007205",
     "MICR": "581483529",
     "BRANCH": "HAVANUR",
@@ -8959,7 +8942,7 @@
     "SWIFT": null
   },
   "KVGB0007206": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007206",
     "MICR": "581483523",
     "BRANCH": "HAVERI",
@@ -8976,7 +8959,7 @@
     "SWIFT": null
   },
   "KVGB0007207": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007207",
     "MICR": "581483524",
     "BRANCH": "HOSARITTI",
@@ -8993,7 +8976,7 @@
     "SWIFT": null
   },
   "KVGB0007208": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007208",
     "MICR": "581483523",
     "BRANCH": "NEGALUR",
@@ -9010,7 +8993,7 @@
     "SWIFT": null
   },
   "KVGB0007209": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007209",
     "MICR": "581483530",
     "BRANCH": "SANGUR",
@@ -9027,7 +9010,7 @@
     "SWIFT": null
   },
   "KVGB0007210": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007210",
     "MICR": "581483053",
     "BRANCH": "VIDYANAGAR HVR",
@@ -9044,7 +9027,7 @@
     "SWIFT": null
   },
   "KVGB0007211": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007211",
     "MICR": "581483590",
     "BRANCH": "GUTTAL",
@@ -9061,9 +9044,9 @@
     "SWIFT": null
   },
   "KVGB0007212": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007212",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "DC EXTEN VIDYANAGAR HVR",
     "ADDRESS": "DC OFFICE COMPLEX HAVERI DT HAVERI",
     "STATE": "KARNATAKA",
@@ -9078,7 +9061,7 @@
     "SWIFT": null
   },
   "KVGB0007213": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007213",
     "MICR": "581483590",
     "BRANCH": "YALAGACHCHA",
@@ -9095,7 +9078,7 @@
     "SWIFT": null
   },
   "KVGB0007214": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007214",
     "MICR": "581483601",
     "BRANCH": "KANAVALLI",
@@ -9112,7 +9095,7 @@
     "SWIFT": null
   },
   "KVGB0007215": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007215",
     "MICR": "581483600",
     "BRANCH": "KABBUR",
@@ -9129,9 +9112,9 @@
     "SWIFT": null
   },
   "KVGB0007217": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007217",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "NAGENDRAMATTI EXTENSION",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK, SRI. HANUMANTAPPA H DEVAGIRI BUILDING, NAGENDRAMATTI EXTENSION, HAVERI",
     "STATE": "KARNATAKA",
@@ -9146,9 +9129,9 @@
     "SWIFT": null
   },
   "KVGB0007218": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007218",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "SHG BRANCH HAVERI",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK SHG BRANCH HAVERI",
     "STATE": "KARNATAKA",
@@ -9163,7 +9146,7 @@
     "SWIFT": null
   },
   "KVGB0007301": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007301",
     "MICR": "581483550",
     "BRANCH": "HAUNSBHAVI",
@@ -9180,7 +9163,7 @@
     "SWIFT": null
   },
   "KVGB0007302": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007302",
     "MICR": "581483538",
     "BRANCH": "HIREKERUR",
@@ -9197,7 +9180,7 @@
     "SWIFT": null
   },
   "KVGB0007303": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007303",
     "MICR": "581483550",
     "BRANCH": "KOD",
@@ -9214,7 +9197,7 @@
     "SWIFT": null
   },
   "KVGB0007304": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007304",
     "MICR": "581483553",
     "BRANCH": "KUDUPALI",
@@ -9231,7 +9214,7 @@
     "SWIFT": null
   },
   "KVGB0007305": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007305",
     "MICR": "581483554",
     "BRANCH": "RATTIHALLI",
@@ -9248,7 +9231,7 @@
     "SWIFT": null
   },
   "KVGB0007306": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007306",
     "MICR": "581483589",
     "BRANCH": "TADAKANAHALLI",
@@ -9265,7 +9248,7 @@
     "SWIFT": null
   },
   "KVGB0007307": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007307",
     "MICR": "581483554",
     "BRANCH": "TIPPAIKOPPA",
@@ -9282,7 +9265,7 @@
     "SWIFT": null
   },
   "KVGB0007308": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007308",
     "MICR": "581483589",
     "BRANCH": "HALLUR",
@@ -9299,7 +9282,7 @@
     "SWIFT": null
   },
   "KVGB0007309": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007309",
     "MICR": "581483560",
     "BRANCH": "CHEKERUR",
@@ -9316,7 +9299,7 @@
     "SWIFT": null
   },
   "KVGB0007310": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007310",
     "MICR": "581483606",
     "BRANCH": "CHINNAMULAGUND",
@@ -9333,9 +9316,9 @@
     "SWIFT": null
   },
   "KVGB0007311": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007311",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "NESHWI",
     "ADDRESS": "KARNATAKA VIKAS GRAMEEN BANK, PATIL BUILDING, NESHWI, TQ HIREKERUR, DT HAVERI, KARNATAKA",
     "STATE": "KARNATAKA",
@@ -9350,9 +9333,9 @@
     "SWIFT": null
   },
   "KVGB0007312": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007312",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "LINGADEVARAKOPPA",
     "ADDRESS": "LOKAPPA BHIMAPPA LAMANI BUILDING, BYADAGI- RATTIHALLI ROAD, AT POST LINGADEVARAKOPPA - 581208, TQ. HIREKERUR, DIST HAVERI",
     "STATE": "KARNATAKA",
@@ -9367,7 +9350,7 @@
     "SWIFT": null
   },
   "KVGB0007401": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007401",
     "MICR": "581483561",
     "BRANCH": "AREMALLAPUR",
@@ -9384,7 +9367,7 @@
     "SWIFT": null
   },
   "KVGB0007402": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007402",
     "MICR": "581483562",
     "BRANCH": "CHALAGERI",
@@ -9401,7 +9384,7 @@
     "SWIFT": null
   },
   "KVGB0007403": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007403",
     "MICR": "581483563",
     "BRANCH": "HALAGERI",
@@ -9418,7 +9401,7 @@
     "SWIFT": null
   },
   "KVGB0007404": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007404",
     "MICR": "581483555",
     "BRANCH": "HARANAGIRI",
@@ -9435,7 +9418,7 @@
     "SWIFT": null
   },
   "KVGB0007405": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007405",
     "MICR": "581483551",
     "BRANCH": "HONNATTI",
@@ -9452,7 +9435,7 @@
     "SWIFT": null
   },
   "KVGB0007406": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007406",
     "MICR": "581483556",
     "BRANCH": "KAKOL",
@@ -9469,7 +9452,7 @@
     "SWIFT": null
   },
   "KVGB0007407": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007407",
     "MICR": "581483544",
     "BRANCH": "KODIYALA HOSPET",
@@ -9486,7 +9469,7 @@
     "SWIFT": null
   },
   "KVGB0007408": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007408",
     "MICR": "581483102",
     "BRANCH": "KUPPELUR",
@@ -9503,7 +9486,7 @@
     "SWIFT": null
   },
   "KVGB0007409": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007409",
     "MICR": "581483547",
     "BRANCH": "MEDLERI",
@@ -9520,7 +9503,7 @@
     "SWIFT": null
   },
   "KVGB0007410": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007410",
     "MICR": "581483103",
     "BRANCH": "RANEBENNUR",
@@ -9537,7 +9520,7 @@
     "SWIFT": null
   },
   "KVGB0007411": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007411",
     "MICR": "581483547",
     "BRANCH": "SUNAKALBIDRI",
@@ -9554,7 +9537,7 @@
     "SWIFT": null
   },
   "KVGB0007412": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007412",
     "MICR": "581483531",
     "BRANCH": "MEDLERI ROAD RNR",
@@ -9571,7 +9554,7 @@
     "SWIFT": null
   },
   "KVGB0007413": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007413",
     "MICR": "581483596",
     "BRANCH": "KARUR",
@@ -9588,9 +9571,9 @@
     "SWIFT": null
   },
   "KVGB0007414": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007414",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "SIDDESHWAR NAGAR",
     "ADDRESS": "AJARATTI BUILDING, OPP SHETTI PETROL BUNK, PB ROAD, RANEBENNUR",
     "STATE": "KARNATAKA",
@@ -9605,9 +9588,9 @@
     "SWIFT": null
   },
   "KVGB0007415": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007415",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "SHG BRANCH RANEBENNUR",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK SHG BRANCH RANEBENNUR RANEBENNUR TALUK HAVERI DIST",
     "STATE": "KARNATAKA",
@@ -9622,7 +9605,7 @@
     "SWIFT": null
   },
   "KVGB0007501": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007501",
     "MICR": "581483525",
     "BRANCH": "HATTIMATTUR",
@@ -9639,7 +9622,7 @@
     "SWIFT": null
   },
   "KVGB0007502": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007502",
     "MICR": "581483534",
     "BRANCH": "SAVANUR",
@@ -9656,7 +9639,7 @@
     "SWIFT": null
   },
   "KVGB0007503": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007503",
     "MICR": "581483588",
     "BRANCH": "TEWARAMELLIHALI",
@@ -9673,7 +9656,7 @@
     "SWIFT": null
   },
   "KVGB0007504": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007504",
     "MICR": "581483534",
     "BRANCH": "YALIVIGI",
@@ -9690,7 +9673,7 @@
     "SWIFT": null
   },
   "KVGB0007505": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007505",
     "MICR": "581483588",
     "BRANCH": "KADAKOL",
@@ -9707,7 +9690,7 @@
     "SWIFT": null
   },
   "KVGB0007506": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007506",
     "MICR": "581483593",
     "BRANCH": "KARADAGI",
@@ -9724,7 +9707,7 @@
     "SWIFT": null
   },
   "KVGB0007507": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007507",
     "MICR": "581483594",
     "BRANCH": "JALLAPUR",
@@ -9741,9 +9724,9 @@
     "SWIFT": null
   },
   "KVGB0007508": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007508",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "HURALIKUPPI",
     "ADDRESS": "GRAMA PANCHAYATH BUILDING, MAIN ROAD, HURALIKUPPI",
     "STATE": "KARNATAKA",
@@ -9758,9 +9741,9 @@
     "SWIFT": null
   },
   "KVGB0007509": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007509",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "HIREMARALIHALLI",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK, KALLAPPA MALLANNAVAR BUILDING, HIREMARALIHALLI, TQ SAVANUR, DT HAVERI",
     "STATE": "KARNATAKA",
@@ -9775,7 +9758,7 @@
     "SWIFT": null
   },
   "KVGB0007601": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007601",
     "MICR": "581483537",
     "BRANCH": "BANKAPUR",
@@ -9792,7 +9775,7 @@
     "SWIFT": null
   },
   "KVGB0007602": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007602",
     "MICR": "581483550",
     "BRANCH": "DHUNDASHI",
@@ -9809,7 +9792,7 @@
     "SWIFT": null
   },
   "KVGB0007603": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007603",
     "MICR": "581483539",
     "BRANCH": "HIREBENDIGERI",
@@ -9826,7 +9809,7 @@
     "SWIFT": null
   },
   "KVGB0007604": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007604",
     "MICR": "581483533",
     "BRANCH": "KONANKERI",
@@ -9843,7 +9826,7 @@
     "SWIFT": null
   },
   "KVGB0007605": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007605",
     "MICR": "581483539",
     "BRANCH": "SHIGGAON",
@@ -9860,7 +9843,7 @@
     "SWIFT": null
   },
   "KVGB0007607": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007607",
     "MICR": "576483504",
     "BRANCH": "TADAS",
@@ -9877,7 +9860,7 @@
     "SWIFT": null
   },
   "KVGB0007608": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007608",
     "MICR": "581483595",
     "BRANCH": "BANNUR",
@@ -9894,7 +9877,7 @@
     "SWIFT": null
   },
   "KVGB0007609": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0007609",
     "MICR": "581483605",
     "BRANCH": "HULAGUR",
@@ -9911,7 +9894,7 @@
     "SWIFT": null
   },
   "KVGB0008001": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0008001",
     "MICR": "575483506",
     "BRANCH": "BELMAN",
@@ -9928,7 +9911,7 @@
     "SWIFT": null
   },
   "KVGB0008002": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0008002",
     "MICR": "575483008",
     "BRANCH": "HEBRI",
@@ -9945,7 +9928,7 @@
     "SWIFT": null
   },
   "KVGB0008003": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0008003",
     "MICR": "575483507",
     "BRANCH": "HOSMAR",
@@ -9962,7 +9945,7 @@
     "SWIFT": null
   },
   "KVGB0008004": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0008004",
     "MICR": "576483501",
     "BRANCH": "KARKALA",
@@ -9979,7 +9962,7 @@
     "SWIFT": null
   },
   "KVGB0008005": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0008005",
     "MICR": "575483507",
     "BRANCH": "RENJAL",
@@ -9996,7 +9979,7 @@
     "SWIFT": null
   },
   "KVGB0008101": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0008101",
     "MICR": "576483503",
     "BRANCH": "BYNDOOR",
@@ -10013,7 +9996,7 @@
     "SWIFT": null
   },
   "KVGB0008102": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0008102",
     "MICR": "576483202",
     "BRANCH": "HALLIHOLE",
@@ -10030,7 +10013,7 @@
     "SWIFT": null
   },
   "KVGB0008103": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0008103",
     "MICR": "576483508",
     "BRANCH": "HEMMADY",
@@ -10047,7 +10030,7 @@
     "SWIFT": null
   },
   "KVGB0008104": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0008104",
     "MICR": "576483202",
     "BRANCH": "KUNDAPUR",
@@ -10064,7 +10047,7 @@
     "SWIFT": null
   },
   "KVGB0008105": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0008105",
     "MICR": "576483508",
     "BRANCH": "AJRI",
@@ -10081,7 +10064,7 @@
     "SWIFT": null
   },
   "KVGB0008106": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0008106",
     "MICR": "576483509",
     "BRANCH": "GOLIHOLE",
@@ -10098,7 +10081,7 @@
     "SWIFT": null
   },
   "KVGB0008107": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0008107",
     "MICR": "576483510",
     "BRANCH": "HUNSIMAKKI",
@@ -10115,7 +10098,7 @@
     "SWIFT": null
   },
   "KVGB0008108": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0008108",
     "MICR": "576483511",
     "BRANCH": "AMPAR",
@@ -10132,9 +10115,9 @@
     "SWIFT": null
   },
   "KVGB0008109": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0008109",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "MUDURU",
     "ADDRESS": "ST. MARY CHURCH COMPLEX, IST FLOOR, UDAYA NAGAR, MUDURU",
     "STATE": "KARNATAKA",
@@ -10149,9 +10132,9 @@
     "SWIFT": null
   },
   "KVGB0008110": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0008110",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "ULTHOOR",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK BRANCH ULTHOOR KUNDAPUR TALUK UDUPI DIST",
     "STATE": "KARNATAKA",
@@ -10166,7 +10149,7 @@
     "SWIFT": null
   },
   "KVGB0008201": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0008201",
     "MICR": "576483506",
     "BRANCH": "BRAHMAVARA",
@@ -10183,7 +10166,7 @@
     "SWIFT": null
   },
   "KVGB0008202": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0008202",
     "MICR": "576483507",
     "BRANCH": "KINNIMULKY",
@@ -10200,7 +10183,7 @@
     "SWIFT": null
   },
   "KVGB0008203": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0008203",
     "MICR": "576483003",
     "BRANCH": "KOKKARNE",
@@ -10217,7 +10200,7 @@
     "SWIFT": null
   },
   "KVGB0008204": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0008204",
     "MICR": "581483568",
     "BRANCH": "PADUBIDRI",
@@ -10234,7 +10217,7 @@
     "SWIFT": null
   },
   "KVGB0008205": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0008205",
     "MICR": "581483302",
     "BRANCH": "INDRALI",
@@ -10251,7 +10234,7 @@
     "SWIFT": null
   },
   "KVGB0008206": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0008206",
     "MICR": "576483005",
     "BRANCH": "AMBAGILU",
@@ -10268,9 +10251,9 @@
     "SWIFT": null
   },
   "KVGB0008207": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0008207",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "SAIBARAKATTE",
     "ADDRESS": "LAXMINARASIMHA,MAIN ROAD,SAIBARAKATTE",
     "STATE": "KARNATAKA",
@@ -10285,9 +10268,9 @@
     "SWIFT": null
   },
   "KVGB0008208": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0008208",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "GUDDE ANGADI",
     "ADDRESS": "KARNATAKA VIKAS GRAMEEN BANK, MATRU KRUPA, GUDDE ANGADI, BOMMARABETTU VILLAGE, VIA HIRIYADAKA, TQ AND DIST UDUPI, 576 113, KARNATAKA",
     "STATE": "KARNATAKA",
@@ -10302,9 +10285,9 @@
     "SWIFT": null
   },
   "KVGB0009000": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009000",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "KUMTA R O",
     "ADDRESS": "REGIONAL MANAGER,KARNATAKA VIKAS GRAMEENA BANK,RO,VIDYAGIRI,BAGGON ROAD,HERWATTA UMATA 581343",
     "STATE": "KARNATAKA",
@@ -10319,7 +10302,7 @@
     "SWIFT": null
   },
   "KVGB0009001": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009001",
     "MICR": "581483569",
     "BRANCH": "AGASUR",
@@ -10336,7 +10319,7 @@
     "SWIFT": null
   },
   "KVGB0009002": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009002",
     "MICR": "581483352",
     "BRANCH": "ANKOLA",
@@ -10353,7 +10336,7 @@
     "SWIFT": null
   },
   "KVGB0009003": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009003",
     "MICR": "581483573",
     "BRANCH": "HILLUR",
@@ -10370,7 +10353,7 @@
     "SWIFT": null
   },
   "KVGB0009051": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009051",
     "MICR": "581483574",
     "BRANCH": "BHATKAL",
@@ -10387,7 +10370,7 @@
     "SWIFT": null
   },
   "KVGB0009052": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009052",
     "MICR": "581483502",
     "BRANCH": "KONAR",
@@ -10404,7 +10387,7 @@
     "SWIFT": null
   },
   "KVGB0009053": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009053",
     "MICR": "581483577",
     "BRANCH": "MAVALLI (MURD)",
@@ -10421,7 +10404,7 @@
     "SWIFT": null
   },
   "KVGB0009101": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009101",
     "MICR": "581483552",
     "BRANCH": "DANDELI",
@@ -10438,7 +10421,7 @@
     "SWIFT": null
   },
   "KVGB0009151": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009151",
     "MICR": "581483578",
     "BRANCH": "BELAVATAGI",
@@ -10455,7 +10438,7 @@
     "SWIFT": null
   },
   "KVGB0009152": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009152",
     "MICR": "581483602",
     "BRANCH": "HALIYAL",
@@ -10472,7 +10455,7 @@
     "SWIFT": null
   },
   "KVGB0009201": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009201",
     "MICR": "581483579",
     "BRANCH": "ALLANKI",
@@ -10489,7 +10472,7 @@
     "SWIFT": null
   },
   "KVGB0009202": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009202",
     "MICR": "581483580",
     "BRANCH": "HONNAVAR",
@@ -10506,7 +10489,7 @@
     "SWIFT": null
   },
   "KVGB0009203": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009203",
     "MICR": "581483575",
     "BRANCH": "IDAGUNJI",
@@ -10523,7 +10506,7 @@
     "SWIFT": null
   },
   "KVGB0009204": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009204",
     "MICR": "581483576",
     "BRANCH": "KOLAGADDE",
@@ -10540,7 +10523,7 @@
     "SWIFT": null
   },
   "KVGB0009205": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009205",
     "MICR": "581483604",
     "BRANCH": "KAVALAKKI",
@@ -10557,9 +10540,9 @@
     "SWIFT": null
   },
   "KVGB0009207": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009207",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "KASARKOD",
     "ADDRESS": "KARNATAKA VIKAS GRAMEEN BANK, SRI GOPAL KRISHNA TEMPLE BUILDING, KASARKOD, TQ HONNAVAR, DT UTTARA KANNADA, KARNATAKA",
     "STATE": "KARNATAKA",
@@ -10574,9 +10557,9 @@
     "SWIFT": null
   },
   "KVGB0009208": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009208",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "KADLE",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK KADLE HEBBRNAKERI HONNAVAR UTTAR KANNADA",
     "STATE": "KARNATAKA",
@@ -10591,7 +10574,7 @@
     "SWIFT": null
   },
   "KVGB0009251": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009251",
     "MICR": "581483575",
     "BRANCH": "GUND",
@@ -10608,7 +10591,7 @@
     "SWIFT": null
   },
   "KVGB0009252": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009252",
     "MICR": "581483576",
     "BRANCH": "ULAVI",
@@ -10625,7 +10608,7 @@
     "SWIFT": null
   },
   "KVGB0009301": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009301",
     "MICR": "581483570",
     "BRANCH": "KARWAR",
@@ -10642,7 +10625,7 @@
     "SWIFT": null
   },
   "KVGB0009302": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009302",
     "MICR": "581483603",
     "BRANCH": "AMADALLI",
@@ -10659,9 +10642,9 @@
     "SWIFT": null
   },
   "KVGB0009303": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009303",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "MUDGERI",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK, SHIVANATH TEMPLE TRUST BUILDING, MUDGERI, DT UTTAR KANNAD, KARNATAKA",
     "STATE": "KARNATAKA",
@@ -10676,7 +10659,7 @@
     "SWIFT": null
   },
   "KVGB0009351": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009351",
     "MICR": "581483652",
     "BRANCH": "GOKARN",
@@ -10693,7 +10676,7 @@
     "SWIFT": null
   },
   "KVGB0009352": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009352",
     "MICR": "581483572",
     "BRANCH": "KAGAL",
@@ -10710,7 +10693,7 @@
     "SWIFT": null
   },
   "KVGB0009353": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009353",
     "MICR": "581483652",
     "BRANCH": "KUMTA",
@@ -10727,7 +10710,7 @@
     "SWIFT": null
   },
   "KVGB0009354": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009354",
     "MICR": "580483538",
     "BRANCH": "SANTEGULI",
@@ -10744,7 +10727,7 @@
     "SWIFT": null
   },
   "KVGB0009355": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009355",
     "MICR": "580483539",
     "BRANCH": "KUMTA EC",
@@ -10761,9 +10744,9 @@
     "SWIFT": null
   },
   "KVGB0009356": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009356",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "BARGI",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK BRANCH BARGI KUMTA ANKOLA ROAD KUMTA TALUKA NH17 HIGH WAY UTTARKANNADA DIST",
     "STATE": "KARNATAKA",
@@ -10778,7 +10761,7 @@
     "SWIFT": null
   },
   "KVGB0009401": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009401",
     "MICR": "580483538",
     "BRANCH": "HUNGUND",
@@ -10795,7 +10778,7 @@
     "SWIFT": null
   },
   "KVGB0009402": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009402",
     "MICR": "581483581",
     "BRANCH": "MUNDGOD",
@@ -10812,7 +10795,7 @@
     "SWIFT": null
   },
   "KVGB0009403": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009403",
     "MICR": "581483598",
     "BRANCH": "NANDIKATTA",
@@ -10829,9 +10812,9 @@
     "SWIFT": null
   },
   "KVGB0009404": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009404",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "BEDASAGAON",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK BRANCH BEDASAGON TALUK MUNDAGOD DIST UTTAR KANNADA 581346",
     "STATE": "KARNATAKA",
@@ -10846,7 +10829,7 @@
     "SWIFT": null
   },
   "KVGB0009451": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009451",
     "MICR": "581483583",
     "BRANCH": "HARSIKATTA",
@@ -10863,7 +10846,7 @@
     "SWIFT": null
   },
   "KVGB0009452": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009452",
     "MICR": "581483582",
     "BRANCH": "SIDDAPUR",
@@ -10880,7 +10863,7 @@
     "SWIFT": null
   },
   "KVGB0009453": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009453",
     "MICR": "581483584",
     "BRANCH": "VANDANE",
@@ -10897,7 +10880,7 @@
     "SWIFT": null
   },
   "KVGB0009454": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009454",
     "MICR": "581483402",
     "BRANCH": "VANDANE EC",
@@ -10914,9 +10897,9 @@
     "SWIFT": null
   },
   "KVGB0009455": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009455",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "BIDARKAN",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK BRANCH BIDARKAN TALUK SIDDAPUR DIST UTTAR KANNADA",
     "STATE": "KARNATAKA",
@@ -10931,9 +10914,9 @@
     "SWIFT": null
   },
   "KVGB0009456": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009456",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "HERUR",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK BRANCH HERUR SIDDAPURA TALUK UTTAR KANNADA DIST",
     "STATE": "KARNATAKA",
@@ -10948,7 +10931,7 @@
     "SWIFT": null
   },
   "KVGB0009501": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009501",
     "MICR": "581483585",
     "BRANCH": "KORLAKATTA",
@@ -10965,7 +10948,7 @@
     "SWIFT": null
   },
   "KVGB0009502": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009502",
     "MICR": "581483586",
     "BRANCH": "SIRSI",
@@ -10982,7 +10965,7 @@
     "SWIFT": null
   },
   "KVGB0009503": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009503",
     "MICR": "580483540",
     "BRANCH": "VANAHALLI",
@@ -10999,9 +10982,9 @@
     "SWIFT": null
   },
   "KVGB0009504": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009504",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "BHAIRUMBE",
     "ADDRESS": "KVG BANK, GRAM PANCHAYAT BUILDING BHAIRUMBE TQ SIRSI UTTAR KANNADA",
     "STATE": "KARNATAKA",
@@ -11016,7 +10999,7 @@
     "SWIFT": null
   },
   "KVGB0009551": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009551",
     "MICR": "580483541",
     "BRANCH": "UMACHAGI",
@@ -11033,7 +11016,7 @@
     "SWIFT": null
   },
   "KVGB0009552": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009552",
     "MICR": "580483540",
     "BRANCH": "VAJRALLI",
@@ -11050,7 +11033,7 @@
     "SWIFT": null
   },
   "KVGB0009553": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009553",
     "MICR": "580483541",
     "BRANCH": "YELLAPUR",
@@ -11067,7 +11050,7 @@
     "SWIFT": null
   },
   "KVGB0009554": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009554",
     "MICR": "581483597",
     "BRANCH": "MADNUR",
@@ -11084,7 +11067,7 @@
     "SWIFT": null
   },
   "KVGB0009555": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0009555",
     "MICR": "581483599",
     "BRANCH": "GULLAPUR",
@@ -11101,9 +11084,9 @@
     "SWIFT": null
   },
   "KVGB0099933": {
-    "BANK": "KARNATAKA VIKAS GRAMEENA BANK",
+    "BANK": "Karnataka Vikas Grameena Bank",
     "IFSC": "KVGB0099933",
-    "MICR": "WAITING",
+    "MICR": null,
     "BRANCH": "MOBILE BANKING",
     "ADDRESS": "KARNATAKA VIKAS GRAMEENA BANK POST BOX NO 111 HEAD OFFICE IT DIVISION MOBILE BANKING VIRTUAL BRANCH DHARWAD 580008",
     "STATE": "KARNATAKA",

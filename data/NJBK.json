@@ -1,8 +1,8 @@
 {
   "NJBK0000001": {
-    "BANK": "NAV JEEVAN CO OP BANK LTD",
+    "BANK": "Nav Jeevan Co-operative Bank",
     "IFSC": "NJBK0000001",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "RTGS-HO",
     "ADDRESS": "BHAWANI SAW MILLS COMPOUND, ULHASNAGAR 421003",
     "STATE": "MAHARASHTRA",
@@ -16,27 +16,10 @@
     "IMPS": true,
     "SWIFT": null
   },
-  "NJBK00000SC": {
-    "BANK": null,
-    "IFSC": "NJBK00000SC",
-    "MICR": null,
-    "BRANCH": "SERVICE CENTER",
-    "ADDRESS": "BHAWANI SAW MILLS COMPOUND,ULHASNAGAR 421003",
-    "STATE": "MAHARASHTRA",
-    "CONTACT": "+912512527101",
-    "UPI": false,
-    "RTGS": true,
-    "CITY": "THANE",
-    "CENTRE": "ULHASNAGAR",
-    "DISTRICT": "ULHASNAGAR",
-    "NEFT": false,
-    "IMPS": true,
-    "SWIFT": null
-  },
   "NJBK0790001": {
-    "BANK": "NAV JEEVAN CO OP BANK LTD",
+    "BANK": "Nav Jeevan Co-operative Bank",
     "IFSC": "NJBK0790001",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "MAIN BRANCH",
     "ADDRESS": "BHAWANI SAW MILLS COMPOUND,ULHASNAGAR 421003",
     "STATE": "MAHARASHTRA",
@@ -51,7 +34,7 @@
     "SWIFT": null
   },
   "NJBK0790002": {
-    "BANK": "NAV JEEVAN CO OP BANK LTD",
+    "BANK": "Nav Jeevan Co-operative Bank",
     "IFSC": "NJBK0790002",
     "MICR": "400082458",
     "BRANCH": "SIRU CHOWK BRANCH",
@@ -68,7 +51,7 @@
     "SWIFT": null
   },
   "NJBK0790003": {
-    "BANK": "NAV JEEVAN CO OP BANK LTD",
+    "BANK": "Nav Jeevan Co-operative Bank",
     "IFSC": "NJBK0790003",
     "MICR": "400082507",
     "BRANCH": "CHOPRA COURT BRANCH",
@@ -85,7 +68,7 @@
     "SWIFT": null
   },
   "NJBK0790004": {
-    "BANK": "NAV JEEVAN CO OP BANK LTD",
+    "BANK": "Nav Jeevan Co-operative Bank",
     "IFSC": "NJBK0790004",
     "MICR": "400082589",
     "BRANCH": "ULHASNAGAR BRANCH",
@@ -102,7 +85,7 @@
     "SWIFT": null
   },
   "NJBK0790005": {
-    "BANK": "NAV JEEVAN CO OP BANK LTD",
+    "BANK": "Nav Jeevan Co-operative Bank",
     "IFSC": "NJBK0790005",
     "MICR": "400082498",
     "BRANCH": "ULHASNAGAR BRANCH",
@@ -119,7 +102,7 @@
     "SWIFT": null
   },
   "NJBK0790006": {
-    "BANK": "NAV JEEVAN CO OP BANK LTD",
+    "BANK": "Nav Jeevan Co-operative Bank",
     "IFSC": "NJBK0790006",
     "MICR": "400082627",
     "BRANCH": "BKC BRANCH",
@@ -136,7 +119,7 @@
     "SWIFT": null
   },
   "NJBK0790007": {
-    "BANK": "NAV JEEVAN CO OP BANK LTD",
+    "BANK": "Nav Jeevan Co-operative Bank",
     "IFSC": "NJBK0790007",
     "MICR": "400082546",
     "BRANCH": "ULHASNAGAR BRANCH",
@@ -153,7 +136,7 @@
     "SWIFT": null
   },
   "NJBK0790008": {
-    "BANK": "NAV JEEVAN CO OP BANK LTD",
+    "BANK": "Nav Jeevan Co-operative Bank",
     "IFSC": "NJBK0790008",
     "MICR": "400082644",
     "BRANCH": "THANE BRANCH",

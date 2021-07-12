@@ -11,26 +11,9 @@
     "IMPS": true,
     "CITY": "DELHI",
     "UPI": true,
-    "MICR": "NA",
+    "MICR": null,
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
-  },
-  "IPOS0NEFTSC": {
-    "BANK": null,
-    "IFSC": "IPOS0NEFTSC",
-    "MICR": "NA",
-    "BRANCH": "SERVICE CENTRE",
-    "ADDRESS": "POST OFFICE ,SPEED POST CENTRE BUILDING,MARKET ROAD,NEW DELHI,CENTRAL DELHI,DELHI 110001,INDIA",
-    "STATE": "DELHI",
-    "CONTACT": "+911123362148",
-    "UPI": false,
-    "RTGS": true,
-    "CITY": "DELHI",
-    "CENTRE": "DELHI",
-    "DISTRICT": "DELHI",
-    "NEFT": false,
-    "IMPS": true,
     "SWIFT": null
   }
 }

@@ -1,6 +1,6 @@
 {
   "QNBA0000001": {
-    "BANK": "QATAR NATIONAL BANK SAQ",
+    "BANK": "Qatar National Bank Saq",
     "IFSC": "QNBA0000001",
     "MICR": "400240276",
     "BRANCH": "RTGS-HO",
@@ -17,9 +17,9 @@
     "SWIFT": null
   },
   "QNBA00000SC": {
-    "BANK": null,
+    "BANK": "Qatar National Bank Saq",
     "IFSC": "QNBA00000SC",
-    "MICR": "NA",
+    "MICR": null,
     "BRANCH": "SERVICE CENTER",
     "ADDRESS": "G-1A,GROUND FLOOR,4 NORTH AVENUE,MAKER MAXITY,BANDRA KURLA COMPLEX,BANDRA EAST,MUMBAI-400051",
     "STATE": "MAHARASHTRA",

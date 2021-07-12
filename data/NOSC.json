@@ -1,6 +1,6 @@
 {
   "NOSC0000DEL": {
-    "BANK": "THE BANK OF NOVA SCOTIA",
+    "BANK": "Bank of Nova Scotia",
     "IFSC": "NOSC0000DEL",
     "MICR": "110239002",
     "BRANCH": "DELHI",
@@ -28,26 +28,9 @@
     "IMPS": true,
     "CITY": "MUMBAI",
     "UPI": false,
-    "MICR": "NA",
+    "MICR": null,
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
-  },
-  "NOSC000NEFT": {
-    "BANK": null,
-    "IFSC": "NOSC000NEFT",
-    "MICR": "NA",
-    "BRANCH": "MUMBAI",
-    "ADDRESS": "POINT , MUMBAI - 21",
-    "STATE": "MAHARASHTRA",
-    "CONTACT": "+912266364000",
-    "UPI": false,
-    "RTGS": true,
-    "CITY": "MUMBAI",
-    "CENTRE": "MUMBAI",
-    "DISTRICT": "MUMBAI",
-    "NEFT": false,
-    "IMPS": true,
     "SWIFT": null
   }
 }
