@@ -1,4 +1,4 @@
-FROM ruby:alpine as rdbbuilder
+FROM ruby:alpine3.13 as rdbbuilder
 
 WORKDIR /app
 ENV BUNDLE_GEMFILE=Gemfile.build
@@ -15,7 +15,7 @@ RUN echo "** installing deps **" && \
     echo "** running build script **" && \
     bundle exec ruby init.rb
 
-FROM ruby:alpine
+FROM ruby:alpine3.13
 
 WORKDIR /app
 # Being explicit here, not needed
