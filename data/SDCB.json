@@ -13,6 +13,9 @@
     "UPI": true,
     "MICR": null,
     "RTGS": true,
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "0",
     "NEFT": true,
     "SWIFT": null
   },
@@ -29,6 +32,9 @@
     "CITY": "SURAT",
     "CENTRE": "BARDOLI",
     "DISTRICT": "BARDOLI",
+    "CITY1": "SURAT",
+    "CITY2": "BARDOLI",
+    "PHONE": "220030",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -46,6 +52,9 @@
     "CITY": "SURAT",
     "CENTRE": "MANDVI",
     "DISTRICT": "MANDVI",
+    "CITY1": "SURAT",
+    "CITY2": "MANDVI",
+    "PHONE": "221038",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -63,6 +72,9 @@
     "CITY": "SURAT",
     "CENTRE": "MADHI",
     "DISTRICT": "MADHI",
+    "CITY1": "SURAT",
+    "CITY2": "MADHI",
+    "PHONE": "242050",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -80,6 +92,9 @@
     "CITY": "OLPAD",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "OLPAD",
+    "PHONE": "222039",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -97,6 +112,9 @@
     "CITY": "TAPI",
     "CENTRE": "VYARA",
     "DISTRICT": "VYARA",
+    "CITY1": "TAPI",
+    "CITY2": "VYARA",
+    "PHONE": "220047",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -114,6 +132,9 @@
     "CITY": "SURAT",
     "CENTRE": "KOSAMBA",
     "DISTRICT": "KOSAMBA",
+    "CITY1": "SURAT",
+    "CITY2": "KOSAMBA",
+    "PHONE": "231254",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -131,6 +152,9 @@
     "CITY": "TAPI",
     "CENTRE": "SONGADH",
     "DISTRICT": "SONGADH",
+    "CITY1": "TAPI",
+    "CITY2": "SONGADH",
+    "PHONE": "222047",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -148,6 +172,9 @@
     "CITY": "SURAT",
     "CENTRE": "MAHUVA",
     "DISTRICT": "MAHUVA",
+    "CITY1": "SURAT",
+    "CITY2": "MAHUVA",
+    "PHONE": "255724",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -165,6 +192,9 @@
     "CITY": "TAPI",
     "CENTRE": "NIZAR",
     "DISTRICT": "NIZAR",
+    "CITY1": "TAPI",
+    "CITY2": "NIZAR",
+    "PHONE": "244227",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -182,6 +212,9 @@
     "CITY": "KATHOR",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "KATHOR",
+    "PHONE": "256229",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -199,6 +232,9 @@
     "CITY": "SURAT",
     "CENTRE": "BARDOLI",
     "DISTRICT": "BARDOLI",
+    "CITY1": "SURAT",
+    "CITY2": "BARDOLI",
+    "PHONE": "225143",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -216,6 +252,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "2427853",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -233,6 +272,9 @@
     "CITY": "TAPI",
     "CENTRE": "VALOD",
     "DISTRICT": "VALOD",
+    "CITY1": "TAPI",
+    "CITY2": "VALOD",
+    "PHONE": "222039",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -250,6 +292,9 @@
     "CITY": "TAPI",
     "CENTRE": "UCHHAL",
     "DISTRICT": "UCHHAL",
+    "CITY1": "TAPI",
+    "CITY2": "UCHHAL",
+    "PHONE": "231101",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -267,6 +312,9 @@
     "CITY": "CHALTHAN",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "CHALTHAN",
+    "PHONE": "281080",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -284,6 +332,9 @@
     "CITY": "SURAT",
     "CENTRE": "MANGROL",
     "DISTRICT": "MANGROL",
+    "CITY1": "SURAT",
+    "CITY2": "MANGROL",
+    "PHONE": "220253",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -301,6 +352,9 @@
     "CITY": "SURAT",
     "CENTRE": "KADOD",
     "DISTRICT": "KADOD",
+    "CITY1": "SURAT",
+    "CITY2": "KADOD",
+    "PHONE": "246237",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -318,6 +372,9 @@
     "CITY": "KIM",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "KIM",
+    "PHONE": "238393",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -335,6 +392,9 @@
     "CITY": "SURAT",
     "CENTRE": "ANAVAL",
     "DISTRICT": "ANAVAL",
+    "CITY1": "SURAT",
+    "CITY2": "ANAVAL",
+    "PHONE": "252221",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -352,6 +412,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "2439039",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -369,6 +432,9 @@
     "CITY": "SURAT",
     "CENTRE": "KARCHELIYA",
     "DISTRICT": "KARCHELIYA",
+    "CITY1": "SURAT",
+    "CITY2": "KARCHELIYA",
+    "PHONE": "256828",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -386,6 +452,9 @@
     "CITY": "SAYAN",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SAYAN",
+    "PHONE": "242134",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -403,6 +472,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "2599070",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -420,6 +492,9 @@
     "CITY": "TAPI",
     "CENTRE": "BUHARI",
     "DISTRICT": "BUHARI",
+    "CITY1": "TAPI",
+    "CITY2": "BUHARI",
+    "PHONE": "244251",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -437,6 +512,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "2330598",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -454,6 +532,9 @@
     "CITY": "SURAT",
     "CENTRE": "VARAD",
     "DISTRICT": "VARAD",
+    "CITY1": "SURAT",
+    "CITY2": "VARAD",
+    "PHONE": "255339",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -471,6 +552,9 @@
     "CITY": "TAPI",
     "CENTRE": "DOLVAN",
     "DISTRICT": "DOLVAN",
+    "CITY1": "TAPI",
+    "CITY2": "DOLVAN",
+    "PHONE": "251221",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -488,6 +572,9 @@
     "CITY": "KAMREJ",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "KAMREJ",
+    "PHONE": "252085",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -505,6 +592,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "2764374",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -522,6 +612,9 @@
     "CITY": "TAPI",
     "CENTRE": "KUKARMUNDA",
     "DISTRICT": "KUKARMUNDA",
+    "CITY1": "TAPI",
+    "CITY2": "KUKARMUNDA",
+    "PHONE": "223130",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -539,6 +632,9 @@
     "CITY": "SURAT",
     "CENTRE": "GANGADHARA",
     "DISTRICT": "GANGADHARA",
+    "CITY1": "SURAT",
+    "CITY2": "GANGADHARA",
+    "PHONE": "263224",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -556,6 +652,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "2470409",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -573,6 +672,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "2482268",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -590,6 +692,9 @@
     "CITY": "SURAT",
     "CENTRE": "BAMANIYA",
     "DISTRICT": "BAMANIYA",
+    "CITY1": "SURAT",
+    "CITY2": "BAMANIYA",
+    "PHONE": "256849",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -607,6 +712,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "2530859",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -624,6 +732,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "2784303",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -641,6 +752,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "2423472",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -658,6 +772,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "2241108",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -675,6 +792,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "2499835",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -692,6 +812,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "2653477",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -709,6 +832,9 @@
     "CITY": "SURAT",
     "CENTRE": "PALSANA",
     "DISTRICT": "PALSANA",
+    "CITY1": "SURAT",
+    "CITY2": "PALSANA",
+    "PHONE": "264243",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -726,6 +852,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "2840380",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -743,6 +872,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURATÂ ",
+    "PHONE": "2227328",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -760,6 +892,9 @@
     "CITY": "TAPI",
     "CENTRE": "BAJIPURA",
     "DISTRICT": "BAJIPURA",
+    "CITY1": "TAPI",
+    "CITY2": "BAJIPURA",
+    "PHONE": "233253",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -777,6 +912,9 @@
     "CITY": "SURAT",
     "CENTRE": "MORTHANA",
     "DISTRICT": "MORTHANA",
+    "CITY1": "SURAT",
+    "CITY2": "MORTHANA",
+    "PHONE": "247148",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -794,6 +932,9 @@
     "CITY": "SURAT",
     "CENTRE": "VALVADA",
     "DISTRICT": "VALVADA",
+    "CITY1": "SURAT",
+    "CITY2": "VALVADA",
+    "PHONE": "251249",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -811,6 +952,9 @@
     "CITY": "SURAT",
     "CENTRE": "BHAUDHAN",
     "DISTRICT": "BHAUDHAN",
+    "CITY1": "SURAT",
+    "CITY2": "BHAUDHAN",
+    "PHONE": "251251",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -828,6 +972,9 @@
     "CITY": "SURAT",
     "CENTRE": "SARBHON",
     "DISTRICT": "SARBHON",
+    "CITY1": "SURAT",
+    "CITY2": "SARBHON",
+    "PHONE": "253514",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -845,6 +992,9 @@
     "CITY": "KIM",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "KIM",
+    "PHONE": "234032",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -862,6 +1012,9 @@
     "CITY": "SURAT",
     "CENTRE": "VAV",
     "DISTRICT": "VAV",
+    "CITY1": "SURAT",
+    "CITY2": "VAV",
+    "PHONE": "251025",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -879,6 +1032,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "2470258",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -896,6 +1052,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "2513998",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -913,6 +1072,9 @@
     "CITY": "SURAT",
     "CENTRE": "SACHIN",
     "DISTRICT": "SACHIN",
+    "CITY1": "SURAT",
+    "CITY2": "SACHIN",
+    "PHONE": "2391846",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -930,6 +1092,9 @@
     "CITY": "TAPI",
     "CENTRE": "UKAI",
     "DISTRICT": "UKAI",
+    "CITY1": "TAPI",
+    "CITY2": "UKAI",
+    "PHONE": "233701",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -947,6 +1112,9 @@
     "CITY": "SURAT",
     "CENTRE": "UMARPADA",
     "DISTRICT": "UMARPADA",
+    "CITY1": "SURAT",
+    "CITY2": "UMARPADA",
+    "PHONE": "253615",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -964,6 +1132,9 @@
     "CITY": "TAPI",
     "CENTRE": "NIZAR",
     "DISTRICT": "NIZAR",
+    "CITY1": "TAPI",
+    "CITY2": "NIZAR",
+    "PHONE": "222259",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -981,6 +1152,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "259191",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -998,6 +1172,9 @@
     "CITY": "SURAT",
     "CENTRE": "ZANKHVAV",
     "DISTRICT": "ZANKHVAV",
+    "CITY1": "SURAT",
+    "CITY2": "ZANKHVAV",
+    "PHONE": "256078",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1015,6 +1192,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "2611222",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1032,6 +1212,9 @@
     "CITY": "MAGOB",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "MAGOB",
+    "PHONE": "2646300",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1049,6 +1232,9 @@
     "CITY": "JAHANGIRPURA",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "JAHANGIRPURA",
+    "PHONE": "2760044",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1066,6 +1252,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "2740407",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1083,6 +1272,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "225539",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1100,6 +1292,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "255924",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1117,6 +1312,9 @@
     "CITY": "BARDOLI",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "BARDOLI",
+    "PHONE": "221143",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1134,6 +1332,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "264207",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1151,6 +1352,9 @@
     "CITY": "TAPI",
     "CENTRE": "VYARA",
     "DISTRICT": "VYARA",
+    "CITY1": "TAPI",
+    "CITY2": "VYARA",
+    "PHONE": "7486013164",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1168,6 +1372,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "258024",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1185,6 +1392,9 @@
     "CITY": "TAPI",
     "CENTRE": "VYARA",
     "DISTRICT": "VYARA",
+    "CITY1": "TAPI",
+    "CITY2": "VYARA",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1202,6 +1412,9 @@
     "CITY": "TAPI",
     "CENTRE": "VYARA",
     "DISTRICT": "VYARA",
+    "CITY1": "TAPI",
+    "CITY2": "VYARA",
+    "PHONE": "9265906473",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1219,6 +1432,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "2255660",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1236,6 +1452,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "2576841",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1253,6 +1472,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "2215001",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1270,6 +1492,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "258500",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1287,6 +1512,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "265646",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1304,6 +1532,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "233000",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1321,6 +1552,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "243311",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1338,6 +1572,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "2277655",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1355,6 +1592,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "2892977",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1372,6 +1612,9 @@
     "CITY": "TAPI",
     "CENTRE": "VYARA",
     "DISTRICT": "VYARA",
+    "CITY1": "TAPI",
+    "CITY2": "VYARA",
+    "PHONE": "9265906977",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1389,6 +1632,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "2730041",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1406,6 +1652,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1423,6 +1672,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1440,6 +1692,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "261000",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1457,6 +1712,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "263363",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1474,6 +1732,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "2771909",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1491,6 +1752,9 @@
     "CITY": "SURAT",
     "CENTRE": "BARDOLI",
     "DISTRICT": "BARDOLI",
+    "CITY1": "SURAT",
+    "CITY2": "BARDOLI",
+    "PHONE": "222143",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1508,6 +1772,9 @@
     "CITY": "SURAT",
     "CENTRE": "BARDOLI",
     "DISTRICT": "BARDOLI",
+    "CITY1": "SURAT",
+    "CITY2": "BARDOLI",
+    "PHONE": "222142",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1525,6 +1792,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "230093",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1542,6 +1812,9 @@
     "CITY": "TAPI",
     "CENTRE": "VYARA",
     "DISTRICT": "VYARA",
+    "CITY1": "TAPI",
+    "CITY2": "VYARA",
+    "PHONE": "221447",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1559,6 +1832,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "251612",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1576,6 +1852,9 @@
     "CITY": "TAPI",
     "CENTRE": "SONGADH",
     "DISTRICT": "SONGADH",
+    "CITY1": "TAPI",
+    "CITY2": "SONGADH",
+    "PHONE": "7486013167",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1593,6 +1872,9 @@
     "CITY": "TAPI",
     "CENTRE": "VYARA",
     "DISTRICT": "VYARA",
+    "CITY1": "TAPI",
+    "CITY2": "VYARA",
+    "PHONE": "7486013168",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1610,6 +1892,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "2855060",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1627,6 +1912,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "2597730",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1644,6 +1932,9 @@
     "CITY": "TAPI",
     "CENTRE": "KUKARMUNDA",
     "DISTRICT": "KUKARMUNDA",
+    "CITY1": "TAPI",
+    "CITY2": "KUKARMUNDA",
+    "PHONE": "7486013161",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1661,6 +1952,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "263064",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1678,6 +1972,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "7486013169",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1695,6 +1992,9 @@
     "CITY": "SURAT",
     "CENTRE": "MANGROL",
     "DISTRICT": "MANGROL",
+    "CITY1": "SURAT",
+    "CITY2": "MANGROL",
+    "PHONE": "266002",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1712,6 +2012,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1729,6 +2032,9 @@
     "CITY": "SURAT",
     "CENTRE": "OLPAD",
     "DISTRICT": "OLPAD",
+    "CITY1": "SURAT",
+    "CITY2": "OLPAD",
+    "PHONE": "245246",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1746,6 +2052,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "9265906538",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1763,6 +2072,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1780,6 +2092,9 @@
     "CITY": "SURAT",
     "CENTRE": "MANDVI",
     "DISTRICT": "MANDVI",
+    "CITY1": "SURAT",
+    "CITY2": "MANDVI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1797,6 +2112,9 @@
     "CITY": "TAPI",
     "CENTRE": "TAPI",
     "DISTRICT": "TAPI",
+    "CITY1": "TAPI",
+    "CITY2": "TAPI",
+    "PHONE": "7486013176",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1814,6 +2132,9 @@
     "CITY": "TAPI",
     "CENTRE": "SONGADH",
     "DISTRICT": "SONGADH",
+    "CITY1": "TAPI",
+    "CITY2": "SONGADH",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1831,6 +2152,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "2262771",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1848,6 +2172,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "9265906891",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1865,6 +2192,9 @@
     "CITY": "SURAT",
     "CENTRE": "UMARPADA",
     "DISTRICT": "UMARPADA",
+    "CITY1": "SURAT",
+    "CITY2": "UMARPADA",
+    "PHONE": "9265906401",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1882,6 +2212,9 @@
     "CITY": "SURAT",
     "CENTRE": "MANDVI",
     "DISTRICT": "MANDVI",
+    "CITY1": "SURAT",
+    "CITY2": "MANDVI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1899,6 +2232,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1916,6 +2252,9 @@
     "CITY": "BARDOLI",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "BARDOLI",
+    "PHONE": "225143",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null

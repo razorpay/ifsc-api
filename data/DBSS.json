@@ -13,6 +13,9 @@
     "UPI": true,
     "MICR": "400641002",
     "RTGS": true,
+    "CITY1": "MUMBAI",
+    "CITY2": "MUMBAI",
+    "PHONE": "66388888",
     "NEFT": true,
     "SWIFT": null
   },
@@ -29,6 +32,9 @@
     "CITY": "NEW DELHI",
     "CENTRE": "DELHI",
     "DISTRICT": "DELHI",
+    "CITY1": "DELHI",
+    "CITY2": "NEW DELHI",
+    "PHONE": "30418888",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -46,6 +52,9 @@
     "CITY": "CHENNAI",
     "CENTRE": "CHENNAI",
     "DISTRICT": "CHENNAI",
+    "CITY1": "CHENNAI",
+    "CITY2": "CHENNAI",
+    "PHONE": "66568888",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -63,6 +72,9 @@
     "CITY": "BANGALORE",
     "CENTRE": "BANGALORE",
     "DISTRICT": "BANGALORE",
+    "CITY1": "BANGALORE",
+    "CITY2": "BANGALORE",
+    "PHONE": "66328888",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -80,6 +92,9 @@
     "CITY": "KOLKATTA",
     "CENTRE": "KOLKATTA",
     "DISTRICT": "KOLKATTA",
+    "CITY1": "KOLKATTA",
+    "CITY2": "KOLKATTA",
+    "PHONE": "66218888",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -97,6 +112,9 @@
     "CITY": "NASIK",
     "CENTRE": "NASIK",
     "DISTRICT": "NASIK",
+    "CITY1": "NASIK",
+    "CITY2": "NASIK",
+    "PHONE": "6632100",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -114,6 +132,9 @@
     "CITY": "PUNE",
     "CENTRE": "PUNE",
     "DISTRICT": "PUNE",
+    "CITY1": "PUNE",
+    "CITY2": "PUNE",
+    "PHONE": "66218888",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -131,6 +152,9 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
+    "CITY1": "SURAT",
+    "CITY2": "SURAT",
+    "PHONE": "6675400",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -148,6 +172,9 @@
     "CITY": "SALEM",
     "CENTRE": "SALEM",
     "DISTRICT": "SALEM",
+    "CITY1": "SALEM",
+    "CITY2": "SALEM",
+    "PHONE": "6641300",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -165,6 +192,9 @@
     "CITY": "MORADABAD",
     "CENTRE": "MORADABAD",
     "DISTRICT": "MORADABAD",
+    "CITY1": "MORADABAD",
+    "CITY2": "MORADABAD",
+    "PHONE": "6450001",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -182,6 +212,9 @@
     "CITY": "KOLHAPUR",
     "CENTRE": "KOLHAPUR",
     "DISTRICT": "KOLHAPUR",
+    "CITY1": "KOLHAPUR",
+    "CITY2": "KOLHAPUR",
+    "PHONE": "3050100",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -199,6 +232,9 @@
     "CITY": "CUDDALORE",
     "CENTRE": "CUDDALORE",
     "DISTRICT": "CUDDALORE",
+    "CITY1": "CUDDALORE",
+    "CITY2": "CUDDALORE",
+    "PHONE": "305100",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -216,6 +252,9 @@
     "CITY": "ANDHERI",
     "CENTRE": "MUMBAI",
     "DISTRICT": "MUMBAI",
+    "CITY1": "MUMBAI",
+    "CITY2": "ANDHERI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -233,6 +272,9 @@
     "CITY": "VIKHROLI",
     "CENTRE": "VIKHROLI",
     "DISTRICT": "VIKHROLI",
+    "CITY1": "VIKHROLI",
+    "CITY2": "VIKHROLI",
+    "PHONE": "68330841",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -250,6 +292,9 @@
     "CITY": "AHMEDABAD",
     "CENTRE": "AHMEDABAD",
     "DISTRICT": "AHMEDABAD",
+    "CITY1": "AHMEDABAD",
+    "CITY2": "AHMEDABAD",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -267,6 +312,9 @@
     "CITY": "HYDERABAD",
     "CENTRE": "HYDERABAD",
     "DISTRICT": "HYDERABAD",
+    "CITY1": "HYDERABAD",
+    "CITY2": "HYDERABAD",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -284,6 +332,9 @@
     "CITY": "NOIDA",
     "CENTRE": "NOIDA",
     "DISTRICT": "NOIDA",
+    "CITY1": "NOIDA",
+    "CITY2": "NOIDA",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -301,6 +352,9 @@
     "CITY": "GURGAON",
     "CENTRE": "GURGAON",
     "DISTRICT": "GURGAON",
+    "CITY1": "GURGAON",
+    "CITY2": "GURGAON",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -318,6 +372,9 @@
     "CITY": "COIMBATORE",
     "CENTRE": "COIMBATORE",
     "DISTRICT": "COIMBATORE",
+    "CITY1": "COIMBATORE",
+    "CITY2": "COIMBATORE",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -335,6 +392,9 @@
     "CITY": "INDORE",
     "CENTRE": "INDORE",
     "DISTRICT": "INDORE",
+    "CITY1": "INDORE",
+    "CITY2": "INDORE",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -352,6 +412,9 @@
     "CITY": "VADODARA",
     "CENTRE": "VADODARA",
     "DISTRICT": "VADODARA",
+    "CITY1": "VADODARA",
+    "CITY2": "VADODARA",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -369,6 +432,9 @@
     "CITY": "LUDHIANA",
     "CENTRE": "LUDHIANA",
     "DISTRICT": "LUDHIANA",
+    "CITY1": "LUDHIANA",
+    "CITY2": "LUDHIANA",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -386,6 +452,9 @@
     "CITY": "CHINCHWAD",
     "CENTRE": "CHINCHWAD",
     "DISTRICT": "CHINCHWAD",
+    "CITY1": "CHINCHWAD",
+    "CITY2": "CHINCHWAD",
+    "PHONE": "8657452906",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -403,6 +472,9 @@
     "CITY": "BHUBANESHWAR",
     "CENTRE": "BHUBANESHWAR",
     "DISTRICT": "BHUBANESHWAR",
+    "CITY1": "BHUBANESHWAR",
+    "CITY2": "BHUBANESHWAR",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -420,6 +492,9 @@
     "CITY": "VASHI",
     "CENTRE": "VASHI",
     "DISTRICT": "VASHI",
+    "CITY1": "VASHI",
+    "CITY2": "VASHI",
+    "PHONE": "27650242",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -437,6 +512,9 @@
     "CITY": "RAJKOT",
     "CENTRE": "RAJKOT",
     "DISTRICT": "RAJKOT",
+    "CITY1": "RAJKOT",
+    "CITY2": "RAJKOT",
+    "PHONE": "8879103651",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -454,6 +532,9 @@
     "CITY": "NAGPUR",
     "CENTRE": "NAGPUR",
     "DISTRICT": "NAGPUR",
+    "CITY1": "NAGPUR",
+    "CITY2": "NAGPUR",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -471,6 +552,9 @@
     "CITY": "GURGAON",
     "CENTRE": "GURGAON",
     "DISTRICT": "GURGAON",
+    "CITY1": "GURGAON",
+    "CITY2": "GURGAON",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -488,6 +572,9 @@
     "CITY": "JAIPUR",
     "CENTRE": "JAIPUR",
     "DISTRICT": "JAIPUR",
+    "CITY1": "JAIPUR",
+    "CITY2": "JAIPUR",
+    "PHONE": "2740181",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -505,6 +592,9 @@
     "CITY": "LUCKNOW",
     "CENTRE": "LUCKNOW",
     "DISTRICT": "LUCKNOW",
+    "CITY1": "LUCKNOW",
+    "CITY2": "LUCKNOW",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -522,6 +612,9 @@
     "CITY": "RAIPUR",
     "CENTRE": "RAIPUR",
     "DISTRICT": "RAIPUR",
+    "CITY1": "RAIPUR",
+    "CITY2": "RAIPUR",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -539,6 +632,9 @@
     "CITY": "MUMBAI",
     "CENTRE": "MUMBAI",
     "DISTRICT": "MUMBAI",
+    "CITY1": "MUMBAI",
+    "CITY2": "MUMBAI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -556,6 +652,9 @@
     "CITY": "CHENNAI",
     "CENTRE": "CHENNAI",
     "DISTRICT": "CHENNAI",
+    "CITY1": "CHENNAI",
+    "CITY2": "CHENNAI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -573,6 +672,9 @@
     "CITY": "KOLHAPUR",
     "CENTRE": "KOLHAPUR",
     "DISTRICT": "KOLHAPUR",
+    "CITY1": "KOLHAPUR",
+    "CITY2": "KOLHAPUR",
+    "PHONE": "3050100",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -590,6 +692,9 @@
     "CITY": "KOLHAPUR",
     "CENTRE": "KOLHAPUR",
     "DISTRICT": "KOLHAPUR",
+    "CITY1": "KOLHAPUR",
+    "CITY2": "KOLHAPUR",
+    "PHONE": "3050100",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -607,6 +712,9 @@
     "CITY": "KOLHAPUR",
     "CENTRE": "KOLHAPUR",
     "DISTRICT": "KOLHAPUR",
+    "CITY1": "KOLHAPUR",
+    "CITY2": "KOLHAPUR",
+    "PHONE": "3050100",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -624,6 +732,9 @@
     "CITY": "KOLHAPUR",
     "CENTRE": "KOLHAPUR",
     "DISTRICT": "KOLHAPUR",
+    "CITY1": "KOLHAPUR",
+    "CITY2": "KOLHAPUR",
+    "PHONE": "3050100",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -641,6 +752,9 @@
     "CITY": "KOLHAPUR",
     "CENTRE": "KOLHAPUR",
     "DISTRICT": "KOLHAPUR",
+    "CITY1": "KOLHAPUR",
+    "CITY2": "KOLHAPUR",
+    "PHONE": "3050100",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -658,6 +772,9 @@
     "CITY": "KOLHAPUR",
     "CENTRE": "KOLHAPUR",
     "DISTRICT": "KOLHAPUR",
+    "CITY1": "KOLHAPUR",
+    "CITY2": "KOLHAPUR",
+    "PHONE": "6658800",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -675,6 +792,9 @@
     "CITY": "KOLHAPUR",
     "CENTRE": "KOLHAPUR",
     "DISTRICT": "KOLHAPUR",
+    "CITY1": "KOLHAPUR",
+    "CITY2": "KOLHAPUR",
+    "PHONE": "6658800",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null

@@ -13,6 +13,9 @@
     "UPI": false,
     "MICR": "400500002",
     "RTGS": true,
+    "CITY1": "GREATER BOMBAY",
+    "CITY2": "MUMBAI",
+    "PHONE": "61573836",
     "NEFT": true,
     "SWIFT": null
   },
@@ -29,6 +32,9 @@
     "CITY": "NEW DELHI",
     "CENTRE": "NEW DELHI",
     "DISTRICT": "NEW DELHI",
+    "CITY1": "NEW DELHI",
+    "CITY2": "NEW DELHI",
+    "PHONE": "66111700",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -46,6 +52,9 @@
     "CITY": "BANGALORE",
     "CENTRE": "BANGALORE RURAL",
     "DISTRICT": "BANGALORE RURAL",
+    "CITY1": "BANGALORE RURAL",
+    "CITY2": "BANGALORE",
+    "PHONE": "67693200",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -63,6 +72,9 @@
     "CITY": "CHENNAI",
     "CENTRE": "KANCHIPURAM",
     "DISTRICT": "KANCHIPURAM",
+    "CITY1": "KANCHIPURAM",
+    "CITY2": "CHENNAI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
