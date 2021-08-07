@@ -13,6 +13,9 @@
     "UPI": false,
     "MICR": "400659002",
     "RTGS": true,
+    "CITY1": "MUMBAI",
+    "CITY2": "MUMBAI",
+    "PHONE": "61992000",
     "NEFT": true,
     "SWIFT": null
   },
@@ -29,6 +32,9 @@
     "CITY": "MUMBAI",
     "CENTRE": "MUMBAI",
     "DISTRICT": "MUMBAI",
+    "CITY1": "MUMBAI",
+    "CITY2": "MUMBAI",
+    "PHONE": "61992000",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -46,6 +52,9 @@
     "CITY": "NEW DELHI",
     "CENTRE": "DELHI",
     "DISTRICT": "DELHI",
+    "CITY1": "DELHI",
+    "CITY2": "NEW DELHI",
+    "PHONE": "45004800",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -63,6 +72,9 @@
     "CITY": "VELLORE",
     "CENTRE": "VELLORE",
     "DISTRICT": "VELLORE",
+    "CITY1": "VELLORE",
+    "CITY2": "VELLORE",
+    "PHONE": "278200",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -80,6 +92,9 @@
     "CITY": "PUNE",
     "CENTRE": "PUNE",
     "DISTRICT": "PUNE",
+    "CITY1": "PUNE",
+    "CITY2": "PUNE",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -97,6 +112,9 @@
     "CITY": "RANGA REDDY",
     "CENTRE": "RANGA REDDY",
     "DISTRICT": "RANGA REDDY",
+    "CITY1": "RANGA REDDY",
+    "CITY2": "RANGA REDDY",
+    "PHONE": "66352000",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -114,6 +132,9 @@
     "CITY": "AHMEDABAD",
     "CENTRE": "AHMEDABAD",
     "DISTRICT": "AHMEDABAD",
+    "CITY1": "AHMEDABAD",
+    "CITY2": "AHMEDABAD",
+    "PHONE": "71170400",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null

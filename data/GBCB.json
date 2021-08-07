@@ -13,6 +13,9 @@
     "UPI": false,
     "MICR": null,
     "RTGS": true,
+    "CITY1": "MUMBAI",
+    "CITY2": "SERVICE BRANCH",
+    "PHONE": "61285922",
     "NEFT": true,
     "SWIFT": null
   },
@@ -29,6 +32,9 @@
     "CITY": "BHULESHWAR",
     "CENTRE": "MUMBAI",
     "DISTRICT": "MUMBAI",
+    "CITY1": "MUMBAI",
+    "CITY2": "BHULESHWAR",
+    "PHONE": "61285700",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -46,6 +52,9 @@
     "CITY": "WADALA",
     "CENTRE": "MUMBAI",
     "DISTRICT": "MUMBAI",
+    "CITY1": "MUMBAI",
+    "CITY2": "WADALA",
+    "PHONE": "64556441",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -63,6 +72,9 @@
     "CITY": "DADAR",
     "CENTRE": "MUMBAI",
     "DISTRICT": "MUMBAI",
+    "CITY1": "MUMBAI",
+    "CITY2": "DADAR",
+    "PHONE": "65202132",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -80,6 +92,9 @@
     "CITY": "DOMBIVALI",
     "CENTRE": "MUMBAI",
     "DISTRICT": "MUMBAI",
+    "CITY1": "MUMBAI",
+    "CITY2": "DOMBIVALI",
+    "PHONE": "2430213",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -97,6 +112,9 @@
     "CITY": "GOREGAON",
     "CENTRE": "MUMBAI",
     "DISTRICT": "MUMBAI",
+    "CITY1": "MUMBAI",
+    "CITY2": "GOREGAON",
+    "PHONE": "65201587",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -114,6 +132,9 @@
     "CITY": "ANDHERI",
     "CENTRE": "MUMBAI",
     "DISTRICT": "MUMBAI",
+    "CITY1": "MUMBAI",
+    "CITY2": "ANDHERI",
+    "PHONE": "65201548",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -131,6 +152,9 @@
     "CITY": "MALAD",
     "CENTRE": "MUMBAI",
     "DISTRICT": "MUMBAI",
+    "CITY1": "MUMBAI",
+    "CITY2": "MALAD",
+    "PHONE": "64570794",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -148,6 +172,9 @@
     "CITY": "BORIVALI",
     "CENTRE": "MUMBAI",
     "DISTRICT": "MUMBAI",
+    "CITY1": "MUMBAI",
+    "CITY2": "BORIVALI",
+    "PHONE": "65201878",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -165,6 +192,9 @@
     "CITY": "VERSOVA",
     "CENTRE": "MUMBAI",
     "DISTRICT": "MUMBAI",
+    "CITY1": "MUMBAI",
+    "CITY2": "VERSOVA",
+    "PHONE": "65201619",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -182,6 +212,9 @@
     "CITY": "NAVI MUMBAI",
     "CENTRE": "MUMBAI",
     "DISTRICT": "MUMBAI",
+    "CITY1": "MUMBAI",
+    "CITY2": "NAVI MUMBAI",
+    "PHONE": "64550397",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -199,6 +232,9 @@
     "CITY": "DAHISAR",
     "CENTRE": "MUMBAI",
     "DISTRICT": "MUMBAI",
+    "CITY1": "MUMBAI",
+    "CITY2": "DAHISAR",
+    "PHONE": "64578297",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -216,6 +252,9 @@
     "CITY": "VILE PARLE",
     "CENTRE": "MUMBAI",
     "DISTRICT": "MUMBAI",
+    "CITY1": "MUMBAI",
+    "CITY2": "VILE PARLE",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -233,6 +272,9 @@
     "CITY": "VASAI",
     "CENTRE": "MUMBAI",
     "DISTRICT": "MUMBAI",
+    "CITY1": "MUMBAI",
+    "CITY2": "VASAI",
+    "PHONE": "2340839",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -250,6 +292,9 @@
     "CITY": "KANDIVALI",
     "CENTRE": "MUMBAI",
     "DISTRICT": "MUMBAI",
+    "CITY1": "MUMBAI",
+    "CITY2": "KANDIVALI",
+    "PHONE": "65201675",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -267,6 +312,9 @@
     "CITY": "THANE",
     "CENTRE": "MUMBAI",
     "DISTRICT": "MUMBAI",
+    "CITY1": "MUMBAI",
+    "CITY2": "THANE",
+    "PHONE": "65201939",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -284,6 +332,9 @@
     "CITY": "BANDRA",
     "CENTRE": "MUMBAI",
     "DISTRICT": "MUMBAI",
+    "CITY1": "MUMBAI",
+    "CITY2": "BANDRA",
+    "PHONE": "61285800",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -301,6 +352,9 @@
     "CITY": "GHATKOPAR",
     "CENTRE": "MUMBAI",
     "DISTRICT": "MUMBAI",
+    "CITY1": "MUMBAI",
+    "CITY2": "GHATKOPAR",
+    "PHONE": "65200394",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -318,6 +372,9 @@
     "CITY": "NERUL",
     "CENTRE": "MUMBAI",
     "DISTRICT": "MUMBAI",
+    "CITY1": "MUMBAI",
+    "CITY2": "NERUL",
+    "PHONE": "65201650",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -335,6 +392,9 @@
     "CITY": "NAVI MUMBAI",
     "CENTRE": "MUMBAI",
     "DISTRICT": "MUMBAI",
+    "CITY1": "MUMBAI",
+    "CITY2": "NAVI MUMBAI",
+    "PHONE": "65201382",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -352,6 +412,9 @@
     "CITY": "MUMBAI",
     "CENTRE": "MUMBAI",
     "DISTRICT": "MUMBAI",
+    "CITY1": "MUMBAI",
+    "CITY2": "MUMBAI",
+    "PHONE": "65201764",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -369,6 +432,9 @@
     "CITY": "THANE",
     "CENTRE": "MUMBAI",
     "DISTRICT": "MUMBAI",
+    "CITY1": "MUMBAI",
+    "CITY2": "THANE",
+    "PHONE": "65201939",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -386,6 +452,9 @@
     "CITY": "MUMBAI",
     "CENTRE": "MUMBAI",
     "DISTRICT": "MUMBAI",
+    "CITY1": "MUMBAI",
+    "CITY2": "MUMBAI",
+    "PHONE": "61285922",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null

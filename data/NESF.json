@@ -13,6 +13,9 @@
     "UPI": true,
     "MICR": null,
     "RTGS": true,
+    "CITY1": "KAMRUP",
+    "CITY2": "GUWAHATI",
+    "PHONE": "0",
     "NEFT": true,
     "SWIFT": null
   },
@@ -29,6 +32,9 @@
     "CITY": "GUWAHATI",
     "CENTRE": "KAMRUP(METRO)",
     "DISTRICT": "KAMRUP(METRO)",
+    "CITY1": "KAMRUP(METRO)",
+    "CITY2": "GUWAHATI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -46,6 +52,9 @@
     "CITY": "BAIHATA CHARIALI",
     "CENTRE": "KAMRUP",
     "DISTRICT": "KAMRUP",
+    "CITY1": "KAMRUP",
+    "CITY2": "BAIHATA CHARIALI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -63,6 +72,9 @@
     "CITY": "JAGIROAD",
     "CENTRE": "MORIGAON",
     "DISTRICT": "MORIGAON",
+    "CITY1": "MORIGAON",
+    "CITY2": "JAGIROAD",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -80,6 +92,9 @@
     "CITY": "SUALKUCHI",
     "CENTRE": "KAMRUP",
     "DISTRICT": "KAMRUP",
+    "CITY1": "KAMRUP",
+    "CITY2": "SUALKUCHI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -97,6 +112,9 @@
     "CITY": "NAGAON",
     "CENTRE": "NAGAON",
     "DISTRICT": "NAGAON",
+    "CITY1": "NAGAON",
+    "CITY2": "NAGAON",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -114,6 +132,9 @@
     "CITY": "JORHAT",
     "CENTRE": "JORHAT",
     "DISTRICT": "JORHAT",
+    "CITY1": "JORHAT",
+    "CITY2": "JORHAT",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -131,6 +152,9 @@
     "CITY": "DIBRUGARH",
     "CENTRE": "DIBRUGARH",
     "DISTRICT": "DIBRUGARH",
+    "CITY1": "DIBRUGARH",
+    "CITY2": "DIBRUGARH",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -148,6 +172,9 @@
     "CITY": "BONGAIGAON",
     "CENTRE": "BONGAIGAON",
     "DISTRICT": "BONGAIGAON",
+    "CITY1": "BONGAIGAON",
+    "CITY2": "BONGAIGAON",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -165,6 +192,9 @@
     "CITY": "TEZPUR",
     "CENTRE": "SONITPUR",
     "DISTRICT": "SONITPUR",
+    "CITY1": "SONITPUR",
+    "CITY2": "TEZPUR",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -182,6 +212,9 @@
     "CITY": "AGARTALA",
     "CENTRE": "WEST TRIPURA",
     "DISTRICT": "WEST TRIPURA",
+    "CITY1": "WEST TRIPURA",
+    "CITY2": "AGARTALA",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -199,6 +232,9 @@
     "CITY": "GANGTOK",
     "CENTRE": "EAST SIKKIM",
     "DISTRICT": "EAST SIKKIM",
+    "CITY1": "EAST SIKKIM",
+    "CITY2": "GANGTOK",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -216,6 +252,9 @@
     "CITY": "MANGALDOI",
     "CENTRE": "DARRANG",
     "DISTRICT": "DARRANG",
+    "CITY1": "DARRANG",
+    "CITY2": "MANGALDOI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -233,6 +272,9 @@
     "CITY": "DHEMAJI",
     "CENTRE": "DHEMAJI",
     "DISTRICT": "DHEMAJI",
+    "CITY1": "DHEMAJI",
+    "CITY2": "DHEMAJI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -250,6 +292,9 @@
     "CITY": "DERGAON",
     "CENTRE": "GOLAGHAT",
     "DISTRICT": "GOLAGHAT",
+    "CITY1": "GOLAGHAT",
+    "CITY2": "DERGAON",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -267,6 +312,9 @@
     "CITY": "GOLAGHAT",
     "CENTRE": "GOLAGHAT",
     "DISTRICT": "GOLAGHAT",
+    "CITY1": "GOLAGHAT",
+    "CITY2": "GOLAGHAT",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -284,6 +332,9 @@
     "CITY": "DIPHU",
     "CENTRE": "KARBI ANGLONG",
     "DISTRICT": "KARBI ANGLONG",
+    "CITY1": "KARBI ANGLONG",
+    "CITY2": "DIPHU",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -301,6 +352,9 @@
     "CITY": "MANGALDOI",
     "CENTRE": "DARRANG",
     "DISTRICT": "DARRANG",
+    "CITY1": "DARRANG",
+    "CITY2": "MANGALDOI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -318,6 +372,9 @@
     "CITY": "SONITPUR",
     "CENTRE": "SONITPUR",
     "DISTRICT": "SONITPUR",
+    "CITY1": "SONITPUR",
+    "CITY2": "SONITPUR",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -335,6 +392,9 @@
     "CITY": "BOKAKHAT",
     "CENTRE": "GOLAGHAT",
     "DISTRICT": "GOLAGHAT",
+    "CITY1": "GOLAGHAT",
+    "CITY2": "BOKAKHAT",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -352,6 +412,9 @@
     "CITY": "JAMUGURIHAT",
     "CENTRE": "SONITPUR",
     "DISTRICT": "SONITPUR",
+    "CITY1": "SONITPUR",
+    "CITY2": "JAMUGURIHAT",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -369,6 +432,9 @@
     "CITY": "BANDERDEWA",
     "CENTRE": "LAKHIMPUR",
     "DISTRICT": "LAKHIMPUR",
+    "CITY1": "LAKHIMPUR",
+    "CITY2": "BANDERDEWA",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -386,6 +452,9 @@
     "CITY": "SOUTH SIKKIM",
     "CENTRE": "SOUTH SIKKIM",
     "DISTRICT": "SOUTH SIKKIM",
+    "CITY1": "SOUTH SIKKIM",
+    "CITY2": "SOUTH SIKKIM",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -403,6 +472,9 @@
     "CITY": "CHAPAR",
     "CENTRE": "DHUBRI",
     "DISTRICT": "DHUBRI",
+    "CITY1": "DHUBRI",
+    "CITY2": "CHAPAR",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -420,6 +492,9 @@
     "CITY": "BARPETA TOWN",
     "CENTRE": "BARPETA",
     "DISTRICT": "BARPETA",
+    "CITY1": "BARPETA",
+    "CITY2": "BARPETA TOWN",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -437,6 +512,9 @@
     "CITY": "TANGLA",
     "CENTRE": "UDALGURI",
     "DISTRICT": "UDALGURI",
+    "CITY1": "UDALGURI",
+    "CITY2": "TANGLA",
+    "PHONE": "9127063638",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -454,6 +532,9 @@
     "CITY": "AGARTALA",
     "CENTRE": "KHOWAI",
     "DISTRICT": "KHOWAI",
+    "CITY1": "KHOWAI",
+    "CITY2": "AGARTALA",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -471,6 +552,9 @@
     "CITY": "AGARTALA",
     "CENTRE": "WEST TRIPURA",
     "DISTRICT": "WEST TRIPURA",
+    "CITY1": "WEST TRIPURA",
+    "CITY2": "AGARTALA",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -488,6 +572,9 @@
     "CITY": "SIMALUGURI",
     "CENTRE": "SIVASAGAR",
     "DISTRICT": "SIVASAGAR",
+    "CITY1": "SIVASAGAR",
+    "CITY2": "SIMALUGURI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -505,6 +592,9 @@
     "CITY": "DHEKIAL",
     "CENTRE": "GOLAGHAT",
     "DISTRICT": "GOLAGHAT",
+    "CITY1": "GOLAGHAT",
+    "CITY2": "DHEKIAL",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -522,6 +612,9 @@
     "CITY": "BORHOLA",
     "CENTRE": "JORHAT",
     "DISTRICT": "JORHAT",
+    "CITY1": "JORHAT",
+    "CITY2": "BORHOLA",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -539,6 +632,9 @@
     "CITY": "TITABOR",
     "CENTRE": "JORHAT",
     "DISTRICT": "JORHAT",
+    "CITY1": "JORHAT",
+    "CITY2": "TITABOR",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -556,6 +652,9 @@
     "CITY": "GOALPARA",
     "CENTRE": "GOALPARA",
     "DISTRICT": "GOALPARA",
+    "CITY1": "GOALPARA",
+    "CITY2": "GOALPARA",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -573,6 +672,9 @@
     "CITY": "TIHU",
     "CENTRE": "NALBARI",
     "DISTRICT": "NALBARI",
+    "CITY1": "NALBARI",
+    "CITY2": "TIHU",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -590,6 +692,9 @@
     "CITY": "BARPETA ROAD",
     "CENTRE": "BARPETA",
     "DISTRICT": "BARPETA",
+    "CITY1": "BARPETA",
+    "CITY2": "BARPETA ROAD",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -607,6 +712,9 @@
     "CITY": "PATHSALA",
     "CENTRE": "BARPETA",
     "DISTRICT": "BARPETA",
+    "CITY1": "BARPETA",
+    "CITY2": "PATHSALA",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -624,6 +732,9 @@
     "CITY": "BOITAMARI",
     "CENTRE": "BONGAIGAON",
     "DISTRICT": "BONGAIGAON",
+    "CITY1": "BONGAIGAON",
+    "CITY2": "BOITAMARI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -641,6 +752,9 @@
     "CITY": "TEOK",
     "CENTRE": "JORHAT",
     "DISTRICT": "JORHAT",
+    "CITY1": "JORHAT",
+    "CITY2": "TEOK",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -658,6 +772,9 @@
     "CITY": "NAZIRA",
     "CENTRE": "SIVASAGAR",
     "DISTRICT": "SIVASAGAR",
+    "CITY1": "SIVASAGAR",
+    "CITY2": "NAZIRA",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -675,6 +792,9 @@
     "CITY": "SIVASAGAR",
     "CENTRE": "SIVASAGAR",
     "DISTRICT": "SIVASAGAR",
+    "CITY1": "SIVASAGAR",
+    "CITY2": "SIVASAGAR",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -692,6 +812,9 @@
     "CITY": "GUWAHATI",
     "CENTRE": "KAMRUP",
     "DISTRICT": "KAMRUP",
+    "CITY1": "KAMRUP",
+    "CITY2": "GUWAHATI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -709,6 +832,9 @@
     "CITY": "GUWAHATI",
     "CENTRE": "KAMRUP METRO",
     "DISTRICT": "KAMRUP METRO",
+    "CITY1": "KAMRUP METRO",
+    "CITY2": "GUWAHATI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -726,6 +852,9 @@
     "CITY": "NONGPOH",
     "CENTRE": "RI-BHOI",
     "DISTRICT": "RI-BHOI",
+    "CITY1": "RI-BHOI",
+    "CITY2": "NONGPOH",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -743,6 +872,9 @@
     "CITY": "MATIA",
     "CENTRE": "OLR",
     "DISTRICT": "OLR",
+    "CITY1": "OLR",
+    "CITY2": "MATIA",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -760,6 +892,9 @@
     "CITY": "GAURIPUR",
     "CENTRE": "DHUBURI",
     "DISTRICT": "DHUBURI",
+    "CITY1": "DHUBURI",
+    "CITY2": "GAURIPUR",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -777,6 +912,9 @@
     "CITY": "NORTH LAKHIMPUR",
     "CENTRE": "LAKHIMPUR",
     "DISTRICT": "LAKHIMPUR",
+    "CITY1": "LAKHIMPUR",
+    "CITY2": "NORTH LAKHIMPUR",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -794,6 +932,9 @@
     "CITY": "NORTH LAKHIMPUR",
     "CENTRE": "LAKHIMPUR",
     "DISTRICT": "LAKHIMPUR",
+    "CITY1": "LAKHIMPUR",
+    "CITY2": "NORTH LAKHIMPUR",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -811,6 +952,9 @@
     "CITY": "BISWANATH CHARIALI",
     "CENTRE": "BISWANATH CHARIALI",
     "DISTRICT": "BISWANATH CHARIALI",
+    "CITY1": "BISWANATH CHARIALI",
+    "CITY2": "BISWANATH CHARIALI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -828,6 +972,9 @@
     "CITY": "BORGANG",
     "CENTRE": "BISWANATH CHARIALI",
     "DISTRICT": "BISWANATH CHARIALI",
+    "CITY1": "BISWANATH CHARIALI",
+    "CITY2": "BORGANG",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -845,6 +992,9 @@
     "CITY": "SONAPUR",
     "CENTRE": "KAMRUP",
     "DISTRICT": "KAMRUP",
+    "CITY1": "KAMRUP",
+    "CITY2": "SONAPUR",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -862,6 +1012,9 @@
     "CITY": "MORIGAON",
     "CENTRE": "MORIGAON",
     "DISTRICT": "MORIGAON",
+    "CITY1": "MORIGAON",
+    "CITY2": "MORIGAON",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -879,6 +1032,9 @@
     "CITY": "KAMRUP",
     "CENTRE": "KAMRUP",
     "DISTRICT": "KAMRUP",
+    "CITY1": "KAMRUP",
+    "CITY2": "KAMRUP",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -896,6 +1052,9 @@
     "CITY": "AMARPUR",
     "CENTRE": "GOMATI",
     "DISTRICT": "GOMATI",
+    "CITY1": "GOMATI",
+    "CITY2": "AMARPUR",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -913,6 +1072,9 @@
     "CITY": "KOTHIATOLI",
     "CENTRE": "NAGAON",
     "DISTRICT": "NAGAON",
+    "CITY1": "NAGAON",
+    "CITY2": "KOTHIATOLI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -930,6 +1092,9 @@
     "CITY": "BONGAIGAON",
     "CENTRE": "CHIRANG",
     "DISTRICT": "CHIRANG",
+    "CITY1": "CHIRANG",
+    "CITY2": "BONGAIGAON",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -947,6 +1112,9 @@
     "CITY": "SARTHEBARI",
     "CENTRE": "BARPETA",
     "DISTRICT": "BARPETA",
+    "CITY1": "BARPETA",
+    "CITY2": "SARTHEBARI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -964,6 +1132,9 @@
     "CITY": "BOKO",
     "CENTRE": "KAMRUP",
     "DISTRICT": "KAMRUP",
+    "CITY1": "KAMRUP",
+    "CITY2": "BOKO",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -981,6 +1152,9 @@
     "CITY": "DHUPDHARA",
     "CENTRE": "GOALPARA",
     "DISTRICT": "GOALPARA",
+    "CITY1": "GOALPARA",
+    "CITY2": "DHUPDHARA",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -998,6 +1172,9 @@
     "CITY": "CHABUA",
     "CENTRE": "DIBRUGARH",
     "DISTRICT": "DIBRUGARH",
+    "CITY1": "DIBRUGARH",
+    "CITY2": "CHABUA",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1015,6 +1192,9 @@
     "CITY": "TENGAKHAT",
     "CENTRE": "DIBRUGARH",
     "DISTRICT": "DIBRUGARH",
+    "CITY1": "DIBRUGARH",
+    "CITY2": "TENGAKHAT",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1032,6 +1212,9 @@
     "CITY": "GUWAHATI",
     "CENTRE": "KAMRUP METRO",
     "DISTRICT": "KAMRUP METRO",
+    "CITY1": "KAMRUP METRO",
+    "CITY2": "GUWAHATI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1049,6 +1232,9 @@
     "CITY": "GOGAMUKH",
     "CENTRE": "DHEMAJI",
     "DISTRICT": "DHEMAJI",
+    "CITY1": "DHEMAJI",
+    "CITY2": "GOGAMUKH",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1066,6 +1252,9 @@
     "CITY": "PASIGHAT",
     "CENTRE": "EAST SIANG",
     "DISTRICT": "EAST SIANG",
+    "CITY1": "EAST SIANG",
+    "CITY2": "PASIGHAT",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1083,6 +1272,9 @@
     "CITY": "DHAKUAKHANA",
     "CENTRE": "NORTH LAKHIMPUR",
     "DISTRICT": "NORTH LAKHIMPUR",
+    "CITY1": "NORTH LAKHIMPUR",
+    "CITY2": "DHAKUAKHANA",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1100,6 +1292,9 @@
     "CITY": "BIHPURIA",
     "CENTRE": "NORTH LAKHIMPUR",
     "DISTRICT": "NORTH LAKHIMPUR",
+    "CITY1": "NORTH LAKHIMPUR",
+    "CITY2": "BIHPURIA",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1117,6 +1312,9 @@
     "CITY": "PAPUMPARE",
     "CENTRE": "PAPUMPARE",
     "DISTRICT": "PAPUMPARE",
+    "CITY1": "PAPUMPARE",
+    "CITY2": "PAPUMPARE",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1134,6 +1332,9 @@
     "CITY": "BORIHAT",
     "CENTRE": "KAMRUP",
     "DISTRICT": "KAMRUP",
+    "CITY1": "KAMRUP",
+    "CITY2": "BORIHAT",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1151,6 +1352,9 @@
     "CITY": "CHAYGAON",
     "CENTRE": "CHAYGAON",
     "DISTRICT": "CHAYGAON",
+    "CITY1": "CHAYGAON",
+    "CITY2": "CHAYGAON",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1168,6 +1372,9 @@
     "CITY": "NAKACHARI",
     "CENTRE": "JORHAT",
     "DISTRICT": "JORHAT",
+    "CITY1": "JORHAT",
+    "CITY2": "NAKACHARI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1185,6 +1392,9 @@
     "CITY": "GAURISAGAR",
     "CENTRE": "SIVSAGAR",
     "DISTRICT": "SIVSAGAR",
+    "CITY1": "SIVSAGAR",
+    "CITY2": "GAURISAGAR",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1202,6 +1412,9 @@
     "CITY": "SONITPUR",
     "CENTRE": "SONITPUR",
     "DISTRICT": "SONITPUR",
+    "CITY1": "SONITPUR",
+    "CITY2": "SONITPUR",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1219,6 +1432,9 @@
     "CITY": "NARAYANPUR",
     "CENTRE": "LAKHIMPUR",
     "DISTRICT": "LAKHIMPUR",
+    "CITY1": "LAKHIMPUR",
+    "CITY2": "NARAYANPUR",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1236,6 +1452,9 @@
     "CITY": "AHATGURI",
     "CENTRE": "MORIGAON",
     "DISTRICT": "MORIGAON",
+    "CITY1": "MORIGAON",
+    "CITY2": "AHATGURI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1253,6 +1472,9 @@
     "CITY": "MORIGAON",
     "CENTRE": "MORIGAON",
     "DISTRICT": "MORIGAON",
+    "CITY1": "MORIGAON",
+    "CITY2": "MORIGAON",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1270,6 +1492,9 @@
     "CITY": "BALISATRA",
     "CENTRE": "KAMRUP",
     "DISTRICT": "KAMRUP",
+    "CITY1": "KAMRUP",
+    "CITY2": "BALISATRA",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1287,6 +1512,9 @@
     "CITY": "NALBARI",
     "CENTRE": "NALBARI",
     "DISTRICT": "NALBARI",
+    "CITY1": "NALBARI",
+    "CITY2": "NALBARI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1304,6 +1532,9 @@
     "CITY": "KAMRUP RURAL",
     "CENTRE": "RANGIA",
     "DISTRICT": "RANGIA",
+    "CITY1": "KAMRUP RURAL",
+    "CITY2": "RANGIA",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1321,6 +1552,9 @@
     "CITY": "GOLAGHAT",
     "CENTRE": "SARUPATHAR",
     "DISTRICT": "SARUPATHAR",
+    "CITY1": "GOLAGHAT",
+    "CITY2": "SARUPATHAR",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1338,6 +1572,9 @@
     "CITY": "MORAN",
     "CENTRE": "DIBRUGARH",
     "DISTRICT": "DIBRUGARH",
+    "CITY1": "DIBRUGARH",
+    "CITY2": "MORAN",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1355,6 +1592,9 @@
     "CITY": "TINSUKIA",
     "CENTRE": "TINSUKIA",
     "DISTRICT": "TINSUKIA",
+    "CITY1": "TINSUKIA",
+    "CITY2": "TINSUKIA",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1372,6 +1612,9 @@
     "CITY": "SIVSAGAR",
     "CENTRE": "DEMOW",
     "DISTRICT": "DEMOW",
+    "CITY1": "SIVSAGAR",
+    "CITY2": "DEMOW",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1389,6 +1632,9 @@
     "CITY": "SHILLONG",
     "CENTRE": "EAST KHASI",
     "DISTRICT": "EAST KHASI",
+    "CITY1": "EAST KHASI",
+    "CITY2": "SHILLONG",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1406,6 +1652,9 @@
     "CITY": "PAPUMPARE",
     "CENTRE": "ITANAGAR",
     "DISTRICT": "ITANAGAR",
+    "CITY1": "PAPUMPARE",
+    "CITY2": "ITANAGAR",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1423,6 +1672,9 @@
     "CITY": "BAGE TINALI NAHARLAGUN",
     "CENTRE": "PAPUMPARE",
     "DISTRICT": "PAPUMPARE",
+    "CITY1": "PAPUMPARE",
+    "CITY2": "BAGE TINALI NAHARLAGUN",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1440,6 +1692,9 @@
     "CITY": "KAMRUP",
     "CENTRE": "BIJOYNAGAR",
     "DISTRICT": "BIJOYNAGAR",
+    "CITY1": "KAMRUP",
+    "CITY2": "BIJOYNAGAR",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1457,6 +1712,9 @@
     "CITY": "NALBARI",
     "CENTRE": "BELSOR",
     "DISTRICT": "BELSOR",
+    "CITY1": "NALBARI",
+    "CITY2": "BELSOR",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1474,6 +1732,9 @@
     "CITY": "BEZERA",
     "CENTRE": "KAMRUP RURAL",
     "DISTRICT": "KAMRUP RURAL",
+    "CITY1": "KAMRUP RURAL",
+    "CITY2": "BEZERA",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1491,6 +1752,9 @@
     "CITY": "NALBARI",
     "CENTRE": "RAMPUR",
     "DISTRICT": "RAMPUR",
+    "CITY1": "NALBARI",
+    "CITY2": "RAMPUR",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1508,6 +1772,9 @@
     "CITY": "BARPETA",
     "CENTRE": "CHENGA",
     "DISTRICT": "CHENGA",
+    "CITY1": "BARPETA",
+    "CITY2": "CHENGA",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1525,6 +1792,9 @@
     "CITY": "KAMRUP RURAL",
     "CENTRE": "NAGARBERA",
     "DISTRICT": "NAGARBERA",
+    "CITY1": "KAMRUP RURAL",
+    "CITY2": "NAGARBERA",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1542,6 +1812,9 @@
     "CITY": "GUWAHATI",
     "CENTRE": "ARP ( ER )",
     "DISTRICT": "ARP ( ER )",
+    "CITY1": "ARP ( ER )",
+    "CITY2": "GUWAHATI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1559,6 +1832,9 @@
     "CITY": "KAMRUP METRO",
     "CENTRE": "MALIGAON",
     "DISTRICT": "MALIGAON",
+    "CITY1": "KAMRUP METRO",
+    "CITY2": "MALIGAON",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1576,6 +1852,9 @@
     "CITY": "NAGAON",
     "CENTRE": "JAKHALABANDHA",
     "DISTRICT": "JAKHALABANDHA",
+    "CITY1": "NAGAON",
+    "CITY2": "JAKHALABANDHA",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1593,6 +1872,9 @@
     "CITY": "NORTH GUWAHATI",
     "CENTRE": "KAMRUP RURAL",
     "DISTRICT": "KAMRUP RURAL",
+    "CITY1": "KAMRUP RURAL",
+    "CITY2": "NORTH GUWAHATI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1610,6 +1892,9 @@
     "CITY": "LANKA",
     "CENTRE": "HOJAI",
     "DISTRICT": "HOJAI",
+    "CITY1": "HOJAI",
+    "CITY2": "LANKA",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1627,6 +1912,9 @@
     "CITY": "BYRNIHAT",
     "CENTRE": "RI-BHOI",
     "DISTRICT": "RI-BHOI",
+    "CITY1": "RI-BHOI",
+    "CITY2": "BYRNIHAT",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1644,6 +1932,9 @@
     "CITY": "DHUBURI",
     "CENTRE": "BILASIPARA",
     "DISTRICT": "BILASIPARA",
+    "CITY1": "DHUBURI",
+    "CITY2": "BILASIPARA",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1661,6 +1952,9 @@
     "CITY": "SIVSAGAR",
     "CENTRE": "AMGURI",
     "DISTRICT": "AMGURI",
+    "CITY1": "SIVSAGAR",
+    "CITY2": "AMGURI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1678,6 +1972,9 @@
     "CITY": "GUWAHATI",
     "CENTRE": "KAMRUP METRO",
     "DISTRICT": "KAMRUP METRO",
+    "CITY1": "KAMRUP METRO",
+    "CITY2": "GUWAHATI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1695,6 +1992,9 @@
     "CITY": "GUWAHATI",
     "CENTRE": "ARP ( ER )",
     "DISTRICT": "ARP ( ER )",
+    "CITY1": "ARP ( ER )",
+    "CITY2": "GUWAHATI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1712,6 +2012,9 @@
     "CITY": "MARIANI",
     "CENTRE": "JORHAT",
     "DISTRICT": "JORHAT",
+    "CITY1": "JORHAT",
+    "CITY2": "MARIANI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1729,6 +2032,9 @@
     "CITY": "SONITPUR",
     "CENTRE": "MISSAMARI",
     "DISTRICT": "MISSAMARI",
+    "CITY1": "SONITPUR",
+    "CITY2": "MISSAMARI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1746,6 +2052,9 @@
     "CITY": "SONITPUR",
     "CENTRE": "BALIPAR",
     "DISTRICT": "BALIPAR",
+    "CITY1": "SONITPUR",
+    "CITY2": "BALIPAR",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1763,6 +2072,9 @@
     "CITY": "JALAH",
     "CENTRE": "BAKSA",
     "DISTRICT": "BAKSA",
+    "CITY1": "BAKSA",
+    "CITY2": "JALAH",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1780,6 +2092,9 @@
     "CITY": "KAMRUP",
     "CENTRE": "KHETRI",
     "DISTRICT": "KHETRI",
+    "CITY1": "KAMRUP",
+    "CITY2": "KHETRI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1797,6 +2112,9 @@
     "CITY": "TAMULPUR",
     "CENTRE": "TAMULPUR",
     "DISTRICT": "TAMULPUR",
+    "CITY1": "TAMULPUR",
+    "CITY2": "TAMULPUR",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1814,6 +2132,9 @@
     "CITY": "NELLIE",
     "CENTRE": "MORIGAON",
     "DISTRICT": "MORIGAON",
+    "CITY1": "MORIGAON",
+    "CITY2": "NELLIE",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1831,6 +2152,9 @@
     "CITY": "HOJAI",
     "CENTRE": "HOJAI",
     "DISTRICT": "HOJAI",
+    "CITY1": "HOJAI",
+    "CITY2": "HOJAI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1848,6 +2172,9 @@
     "CITY": "NAHARKATIA",
     "CENTRE": "DIBRUGARH",
     "DISTRICT": "DIBRUGARH",
+    "CITY1": "DIBRUGARH",
+    "CITY2": "NAHARKATIA",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1865,6 +2192,9 @@
     "CITY": "DWARKUCHI",
     "CENTRE": "BAKSA",
     "DISTRICT": "BAKSA",
+    "CITY1": "BAKSA",
+    "CITY2": "DWARKUCHI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1882,6 +2212,9 @@
     "CITY": "DARRANG",
     "CENTRE": "SIPAJHAR",
     "DISTRICT": "SIPAJHAR",
+    "CITY1": "DARRANG",
+    "CITY2": "SIPAJHAR",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1899,6 +2232,9 @@
     "CITY": "NAGAON",
     "CENTRE": "SENCHOWA",
     "DISTRICT": "SENCHOWA",
+    "CITY1": "NAGAON",
+    "CITY2": "SENCHOWA",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1916,6 +2252,9 @@
     "CITY": "HOJAI",
     "CENTRE": "KAKI",
     "DISTRICT": "KAKI",
+    "CITY1": "HOJAI",
+    "CITY2": "KAKI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1933,6 +2272,9 @@
     "CITY": "SOUTH",
     "CENTRE": "SINGTAM",
     "DISTRICT": "SINGTAM",
+    "CITY1": "SOUTH",
+    "CITY2": "SINGTAM",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1950,6 +2292,9 @@
     "CITY": "EAST SIKKIM",
     "CENTRE": "RANGPO",
     "DISTRICT": "RANGPO",
+    "CITY1": "EAST SIKKIM",
+    "CITY2": "RANGPO",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1967,6 +2312,9 @@
     "CITY": "DIMAPUR",
     "CENTRE": "DIMAPUR",
     "DISTRICT": "DIMAPUR",
+    "CITY1": "DIMAPUR",
+    "CITY2": "DIMAPUR",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1984,6 +2332,9 @@
     "CITY": "SOUTH SIKKIM",
     "CENTRE": "NAMCHI",
     "DISTRICT": "NAMCHI",
+    "CITY1": "SOUTH SIKKIM",
+    "CITY2": "NAMCHI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2001,6 +2352,9 @@
     "CITY": "GOLAGHAT",
     "CENTRE": "BARPATHAR",
     "DISTRICT": "BARPATHAR",
+    "CITY1": "GOLAGHAT",
+    "CITY2": "BARPATHAR",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2018,6 +2372,9 @@
     "CITY": "SILAPATHAR",
     "CENTRE": "DHEMAJI",
     "DISTRICT": "DHEMAJI",
+    "CITY1": "DHEMAJI",
+    "CITY2": "SILAPATHAR",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2035,6 +2392,9 @@
     "CITY": "BARBHAG",
     "CENTRE": "NALBARI",
     "DISTRICT": "NALBARI",
+    "CITY1": "NALBARI",
+    "CITY2": "BARBHAG",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2052,6 +2412,9 @@
     "CITY": "KALAIGAON",
     "CENTRE": "DLUI ( TD",
     "DISTRICT": "DLUI ( TD",
+    "CITY1": "DLUI ( TD",
+    "CITY2": "KALAIGAON",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2069,6 +2432,9 @@
     "CITY": "KHOIRABARI",
     "CENTRE": "UDALGURI",
     "DISTRICT": "UDALGURI",
+    "CITY1": "UDALGURI",
+    "CITY2": "KHOIRABARI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2086,6 +2452,9 @@
     "CITY": "LAKHIMPUR",
     "CENTRE": "BOGINODI",
     "DISTRICT": "BOGINODI",
+    "CITY1": "LAKHIMPUR",
+    "CITY2": "BOGINODI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2103,6 +2472,9 @@
     "CITY": "CHARAIDEO",
     "CENTRE": "SONARI",
     "DISTRICT": "SONARI",
+    "CITY1": "CHARAIDEO",
+    "CITY2": "SONARI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2120,6 +2492,9 @@
     "CITY": "DIBRUGARH",
     "CENTRE": "KHOWANG",
     "DISTRICT": "KHOWANG",
+    "CITY1": "DIBRUGARH",
+    "CITY2": "KHOWANG",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2137,6 +2512,9 @@
     "CITY": "NAGAON",
     "CENTRE": "SAMAGURI",
     "DISTRICT": "SAMAGURI",
+    "CITY1": "NAGAON",
+    "CITY2": "SAMAGURI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2154,6 +2532,9 @@
     "CITY": "DIBRUGARH",
     "CENTRE": "BORBORUA",
     "DISTRICT": "BORBORUA",
+    "CITY1": "DIBRUGARH",
+    "CITY2": "BORBORUA",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2171,6 +2552,9 @@
     "CITY": "TINSUKIA",
     "CENTRE": "MARGHERITA",
     "DISTRICT": "MARGHERITA",
+    "CITY1": "TINSUKIA",
+    "CITY2": "MARGHERITA",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2188,6 +2572,9 @@
     "CITY": "PANIGAON",
     "CENTRE": "NORTH LAKHIMPUR",
     "DISTRICT": "NORTH LAKHIMPUR",
+    "CITY1": "NORTH LAKHIMPUR",
+    "CITY2": "PANIGAON",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2205,6 +2592,9 @@
     "CITY": "LUMDING",
     "CENTRE": "HOJAI",
     "DISTRICT": "HOJAI",
+    "CITY1": "HOJAI",
+    "CITY2": "LUMDING",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2222,6 +2612,9 @@
     "CITY": "BARPETA",
     "CENTRE": "SORBHOG",
     "DISTRICT": "SORBHOG",
+    "CITY1": "BARPETA",
+    "CITY2": "SORBHOG",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2239,6 +2632,9 @@
     "CITY": "JONAI",
     "CENTRE": "DHEMAJI",
     "DISTRICT": "DHEMAJI",
+    "CITY1": "DHEMAJI",
+    "CITY2": "JONAI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2256,6 +2652,9 @@
     "CITY": "JALPAIGURI",
     "CENTRE": "JALPAIGURI",
     "DISTRICT": "JALPAIGURI",
+    "CITY1": "JALPAIGURI",
+    "CITY2": "JALPAIGURI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2273,6 +2672,9 @@
     "CITY": "JALPAIGURI",
     "CENTRE": "MAYNAGURI",
     "DISTRICT": "MAYNAGURI",
+    "CITY1": "JALPAIGURI",
+    "CITY2": "MAYNAGURI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2290,6 +2692,9 @@
     "CITY": "ALIPURDUAR",
     "CENTRE": "BIRPARA",
     "DISTRICT": "BIRPARA",
+    "CITY1": "ALIPURDUAR",
+    "CITY2": "BIRPARA",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2307,6 +2712,9 @@
     "CITY": "WEST SIKKIM",
     "CENTRE": "GEYZING",
     "DISTRICT": "GEYZING",
+    "CITY1": "WEST SIKKIM",
+    "CITY2": "GEYZING",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2324,6 +2732,9 @@
     "CITY": "MAJULI",
     "CENTRE": "KAMALABARI",
     "DISTRICT": "KAMALABARI",
+    "CITY1": "MAJULI",
+    "CITY2": "KAMALABARI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2341,6 +2752,9 @@
     "CITY": "KAMPUR",
     "CENTRE": "NAGAON",
     "DISTRICT": "NAGAON",
+    "CITY1": "NAGAON",
+    "CITY2": "KAMPUR",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2358,6 +2772,9 @@
     "CITY": "NAGAON",
     "CENTRE": "RAHA",
     "DISTRICT": "RAHA",
+    "CITY1": "NAGAON",
+    "CITY2": "RAHA",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2375,6 +2792,9 @@
     "CITY": "BAKSA",
     "CENTRE": "GORESHWAR",
     "DISTRICT": "GORESHWAR",
+    "CITY1": "BAKSA",
+    "CITY2": "GORESHWAR",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2392,6 +2812,9 @@
     "CITY": "KAMRUP",
     "CENTRE": "KONIHA",
     "DISTRICT": "KONIHA",
+    "CITY1": "KAMRUP",
+    "CITY2": "KONIHA",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2409,6 +2832,9 @@
     "CITY": "GOALPARA",
     "CENTRE": "KHARA PART II DARANGIRI",
     "DISTRICT": "KHARA PART II DARANGIRI",
+    "CITY1": "GOALPARA",
+    "CITY2": "KHARA PART II DARANGIRI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2426,6 +2852,9 @@
     "CITY": "JORHAT",
     "CENTRE": "LICHUBARI",
     "DISTRICT": "LICHUBARI",
+    "CITY1": "JORHAT",
+    "CITY2": "LICHUBARI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2443,6 +2872,9 @@
     "CITY": "LAMPHELPAT",
     "CENTRE": "IMPHAL WEST",
     "DISTRICT": "IMPHAL WEST",
+    "CITY1": "IMPHAL WEST",
+    "CITY2": "LAMPHELPAT",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2460,6 +2892,9 @@
     "CITY": "POROMPAT",
     "CENTRE": "IMPHAL EAST",
     "DISTRICT": "IMPHAL EAST",
+    "CITY1": "IMPHAL EAST",
+    "CITY2": "POROMPAT",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2477,6 +2912,9 @@
     "CITY": "SILCHAR",
     "CENTRE": "CACHAR",
     "DISTRICT": "CACHAR",
+    "CITY1": "CACHAR",
+    "CITY2": "SILCHAR",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2494,6 +2932,9 @@
     "CITY": "MAIRANG",
     "CENTRE": "WEST KHASI HILLS",
     "DISTRICT": "WEST KHASI HILLS",
+    "CITY1": "WEST KHASI HILLS",
+    "CITY2": "MAIRANG",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2511,6 +2952,9 @@
     "CITY": "HAILAKANDI",
     "CENTRE": "CACHAR",
     "DISTRICT": "CACHAR",
+    "CITY1": "CACHAR",
+    "CITY2": "HAILAKANDI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2528,6 +2972,9 @@
     "CITY": "JOWAI",
     "CENTRE": "ETJAINTIAHILL",
     "DISTRICT": "ETJAINTIAHILL",
+    "CITY1": "ETJAINTIAHILL",
+    "CITY2": "JOWAI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2545,6 +2992,9 @@
     "CITY": "KHLIEHRIAT",
     "CENTRE": "EAST JAINTIA HILLS",
     "DISTRICT": "EAST JAINTIA HILLS",
+    "CITY1": "EAST JAINTIA HILLS",
+    "CITY2": "KHLIEHRIAT",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2562,6 +3012,9 @@
     "CITY": "SAHPUR",
     "CENTRE": "NALBARI",
     "DISTRICT": "NALBARI",
+    "CITY1": "NALBARI",
+    "CITY2": "SAHPUR",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2579,6 +3032,9 @@
     "CITY": "WEST TRIPURA",
     "CENTRE": "DURJOYNAGAR",
     "DISTRICT": "DURJOYNAGAR",
+    "CITY1": "WEST TRIPURA",
+    "CITY2": "DURJOYNAGAR",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2596,6 +3052,9 @@
     "CITY": "KARIMGANJ",
     "CENTRE": "KARIMGANJ",
     "DISTRICT": "KARIMGANJ",
+    "CITY1": "KARIMGANJ",
+    "CITY2": "KARIMGANJ",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2613,6 +3072,9 @@
     "CITY": "DHARMANAGAR",
     "CENTRE": "NORTH TRIPURA",
     "DISTRICT": "NORTH TRIPURA",
+    "CITY1": "NORTH TRIPURA",
+    "CITY2": "DHARMANAGAR",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2630,6 +3092,9 @@
     "CITY": "BADARPUR",
     "CENTRE": "KARIMGANJ",
     "DISTRICT": "KARIMGANJ",
+    "CITY1": "KARIMGANJ",
+    "CITY2": "BADARPUR",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2647,6 +3112,9 @@
     "CITY": "SARAMSA",
     "CENTRE": "GANGTOK",
     "DISTRICT": "GANGTOK",
+    "CITY1": "GANGTOK",
+    "CITY2": "SARAMSA",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2664,6 +3132,9 @@
     "CITY": "GUWAHATI",
     "CENTRE": "KAMRUP RURAL",
     "DISTRICT": "KAMRUP RURAL",
+    "CITY1": "KAMRUP RURAL",
+    "CITY2": "GUWAHATI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2681,6 +3152,9 @@
     "CITY": "KARBI ANGLONG",
     "CENTRE": "DOKMOKA",
     "DISTRICT": "DOKMOKA",
+    "CITY1": "KARBI ANGLONG",
+    "CITY2": "DOKMOKA",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2698,6 +3172,9 @@
     "CITY": "SINGJAMEI",
     "CENTRE": "IMPHAL",
     "DISTRICT": "IMPHAL",
+    "CITY1": "IMPHAL",
+    "CITY2": "SINGJAMEI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2715,6 +3192,9 @@
     "CITY": "AIZWAL",
     "CENTRE": "AIZAWL",
     "DISTRICT": "AIZAWL",
+    "CITY1": "AIZAWL",
+    "CITY2": "AIZWAL",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2732,6 +3212,9 @@
     "CITY": "TURA",
     "CENTRE": "WEST GARO HILLS",
     "DISTRICT": "WEST GARO HILLS",
+    "CITY1": "WEST GARO HILLS",
+    "CITY2": "TURA",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2749,6 +3232,9 @@
     "CITY": "ALIPURDUAR",
     "CENTRE": "ALIPURDUAR",
     "DISTRICT": "ALIPURDUAR",
+    "CITY1": "ALIPURDUAR",
+    "CITY2": "ALIPURDUAR",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2766,6 +3252,9 @@
     "CITY": "GUWAHATI",
     "CENTRE": "KAMRUP METRO",
     "DISTRICT": "KAMRUP METRO",
+    "CITY1": "KAMRUP METRO",
+    "CITY2": "GUWAHATI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2783,6 +3272,9 @@
     "CITY": "KUMARGHAT",
     "CENTRE": "UNAKOTI",
     "DISTRICT": "UNAKOTI",
+    "CITY1": "UNAKOTI",
+    "CITY2": "KUMARGHAT",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2800,6 +3292,9 @@
     "CITY": "GUWAHATI",
     "CENTRE": "KAMRUP METRO",
     "DISTRICT": "KAMRUP METRO",
+    "CITY1": "KAMRUP METRO",
+    "CITY2": "GUWAHATI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2817,6 +3312,9 @@
     "CITY": "GUWAHATI",
     "CENTRE": "KAMRUP METRO",
     "DISTRICT": "KAMRUP METRO",
+    "CITY1": "KAMRUP METRO",
+    "CITY2": "GUWAHATI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2834,6 +3332,9 @@
     "CITY": "KOCH BIHAR",
     "CENTRE": "KOCH BIHAR",
     "DISTRICT": "KOCH BIHAR",
+    "CITY1": "KOCH BIHAR",
+    "CITY2": "KOCH BIHAR",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2851,6 +3352,9 @@
     "CITY": "UDALGURI",
     "CENTRE": "UDALGURI",
     "DISTRICT": "UDALGURI",
+    "CITY1": "UDALGURI",
+    "CITY2": "UDALGURI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2868,6 +3372,9 @@
     "CITY": "KOKRAJHAR",
     "CENTRE": "KOKRAJHAR",
     "DISTRICT": "KOKRAJHAR",
+    "CITY1": "KOKRAJHAR",
+    "CITY2": "KOKRAJHAR",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2885,6 +3392,9 @@
     "CITY": "GUWAHATI",
     "CENTRE": "KAMRUP",
     "DISTRICT": "KAMRUP",
+    "CITY1": "KAMRUP",
+    "CITY2": "GUWAHATI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2902,6 +3412,9 @@
     "CITY": "DARJEELING",
     "CENTRE": "SILIGURI",
     "DISTRICT": "SILIGURI",
+    "CITY1": "DARJEELING",
+    "CITY2": "SILIGURI",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2919,6 +3432,9 @@
     "CITY": "GUWAHATI",
     "CENTRE": "KAMRUP",
     "DISTRICT": "KAMRUP",
+    "CITY1": "KAMRUP",
+    "CITY2": "GUWAHATI",
+    "PHONE": "3617180104",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null

@@ -19,7 +19,7 @@
   "KLGB0040101": {
     "BANK": "Kerala Gramin Bank",
     "IFSC": "KLGB0040101",
-    "MICR": "480000",
+    "MICR": null,
     "BRANCH": "HEAD OFFICE",
     "ADDRESS": "KGB TOWERS,A K ROAD,P.O.MALAPPURAM,PIN-676505",
     "STATE": "KERALA",
@@ -29,6 +29,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2101253",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -46,6 +49,9 @@
     "CITY": "WAYANAD",
     "CENTRE": "WAYANAD",
     "DISTRICT": "WAYANAD",
+    "CITY1": "WAYANAD",
+    "CITY2": "WAYANAD",
+    "PHONE": "260479",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -63,6 +69,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2672299",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -80,6 +89,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "280251",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -97,6 +109,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2602058",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -114,6 +129,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "267458",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -131,6 +149,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2700464",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -148,6 +169,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2660221",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -165,6 +189,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2490234",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -182,6 +209,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2450323",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -199,6 +229,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2246150",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -216,6 +249,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2735106",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -233,6 +269,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2756325",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -250,6 +289,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2602016",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -267,6 +309,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2592120",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -284,6 +329,9 @@
     "CITY": "WAYANAD",
     "CENTRE": "WAYANAD",
     "DISTRICT": "WAYANAD",
+    "CITY1": "WAYANAD",
+    "CITY2": "WAYANAD",
+    "PHONE": "240351",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -301,6 +349,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2592052",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -318,6 +369,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2440219",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -335,6 +389,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2470259",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -352,6 +409,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2361474",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -369,6 +429,9 @@
     "CITY": "WAYANAD",
     "CENTRE": "WAYANAD",
     "DISTRICT": "WAYANAD",
+    "CITY1": "WAYANAD",
+    "CITY2": "WAYANAD",
+    "PHONE": "211536",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -386,6 +449,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2672220",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -403,6 +469,9 @@
     "CITY": "WAYANAD",
     "CENTRE": "WAYANAD",
     "DISTRICT": "WAYANAD",
+    "CITY1": "WAYANAD",
+    "CITY2": "WAYANAD",
+    "PHONE": "250457",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -420,6 +489,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2668151",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -437,6 +509,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2460011",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -454,6 +529,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "276074",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -471,6 +549,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2536222",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -488,6 +569,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "205219",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -505,6 +589,9 @@
     "CITY": "WAYANAD",
     "CENTRE": "WAYANAD",
     "DISTRICT": "WAYANAD",
+    "CITY1": "WAYANAD",
+    "CITY2": "WAYANAD",
+    "PHONE": "255280",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -522,6 +609,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2772799",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -539,6 +629,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "260113",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -556,6 +649,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2790125",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -573,6 +669,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2550298",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -590,6 +689,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "245410",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -607,6 +709,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2513030",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -624,6 +729,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2211165",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -641,6 +749,9 @@
     "CITY": "WAYANAD",
     "CENTRE": "WAYANAD",
     "DISTRICT": "WAYANAD",
+    "CITY1": "WAYANAD",
+    "CITY2": "WAYANAD",
+    "PHONE": "247317",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -658,6 +769,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2858735",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -675,6 +789,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2739002",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -692,6 +809,9 @@
     "CITY": "WAYANAD",
     "CENTRE": "WAYANAD",
     "DISTRICT": "WAYANAD",
+    "CITY1": "WAYANAD",
+    "CITY2": "WAYANAD",
+    "PHONE": "204221",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -709,6 +829,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2666817",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -726,6 +849,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "239264",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -743,6 +869,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2657233",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -760,6 +889,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2236295",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -777,6 +909,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2772070",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -794,6 +929,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2562534",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -811,6 +949,9 @@
     "CITY": "WAYANAD",
     "CENTRE": "WAYANAD",
     "DISTRICT": "WAYANAD",
+    "CITY1": "WAYANAD",
+    "CITY2": "WAYANAD",
+    "PHONE": "286606",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -828,6 +969,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2838168",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -845,6 +989,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2782520",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -862,6 +1009,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2862813",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -879,6 +1029,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2666878",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -896,6 +1049,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2725325",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -913,6 +1069,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2830539",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -930,6 +1089,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2647236",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -947,6 +1109,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2891153",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -964,6 +1129,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2631787",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -981,6 +1149,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "243424",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -998,6 +1169,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2490645",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1015,6 +1189,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "270227",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1032,6 +1209,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2633898",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1049,6 +1229,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2654286",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1066,6 +1249,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "200271",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1083,6 +1269,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2587341",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1100,6 +1289,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2868535",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1117,6 +1309,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "251440",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1134,6 +1329,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2615688",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1151,6 +1349,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "236213",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1168,6 +1369,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2654888",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1185,6 +1389,9 @@
     "CITY": "WAYANAD",
     "CENTRE": "WAYANAD",
     "DISTRICT": "WAYANAD",
+    "CITY1": "WAYANAD",
+    "CITY2": "WAYANAD",
+    "PHONE": "262234",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1202,6 +1409,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "206472",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1219,6 +1429,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2209388",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1236,6 +1449,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2610369",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1253,6 +1469,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2644719",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1270,6 +1489,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2790479",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1287,6 +1509,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2235282",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1304,6 +1529,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2331514",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1321,6 +1549,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2260066",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1338,6 +1569,9 @@
     "CITY": "WAYANAD",
     "CENTRE": "WAYANAD",
     "DISTRICT": "WAYANAD",
+    "CITY1": "WAYANAD",
+    "CITY2": "WAYANAD",
+    "PHONE": "270760",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1355,6 +1589,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2252087",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1372,6 +1609,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2820950",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1389,6 +1629,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2695021",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1406,6 +1649,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2277370",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1423,6 +1669,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2276560",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1440,6 +1689,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2770165",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1457,6 +1709,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2582060",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1474,6 +1729,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2691241",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1491,6 +1749,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2783246",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1508,6 +1769,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2810951",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1525,6 +1789,9 @@
     "CITY": "WAYANAD",
     "CENTRE": "WAYANAD",
     "DISTRICT": "WAYANAD",
+    "CITY1": "WAYANAD",
+    "CITY2": "WAYANAD",
+    "PHONE": "234330",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1542,6 +1809,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "248336",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1559,6 +1829,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2686350",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1576,6 +1849,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2707736",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1593,6 +1869,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2374277",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1610,6 +1889,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2470458",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1627,6 +1909,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "264340",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1644,6 +1929,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "270711",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1661,6 +1949,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2480718",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1678,6 +1969,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "221123",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1695,6 +1989,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2620445",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1712,6 +2009,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2710344",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1729,6 +2029,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2547175",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1746,6 +2049,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2610509",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1763,6 +2069,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "284113",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1780,6 +2089,9 @@
     "CITY": "WAYANAD",
     "CENTRE": "WAYANAD",
     "DISTRICT": "WAYANAD",
+    "CITY1": "WAYANAD",
+    "CITY2": "WAYANAD",
+    "PHONE": "202509",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1797,6 +2109,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2563432",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1814,6 +2129,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "239307",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1831,6 +2149,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2763388",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1848,6 +2169,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2470114",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1865,6 +2189,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2467624",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1882,6 +2209,9 @@
     "CITY": "WAYANAD",
     "CENTRE": "WAYANAD",
     "DISTRICT": "WAYANAD",
+    "CITY1": "WAYANAD",
+    "CITY2": "WAYANAD",
+    "PHONE": "229018",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1899,6 +2229,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2547333",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1916,6 +2249,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "227535",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1933,6 +2269,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2270106",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1950,6 +2289,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2445109",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1967,6 +2309,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "240084",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -1984,6 +2329,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2721177",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2001,6 +2349,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "230230",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2018,6 +2369,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "203264",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2035,6 +2389,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2410316",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2052,6 +2409,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2687163",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2069,6 +2429,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2690122",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2086,6 +2449,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2676841",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2103,6 +2469,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2852263",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2120,6 +2489,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2680941",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2137,6 +2509,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2270263",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2154,6 +2529,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2560355",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2171,6 +2549,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2850616",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2188,6 +2569,9 @@
     "CITY": "WAYANAD",
     "CENTRE": "WAYANAD",
     "DISTRICT": "WAYANAD",
+    "CITY1": "WAYANAD",
+    "CITY2": "WAYANAD",
+    "PHONE": "255380",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2205,6 +2589,9 @@
     "CITY": "WAYANAD",
     "CENTRE": "WAYANAD",
     "DISTRICT": "WAYANAD",
+    "CITY1": "WAYANAD",
+    "CITY2": "WAYANAD",
+    "PHONE": "211145",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2222,6 +2609,9 @@
     "CITY": "WAYANAD",
     "CENTRE": "WAYANAD",
     "DISTRICT": "WAYANAD",
+    "CITY1": "WAYANAD",
+    "CITY2": "WAYANAD",
+    "PHONE": "217454",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2239,6 +2629,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2445711",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2256,6 +2649,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2608465",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2273,6 +2669,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2811310",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2290,6 +2689,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2630108",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2307,6 +2709,9 @@
     "CITY": "WAYANAD",
     "CENTRE": "WAYANAD",
     "DISTRICT": "WAYANAD",
+    "CITY1": "WAYANAD",
+    "CITY2": "WAYANAD",
+    "PHONE": "220482",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2324,6 +2729,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2551350",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2341,6 +2749,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "260383",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2358,6 +2769,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2521017",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2375,6 +2789,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2690771",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2392,6 +2809,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2640090",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2409,6 +2829,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2662341",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2426,6 +2849,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2620003",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2443,6 +2869,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "254360",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2460,6 +2889,9 @@
     "CITY": "WAYANAD",
     "CENTRE": "WAYANAD",
     "DISTRICT": "WAYANAD",
+    "CITY1": "WAYANAD",
+    "CITY2": "WAYANAD",
+    "PHONE": "238951",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2477,6 +2909,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2452314",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2494,6 +2929,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2490772",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2511,6 +2949,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2526622",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2528,6 +2969,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2552920",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2545,6 +2989,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2596571",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2562,6 +3009,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2715474",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2579,6 +3029,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2421141",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2596,6 +3049,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2642442",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2613,6 +3069,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2745037",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2630,6 +3089,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2727909",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2647,6 +3109,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2374677",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2664,6 +3129,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2353365",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2681,6 +3149,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2383300",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2698,6 +3169,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2702020",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2715,6 +3189,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "2334053",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2732,6 +3209,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "2820603",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2749,6 +3229,9 @@
     "CITY": "PALAKKAD",
     "CENTRE": "PALAKKAD",
     "DISTRICT": "PALAKKAD",
+    "CITY1": "PALAKKAD",
+    "CITY2": "PALAKKAD",
+    "PHONE": "2535811",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2766,6 +3249,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "2810460",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2783,6 +3269,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "2709594",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2800,6 +3289,9 @@
     "CITY": "PALAKKAD",
     "CENTRE": "PALAKKAD",
     "DISTRICT": "PALAKKAD",
+    "CITY1": "PALAKKAD",
+    "CITY2": "PALAKKAD",
+    "PHONE": "2547482",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2817,6 +3309,9 @@
     "CITY": "PALAKKAD",
     "CENTRE": "PALAKKAD",
     "DISTRICT": "PALAKKAD",
+    "CITY1": "PALAKKAD",
+    "CITY2": "PALAKKAD",
+    "PHONE": "224178",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2834,6 +3329,9 @@
     "CITY": "PALAKKAD",
     "CENTRE": "PALAKKAD",
     "DISTRICT": "PALAKKAD",
+    "CITY1": "PALAKKAD",
+    "CITY2": "PALAKKAD",
+    "PHONE": "2247647",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2851,6 +3349,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2225340",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2868,6 +3369,9 @@
     "CITY": "WAYANAD",
     "CENTRE": "WAYANAD",
     "DISTRICT": "WAYANAD",
+    "CITY1": "WAYANAD",
+    "CITY2": "WAYANAD",
+    "PHONE": "248310",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2885,6 +3389,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "228654",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2902,6 +3409,9 @@
     "CITY": "PALAKKAD",
     "CENTRE": "PALAKKAD",
     "DISTRICT": "PALAKKAD",
+    "CITY1": "PALAKKAD",
+    "CITY2": "PALAKKAD",
+    "PHONE": "2214613",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2919,6 +3429,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "2443365",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2936,6 +3449,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2442285",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2953,6 +3469,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2464550",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2970,6 +3489,9 @@
     "CITY": "PALAKKAD",
     "CENTRE": "PALAKKAD",
     "DISTRICT": "PALAKKAD",
+    "CITY1": "PALAKKAD",
+    "CITY2": "PALAKKAD",
+    "PHONE": "256575",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -2987,6 +3509,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "2360456",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3004,6 +3529,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "250373",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3021,6 +3549,9 @@
     "CITY": "PALAKKAD",
     "CENTRE": "PALAKKAD",
     "DISTRICT": "PALAKKAD",
+    "CITY1": "PALAKKAD",
+    "CITY2": "PALAKKAD",
+    "PHONE": "2281932",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3038,6 +3569,9 @@
     "CITY": "PALAKKAD",
     "CENTRE": "PALAKKAD",
     "DISTRICT": "PALAKKAD",
+    "CITY1": "PALAKKAD",
+    "CITY2": "PALAKKAD",
+    "PHONE": "2370634",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3055,6 +3589,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "2605857",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3072,6 +3609,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "2397006",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3089,6 +3629,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "2731116",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3106,6 +3649,9 @@
     "CITY": "PALAKKAD",
     "CENTRE": "PALAKKAD",
     "DISTRICT": "PALAKKAD",
+    "CITY1": "PALAKKAD",
+    "CITY2": "PALAKKAD",
+    "PHONE": "2224884",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3123,6 +3669,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "231760",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3140,6 +3689,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "231918",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3157,6 +3709,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2684303",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3174,6 +3729,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "2841212",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3191,6 +3749,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "2894362",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3208,6 +3769,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "2283526",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3225,6 +3789,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2802090",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3242,6 +3809,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "2755002",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3259,6 +3829,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "2724090",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3276,6 +3849,9 @@
     "CITY": "PALAKKAD",
     "CENTRE": "PALAKKAD",
     "DISTRICT": "PALAKKAD",
+    "CITY1": "PALAKKAD",
+    "CITY2": "PALAKKAD",
+    "PHONE": "273932",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3293,6 +3869,9 @@
     "CITY": "PALAKKAD",
     "CENTRE": "PALAKKAD",
     "DISTRICT": "PALAKKAD",
+    "CITY1": "PALAKKAD",
+    "CITY2": "PALAKKAD",
+    "PHONE": "252645",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3310,6 +3889,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "2541093",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3327,6 +3909,9 @@
     "CITY": "PALAKKAD",
     "CENTRE": "PALAKKAD",
     "DISTRICT": "PALAKKAD",
+    "CITY1": "PALAKKAD",
+    "CITY2": "PALAKKAD",
+    "PHONE": "2874392",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3344,6 +3929,9 @@
     "CITY": "PALAKKAD",
     "CENTRE": "PALAKKAD",
     "DISTRICT": "PALAKKAD",
+    "CITY1": "PALAKKAD",
+    "CITY2": "PALAKKAD",
+    "PHONE": "228105",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3361,6 +3949,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "281992",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3378,6 +3969,9 @@
     "CITY": "PALAKKAD",
     "CENTRE": "PALAKKAD",
     "DISTRICT": "PALAKKAD",
+    "CITY1": "PALAKKAD",
+    "CITY2": "PALAKKAD",
+    "PHONE": "247066",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3395,6 +3989,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "221815",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3412,6 +4009,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "2342874",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3429,6 +4029,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "2254126",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3446,6 +4049,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "2553857",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3463,6 +4069,9 @@
     "CITY": "PATHANAMTHITTA",
     "CENTRE": "PATHANAMTHITTA",
     "DISTRICT": "PATHANAMTHITTA",
+    "CITY1": "PATHANAMTHITTA",
+    "CITY2": "PATHANAMTHITTA",
+    "PHONE": "2602485",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3480,6 +4089,9 @@
     "CITY": "PATHANAMTHITTA",
     "CENTRE": "PATHANAMTHITTA",
     "DISTRICT": "PATHANAMTHITTA",
+    "CITY1": "PATHANAMTHITTA",
+    "CITY2": "PATHANAMTHITTA",
+    "PHONE": "229450",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3497,6 +4109,9 @@
     "CITY": "PATHANAMTHITTA",
     "CENTRE": "PATHANAMTHITTA",
     "DISTRICT": "PATHANAMTHITTA",
+    "CITY1": "PATHANAMTHITTA",
+    "CITY2": "PATHANAMTHITTA",
+    "PHONE": "2322575",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3514,6 +4129,9 @@
     "CITY": "PATHANAMTHITTA",
     "CENTRE": "PATHANAMTHITTA",
     "DISTRICT": "PATHANAMTHITTA",
+    "CITY1": "PATHANAMTHITTA",
+    "CITY2": "PATHANAMTHITTA",
+    "PHONE": "2340740",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3531,6 +4149,9 @@
     "CITY": "PATHANAMTHITTA",
     "CENTRE": "PATHANAMTHITTA",
     "DISTRICT": "PATHANAMTHITTA",
+    "CITY1": "PATHANAMTHITTA",
+    "CITY2": "PATHANAMTHITTA",
+    "PHONE": "2661533",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3548,6 +4169,9 @@
     "CITY": "PATHANAMTHITTA",
     "CENTRE": "PATHANAMTHITTA",
     "DISTRICT": "PATHANAMTHITTA",
+    "CITY1": "PATHANAMTHITTA",
+    "CITY2": "PATHANAMTHITTA",
+    "PHONE": "211246",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3565,6 +4189,9 @@
     "CITY": "PATHANAMTHITTA",
     "CENTRE": "PATHANAMTHITTA",
     "DISTRICT": "PATHANAMTHITTA",
+    "CITY1": "PATHANAMTHITTA",
+    "CITY2": "PATHANAMTHITTA",
+    "PHONE": "272336",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3582,6 +4209,9 @@
     "CITY": "PATHANAMTHITTA",
     "CENTRE": "PATHANAMTHITTA",
     "DISTRICT": "PATHANAMTHITTA",
+    "CITY1": "PATHANAMTHITTA",
+    "CITY2": "PATHANAMTHITTA",
+    "PHONE": "230190",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3599,6 +4229,9 @@
     "CITY": "PATHANAMTHITTA",
     "CENTRE": "PATHANAMTHITTA",
     "DISTRICT": "PATHANAMTHITTA",
+    "CITY1": "PATHANAMTHITTA",
+    "CITY2": "PATHANAMTHITTA",
+    "PHONE": "252330",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3616,6 +4249,9 @@
     "CITY": "PATHANAMTHITTA",
     "CENTRE": "PATHANAMTHITTA",
     "DISTRICT": "PATHANAMTHITTA",
+    "CITY1": "PATHANAMTHITTA",
+    "CITY2": "PATHANAMTHITTA",
+    "PHONE": "281900",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3633,6 +4269,9 @@
     "CITY": "PATHANAMTHITTA",
     "CENTRE": "PATHANAMTHITTA",
     "DISTRICT": "PATHANAMTHITTA",
+    "CITY1": "PATHANAMTHITTA",
+    "CITY2": "PATHANAMTHITTA",
+    "PHONE": "2255990",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3650,6 +4289,9 @@
     "CITY": "PATHANAMTHITTA",
     "CENTRE": "PATHANAMTHITTA",
     "DISTRICT": "PATHANAMTHITTA",
+    "CITY1": "PATHANAMTHITTA",
+    "CITY2": "PATHANAMTHITTA",
+    "PHONE": "256440",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3667,6 +4309,9 @@
     "CITY": "PATHANAMTHITTA",
     "CENTRE": "PATHANAMTHITTA",
     "DISTRICT": "PATHANAMTHITTA",
+    "CITY1": "PATHANAMTHITTA",
+    "CITY2": "PATHANAMTHITTA",
+    "PHONE": "2690400",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3684,6 +4329,9 @@
     "CITY": "PATHANAMTHITTA",
     "CENTRE": "PATHANAMTHITTA",
     "DISTRICT": "PATHANAMTHITTA",
+    "CITY1": "PATHANAMTHITTA",
+    "CITY2": "PATHANAMTHITTA",
+    "PHONE": "256800",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3701,6 +4349,9 @@
     "CITY": "PATHANAMTHITTA",
     "CENTRE": "PATHANAMTHITTA",
     "DISTRICT": "PATHANAMTHITTA",
+    "CITY1": "PATHANAMTHITTA",
+    "CITY2": "PATHANAMTHITTA",
+    "PHONE": "2609599",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3718,6 +4369,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "2631666",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3735,6 +4389,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "2354050",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3752,6 +4409,9 @@
     "CITY": "TRIVANDRUM",
     "CENTRE": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
+    "CITY1": "TRIVANDRUM",
+    "CITY2": "TRIVANDRUM",
+    "PHONE": "2465699",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3769,6 +4429,9 @@
     "CITY": "TRIVANDRUM",
     "CENTRE": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
+    "CITY1": "TRIVANDRUM",
+    "CITY2": "TRIVANDRUM",
+    "PHONE": "2437322",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3786,6 +4449,9 @@
     "CITY": "TRIVANDRUM",
     "CENTRE": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
+    "CITY1": "TRIVANDRUM",
+    "CITY2": "TRIVANDRUM",
+    "PHONE": "2623930",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3803,6 +4469,9 @@
     "CITY": "TRIVANDRUM",
     "CENTRE": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
+    "CITY1": "TRIVANDRUM",
+    "CITY2": "TRIVANDRUM",
+    "PHONE": "2399155",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3820,6 +4489,9 @@
     "CITY": "TRIVANDRUM",
     "CENTRE": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
+    "CITY1": "TRIVANDRUM",
+    "CITY2": "TRIVANDRUM",
+    "PHONE": "2804646",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3837,6 +4509,9 @@
     "CITY": "IDUKKI",
     "CENTRE": "IDUKKI",
     "DISTRICT": "IDUKKI",
+    "CITY1": "IDUKKI",
+    "CITY2": "IDUKKI",
+    "PHONE": "2224050",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3854,6 +4529,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2255725",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3871,6 +4549,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2768003",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3888,6 +4569,9 @@
     "CITY": "IDUKKI",
     "CENTRE": "IDUKKI",
     "DISTRICT": "IDUKKI",
+    "CITY1": "IDUKKI",
+    "CITY2": "IDUKKI",
+    "PHONE": "243888",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3905,6 +4589,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2667512",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3922,6 +4609,9 @@
     "CITY": "IDUKKI",
     "CENTRE": "IDUKKI",
     "DISTRICT": "IDUKKI",
+    "CITY1": "IDUKKI",
+    "CITY2": "IDUKKI",
+    "PHONE": "255888",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3939,6 +4629,9 @@
     "CITY": "TRIVANDRUM",
     "CENTRE": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
+    "CITY1": "TRIVANDRUM",
+    "CITY2": "TRIVANDRUM",
+    "PHONE": "2558767",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3956,6 +4649,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "2427750",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3973,6 +4669,9 @@
     "CITY": "PATHANAMTHITTA",
     "CENTRE": "PATHANAMTHITTA",
     "DISTRICT": "PATHANAMTHITTA",
+    "CITY1": "PATHANAMTHITTA",
+    "CITY2": "PATHANAMTHITTA",
+    "PHONE": "223393",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -3990,6 +4689,9 @@
     "CITY": "TRIVANDRUM",
     "CENTRE": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
+    "CITY1": "TRIVANDRUM",
+    "CITY2": "TRIVANDRUM",
+    "PHONE": "2294080",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4007,6 +4709,9 @@
     "CITY": "TRIVANDRUM",
     "CENTRE": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
+    "CITY1": "TRIVANDRUM",
+    "CITY2": "TRIVANDRUM",
+    "PHONE": "2875455",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4024,6 +4729,9 @@
     "CITY": "IDUKKI",
     "CENTRE": "IDUKKI",
     "DISTRICT": "IDUKKI",
+    "CITY1": "IDUKKI",
+    "CITY2": "IDUKKI",
+    "PHONE": "262020",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4041,6 +4749,9 @@
     "CITY": "TRIVANDRUM",
     "CENTRE": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
+    "CITY1": "TRIVANDRUM",
+    "CITY2": "TRIVANDRUM",
+    "PHONE": "2840184",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4058,6 +4769,9 @@
     "CITY": "TRIVANDRUM",
     "CENTRE": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
+    "CITY1": "TRIVANDRUM",
+    "CITY2": "TRIVANDRUM",
+    "PHONE": "2320199",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4075,6 +4789,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4092,6 +4809,9 @@
     "CITY": "TRIVANDRUM",
     "CENTRE": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
+    "CITY1": "TRIVANDRUM",
+    "CITY2": "TRIVANDRUM",
+    "PHONE": "2836095",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4109,6 +4829,9 @@
     "CITY": "TRIVANDRUM",
     "CENTRE": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
+    "CITY1": "TRIVANDRUM",
+    "CITY2": "TRIVANDRUM",
+    "PHONE": "2867260",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4126,6 +4849,9 @@
     "CITY": "TRIVANDRUM",
     "CENTRE": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
+    "CITY1": "TRIVANDRUM",
+    "CITY2": "TRIVANDRUM",
+    "PHONE": "2656020",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4143,6 +4869,9 @@
     "CITY": "TRIVANDRUM",
     "CENTRE": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
+    "CITY1": "TRIVANDRUM",
+    "CITY2": "TRIVANDRUM",
+    "PHONE": "2410144",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4160,6 +4889,9 @@
     "CITY": "TRIVANDRUM",
     "CENTRE": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
+    "CITY1": "TRIVANDRUM",
+    "CITY2": "TRIVANDRUM",
+    "PHONE": "2757875",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4177,6 +4909,9 @@
     "CITY": "TRIVANDRUM",
     "CENTRE": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
+    "CITY1": "TRIVANDRUM",
+    "CITY2": "TRIVANDRUM",
+    "PHONE": "2230433",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4194,6 +4929,9 @@
     "CITY": "TRIVANDRUM",
     "CENTRE": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
+    "CITY1": "TRIVANDRUM",
+    "CITY2": "TRIVANDRUM",
+    "PHONE": "2851700",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4211,6 +4949,9 @@
     "CITY": "TRIVANDRUM",
     "CENTRE": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
+    "CITY1": "TRIVANDRUM",
+    "CITY2": "TRIVANDRUM",
+    "PHONE": "2857575",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4228,6 +4969,9 @@
     "CITY": "TRIVANDRUM",
     "CENTRE": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
+    "CITY1": "TRIVANDRUM",
+    "CITY2": "TRIVANDRUM",
+    "PHONE": "2610111",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4245,6 +4989,9 @@
     "CITY": "TRIVANDRUM",
     "CENTRE": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
+    "CITY1": "TRIVANDRUM",
+    "CITY2": "TRIVANDRUM",
+    "PHONE": "2690007",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4262,6 +5009,9 @@
     "CITY": "TRIVANDRUM",
     "CENTRE": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
+    "CITY1": "TRIVANDRUM",
+    "CITY2": "TRIVANDRUM",
+    "PHONE": "2863022",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4279,6 +5029,9 @@
     "CITY": "TRIVANDRUM",
     "CENTRE": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
+    "CITY1": "TRIVANDRUM",
+    "CITY2": "TRIVANDRUM",
+    "PHONE": "2883400",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4296,6 +5049,9 @@
     "CITY": "IDUKKI",
     "CENTRE": "IDUKKI",
     "DISTRICT": "IDUKKI",
+    "CITY1": "IDUKKI",
+    "CITY2": "IDUKKI",
+    "PHONE": "245656",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4313,6 +5069,9 @@
     "CITY": "IDUKKI",
     "CENTRE": "IDUKKI",
     "DISTRICT": "IDUKKI",
+    "CITY1": "IDUKKI",
+    "CITY2": "IDUKKI",
+    "PHONE": "272555",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4330,6 +5089,9 @@
     "CITY": "IDUKKI",
     "CENTRE": "IDUKKI",
     "DISTRICT": "IDUKKI",
+    "CITY1": "IDUKKI",
+    "CITY2": "IDUKKI",
+    "PHONE": "274500",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4347,6 +5109,9 @@
     "CITY": "PATHANAMTHITTA",
     "CENTRE": "PATHANAMTHITTA",
     "DISTRICT": "PATHANAMTHITTA",
+    "CITY1": "PATHANAMTHITTA",
+    "CITY2": "PATHANAMTHITTA",
+    "PHONE": "286269",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4364,6 +5129,9 @@
     "CITY": "PATHANAMTHITTA",
     "CENTRE": "PATHANAMTHITTA",
     "DISTRICT": "PATHANAMTHITTA",
+    "CITY1": "PATHANAMTHITTA",
+    "CITY2": "PATHANAMTHITTA",
+    "PHONE": "2350532",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4381,6 +5149,9 @@
     "CITY": "PATHANAMTHITTA",
     "CENTRE": "PATHANAMTHITTA",
     "DISTRICT": "PATHANAMTHITTA",
+    "CITY1": "PATHANAMTHITTA",
+    "CITY2": "PATHANAMTHITTA",
+    "PHONE": "2650087",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4398,6 +5169,9 @@
     "CITY": "TRIVANDRUM",
     "CENTRE": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
+    "CITY1": "TRIVANDRUM",
+    "CITY2": "TRIVANDRUM",
+    "PHONE": "2617875",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4415,6 +5189,9 @@
     "CITY": "IDUKKI",
     "CENTRE": "IDUKKI",
     "DISTRICT": "IDUKKI",
+    "CITY1": "IDUKKI",
+    "CITY2": "IDUKKI",
+    "PHONE": "276433",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4432,6 +5209,9 @@
     "CITY": "IDUKKI",
     "CENTRE": "IDUKKI",
     "DISTRICT": "IDUKKI",
+    "CITY1": "IDUKKI",
+    "CITY2": "IDUKKI",
+    "PHONE": "252580",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4449,6 +5229,9 @@
     "CITY": "TRIVANDRUM",
     "CENTRE": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
+    "CITY1": "TRIVANDRUM",
+    "CITY2": "TRIVANDRUM",
+    "PHONE": "2678454",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4466,6 +5249,9 @@
     "CITY": "PATHANAMTHITTA",
     "CENTRE": "PATHANAMTHITTA",
     "DISTRICT": "PATHANAMTHITTA",
+    "CITY1": "PATHANAMTHITTA",
+    "CITY2": "PATHANAMTHITTA",
+    "PHONE": "240688",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4483,6 +5269,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "2309833",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4500,6 +5289,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "2204033",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4517,6 +5309,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "2771433",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4534,6 +5329,9 @@
     "CITY": "PATHANAMTHITTA",
     "CENTRE": "PATHANAMTHITTA",
     "DISTRICT": "PATHANAMTHITTA",
+    "CITY1": "PATHANAMTHITTA",
+    "CITY2": "PATHANAMTHITTA",
+    "PHONE": "2696131",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4551,6 +5349,9 @@
     "CITY": "PATHANAMTHITTA",
     "CENTRE": "PATHANAMTHITTA",
     "DISTRICT": "PATHANAMTHITTA",
+    "CITY1": "PATHANAMTHITTA",
+    "CITY2": "PATHANAMTHITTA",
+    "PHONE": "266678",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4568,6 +5369,9 @@
     "CITY": "PATHANAMTHITTA",
     "CENTRE": "PATHANAMTHITTA",
     "DISTRICT": "PATHANAMTHITTA",
+    "CITY1": "PATHANAMTHITTA",
+    "CITY2": "PATHANAMTHITTA",
+    "PHONE": "2794142",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4585,6 +5389,9 @@
     "CITY": "TRIVANDRUM",
     "CENTRE": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
+    "CITY1": "TRIVANDRUM",
+    "CITY2": "TRIVANDRUM",
+    "PHONE": "2280009",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4602,6 +5409,9 @@
     "CITY": "PATHANAMTHITTA",
     "CENTRE": "PATHANAMTHITTA",
     "DISTRICT": "PATHANAMTHITTA",
+    "CITY1": "PATHANAMTHITTA",
+    "CITY2": "PATHANAMTHITTA",
+    "PHONE": "2300155",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4619,6 +5429,9 @@
     "CITY": "PALAKKAD",
     "CENTRE": "PALAKKAD",
     "DISTRICT": "PALAKKAD",
+    "CITY1": "PALAKKAD",
+    "CITY2": "PALAKKAD",
+    "PHONE": "2262071",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4636,6 +5449,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "262563",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4653,6 +5469,9 @@
     "CITY": "PALAKKAD",
     "CENTRE": "PALAKKAD",
     "DISTRICT": "PALAKKAD",
+    "CITY1": "PALAKKAD",
+    "CITY2": "PALAKKAD",
+    "PHONE": "243121",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4670,6 +5489,9 @@
     "CITY": "TRIVANDRUM",
     "CENTRE": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
+    "CITY1": "TRIVANDRUM",
+    "CITY2": "TRIVANDRUM",
+    "PHONE": "2297311",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4687,6 +5509,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "2742121",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4704,6 +5529,9 @@
     "CITY": "TRIVANDRUM",
     "CENTRE": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
+    "CITY1": "TRIVANDRUM",
+    "CITY2": "TRIVANDRUM",
+    "PHONE": "2488379",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4721,6 +5549,9 @@
     "CITY": "TRIVANDRUM",
     "CENTRE": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
+    "CITY1": "TRIVANDRUM",
+    "CITY2": "TRIVANDRUM",
+    "PHONE": "2241067",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4738,6 +5569,9 @@
     "CITY": "TRIVANDRUM",
     "CENTRE": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
+    "CITY1": "TRIVANDRUM",
+    "CITY2": "TRIVANDRUM",
+    "PHONE": "2390992",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4755,6 +5589,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "258781",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4772,6 +5609,9 @@
     "CITY": "PALAKKAD",
     "CENTRE": "PALAKKAD",
     "DISTRICT": "PALAKKAD",
+    "CITY1": "PALAKKAD",
+    "CITY2": "PALAKKAD",
+    "PHONE": "2258130",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4789,6 +5629,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "253284",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4806,6 +5649,9 @@
     "CITY": "IDUKKI",
     "CENTRE": "IDUKKI",
     "DISTRICT": "IDUKKI",
+    "CITY1": "IDUKKI",
+    "CITY2": "IDUKKI",
+    "PHONE": "242055",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4823,6 +5669,9 @@
     "CITY": "PATHANAMTHITTA",
     "CENTRE": "PATHANAMTHITTA",
     "DISTRICT": "PATHANAMTHITTA",
+    "CITY1": "PATHANAMTHITTA",
+    "CITY2": "PATHANAMTHITTA",
+    "PHONE": "2257307",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4840,6 +5689,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2287188",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4857,6 +5709,9 @@
     "CITY": "PATHANAMTHITTA",
     "CENTRE": "PATHANAMTHITTA",
     "DISTRICT": "PATHANAMTHITTA",
+    "CITY1": "PATHANAMTHITTA",
+    "CITY2": "PATHANAMTHITTA",
+    "PHONE": "4208400",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4874,6 +5729,9 @@
     "CITY": "IDUKKI",
     "CENTRE": "IDUKKI",
     "DISTRICT": "IDUKKI",
+    "CITY1": "IDUKKI",
+    "CITY2": "IDUKKI",
+    "PHONE": "9222490",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4891,6 +5749,9 @@
     "CITY": "TRIVANDRUM",
     "CENTRE": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
+    "CITY1": "TRIVANDRUM",
+    "CITY2": "TRIVANDRUM",
+    "PHONE": "2634066",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4908,6 +5769,9 @@
     "CITY": "IDUKKI",
     "CENTRE": "IDUKKI",
     "DISTRICT": "IDUKKI",
+    "CITY1": "IDUKKI",
+    "CITY2": "IDUKKI",
+    "PHONE": "9244940",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4925,6 +5789,9 @@
     "CITY": "ERNAKULAM",
     "CENTRE": "ERNAKULAM",
     "DISTRICT": "ERNAKULAM",
+    "CITY1": "ERNAKULAM",
+    "CITY2": "ERNAKULAM",
+    "PHONE": "2536302",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4942,6 +5809,9 @@
     "CITY": "WAYANAD",
     "CENTRE": "WAYANAD",
     "DISTRICT": "WAYANAD",
+    "CITY1": "WAYANAD",
+    "CITY2": "WAYANAD",
+    "PHONE": "204309",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4959,6 +5829,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2712377",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4976,6 +5849,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "222053",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -4993,6 +5869,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2761540",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5010,6 +5889,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "229660",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5027,6 +5909,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2341303",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5044,6 +5929,9 @@
     "CITY": "TRIVANDRUM",
     "CENTRE": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
+    "CITY1": "TRIVANDRUM",
+    "CITY2": "TRIVANDRUM",
+    "PHONE": "2434303",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5061,6 +5949,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "2446826",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5078,6 +5969,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2484241",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5095,6 +5989,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2820733",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5112,6 +6009,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "240550",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5129,6 +6029,9 @@
     "CITY": "WAYANAD",
     "CENTRE": "WAYANAD",
     "DISTRICT": "WAYANAD",
+    "CITY1": "WAYANAD",
+    "CITY2": "WAYANAD",
+    "PHONE": "250441",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5146,6 +6049,9 @@
     "CITY": "WAYANAD",
     "CENTRE": "WAYANAD",
     "DISTRICT": "WAYANAD",
+    "CITY1": "WAYANAD",
+    "CITY2": "WAYANAD",
+    "PHONE": "260070",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5163,6 +6069,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "2241348",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5180,6 +6089,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2308572",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5197,6 +6109,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "222548",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5214,6 +6129,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "280520",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5231,6 +6149,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2218666",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5248,6 +6169,9 @@
     "CITY": "WAYANAD",
     "CENTRE": "WAYANAD",
     "DISTRICT": "WAYANAD",
+    "CITY1": "WAYANAD",
+    "CITY2": "WAYANAD",
+    "PHONE": "230331",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5265,6 +6189,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "233457",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5282,6 +6209,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "260206",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5299,6 +6229,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "2211250",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5316,6 +6249,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "245205",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5333,6 +6269,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "2228370",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5350,6 +6289,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "245224",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5367,6 +6309,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2210143",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5384,6 +6329,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "212225",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5401,6 +6349,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "200210",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5418,6 +6369,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2842087",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5435,6 +6389,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2704341",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5452,6 +6409,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2800210",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5469,6 +6429,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2857949",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5486,6 +6449,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2457930",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5503,6 +6469,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2454566",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5520,6 +6489,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "2250345",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5537,6 +6509,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2393055",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5554,6 +6529,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "280283",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5571,6 +6549,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2216029",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5588,6 +6569,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2731456",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5605,6 +6589,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "2256110",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5622,6 +6609,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "2258358",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5639,6 +6629,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2302412",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5656,6 +6649,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "2247470",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5673,6 +6669,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "2260260",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5690,6 +6689,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "2243680",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5707,6 +6709,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "2254202",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5724,6 +6729,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2382739",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5741,6 +6749,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2304403",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5758,6 +6769,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2412047",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5775,6 +6789,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "2234050",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5792,6 +6809,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2420757",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5809,6 +6829,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2477727",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5826,6 +6849,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2707544",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5843,6 +6869,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2462095",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5860,6 +6889,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2270244",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5877,6 +6909,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2286721",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5894,6 +6929,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "252122",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5911,6 +6949,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2454503",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5928,6 +6969,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "270156",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5945,6 +6989,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2203375",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5962,6 +7009,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "251110",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5979,6 +7029,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "237305",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -5996,6 +7049,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2356131",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6013,6 +7069,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2816395",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6030,6 +7089,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "2267557",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6047,6 +7109,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "205448",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6064,6 +7129,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "278871",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6081,6 +7149,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2306141",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6098,6 +7169,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2245579",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6115,6 +7189,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "240073",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6132,6 +7209,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2444773",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6149,6 +7229,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "209804",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6166,6 +7249,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2268434",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6183,6 +7269,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2267273",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6200,6 +7289,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2362011",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6217,6 +7309,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2433842",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6234,6 +7329,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "2236618",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6251,6 +7349,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "205110",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6268,6 +7369,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "231941",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6285,6 +7389,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2322790",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6302,6 +7409,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "250104",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6319,6 +7429,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2870660",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6336,6 +7449,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "240456",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6353,6 +7469,9 @@
     "CITY": "WAYANAD",
     "CENTRE": "WAYANAD",
     "DISTRICT": "WAYANAD",
+    "CITY1": "WAYANAD",
+    "CITY2": "WAYANAD",
+    "PHONE": "246547",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6370,6 +7489,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2851733",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6387,6 +7509,9 @@
     "CITY": "WAYANAD",
     "CENTRE": "WAYANAD",
     "DISTRICT": "WAYANAD",
+    "CITY1": "WAYANAD",
+    "CITY2": "WAYANAD",
+    "PHONE": "256306",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6404,6 +7529,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2796750",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6421,6 +7549,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2300530",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6438,6 +7569,9 @@
     "CITY": "WAYANAD",
     "CENTRE": "WAYANAD",
     "DISTRICT": "WAYANAD",
+    "CITY1": "WAYANAD",
+    "CITY2": "WAYANAD",
+    "PHONE": "241781",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6455,6 +7589,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2362461",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6472,6 +7609,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "202180",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6489,6 +7629,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2273011",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6506,6 +7649,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "205738",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6523,6 +7669,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2285292",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6540,6 +7689,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2491469",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6557,6 +7709,9 @@
     "CITY": "WAYANAD",
     "CENTRE": "WAYANAD",
     "DISTRICT": "WAYANAD",
+    "CITY1": "WAYANAD",
+    "CITY2": "WAYANAD",
+    "PHONE": "244151",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6574,6 +7729,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2430860",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6591,6 +7749,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "229101",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6608,6 +7769,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2426160",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6625,6 +7789,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "2227360",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6642,6 +7809,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2203254",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6659,6 +7829,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2805676",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6676,6 +7849,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2212397",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6693,6 +7869,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2311010",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6710,6 +7889,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2311940",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6727,6 +7909,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2400530",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6744,6 +7929,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2827328",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6761,6 +7949,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "240984",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6778,6 +7969,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2727905",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6795,6 +7989,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2832921",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6812,6 +8009,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2707604",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6829,6 +8029,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "2203065",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6846,6 +8049,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2712377",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6863,6 +8069,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "266120",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6880,6 +8089,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2286380",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6897,6 +8109,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2224674",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6914,6 +8129,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "270303",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6931,6 +8149,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "266110",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6948,6 +8169,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "2242270",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6965,6 +8189,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "260469",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6982,6 +8209,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2776264",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -6999,6 +8229,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2405362",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7016,6 +8249,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "280932",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7033,6 +8269,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "2281370",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7050,6 +8289,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "213272",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7067,6 +8309,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "2280905",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7084,6 +8329,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "210303",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7101,6 +8349,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "212215",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7118,6 +8369,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2231268",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7135,6 +8389,9 @@
     "CITY": "WAYANAD",
     "CENTRE": "WAYANAD",
     "DISTRICT": "WAYANAD",
+    "CITY1": "WAYANAD",
+    "CITY2": "WAYANAD",
+    "PHONE": "266047",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7152,6 +8409,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2472125",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7169,6 +8429,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "273050",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7186,6 +8449,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2228560",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7203,6 +8469,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "255152",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7220,6 +8489,9 @@
     "CITY": "WAYANAD",
     "CENTRE": "WAYANAD",
     "DISTRICT": "WAYANAD",
+    "CITY1": "WAYANAD",
+    "CITY2": "WAYANAD",
+    "PHONE": "220975",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7237,6 +8509,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2337494",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7254,6 +8529,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "241975",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7271,6 +8549,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2787320",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7288,6 +8569,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "2215190",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7305,6 +8589,9 @@
     "CITY": "ERNAKULAM",
     "CENTRE": "ERNAKULAM",
     "DISTRICT": "ERNAKULAM",
+    "CITY1": "ERNAKULAM",
+    "CITY2": "ERNAKULAM",
+    "PHONE": "2375217",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7322,6 +8609,9 @@
     "CITY": "ERNAKULAM",
     "CENTRE": "ERNAKULAM",
     "DISTRICT": "ERNAKULAM",
+    "CITY1": "ERNAKULAM",
+    "CITY2": "ERNAKULAM",
+    "PHONE": "2836777",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7339,6 +8629,9 @@
     "CITY": "KOTTAYAM",
     "CENTRE": "KOTTAYAM",
     "DISTRICT": "KOTTAYAM",
+    "CITY1": "KOTTAYAM",
+    "CITY2": "KOTTAYAM",
+    "PHONE": "2200833",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7356,6 +8649,9 @@
     "CITY": "KOTTAYAM",
     "CENTRE": "KOTTAYAM",
     "DISTRICT": "KOTTAYAM",
+    "CITY1": "KOTTAYAM",
+    "CITY2": "KOTTAYAM",
+    "PHONE": "2530538",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7373,6 +8669,9 @@
     "CITY": "KOTTAYAM",
     "CENTRE": "KOTTAYAM",
     "DISTRICT": "KOTTAYAM",
+    "CITY1": "KOTTAYAM",
+    "CITY2": "KOTTAYAM",
+    "PHONE": "570194",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7390,6 +8689,9 @@
     "CITY": "ERNAKULAM",
     "CENTRE": "ERNAKULAM",
     "DISTRICT": "ERNAKULAM",
+    "CITY1": "ERNAKULAM",
+    "CITY2": "ERNAKULAM",
+    "PHONE": "539191",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7407,6 +8709,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2365399",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7424,6 +8729,9 @@
     "CITY": "ERNAKULAM",
     "CENTRE": "ERNAKULAM",
     "DISTRICT": "ERNAKULAM",
+    "CITY1": "ERNAKULAM",
+    "CITY2": "ERNAKULAM",
+    "PHONE": "2459610",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7441,6 +8749,9 @@
     "CITY": "ERNAKULAM",
     "CENTRE": "ERNAKULAM",
     "DISTRICT": "ERNAKULAM",
+    "CITY1": "ERNAKULAM",
+    "CITY2": "ERNAKULAM",
+    "PHONE": "2620825",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7458,6 +8769,9 @@
     "CITY": "KOTTAYAM",
     "CENTRE": "KOTTAYAM",
     "DISTRICT": "KOTTAYAM",
+    "CITY1": "KOTTAYAM",
+    "CITY2": "KOTTAYAM",
+    "PHONE": "237766",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7475,6 +8789,9 @@
     "CITY": "KOTTAYAM",
     "CENTRE": "KOTTAYAM",
     "DISTRICT": "KOTTAYAM",
+    "CITY1": "KOTTAYAM",
+    "CITY2": "KOTTAYAM",
+    "PHONE": "2508966",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7492,6 +8809,9 @@
     "CITY": "ERNAKULAM",
     "CENTRE": "ERNAKULAM",
     "DISTRICT": "ERNAKULAM",
+    "CITY1": "ERNAKULAM",
+    "CITY2": "ERNAKULAM",
+    "PHONE": "2253703",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7509,6 +8829,9 @@
     "CITY": "KOTTAYAM",
     "CENTRE": "KOTTAYAM",
     "DISTRICT": "KOTTAYAM",
+    "CITY1": "KOTTAYAM",
+    "CITY2": "KOTTAYAM",
+    "PHONE": "273264",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7526,6 +8849,9 @@
     "CITY": "KOTTAYAM",
     "CENTRE": "KOTTAYAM",
     "DISTRICT": "KOTTAYAM",
+    "CITY1": "KOTTAYAM",
+    "CITY2": "KOTTAYAM",
+    "PHONE": "277263",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7543,6 +8869,9 @@
     "CITY": "KOTTAYAM",
     "CENTRE": "KOTTAYAM",
     "DISTRICT": "KOTTAYAM",
+    "CITY1": "KOTTAYAM",
+    "CITY2": "KOTTAYAM",
+    "PHONE": "203757",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7560,6 +8889,9 @@
     "CITY": "ERNAKULAM",
     "CENTRE": "ERNAKULAM",
     "DISTRICT": "ERNAKULAM",
+    "CITY1": "ERNAKULAM",
+    "CITY2": "ERNAKULAM",
+    "PHONE": "2823430",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7577,6 +8909,9 @@
     "CITY": "ERNAKULAM",
     "CENTRE": "ERNAKULAM",
     "DISTRICT": "ERNAKULAM",
+    "CITY1": "ERNAKULAM",
+    "CITY2": "ERNAKULAM",
+    "PHONE": "2441410",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7594,6 +8929,9 @@
     "CITY": "ERNAKULAM",
     "CENTRE": "ERNAKULAM",
     "DISTRICT": "ERNAKULAM",
+    "CITY1": "ERNAKULAM",
+    "CITY2": "ERNAKULAM",
+    "PHONE": "2743851",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7611,6 +8949,9 @@
     "CITY": "ERNAKULAM",
     "CENTRE": "ERNAKULAM",
     "DISTRICT": "ERNAKULAM",
+    "CITY1": "ERNAKULAM",
+    "CITY2": "ERNAKULAM",
+    "PHONE": "2241880",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7628,6 +8969,9 @@
     "CITY": "ERNAKULAM",
     "CENTRE": "ERNAKULAM",
     "DISTRICT": "ERNAKULAM",
+    "CITY1": "ERNAKULAM",
+    "CITY2": "ERNAKULAM",
+    "PHONE": "2785547",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7645,6 +8989,9 @@
     "CITY": "ERNAKULAM",
     "CENTRE": "ERNAKULAM",
     "DISTRICT": "ERNAKULAM",
+    "CITY1": "ERNAKULAM",
+    "CITY2": "ERNAKULAM",
+    "PHONE": "2590828",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7662,6 +9009,9 @@
     "CITY": "ALAPPUZHA",
     "CENTRE": "ALAPPUZHA",
     "DISTRICT": "ALAPPUZHA",
+    "CITY1": "ALAPPUZHA",
+    "CITY2": "ALAPPUZHA",
+    "PHONE": "237557",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7679,6 +9029,9 @@
     "CITY": "ALAPPUZHA",
     "CENTRE": "ALAPPUZHA",
     "DISTRICT": "ALAPPUZHA",
+    "CITY1": "ALAPPUZHA",
+    "CITY2": "ALAPPUZHA",
+    "PHONE": "2697372",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7696,6 +9049,9 @@
     "CITY": "ALAPPUZHA",
     "CENTRE": "ALAPPUZHA",
     "DISTRICT": "ALAPPUZHA",
+    "CITY1": "ALAPPUZHA",
+    "CITY2": "ALAPPUZHA",
+    "PHONE": "2334010",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7713,6 +9069,9 @@
     "CITY": "ALAPPUZHA",
     "CENTRE": "ALAPPUZHA",
     "DISTRICT": "ALAPPUZHA",
+    "CITY1": "ALAPPUZHA",
+    "CITY2": "ALAPPUZHA",
+    "PHONE": "2340755",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7730,6 +9089,9 @@
     "CITY": "ALAPPUZHA",
     "CENTRE": "ALAPPUZHA",
     "DISTRICT": "ALAPPUZHA",
+    "CITY1": "ALAPPUZHA",
+    "CITY2": "ALAPPUZHA",
+    "PHONE": "2313755",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7747,6 +9109,9 @@
     "CITY": "ALAPPUZHA",
     "CENTRE": "ALAPPUZHA",
     "DISTRICT": "ALAPPUZHA",
+    "CITY1": "ALAPPUZHA",
+    "CITY2": "ALAPPUZHA",
+    "PHONE": "2816254",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7764,6 +9129,9 @@
     "CITY": "ALAPPUZHA",
     "CENTRE": "ALAPPUZHA",
     "DISTRICT": "ALAPPUZHA",
+    "CITY1": "ALAPPUZHA",
+    "CITY2": "ALAPPUZHA",
+    "PHONE": "2429400",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7781,6 +9149,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2748550",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7798,6 +9169,9 @@
     "CITY": "ERNAKULAM",
     "CENTRE": "ERNAKULAM",
     "DISTRICT": "ERNAKULAM",
+    "CITY1": "ERNAKULAM",
+    "CITY2": "ERNAKULAM",
+    "PHONE": "2425734",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7815,6 +9189,9 @@
     "CITY": "KOTTAYAM",
     "CENTRE": "KOTTAYAM",
     "DISTRICT": "KOTTAYAM",
+    "CITY1": "KOTTAYAM",
+    "CITY2": "KOTTAYAM",
+    "PHONE": "243170",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7832,6 +9209,9 @@
     "CITY": "KOLLAM",
     "CENTRE": "KOLLAM",
     "DISTRICT": "KOLLAM",
+    "CITY1": "KOLLAM",
+    "CITY2": "KOLLAM",
+    "PHONE": "2764212",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7849,6 +9229,9 @@
     "CITY": "KOLLAM",
     "CENTRE": "KOLLAM",
     "DISTRICT": "KOLLAM",
+    "CITY1": "KOLLAM",
+    "CITY2": "KOLLAM",
+    "PHONE": "2270445",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7866,6 +9249,9 @@
     "CITY": "KOLLAM",
     "CENTRE": "KOLLAM",
     "DISTRICT": "KOLLAM",
+    "CITY1": "KOLLAM",
+    "CITY2": "KOLLAM",
+    "PHONE": "2626252",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7883,6 +9269,9 @@
     "CITY": "ERNAKULAM",
     "CENTRE": "ERNAKULAM",
     "DISTRICT": "ERNAKULAM",
+    "CITY1": "ERNAKULAM",
+    "CITY2": "ERNAKULAM",
+    "PHONE": "2765983",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7900,6 +9289,9 @@
     "CITY": "ERNAKULAM",
     "CENTRE": "ERNAKULAM",
     "DISTRICT": "ERNAKULAM",
+    "CITY1": "ERNAKULAM",
+    "CITY2": "ERNAKULAM",
+    "PHONE": "2530701",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7917,6 +9309,9 @@
     "CITY": "KOTTAYAM",
     "CENTRE": "KOTTAYAM",
     "DISTRICT": "KOTTAYAM",
+    "CITY1": "KOTTAYAM",
+    "CITY2": "KOTTAYAM",
+    "PHONE": "2422798",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7934,6 +9329,9 @@
     "CITY": "KOTTAYAM",
     "CENTRE": "KOTTAYAM",
     "DISTRICT": "KOTTAYAM",
+    "CITY1": "KOTTAYAM",
+    "CITY2": "KOTTAYAM",
+    "PHONE": "262727",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7951,6 +9349,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2392600",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7968,6 +9369,9 @@
     "CITY": "KOLLAM",
     "CENTRE": "KOLLAM",
     "DISTRICT": "KOLLAM",
+    "CITY1": "KOLLAM",
+    "CITY2": "KOLLAM",
+    "PHONE": "2595222",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -7985,6 +9389,9 @@
     "CITY": "KOLLAM",
     "CENTRE": "KOLLAM",
     "DISTRICT": "KOLLAM",
+    "CITY1": "KOLLAM",
+    "CITY2": "KOLLAM",
+    "PHONE": "2453334",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8002,6 +9409,9 @@
     "CITY": "KOLLAM",
     "CENTRE": "KOLLAM",
     "DISTRICT": "KOLLAM",
+    "CITY1": "KOLLAM",
+    "CITY2": "KOLLAM",
+    "PHONE": "2514605",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8019,6 +9429,9 @@
     "CITY": "KOLLAM",
     "CENTRE": "KOLLAM",
     "DISTRICT": "KOLLAM",
+    "CITY1": "KOLLAM",
+    "CITY2": "KOLLAM",
+    "PHONE": "2581122",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8036,6 +9449,9 @@
     "CITY": "ERNAKULAM",
     "CENTRE": "ERNAKULAM",
     "DISTRICT": "ERNAKULAM",
+    "CITY1": "ERNAKULAM",
+    "CITY2": "ERNAKULAM",
+    "PHONE": "2205353",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8053,6 +9469,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2708277",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8070,6 +9489,9 @@
     "CITY": "KOLLAM",
     "CENTRE": "KOLLAM",
     "DISTRICT": "KOLLAM",
+    "CITY1": "KOLLAM",
+    "CITY2": "KOLLAM",
+    "PHONE": "2534500",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8087,6 +9509,9 @@
     "CITY": "KOLLAM",
     "CENTRE": "KOLLAM",
     "DISTRICT": "KOLLAM",
+    "CITY1": "KOLLAM",
+    "CITY2": "KOLLAM",
+    "PHONE": "2229760",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8104,6 +9529,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2443228",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8121,6 +9549,9 @@
     "CITY": "KOTTAYAM",
     "CENTRE": "KOTTAYAM",
     "DISTRICT": "KOTTAYAM",
+    "CITY1": "KOTTAYAM",
+    "CITY2": "KOTTAYAM",
+    "PHONE": "248751",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8138,6 +9569,9 @@
     "CITY": "KOTTAYAM",
     "CENTRE": "KOTTAYAM",
     "DISTRICT": "KOTTAYAM",
+    "CITY1": "KOTTAYAM",
+    "CITY2": "KOTTAYAM",
+    "PHONE": "2553051",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8155,6 +9589,9 @@
     "CITY": "ALAPPUZHA",
     "CENTRE": "ALAPPUZHA",
     "DISTRICT": "ALAPPUZHA",
+    "CITY1": "ALAPPUZHA",
+    "CITY2": "ALAPPUZHA",
+    "PHONE": "2353955",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8172,6 +9609,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "225999",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8189,6 +9629,9 @@
     "CITY": "KOTTAYAM",
     "CENTRE": "KOTTAYAM",
     "DISTRICT": "KOTTAYAM",
+    "CITY1": "KOTTAYAM",
+    "CITY2": "KOTTAYAM",
+    "PHONE": "2488543",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8206,6 +9649,9 @@
     "CITY": "KOLLAM",
     "CENTRE": "KOLLAM",
     "DISTRICT": "KOLLAM",
+    "CITY1": "KOLLAM",
+    "CITY2": "KOLLAM",
+    "PHONE": "2352066",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8223,6 +9669,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2862862",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8240,6 +9689,9 @@
     "CITY": "ALAPPUZHA",
     "CENTRE": "ALAPPUZHA",
     "DISTRICT": "ALAPPUZHA",
+    "CITY1": "ALAPPUZHA",
+    "CITY2": "ALAPPUZHA",
+    "PHONE": "2388332",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8257,6 +9709,9 @@
     "CITY": "ALAPPUZHA",
     "CENTRE": "ALAPPUZHA",
     "DISTRICT": "ALAPPUZHA",
+    "CITY1": "ALAPPUZHA",
+    "CITY2": "ALAPPUZHA",
+    "PHONE": "2410561",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8274,6 +9729,9 @@
     "CITY": "KOLLAM",
     "CENTRE": "KOLLAM",
     "DISTRICT": "KOLLAM",
+    "CITY1": "KOLLAM",
+    "CITY2": "KOLLAM",
+    "PHONE": "2292606",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8291,6 +9749,9 @@
     "CITY": "KOTTAYAM",
     "CENTRE": "KOTTAYAM",
     "DISTRICT": "KOTTAYAM",
+    "CITY1": "KOTTAYAM",
+    "CITY2": "KOTTAYAM",
+    "PHONE": "252976",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8308,6 +9769,9 @@
     "CITY": "KOTTAYAM",
     "CENTRE": "KOTTAYAM",
     "DISTRICT": "KOTTAYAM",
+    "CITY1": "KOTTAYAM",
+    "CITY2": "KOTTAYAM",
+    "PHONE": "288549",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8325,6 +9789,9 @@
     "CITY": "KOTTAYAM",
     "CENTRE": "KOTTAYAM",
     "DISTRICT": "KOTTAYAM",
+    "CITY1": "KOTTAYAM",
+    "CITY2": "KOTTAYAM",
+    "PHONE": "2373192",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8342,6 +9809,9 @@
     "CITY": "KOTTAYAM",
     "CENTRE": "KOTTAYAM",
     "DISTRICT": "KOTTAYAM",
+    "CITY1": "KOTTAYAM",
+    "CITY2": "KOTTAYAM",
+    "PHONE": "256725",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8359,6 +9829,9 @@
     "CITY": "ERNAKULAM",
     "CENTRE": "ERNAKULAM",
     "DISTRICT": "ERNAKULAM",
+    "CITY1": "ERNAKULAM",
+    "CITY2": "ERNAKULAM",
+    "PHONE": "2263128",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8376,6 +9849,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "2222300",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8393,6 +9869,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "260009",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8410,6 +9889,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2330422",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8427,6 +9909,9 @@
     "CITY": "KOLLAM",
     "CENTRE": "KOLLAM",
     "DISTRICT": "KOLLAM",
+    "CITY1": "KOLLAM",
+    "CITY2": "KOLLAM",
+    "PHONE": "2317002",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8444,6 +9929,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "240040",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8461,6 +9949,9 @@
     "CITY": "KOTTAYAM",
     "CENTRE": "KOTTAYAM",
     "DISTRICT": "KOTTAYAM",
+    "CITY1": "KOTTAYAM",
+    "CITY2": "KOTTAYAM",
+    "PHONE": "240210",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8478,6 +9969,9 @@
     "CITY": "KOTTAYAM",
     "CENTRE": "KOTTAYAM",
     "DISTRICT": "KOTTAYAM",
+    "CITY1": "KOTTAYAM",
+    "CITY2": "KOTTAYAM",
+    "PHONE": "213201",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8495,6 +9989,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2310065",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8512,6 +10009,9 @@
     "CITY": "ERNAKULAM",
     "CENTRE": "ERNAKULAM",
     "DISTRICT": "ERNAKULAM",
+    "CITY1": "ERNAKULAM",
+    "CITY2": "ERNAKULAM",
+    "PHONE": "2686203",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8529,6 +10029,9 @@
     "CITY": "ERNAKULAM",
     "CENTRE": "ERNAKULAM",
     "DISTRICT": "ERNAKULAM",
+    "CITY1": "ERNAKULAM",
+    "CITY2": "ERNAKULAM",
+    "PHONE": "2786209",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8546,6 +10049,9 @@
     "CITY": "ERNAKULAM",
     "CENTRE": "ERNAKULAM",
     "DISTRICT": "ERNAKULAM",
+    "CITY1": "ERNAKULAM",
+    "CITY2": "ERNAKULAM",
+    "PHONE": "2690790",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8563,6 +10069,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "272322",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8580,6 +10089,9 @@
     "CITY": "ERNAKULAM",
     "CENTRE": "ERNAKULAM",
     "DISTRICT": "ERNAKULAM",
+    "CITY1": "ERNAKULAM",
+    "CITY2": "ERNAKULAM",
+    "PHONE": "2244099",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8597,6 +10109,9 @@
     "CITY": "ERNAKULAM",
     "CENTRE": "ERNAKULAM",
     "DISTRICT": "ERNAKULAM",
+    "CITY1": "ERNAKULAM",
+    "CITY2": "ERNAKULAM",
+    "PHONE": "2257322",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8614,6 +10129,9 @@
     "CITY": "KOLLAM",
     "CENTRE": "KOLLAM",
     "DISTRICT": "KOLLAM",
+    "CITY1": "KOLLAM",
+    "CITY2": "KOLLAM",
+    "PHONE": "2398788",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8631,6 +10149,9 @@
     "CITY": "KOTTAYAM",
     "CENTRE": "KOTTAYAM",
     "DISTRICT": "KOTTAYAM",
+    "CITY1": "KOTTAYAM",
+    "CITY2": "KOTTAYAM",
+    "PHONE": "225080",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8648,6 +10169,9 @@
     "CITY": "ERNAKULAM",
     "CENTRE": "ERNAKULAM",
     "DISTRICT": "ERNAKULAM",
+    "CITY1": "ERNAKULAM",
+    "CITY2": "ERNAKULAM",
+    "PHONE": "2563555",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8665,6 +10189,9 @@
     "CITY": "ERNAKULAM",
     "CENTRE": "ERNAKULAM",
     "DISTRICT": "ERNAKULAM",
+    "CITY1": "ERNAKULAM",
+    "CITY2": "ERNAKULAM",
+    "PHONE": "2236088",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8682,6 +10209,9 @@
     "CITY": "KOTTAYAM",
     "CENTRE": "KOTTAYAM",
     "DISTRICT": "KOTTAYAM",
+    "CITY1": "KOTTAYAM",
+    "CITY2": "KOTTAYAM",
+    "PHONE": "2460214",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8699,6 +10229,9 @@
     "CITY": "KOLLAM",
     "CENTRE": "KOLLAM",
     "DISTRICT": "KOLLAM",
+    "CITY1": "KOLLAM",
+    "CITY2": "KOLLAM",
+    "PHONE": "2501735",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8716,6 +10249,9 @@
     "CITY": "KOLLAM",
     "CENTRE": "KOLLAM",
     "DISTRICT": "KOLLAM",
+    "CITY1": "KOLLAM",
+    "CITY2": "KOLLAM",
+    "PHONE": "2325522",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8733,6 +10269,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "284217",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8750,6 +10289,9 @@
     "CITY": "KOTTAYAM",
     "CENTRE": "KOTTAYAM",
     "DISTRICT": "KOTTAYAM",
+    "CITY1": "KOTTAYAM",
+    "CITY2": "KOTTAYAM",
+    "PHONE": "246440",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8767,6 +10309,9 @@
     "CITY": "ERNAKULAM",
     "CENTRE": "ERNAKULAM",
     "DISTRICT": "ERNAKULAM",
+    "CITY1": "ERNAKULAM",
+    "CITY2": "ERNAKULAM",
+    "PHONE": "2485234",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8784,6 +10329,9 @@
     "CITY": "KOLLAM",
     "CENTRE": "KOLLAM",
     "DISTRICT": "KOLLAM",
+    "CITY1": "KOLLAM",
+    "CITY2": "KOLLAM",
+    "PHONE": "2416299",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8801,6 +10349,9 @@
     "CITY": "KOLLAM",
     "CENTRE": "KOLLAM",
     "DISTRICT": "KOLLAM",
+    "CITY1": "KOLLAM",
+    "CITY2": "KOLLAM",
+    "PHONE": "2425221",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8818,6 +10369,9 @@
     "CITY": "KOLLAM",
     "CENTRE": "KOLLAM",
     "DISTRICT": "KOLLAM",
+    "CITY1": "KOLLAM",
+    "CITY2": "KOLLAM",
+    "PHONE": "2700268",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8835,6 +10389,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "285000",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8852,6 +10409,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2727100",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8869,6 +10429,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "277265",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8886,6 +10449,9 @@
     "CITY": "ERNAKULAM",
     "CENTRE": "ERNAKULAM",
     "DISTRICT": "ERNAKULAM",
+    "CITY1": "ERNAKULAM",
+    "CITY2": "ERNAKULAM",
+    "PHONE": "219626",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8903,6 +10469,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2481884",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8920,6 +10489,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "2210230",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8937,6 +10509,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "2285230",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8954,6 +10529,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "210050",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8971,6 +10549,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2430040",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -8988,6 +10569,9 @@
     "CITY": "KOTTAYAM",
     "CENTRE": "KOTTAYAM",
     "DISTRICT": "KOTTAYAM",
+    "CITY1": "KOTTAYAM",
+    "CITY2": "KOTTAYAM",
+    "PHONE": "2562166",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9005,6 +10589,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "2640080",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9022,6 +10609,9 @@
     "CITY": "ERNAKULAM",
     "CENTRE": "ERNAKULAM",
     "DISTRICT": "ERNAKULAM",
+    "CITY1": "ERNAKULAM",
+    "CITY2": "ERNAKULAM",
+    "PHONE": "2575399",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9039,6 +10629,9 @@
     "CITY": "ALAPPUZHA",
     "CENTRE": "ALAPPUZHA",
     "DISTRICT": "ALAPPUZHA",
+    "CITY1": "ALAPPUZHA",
+    "CITY2": "ALAPPUZHA",
+    "PHONE": "2418155",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9056,6 +10649,9 @@
     "CITY": "ALAPPUZHA",
     "CENTRE": "ALAPPUZHA",
     "DISTRICT": "ALAPPUZHA",
+    "CITY1": "ALAPPUZHA",
+    "CITY2": "ALAPPUZHA",
+    "PHONE": "2444212",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9073,6 +10669,9 @@
     "CITY": "TRIVANDRUM",
     "CENTRE": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
+    "CITY1": "TRIVANDRUM",
+    "CITY2": "TRIVANDRUM",
+    "PHONE": "2599696",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9090,6 +10689,9 @@
     "CITY": "TRIVANDRUM",
     "CENTRE": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
+    "CITY1": "TRIVANDRUM",
+    "CITY2": "TRIVANDRUM",
+    "PHONE": "2404480",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9107,6 +10709,9 @@
     "CITY": "KOLLAM",
     "CENTRE": "KOLLAM",
     "DISTRICT": "KOLLAM",
+    "CITY1": "KOLLAM",
+    "CITY2": "KOLLAM",
+    "PHONE": "2833552",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9124,6 +10729,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "2872434",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9141,6 +10749,9 @@
     "CITY": "TRIVANDRUM",
     "CENTRE": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
+    "CITY1": "TRIVANDRUM",
+    "CITY2": "TRIVANDRUM",
+    "PHONE": "2534399",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9158,6 +10769,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2855515",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9175,6 +10789,9 @@
     "CITY": "ALAPPUZHA",
     "CENTRE": "ALAPPUZHA",
     "DISTRICT": "ALAPPUZHA",
+    "CITY1": "ALAPPUZHA",
+    "CITY2": "ALAPPUZHA",
+    "PHONE": "2472242",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9192,6 +10809,9 @@
     "CITY": "ALAPPUZHA",
     "CENTRE": "ALAPPUZHA",
     "DISTRICT": "ALAPPUZHA",
+    "CITY1": "ALAPPUZHA",
+    "CITY2": "ALAPPUZHA",
+    "PHONE": "2702524",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9209,6 +10829,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2221230",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9226,6 +10849,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "239239",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9243,6 +10869,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2648080",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9260,6 +10889,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2699990",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9277,6 +10909,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2581800",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9294,6 +10929,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2631188",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9311,6 +10949,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2361455",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9328,6 +10969,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2495959",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9345,6 +10989,9 @@
     "CITY": "TRIVANDRUM",
     "CENTRE": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
+    "CITY1": "TRIVANDRUM",
+    "CITY2": "TRIVANDRUM",
+    "PHONE": "2712250",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9362,6 +11009,9 @@
     "CITY": "TRIVANDRUM",
     "CENTRE": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
+    "CITY1": "TRIVANDRUM",
+    "CITY2": "TRIVANDRUM",
+    "PHONE": "2364199",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9379,6 +11029,9 @@
     "CITY": "TRIVANDRUM",
     "CENTRE": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
+    "CITY1": "TRIVANDRUM",
+    "CITY2": "TRIVANDRUM",
+    "PHONE": "2587899",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9396,6 +11049,9 @@
     "CITY": "WAYANAD",
     "CENTRE": "WAYANAD",
     "DISTRICT": "WAYANAD",
+    "CITY1": "WAYANAD",
+    "CITY2": "WAYANAD",
+    "PHONE": "2598695",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9413,6 +11069,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2369966",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9430,6 +11089,9 @@
     "CITY": "MOOTHEDAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MOOTHEDAM",
+    "PHONE": "276999",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9447,6 +11109,9 @@
     "CITY": "KOTTAYAM",
     "CENTRE": "KOTTAYAM",
     "DISTRICT": "KOTTAYAM",
+    "CITY1": "KOTTAYAM",
+    "CITY2": "KOTTAYAM",
+    "PHONE": "2598695",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9464,6 +11129,9 @@
     "CITY": "KOTTAYAM",
     "CENTRE": "KOTTAYAM",
     "DISTRICT": "KOTTAYAM",
+    "CITY1": "KOTTAYAM",
+    "CITY2": "KOTTAYAM",
+    "PHONE": "2598690",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9481,6 +11149,9 @@
     "CITY": "KASARAGOD",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "KASARAGOD",
+    "PHONE": "2262345",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9498,6 +11169,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2433533",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9515,6 +11189,9 @@
     "CITY": "KASARGOD",
     "CENTRE": "KASARGOD",
     "DISTRICT": "KASARGOD",
+    "CITY1": "KASARGOD",
+    "CITY2": "KASARGOD",
+    "PHONE": "704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9532,6 +11209,9 @@
     "CITY": "PALAKKAD",
     "CENTRE": "PALAKKAD",
     "DISTRICT": "PALAKKAD",
+    "CITY1": "PALAKKAD",
+    "CITY2": "PALAKKAD",
+    "PHONE": "704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9549,6 +11229,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9566,6 +11249,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9583,6 +11269,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9600,6 +11289,9 @@
     "CITY": "ERATTUPETTA",
     "CENTRE": "KOTTAYAM",
     "DISTRICT": "KOTTAYAM",
+    "CITY1": "KOTTAYAM",
+    "CITY2": "ERATTUPETTA",
+    "PHONE": "704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9617,6 +11309,9 @@
     "CITY": "THALASSERY",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "THALASSERY",
+    "PHONE": "704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9634,6 +11329,9 @@
     "CITY": "ERNAKULAM",
     "CENTRE": "ERNAKULAM",
     "DISTRICT": "ERNAKULAM",
+    "CITY1": "ERNAKULAM",
+    "CITY2": "ERNAKULAM",
+    "PHONE": "704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9651,6 +11349,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9668,6 +11369,9 @@
     "CITY": "IDUKKI",
     "CENTRE": "IDUKKI",
     "DISTRICT": "IDUKKI",
+    "CITY1": "IDUKKI",
+    "CITY2": "IDUKKI",
+    "PHONE": "704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9685,6 +11389,9 @@
     "CITY": "THIRUVANANTHAPURAM",
     "CENTRE": "THIRUVANANTHAPURAM",
     "DISTRICT": "THIRUVANANTHAPURAM",
+    "CITY1": "THIRUVANANTHAPURAM",
+    "CITY2": "THIRUVANANTHAPURAM",
+    "PHONE": "704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9702,6 +11409,9 @@
     "CITY": "ERNAKULAM",
     "CENTRE": "ERNAKULAM",
     "DISTRICT": "ERNAKULAM",
+    "CITY1": "ERNAKULAM",
+    "CITY2": "ERNAKULAM",
+    "PHONE": "704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9719,6 +11429,9 @@
     "CITY": "PATHANAMTHITTA",
     "CENTRE": "PATHANAMTHITTA",
     "DISTRICT": "PATHANAMTHITTA",
+    "CITY1": "PATHANAMTHITTA",
+    "CITY2": "PATHANAMTHITTA",
+    "PHONE": "704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9736,6 +11449,9 @@
     "CITY": "THIRUVANANTHAPURAM",
     "CENTRE": "THIRUVANANTHAPURAM",
     "DISTRICT": "THIRUVANANTHAPURAM",
+    "CITY1": "THIRUVANANTHAPURAM",
+    "CITY2": "THIRUVANANTHAPURAM",
+    "PHONE": "704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9753,6 +11469,9 @@
     "CITY": "KOLLAM",
     "CENTRE": "KOLLAM",
     "DISTRICT": "KOLLAM",
+    "CITY1": "KOLLAM",
+    "CITY2": "KOLLAM",
+    "PHONE": "704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9770,6 +11489,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9787,6 +11509,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9804,6 +11529,9 @@
     "CITY": "ERNAKULAM",
     "CENTRE": "ERNAKULAM",
     "DISTRICT": "ERNAKULAM",
+    "CITY1": "ERNAKULAM",
+    "CITY2": "ERNAKULAM",
+    "PHONE": "704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9821,6 +11549,9 @@
     "CITY": "ALAPPUZHA",
     "CENTRE": "ALAPPUZHA",
     "DISTRICT": "ALAPPUZHA",
+    "CITY1": "ALAPPUZHA",
+    "CITY2": "ALAPPUZHA",
+    "PHONE": "704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9838,6 +11569,9 @@
     "CITY": "THIRUVANANTHAPURAM",
     "CENTRE": "THIRUVANANTHAPURAM",
     "DISTRICT": "THIRUVANANTHAPURAM",
+    "CITY1": "THIRUVANANTHAPURAM",
+    "CITY2": "THIRUVANANTHAPURAM",
+    "PHONE": "704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9855,6 +11589,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9872,6 +11609,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9889,6 +11629,9 @@
     "CITY": "KOTTAYAM",
     "CENTRE": "KOTTAYAM",
     "DISTRICT": "KOTTAYAM",
+    "CITY1": "KOTTAYAM",
+    "CITY2": "KOTTAYAM",
+    "PHONE": "704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9906,6 +11649,9 @@
     "CITY": "KOTTAYAM",
     "CENTRE": "KOTTAYAM",
     "DISTRICT": "KOTTAYAM",
+    "CITY1": "KOTTAYAM",
+    "CITY2": "KOTTAYAM",
+    "PHONE": "2533555",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9923,6 +11669,9 @@
     "CITY": "MALAPPURAM",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "MALAPPURAM",
+    "PHONE": "2566767",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9940,6 +11689,9 @@
     "CITY": "PALAKKAD",
     "CENTRE": "PALAKKAD",
     "DISTRICT": "PALAKKAD",
+    "CITY1": "PALAKKAD",
+    "CITY2": "PALAKKAD",
+    "PHONE": "704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9957,6 +11709,9 @@
     "CITY": "PALAKKAD",
     "CENTRE": "PALAKKAD",
     "DISTRICT": "PALAKKAD",
+    "CITY1": "PALAKKAD",
+    "CITY2": "PALAKKAD",
+    "PHONE": "262689",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9974,6 +11729,9 @@
     "CITY": "KOTTAYAM",
     "CENTRE": "KOTTAYAM",
     "DISTRICT": "KOTTAYAM",
+    "CITY1": "KOTTAYAM",
+    "CITY2": "KOTTAYAM",
+    "PHONE": "703350",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -9991,6 +11749,9 @@
     "CITY": "KOTTAYAM",
     "CENTRE": "KOTTAYAM",
     "DISTRICT": "KOTTAYAM",
+    "CITY1": "KOTTAYAM",
+    "CITY2": "KOTTAYAM",
+    "PHONE": "2704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10008,6 +11769,9 @@
     "CITY": "KOTTAYAM",
     "CENTRE": "KOTTAYAM",
     "DISTRICT": "KOTTAYAM",
+    "CITY1": "KOTTAYAM",
+    "CITY2": "KOTTAYAM",
+    "PHONE": "455900",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10025,6 +11789,9 @@
     "CITY": "CHATTANCHAL",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "CHATTANCHAL",
+    "PHONE": "4282053",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10042,6 +11809,9 @@
     "CITY": "TRIVANDRUM",
     "CENTRE": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
+    "CITY1": "TRIVANDRUM",
+    "CITY2": "TRIVANDRUM",
+    "PHONE": "727694",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10059,6 +11829,9 @@
     "CITY": "THIRUVANANTHAPURAM",
     "CENTRE": "THIRUVANANTHAPURAM",
     "DISTRICT": "THIRUVANANTHAPURAM",
+    "CITY1": "THIRUVANANTHAPURAM",
+    "CITY2": "THIRUVANANTHAPURAM",
+    "PHONE": "2889900",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10076,6 +11849,9 @@
     "CITY": "KODUNTHIRAPULLY",
     "CENTRE": "PALAKKAD",
     "DISTRICT": "PALAKKAD",
+    "CITY1": "PALAKKAD",
+    "CITY2": "KODUNTHIRAPULLY",
+    "PHONE": "2508696",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10093,6 +11869,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2384303",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10110,6 +11889,9 @@
     "CITY": "ALAPPUZHA",
     "CENTRE": "ALAPPUZHA",
     "DISTRICT": "ALAPPUZHA",
+    "CITY1": "ALAPPUZHA",
+    "CITY2": "ALAPPUZHA",
+    "PHONE": "704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10127,6 +11909,9 @@
     "CITY": "ERNAKULAM",
     "CENTRE": "ERNAKULAM",
     "DISTRICT": "ERNAKULAM",
+    "CITY1": "ERNAKULAM",
+    "CITY2": "ERNAKULAM",
+    "PHONE": "704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10144,6 +11929,9 @@
     "CITY": "TRIVANDRUM",
     "CENTRE": "TRIVANDRUM",
     "DISTRICT": "TRIVANDRUM",
+    "CITY1": "TRIVANDRUM",
+    "CITY2": "TRIVANDRUM",
+    "PHONE": "704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10161,6 +11949,9 @@
     "CITY": "PAPPANAMCODE",
     "CENTRE": "THIRUVANANTHPURAM",
     "DISTRICT": "THIRUVANANTHPURAM",
+    "CITY1": "THIRUVANANTHPURAM",
+    "CITY2": "PAPPANAMCODE",
+    "PHONE": "2495701",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10178,6 +11969,9 @@
     "CITY": "ANANTHAVOOR",
     "CENTRE": "MALAPPURAM",
     "DISTRICT": "MALAPPURAM",
+    "CITY1": "MALAPPURAM",
+    "CITY2": "ANANTHAVOOR",
+    "PHONE": "9446631968",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10195,6 +11989,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2884999",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10212,6 +12009,9 @@
     "CITY": "PALAKKAD",
     "CENTRE": "PALAKKAD",
     "DISTRICT": "PALAKKAD",
+    "CITY1": "PALAKKAD",
+    "CITY2": "PALAKKAD",
+    "PHONE": "2370198",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10229,6 +12029,9 @@
     "CITY": "PALAKKAD",
     "CENTRE": "PALAKKAD",
     "DISTRICT": "PALAKKAD",
+    "CITY1": "PALAKKAD",
+    "CITY2": "PALAKKAD",
+    "PHONE": "2268705",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10246,6 +12049,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "4281800",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10263,6 +12069,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10280,6 +12089,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2485383",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10297,6 +12109,9 @@
     "CITY": "KILLIMANGALAM",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "KILLIMANGALAM",
+    "PHONE": "252393",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10314,6 +12129,9 @@
     "CITY": "MANALITHARA",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "MANALITHARA",
+    "PHONE": "9946394889",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10331,6 +12149,9 @@
     "CITY": "PULAKODE",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "PULAKODE",
+    "PHONE": "9947827950",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10348,6 +12169,9 @@
     "CITY": "AZHIKODE",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "AZHIKODE",
+    "PHONE": "9961114685",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10365,6 +12189,9 @@
     "CITY": "VALLIVATTOM",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "VALLIVATTOM",
+    "PHONE": "9846692411",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10382,6 +12209,9 @@
     "CITY": "IRAVON",
     "CENTRE": "PATHANAMTHITTA",
     "DISTRICT": "PATHANAMTHITTA",
+    "CITY1": "PATHANAMTHITTA",
+    "CITY2": "IRAVON",
+    "PHONE": "2242829",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10399,6 +12229,9 @@
     "CITY": "KANNAVAM",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNAVAM",
+    "PHONE": "9496423953",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10416,6 +12249,9 @@
     "CITY": "MAIRE",
     "CENTRE": "KASARAGOD",
     "DISTRICT": "KASARAGOD",
+    "CITY1": "KASARAGOD",
+    "CITY2": "MAIRE",
+    "PHONE": "9496832378",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10433,6 +12269,9 @@
     "CITY": "KALLIKKAD",
     "CENTRE": "THIRUVANANTHAPURAM",
     "DISTRICT": "THIRUVANANTHAPURAM",
+    "CITY1": "THIRUVANANTHAPURAM",
+    "CITY2": "KALLIKKAD",
+    "PHONE": "704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10450,6 +12289,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10467,6 +12309,9 @@
     "CITY": "KALPETTA",
     "CENTRE": "WAYANAD",
     "DISTRICT": "WAYANAD",
+    "CITY1": "WAYANAD",
+    "CITY2": "KALPETTA",
+    "PHONE": "2704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10484,6 +12329,9 @@
     "CITY": "ALUVA",
     "CENTRE": "ERNAKULAM",
     "DISTRICT": "ERNAKULAM",
+    "CITY1": "ERNAKULAM",
+    "CITY2": "ALUVA",
+    "PHONE": "2704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10501,6 +12349,9 @@
     "CITY": "KOZHIKKODE",
     "CENTRE": "KOZHIKKODE",
     "DISTRICT": "KOZHIKKODE",
+    "CITY1": "KOZHIKKODE",
+    "CITY2": "KOZHIKKODE",
+    "PHONE": "2270777",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10518,6 +12369,9 @@
     "CITY": "IDUKKI",
     "CENTRE": "IDUKKI",
     "DISTRICT": "IDUKKI",
+    "CITY1": "IDUKKI",
+    "CITY2": "IDUKKI",
+    "PHONE": "2704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10535,6 +12389,9 @@
     "CITY": "THALASSERY",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "THALASSERY",
+    "PHONE": "416723",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10552,6 +12409,9 @@
     "CITY": "NADUVIL",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "NADUVIL",
+    "PHONE": "2704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10569,6 +12429,9 @@
     "CITY": "IRIKKUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "IRIKKUR",
+    "PHONE": "2704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10586,6 +12449,9 @@
     "CITY": "THALAPPALLY",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THALAPPALLY",
+    "PHONE": "2704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10603,6 +12469,9 @@
     "CITY": "KOTTAYAM",
     "CENTRE": "KOTTAYAM",
     "DISTRICT": "KOTTAYAM",
+    "CITY1": "KOTTAYAM",
+    "CITY2": "KOTTAYAM",
+    "PHONE": "2704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10620,6 +12489,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "2704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10637,6 +12509,9 @@
     "CITY": "ALAPPUZHA",
     "CENTRE": "ALAPPUZHA",
     "DISTRICT": "ALAPPUZHA",
+    "CITY1": "ALAPPUZHA",
+    "CITY2": "ALAPPUZHA",
+    "PHONE": "2704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10654,6 +12529,9 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
+    "CITY1": "KANNUR",
+    "CITY2": "KANNUR",
+    "PHONE": "2704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10671,6 +12549,9 @@
     "CITY": "MANANTHAVADY",
     "CENTRE": "WAYANAD",
     "DISTRICT": "WAYANAD",
+    "CITY1": "WAYANAD",
+    "CITY2": "MANANTHAVADY",
+    "PHONE": "242434",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10688,6 +12569,9 @@
     "CITY": "KOCHUPALLY",
     "CENTRE": "THIRUVANANTHAPURAM",
     "DISTRICT": "THIRUVANANTHAPURAM",
+    "CITY1": "THIRUVANANTHAPURAM",
+    "CITY2": "KOCHUPALLY",
+    "PHONE": "2704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10705,6 +12589,9 @@
     "CITY": "KOZHIKODE",
     "CENTRE": "KOZHIKODE",
     "DISTRICT": "KOZHIKODE",
+    "CITY1": "KOZHIKODE",
+    "CITY2": "KOZHIKODE",
+    "PHONE": "2566767",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10722,6 +12609,9 @@
     "CITY": "KOTTAYAM",
     "CENTRE": "KOTTAYAM",
     "DISTRICT": "KOTTAYAM",
+    "CITY1": "KOTTAYAM",
+    "CITY2": "KOTTAYAM",
+    "PHONE": "2704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10739,6 +12629,9 @@
     "CITY": "ERNAKULAM",
     "CENTRE": "ERNAKULAM",
     "DISTRICT": "ERNAKULAM",
+    "CITY1": "ERNAKULAM",
+    "CITY2": "ERNAKULAM",
+    "PHONE": "704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10756,6 +12649,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "2566767",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10773,6 +12669,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "2566767",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10790,6 +12689,9 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
+    "CITY1": "THRISSUR",
+    "CITY2": "THRISSUR",
+    "PHONE": "2704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10807,6 +12709,9 @@
     "CITY": "PALAKKAD",
     "CENTRE": "PALAKKAD",
     "DISTRICT": "PALAKKAD",
+    "CITY1": "PALAKKAD",
+    "CITY2": "PALAKKAD",
+    "PHONE": "2566767",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10824,6 +12729,9 @@
     "CITY": "PATHANAMTHITTA",
     "CENTRE": "PATHANAMTHITTA",
     "DISTRICT": "PATHANAMTHITTA",
+    "CITY1": "PATHANAMTHITTA",
+    "CITY2": "PATHANAMTHITTA",
+    "PHONE": "2566767",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10841,6 +12749,9 @@
     "CITY": "KOTTAYAM",
     "CENTRE": "KOTTAYAM",
     "DISTRICT": "KOTTAYAM",
+    "CITY1": "KOTTAYAM",
+    "CITY2": "KOTTAYAM",
+    "PHONE": "2566767",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10858,6 +12769,9 @@
     "CITY": "KOTTAYAM",
     "CENTRE": "KOTTAYAM",
     "DISTRICT": "KOTTAYAM",
+    "CITY1": "KOTTAYAM",
+    "CITY2": "KOTTAYAM",
+    "PHONE": "2566767",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10875,6 +12789,9 @@
     "CITY": "PATHANAMTHITTA",
     "CENTRE": "PATHANAMTHITTA",
     "DISTRICT": "PATHANAMTHITTA",
+    "CITY1": "PATHANAMTHITTA",
+    "CITY2": "PATHANAMTHITTA",
+    "PHONE": "2306444",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10892,6 +12809,9 @@
     "CITY": "KOTTAYAM",
     "CENTRE": "KOTTAYAM",
     "DISTRICT": "KOTTAYAM",
+    "CITY1": "KOTTAYAM",
+    "CITY2": "KOTTAYAM",
+    "PHONE": "702423",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10909,6 +12829,9 @@
     "CITY": "PATHANAMTHITTA",
     "CENTRE": "PATHANAMTHITTA",
     "DISTRICT": "PATHANAMTHITTA",
+    "CITY1": "PATHANAMTHITTA",
+    "CITY2": "PATHANAMTHITTA",
+    "PHONE": "2566767",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10926,6 +12849,9 @@
     "CITY": "KOTTAYAM",
     "CENTRE": "KOTTAYAM",
     "DISTRICT": "KOTTAYAM",
+    "CITY1": "KOTTAYAM",
+    "CITY2": "KOTTAYAM",
+    "PHONE": "2566767",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10943,6 +12869,9 @@
     "CITY": "KOLLAM",
     "CENTRE": "KOLLAM",
     "DISTRICT": "KOLLAM",
+    "CITY1": "KOLLAM",
+    "CITY2": "KOLLAM",
+    "PHONE": "2566767",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10960,6 +12889,9 @@
     "CITY": "THIRUVANANTHAPURAM",
     "CENTRE": "THIRUVANANTHAPURAM",
     "DISTRICT": "THIRUVANANTHAPURAM",
+    "CITY1": "THIRUVANANTHAPURAM",
+    "CITY2": "THIRUVANANTHAPURAM",
+    "PHONE": "2566767",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10977,6 +12909,9 @@
     "CITY": "KOLLAM",
     "CENTRE": "KOLLAM",
     "DISTRICT": "KOLLAM",
+    "CITY1": "KOLLAM",
+    "CITY2": "KOLLAM",
+    "PHONE": "2566767",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -10994,6 +12929,9 @@
     "CITY": "KOLLAM",
     "CENTRE": "KOLLAM",
     "DISTRICT": "KOLLAM",
+    "CITY1": "KOLLAM",
+    "CITY2": "KOLLAM",
+    "PHONE": "2566767",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -11011,6 +12949,9 @@
     "CITY": "KOLLAM",
     "CENTRE": "KOLLAM",
     "DISTRICT": "KOLLAM",
+    "CITY1": "KOLLAM",
+    "CITY2": "KOLLAM",
+    "PHONE": "2566767",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -11028,6 +12969,9 @@
     "CITY": "KOTTARAKARA",
     "CENTRE": "KOLLAM",
     "DISTRICT": "KOLLAM",
+    "CITY1": "KOLLAM",
+    "CITY2": "KOTTARAKARA",
+    "PHONE": "2704810",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null

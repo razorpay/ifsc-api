@@ -13,6 +13,9 @@
     "UPI": false,
     "MICR": null,
     "RTGS": true,
+    "CITY1": "ALMORA",
+    "CITY2": "ALMORA",
+    "PHONE": "230743",
     "NEFT": true,
     "SWIFT": null
   },
@@ -29,6 +32,9 @@
     "CITY": "ALMORA",
     "CENTRE": "ALMORA",
     "DISTRICT": "ALMORA",
+    "CITY1": "ALMORA",
+    "CITY2": "ALMORA",
+    "PHONE": "230702",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -46,6 +52,9 @@
     "CITY": "RANIKHET",
     "CENTRE": "ALMORA",
     "DISTRICT": "ALMORA",
+    "CITY1": "ALMORA",
+    "CITY2": "RANIKHET",
+    "PHONE": "220805",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -63,6 +72,9 @@
     "CITY": "BAGESHWAR",
     "CENTRE": "BAGESHWAR",
     "DISTRICT": "BAGESHWAR",
+    "CITY1": "BAGESHWAR",
+    "CITY2": "BAGESHWAR",
+    "PHONE": "220176",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -80,6 +92,9 @@
     "CITY": "DWARAHAT",
     "CENTRE": "ALMORA",
     "DISTRICT": "ALMORA",
+    "CITY1": "ALMORA",
+    "CITY2": "DWARAHAT",
+    "PHONE": "244119",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -97,6 +112,9 @@
     "CITY": "PITHORAGARH",
     "CENTRE": "PITHORAGARH",
     "DISTRICT": "PITHORAGARH",
+    "CITY1": "PITHORAGARH",
+    "CITY2": "PITHORAGARH",
+    "PHONE": "224958",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -114,6 +132,9 @@
     "CITY": "HALDWANI",
     "CENTRE": "NAINITAL",
     "DISTRICT": "NAINITAL",
+    "CITY1": "NAINITAL",
+    "CITY2": "HALDWANI",
+    "PHONE": "251219",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -131,6 +152,9 @@
     "CITY": "NAINITAL",
     "CENTRE": "NAINITAL",
     "DISTRICT": "NAINITAL",
+    "CITY1": "NAINITAL",
+    "CITY2": "NAINITAL",
+    "PHONE": "236985",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -148,6 +172,9 @@
     "CITY": "RUDRAPUR",
     "CENTRE": "UDHAM SINGH NAGAR",
     "DISTRICT": "UDHAM SINGH NAGAR",
+    "CITY1": "UDHAM SINGH NAGAR",
+    "CITY2": "RUDRAPUR",
+    "PHONE": "244735",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -165,6 +192,9 @@
     "CITY": "HALDWANI",
     "CENTRE": "NAINITAL",
     "DISTRICT": "NAINITAL",
+    "CITY1": "NAINITAL",
+    "CITY2": "HALDWANI",
+    "PHONE": "246043",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -182,6 +212,9 @@
     "CITY": "RAMNAGAR",
     "CENTRE": "NAINITAL",
     "DISTRICT": "NAINITAL",
+    "CITY1": "NAINITAL",
+    "CITY2": "RAMNAGAR",
+    "PHONE": "252826",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -199,6 +232,9 @@
     "CITY": "TANAKPUR",
     "CENTRE": "CHAMPAWAT",
     "DISTRICT": "CHAMPAWAT",
+    "CITY1": "CHAMPAWAT",
+    "CITY2": "TANAKPUR",
+    "PHONE": "265911",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -216,6 +252,9 @@
     "CITY": "SITARGANJ",
     "CENTRE": "UDHAM SINGH NAGAR",
     "DISTRICT": "UDHAM SINGH NAGAR",
+    "CITY1": "UDHAM SINGH NAGAR",
+    "CITY2": "SITARGANJ",
+    "PHONE": "244848",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -233,6 +272,9 @@
     "CITY": "HALDWANI",
     "CENTRE": "NAINITAL",
     "DISTRICT": "NAINITAL",
+    "CITY1": "NAINITAL",
+    "CITY2": "HALDWANI",
+    "PHONE": "255144",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -250,6 +292,9 @@
     "CITY": "KHATIMA",
     "CENTRE": "UDHAM SINGH NAGAR",
     "DISTRICT": "UDHAM SINGH NAGAR",
+    "CITY1": "UDHAM SINGH NAGAR",
+    "CITY2": "KHATIMA",
+    "PHONE": "252710",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -267,6 +312,9 @@
     "CITY": "KASHIPUR",
     "CENTRE": "UDHAM SINGH NAGAR",
     "DISTRICT": "UDHAM SINGH NAGAR",
+    "CITY1": "UDHAM SINGH NAGAR",
+    "CITY2": "KASHIPUR",
+    "PHONE": "273252",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -284,6 +332,9 @@
     "CITY": "KICHHA",
     "CENTRE": "UDHAM SINGH NAGAR",
     "DISTRICT": "UDHAM SINGH NAGAR",
+    "CITY1": "UDHAM SINGH NAGAR",
+    "CITY2": "KICHHA",
+    "PHONE": "263310",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -301,6 +352,9 @@
     "CITY": "BHIMTAL",
     "CENTRE": "NAINITAL",
     "DISTRICT": "NAINITAL",
+    "CITY1": "NAINITAL",
+    "CITY2": "BHIMTAL",
+    "PHONE": "248381",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -318,6 +372,9 @@
     "CITY": "RISHIKESH",
     "CENTRE": "HARIDWAR",
     "DISTRICT": "HARIDWAR",
+    "CITY1": "HARIDWAR",
+    "CITY2": "RISHIKESH",
+    "PHONE": "2435353",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -335,6 +392,9 @@
     "CITY": "SHYAMPUR",
     "CENTRE": "DEHRADUN",
     "DISTRICT": "DEHRADUN",
+    "CITY1": "DEHRADUN",
+    "CITY2": "SHYAMPUR",
+    "PHONE": "2452488",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -352,6 +412,9 @@
     "CITY": "RAIWALA",
     "CENTRE": "DEHRADUN",
     "DISTRICT": "DEHRADUN",
+    "CITY1": "DEHRADUN",
+    "CITY2": "RAIWALA",
+    "PHONE": "2484844",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -369,6 +432,9 @@
     "CITY": "CHAMPAWAT",
     "CENTRE": "DEHRADUN",
     "DISTRICT": "DEHRADUN",
+    "CITY1": "DEHRADUN",
+    "CITY2": "CHAMPAWAT",
+    "PHONE": "231056",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -386,6 +452,9 @@
     "CITY": "LOHAGHAT",
     "CENTRE": "CHAMPAWAT",
     "DISTRICT": "CHAMPAWAT",
+    "CITY1": "CHAMPAWAT",
+    "CITY2": "LOHAGHAT",
+    "PHONE": "235477",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -403,6 +472,9 @@
     "CITY": "KALADHUNGI",
     "CENTRE": "NAINITAL",
     "DISTRICT": "NAINITAL",
+    "CITY1": "NAINITAL",
+    "CITY2": "KALADHUNGI",
+    "PHONE": "242440",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -420,6 +492,9 @@
     "CITY": "LALKUAN",
     "CENTRE": "NAINITAL",
     "DISTRICT": "NAINITAL",
+    "CITY1": "NAINITAL",
+    "CITY2": "LALKUAN",
+    "PHONE": "268833",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -437,6 +512,9 @@
     "CITY": "KOTDWAR",
     "CENTRE": "PAURI",
     "DISTRICT": "PAURI",
+    "CITY1": "PAURI",
+    "CITY2": "KOTDWAR",
+    "PHONE": "229975",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -454,6 +532,9 @@
     "CITY": "HALDWANI",
     "CENTRE": "NAINITAL",
     "DISTRICT": "NAINITAL",
+    "CITY1": "NAINITAL",
+    "CITY2": "HALDWANI",
+    "PHONE": "284999",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -471,6 +552,9 @@
     "CITY": "HALDWANI",
     "CENTRE": "NAINITAL",
     "DISTRICT": "NAINITAL",
+    "CITY1": "NAINITAL",
+    "CITY2": "HALDWANI",
+    "PHONE": "234308",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -488,6 +572,9 @@
     "CITY": "BAZPUR",
     "CENTRE": "UDHAM SINGH NAGAR",
     "DISTRICT": "UDHAM SINGH NAGAR",
+    "CITY1": "UDHAM SINGH NAGAR",
+    "CITY2": "BAZPUR",
+    "PHONE": "281355",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -505,6 +592,9 @@
     "CITY": "DEHRADUN",
     "CENTRE": "DEHRADUN",
     "DISTRICT": "DEHRADUN",
+    "CITY1": "DEHRADUN",
+    "CITY2": "DEHRADUN",
+    "PHONE": "2620890",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -522,6 +612,9 @@
     "CITY": "HARIDWAR",
     "CENTRE": "HARIDWAR",
     "DISTRICT": "HARIDWAR",
+    "CITY1": "HARIDWAR",
+    "CITY2": "HARIDWAR",
+    "PHONE": "220299",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -539,6 +632,9 @@
     "CITY": "GANGOLIHAT",
     "CENTRE": "PITHORAGARH",
     "DISTRICT": "PITHORAGARH",
+    "CITY1": "PITHORAGARH",
+    "CITY2": "GANGOLIHAT",
+    "PHONE": "242054",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -556,6 +652,9 @@
     "CITY": "DEHRADUN",
     "CENTRE": "DEHRADUN",
     "DISTRICT": "DEHRADUN",
+    "CITY1": "DEHRADUN",
+    "CITY2": "DEHRADUN",
+    "PHONE": "2666756",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -573,6 +672,9 @@
     "CITY": "VIKASNAGAR",
     "CENTRE": "DEHRADUN",
     "DISTRICT": "DEHRADUN",
+    "CITY1": "DEHRADUN",
+    "CITY2": "VIKASNAGAR",
+    "PHONE": "252920",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -590,6 +692,9 @@
     "CITY": "ROORKEE",
     "CENTRE": "HARIDWAR",
     "DISTRICT": "HARIDWAR",
+    "CITY1": "HARIDWAR",
+    "CITY2": "ROORKEE",
+    "PHONE": "263646",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -607,6 +712,9 @@
     "CITY": "SULTANPUR PATTI",
     "CENTRE": "UDHAM SINGH NAGAR",
     "DISTRICT": "UDHAM SINGH NAGAR",
+    "CITY1": "UDHAM SINGH NAGAR",
+    "CITY2": "SULTANPUR PATTI",
+    "PHONE": "225133",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -624,6 +732,9 @@
     "CITY": "JASPUR",
     "CENTRE": "UDHAM SINGH NAGAR",
     "DISTRICT": "UDHAM SINGH NAGAR",
+    "CITY1": "UDHAM SINGH NAGAR",
+    "CITY2": "JASPUR",
+    "PHONE": "220073",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -641,6 +752,9 @@
     "CITY": "BERINAG",
     "CENTRE": "PITHORAGARH",
     "DISTRICT": "PITHORAGARH",
+    "CITY1": "PITHORAGARH",
+    "CITY2": "BERINAG",
+    "PHONE": "244675",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -658,6 +772,9 @@
     "CITY": "GARUR",
     "CENTRE": "BAGESHWAR",
     "DISTRICT": "BAGESHWAR",
+    "CITY1": "BAGESHWAR",
+    "CITY2": "GARUR",
+    "PHONE": "250156",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -675,6 +792,9 @@
     "CITY": "ALMORA",
     "CENTRE": "ALMORA",
     "DISTRICT": "ALMORA",
+    "CITY1": "ALMORA",
+    "CITY2": "ALMORA",
+    "PHONE": "232323",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -692,6 +812,9 @@
     "CITY": "HALDWANI",
     "CENTRE": "NAINITAL",
     "DISTRICT": "NAINITAL",
+    "CITY1": "NAINITAL",
+    "CITY2": "HALDWANI",
+    "PHONE": "250164",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -709,6 +832,9 @@
     "CITY": "HALDWANI",
     "CENTRE": "NAINITAL",
     "DISTRICT": "NAINITAL",
+    "CITY1": "NAINITAL",
+    "CITY2": "HALDWANI",
+    "PHONE": "260189",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -726,6 +852,9 @@
     "CITY": "HARIDWAR",
     "CENTRE": "HARIDWAR",
     "DISTRICT": "HARIDWAR",
+    "CITY1": "HARIDWAR",
+    "CITY2": "HARIDWAR",
+    "PHONE": "152625",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -743,6 +872,9 @@
     "CITY": "PAURI",
     "CENTRE": "PAURI",
     "DISTRICT": "PAURI",
+    "CITY1": "PAURI",
+    "CITY2": "PAURI",
+    "PHONE": "222233",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -760,6 +892,9 @@
     "CITY": "SRINAGAR",
     "CENTRE": "PAURI",
     "DISTRICT": "PAURI",
+    "CITY1": "PAURI",
+    "CITY2": "SRINAGAR",
+    "PHONE": "250621",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -777,6 +912,9 @@
     "CITY": "DEHRADUN",
     "CENTRE": "DEHRADUN",
     "DISTRICT": "DEHRADUN",
+    "CITY1": "DEHRADUN",
+    "CITY2": "DEHRADUN",
+    "PHONE": "2710769",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -794,6 +932,9 @@
     "CITY": "DOIWALA",
     "CENTRE": "DEHRADUN",
     "DISTRICT": "DEHRADUN",
+    "CITY1": "DEHRADUN",
+    "CITY2": "DOIWALA",
+    "PHONE": "2691896",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -811,6 +952,9 @@
     "CITY": "GADARPUR",
     "CENTRE": "UDHAM SINGH NAGAR",
     "DISTRICT": "UDHAM SINGH NAGAR",
+    "CITY1": "UDHAM SINGH NAGAR",
+    "CITY2": "GADARPUR",
+    "PHONE": "271010",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -828,6 +972,9 @@
     "CITY": "HARBARTPUR",
     "CENTRE": "DEHRADUN",
     "DISTRICT": "DEHRADUN",
+    "CITY1": "DEHRADUN",
+    "CITY2": "HARBARTPUR",
+    "PHONE": "259999",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -845,6 +992,9 @@
     "CITY": "MUNI KI RETI RISHIKESH",
     "CENTRE": "DEHRADUN",
     "DISTRICT": "DEHRADUN",
+    "CITY1": "DEHRADUN",
+    "CITY2": "MUNI KI RETI RISHIKESH",
+    "PHONE": "2433344",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -862,6 +1012,9 @@
     "CITY": "ROORKEE",
     "CENTRE": "HARIDWAR",
     "DISTRICT": "HARIDWAR",
+    "CITY1": "HARIDWAR",
+    "CITY2": "ROORKEE",
+    "PHONE": "0",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
