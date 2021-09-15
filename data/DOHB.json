@@ -13,9 +13,6 @@
     "UPI": false,
     "MICR": "400234252",
     "RTGS": true,
-    "CITY1": "MUMBAI",
-    "CITY2": "MUMBAI",
-    "PHONE": "33941133",
     "NEFT": true,
     "SWIFT": null
   },
@@ -32,9 +29,6 @@
     "CITY": "MUMBAI",
     "CENTRE": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "CITY1": "MUMBAI",
-    "CITY2": "MUMBAI",
-    "PHONE": "33941120",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -52,9 +46,6 @@
     "CITY": "KOCHI",
     "CENTRE": "KOCHI",
     "DISTRICT": "KOCHI",
-    "CITY1": "KOCHI",
-    "CITY2": "KOCHI",
-    "PHONE": "2370507",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -72,9 +63,6 @@
     "CITY": "CHENNAI",
     "CENTRE": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "CITY1": "CHENNAI",
-    "CITY2": "CHENNAI",
-    "PHONE": "43434848",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
@@ -89,7 +77,7 @@
     "CONTACT": "+912233941133",
     "UPI": false,
     "RTGS": true,
-    "CITY": "MUMBAI",
+    "CITY": "MAHARASHTRA",
     "CENTRE": "MUMBAI",
     "DISTRICT": "MUMBAI",
     "NEFT": false,

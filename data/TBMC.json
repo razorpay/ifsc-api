@@ -1,6 +1,6 @@
 {
   "TBMC0000001": {
-    "BANK": null,
+    "BANK": "Banaskantha Mercantile Co-operative Bank",
     "IFSC": "TBMC0000001",
     "MICR": null,
     "BRANCH": "RTGS-HO",
@@ -17,7 +17,7 @@
     "SWIFT": null
   },
   "TBMC0001001": {
-    "BANK": null,
+    "BANK": "Banaskantha Mercantile Co-operative Bank",
     "IFSC": "TBMC0001001",
     "MICR": null,
     "BRANCH": "SARDAR GUNJ",
@@ -29,12 +29,12 @@
     "CITY": "BANASKANTHA",
     "CENTRE": "PALANPUR",
     "DISTRICT": "PALANPUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null
   },
   "TBMC0001002": {
-    "BANK": null,
+    "BANK": "Banaskantha Mercantile Co-operative Bank",
     "IFSC": "TBMC0001002",
     "MICR": "385802003",
     "BRANCH": "AHMEDABAD HIGHWAY",
@@ -46,12 +46,12 @@
     "CITY": "BANASKANTHA",
     "CENTRE": "PALANPUR",
     "DISTRICT": "PALANPUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null
   },
   "TBMC0001003": {
-    "BANK": null,
+    "BANK": "Banaskantha Mercantile Co-operative Bank",
     "IFSC": "TBMC0001003",
     "MICR": "385802004",
     "BRANCH": "DHUNDHIYAWADI",
@@ -63,12 +63,12 @@
     "CITY": "BANASKANTHA",
     "CENTRE": "PALANPUR",
     "DISTRICT": "PALANPUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null
   },
   "TBMC0001004": {
-    "BANK": null,
+    "BANK": "Banaskantha Mercantile Co-operative Bank",
     "IFSC": "TBMC0001004",
     "MICR": "385802002",
     "BRANCH": "NEW GUNJ",
@@ -80,12 +80,12 @@
     "CITY": "BANASKANTHA",
     "CENTRE": "PALANPUR",
     "DISTRICT": "PALANPUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null
   },
   "TBMC0001005": {
-    "BANK": null,
+    "BANK": "Banaskantha Mercantile Co-operative Bank",
     "IFSC": "TBMC0001005",
     "MICR": "385802501",
     "BRANCH": "IQBALGADH",
@@ -97,12 +97,12 @@
     "CITY": "BANASKANTHA",
     "CENTRE": "IQBALGADH",
     "DISTRICT": "IQBALGADH",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null
   },
   "TBMC0001006": {
-    "BANK": null,
+    "BANK": "Banaskantha Mercantile Co-operative Bank",
     "IFSC": "TBMC0001006",
     "MICR": "385802031",
     "BRANCH": "DEESA",
@@ -114,7 +114,7 @@
     "CITY": "BANASKANTHA",
     "CENTRE": "DEESA",
     "DISTRICT": "DEESA",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null
   }
