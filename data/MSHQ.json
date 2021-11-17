@@ -2,18 +2,18 @@
   "MSHQ0000001": {
     "BANK": "Mashreq Bank",
     "IFSC": "MSHQ0000001",
-    "BRANCH": "Mashreq Bank IMPS",
+    "MICR": "400205002",
+    "BRANCH": "RTGS-HO",
+    "ADDRESS": "1305, RAHEJA CENTRE,13TH FLOOR",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": "+912266327200",
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "MUMBAI",
     "CENTRE": "NARIMAN POINT",
     "DISTRICT": "NARIMAN POINT",
-    "STATE": "MAHARASHTRA",
-    "ADDRESS": "1305, RAHEJA CENTRE,13TH FLOOR",
-    "CONTACT": "+912266327200",
-    "IMPS": true,
-    "CITY": "MUMBAI",
-    "UPI": false,
-    "MICR": "400205002",
-    "RTGS": true,
     "NEFT": true,
+    "IMPS": true,
     "SWIFT": null
   }
 }
