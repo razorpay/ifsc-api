@@ -2,17 +2,17 @@
   "TNSC0000001": {
     "BANK": "Tamilnadu State Apex Co-operative Bank",
     "IFSC": "TNSC0000001",
-    "MICR": "600091001",
     "BRANCH": "HEADOFFICE",
     "ADDRESS": "233,N.S.C BOSE ROAD CHENNAI 600001",
     "STATE": "TAMIL NADU",
+    "MICR": null,
     "CONTACT": "+914425340973",
     "UPI": false,
-    "RTGS": true,
+    "NEFT": true,
     "CITY": "CHENNAI",
     "CENTRE": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "NEFT": true,
+    "RTGS": false,
     "IMPS": true,
     "SWIFT": null
   },
@@ -28,9 +28,9 @@
     "IMPS": true,
     "CITY": "COIMBATORE",
     "UPI": false,
-    "MICR": "641464002",
-    "RTGS": true,
+    "MICR": null,
     "NEFT": true,
+    "RTGS": false,
     "SWIFT": null
   },
   "TNSC0010100": {
@@ -45,9 +45,9 @@
     "IMPS": true,
     "CITY": "DHARMAPURI",
     "UPI": false,
-    "MICR": "636800002",
-    "RTGS": true,
+    "MICR": null,
     "NEFT": true,
+    "RTGS": false,
     "SWIFT": null
   },
   "TNSC0010200": {
@@ -62,9 +62,9 @@
     "IMPS": true,
     "CITY": "KANCHIPURAM",
     "UPI": false,
-    "MICR": "600091276",
-    "RTGS": true,
+    "MICR": null,
     "NEFT": true,
+    "RTGS": false,
     "SWIFT": null
   },
   "TNSC0010300": {
@@ -79,9 +79,9 @@
     "IMPS": true,
     "CITY": "NAGERCOIL",
     "UPI": false,
-    "MICR": "629800002",
-    "RTGS": true,
+    "MICR": null,
     "NEFT": true,
+    "RTGS": false,
     "SWIFT": null
   },
   "TNSC0010400": {
@@ -96,9 +96,9 @@
     "IMPS": true,
     "CITY": "KUMBAKONAM",
     "UPI": false,
-    "MICR": "612800002",
-    "RTGS": true,
+    "MICR": null,
     "NEFT": true,
+    "RTGS": false,
     "SWIFT": null
   },
   "TNSC0010500": {
@@ -113,9 +113,9 @@
     "IMPS": true,
     "CITY": "CHENNAI",
     "UPI": false,
-    "MICR": "600092002",
-    "RTGS": true,
+    "MICR": null,
     "NEFT": true,
+    "RTGS": false,
     "SWIFT": null
   },
   "TNSC0010600": {
@@ -130,9 +130,9 @@
     "IMPS": true,
     "CITY": "MADURAI",
     "UPI": false,
-    "MICR": "625306002",
-    "RTGS": true,
+    "MICR": null,
     "NEFT": true,
+    "RTGS": false,
     "SWIFT": null
   },
   "TNSC0010700": {
@@ -147,9 +147,9 @@
     "IMPS": true,
     "CITY": "UDHAGAMANDALAM",
     "UPI": false,
-    "MICR": "643800002",
-    "RTGS": true,
+    "MICR": null,
     "NEFT": true,
+    "RTGS": false,
     "SWIFT": null
   },
   "TNSC0010800": {
@@ -164,9 +164,9 @@
     "IMPS": true,
     "CITY": "ERODE",
     "UPI": false,
-    "MICR": "638572002",
-    "RTGS": true,
+    "MICR": null,
     "NEFT": true,
+    "RTGS": false,
     "SWIFT": null
   },
   "TNSC0010900": {
@@ -181,9 +181,9 @@
     "IMPS": true,
     "CITY": "PUDUKKOTTAI",
     "UPI": false,
-    "MICR": "622800002",
-    "RTGS": true,
+    "MICR": null,
     "NEFT": true,
+    "RTGS": false,
     "SWIFT": null
   },
   "TNSC0011000": {
@@ -198,9 +198,9 @@
     "IMPS": true,
     "CITY": "RAMANATHAPURAM",
     "UPI": false,
-    "MICR": "623800002",
-    "RTGS": true,
+    "MICR": null,
     "NEFT": true,
+    "RTGS": false,
     "SWIFT": null
   },
   "TNSC0011100": {
@@ -215,9 +215,9 @@
     "IMPS": true,
     "CITY": "SALEM",
     "UPI": false,
-    "MICR": "636624002",
-    "RTGS": true,
+    "MICR": null,
     "NEFT": true,
+    "RTGS": false,
     "SWIFT": null
   },
   "TNSC0011200": {
@@ -232,9 +232,9 @@
     "IMPS": true,
     "CITY": "CUDDALORE",
     "UPI": false,
-    "MICR": "607816002",
-    "RTGS": true,
+    "MICR": null,
     "NEFT": true,
+    "RTGS": false,
     "SWIFT": null
   },
   "TNSC0011300": {
@@ -249,9 +249,9 @@
     "IMPS": true,
     "CITY": "THANJAVUR",
     "UPI": false,
-    "MICR": "613800002",
-    "RTGS": true,
+    "MICR": null,
     "NEFT": true,
+    "RTGS": false,
     "SWIFT": null
   },
   "TNSC0011400": {
@@ -266,9 +266,9 @@
     "IMPS": true,
     "CITY": "TIRUCHIRAPALLI",
     "UPI": false,
-    "MICR": "620547002",
-    "RTGS": true,
+    "MICR": null,
     "NEFT": true,
+    "RTGS": false,
     "SWIFT": null
   },
   "TNSC0011500": {
@@ -283,9 +283,9 @@
     "IMPS": true,
     "CITY": "TIRUNELVELI",
     "UPI": false,
-    "MICR": "627803002",
-    "RTGS": true,
+    "MICR": null,
     "NEFT": true,
+    "RTGS": false,
     "SWIFT": null
   },
   "TNSC0011600": {
@@ -300,9 +300,9 @@
     "IMPS": true,
     "CITY": "VELLORE",
     "UPI": false,
-    "MICR": "632800002",
-    "RTGS": true,
+    "MICR": null,
     "NEFT": true,
+    "RTGS": false,
     "SWIFT": null
   },
   "TNSC0011700": {
@@ -317,9 +317,9 @@
     "IMPS": true,
     "CITY": "DINDIGUL",
     "UPI": false,
-    "MICR": "625800001",
-    "RTGS": true,
+    "MICR": null,
     "NEFT": true,
+    "RTGS": false,
     "SWIFT": null
   },
   "TNSC0011800": {
@@ -334,9 +334,9 @@
     "IMPS": true,
     "CITY": "VIRUDHUNAGAR",
     "UPI": false,
-    "MICR": "626800002",
-    "RTGS": true,
+    "MICR": null,
     "NEFT": true,
+    "RTGS": false,
     "SWIFT": null
   },
   "TNSC0011900": {
@@ -351,9 +351,9 @@
     "IMPS": true,
     "CITY": "SIVAGANGAI",
     "UPI": false,
-    "MICR": "630800002",
-    "RTGS": true,
+    "MICR": null,
     "NEFT": true,
+    "RTGS": false,
     "SWIFT": null
   },
   "TNSC0012000": {
@@ -368,9 +368,9 @@
     "IMPS": true,
     "CITY": "TIRUVANNAMALAI",
     "UPI": false,
-    "MICR": "606800002",
-    "RTGS": true,
+    "MICR": null,
     "NEFT": true,
+    "RTGS": false,
     "SWIFT": null
   },
   "TNSC0012100": {
@@ -385,9 +385,9 @@
     "IMPS": true,
     "CITY": "THOOTHUKUDI",
     "UPI": false,
-    "MICR": "627805002",
-    "RTGS": true,
+    "MICR": null,
     "NEFT": true,
+    "RTGS": false,
     "SWIFT": null
   },
   "TNSC0012200": {
@@ -402,9 +402,9 @@
     "IMPS": true,
     "CITY": "VILLUPURAM",
     "UPI": false,
-    "MICR": "605800002",
-    "RTGS": true,
+    "MICR": null,
     "NEFT": true,
+    "RTGS": false,
     "SWIFT": null
   },
   "TNSC0015000": {
@@ -419,9 +419,9 @@
     "IMPS": true,
     "CITY": "CHENNAI",
     "UPI": false,
-    "MICR": "600411001",
-    "RTGS": true,
+    "MICR": null,
     "NEFT": true,
+    "RTGS": false,
     "SWIFT": null
   },
   "TNSC0099999": {
@@ -436,9 +436,9 @@
     "IMPS": true,
     "CITY": "CHENNAI",
     "UPI": false,
-    "MICR": "600091001",
-    "RTGS": true,
+    "MICR": null,
     "NEFT": true,
+    "RTGS": false,
     "SWIFT": null
   },
   "TNSC0160101": {
@@ -453,26 +453,9 @@
     "IMPS": true,
     "CITY": "PUDUCHERRY",
     "UPI": false,
-    "MICR": "605632001",
-    "RTGS": true,
+    "MICR": null,
     "NEFT": true,
-    "SWIFT": null
-  },
-  "TNSC0NEFTSC": {
-    "BANK": "Tamilnadu State Apex Co-operative Bank",
-    "IFSC": "TNSC0NEFTSC",
-    "MICR": "600091001",
-    "BRANCH": "NEFT SERVICE CENTRE",
-    "ADDRESS": "OLD NO  233, NEW NO 4 N.S.C BOSE ROAD, CHENNAI 600001",
-    "STATE": "TAMIL NADU",
-    "CONTACT": "+914425332354",
-    "UPI": false,
-    "RTGS": true,
-    "CITY": "CHENNAI",
-    "CENTRE": "CHENNAI",
-    "DISTRICT": "CHENNAI",
-    "NEFT": false,
-    "IMPS": true,
+    "RTGS": false,
     "SWIFT": null
   }
 }
