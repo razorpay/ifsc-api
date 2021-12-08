@@ -321,5 +321,39 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
+  },
+  "SUTB0248021": {
+    "BANK": "Sutex Co-operative Bank",
+    "IFSC": "SUTB0248021",
+    "MICR": "400248021",
+    "BRANCH": "FORT",
+    "ADDRESS": "BOMBAY MUTUAL CHAMBERS,6TH FLOOR,19-21 AMBALAL DOSHI MARG(HAMAM STREET),FORT MUMBAI - 400001",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": "+912235105621",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "MUMBAI",
+    "CENTRE": "MUMBAI",
+    "DISTRICT": "MUMBAI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null
+  },
+  "SUTB0248022": {
+    "BANK": "Sutex Co-operative Bank",
+    "IFSC": "SUTB0248022",
+    "MICR": "400248022",
+    "BRANCH": "CHEMBUR",
+    "ADDRESS": "SHOP NO 5,6,7& 8,GROUND FLOOR,BUILDING NO.108,CHEMBUR NAVJIVAN SOCIETY LTD,34 MAHUL ROAD,CHEMBUR,MUMBAI-400074",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": "+912235105621",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "MUMBAI",
+    "CENTRE": "MUMBAI",
+    "DISTRICT": "MUMBAI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null
   }
 }

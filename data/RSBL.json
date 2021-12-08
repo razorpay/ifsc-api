@@ -304,5 +304,22 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null
+  },
+  "RSBL0000100": {
+    "BANK": "Rajgurunagar Sahakari Bank",
+    "IFSC": "RSBL0000100",
+    "MICR": null,
+    "BRANCH": "HEAD OFFICE",
+    "ADDRESS": "PUNE NASHIK HIGHWAY, RAJGURUNAGAR, TAL KHED PUNE 410505",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": "+912135222085",
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "PUNE",
+    "CENTRE": "RAJGURUNAGAR",
+    "DISTRICT": "RAJGURUNAGAR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null
   }
 }
