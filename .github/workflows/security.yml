@@ -42,7 +42,7 @@ jobs:
           https://api.github.com/repos/${{ github.repository }}/statuses/${{ env.githubCommit }}
           exit 1
       - name: Success
-        if: steps.failed.conclusion == 'skipped' || github.ref != 'refs/heads/master'
+        if: steps.failed.conclusion == 'skipped' || github.ref == 'refs/heads/master'
         run: |
           echo 'Status check has passed!'
           curl -X POST -H "Content-Type: application/json" -H "Authorization: token ${{ github.token }}" \
