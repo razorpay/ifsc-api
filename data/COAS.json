@@ -5,16 +5,17 @@
     "BRANCH": "Coastal Local Area Bank IMPS",
     "CENTRE": "KRISHNA",
     "DISTRICT": "KRISHNA",
-    "STATE": "ANDHRA PRADESH",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "D.NO.59-12-6,GRACE LINE, GHANTASALAVARI STREET, GAYATRI NAGAR, NEAR BENZ CIRCLE",
     "CONTACT": "+918662494426",
     "IMPS": true,
-    "CITY": "VIJAYAWADA",
+    "CITY": "MUMBAI",
     "UPI": true,
     "MICR": "520652002",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "COAS0000002": {
     "BANK": "Coastal Local Area Bank",
@@ -31,6 +32,7 @@
     "DISTRICT": "KRISHNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
   }
 }

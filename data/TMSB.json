@@ -1,6 +1,6 @@
 {
   "TMSB0000001": {
-    "BANK": "The Malad Sahakari Bank Ltd",
+    "BANK": "The Malad Sahakari Bank",
     "IFSC": "TMSB0000001",
     "MICR": null,
     "BRANCH": "RTGS-HO",
@@ -14,10 +14,11 @@
     "DISTRICT": "MUMBAI",
     "NEFT": false,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "TMSB0000002": {
-    "BANK": "The Malad Sahakari Bank Ltd",
+    "BANK": "The Malad Sahakari Bank",
     "IFSC": "TMSB0000002",
     "MICR": "400079002",
     "BRANCH": "MAIN BRANCH",
@@ -31,10 +32,11 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "TMSB0000003": {
-    "BANK": "The Malad Sahakari Bank Ltd",
+    "BANK": "The Malad Sahakari Bank",
     "IFSC": "TMSB0000003",
     "MICR": "400079003",
     "BRANCH": "KURAR VILLAGE BRANCH",
@@ -48,10 +50,11 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "TMSB0000004": {
-    "BANK": "The Malad Sahakari Bank Ltd",
+    "BANK": "The Malad Sahakari Bank",
     "IFSC": "TMSB0000004",
     "MICR": "400079004",
     "BRANCH": "BOMBAY TALKIES BRANCH",
@@ -65,10 +68,11 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "TMSB0000006": {
-    "BANK": "The Malad Sahakari Bank Ltd",
+    "BANK": "The Malad Sahakari Bank",
     "IFSC": "TMSB0000006",
     "MICR": "400079006",
     "BRANCH": "KANDIVALI BRANCH",
@@ -82,10 +86,11 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "TMSB0000007": {
-    "BANK": "The Malad Sahakari Bank Ltd",
+    "BANK": "The Malad Sahakari Bank",
     "IFSC": "TMSB0000007",
     "MICR": "400079007",
     "BRANCH": "LIBERTY GARDEN BRANCH",
@@ -99,10 +104,11 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "TMSB0000008": {
-    "BANK": "The Malad Sahakari Bank Ltd",
+    "BANK": "The Malad Sahakari Bank",
     "IFSC": "TMSB0000008",
     "MICR": "400079008",
     "BRANCH": "EXTENSION COUNTER",
@@ -116,6 +122,7 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   }
 }

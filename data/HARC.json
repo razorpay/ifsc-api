@@ -5,16 +5,17 @@
     "BRANCH": "Haryana State Co-operative Apex Bank IMPS",
     "CENTRE": "CHANDIGARH",
     "DISTRICT": "CHANDIGARH",
-    "STATE": "HARYANA",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "SCO 78-80, BANK SQUARE, SECTOR-17B",
     "CONTACT": "+911722721026",
     "IMPS": true,
-    "CITY": "CHANDIGARH",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": null,
     "RTGS": true,
     "NEFT": false,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "HARC0000002": {
     "BANK": "Haryana State Co-operative Apex Bank",
@@ -31,7 +32,8 @@
     "DISTRICT": "CHANDIGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "HARC0000003": {
     "BANK": "Haryana State Co-operative Apex Bank",
@@ -48,7 +50,8 @@
     "DISTRICT": "CHANDIGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "HARC0000004": {
     "BANK": "Haryana State Co-operative Apex Bank",
@@ -65,7 +68,8 @@
     "DISTRICT": "CHANDIGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "HARC0000005": {
     "BANK": "Haryana State Co-operative Apex Bank",
@@ -82,7 +86,8 @@
     "DISTRICT": "CHANDIGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "HARC0000006": {
     "BANK": "Haryana State Co-operative Apex Bank",
@@ -99,7 +104,8 @@
     "DISTRICT": "CHANDIGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "HARC0000007": {
     "BANK": "Haryana State Co-operative Apex Bank",
@@ -116,7 +122,8 @@
     "DISTRICT": "CHANDIGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "HARC0000008": {
     "BANK": "Haryana State Co-operative Apex Bank",
@@ -133,7 +140,8 @@
     "DISTRICT": "CHANDIGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "HARC0000009": {
     "BANK": "Haryana State Co-operative Apex Bank",
@@ -150,7 +158,8 @@
     "DISTRICT": "PANCHKULA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "HARC0000010": {
     "BANK": "Haryana State Co-operative Apex Bank",
@@ -167,7 +176,8 @@
     "DISTRICT": "PANCHKULA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "HARC0000011": {
     "BANK": "Haryana State Co-operative Apex Bank",
@@ -184,7 +194,8 @@
     "DISTRICT": "PANCHKULA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "HARC0000012": {
     "BANK": "Haryana State Co-operative Apex Bank",
@@ -201,7 +212,8 @@
     "DISTRICT": "PANCHKULA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "HARC0000013": {
     "BANK": "Haryana State Co-operative Apex Bank",
@@ -218,7 +230,8 @@
     "DISTRICT": "CHANDIGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "HARC0000014": {
     "BANK": "Haryana State Co-operative Apex Bank",
@@ -235,7 +248,8 @@
     "DISTRICT": "CHANDIGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "HARC0000015": {
     "BANK": "Haryana State Co-operative Apex Bank",
@@ -252,7 +266,8 @@
     "DISTRICT": "CHANDIGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "HARC0000016": {
     "BANK": "Haryana State Co-operative Apex Bank",
@@ -269,6 +284,7 @@
     "DISTRICT": "PANCHKULA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   }
 }

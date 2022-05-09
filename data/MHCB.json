@@ -14,7 +14,8 @@
     "DISTRICT": "GREATER MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MHCB0000532": {
     "BANK": "Mizuho Bank",
@@ -31,7 +32,8 @@
     "MICR": "400694002",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MHCB0000716": {
     "BANK": "Mizuho Bank",
@@ -48,7 +50,8 @@
     "DISTRICT": "BANGALORE RURAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "MHCB0000717": {
     "BANK": "Mizuho Bank",
@@ -65,7 +68,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "MHCB0000718": {
     "BANK": "Mizuho Bank",
@@ -82,23 +86,25 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "MHCB0000793": {
     "BANK": "Mizuho Bank",
     "IFSC": "MHCB0000793",
     "MICR": "100694002",
-    "BRANCH": "NEW DELHI BRANCH",
-    "ADDRESS": "4 FLOOR, EAST TOWER SOOD TOWER, BARAKHAMBA ROAD",
+    "BRANCH": "GURUGRAM",
+    "ADDRESS": "MIZUHO BANK, LTD 5TH FLOOR, OBEROI CORPORATE TOWER, BUILDING 11, DLF CYBER CITY, PHASE- II, GURUGRAM- 122002, INDIA",
     "STATE": "DELHI",
     "CONTACT": "+911130410900",
     "UPI": false,
     "RTGS": true,
-    "CITY": "NEW DELHI",
-    "CENTRE": "DELHI",
-    "DISTRICT": "DELHI",
+    "CITY": "DELHI",
+    "CENTRE": "GURUGRAM",
+    "DISTRICT": "GURUGRAM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   }
 }

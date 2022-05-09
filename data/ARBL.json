@@ -14,7 +14,8 @@
     "DISTRICT": "HEAD OFFICE",
     "NEFT": false,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "ARBL0000002": {
     "BANK": "Arvind Sahakari Bank",
@@ -31,7 +32,8 @@
     "DISTRICT": "NAGPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "ARBL0000003": {
     "BANK": "Arvind Sahakari Bank",
@@ -48,7 +50,8 @@
     "DISTRICT": "NAGPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "ARBL0000004": {
     "BANK": "Arvind Sahakari Bank",
@@ -65,7 +68,8 @@
     "DISTRICT": "NAGPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "ARBL0000005": {
     "BANK": "Arvind Sahakari Bank",
@@ -82,7 +86,8 @@
     "DISTRICT": "NAGPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "ARBL0000006": {
     "BANK": "Arvind Sahakari Bank",
@@ -99,7 +104,8 @@
     "DISTRICT": "AMRAVATI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "ARBL0000007": {
     "BANK": "Arvind Sahakari Bank",
@@ -116,6 +122,7 @@
     "DISTRICT": "AMRAVATI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   }
 }

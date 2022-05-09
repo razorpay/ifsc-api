@@ -5,15 +5,34 @@
     "BRANCH": "India Post Payments Bank IMPS",
     "CENTRE": "DELHI",
     "DISTRICT": "DELHI",
-    "STATE": "DELHI",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "POST OFFICE,SPEED POST CENTRE BUILDING,MARKET ROAD,NEW DELHI,CENTRAL DELHI,DELHI 110001,INDIA",
     "CONTACT": "+911123362148",
     "IMPS": true,
-    "CITY": "DELHI",
+    "CITY": "MUMBAI",
     "UPI": true,
     "MICR": null,
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
+  "IPOS0000DOP": {
+    "BANK": "India Post Payments Bank",
+    "IFSC": "IPOS0000DOP",
+    "BRANCH": "POST OFFICE SAVINGS BANK - ALL INDIA SINGLE IFSC",
+    "ADDRESS": "DAK BHAWAN, SANSAD MARG",
+    "STATE": "DELHI",
+    "MICR": null,
+    "CONTACT": "+9102218002666",
+    "UPI": false,
+    "NEFT": true,
+    "CITY": "DELHI",
+    "CENTRE": "NEW DELHI",
+    "DISTRICT": "NEW DELHI",
+    "RTGS": false,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   }
 }

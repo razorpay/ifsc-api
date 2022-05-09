@@ -14,7 +14,8 @@
     "DISTRICT": "PUNE",
     "NEFT": false,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "BNSB0000002": {
     "BANK": "Bhagini Nivedita Sahakari Bank Pune",
@@ -31,6 +32,7 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   }
 }

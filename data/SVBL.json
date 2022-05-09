@@ -2,18 +2,19 @@
   "SVBL0000001": {
     "BANK": "Seva Vikas Co-operative Bank",
     "IFSC": "SVBL0000001",
-    "BRANCH": "Seva Vikas Co-operative Bank IMPS",
+    "MICR": "411412002",
+    "BRANCH": "RTGS-HO",
+    "ADDRESS": "SEVA BHAVAN,NEAR,SADHU VASWANI GARDEN PIMPRI PUNE",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": "+912027412289",
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "PUNE",
     "CENTRE": "PUNE",
     "DISTRICT": "PUNE",
-    "STATE": "MAHARASHTRA",
-    "ADDRESS": "SEVA BHAVAN,NEAR,SADHU VASWANI GARDEN PIMPRI PUNE",
-    "CONTACT": "+912027412289",
-    "IMPS": true,
-    "CITY": "PUNE",
-    "UPI": false,
-    "MICR": "411412002",
-    "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   }
 }

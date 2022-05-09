@@ -14,7 +14,8 @@
     "DISTRICT": "NEW DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "HSBC0110004": {
     "BANK": "Hongkong & Shanghai Banking Corporation",
@@ -31,7 +32,8 @@
     "DISTRICT": "NEW DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "HSBC0110005": {
     "BANK": "Hongkong & Shanghai Banking Corporation",
@@ -48,7 +50,8 @@
     "DISTRICT": "GURGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "HSBC0110006": {
     "BANK": "Hongkong & Shanghai Banking Corporation",
@@ -65,7 +68,8 @@
     "DISTRICT": "NEW DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "HSBC0110007": {
     "BANK": "Hongkong & Shanghai Banking Corporation",
@@ -82,7 +86,8 @@
     "DISTRICT": "GAUTAM BODDA NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "HSBC0160002": {
     "BANK": "Hongkong & Shanghai Banking Corporation",
@@ -99,7 +104,8 @@
     "DISTRICT": "CHANDIGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CH"
   },
   "HSBC01INDIA": {
     "BANK": "Hongkong & Shanghai Banking Corporation",
@@ -116,7 +122,8 @@
     "DISTRICT": "GREATER MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "HSBC02INDIA": {
     "BANK": "Hongkong & Shanghai Banking Corporation",
@@ -128,12 +135,13 @@
     "CONTACT": null,
     "UPI": true,
     "RTGS": true,
-    "CITY": "MAHARASHTRA",
+    "CITY": "MUMBAI",
     "CENTRE": "MUMBAI",
     "DISTRICT": "MUMBAI",
     "NEFT": false,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "HSBC0302002": {
     "BANK": "Hongkong & Shanghai Banking Corporation",
@@ -150,7 +158,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "HSBC0380002": {
     "BANK": "Hongkong & Shanghai Banking Corporation",
@@ -167,7 +176,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "HSBC03INDIA": {
     "BANK": "Hongkong & Shanghai Banking Corporation",
@@ -184,7 +194,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "HSBC0400001": {
     "BANK": "Hongkong & Shanghai Banking Corporation",
@@ -201,7 +212,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "HSBC0400002": {
     "BANK": "Hongkong & Shanghai Banking Corporation",
@@ -218,7 +230,8 @@
     "DISTRICT": "GREATER MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "HSBC0400003": {
     "BANK": "Hongkong & Shanghai Banking Corporation",
@@ -235,7 +248,8 @@
     "DISTRICT": "GREATER MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "HSBC0400004": {
     "BANK": "Hongkong & Shanghai Banking Corporation",
@@ -252,7 +266,8 @@
     "DISTRICT": "GREATER MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "HSBC0400005": {
     "BANK": "Hongkong & Shanghai Banking Corporation",
@@ -269,7 +284,8 @@
     "DISTRICT": "GREATER MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "HSBC0400006": {
     "BANK": "Hongkong & Shanghai Banking Corporation",
@@ -286,7 +302,8 @@
     "DISTRICT": "GREATER MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "HSBC0400007": {
     "BANK": "Hongkong & Shanghai Banking Corporation",
@@ -303,7 +320,8 @@
     "DISTRICT": "GREATER MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "HSBC0400008": {
     "BANK": "Hongkong & Shanghai Banking Corporation",
@@ -320,7 +338,8 @@
     "DISTRICT": "GREATER MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "HSBC0400010": {
     "BANK": "Hongkong & Shanghai Banking Corporation",
@@ -337,7 +356,8 @@
     "DISTRICT": "GREATER MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "HSBC0400012": {
     "BANK": "Hongkong & Shanghai Banking Corporation",
@@ -354,7 +374,8 @@
     "DISTRICT": "GREATER MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "HSBC0411002": {
     "BANK": "Hongkong & Shanghai Banking Corporation",
@@ -371,7 +392,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "HSBC0500002": {
     "BANK": "Hongkong & Shanghai Banking Corporation",
@@ -388,7 +410,8 @@
     "DISTRICT": "HYDERABAD URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
   },
   "HSBC0560002": {
     "BANK": "Hongkong & Shanghai Banking Corporation",
@@ -405,7 +428,8 @@
     "DISTRICT": "BANGALORE URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "HSBC0560003": {
     "BANK": "Hongkong & Shanghai Banking Corporation",
@@ -422,7 +446,8 @@
     "DISTRICT": "BANGALORE URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "HSBC0600002": {
     "BANK": "Hongkong & Shanghai Banking Corporation",
@@ -439,7 +464,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "HSBC0641002": {
     "BANK": "Hongkong & Shanghai Banking Corporation",
@@ -456,7 +482,8 @@
     "DISTRICT": "COIMBOTORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "HSBC0682002": {
     "BANK": "Hongkong & Shanghai Banking Corporation",
@@ -473,7 +500,8 @@
     "DISTRICT": "ERNAKULAM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KL"
   },
   "HSBC0700004": {
     "BANK": "Hongkong & Shanghai Banking Corporation",
@@ -490,7 +518,8 @@
     "DISTRICT": "KOLKATA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "HSBC0700005": {
     "BANK": "Hongkong & Shanghai Banking Corporation",
@@ -507,7 +536,8 @@
     "DISTRICT": "KOLKATA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "HSBC0RTGSMI": {
     "BANK": "Hongkong & Shanghai Banking Corporation",
@@ -524,6 +554,7 @@
     "MICR": "400039002",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   }
 }

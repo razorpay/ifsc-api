@@ -14,7 +14,8 @@
     "MICR": null,
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEUT0273PBC": {
     "BANK": "Deutsche Bank",
@@ -31,7 +32,8 @@
     "DISTRICT": "KOLHAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEUT0274PBC": {
     "BANK": "Deutsche Bank",
@@ -48,7 +50,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEUT0278PBC": {
     "BANK": "Deutsche Bank",
@@ -65,7 +68,8 @@
     "DISTRICT": "NOIDA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "DEUT0279PBC": {
     "BANK": "Deutsche Bank",
@@ -82,7 +86,8 @@
     "DISTRICT": "GURGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "DEUT0401PBC": {
     "BANK": "Deutsche Bank",
@@ -99,7 +104,8 @@
     "DISTRICT": "VELLORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "DEUT0402PBC": {
     "BANK": "Deutsche Bank",
@@ -116,7 +122,8 @@
     "DISTRICT": "SALEM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "DEUT0403PBC": {
     "BANK": "Deutsche Bank",
@@ -133,7 +140,8 @@
     "DISTRICT": "MORADABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "DEUT0404PBC": {
     "BANK": "Deutsche Bank",
@@ -150,7 +158,8 @@
     "DISTRICT": "LUDHIANA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "DEUT0405PBC": {
     "BANK": "Deutsche Bank",
@@ -167,7 +176,8 @@
     "DISTRICT": "SURAT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "DEUT0406AMD": {
     "BANK": "Deutsche Bank",
@@ -184,7 +194,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "DEUT0406PBC": {
     "BANK": "Deutsche Bank",
@@ -201,7 +212,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "DEUT0537PUN": {
     "BANK": "Deutsche Bank",
@@ -218,7 +230,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEUT0784BBY": {
     "BANK": "Deutsche Bank",
@@ -235,7 +248,8 @@
     "DISTRICT": "GREATER MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEUT0784DCO": {
     "BANK": "Deutsche Bank",
@@ -252,7 +266,8 @@
     "DISTRICT": "GREATER MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEUT0784DSO": {
     "BANK": "Deutsche Bank",
@@ -269,7 +284,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEUT0784MMT": {
     "BANK": "Deutsche Bank",
@@ -286,7 +302,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEUT0784OPT": {
     "BANK": "Deutsche Bank",
@@ -303,7 +320,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEUT0784OTC": {
     "BANK": "Deutsche Bank",
@@ -320,7 +338,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEUT0784PBC": {
     "BANK": "Deutsche Bank",
@@ -337,7 +356,8 @@
     "DISTRICT": "GREATER MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEUT0784TRS": {
     "BANK": "Deutsche Bank",
@@ -354,7 +374,8 @@
     "DISTRICT": "GREATER MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEUT0784TRY": {
     "BANK": "Deutsche Bank",
@@ -371,7 +392,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": false,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEUT0796DEL": {
     "BANK": "Deutsche Bank",
@@ -388,7 +410,8 @@
     "DISTRICT": "NEW DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "DEUT0796TRS": {
     "BANK": "Deutsche Bank",
@@ -405,7 +428,8 @@
     "DISTRICT": "NEW DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "DEUT0797BGL": {
     "BANK": "Deutsche Bank",
@@ -422,7 +446,8 @@
     "DISTRICT": "BANGALORE URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "DEUT0797TRS": {
     "BANK": "Deutsche Bank",
@@ -439,7 +464,8 @@
     "DISTRICT": "BANGALORE URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "DEUT0916CNN": {
     "BANK": "Deutsche Bank",
@@ -456,7 +482,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "DEUT0916TRS": {
     "BANK": "Deutsche Bank",
@@ -473,7 +500,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "DEUT0917CAL": {
     "BANK": "Deutsche Bank",
@@ -490,7 +518,8 @@
     "DISTRICT": "KOLKATA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "DEUT0917TRS": {
     "BANK": "Deutsche Bank",
@@ -507,6 +536,7 @@
     "DISTRICT": "KOLKATA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   }
 }

@@ -2,19 +2,20 @@
   "NUCB0000001": {
     "BANK": "Nagar Urban Co-operative Bank",
     "IFSC": "NUCB0000001",
-    "BRANCH": "Nagar Urban Co-operative Bank IMPS",
+    "MICR": null,
+    "BRANCH": "HEAD OFFICE",
+    "ADDRESS": "CENTRAL BANK ROAD, POST BOX NUMBER 7",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": "+912412343642",
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "AHMADNAGAR",
     "CENTRE": "AHMADNAGAR",
     "DISTRICT": "AHMADNAGAR",
-    "STATE": "MAHARASHTRA",
-    "ADDRESS": "CENTRAL BANK ROAD, POST BOX NUMBER 7",
-    "CONTACT": "+912412343642",
-    "IMPS": true,
-    "CITY": "AHMADNAGAR",
-    "UPI": false,
-    "MICR": null,
-    "RTGS": true,
     "NEFT": false,
-    "SWIFT": null
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000002": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -31,7 +32,8 @@
     "DISTRICT": "AHMEDNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000101": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -48,7 +50,8 @@
     "DISTRICT": "AHMADNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000102": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -65,7 +68,8 @@
     "DISTRICT": "AHMADNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000103": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -82,7 +86,8 @@
     "DISTRICT": "AHMADNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000104": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -99,7 +104,8 @@
     "DISTRICT": "AHMADNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000105": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -116,7 +122,8 @@
     "DISTRICT": "AHMADNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000106": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -133,7 +140,8 @@
     "DISTRICT": "AHMADNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000107": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -150,7 +158,8 @@
     "DISTRICT": "AHMADNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000108": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -167,7 +176,8 @@
     "DISTRICT": "AHMADNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000109": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -184,7 +194,8 @@
     "DISTRICT": "AHMADNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000110": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -201,7 +212,8 @@
     "DISTRICT": "AHMADNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000111": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -218,7 +230,8 @@
     "DISTRICT": "AHMADNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000112": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -235,7 +248,8 @@
     "DISTRICT": "JALNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000113": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -252,7 +266,8 @@
     "DISTRICT": "BID",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000115": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -269,7 +284,8 @@
     "DISTRICT": "AHMADNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000116": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -286,7 +302,8 @@
     "DISTRICT": "AHMADNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000117": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -303,7 +320,8 @@
     "DISTRICT": "AHMADNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000118": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -320,7 +338,8 @@
     "DISTRICT": "AHMADNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000119": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -337,7 +356,8 @@
     "DISTRICT": "AHMADNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000120": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -354,7 +374,8 @@
     "DISTRICT": "AHMADNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000121": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -371,7 +392,8 @@
     "DISTRICT": "AHMADNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000122": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -388,7 +410,8 @@
     "DISTRICT": "AHMADNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000123": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -405,7 +428,8 @@
     "DISTRICT": "AHMADNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000124": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -422,7 +446,8 @@
     "DISTRICT": "AHMADNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000125": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -439,7 +464,8 @@
     "DISTRICT": "AHMADNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000126": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -456,7 +482,8 @@
     "DISTRICT": "AHMADNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000127": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -473,7 +500,8 @@
     "DISTRICT": "AHMADNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000128": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -490,7 +518,8 @@
     "DISTRICT": "AHMADNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000129": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -507,7 +536,8 @@
     "DISTRICT": "AHMADNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000130": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -524,7 +554,8 @@
     "DISTRICT": "AHMADNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000131": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -541,7 +572,8 @@
     "DISTRICT": "AHMADNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000133": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -558,7 +590,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000134": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -575,7 +608,8 @@
     "DISTRICT": "AHMADNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000135": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -592,7 +626,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000136": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -609,7 +644,8 @@
     "DISTRICT": "AHMADNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000137": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -626,7 +662,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000138": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -643,7 +680,8 @@
     "DISTRICT": "AHMADNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000139": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -660,7 +698,8 @@
     "DISTRICT": "NASIK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000140": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -677,7 +716,8 @@
     "DISTRICT": "SOLAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000141": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -694,7 +734,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000142": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -711,7 +752,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000143": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -728,7 +770,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000144": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -745,7 +788,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000145": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -762,7 +806,8 @@
     "DISTRICT": "AHMEDNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000146": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -779,7 +824,8 @@
     "DISTRICT": "BID",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000147": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -796,7 +842,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000148": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -813,7 +860,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0000149": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -830,7 +878,8 @@
     "DISTRICT": "NASIK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "NUCB0RMS002": {
     "BANK": "Nagar Urban Co-operative Bank",
@@ -847,6 +896,7 @@
     "DISTRICT": "AHMEDNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   }
 }

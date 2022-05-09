@@ -14,7 +14,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "SANT0000002": {
     "BANK": "Sant Sopankaka Sahakari Bank",
@@ -31,6 +32,7 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   }
 }

@@ -9,12 +9,13 @@
     "ADDRESS": "NEAR GANDHISAGAR MAHAL, NAGPUR 440018",
     "CONTACT": "+917122774866",
     "IMPS": true,
-    "CITY": "NAGPUR",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": null,
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "SKSB0000002": {
     "BANK": "Shikshak Sahakari Bank",
@@ -31,6 +32,7 @@
     "DISTRICT": "NAGPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   }
 }

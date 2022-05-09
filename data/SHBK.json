@@ -14,7 +14,8 @@
     "MICR": "400659002",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "SHBK0000003": {
     "BANK": "Shinhan Bank",
@@ -31,7 +32,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "SHBK0000004": {
     "BANK": "Shinhan Bank",
@@ -48,24 +50,26 @@
     "DISTRICT": "DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "SHBK0000005": {
     "BANK": "Shinhan Bank",
     "IFSC": "SHBK0000005",
-    "MICR": "632659102",
-    "BRANCH": "VELLORE BRANCH",
-    "ADDRESS": "NO 8,THIRUMALAI MUDALI STREET, WALAJAPET, VELLORE DIST, TAMILNADU - 632513",
+    "MICR": "600659002",
+    "BRANCH": "POONAMALLEE",
+    "ADDRESS": "SHINHAN BANK, POONAMALLEE BRANCH,  NO.84/1C2B1, BANGALORE HIGHWAY ROAD, MADAVILAKAM VILLAGE, NAZARATHPETTAI, POONAMALLEE TALUK, THIRUVALLUR DISTRICT, TAMIL NADU- 600123.",
     "STATE": "TAMIL NADU",
-    "CONTACT": "+914172278200",
+    "CONTACT": "+914467144400",
     "UPI": false,
     "RTGS": true,
-    "CITY": "VELLORE",
-    "CENTRE": "VELLORE",
-    "DISTRICT": "VELLORE",
+    "CITY": "THIRUVALLUR",
+    "CENTRE": "POONAMALLEE",
+    "DISTRICT": "POONAMALLEE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "SHBK0000006": {
     "BANK": "Shinhan Bank",
@@ -82,7 +86,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "SHBK0000007": {
     "BANK": "Shinhan Bank",
@@ -99,7 +104,8 @@
     "DISTRICT": "RANGA REDDY",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TG"
   },
   "SHBK0000008": {
     "BANK": "Shinhan Bank",
@@ -116,6 +122,7 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   }
 }

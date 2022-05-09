@@ -9,12 +9,13 @@
     "ADDRESS": "Mindspace Juinagar, Plot no. Gen 2/1/F, Tower 1, 8th Floor, TTC Industrial Area, MIDC Shirwane, Juinagar, Navi Mumbai- 400 706",
     "CONTACT": "+912271047054",
     "IMPS": true,
-    "CITY": "NAVI MUMBAI",
+    "CITY": "MUMBAI",
     "UPI": true,
     "MICR": null,
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "FINO0001001": {
     "BANK": "Fino Payments Bank",
@@ -31,7 +32,8 @@
     "DISTRICT": "THANA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "FINO0001005": {
     "BANK": "Fino Payments Bank",
@@ -48,7 +50,8 @@
     "DISTRICT": "RANGAREDDI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TG"
   },
   "FINO0001012": {
     "BANK": "Fino Payments Bank",
@@ -65,7 +68,8 @@
     "DISTRICT": "KHAGARIA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "FINO0001043": {
     "BANK": "Fino Payments Bank",
@@ -82,7 +86,8 @@
     "DISTRICT": "SANGANEER",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "FINO0001044": {
     "BANK": "Fino Payments Bank",
@@ -99,7 +104,8 @@
     "DISTRICT": "GAUTAM BUDDHA NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "FINO0001046": {
     "BANK": "Fino Payments Bank",
@@ -116,24 +122,8 @@
     "DISTRICT": "THANA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
-  },
-  "FINO0001047": {
-    "BANK": "Fino Payments Bank",
-    "IFSC": "FINO0001047",
-    "MICR": null,
-    "BRANCH": "MIDC CHINCHWAD",
-    "ADDRESS": "S.NO.100,RC 1,SHOP NO.2,NEAR SBI BANK,AKURDI,PUNE-411035",
-    "STATE": "MAHARASHTRA",
-    "CONTACT": "+919403427082",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "PUNE",
-    "CENTRE": "PUNE",
-    "DISTRICT": "PUNE",
-    "NEFT": true,
-    "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "FINO0001048": {
     "BANK": "Fino Payments Bank",
@@ -150,7 +140,8 @@
     "DISTRICT": "MUZAFFARPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "FINO0001052": {
     "BANK": "Fino Payments Bank",
@@ -167,7 +158,8 @@
     "DISTRICT": "KOLHAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "FINO0001060": {
     "BANK": "Fino Payments Bank",
@@ -184,7 +176,8 @@
     "DISTRICT": "ALWAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "FINO0001061": {
     "BANK": "Fino Payments Bank",
@@ -201,7 +194,8 @@
     "DISTRICT": "BEGUSARAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "FINO0001067": {
     "BANK": "Fino Payments Bank",
@@ -218,7 +212,8 @@
     "DISTRICT": "KOLHAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "FINO0001089": {
     "BANK": "Fino Payments Bank",
@@ -235,7 +230,8 @@
     "DISTRICT": "NEW DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "FINO0001108": {
     "BANK": "Fino Payments Bank",
@@ -252,7 +248,8 @@
     "DISTRICT": "NARAINGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "FINO0001111": {
     "BANK": "Fino Payments Bank",
@@ -269,7 +266,8 @@
     "DISTRICT": "NASIK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "FINO0001112": {
     "BANK": "Fino Payments Bank",
@@ -286,7 +284,8 @@
     "DISTRICT": "VIJAYWADA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
   },
   "FINO0001113": {
     "BANK": "Fino Payments Bank",
@@ -303,7 +302,8 @@
     "DISTRICT": "SOLAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HP"
   },
   "FINO0001118": {
     "BANK": "Fino Payments Bank",
@@ -320,7 +320,8 @@
     "DISTRICT": "SURAT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "FINO0001129": {
     "BANK": "Fino Payments Bank",
@@ -337,7 +338,8 @@
     "DISTRICT": "EAST DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "FINO0001146": {
     "BANK": "Fino Payments Bank",
@@ -354,7 +356,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "FINO0001147": {
     "BANK": "Fino Payments Bank",
@@ -371,7 +374,8 @@
     "DISTRICT": "NOIDA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "FINO0001157": {
     "BANK": "Fino Payments Bank",
@@ -388,7 +392,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "FINO0001192": {
     "BANK": "Fino Payments Bank",
@@ -405,7 +410,8 @@
     "DISTRICT": "HYDERABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
   },
   "FINO0001193": {
     "BANK": "Fino Payments Bank",
@@ -422,7 +428,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "FINO0001198": {
     "BANK": "Fino Payments Bank",
@@ -439,7 +446,8 @@
     "DISTRICT": "YAMUNANAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "FINO0001200": {
     "BANK": "Fino Payments Bank",
@@ -456,7 +464,8 @@
     "DISTRICT": "VAISHALI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "FINO0001207": {
     "BANK": "Fino Payments Bank",
@@ -473,7 +482,8 @@
     "DISTRICT": "GOPALGANJ",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "FINO0001220": {
     "BANK": "Fino Payments Bank",
@@ -490,7 +500,8 @@
     "DISTRICT": "PATNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "FINO0001226": {
     "BANK": "Fino Payments Bank",
@@ -507,7 +518,8 @@
     "DISTRICT": "MUZAFFARPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "FINO0001269": {
     "BANK": "Fino Payments Bank",
@@ -524,24 +536,8 @@
     "DISTRICT": "KOLHAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
-  },
-  "FINO0001284": {
-    "BANK": "Fino Payments Bank",
-    "IFSC": "FINO0001284",
-    "MICR": null,
-    "BRANCH": "OSMANABAD",
-    "ADDRESS": "KRANTIVIR COMPLEX,KALA MARUTI MANDIR ROAD,BEHIND TAJMAHAL TALKIES,OSMANABAD 413501",
-    "STATE": "MAHARASHTRA",
-    "CONTACT": "+919970990188",
-    "UPI": true,
-    "RTGS": true,
-    "CITY": "OSMANABAD",
-    "CENTRE": "OSMANABAD",
-    "DISTRICT": "OSMANABAD",
-    "NEFT": true,
-    "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "FINO0001299": {
     "BANK": "Fino Payments Bank",
@@ -558,7 +554,8 @@
     "DISTRICT": "BUXAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "FINO0001306": {
     "BANK": "Fino Payments Bank",
@@ -575,7 +572,8 @@
     "DISTRICT": "SARAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "FINO0001308": {
     "BANK": "Fino Payments Bank",
@@ -592,7 +590,8 @@
     "DISTRICT": "SAMASTIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "FINO0001325": {
     "BANK": "Fino Payments Bank",
@@ -609,7 +608,8 @@
     "DISTRICT": "MUZAFFARPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "FINO0001326": {
     "BANK": "Fino Payments Bank",
@@ -626,7 +626,8 @@
     "DISTRICT": "BHOJPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "FINO0001339": {
     "BANK": "Fino Payments Bank",
@@ -643,7 +644,8 @@
     "DISTRICT": "SAMASTIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "FINO0001346": {
     "BANK": "Fino Payments Bank",
@@ -660,7 +662,8 @@
     "DISTRICT": "VAISHALI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "FINO0001347": {
     "BANK": "Fino Payments Bank",
@@ -677,7 +680,8 @@
     "DISTRICT": "SIWAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "FINO0001349": {
     "BANK": "Fino Payments Bank",
@@ -694,7 +698,8 @@
     "DISTRICT": "MUZAFFARPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "FINO0001351": {
     "BANK": "Fino Payments Bank",
@@ -711,7 +716,8 @@
     "DISTRICT": "KOLHAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "FINO0001359": {
     "BANK": "Fino Payments Bank",
@@ -728,7 +734,8 @@
     "DISTRICT": "OSMANABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "FINO0001422": {
     "BANK": "Fino Payments Bank",
@@ -745,7 +752,8 @@
     "DISTRICT": "DARBHANGA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "FINO0001448": {
     "BANK": "Fino Payments Bank",
@@ -762,7 +770,8 @@
     "DISTRICT": "Patna",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "FINO0001550": {
     "BANK": "Fino Payments Bank",
@@ -779,7 +788,8 @@
     "DISTRICT": "DIU",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DH"
   },
   "FINO0001551": {
     "BANK": "Fino Payments Bank",
@@ -796,7 +806,8 @@
     "DISTRICT": "NORTH GOA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GA"
   },
   "FINO0001552": {
     "BANK": "Fino Payments Bank",
@@ -813,7 +824,8 @@
     "DISTRICT": "BHOPAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "FINO0001553": {
     "BANK": "Fino Payments Bank",
@@ -830,7 +842,8 @@
     "DISTRICT": "RAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "FINO0001555": {
     "BANK": "Fino Payments Bank",
@@ -847,7 +860,8 @@
     "DISTRICT": "ERNAKULAM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KL"
   },
   "FINO0001556": {
     "BANK": "Fino Payments Bank",
@@ -864,7 +878,8 @@
     "DISTRICT": "MADURAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "FINO0001557": {
     "BANK": "Fino Payments Bank",
@@ -881,7 +896,8 @@
     "DISTRICT": "DEHRADUN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UT"
   },
   "FINO0001558": {
     "BANK": "Fino Payments Bank",
@@ -898,7 +914,8 @@
     "DISTRICT": "BHUBANESWAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "FINO0001559": {
     "BANK": "Fino Payments Bank",
@@ -915,7 +932,8 @@
     "DISTRICT": "KOLKATA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "FINO0009001": {
     "BANK": "Fino Payments Bank",
@@ -932,7 +950,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "FINO0009002": {
     "BANK": "Fino Payments Bank",
@@ -940,7 +959,7 @@
     "MICR": null,
     "BRANCH": "Jharkhand_CPC",
     "ADDRESS": "2nd Floor, COMMERCE HOUSE, LINE TANK ROAD, RANCHI 834001",
-    "STATE": "Jharkhand",
+    "STATE": "JHARKHAND",
     "CONTACT": "+9165171047054",
     "UPI": true,
     "RTGS": true,
@@ -949,7 +968,8 @@
     "DISTRICT": "RANCHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "FINO0009003": {
     "BANK": "Fino Payments Bank",
@@ -966,6 +986,7 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   }
 }

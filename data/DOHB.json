@@ -14,7 +14,8 @@
     "MICR": "400234252",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DOHB0000002": {
     "BANK": "Doha Bank QSC",
@@ -31,7 +32,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DOHB0000003": {
     "BANK": "Doha Bank QSC",
@@ -48,7 +50,8 @@
     "DISTRICT": "KOCHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KL"
   },
   "DOHB0000004": {
     "BANK": "Doha Bank QSC",
@@ -65,7 +68,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "DOHB00000SC": {
     "BANK": "Doha Bank QSC",
@@ -82,6 +86,7 @@
     "DISTRICT": "MUMBAI",
     "NEFT": false,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   }
 }

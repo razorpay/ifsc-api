@@ -14,7 +14,8 @@
     "DISTRICT": "SOLAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "SBLS00000SC": {
     "BANK": "Samarth Sahakari Bank",
@@ -31,6 +32,7 @@
     "DISTRICT": "SOLAPUR",
     "NEFT": false,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   }
 }

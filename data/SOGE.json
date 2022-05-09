@@ -9,12 +9,13 @@
     "ADDRESS": "19th Floor, Tower A, Peninsula Business Park,Ganpatrao Kadam marg,Lower Parel,Mumbai - 400013, India",
     "CONTACT": "+9122400021",
     "IMPS": true,
-    "CITY": "MAHARASHTRA",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": "400608002",
     "RTGS": true,
     "NEFT": false,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "SOGE0INBB01": {
     "BANK": "Societe Generale",
@@ -31,7 +32,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "SOGE0INDL01": {
     "BANK": "Societe Generale",
@@ -48,6 +50,7 @@
     "DISTRICT": "NEW DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   }
 }

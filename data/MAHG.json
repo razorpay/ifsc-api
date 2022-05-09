@@ -14,7 +14,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": false,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG00000SC": {
     "BANK": "Maharashtra Gramin Bank",
@@ -31,24 +32,26 @@
     "DISTRICT": "AURANGABAD",
     "RTGS": false,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004000": {
     "BANK": "Maharashtra Gramin Bank",
     "IFSC": "MAHG0004000",
-    "MICR": null,
-    "BRANCH": "HEAD OFFICE",
-    "ADDRESS": "AT JIVANSHREE PLOT NO 35 SECTOR G TOWN CENTRE CIDCO AURANGABAD 431005",
-    "STATE": "MAHARASHTRA",
-    "CONTACT": "+912402476139",
-    "UPI": false,
-    "RTGS": true,
-    "CITY": "AURANGABAD",
+    "BRANCH": "Maharashtra Gramin Bank IMPS",
     "CENTRE": "AURANGABAD",
     "DISTRICT": "AURANGABAD",
-    "NEFT": true,
+    "STATE": "MAHARASHTRA",
+    "ADDRESS": "AT JIVANSHREE PLOT NO 35 SECTOR G TOWN CENTRE CIDCO AURANGABAD 431005",
+    "CONTACT": "+912402476139",
     "IMPS": true,
-    "SWIFT": null
+    "CITY": "MUMBAI",
+    "UPI": false,
+    "MICR": null,
+    "RTGS": true,
+    "NEFT": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004100": {
     "BANK": "Maharashtra Gramin Bank",
@@ -65,7 +68,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004101": {
     "BANK": "Maharashtra Gramin Bank",
@@ -82,7 +86,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004102": {
     "BANK": "Maharashtra Gramin Bank",
@@ -99,7 +104,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004103": {
     "BANK": "Maharashtra Gramin Bank",
@@ -116,7 +122,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004104": {
     "BANK": "Maharashtra Gramin Bank",
@@ -133,7 +140,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004105": {
     "BANK": "Maharashtra Gramin Bank",
@@ -150,7 +158,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004106": {
     "BANK": "Maharashtra Gramin Bank",
@@ -167,7 +176,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004107": {
     "BANK": "Maharashtra Gramin Bank",
@@ -184,7 +194,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004108": {
     "BANK": "Maharashtra Gramin Bank",
@@ -201,7 +212,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004109": {
     "BANK": "Maharashtra Gramin Bank",
@@ -218,7 +230,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004110": {
     "BANK": "Maharashtra Gramin Bank",
@@ -235,7 +248,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004111": {
     "BANK": "Maharashtra Gramin Bank",
@@ -252,7 +266,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004112": {
     "BANK": "Maharashtra Gramin Bank",
@@ -269,7 +284,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004113": {
     "BANK": "Maharashtra Gramin Bank",
@@ -286,7 +302,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004114": {
     "BANK": "Maharashtra Gramin Bank",
@@ -303,7 +320,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004115": {
     "BANK": "Maharashtra Gramin Bank",
@@ -320,7 +338,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004116": {
     "BANK": "Maharashtra Gramin Bank",
@@ -337,7 +356,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004118": {
     "BANK": "Maharashtra Gramin Bank",
@@ -354,7 +374,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004119": {
     "BANK": "Maharashtra Gramin Bank",
@@ -371,7 +392,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004120": {
     "BANK": "Maharashtra Gramin Bank",
@@ -388,7 +410,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004121": {
     "BANK": "Maharashtra Gramin Bank",
@@ -405,7 +428,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004122": {
     "BANK": "Maharashtra Gramin Bank",
@@ -422,7 +446,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004123": {
     "BANK": "Maharashtra Gramin Bank",
@@ -439,7 +464,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004124": {
     "BANK": "Maharashtra Gramin Bank",
@@ -456,7 +482,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004125": {
     "BANK": "Maharashtra Gramin Bank",
@@ -473,7 +500,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004126": {
     "BANK": "Maharashtra Gramin Bank",
@@ -490,7 +518,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004127": {
     "BANK": "Maharashtra Gramin Bank",
@@ -507,7 +536,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004128": {
     "BANK": "Maharashtra Gramin Bank",
@@ -524,7 +554,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004129": {
     "BANK": "Maharashtra Gramin Bank",
@@ -541,7 +572,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004130": {
     "BANK": "Maharashtra Gramin Bank",
@@ -558,7 +590,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004131": {
     "BANK": "Maharashtra Gramin Bank",
@@ -575,7 +608,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004132": {
     "BANK": "Maharashtra Gramin Bank",
@@ -592,7 +626,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004133": {
     "BANK": "Maharashtra Gramin Bank",
@@ -609,7 +644,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004134": {
     "BANK": "Maharashtra Gramin Bank",
@@ -626,7 +662,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004135": {
     "BANK": "Maharashtra Gramin Bank",
@@ -643,7 +680,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004136": {
     "BANK": "Maharashtra Gramin Bank",
@@ -660,7 +698,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004138": {
     "BANK": "Maharashtra Gramin Bank",
@@ -677,7 +716,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004139": {
     "BANK": "Maharashtra Gramin Bank",
@@ -694,7 +734,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004141": {
     "BANK": "Maharashtra Gramin Bank",
@@ -711,7 +752,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004142": {
     "BANK": "Maharashtra Gramin Bank",
@@ -728,7 +770,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004143": {
     "BANK": "Maharashtra Gramin Bank",
@@ -745,7 +788,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004144": {
     "BANK": "Maharashtra Gramin Bank",
@@ -762,7 +806,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004145": {
     "BANK": "Maharashtra Gramin Bank",
@@ -779,7 +824,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004147": {
     "BANK": "Maharashtra Gramin Bank",
@@ -796,7 +842,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004148": {
     "BANK": "Maharashtra Gramin Bank",
@@ -813,7 +860,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004149": {
     "BANK": "Maharashtra Gramin Bank",
@@ -830,7 +878,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004150": {
     "BANK": "Maharashtra Gramin Bank",
@@ -847,7 +896,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004151": {
     "BANK": "Maharashtra Gramin Bank",
@@ -864,7 +914,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004152": {
     "BANK": "Maharashtra Gramin Bank",
@@ -881,7 +932,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004153": {
     "BANK": "Maharashtra Gramin Bank",
@@ -898,7 +950,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004154": {
     "BANK": "Maharashtra Gramin Bank",
@@ -915,7 +968,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004155": {
     "BANK": "Maharashtra Gramin Bank",
@@ -932,7 +986,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004157": {
     "BANK": "Maharashtra Gramin Bank",
@@ -949,7 +1004,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004158": {
     "BANK": "Maharashtra Gramin Bank",
@@ -966,7 +1022,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004159": {
     "BANK": "Maharashtra Gramin Bank",
@@ -983,7 +1040,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004160": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1000,7 +1058,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004161": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1017,7 +1076,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004162": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1034,7 +1094,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004163": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1051,7 +1112,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004164": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1068,7 +1130,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004165": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1085,7 +1148,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004166": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1102,7 +1166,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004167": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1119,7 +1184,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004168": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1136,7 +1202,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004200": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1153,7 +1220,8 @@
     "DISTRICT": "PARBHANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004201": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1170,7 +1238,8 @@
     "DISTRICT": "HINGOLI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004202": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1187,7 +1256,8 @@
     "DISTRICT": "HINGOLI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004203": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1204,7 +1274,8 @@
     "DISTRICT": "PARBHANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004204": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1221,7 +1292,8 @@
     "DISTRICT": "PARBHANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004205": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1238,7 +1310,8 @@
     "DISTRICT": "PARBHANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004206": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1255,7 +1328,8 @@
     "DISTRICT": "PARBHANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004207": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1272,7 +1346,8 @@
     "DISTRICT": "PARBHANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004208": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1289,7 +1364,8 @@
     "DISTRICT": "PARBHANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004209": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1306,7 +1382,8 @@
     "DISTRICT": "PARBHANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004210": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1323,7 +1400,8 @@
     "DISTRICT": "HINGOLI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004211": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1340,7 +1418,8 @@
     "DISTRICT": "PARBHANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004213": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1357,7 +1436,8 @@
     "DISTRICT": "PARBHANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004214": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1374,7 +1454,8 @@
     "DISTRICT": "HINGOLI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004215": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1391,7 +1472,8 @@
     "DISTRICT": "HINGOLI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004216": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1408,7 +1490,8 @@
     "DISTRICT": "PARBHANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004217": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1425,7 +1508,8 @@
     "DISTRICT": "HINGOLI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004218": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1442,7 +1526,8 @@
     "DISTRICT": "PARBHANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004219": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1459,7 +1544,8 @@
     "DISTRICT": "PARBHANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004220": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1476,7 +1562,8 @@
     "DISTRICT": "HINGOLI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004221": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1493,7 +1580,8 @@
     "DISTRICT": "PARBHANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004222": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1510,7 +1598,8 @@
     "DISTRICT": "HINGOLI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004223": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1527,7 +1616,8 @@
     "DISTRICT": "PARBHANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004224": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1544,7 +1634,8 @@
     "DISTRICT": "PARBHANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004225": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1561,7 +1652,8 @@
     "DISTRICT": "HINGOLI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004226": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1578,7 +1670,8 @@
     "DISTRICT": "HINGOLI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004227": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1595,7 +1688,8 @@
     "DISTRICT": "HINGOLI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004228": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1612,7 +1706,8 @@
     "DISTRICT": "HINGOLI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004229": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1629,7 +1724,8 @@
     "DISTRICT": "PARBHANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004230": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1646,7 +1742,8 @@
     "DISTRICT": "PARBHANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004231": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1663,7 +1760,8 @@
     "DISTRICT": "HINGOLI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004232": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1680,7 +1778,8 @@
     "DISTRICT": "HINGOLI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004233": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1697,7 +1796,8 @@
     "DISTRICT": "PARBHANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004234": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1714,7 +1814,8 @@
     "DISTRICT": "PARBHANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004235": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1731,7 +1832,8 @@
     "DISTRICT": "PARBHANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004236": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1748,7 +1850,8 @@
     "DISTRICT": "PARBHANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004237": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1765,7 +1868,8 @@
     "DISTRICT": "PARBHANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004238": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1782,7 +1886,8 @@
     "DISTRICT": "PARBHANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004239": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1799,7 +1904,8 @@
     "DISTRICT": "PARBHANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004240": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1816,7 +1922,8 @@
     "DISTRICT": "PARBHANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004241": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1833,7 +1940,8 @@
     "DISTRICT": "HINGOLI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004242": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1850,7 +1958,8 @@
     "DISTRICT": "HINGOLI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004243": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1867,7 +1976,8 @@
     "DISTRICT": "PARBHANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004244": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1884,7 +1994,8 @@
     "DISTRICT": "HINGOLI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004245": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1901,7 +2012,8 @@
     "DISTRICT": "PARBHANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004246": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1918,7 +2030,8 @@
     "DISTRICT": "PARBHANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004248": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1935,7 +2048,8 @@
     "DISTRICT": "HINGOLI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004249": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1952,7 +2066,8 @@
     "DISTRICT": "HINGOLI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004251": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1969,7 +2084,8 @@
     "DISTRICT": "PARBHANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004252": {
     "BANK": "Maharashtra Gramin Bank",
@@ -1986,7 +2102,8 @@
     "DISTRICT": "PARBHANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004254": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2003,7 +2120,8 @@
     "DISTRICT": "PARBHANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004255": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2020,7 +2138,8 @@
     "DISTRICT": "HINGOLI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004257": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2037,7 +2156,8 @@
     "DISTRICT": "PARBHANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004258": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2054,7 +2174,8 @@
     "DISTRICT": "PARBHANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004259": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2071,7 +2192,8 @@
     "DISTRICT": "PARBHANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004260": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2088,7 +2210,8 @@
     "DISTRICT": "PARBHANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004261": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2105,7 +2228,8 @@
     "DISTRICT": "PARBHANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004262": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2122,7 +2246,8 @@
     "DISTRICT": "HINGOLI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004263": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2139,7 +2264,8 @@
     "DISTRICT": "PARBHANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004264": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2156,7 +2282,8 @@
     "DISTRICT": "HINGOLI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004265": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2173,7 +2300,8 @@
     "DISTRICT": "HINGOLI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004300": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2190,7 +2318,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004301": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2207,7 +2336,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004302": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2224,7 +2354,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004303": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2241,7 +2372,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004305": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2258,7 +2390,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004306": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2275,7 +2408,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004307": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2292,7 +2426,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004308": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2309,7 +2444,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004309": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2326,7 +2462,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004310": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2343,7 +2480,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004311": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2360,7 +2498,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004312": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2377,7 +2516,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004313": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2394,7 +2534,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004314": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2411,7 +2552,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004315": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2428,7 +2570,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004316": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2445,7 +2588,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004317": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2462,7 +2606,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004318": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2479,7 +2624,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004319": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2496,7 +2642,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004320": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2513,7 +2660,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004321": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2530,7 +2678,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004322": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2547,7 +2696,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004323": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2564,7 +2714,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004324": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2581,7 +2732,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004325": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2598,7 +2750,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004326": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2615,7 +2768,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004327": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2632,7 +2786,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004328": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2649,7 +2804,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004329": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2666,7 +2822,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004330": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2683,7 +2840,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004331": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2700,7 +2858,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004332": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2717,7 +2876,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004333": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2734,7 +2894,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004334": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2751,7 +2912,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004335": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2768,7 +2930,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004336": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2785,7 +2948,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004337": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2802,7 +2966,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004338": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2819,7 +2984,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004339": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2836,7 +3002,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004340": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2853,7 +3020,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004341": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2870,7 +3038,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004342": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2887,7 +3056,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004343": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2904,7 +3074,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004344": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2921,7 +3092,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004401": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2938,7 +3110,8 @@
     "DISTRICT": "OSMANABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004402": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2955,7 +3128,8 @@
     "DISTRICT": "OSMANABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004403": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2972,7 +3146,8 @@
     "DISTRICT": "OSMANABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004404": {
     "BANK": "Maharashtra Gramin Bank",
@@ -2989,7 +3164,8 @@
     "DISTRICT": "OSMANABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004405": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3006,7 +3182,8 @@
     "DISTRICT": "OSMANABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004406": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3023,7 +3200,8 @@
     "DISTRICT": "OSMANABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004407": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3040,7 +3218,8 @@
     "DISTRICT": "OSMANABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004409": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3057,7 +3236,8 @@
     "DISTRICT": "OSMANABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004410": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3074,7 +3254,8 @@
     "DISTRICT": "OSMANABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004411": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3091,7 +3272,8 @@
     "DISTRICT": "OSMANABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004412": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3108,7 +3290,8 @@
     "DISTRICT": "OSMANABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004413": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3125,7 +3308,8 @@
     "DISTRICT": "OSMANABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004414": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3142,7 +3326,8 @@
     "DISTRICT": "OSMANABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004415": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3159,7 +3344,8 @@
     "DISTRICT": "OSMANABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004416": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3176,7 +3362,8 @@
     "DISTRICT": "OSMANABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004417": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3193,7 +3380,8 @@
     "DISTRICT": "OSMANABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004418": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3210,7 +3398,8 @@
     "DISTRICT": "OSMANABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004419": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3227,7 +3416,8 @@
     "DISTRICT": "OSMANABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004420": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3244,7 +3434,8 @@
     "DISTRICT": "OSMANABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004421": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3261,7 +3452,8 @@
     "DISTRICT": "OSMANABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004422": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3278,7 +3470,8 @@
     "DISTRICT": "OSMANABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004423": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3295,7 +3488,8 @@
     "DISTRICT": "OSMANABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004424": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3312,7 +3506,8 @@
     "DISTRICT": "OSMANABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004425": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3329,7 +3524,8 @@
     "DISTRICT": "OSMANABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004426": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3346,7 +3542,8 @@
     "DISTRICT": "OSMANABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004428": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3363,7 +3560,8 @@
     "DISTRICT": "OSMANABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004429": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3380,7 +3578,8 @@
     "DISTRICT": "OSMANABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004430": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3397,7 +3596,8 @@
     "DISTRICT": "OSMANABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004431": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3414,7 +3614,8 @@
     "DISTRICT": "OSMANABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004432": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3431,7 +3632,8 @@
     "DISTRICT": "OSMANABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004433": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3448,7 +3650,8 @@
     "DISTRICT": "OSMANABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004434": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3465,7 +3668,8 @@
     "DISTRICT": "OSMANABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004435": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3482,7 +3686,8 @@
     "DISTRICT": "OSMANABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004436": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3499,7 +3704,8 @@
     "DISTRICT": "OSMANABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004437": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3516,7 +3722,8 @@
     "DISTRICT": "OSMANABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004438": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3533,7 +3740,8 @@
     "DISTRICT": "OSMANABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004439": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3550,7 +3758,8 @@
     "DISTRICT": "OSMANABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004500": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3567,7 +3776,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004501": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3584,7 +3794,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004502": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3601,7 +3812,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004503": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3618,7 +3830,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004504": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3635,7 +3848,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004506": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3652,7 +3866,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004507": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3669,7 +3884,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004508": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3686,7 +3902,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004509": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3703,7 +3920,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004510": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3720,7 +3938,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004511": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3737,7 +3956,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004512": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3754,7 +3974,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004513": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3771,7 +3992,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004514": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3788,7 +4010,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004515": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3805,7 +4028,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004516": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3822,7 +4046,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004517": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3839,7 +4064,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004518": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3856,7 +4082,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004519": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3873,7 +4100,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004520": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3890,7 +4118,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004521": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3907,7 +4136,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004522": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3924,7 +4154,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004523": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3941,7 +4172,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004524": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3958,7 +4190,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004525": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3975,7 +4208,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004526": {
     "BANK": "Maharashtra Gramin Bank",
@@ -3992,7 +4226,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004527": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4009,7 +4244,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004529": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4026,7 +4262,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004530": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4043,7 +4280,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004531": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4060,7 +4298,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004532": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4077,7 +4316,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004533": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4094,7 +4334,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004534": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4111,7 +4352,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004535": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4128,7 +4370,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004536": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4145,7 +4388,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004537": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4162,7 +4406,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004538": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4179,7 +4424,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004539": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4196,7 +4442,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004540": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4213,7 +4460,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004541": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4230,7 +4478,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004542": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4247,7 +4496,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004544": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4264,7 +4514,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004545": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4281,7 +4532,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004546": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4298,7 +4550,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004547": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4315,7 +4568,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004548": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4332,7 +4586,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004549": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4349,7 +4604,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004550": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4366,7 +4622,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004551": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4383,7 +4640,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004552": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4400,7 +4658,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004553": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4417,7 +4676,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004554": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4434,7 +4694,8 @@
     "DISTRICT": "BEED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004601": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4451,7 +4712,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004602": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4468,7 +4730,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004603": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4485,7 +4748,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004604": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4502,7 +4766,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004605": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4519,7 +4784,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004606": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4536,7 +4802,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004607": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4553,7 +4820,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004608": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4570,7 +4838,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004609": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4587,7 +4856,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004610": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4604,7 +4874,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004611": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4621,7 +4892,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004612": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4638,7 +4910,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004614": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4655,7 +4928,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004615": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4672,7 +4946,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004616": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4689,7 +4964,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004617": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4706,7 +4982,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004618": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4723,7 +5000,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004619": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4740,7 +5018,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004620": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4757,7 +5036,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004621": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4774,7 +5054,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004622": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4791,7 +5072,8 @@
     "DISTRICT": "OTUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0004623": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4808,7 +5090,8 @@
     "DISTRICT": "ALEPHATA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005100": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4825,7 +5108,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005101": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4842,7 +5126,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005102": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4859,7 +5144,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005103": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4876,7 +5162,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005104": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4893,7 +5180,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005105": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4910,7 +5198,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005106": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4927,7 +5216,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005107": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4944,7 +5234,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005109": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4961,7 +5252,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005110": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4978,7 +5270,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005111": {
     "BANK": "Maharashtra Gramin Bank",
@@ -4995,7 +5288,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005112": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5012,7 +5306,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005113": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5029,7 +5324,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005114": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5046,7 +5342,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005115": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5063,7 +5360,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005116": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5080,7 +5378,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005118": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5097,7 +5396,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005120": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5114,7 +5414,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005121": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5131,7 +5432,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005122": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5148,7 +5450,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005123": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5165,7 +5468,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005124": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5182,7 +5486,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005125": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5199,7 +5504,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005126": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5216,7 +5522,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005127": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5233,7 +5540,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005128": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5250,7 +5558,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005129": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5267,7 +5576,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005130": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5284,7 +5594,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005131": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5301,7 +5612,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005132": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5318,7 +5630,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005133": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5335,7 +5648,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005134": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5352,7 +5666,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005135": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5369,7 +5684,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005136": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5386,7 +5702,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005137": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5403,7 +5720,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005138": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5420,7 +5738,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005139": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5437,7 +5756,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005140": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5454,7 +5774,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005201": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5471,7 +5792,8 @@
     "DISTRICT": "JALNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005202": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5488,7 +5810,8 @@
     "DISTRICT": "JALNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005203": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5505,7 +5828,8 @@
     "DISTRICT": "JALNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005204": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5522,7 +5846,8 @@
     "DISTRICT": "JALNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005205": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5539,7 +5864,8 @@
     "DISTRICT": "JALNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005206": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5556,7 +5882,8 @@
     "DISTRICT": "JALNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005207": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5573,7 +5900,8 @@
     "DISTRICT": "JALNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005208": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5590,7 +5918,8 @@
     "DISTRICT": "JALNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005209": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5607,7 +5936,8 @@
     "DISTRICT": "JALNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005210": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5624,7 +5954,8 @@
     "DISTRICT": "JALNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005211": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5641,7 +5972,8 @@
     "DISTRICT": "JALNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005212": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5658,7 +5990,8 @@
     "DISTRICT": "JALNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005213": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5675,7 +6008,8 @@
     "DISTRICT": "JALNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005214": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5692,7 +6026,8 @@
     "DISTRICT": "JALNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005215": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5709,7 +6044,8 @@
     "DISTRICT": "JALNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005216": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5726,7 +6062,8 @@
     "DISTRICT": "JALNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005217": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5743,7 +6080,8 @@
     "DISTRICT": "JALNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005218": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5760,7 +6098,8 @@
     "DISTRICT": "JALNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005219": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5777,7 +6116,8 @@
     "DISTRICT": "JALNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005220": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5794,7 +6134,8 @@
     "DISTRICT": "JALNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005221": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5811,7 +6152,8 @@
     "DISTRICT": "JALNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005222": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5828,7 +6170,8 @@
     "DISTRICT": "JALNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005223": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5845,7 +6188,8 @@
     "DISTRICT": "JALNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005224": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5862,7 +6206,8 @@
     "DISTRICT": "JALNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005226": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5879,7 +6224,8 @@
     "DISTRICT": "JALNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005227": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5896,7 +6242,8 @@
     "DISTRICT": "JALNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005401": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5913,7 +6260,8 @@
     "DISTRICT": "AHMEDNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005402": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5930,7 +6278,8 @@
     "DISTRICT": "AHMEDNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005403": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5947,7 +6296,8 @@
     "DISTRICT": "AHMEDNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005404": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5964,7 +6314,8 @@
     "DISTRICT": "AHMEDNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005405": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5981,7 +6332,8 @@
     "DISTRICT": "AHMEDNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005406": {
     "BANK": "Maharashtra Gramin Bank",
@@ -5998,7 +6350,8 @@
     "DISTRICT": "AHMEDNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005407": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6015,7 +6368,8 @@
     "DISTRICT": "AHMEDNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005408": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6032,7 +6386,8 @@
     "DISTRICT": "AHMEDNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005409": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6049,7 +6404,8 @@
     "DISTRICT": "AHMEDNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005501": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6066,7 +6422,8 @@
     "DISTRICT": "JALGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005502": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6083,7 +6440,8 @@
     "DISTRICT": "JALGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005503": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6100,7 +6458,8 @@
     "DISTRICT": "JALGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005504": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6117,7 +6476,8 @@
     "DISTRICT": "JALGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005505": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6134,7 +6494,8 @@
     "DISTRICT": "JALGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005506": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6151,7 +6512,8 @@
     "DISTRICT": "JALGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005507": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6168,7 +6530,8 @@
     "DISTRICT": "JALGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005508": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6185,7 +6548,8 @@
     "DISTRICT": "JALGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005509": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6202,7 +6566,8 @@
     "DISTRICT": "JALGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005510": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6219,7 +6584,8 @@
     "DISTRICT": "JALGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005511": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6236,7 +6602,8 @@
     "DISTRICT": "JALGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005512": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6253,7 +6620,8 @@
     "DISTRICT": "JALGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005513": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6270,7 +6638,8 @@
     "DISTRICT": "JALGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005514": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6287,7 +6656,8 @@
     "DISTRICT": "JALGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005515": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6304,7 +6674,8 @@
     "DISTRICT": "JALGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005516": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6321,7 +6692,8 @@
     "DISTRICT": "JALGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005517": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6338,7 +6710,8 @@
     "DISTRICT": "JALGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005518": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6355,7 +6728,8 @@
     "DISTRICT": "JALGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005600": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6372,7 +6746,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005601": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6389,7 +6764,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005602": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6406,7 +6782,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005603": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6423,7 +6800,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005604": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6440,7 +6818,8 @@
     "DISTRICT": "PALGHAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005605": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6457,7 +6836,8 @@
     "DISTRICT": "PALGHAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005606": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6474,7 +6854,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005608": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6491,7 +6872,8 @@
     "DISTRICT": "PALGHAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005609": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6508,7 +6890,8 @@
     "DISTRICT": "PALGHAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005612": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6525,7 +6908,8 @@
     "DISTRICT": "PALGHAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005614": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6542,7 +6926,8 @@
     "DISTRICT": "PALGHAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005615": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6559,7 +6944,8 @@
     "DISTRICT": "PALGHAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005619": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6576,7 +6962,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005620": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6593,7 +6980,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005622": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6610,7 +6998,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005623": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6627,7 +7016,8 @@
     "DISTRICT": "PALGHAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005625": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6644,7 +7034,8 @@
     "DISTRICT": "PALGHAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005628": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6661,7 +7052,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005629": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6678,7 +7070,8 @@
     "DISTRICT": "PALGHAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005630": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6695,7 +7088,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005631": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6712,7 +7106,8 @@
     "DISTRICT": "PALGHAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005632": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6729,7 +7124,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005633": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6746,7 +7142,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005634": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6763,7 +7160,8 @@
     "DISTRICT": "PALGHAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005635": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6780,7 +7178,8 @@
     "DISTRICT": "BHIWANDI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005700": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6797,7 +7196,8 @@
     "DISTRICT": "NASIK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005701": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6814,7 +7214,8 @@
     "DISTRICT": "NASIK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005702": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6831,7 +7232,8 @@
     "DISTRICT": "NASIK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005703": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6848,7 +7250,8 @@
     "DISTRICT": "NASIK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005704": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6865,7 +7268,8 @@
     "DISTRICT": "NASIK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005705": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6882,7 +7286,8 @@
     "DISTRICT": "NASIK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005706": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6899,7 +7304,8 @@
     "DISTRICT": "NASIK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005707": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6916,7 +7322,8 @@
     "DISTRICT": "NASIK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005708": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6933,7 +7340,8 @@
     "DISTRICT": "NASHIK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005709": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6950,7 +7358,8 @@
     "DISTRICT": "NASHIK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005710": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6967,7 +7376,8 @@
     "DISTRICT": "NASHIK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005711": {
     "BANK": "Maharashtra Gramin Bank",
@@ -6984,7 +7394,8 @@
     "DISTRICT": "NASIK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005712": {
     "BANK": "Maharashtra Gramin Bank",
@@ -7001,7 +7412,8 @@
     "DISTRICT": "NASIK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005713": {
     "BANK": "Maharashtra Gramin Bank",
@@ -7018,7 +7430,8 @@
     "DISTRICT": "NASIK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005714": {
     "BANK": "Maharashtra Gramin Bank",
@@ -7035,7 +7448,8 @@
     "DISTRICT": "NASIK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005715": {
     "BANK": "Maharashtra Gramin Bank",
@@ -7052,7 +7466,8 @@
     "DISTRICT": "NASIK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005801": {
     "BANK": "Maharashtra Gramin Bank",
@@ -7069,7 +7484,8 @@
     "DISTRICT": "DHULE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005802": {
     "BANK": "Maharashtra Gramin Bank",
@@ -7086,7 +7502,8 @@
     "DISTRICT": "DHULE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005803": {
     "BANK": "Maharashtra Gramin Bank",
@@ -7103,7 +7520,8 @@
     "DISTRICT": "DHULE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005804": {
     "BANK": "Maharashtra Gramin Bank",
@@ -7120,7 +7538,8 @@
     "DISTRICT": "DHULE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005901": {
     "BANK": "Maharashtra Gramin Bank",
@@ -7137,7 +7556,8 @@
     "DISTRICT": "RAIGAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005902": {
     "BANK": "Maharashtra Gramin Bank",
@@ -7154,7 +7574,8 @@
     "DISTRICT": "RAIGAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0005903": {
     "BANK": "Maharashtra Gramin Bank",
@@ -7171,7 +7592,8 @@
     "DISTRICT": "RAIGAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0006000": {
     "BANK": "Maharashtra Gramin Bank",
@@ -7188,7 +7610,8 @@
     "DISTRICT": "NANDURBAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0006001": {
     "BANK": "Maharashtra Gramin Bank",
@@ -7205,7 +7628,8 @@
     "DISTRICT": "NANDURBAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0006002": {
     "BANK": "Maharashtra Gramin Bank",
@@ -7222,7 +7646,8 @@
     "DISTRICT": "NANDURBAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0006003": {
     "BANK": "Maharashtra Gramin Bank",
@@ -7239,7 +7664,8 @@
     "DISTRICT": "NANDURBAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0006004": {
     "BANK": "Maharashtra Gramin Bank",
@@ -7256,7 +7682,8 @@
     "DISTRICT": "NANDURBAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "MAHG0099922": {
     "BANK": "Maharashtra Gramin Bank",
@@ -7273,6 +7700,7 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   }
 }

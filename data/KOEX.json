@@ -5,16 +5,17 @@
     "BRANCH": "KEB Hana Bank IMPS",
     "CENTRE": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "4TH FLOOR, NO 29 BANNARI AMMAN TOWERS, DR.RADHAKRISHNAN SALAI, MYLAPORE, CHENNAI 4",
     "CONTACT": "+914449056320",
     "IMPS": true,
-    "CITY": "CHENNAI",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": null,
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "KOEX0000002": {
     "BANK": "KEB Hana Bank",
@@ -31,7 +32,8 @@
     "DISTRICT": "GURUGRAM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "KOEX00000SC": {
     "BANK": "KEB Hana Bank",
@@ -48,6 +50,7 @@
     "DISTRICT": "CHENNAI",
     "NEFT": false,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   }
 }

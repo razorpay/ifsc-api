@@ -14,7 +14,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "HVBK0000002": {
     "BANK": "Woori Bank",
@@ -31,7 +32,8 @@
     "DISTRICT": "GURGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "HVBK0000003": {
     "BANK": "Woori Bank",
@@ -48,7 +50,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "HVBK0999999": {
     "BANK": "Woori Bank",
@@ -65,7 +68,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "HVBK0NEFTSC": {
     "BANK": "Woori Bank",
@@ -82,6 +86,7 @@
     "DISTRICT": "CHENNAI",
     "NEFT": false,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   }
 }
