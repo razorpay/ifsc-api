@@ -9,12 +9,13 @@
     "CONTACT": null,
     "UPI": false,
     "RTGS": true,
-    "CITY": "MAHARASHTRA",
+    "CITY": "MUMBAI",
     "CENTRE": "MUMBAI",
     "DISTRICT": "MUMBAI",
     "NEFT": false,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-MH",
     "imps": false
   },
   "RBIP0NEFTSC": {
@@ -27,12 +28,13 @@
     "CONTACT": null,
     "UPI": false,
     "RTGS": true,
-    "CITY": "MAHARASHTRA",
+    "CITY": "MUMBAI",
     "CENTRE": "MUMBAI",
     "DISTRICT": "MUMBAI",
     "NEFT": false,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-MH",
     "imps": false
   }
 }

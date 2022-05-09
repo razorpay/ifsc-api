@@ -14,7 +14,8 @@
     "MICR": "400500002",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "CHAS0INBX02": {
     "BANK": "JP Morgan Chase Bank NA",
@@ -31,7 +32,8 @@
     "DISTRICT": "NEW DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "CHAS0INBX03": {
     "BANK": "JP Morgan Chase Bank NA",
@@ -48,7 +50,8 @@
     "DISTRICT": "BANGALORE RURAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "CHAS0INBX04": {
     "BANK": "JP Morgan Chase Bank NA",
@@ -65,6 +68,7 @@
     "DISTRICT": "KANCHIPURAM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   }
 }

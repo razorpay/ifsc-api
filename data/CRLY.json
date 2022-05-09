@@ -9,12 +9,13 @@
     "ADDRESS": "HOECHST HOUSE 11TH FLOOR, NARIMAN POINT",
     "CONTACT": "+912267371000",
     "IMPS": true,
-    "CITY": "MAHARASHTRA",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": "400151002",
     "RTGS": true,
     "NEFT": false,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "CRLY0000002": {
     "BANK": "Credit Agricole Corporate and Investment Bank",
@@ -31,7 +32,8 @@
     "DISTRICT": "NEW DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "CRLY0000004": {
     "BANK": "Credit Agricole Corporate and Investment Bank",
@@ -48,7 +50,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "CRLY0000005": {
     "BANK": "Credit Agricole Corporate and Investment Bank",
@@ -65,7 +68,8 @@
     "DISTRICT": "BANGALORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "CRLY0000006": {
     "BANK": "Credit Agricole Corporate and Investment Bank",
@@ -82,7 +86,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "CRLY0000010": {
     "BANK": "Credit Agricole Corporate and Investment Bank",
@@ -99,6 +104,7 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   }
 }

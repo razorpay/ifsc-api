@@ -5,16 +5,17 @@
     "BRANCH": "Sumitomo Mitsui Banking Corporation IMPS",
     "CENTRE": "NEW DELHI",
     "DISTRICT": "NEW DELHI",
-    "STATE": "DELHI",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "13TH FLOOR, HINDUSTAN TIMES HOUSE, 18-20, KG MARG,NEW DELHI - 110001",
     "CONTACT": "+911147689111",
     "IMPS": true,
-    "CITY": "NEW DELHI",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": "110040002",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "SMBC0000002": {
     "BANK": "Sumitomo Mitsui Banking Corporation",
@@ -31,7 +32,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "SMBC0000003": {
     "BANK": "Sumitomo Mitsui Banking Corporation",
@@ -48,6 +50,7 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   }
 }

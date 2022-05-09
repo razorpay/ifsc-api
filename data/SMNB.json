@@ -14,7 +14,8 @@
     "DISTRICT": "MANDSAUR",
     "NEFT": false,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "SMNB0000002": {
     "BANK": "Smriti Nagrik Sahakari Bank",
@@ -29,9 +30,10 @@
     "CITY": "MANDSAUR",
     "CENTRE": "MANDSAUR",
     "DISTRICT": "MANDSAUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "SMNB0000003": {
     "BANK": "Smriti Nagrik Sahakari Bank",
@@ -46,9 +48,10 @@
     "CITY": "PIPLIYAMANDI",
     "CENTRE": "PIPLIYAMANDI",
     "DISTRICT": "PIPLIYAMANDI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "SMNB0000004": {
     "BANK": "Smriti Nagrik Sahakari Bank",
@@ -63,9 +66,10 @@
     "CITY": "DALOUDA",
     "CENTRE": "DALOUDA",
     "DISTRICT": "DALOUDA",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "SMNB0000005": {
     "BANK": "Smriti Nagrik Sahakari Bank",
@@ -80,8 +84,45 @@
     "CITY": "MANDSAUR",
     "CENTRE": "MANDSAUR",
     "DISTRICT": "MANDSAUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
+  },
+  "SMNB0000006": {
+    "BANK": "Smriti Nagrik Sahakari Bank",
+    "IFSC": "SMNB0000006",
+    "MICR": "458832053",
+    "BRANCH": "NEEMUCH",
+    "ADDRESS": "HOUSE NO.7, BANGLOW NO.40 CRPF LINES,NEAR RATAN SWEETS,NEEMUCH",
+    "STATE": "MADHYA PRADESH",
+    "CONTACT": "+917422405622",
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "NEEMUCH",
+    "CENTRE": "NEEMUCH",
+    "DISTRICT": "NEEMUCH",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
+  },
+  "SMNB0000007": {
+    "BANK": "Smriti Nagrik Sahakari Bank",
+    "IFSC": "SMNB0000007",
+    "MICR": "458832051",
+    "BRANCH": "MANASA",
+    "ADDRESS": "WARD NO.10,MANDSAUR CHORAHA,NEAR RATLAM GRAMIN BANK,MANASA-RAMPURA MAIN ROAD,MANASA",
+    "STATE": "MADHYA PRADESH",
+    "CONTACT": "+917422405622",
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "NEEMUCH",
+    "CENTRE": "MANASA",
+    "DISTRICT": "MANASA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   }
 }

@@ -14,7 +14,8 @@
     "DISTRICT": "BANGALORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "BOFA0CN6215": {
     "BANK": "Bank of America",
@@ -31,7 +32,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "BOFA0MM6205": {
     "BANK": "Bank of America",
@@ -48,7 +50,8 @@
     "MICR": null,
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "BOFA0ND6216": {
     "BANK": "Bank of America",
@@ -65,6 +68,7 @@
     "DISTRICT": "NEW DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   }
 }

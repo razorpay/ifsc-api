@@ -14,7 +14,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": false,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "BCEY0CHEN01": {
     "BANK": "Bank of Ceylon",
@@ -22,15 +23,16 @@
     "BRANCH": "Bank of Ceylon IMPS",
     "CENTRE": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "NO 20/21 CASA MAJOR ROAD N.N0 2(O.NO.11)ZERAT GARDEN,2ND LANE,EGMORE CHENNAI 600 008",
     "CONTACT": null,
     "IMPS": true,
-    "CITY": "CHENNAI",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": null,
     "RTGS": true,
     "NEFT": false,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   }
 }

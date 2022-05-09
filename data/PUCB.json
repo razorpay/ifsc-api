@@ -1,6 +1,6 @@
 {
   "PUCB0000001": {
-    "BANK": "Pandharpur Urban Co Op. Bank Pandharpur",
+    "BANK": "Pandharpur Urban Co-operative Bank",
     "IFSC": "PUCB0000001",
     "MICR": null,
     "BRANCH": "RTGS-HO",
@@ -14,7 +14,8 @@
     "DISTRICT": "SOLAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "PUCB0000002": {
     "BANK": "Pandharpur Urban Co-operative Bank",
@@ -26,15 +27,16 @@
     "ADDRESS": "KHAVA BAZAR,NAVI PETH,PANDHARPUR,413304",
     "CONTACT": "+912186223884",
     "IMPS": true,
-    "CITY": "PANDHARPUR",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": null,
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "PUCB0000003": {
-    "BANK": "Pandharpur Urban Co Op. Bank Pandharpur",
+    "BANK": "Pandharpur Urban Co-operative Bank",
     "IFSC": "PUCB0000003",
     "MICR": "413588352",
     "BRANCH": "SANGOLA",
@@ -48,10 +50,11 @@
     "DISTRICT": "SOLAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "PUCB0000004": {
-    "BANK": "Pandharpur Urban Co Op. Bank Pandharpur",
+    "BANK": "Pandharpur Urban Co-operative Bank",
     "IFSC": "PUCB0000004",
     "MICR": "413588503",
     "BRANCH": "MODNIMB",
@@ -65,10 +68,11 @@
     "DISTRICT": "SOLAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "PUCB0000005": {
-    "BANK": "Pandharpur Urban Co Op. Bank Pandharpur",
+    "BANK": "Pandharpur Urban Co-operative Bank",
     "IFSC": "PUCB0000005",
     "MICR": "413588201",
     "BRANCH": "BARSHI",
@@ -82,10 +86,11 @@
     "DISTRICT": "SOLAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "PUCB0000006": {
-    "BANK": "Pandharpur Urban Co Op. Bank Pandharpur",
+    "BANK": "Pandharpur Urban Co-operative Bank",
     "IFSC": "PUCB0000006",
     "MICR": "413588003",
     "BRANCH": "SAKHAR PETH, SOALPUR",
@@ -99,10 +104,11 @@
     "DISTRICT": "SOLAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "PUCB0000007": {
-    "BANK": "Pandharpur Urban Co Op. Bank Pandharpur",
+    "BANK": "Pandharpur Urban Co-operative Bank",
     "IFSC": "PUCB0000007",
     "MICR": "413588502",
     "BRANCH": "MOHOL",
@@ -116,10 +122,11 @@
     "DISTRICT": "SOLAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "PUCB0000008": {
-    "BANK": "Pandharpur Urban Co Op. Bank Pandharpur",
+    "BANK": "Pandharpur Urban Co-operative Bank",
     "IFSC": "PUCB0000008",
     "MICR": "413588152",
     "BRANCH": "MAHILA, PANDHARPUR",
@@ -133,10 +140,11 @@
     "DISTRICT": "SOLAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "PUCB0000009": {
-    "BANK": "Pandharpur Urban Co Op. Bank Pandharpur",
+    "BANK": "Pandharpur Urban Co-operative Bank",
     "IFSC": "PUCB0000009",
     "MICR": "413588153",
     "BRANCH": "MARKET YARD, PANDHARPUR",
@@ -150,10 +158,11 @@
     "DISTRICT": "SOLAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "PUCB0000010": {
-    "BANK": "Pandharpur Urban Co Op. Bank Pandharpur",
+    "BANK": "Pandharpur Urban Co-operative Bank",
     "IFSC": "PUCB0000010",
     "MICR": "413588004",
     "BRANCH": "MARKET YARD, SOLAPUR",
@@ -167,10 +176,11 @@
     "DISTRICT": "SOLAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "PUCB0000011": {
-    "BANK": "Pandharpur Urban Co Op. Bank Pandharpur",
+    "BANK": "Pandharpur Urban Co-operative Bank",
     "IFSC": "PUCB0000011",
     "MICR": "413588002",
     "BRANCH": "TILAK CHOWK, SOLAPUR",
@@ -184,10 +194,11 @@
     "DISTRICT": "SOLAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "PUCB0000012": {
-    "BANK": "Pandharpur Urban Co Op. Bank Pandharpur",
+    "BANK": "Pandharpur Urban Co-operative Bank",
     "IFSC": "PUCB0000012",
     "MICR": "413588501",
     "BRANCH": "VAIRAG",
@@ -201,10 +212,11 @@
     "DISTRICT": "SOLAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "PUCB0000013": {
-    "BANK": "Pandharpur Urban Co Op. Bank Pandharpur",
+    "BANK": "Pandharpur Urban Co-operative Bank",
     "IFSC": "PUCB0000013",
     "MICR": "413588005",
     "BRANCH": "NEHRU NAGAR, SOLAPUR",
@@ -218,10 +230,11 @@
     "DISTRICT": "SOLAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "PUCB0000014": {
-    "BANK": "Pandharpur Urban Co Op. Bank Pandharpur",
+    "BANK": "Pandharpur Urban Co-operative Bank",
     "IFSC": "PUCB0000014",
     "MICR": "413588154",
     "BRANCH": "PRADAKSHINA ROAD, PANDHARPUR",
@@ -235,10 +248,11 @@
     "DISTRICT": "SOLAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "PUCB0000015": {
-    "BANK": "Pandharpur Urban Co Op. Bank Pandharpur",
+    "BANK": "Pandharpur Urban Co-operative Bank",
     "IFSC": "PUCB0000015",
     "MICR": "411588002",
     "BRANCH": "KOTHRUD, PUNE",
@@ -252,10 +266,11 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "PUCB0000016": {
-    "BANK": "Pandharpur Urban Co Op. Bank Pandharpur",
+    "BANK": "Pandharpur Urban Co-operative Bank",
     "IFSC": "PUCB0000016",
     "MICR": "413588052",
     "BRANCH": "LATUR",
@@ -269,10 +284,11 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "PUCB0000017": {
-    "BANK": "Pandharpur Urban Co Op. Bank Pandharpur",
+    "BANK": "Pandharpur Urban Co-operative Bank",
     "IFSC": "PUCB0000017",
     "MICR": "413588101",
     "BRANCH": "BARAMATI",
@@ -286,10 +302,11 @@
     "DISTRICT": "BARAMATI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "PUCB0000018": {
-    "BANK": "Pandharpur Urban Co Op. Bank Pandharpur",
+    "BANK": "Pandharpur Urban Co-operative Bank",
     "IFSC": "PUCB0000018",
     "MICR": "413588504",
     "BRANCH": "MANGALWEDHA",
@@ -303,10 +320,11 @@
     "DISTRICT": "SOLAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "PUCB0000019": {
-    "BANK": "Pandharpur Urban Co Op. Bank Pandharpur",
+    "BANK": "Pandharpur Urban Co-operative Bank",
     "IFSC": "PUCB0000019",
     "MICR": "411588003",
     "BRANCH": "CHINCHWAD",
@@ -320,10 +338,11 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "PUCB0000020": {
-    "BANK": "Pandharpur Urban Co Op. Bank Pandharpur",
+    "BANK": "Pandharpur Urban Co-operative Bank",
     "IFSC": "PUCB0000020",
     "MICR": "413588000",
     "BRANCH": "PHALTAN",
@@ -337,10 +356,11 @@
     "DISTRICT": "SATARA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "PUCB0000021": {
-    "BANK": "Pandharpur Urban Co Op. Bank Pandharpur",
+    "BANK": "Pandharpur Urban Co-operative Bank",
     "IFSC": "PUCB0000021",
     "MICR": "413588888",
     "BRANCH": "TEMBHURNI",
@@ -354,10 +374,11 @@
     "DISTRICT": "SOLAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "PUCB0000022": {
-    "BANK": "Pandharpur Urban Co Op. Bank Pandharpur",
+    "BANK": "Pandharpur Urban Co-operative Bank",
     "IFSC": "PUCB0000022",
     "MICR": "123456789",
     "BRANCH": "KOREGOAN",
@@ -371,10 +392,11 @@
     "DISTRICT": "SATARA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "PUCB0000023": {
-    "BANK": "Pandharpur Urban Co Op. Bank Pandharpur",
+    "BANK": "Pandharpur Urban Co-operative Bank",
     "IFSC": "PUCB0000023",
     "MICR": "411588004",
     "BRANCH": "NARHE AMBEGAON",
@@ -388,10 +410,11 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "PUCB0000024": {
-    "BANK": "Pandharpur Urban Co Op. Bank Pandharpur",
+    "BANK": "Pandharpur Urban Co-operative Bank",
     "IFSC": "PUCB0000024",
     "MICR": "415588351",
     "BRANCH": "KARAD",
@@ -405,10 +428,11 @@
     "DISTRICT": "SATARA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "PUCB0000025": {
-    "BANK": "Pandharpur Urban Co Op. Bank Pandharpur",
+    "BANK": "Pandharpur Urban Co-operative Bank",
     "IFSC": "PUCB0000025",
     "MICR": "416588002",
     "BRANCH": "KOLHAPUR",
@@ -422,10 +446,11 @@
     "DISTRICT": "KOLHAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "PUCB0000026": {
-    "BANK": "Pandharpur Urban Co Op. Bank Pandharpur",
+    "BANK": "Pandharpur Urban Co-operative Bank",
     "IFSC": "PUCB0000026",
     "MICR": "413588505",
     "BRANCH": "INDAPUR",
@@ -439,10 +464,11 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "PUCB0000027": {
-    "BANK": "Pandharpur Urban Co Op. Bank Pandharpur",
+    "BANK": "Pandharpur Urban Co-operative Bank",
     "IFSC": "PUCB0000027",
     "MICR": "413588508",
     "BRANCH": "KARMALA",
@@ -456,10 +482,11 @@
     "DISTRICT": "SOLAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "PUCB0000028": {
-    "BANK": "Pandharpur Urban Co Op. Bank Pandharpur",
+    "BANK": "Pandharpur Urban Co-operative Bank",
     "IFSC": "PUCB0000028",
     "MICR": "413588507",
     "BRANCH": "SHRIPUR",
@@ -473,10 +500,11 @@
     "DISTRICT": "SOLAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "PUCB0000029": {
-    "BANK": "Pandharpur Urban Co Op. Bank Pandharpur",
+    "BANK": "Pandharpur Urban Co-operative Bank",
     "IFSC": "PUCB0000029",
     "MICR": "431588002",
     "BRANCH": "AURANGABAD",
@@ -490,10 +518,11 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "PUCB0000030": {
-    "BANK": "Pandharpur Urban Co Op. Bank Pandharpur",
+    "BANK": "Pandharpur Urban Co-operative Bank",
     "IFSC": "PUCB0000030",
     "MICR": "411588005",
     "BRANCH": "SINHAGAD ROAD PUNE",
@@ -507,10 +536,11 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "PUCB0000031": {
-    "BANK": "Pandharpur Urban Co Op. Bank Pandharpur",
+    "BANK": "Pandharpur Urban Co-operative Bank",
     "IFSC": "PUCB0000031",
     "MICR": "413588155",
     "BRANCH": "TAKALI ROAD PANDHARPUR",
@@ -524,6 +554,7 @@
     "DISTRICT": "SOLAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   }
 }

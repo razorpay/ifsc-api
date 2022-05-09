@@ -1,23 +1,24 @@
 {
   "ZSBL0000001": {
-    "BANK": "Zila Sahkari Bank Ghaziabad",
+    "BANK": "Zila Sahakari Bank Ghaziabad",
     "IFSC": "ZSBL0000001",
-    "BRANCH": "Zila Sahkari Bank Ghaziabad IMPS",
+    "BRANCH": "Zila Sahakari Bank Ghaziabad IMPS",
     "CENTRE": "GHAZIABAD",
     "DISTRICT": "GHAZIABAD",
-    "STATE": "UTTAR PRADESH",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "RDC A-20 RAJNAGAR GZB",
     "CONTACT": "+911202824884",
     "IMPS": true,
-    "CITY": "GHAZIABAD",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": "110094286",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "ZSBL0000011": {
-    "BANK": "Zila Sahkari Bank Ghaziabad",
+    "BANK": "Zila Sahakari Bank Ghaziabad",
     "IFSC": "ZSBL0000011",
     "MICR": null,
     "BRANCH": "HAPUR MAIN",
@@ -31,10 +32,11 @@
     "DISTRICT": "GHAZIABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "ZSBL0000021": {
-    "BANK": "Zila Sahkari Bank Ghaziabad",
+    "BANK": "Zila Sahakari Bank Ghaziabad",
     "IFSC": "ZSBL0000021",
     "MICR": null,
     "BRANCH": "WRIGHTGANJ",
@@ -48,10 +50,11 @@
     "DISTRICT": "GHAZIABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "ZSBL0000031": {
-    "BANK": "Zila Sahkari Bank Ghaziabad",
+    "BANK": "Zila Sahakari Bank Ghaziabad",
     "IFSC": "ZSBL0000031",
     "MICR": null,
     "BRANCH": "MODINAGAR MAIN",
@@ -65,10 +68,11 @@
     "DISTRICT": "GHAZIABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "ZSBL0000041": {
-    "BANK": "Zila Sahkari Bank Ghaziabad",
+    "BANK": "Zila Sahakari Bank Ghaziabad",
     "IFSC": "ZSBL0000041",
     "MICR": null,
     "BRANCH": "SIMBHAOLI",
@@ -82,10 +86,11 @@
     "DISTRICT": "GHAZIABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "ZSBL0000051": {
-    "BANK": "Zila Sahkari Bank Ghaziabad",
+    "BANK": "Zila Sahakari Bank Ghaziabad",
     "IFSC": "ZSBL0000051",
     "MICR": null,
     "BRANCH": "PILKHUWA",
@@ -99,10 +104,11 @@
     "DISTRICT": "GHAZIABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "ZSBL0000061": {
-    "BANK": "Zila Sahkari Bank Ghaziabad",
+    "BANK": "Zila Sahakari Bank Ghaziabad",
     "IFSC": "ZSBL0000061",
     "MICR": null,
     "BRANCH": "DADRI",
@@ -116,10 +122,11 @@
     "DISTRICT": "GAUTAM BUDDHA NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "ZSBL0000071": {
-    "BANK": "Zila Sahkari Bank Ghaziabad",
+    "BANK": "Zila Sahakari Bank Ghaziabad",
     "IFSC": "ZSBL0000071",
     "MICR": null,
     "BRANCH": "GARH MUKTESHWAR",
@@ -133,10 +140,11 @@
     "DISTRICT": "GHAZIABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "ZSBL0000081": {
-    "BANK": "Zila Sahkari Bank Ghaziabad",
+    "BANK": "Zila Sahakari Bank Ghaziabad",
     "IFSC": "ZSBL0000081",
     "MICR": null,
     "BRANCH": "SAHIBABAD",
@@ -150,10 +158,11 @@
     "DISTRICT": "GHAZIABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "ZSBL0000091": {
-    "BANK": "Zila Sahkari Bank Ghaziabad",
+    "BANK": "Zila Sahakari Bank Ghaziabad",
     "IFSC": "ZSBL0000091",
     "MICR": null,
     "BRANCH": "MURADNAGAR",
@@ -167,10 +176,11 @@
     "DISTRICT": "GHAZIABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "ZSBL0000101": {
-    "BANK": "Zila Sahkari Bank Ghaziabad",
+    "BANK": "Zila Sahakari Bank Ghaziabad",
     "IFSC": "ZSBL0000101",
     "MICR": null,
     "BRANCH": "HAPUR EVE",
@@ -184,10 +194,11 @@
     "DISTRICT": "GHAZIABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "ZSBL0000111": {
-    "BANK": "Zila Sahkari Bank Ghaziabad",
+    "BANK": "Zila Sahakari Bank Ghaziabad",
     "IFSC": "ZSBL0000111",
     "MICR": null,
     "BRANCH": "HAPUR MANDI",
@@ -201,10 +212,11 @@
     "DISTRICT": "GHAZIABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "ZSBL0000121": {
-    "BANK": "Zila Sahkari Bank Ghaziabad",
+    "BANK": "Zila Sahakari Bank Ghaziabad",
     "IFSC": "ZSBL0000121",
     "MICR": null,
     "BRANCH": "RAJNAGAR",
@@ -218,10 +230,11 @@
     "DISTRICT": "GHAZIABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "ZSBL0000131": {
-    "BANK": "Zila Sahkari Bank Ghaziabad",
+    "BANK": "Zila Sahakari Bank Ghaziabad",
     "IFSC": "ZSBL0000131",
     "MICR": null,
     "BRANCH": "SURYA NAGAR",
@@ -235,10 +248,11 @@
     "DISTRICT": "GHAZIABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "ZSBL0000141": {
-    "BANK": "Zila Sahkari Bank Ghaziabad",
+    "BANK": "Zila Sahakari Bank Ghaziabad",
     "IFSC": "ZSBL0000141",
     "MICR": null,
     "BRANCH": "HAPUR NAGAR P",
@@ -252,10 +266,11 @@
     "DISTRICT": "GHAZIABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "ZSBL0000151": {
-    "BANK": "Zila Sahkari Bank Ghaziabad",
+    "BANK": "Zila Sahakari Bank Ghaziabad",
     "IFSC": "ZSBL0000151",
     "MICR": null,
     "BRANCH": "KUCHESHAR",
@@ -269,10 +284,11 @@
     "DISTRICT": "GHAZIABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "ZSBL0000161": {
-    "BANK": "Zila Sahkari Bank Ghaziabad",
+    "BANK": "Zila Sahakari Bank Ghaziabad",
     "IFSC": "ZSBL0000161",
     "MICR": null,
     "BRANCH": "DHAULANA",
@@ -286,10 +302,11 @@
     "DISTRICT": "GHAZIABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "ZSBL0000171": {
-    "BANK": "Zila Sahkari Bank Ghaziabad",
+    "BANK": "Zila Sahakari Bank Ghaziabad",
     "IFSC": "ZSBL0000171",
     "MICR": null,
     "BRANCH": "BAHADURGARH",
@@ -303,10 +320,11 @@
     "DISTRICT": "GHAZIABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "ZSBL0000181": {
-    "BANK": "Zila Sahkari Bank Ghaziabad",
+    "BANK": "Zila Sahakari Bank Ghaziabad",
     "IFSC": "ZSBL0000181",
     "MICR": null,
     "BRANCH": "BABUGARH",
@@ -320,10 +338,11 @@
     "DISTRICT": "GHAZIABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "ZSBL0000191": {
-    "BANK": "Zila Sahkari Bank Ghaziabad",
+    "BANK": "Zila Sahakari Bank Ghaziabad",
     "IFSC": "ZSBL0000191",
     "MICR": null,
     "BRANCH": "MUDAFRA",
@@ -337,10 +356,11 @@
     "DISTRICT": "GHAZIABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "ZSBL0000201": {
-    "BANK": "Zila Sahkari Bank Ghaziabad",
+    "BANK": "Zila Sahakari Bank Ghaziabad",
     "IFSC": "ZSBL0000201",
     "MICR": null,
     "BRANCH": "CHHAPRAULA",
@@ -354,10 +374,11 @@
     "DISTRICT": "GAUTAM BUDDHA NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "ZSBL0000211": {
-    "BANK": "Zila Sahkari Bank Ghaziabad",
+    "BANK": "Zila Sahakari Bank Ghaziabad",
     "IFSC": "ZSBL0000211",
     "MICR": "110094275",
     "BRANCH": "SECTOR 31 NOIDA",
@@ -371,10 +392,11 @@
     "DISTRICT": "GAUTAM BUDDHA NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "ZSBL0000221": {
-    "BANK": "Zila Sahkari Bank Ghaziabad",
+    "BANK": "Zila Sahakari Bank Ghaziabad",
     "IFSC": "ZSBL0000221",
     "MICR": null,
     "BRANCH": "MODINAGAR EVE",
@@ -388,10 +410,11 @@
     "DISTRICT": "GHAZIABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "ZSBL0000231": {
-    "BANK": "Zila Sahkari Bank Ghaziabad",
+    "BANK": "Zila Sahakari Bank Ghaziabad",
     "IFSC": "ZSBL0000231",
     "MICR": null,
     "BRANCH": "SEHANI",
@@ -405,10 +428,11 @@
     "DISTRICT": "GHAZIABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "ZSBL0000241": {
-    "BANK": "Zila Sahkari Bank Ghaziabad",
+    "BANK": "Zila Sahakari Bank Ghaziabad",
     "IFSC": "ZSBL0000241",
     "MICR": null,
     "BRANCH": "SURAJPUR",
@@ -422,10 +446,11 @@
     "DISTRICT": "GAUTAM BUDDHA NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "ZSBL0000251": {
-    "BANK": "Zila Sahkari Bank Ghaziabad",
+    "BANK": "Zila Sahakari Bank Ghaziabad",
     "IFSC": "ZSBL0000251",
     "MICR": null,
     "BRANCH": "SURANA",
@@ -439,10 +464,11 @@
     "DISTRICT": "GHAZIABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "ZSBL0000261": {
-    "BANK": "Zila Sahkari Bank Ghaziabad",
+    "BANK": "Zila Sahakari Bank Ghaziabad",
     "IFSC": "ZSBL0000261",
     "MICR": null,
     "BRANCH": "FREEGANJ HAPUR",
@@ -456,10 +482,11 @@
     "DISTRICT": "GHAZIABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "ZSBL0000271": {
-    "BANK": "Zila Sahkari Bank Ghaziabad",
+    "BANK": "Zila Sahakari Bank Ghaziabad",
     "IFSC": "ZSBL0000271",
     "MICR": null,
     "BRANCH": "GOVINDPURI",
@@ -473,10 +500,11 @@
     "DISTRICT": "GHAZIABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "ZSBL0000281": {
-    "BANK": "Zila Sahkari Bank Ghaziabad",
+    "BANK": "Zila Sahakari Bank Ghaziabad",
     "IFSC": "ZSBL0000281",
     "MICR": null,
     "BRANCH": "SECTOR 61 MAMURA",
@@ -490,10 +518,11 @@
     "DISTRICT": "GAUTAM BUDDHA NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "ZSBL0000291": {
-    "BANK": "Zila Sahkari Bank Ghaziabad",
+    "BANK": "Zila Sahakari Bank Ghaziabad",
     "IFSC": "ZSBL0000291",
     "MICR": null,
     "BRANCH": "HO BRANCH",
@@ -507,10 +536,11 @@
     "DISTRICT": "GHAZIABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "ZSBL0000301": {
-    "BANK": "Zila Sahkari Bank Ghaziabad",
+    "BANK": "Zila Sahakari Bank Ghaziabad",
     "IFSC": "ZSBL0000301",
     "MICR": null,
     "BRANCH": "BHOJPUR",
@@ -524,10 +554,11 @@
     "DISTRICT": "GHAZIABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "ZSBL0000311": {
-    "BANK": "Zila Sahkari Bank Ghaziabad",
+    "BANK": "Zila Sahakari Bank Ghaziabad",
     "IFSC": "ZSBL0000311",
     "MICR": null,
     "BRANCH": "VIJAYNAGAR",
@@ -541,10 +572,11 @@
     "DISTRICT": "GHAZIABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "ZSBL0000321": {
-    "BANK": "Zila Sahkari Bank Ghaziabad",
+    "BANK": "Zila Sahakari Bank Ghaziabad",
     "IFSC": "ZSBL0000321",
     "MICR": null,
     "BRANCH": "KHORA",
@@ -558,10 +590,11 @@
     "DISTRICT": "GHAZIABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "ZSBL0000331": {
-    "BANK": "Zila Sahkari Bank Ghaziabad",
+    "BANK": "Zila Sahakari Bank Ghaziabad",
     "IFSC": "ZSBL0000331",
     "MICR": null,
     "BRANCH": "RAVALI KALA",
@@ -575,10 +608,11 @@
     "DISTRICT": "GHAZIABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "ZSBL0000341": {
-    "BANK": "Zila Sahkari Bank Ghaziabad",
+    "BANK": "Zila Sahakari Bank Ghaziabad",
     "IFSC": "ZSBL0000341",
     "MICR": null,
     "BRANCH": "LONI",
@@ -592,6 +626,7 @@
     "DISTRICT": "GHAZIABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   }
 }

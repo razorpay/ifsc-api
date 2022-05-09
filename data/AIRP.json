@@ -14,7 +14,8 @@
     "DISTRICT": "GURGOAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "AIRP00000SC": {
     "BANK": "Airtel Payments Bank",
@@ -22,15 +23,16 @@
     "BRANCH": "Airtel Payments Bank IMPS",
     "CENTRE": "GURGOAN",
     "DISTRICT": "GURGOAN",
-    "STATE": "HARYANA",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "AIRTEL CENTER, PLAT NO-16, UDYOG VIHAR, PHASE-4, GURGOAN",
     "CONTACT": "+911244222222",
     "IMPS": true,
-    "CITY": "GURGOAN",
+    "CITY": "MUMBAI",
     "UPI": true,
     "MICR": null,
     "RTGS": true,
     "NEFT": false,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   }
 }

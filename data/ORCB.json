@@ -14,7 +14,8 @@
     "MICR": null,
     "RTGS": true,
     "NEFT": false,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "ORCB0001001": {
     "BANK": "Odisha State Co-operative Bank",
@@ -31,7 +32,8 @@
     "DISTRICT": "HRH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "ORCB0001002": {
     "BANK": "Odisha State Co-operative Bank",
@@ -48,7 +50,8 @@
     "DISTRICT": "HRH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "ORCB0001003": {
     "BANK": "Odisha State Co-operative Bank",
@@ -65,7 +68,8 @@
     "DISTRICT": "UA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "ORCB0001004": {
     "BANK": "Odisha State Co-operative Bank",
@@ -82,7 +86,8 @@
     "DISTRICT": "HRH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "ORCB0001005": {
     "BANK": "Odisha State Co-operative Bank",
@@ -99,7 +104,8 @@
     "DISTRICT": "JAGATSINGHPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "ORCB0001006": {
     "BANK": "Odisha State Co-operative Bank",
@@ -116,7 +122,8 @@
     "DISTRICT": "SAMBALPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "ORCB0001007": {
     "BANK": "Odisha State Co-operative Bank",
@@ -133,7 +140,8 @@
     "DISTRICT": "GANJAM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "ORCB0001008": {
     "BANK": "Odisha State Co-operative Bank",
@@ -150,7 +158,8 @@
     "DISTRICT": "NU",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "ORCB0001009": {
     "BANK": "Odisha State Co-operative Bank",
@@ -167,7 +176,8 @@
     "DISTRICT": "HRH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "ORCB0001010": {
     "BANK": "Odisha State Co-operative Bank",
@@ -184,7 +194,8 @@
     "DISTRICT": "HRH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "ORCB0001011": {
     "BANK": "Odisha State Co-operative Bank",
@@ -201,7 +212,8 @@
     "DISTRICT": "UA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "ORCB0001012": {
     "BANK": "Odisha State Co-operative Bank",
@@ -218,7 +230,8 @@
     "DISTRICT": "HRH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "ORCB0001013": {
     "BANK": "Odisha State Co-operative Bank",
@@ -235,7 +248,8 @@
     "DISTRICT": "HRH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "ORCB0001014": {
     "BANK": "Odisha State Co-operative Bank",
@@ -252,7 +266,8 @@
     "DISTRICT": "UDGR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "ORCB0ANG001": {
     "BANK": "Angul United Central Co-operative Bank",
@@ -260,33 +275,35 @@
     "BRANCH": "Angul United Central Co-operative Bank IMPS",
     "CENTRE": "ANGUL",
     "DISTRICT": "ANGUL",
-    "STATE": "ODISHA",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "AT-IN FRONT OF COLLECTORATE, AT PO-ANGUL, DIST-ANGUL - 759122",
     "CONTACT": "+916764233116",
     "IMPS": true,
-    "CITY": "ANGUL",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": null,
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "ORCB0ASK001": {
-    "BANK": "Aska Co-operatiave Central Bank",
+    "BANK": "Aska Co-operative Central Bank",
     "IFSC": "ORCB0ASK001",
-    "BRANCH": "Aska Co-operatiave Central Bank IMPS",
+    "BRANCH": "Aska Co-operative Central Bank IMPS",
     "CENTRE": "GANJAM",
     "DISTRICT": "GANJAM",
-    "STATE": "ODISHA",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "AT-KHAMBESWARIPATNA ROAD, AT PO-ASKA, DIST-GANJAM - 761110",
     "CONTACT": "+916822271357",
     "IMPS": true,
-    "CITY": "ASKA",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": null,
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "ORCB0BER001": {
     "BANK": "Odisha State Co-operative Bank",
@@ -303,7 +320,8 @@
     "DISTRICT": "GANJAM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "ORCB0BLR001": {
     "BANK": "Balangir District Central Co-operative Bank",
@@ -311,16 +329,17 @@
     "BRANCH": "Balangir District Central Co-operative Bank IMPS",
     "CENTRE": "BALANGIR",
     "DISTRICT": "BALANGIR",
-    "STATE": "ODISHA",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "AT-RUGUDIPADA,PO-BALANGIR,DIST-BALANGIR - 767001",
     "CONTACT": "+916652232478",
     "IMPS": true,
-    "CITY": "BALANGIR",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": null,
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "ORCB0BLS001": {
     "BANK": "Balasore Bhadrak Central Co-operative Bank",
@@ -328,16 +347,17 @@
     "BRANCH": "Balasore Bhadrak Central Co-operative Bank IMPS",
     "CENTRE": "BALASORE",
     "DISTRICT": "BALASORE",
-    "STATE": "ODISHA",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "AT-O.T. ROAD, AT PO- BALASORE,DIST-BALASORE - 756001",
     "CONTACT": "+916782263022",
     "IMPS": true,
-    "CITY": "BALASORE",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": null,
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "ORCB0BNK001": {
     "BANK": "Odisha State Co-operative Bank",
@@ -354,7 +374,8 @@
     "DISTRICT": "CUUTACK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "ORCB0BOU001": {
     "BANK": "Boudh Co-operative Central Bank",
@@ -362,16 +383,17 @@
     "BRANCH": "Boudh Co-operative Central Bank IMPS",
     "CENTRE": "BOUDH",
     "DISTRICT": "BOUDH",
-    "STATE": "ODISHA",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "AT-J.D HIGH SCHOOL ROAD, PO-BOUDH, DIST- BOUDH - 762014",
     "CONTACT": "+916841222036",
     "IMPS": true,
-    "CITY": "BOUDH",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": null,
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "ORCB0BWP001": {
     "BANK": "Bhawanipatna Central Co-operative Bank",
@@ -379,16 +401,17 @@
     "BRANCH": "Bhawanipatna Central Co-operative Bank IMPS",
     "CENTRE": "KALAHANDI",
     "DISTRICT": "KALAHANDI",
-    "STATE": "ODISHA",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "AT-MAHABIRPADA,PO-BHAWANIPATNA, DIST-KALAHANDI - 766001",
     "CONTACT": "+916670230426",
     "IMPS": true,
-    "CITY": "BHAWANIPATNA",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": "766800003",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "ORCB0CTC001": {
     "BANK": "Cuttack Central Co-operative Bank",
@@ -396,16 +419,17 @@
     "BRANCH": "Cuttack Central Co-operative Bank IMPS",
     "CENTRE": "CUUTACK",
     "DISTRICT": "CUUTACK",
-    "STATE": "ODISHA",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "AT-NIMCHOURI, PO-CHANDINI CHOWK,DIST-CUTTACK -753002",
     "CONTACT": "+916712339700",
     "IMPS": true,
-    "CITY": "CUTTACK",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": null,
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "ORCB0KHU001": {
     "BANK": "Khurda Central Co-operative Bank",
@@ -413,16 +437,17 @@
     "BRANCH": "Khurda Central Co-operative Bank IMPS",
     "CENTRE": "KHORDHA",
     "DISTRICT": "KHORDHA",
-    "STATE": "ODISHA",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "AT-MAIN ROAD, PO-KHORDHA, DIST-KHORDHA- 752055",
     "CONTACT": "+916755220209",
     "IMPS": true,
-    "CITY": "KHURDA",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": null,
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "ORCB0KJR001": {
     "BANK": "Keonjhar Central Co-operative Bank",
@@ -430,16 +455,17 @@
     "BRANCH": "Keonjhar Central Co-operative Bank IMPS",
     "CENTRE": "KEONJHAR",
     "DISTRICT": "KEONJHAR",
-    "STATE": "ODISHA",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "AT-INFRONT OF SP OFFICE,PO-KEONJHARGARH, DIST-KEONJHAR - 758001",
     "CONTACT": "+916766255183",
     "IMPS": true,
-    "CITY": "KEONJHAR",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": null,
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "ORCB0KPT001": {
     "BANK": "Koraput Central Co-operative Bank",
@@ -447,16 +473,17 @@
     "BRANCH": "Koraput Central Co-operative Bank IMPS",
     "CENTRE": "KORAPUT",
     "DISTRICT": "KORAPUT",
-    "STATE": "ODISHA",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "AT-N.K.T. ROAD, PO-JEYPORE, DIST- KORAPUT - 764003",
     "CONTACT": "+916854241159",
     "IMPS": true,
-    "CITY": "JEYPORE",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": "764800102",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "ORCB0MYB001": {
     "BANK": "Mayurbhanj Central Co-operative Bank",
@@ -464,16 +491,17 @@
     "BRANCH": "Mayurbhanj Central Co-operative Bank IMPS",
     "CENTRE": "MAYURBHANJ",
     "DISTRICT": "MAYURBHANJ",
-    "STATE": "ODISHA",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "AT-KACHERI ROAD, PO-BARIPADA, DIST-MAYURBHANJ -757001",
     "CONTACT": "+916792254844",
     "IMPS": true,
-    "CITY": "BARIPADA",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": "757800501",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "ORCB0NGR001": {
     "BANK": "Nayagarh District Central Co-operative Bank",
@@ -481,16 +509,17 @@
     "BRANCH": "Nayagarh District Central Co-operative Bank IMPS",
     "CENTRE": "NAYAGARH",
     "DISTRICT": "NAYAGARH",
-    "STATE": "ODISHA",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "AT PO-NAYAGARH, DIST- NAYAGARH - 752069",
     "CONTACT": "+916753252232",
     "IMPS": true,
-    "CITY": "NAYAGARH",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": "752803106",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "ORCB0SBP001": {
     "BANK": "Sambalpur District Co-operative Central Bank",
@@ -498,16 +527,17 @@
     "BRANCH": "Sambalpur District Co-operative Central Bank IMPS",
     "CENTRE": "BARAGARH",
     "DISTRICT": "BARAGARH",
-    "STATE": "ODISHA",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "AT- LENGU MISHRA CHOWK,PO-BARAGARH, DIST-BARAGARH - 768028",
     "CONTACT": "+916646233157",
     "IMPS": true,
-    "CITY": "BARAGARH",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": null,
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "ORCB0SUN001": {
     "BANK": "Sundargarh District Central Co-operative Bank",
@@ -515,16 +545,17 @@
     "BRANCH": "Sundargarh District Central Co-operative Bank IMPS",
     "CENTRE": "SUNDERGARH",
     "DISTRICT": "SUNDERGARH",
-    "STATE": "ODISHA",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "AT-REGENT MARKET, PO-SUNDARGARH, DIST-SUNDARGARH - 770001",
     "CONTACT": "+916622272022",
     "IMPS": true,
-    "CITY": "SUNDARGARH",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": null,
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "ORCB0UPN001": {
     "BANK": "United Puri Nimapara Central Bank",
@@ -532,15 +563,16 @@
     "BRANCH": "United Puri Nimapara Central Bank IMPS",
     "CENTRE": "PURI",
     "DISTRICT": "PURI",
-    "STATE": "ODISHA",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "AT-KACHERI ROAD, PO-PURI, DIST-PURI - 752001",
     "CONTACT": "+916752224553",
     "IMPS": true,
-    "CITY": "PURI",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": "752800002",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   }
 }

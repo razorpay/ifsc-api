@@ -14,7 +14,8 @@
     "DISTRICT": "DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "BNPA0009009": {
     "BANK": "BNP Paribas Bank",
@@ -31,7 +32,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "BNPA0009065": {
     "BANK": "BNP Paribas Bank",
@@ -48,7 +50,8 @@
     "DISTRICT": "DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "BNPA0009066": {
     "BANK": "BNP Paribas Bank",
@@ -65,7 +68,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": false,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "BNPA0009067": {
     "BANK": "BNP Paribas Bank",
@@ -82,7 +86,8 @@
     "DISTRICT": "BANGALORE URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "BNPA0009069": {
     "BANK": "BNP Paribas Bank",
@@ -99,7 +104,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "BNPA0009077": {
     "BANK": "BNP Paribas Bank",
@@ -116,7 +122,8 @@
     "DISTRICT": "DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "BNPA0009088": {
     "BANK": "BNP Paribas Bank",
@@ -133,7 +140,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "BNPA0009378": {
     "BANK": "BNP Paribas Bank",
@@ -150,7 +158,8 @@
     "DISTRICT": "BANGALORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "BNPA0RTGSMI": {
     "BANK": "BNP Paribas Bank",
@@ -167,6 +176,7 @@
     "MICR": null,
     "RTGS": true,
     "NEFT": false,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   }
 }

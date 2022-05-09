@@ -5,16 +5,17 @@
     "BRANCH": "AU Small Finance Bank IMPS",
     "CENTRE": "JAIPUR",
     "DISTRICT": "JAIPUR",
-    "STATE": "RAJASTHAN",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "A AND B SEN COMPLEX,GOVT. PRESS CIRCLE, JAIPUR",
     "CONTACT": null,
     "IMPS": true,
-    "CITY": "JAIPUR",
+    "CITY": "MUMBAI",
     "UPI": true,
     "MICR": null,
     "RTGS": true,
     "NEFT": false,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002011": {
     "BANK": "AU Small Finance Bank",
@@ -31,7 +32,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002016": {
     "BANK": "AU Small Finance Bank",
@@ -48,7 +50,8 @@
     "DISTRICT": "NEW DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "AUBL0002017": {
     "BANK": "AU Small Finance Bank",
@@ -65,7 +68,8 @@
     "DISTRICT": "MOHALI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "AUBL0002018": {
     "BANK": "AU Small Finance Bank",
@@ -82,7 +86,8 @@
     "DISTRICT": "BIKANER",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002019": {
     "BANK": "AU Small Finance Bank",
@@ -99,7 +104,8 @@
     "DISTRICT": "KOTA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002036": {
     "BANK": "AU Small Finance Bank",
@@ -116,7 +122,8 @@
     "DISTRICT": "NAVI MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002100": {
     "BANK": "AU Small Finance Bank",
@@ -133,7 +140,8 @@
     "DISTRICT": "DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "AUBL0002101": {
     "BANK": "AU Small Finance Bank",
@@ -150,7 +158,8 @@
     "DISTRICT": "DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "AUBL0002102": {
     "BANK": "AU Small Finance Bank",
@@ -167,7 +176,8 @@
     "DISTRICT": "DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "AUBL0002103": {
     "BANK": "AU Small Finance Bank",
@@ -184,7 +194,8 @@
     "DISTRICT": "DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "AUBL0002104": {
     "BANK": "AU Small Finance Bank",
@@ -201,7 +212,8 @@
     "DISTRICT": "DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "AUBL0002105": {
     "BANK": "AU Small Finance Bank",
@@ -218,7 +230,8 @@
     "DISTRICT": "GHAZIABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "AUBL0002106": {
     "BANK": "AU Small Finance Bank",
@@ -235,7 +248,8 @@
     "DISTRICT": "GURGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "AUBL0002107": {
     "BANK": "AU Small Finance Bank",
@@ -252,7 +266,8 @@
     "DISTRICT": "MAHENDRAGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "AUBL0002108": {
     "BANK": "AU Small Finance Bank",
@@ -269,7 +284,8 @@
     "DISTRICT": "GURGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "AUBL0002109": {
     "BANK": "AU Small Finance Bank",
@@ -286,7 +302,8 @@
     "DISTRICT": "REWARI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "AUBL0002110": {
     "BANK": "AU Small Finance Bank",
@@ -303,7 +320,8 @@
     "DISTRICT": "AMBALA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "AUBL0002111": {
     "BANK": "AU Small Finance Bank",
@@ -320,7 +338,8 @@
     "DISTRICT": "HISAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "AUBL0002112": {
     "BANK": "AU Small Finance Bank",
@@ -337,7 +356,8 @@
     "DISTRICT": "KAITHAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "AUBL0002113": {
     "BANK": "AU Small Finance Bank",
@@ -354,7 +374,8 @@
     "DISTRICT": "KARNAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "AUBL0002114": {
     "BANK": "AU Small Finance Bank",
@@ -371,7 +392,8 @@
     "DISTRICT": "KURUKSHETRA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "AUBL0002115": {
     "BANK": "AU Small Finance Bank",
@@ -388,7 +410,8 @@
     "DISTRICT": "PANIPATH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "AUBL0002116": {
     "BANK": "AU Small Finance Bank",
@@ -405,7 +428,8 @@
     "DISTRICT": "SIRSA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "AUBL0002117": {
     "BANK": "AU Small Finance Bank",
@@ -422,7 +446,8 @@
     "DISTRICT": "YAMUNANAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "AUBL0002118": {
     "BANK": "AU Small Finance Bank",
@@ -439,7 +464,8 @@
     "DISTRICT": "FARIDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "AUBL0002119": {
     "BANK": "AU Small Finance Bank",
@@ -456,7 +482,8 @@
     "DISTRICT": "GAUTAM BUDDHA NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "AUBL0002120": {
     "BANK": "AU Small Finance Bank",
@@ -473,7 +500,8 @@
     "DISTRICT": "KACHCHH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002121": {
     "BANK": "AU Small Finance Bank",
@@ -490,7 +518,8 @@
     "DISTRICT": "KACHCHH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002122": {
     "BANK": "AU Small Finance Bank",
@@ -507,7 +536,8 @@
     "DISTRICT": "JAMNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002123": {
     "BANK": "AU Small Finance Bank",
@@ -524,7 +554,8 @@
     "DISTRICT": "RAJKOT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002124": {
     "BANK": "AU Small Finance Bank",
@@ -541,7 +572,8 @@
     "DISTRICT": "JUNAGADH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002125": {
     "BANK": "AU Small Finance Bank",
@@ -558,7 +590,8 @@
     "DISTRICT": "MORBI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002126": {
     "BANK": "AU Small Finance Bank",
@@ -575,7 +608,8 @@
     "DISTRICT": "RAJKOT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002127": {
     "BANK": "AU Small Finance Bank",
@@ -592,7 +626,8 @@
     "DISTRICT": "VADODARA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002129": {
     "BANK": "AU Small Finance Bank",
@@ -609,7 +644,8 @@
     "DISTRICT": "BHARUCH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002130": {
     "BANK": "AU Small Finance Bank",
@@ -626,7 +662,8 @@
     "DISTRICT": "CHHOTA UDAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002131": {
     "BANK": "AU Small Finance Bank",
@@ -643,7 +680,8 @@
     "DISTRICT": "NAVSARI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002132": {
     "BANK": "AU Small Finance Bank",
@@ -660,7 +698,8 @@
     "DISTRICT": "SURAT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002133": {
     "BANK": "AU Small Finance Bank",
@@ -677,7 +716,8 @@
     "DISTRICT": "SURAT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002134": {
     "BANK": "AU Small Finance Bank",
@@ -694,7 +734,8 @@
     "DISTRICT": "VALSAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002135": {
     "BANK": "AU Small Finance Bank",
@@ -711,7 +752,8 @@
     "DISTRICT": "ARAVALLI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002136": {
     "BANK": "AU Small Finance Bank",
@@ -728,7 +770,8 @@
     "DISTRICT": "BANASKANTHA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002137": {
     "BANK": "AU Small Finance Bank",
@@ -745,7 +788,8 @@
     "DISTRICT": "BANASKANTHA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002139": {
     "BANK": "AU Small Finance Bank",
@@ -762,7 +806,8 @@
     "DISTRICT": "SABARKANTHA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002140": {
     "BANK": "AU Small Finance Bank",
@@ -779,7 +824,8 @@
     "DISTRICT": "SABARKANTHA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002141": {
     "BANK": "AU Small Finance Bank",
@@ -796,7 +842,8 @@
     "DISTRICT": "MAHESANA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002142": {
     "BANK": "AU Small Finance Bank",
@@ -813,7 +860,8 @@
     "DISTRICT": "ARAVALLI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002143": {
     "BANK": "AU Small Finance Bank",
@@ -830,7 +878,8 @@
     "DISTRICT": "BANASKANTHA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002144": {
     "BANK": "AU Small Finance Bank",
@@ -847,7 +896,8 @@
     "DISTRICT": "PATAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002145": {
     "BANK": "AU Small Finance Bank",
@@ -864,7 +914,8 @@
     "DISTRICT": "BANAS KANTHA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002146": {
     "BANK": "AU Small Finance Bank",
@@ -881,7 +932,8 @@
     "DISTRICT": "GANDHINAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002147": {
     "BANK": "AU Small Finance Bank",
@@ -898,7 +950,8 @@
     "DISTRICT": "GANDHINAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002148": {
     "BANK": "AU Small Finance Bank",
@@ -915,7 +968,8 @@
     "DISTRICT": "KHEDA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002149": {
     "BANK": "AU Small Finance Bank",
@@ -932,7 +986,8 @@
     "DISTRICT": "MAHISAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002150": {
     "BANK": "AU Small Finance Bank",
@@ -949,7 +1004,8 @@
     "DISTRICT": "KHEDA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002151": {
     "BANK": "AU Small Finance Bank",
@@ -966,7 +1022,8 @@
     "DISTRICT": "SURENDRANAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002152": {
     "BANK": "AU Small Finance Bank",
@@ -983,7 +1040,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002153": {
     "BANK": "AU Small Finance Bank",
@@ -1000,7 +1058,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002154": {
     "BANK": "AU Small Finance Bank",
@@ -1017,7 +1076,8 @@
     "DISTRICT": "ANAND",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002155": {
     "BANK": "AU Small Finance Bank",
@@ -1034,7 +1094,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002156": {
     "BANK": "AU Small Finance Bank",
@@ -1051,7 +1112,8 @@
     "DISTRICT": "BHAVNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002157": {
     "BANK": "AU Small Finance Bank",
@@ -1068,7 +1130,8 @@
     "DISTRICT": "ANAND",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002158": {
     "BANK": "AU Small Finance Bank",
@@ -1085,7 +1148,8 @@
     "DISTRICT": "DAHOD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002159": {
     "BANK": "AU Small Finance Bank",
@@ -1102,7 +1166,8 @@
     "DISTRICT": "PANCH MAHALS",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002160": {
     "BANK": "AU Small Finance Bank",
@@ -1119,7 +1184,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002161": {
     "BANK": "AU Small Finance Bank",
@@ -1136,7 +1202,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002162": {
     "BANK": "AU Small Finance Bank",
@@ -1153,7 +1220,8 @@
     "DISTRICT": "DAUSA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002163": {
     "BANK": "AU Small Finance Bank",
@@ -1170,7 +1238,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002164": {
     "BANK": "AU Small Finance Bank",
@@ -1187,7 +1256,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002165": {
     "BANK": "AU Small Finance Bank",
@@ -1204,7 +1274,8 @@
     "DISTRICT": "DAUSA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002167": {
     "BANK": "AU Small Finance Bank",
@@ -1221,7 +1292,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002168": {
     "BANK": "AU Small Finance Bank",
@@ -1238,7 +1310,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002169": {
     "BANK": "AU Small Finance Bank",
@@ -1255,7 +1328,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002170": {
     "BANK": "AU Small Finance Bank",
@@ -1272,7 +1346,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002171": {
     "BANK": "AU Small Finance Bank",
@@ -1289,7 +1364,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002172": {
     "BANK": "AU Small Finance Bank",
@@ -1306,7 +1382,8 @@
     "DISTRICT": "CHURU",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002173": {
     "BANK": "AU Small Finance Bank",
@@ -1323,7 +1400,8 @@
     "DISTRICT": "SIKAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002174": {
     "BANK": "AU Small Finance Bank",
@@ -1340,7 +1418,8 @@
     "DISTRICT": "NAGAUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002176": {
     "BANK": "AU Small Finance Bank",
@@ -1357,7 +1436,8 @@
     "DISTRICT": "SIKAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002177": {
     "BANK": "AU Small Finance Bank",
@@ -1374,7 +1454,8 @@
     "DISTRICT": "SIKAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002179": {
     "BANK": "AU Small Finance Bank",
@@ -1391,7 +1472,8 @@
     "DISTRICT": "SIKAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002180": {
     "BANK": "AU Small Finance Bank",
@@ -1408,7 +1490,8 @@
     "DISTRICT": "CHURU",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002181": {
     "BANK": "AU Small Finance Bank",
@@ -1425,7 +1508,8 @@
     "DISTRICT": "JHUNJHUNU",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002182": {
     "BANK": "AU Small Finance Bank",
@@ -1442,7 +1526,8 @@
     "DISTRICT": "CHURU",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002183": {
     "BANK": "AU Small Finance Bank",
@@ -1459,7 +1544,8 @@
     "DISTRICT": "SIKAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002184": {
     "BANK": "AU Small Finance Bank",
@@ -1476,7 +1562,8 @@
     "DISTRICT": "JHUNJHUNU",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002185": {
     "BANK": "AU Small Finance Bank",
@@ -1493,7 +1580,8 @@
     "DISTRICT": "JHUNJHUNU",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002186": {
     "BANK": "AU Small Finance Bank",
@@ -1510,7 +1598,8 @@
     "DISTRICT": "CHURU",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002187": {
     "BANK": "AU Small Finance Bank",
@@ -1527,7 +1616,8 @@
     "DISTRICT": "CHURU",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002188": {
     "BANK": "AU Small Finance Bank",
@@ -1544,7 +1634,8 @@
     "DISTRICT": "JHUNJHUNU",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002189": {
     "BANK": "AU Small Finance Bank",
@@ -1561,7 +1652,8 @@
     "DISTRICT": "ALWAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002190": {
     "BANK": "AU Small Finance Bank",
@@ -1578,7 +1670,8 @@
     "DISTRICT": "ALWAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002191": {
     "BANK": "AU Small Finance Bank",
@@ -1595,7 +1688,8 @@
     "DISTRICT": "ALWAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002192": {
     "BANK": "AU Small Finance Bank",
@@ -1612,7 +1706,8 @@
     "DISTRICT": "ALWAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002193": {
     "BANK": "AU Small Finance Bank",
@@ -1629,7 +1724,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002194": {
     "BANK": "AU Small Finance Bank",
@@ -1646,7 +1742,8 @@
     "DISTRICT": "SIKAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002195": {
     "BANK": "AU Small Finance Bank",
@@ -1663,7 +1760,8 @@
     "DISTRICT": "JHUNJHUNU",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002196": {
     "BANK": "AU Small Finance Bank",
@@ -1680,7 +1778,8 @@
     "DISTRICT": "ALWAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002197": {
     "BANK": "AU Small Finance Bank",
@@ -1697,7 +1796,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002198": {
     "BANK": "AU Small Finance Bank",
@@ -1714,7 +1814,8 @@
     "DISTRICT": "SIKAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002199": {
     "BANK": "AU Small Finance Bank",
@@ -1731,7 +1832,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002200": {
     "BANK": "AU Small Finance Bank",
@@ -1748,7 +1850,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002201": {
     "BANK": "AU Small Finance Bank",
@@ -1765,7 +1868,8 @@
     "DISTRICT": "ALWAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002202": {
     "BANK": "AU Small Finance Bank",
@@ -1782,7 +1886,8 @@
     "DISTRICT": "SIKAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002203": {
     "BANK": "AU Small Finance Bank",
@@ -1799,7 +1904,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002204": {
     "BANK": "AU Small Finance Bank",
@@ -1816,7 +1922,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002205": {
     "BANK": "AU Small Finance Bank",
@@ -1833,7 +1940,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002206": {
     "BANK": "AU Small Finance Bank",
@@ -1850,7 +1958,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002207": {
     "BANK": "AU Small Finance Bank",
@@ -1867,7 +1976,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002208": {
     "BANK": "AU Small Finance Bank",
@@ -1884,7 +1994,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002209": {
     "BANK": "AU Small Finance Bank",
@@ -1901,7 +2012,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002210": {
     "BANK": "AU Small Finance Bank",
@@ -1918,7 +2030,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002211": {
     "BANK": "AU Small Finance Bank",
@@ -1935,7 +2048,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002212": {
     "BANK": "AU Small Finance Bank",
@@ -1952,7 +2066,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002213": {
     "BANK": "AU Small Finance Bank",
@@ -1969,7 +2084,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002214": {
     "BANK": "AU Small Finance Bank",
@@ -1986,7 +2102,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002215": {
     "BANK": "AU Small Finance Bank",
@@ -2003,7 +2120,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002216": {
     "BANK": "AU Small Finance Bank",
@@ -2020,7 +2138,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002217": {
     "BANK": "AU Small Finance Bank",
@@ -2037,7 +2156,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002218": {
     "BANK": "AU Small Finance Bank",
@@ -2054,7 +2174,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002219": {
     "BANK": "AU Small Finance Bank",
@@ -2071,7 +2192,8 @@
     "DISTRICT": "TONK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002220": {
     "BANK": "AU Small Finance Bank",
@@ -2088,7 +2210,8 @@
     "DISTRICT": "AJMER",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002221": {
     "BANK": "AU Small Finance Bank",
@@ -2105,7 +2228,8 @@
     "DISTRICT": "AJMER",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002222": {
     "BANK": "AU Small Finance Bank",
@@ -2122,7 +2246,8 @@
     "DISTRICT": "AJMER",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002223": {
     "BANK": "AU Small Finance Bank",
@@ -2139,7 +2264,8 @@
     "DISTRICT": "AJMER",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002224": {
     "BANK": "AU Small Finance Bank",
@@ -2156,7 +2282,8 @@
     "DISTRICT": "AJMER",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002225": {
     "BANK": "AU Small Finance Bank",
@@ -2173,7 +2300,8 @@
     "DISTRICT": "AJMER",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002226": {
     "BANK": "AU Small Finance Bank",
@@ -2190,7 +2318,8 @@
     "DISTRICT": "NAGAUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002227": {
     "BANK": "AU Small Finance Bank",
@@ -2207,7 +2336,8 @@
     "DISTRICT": "NAGAUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002228": {
     "BANK": "AU Small Finance Bank",
@@ -2224,7 +2354,8 @@
     "DISTRICT": "AJMER",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002229": {
     "BANK": "AU Small Finance Bank",
@@ -2241,7 +2372,8 @@
     "DISTRICT": "BHILWARA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002230": {
     "BANK": "AU Small Finance Bank",
@@ -2258,7 +2390,8 @@
     "DISTRICT": "CHITTORGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002231": {
     "BANK": "AU Small Finance Bank",
@@ -2275,7 +2408,8 @@
     "DISTRICT": "BHILWARA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002232": {
     "BANK": "AU Small Finance Bank",
@@ -2292,7 +2426,8 @@
     "DISTRICT": "BHILWARA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002233": {
     "BANK": "AU Small Finance Bank",
@@ -2309,7 +2444,8 @@
     "DISTRICT": "CHITTORGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002234": {
     "BANK": "AU Small Finance Bank",
@@ -2326,7 +2462,8 @@
     "DISTRICT": "BHILWARA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002235": {
     "BANK": "AU Small Finance Bank",
@@ -2343,7 +2480,8 @@
     "DISTRICT": "PRATAPGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002236": {
     "BANK": "AU Small Finance Bank",
@@ -2360,7 +2498,8 @@
     "DISTRICT": "RAJSAMAND",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002237": {
     "BANK": "AU Small Finance Bank",
@@ -2377,7 +2516,8 @@
     "DISTRICT": "BANSWARA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002238": {
     "BANK": "AU Small Finance Bank",
@@ -2394,7 +2534,8 @@
     "DISTRICT": "UDAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002239": {
     "BANK": "AU Small Finance Bank",
@@ -2411,7 +2552,8 @@
     "DISTRICT": "DUNGARPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002240": {
     "BANK": "AU Small Finance Bank",
@@ -2428,7 +2570,8 @@
     "DISTRICT": "UDAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002241": {
     "BANK": "AU Small Finance Bank",
@@ -2445,7 +2588,8 @@
     "DISTRICT": "DUNGARPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002242": {
     "BANK": "AU Small Finance Bank",
@@ -2462,7 +2606,8 @@
     "DISTRICT": "UDAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002243": {
     "BANK": "AU Small Finance Bank",
@@ -2479,7 +2624,8 @@
     "DISTRICT": "UDAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002244": {
     "BANK": "AU Small Finance Bank",
@@ -2496,7 +2642,8 @@
     "DISTRICT": "BARAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002245": {
     "BANK": "AU Small Finance Bank",
@@ -2513,7 +2660,8 @@
     "DISTRICT": "BUNDI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002246": {
     "BANK": "AU Small Finance Bank",
@@ -2530,7 +2678,8 @@
     "DISTRICT": "BUNDI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002247": {
     "BANK": "AU Small Finance Bank",
@@ -2547,7 +2696,8 @@
     "DISTRICT": "BARAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002248": {
     "BANK": "AU Small Finance Bank",
@@ -2564,7 +2714,8 @@
     "DISTRICT": "TONK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002249": {
     "BANK": "AU Small Finance Bank",
@@ -2581,7 +2732,8 @@
     "DISTRICT": "JHALAWAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002250": {
     "BANK": "AU Small Finance Bank",
@@ -2598,7 +2750,8 @@
     "DISTRICT": "KOTA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002251": {
     "BANK": "AU Small Finance Bank",
@@ -2615,7 +2768,8 @@
     "DISTRICT": "KOTA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002252": {
     "BANK": "AU Small Finance Bank",
@@ -2632,7 +2786,8 @@
     "DISTRICT": "KOTA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002253": {
     "BANK": "AU Small Finance Bank",
@@ -2649,7 +2804,8 @@
     "DISTRICT": "KOTA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002254": {
     "BANK": "AU Small Finance Bank",
@@ -2666,7 +2822,8 @@
     "DISTRICT": "SAWAIMADHOPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002255": {
     "BANK": "AU Small Finance Bank",
@@ -2683,7 +2840,8 @@
     "DISTRICT": "NAGAUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002256": {
     "BANK": "AU Small Finance Bank",
@@ -2700,7 +2858,8 @@
     "DISTRICT": "NAGAUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002257": {
     "BANK": "AU Small Finance Bank",
@@ -2717,7 +2876,8 @@
     "DISTRICT": "JODHPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002258": {
     "BANK": "AU Small Finance Bank",
@@ -2734,7 +2894,8 @@
     "DISTRICT": "JODHPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002259": {
     "BANK": "AU Small Finance Bank",
@@ -2751,7 +2912,8 @@
     "DISTRICT": "NAGAUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002260": {
     "BANK": "AU Small Finance Bank",
@@ -2768,7 +2930,8 @@
     "DISTRICT": "NAGAUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002261": {
     "BANK": "AU Small Finance Bank",
@@ -2785,7 +2948,8 @@
     "DISTRICT": "JODHPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002262": {
     "BANK": "AU Small Finance Bank",
@@ -2802,7 +2966,8 @@
     "DISTRICT": "JODHPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002263": {
     "BANK": "AU Small Finance Bank",
@@ -2819,7 +2984,8 @@
     "DISTRICT": "JODHPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002264": {
     "BANK": "AU Small Finance Bank",
@@ -2836,7 +3002,8 @@
     "DISTRICT": "BIKANER",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002265": {
     "BANK": "AU Small Finance Bank",
@@ -2853,7 +3020,8 @@
     "DISTRICT": "BIKANER",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002266": {
     "BANK": "AU Small Finance Bank",
@@ -2870,7 +3038,8 @@
     "DISTRICT": "BIKANER",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002267": {
     "BANK": "AU Small Finance Bank",
@@ -2887,7 +3056,8 @@
     "DISTRICT": "BIKANER",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002268": {
     "BANK": "AU Small Finance Bank",
@@ -2904,7 +3074,8 @@
     "DISTRICT": "BIKANER",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002269": {
     "BANK": "AU Small Finance Bank",
@@ -2921,7 +3092,8 @@
     "DISTRICT": "NAGAUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002270": {
     "BANK": "AU Small Finance Bank",
@@ -2938,7 +3110,8 @@
     "DISTRICT": "BIKANER",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002271": {
     "BANK": "AU Small Finance Bank",
@@ -2955,7 +3128,8 @@
     "DISTRICT": "CHURU",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002272": {
     "BANK": "AU Small Finance Bank",
@@ -2972,7 +3146,8 @@
     "DISTRICT": "CHURU",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002273": {
     "BANK": "AU Small Finance Bank",
@@ -2989,7 +3164,8 @@
     "DISTRICT": "SIROHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002274": {
     "BANK": "AU Small Finance Bank",
@@ -3006,7 +3182,8 @@
     "DISTRICT": "JALORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002275": {
     "BANK": "AU Small Finance Bank",
@@ -3023,7 +3200,8 @@
     "DISTRICT": "PALI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002276": {
     "BANK": "AU Small Finance Bank",
@@ -3040,7 +3218,8 @@
     "DISTRICT": "JALORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002277": {
     "BANK": "AU Small Finance Bank",
@@ -3057,7 +3236,8 @@
     "DISTRICT": "PALI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002278": {
     "BANK": "AU Small Finance Bank",
@@ -3074,7 +3254,8 @@
     "DISTRICT": "SIROHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002279": {
     "BANK": "AU Small Finance Bank",
@@ -3091,7 +3272,8 @@
     "DISTRICT": "SIROHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002280": {
     "BANK": "AU Small Finance Bank",
@@ -3108,7 +3290,8 @@
     "DISTRICT": "PALI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002281": {
     "BANK": "AU Small Finance Bank",
@@ -3125,7 +3308,8 @@
     "DISTRICT": "GANGANAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002282": {
     "BANK": "AU Small Finance Bank",
@@ -3142,7 +3326,8 @@
     "DISTRICT": "HANUMANGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002283": {
     "BANK": "AU Small Finance Bank",
@@ -3159,7 +3344,8 @@
     "DISTRICT": "HANUMANGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002284": {
     "BANK": "AU Small Finance Bank",
@@ -3176,7 +3362,8 @@
     "DISTRICT": "HANUMANGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002285": {
     "BANK": "AU Small Finance Bank",
@@ -3193,7 +3380,8 @@
     "DISTRICT": "GANGANAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002286": {
     "BANK": "AU Small Finance Bank",
@@ -3210,7 +3398,8 @@
     "DISTRICT": "HANUMANGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002287": {
     "BANK": "AU Small Finance Bank",
@@ -3227,7 +3416,8 @@
     "DISTRICT": "GANGANAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002288": {
     "BANK": "AU Small Finance Bank",
@@ -3244,7 +3434,8 @@
     "DISTRICT": "GANGANAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002289": {
     "BANK": "AU Small Finance Bank",
@@ -3261,7 +3452,8 @@
     "DISTRICT": "GANGANAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002290": {
     "BANK": "AU Small Finance Bank",
@@ -3278,7 +3470,8 @@
     "DISTRICT": "JODHPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002291": {
     "BANK": "AU Small Finance Bank",
@@ -3295,7 +3488,8 @@
     "DISTRICT": "BARMER",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002292": {
     "BANK": "AU Small Finance Bank",
@@ -3312,7 +3506,8 @@
     "DISTRICT": "BARMER",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002293": {
     "BANK": "AU Small Finance Bank",
@@ -3329,7 +3524,8 @@
     "DISTRICT": "BARMER",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002294": {
     "BANK": "AU Small Finance Bank",
@@ -3346,7 +3542,8 @@
     "DISTRICT": "JAISALMER",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002295": {
     "BANK": "AU Small Finance Bank",
@@ -3363,7 +3560,8 @@
     "DISTRICT": "JAISALMER",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002296": {
     "BANK": "AU Small Finance Bank",
@@ -3380,7 +3578,8 @@
     "DISTRICT": "SEHORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002297": {
     "BANK": "AU Small Finance Bank",
@@ -3397,7 +3596,8 @@
     "DISTRICT": "RAISEN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002298": {
     "BANK": "AU Small Finance Bank",
@@ -3414,7 +3614,8 @@
     "DISTRICT": "BETUL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002299": {
     "BANK": "AU Small Finance Bank",
@@ -3431,7 +3632,8 @@
     "DISTRICT": "BHOPAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002300": {
     "BANK": "AU Small Finance Bank",
@@ -3448,7 +3650,8 @@
     "DISTRICT": "BHOPAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002301": {
     "BANK": "AU Small Finance Bank",
@@ -3465,7 +3668,8 @@
     "DISTRICT": "RAJGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002302": {
     "BANK": "AU Small Finance Bank",
@@ -3482,7 +3686,8 @@
     "DISTRICT": "VIDISHA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002303": {
     "BANK": "AU Small Finance Bank",
@@ -3499,7 +3704,8 @@
     "DISTRICT": "HOSHANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002304": {
     "BANK": "AU Small Finance Bank",
@@ -3516,7 +3722,8 @@
     "DISTRICT": "SEHORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002305": {
     "BANK": "AU Small Finance Bank",
@@ -3533,7 +3740,8 @@
     "DISTRICT": "CHHINDWARA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002306": {
     "BANK": "AU Small Finance Bank",
@@ -3550,7 +3758,8 @@
     "DISTRICT": "RAISEN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002307": {
     "BANK": "AU Small Finance Bank",
@@ -3567,7 +3776,8 @@
     "DISTRICT": "SHAJAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002308": {
     "BANK": "AU Small Finance Bank",
@@ -3584,7 +3794,8 @@
     "DISTRICT": "VIDISHA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002309": {
     "BANK": "AU Small Finance Bank",
@@ -3601,7 +3812,8 @@
     "DISTRICT": "AGAR-MALWA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002310": {
     "BANK": "AU Small Finance Bank",
@@ -3618,7 +3830,8 @@
     "DISTRICT": "BARWANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002311": {
     "BANK": "AU Small Finance Bank",
@@ -3635,7 +3848,8 @@
     "DISTRICT": "DEWAS",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002312": {
     "BANK": "AU Small Finance Bank",
@@ -3652,7 +3866,8 @@
     "DISTRICT": "DHAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002313": {
     "BANK": "AU Small Finance Bank",
@@ -3669,7 +3884,8 @@
     "DISTRICT": "INDORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002314": {
     "BANK": "AU Small Finance Bank",
@@ -3686,7 +3902,8 @@
     "DISTRICT": "INDORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002315": {
     "BANK": "AU Small Finance Bank",
@@ -3703,7 +3920,8 @@
     "DISTRICT": "EAST NIMAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002316": {
     "BANK": "AU Small Finance Bank",
@@ -3720,7 +3938,8 @@
     "DISTRICT": "WEST NIMAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002317": {
     "BANK": "AU Small Finance Bank",
@@ -3737,7 +3956,8 @@
     "DISTRICT": "DEWAS",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002318": {
     "BANK": "AU Small Finance Bank",
@@ -3754,7 +3974,8 @@
     "DISTRICT": "DHAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002319": {
     "BANK": "AU Small Finance Bank",
@@ -3771,7 +3992,8 @@
     "DISTRICT": "UJJAIN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002320": {
     "BANK": "AU Small Finance Bank",
@@ -3788,7 +4010,8 @@
     "DISTRICT": "RATLAM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002321": {
     "BANK": "AU Small Finance Bank",
@@ -3805,7 +4028,8 @@
     "DISTRICT": "MANDSAUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002322": {
     "BANK": "AU Small Finance Bank",
@@ -3822,7 +4046,8 @@
     "DISTRICT": "NEEMUCH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002323": {
     "BANK": "AU Small Finance Bank",
@@ -3839,7 +4064,8 @@
     "DISTRICT": "RATLAM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002324": {
     "BANK": "AU Small Finance Bank",
@@ -3856,7 +4082,8 @@
     "DISTRICT": "MANDSAUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002325": {
     "BANK": "AU Small Finance Bank",
@@ -3873,7 +4100,8 @@
     "DISTRICT": "CHATTARPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002326": {
     "BANK": "AU Small Finance Bank",
@@ -3890,7 +4118,8 @@
     "DISTRICT": "CHHINDWARA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002327": {
     "BANK": "AU Small Finance Bank",
@@ -3907,7 +4136,8 @@
     "DISTRICT": "JABALPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002328": {
     "BANK": "AU Small Finance Bank",
@@ -3924,7 +4154,8 @@
     "DISTRICT": "KATNI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002329": {
     "BANK": "AU Small Finance Bank",
@@ -3941,7 +4172,8 @@
     "DISTRICT": "EA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002330": {
     "BANK": "AU Small Finance Bank",
@@ -3958,7 +4190,8 @@
     "DISTRICT": "SATNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002331": {
     "BANK": "AU Small Finance Bank",
@@ -3975,7 +4208,8 @@
     "DISTRICT": "TIKAMGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002333": {
     "BANK": "AU Small Finance Bank",
@@ -3992,7 +4226,8 @@
     "DISTRICT": "DURG",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "AUBL0002334": {
     "BANK": "AU Small Finance Bank",
@@ -4009,7 +4244,8 @@
     "DISTRICT": "BILASPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "AUBL0002335": {
     "BANK": "AU Small Finance Bank",
@@ -4026,7 +4262,8 @@
     "DISTRICT": "DHAMTARI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "AUBL0002336": {
     "BANK": "AU Small Finance Bank",
@@ -4043,7 +4280,8 @@
     "DISTRICT": "KORBA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "AUBL0002337": {
     "BANK": "AU Small Finance Bank",
@@ -4060,7 +4298,8 @@
     "DISTRICT": "MANDLA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002338": {
     "BANK": "AU Small Finance Bank",
@@ -4077,7 +4316,8 @@
     "DISTRICT": "RAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "AUBL0002340": {
     "BANK": "AU Small Finance Bank",
@@ -4094,7 +4334,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002341": {
     "BANK": "AU Small Finance Bank",
@@ -4111,7 +4352,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002342": {
     "BANK": "AU Small Finance Bank",
@@ -4128,7 +4370,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002343": {
     "BANK": "AU Small Finance Bank",
@@ -4145,7 +4388,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002345": {
     "BANK": "AU Small Finance Bank",
@@ -4162,7 +4406,8 @@
     "DISTRICT": "PALGHAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002346": {
     "BANK": "AU Small Finance Bank",
@@ -4179,7 +4424,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002347": {
     "BANK": "AU Small Finance Bank",
@@ -4196,7 +4442,8 @@
     "DISTRICT": "NASHIK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002348": {
     "BANK": "AU Small Finance Bank",
@@ -4213,7 +4460,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002349": {
     "BANK": "AU Small Finance Bank",
@@ -4230,7 +4478,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002350": {
     "BANK": "AU Small Finance Bank",
@@ -4247,7 +4496,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002351": {
     "BANK": "AU Small Finance Bank",
@@ -4264,7 +4514,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002353": {
     "BANK": "AU Small Finance Bank",
@@ -4281,7 +4532,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002354": {
     "BANK": "AU Small Finance Bank",
@@ -4298,7 +4550,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002355": {
     "BANK": "AU Small Finance Bank",
@@ -4315,7 +4568,8 @@
     "DISTRICT": "SOLAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002356": {
     "BANK": "AU Small Finance Bank",
@@ -4332,7 +4586,8 @@
     "DISTRICT": "AHMEDNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002357": {
     "BANK": "AU Small Finance Bank",
@@ -4349,7 +4604,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002358": {
     "BANK": "AU Small Finance Bank",
@@ -4366,7 +4622,8 @@
     "DISTRICT": "DHULE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002359": {
     "BANK": "AU Small Finance Bank",
@@ -4383,7 +4640,8 @@
     "DISTRICT": "JALGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002360": {
     "BANK": "AU Small Finance Bank",
@@ -4400,7 +4658,8 @@
     "DISTRICT": "JALNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002361": {
     "BANK": "AU Small Finance Bank",
@@ -4417,7 +4676,8 @@
     "DISTRICT": "LATUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002362": {
     "BANK": "AU Small Finance Bank",
@@ -4434,7 +4694,8 @@
     "DISTRICT": "NANDED",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002363": {
     "BANK": "AU Small Finance Bank",
@@ -4451,7 +4712,8 @@
     "DISTRICT": "AHMEDNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002364": {
     "BANK": "AU Small Finance Bank",
@@ -4468,7 +4730,8 @@
     "DISTRICT": "AHMEDNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002365": {
     "BANK": "AU Small Finance Bank",
@@ -4485,7 +4748,8 @@
     "DISTRICT": "AKOLA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002366": {
     "BANK": "AU Small Finance Bank",
@@ -4502,7 +4766,8 @@
     "DISTRICT": "AMRAWATI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002367": {
     "BANK": "AU Small Finance Bank",
@@ -4519,7 +4784,8 @@
     "DISTRICT": "CHANDRAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002368": {
     "BANK": "AU Small Finance Bank",
@@ -4536,7 +4802,8 @@
     "DISTRICT": "GONDIA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002369": {
     "BANK": "AU Small Finance Bank",
@@ -4553,7 +4820,8 @@
     "DISTRICT": "NAGPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002370": {
     "BANK": "AU Small Finance Bank",
@@ -4570,7 +4838,8 @@
     "DISTRICT": "YAVATMAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002371": {
     "BANK": "AU Small Finance Bank",
@@ -4587,7 +4856,8 @@
     "DISTRICT": "WARDHA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002372": {
     "BANK": "AU Small Finance Bank",
@@ -4604,7 +4874,8 @@
     "DISTRICT": "YAVATMAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002373": {
     "BANK": "AU Small Finance Bank",
@@ -4621,7 +4892,8 @@
     "DISTRICT": "RATNAGIRI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002374": {
     "BANK": "AU Small Finance Bank",
@@ -4638,7 +4910,8 @@
     "DISTRICT": "SINDHUDURG",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002375": {
     "BANK": "AU Small Finance Bank",
@@ -4655,7 +4928,8 @@
     "DISTRICT": "KOLHAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002376": {
     "BANK": "AU Small Finance Bank",
@@ -4672,7 +4946,8 @@
     "DISTRICT": "GOA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GA"
   },
   "AUBL0002377": {
     "BANK": "AU Small Finance Bank",
@@ -4689,7 +4964,8 @@
     "DISTRICT": "RATNAGIRI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002378": {
     "BANK": "AU Small Finance Bank",
@@ -4706,7 +4982,8 @@
     "DISTRICT": "SANGLI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002379": {
     "BANK": "AU Small Finance Bank",
@@ -4723,7 +5000,8 @@
     "DISTRICT": "SATARA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002380": {
     "BANK": "AU Small Finance Bank",
@@ -4740,7 +5018,8 @@
     "DISTRICT": "JALANDHAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "AUBL0002381": {
     "BANK": "AU Small Finance Bank",
@@ -4757,7 +5036,8 @@
     "DISTRICT": "SHIMLA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HP"
   },
   "AUBL0002382": {
     "BANK": "AU Small Finance Bank",
@@ -4774,7 +5054,8 @@
     "DISTRICT": "SOLAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HP"
   },
   "AUBL0002383": {
     "BANK": "AU Small Finance Bank",
@@ -4791,7 +5072,8 @@
     "DISTRICT": "CHANDIGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "AUBL0002384": {
     "BANK": "AU Small Finance Bank",
@@ -4808,7 +5090,8 @@
     "DISTRICT": "SAHIBZADA AJIT SINGH NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "AUBL0002385": {
     "BANK": "AU Small Finance Bank",
@@ -4825,7 +5108,8 @@
     "DISTRICT": "PATIALA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "AUBL0002386": {
     "BANK": "AU Small Finance Bank",
@@ -4842,7 +5126,8 @@
     "DISTRICT": "SOLAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HP"
   },
   "AUBL0002387": {
     "BANK": "AU Small Finance Bank",
@@ -4859,7 +5144,8 @@
     "DISTRICT": "UNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HP"
   },
   "AUBL0002388": {
     "BANK": "AU Small Finance Bank",
@@ -4876,7 +5162,8 @@
     "DISTRICT": "FARIDKOT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "AUBL0002389": {
     "BANK": "AU Small Finance Bank",
@@ -4893,7 +5180,8 @@
     "DISTRICT": "FIROZPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "AUBL0002390": {
     "BANK": "AU Small Finance Bank",
@@ -4910,7 +5198,8 @@
     "DISTRICT": "HOSHIARPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "AUBL0002391": {
     "BANK": "AU Small Finance Bank",
@@ -4927,7 +5216,8 @@
     "DISTRICT": "LUDHIANA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "AUBL0002392": {
     "BANK": "AU Small Finance Bank",
@@ -4944,7 +5234,8 @@
     "DISTRICT": "LUDHIANA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "AUBL0002393": {
     "BANK": "AU Small Finance Bank",
@@ -4961,7 +5252,8 @@
     "DISTRICT": "MOGA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "AUBL0002394": {
     "BANK": "AU Small Finance Bank",
@@ -4978,7 +5270,8 @@
     "DISTRICT": "JALANDHAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "AUBL0002395": {
     "BANK": "AU Small Finance Bank",
@@ -4995,7 +5288,8 @@
     "DISTRICT": "SHAHEED BHAGAT SINGH NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "AUBL0002396": {
     "BANK": "AU Small Finance Bank",
@@ -5012,7 +5306,8 @@
     "DISTRICT": "FAZILKA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "AUBL0002397": {
     "BANK": "AU Small Finance Bank",
@@ -5029,7 +5324,8 @@
     "DISTRICT": "BARNALA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "AUBL0002398": {
     "BANK": "AU Small Finance Bank",
@@ -5046,7 +5342,8 @@
     "DISTRICT": "BATHINDA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "AUBL0002399": {
     "BANK": "AU Small Finance Bank",
@@ -5063,7 +5360,8 @@
     "DISTRICT": "FAZILKA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "AUBL0002400": {
     "BANK": "AU Small Finance Bank",
@@ -5080,7 +5378,8 @@
     "DISTRICT": "MANSA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "AUBL0002401": {
     "BANK": "AU Small Finance Bank",
@@ -5097,7 +5396,8 @@
     "DISTRICT": "SRI MUKTSAR SAHIB",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "AUBL0002402": {
     "BANK": "AU Small Finance Bank",
@@ -5114,7 +5414,8 @@
     "DISTRICT": "SANGRUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "AUBL0002403": {
     "BANK": "AU Small Finance Bank",
@@ -5131,7 +5432,8 @@
     "DISTRICT": "GURGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "AUBL0002404": {
     "BANK": "AU Small Finance Bank",
@@ -5148,7 +5450,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002405": {
     "BANK": "AU Small Finance Bank",
@@ -5165,7 +5468,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002406": {
     "BANK": "AU Small Finance Bank",
@@ -5182,7 +5486,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002407": {
     "BANK": "AU Small Finance Bank",
@@ -5199,7 +5504,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002408": {
     "BANK": "AU Small Finance Bank",
@@ -5216,7 +5522,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002409": {
     "BANK": "AU Small Finance Bank",
@@ -5233,7 +5540,8 @@
     "DISTRICT": "SIKAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002410": {
     "BANK": "AU Small Finance Bank",
@@ -5250,7 +5558,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002411": {
     "BANK": "AU Small Finance Bank",
@@ -5267,7 +5576,8 @@
     "DISTRICT": "ALWAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002412": {
     "BANK": "AU Small Finance Bank",
@@ -5284,7 +5594,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002413": {
     "BANK": "AU Small Finance Bank",
@@ -5301,7 +5612,8 @@
     "DISTRICT": "SIKAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002414": {
     "BANK": "AU Small Finance Bank",
@@ -5318,7 +5630,8 @@
     "DISTRICT": "ALWAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002415": {
     "BANK": "AU Small Finance Bank",
@@ -5335,7 +5648,8 @@
     "DISTRICT": "SHAHPURA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002416": {
     "BANK": "AU Small Finance Bank",
@@ -5352,7 +5666,8 @@
     "DISTRICT": "MAHENDRAGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "AUBL0002417": {
     "BANK": "AU Small Finance Bank",
@@ -5369,7 +5684,8 @@
     "DISTRICT": "AJMER",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002418": {
     "BANK": "AU Small Finance Bank",
@@ -5386,7 +5702,8 @@
     "DISTRICT": "BARMER",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002419": {
     "BANK": "AU Small Finance Bank",
@@ -5403,7 +5720,8 @@
     "DISTRICT": "DHAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002420": {
     "BANK": "AU Small Finance Bank",
@@ -5420,7 +5738,8 @@
     "DISTRICT": "KARNAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "AUBL0002421": {
     "BANK": "AU Small Finance Bank",
@@ -5437,7 +5756,8 @@
     "DISTRICT": "OHU",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002422": {
     "BANK": "AU Small Finance Bank",
@@ -5454,7 +5774,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002423": {
     "BANK": "AU Small Finance Bank",
@@ -5471,7 +5792,8 @@
     "DISTRICT": "UDAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002424": {
     "BANK": "AU Small Finance Bank",
@@ -5488,7 +5810,8 @@
     "DISTRICT": "BIKANER",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002425": {
     "BANK": "AU Small Finance Bank",
@@ -5505,7 +5828,8 @@
     "DISTRICT": "SIROHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002426": {
     "BANK": "AU Small Finance Bank",
@@ -5522,7 +5846,8 @@
     "DISTRICT": "BHILWARA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002427": {
     "BANK": "AU Small Finance Bank",
@@ -5539,7 +5864,8 @@
     "DISTRICT": "BARAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002428": {
     "BANK": "AU Small Finance Bank",
@@ -5556,7 +5882,8 @@
     "DISTRICT": "JALORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002429": {
     "BANK": "AU Small Finance Bank",
@@ -5573,7 +5900,8 @@
     "DISTRICT": "NAGAUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002430": {
     "BANK": "AU Small Finance Bank",
@@ -5590,7 +5918,8 @@
     "DISTRICT": "CHITTORGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002431": {
     "BANK": "AU Small Finance Bank",
@@ -5607,7 +5936,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002432": {
     "BANK": "AU Small Finance Bank",
@@ -5624,7 +5954,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002433": {
     "BANK": "AU Small Finance Bank",
@@ -5641,7 +5972,8 @@
     "DISTRICT": "JAITARAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002434": {
     "BANK": "AU Small Finance Bank",
@@ -5658,7 +5990,8 @@
     "DISTRICT": "SRI GANGANAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002435": {
     "BANK": "AU Small Finance Bank",
@@ -5675,7 +6008,8 @@
     "DISTRICT": "SRI GANGANAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002436": {
     "BANK": "AU Small Finance Bank",
@@ -5692,7 +6026,8 @@
     "DISTRICT": "INDORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002437": {
     "BANK": "AU Small Finance Bank",
@@ -5709,7 +6044,8 @@
     "DISTRICT": "KHARGONE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002438": {
     "BANK": "AU Small Finance Bank",
@@ -5726,7 +6062,8 @@
     "DISTRICT": "MANDSAUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002439": {
     "BANK": "AU Small Finance Bank",
@@ -5743,7 +6080,8 @@
     "DISTRICT": "MANDSAUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002440": {
     "BANK": "AU Small Finance Bank",
@@ -5760,7 +6098,8 @@
     "DISTRICT": "ROHTAK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "AUBL0002441": {
     "BANK": "AU Small Finance Bank",
@@ -5777,7 +6116,8 @@
     "DISTRICT": "SONIPAT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "AUBL0002442": {
     "BANK": "AU Small Finance Bank",
@@ -5794,7 +6134,8 @@
     "DISTRICT": "DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "AUBL0002443": {
     "BANK": "AU Small Finance Bank",
@@ -5811,7 +6152,8 @@
     "DISTRICT": "DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "AUBL0002444": {
     "BANK": "AU Small Finance Bank",
@@ -5828,7 +6170,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002445": {
     "BANK": "AU Small Finance Bank",
@@ -5845,7 +6188,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002446": {
     "BANK": "AU Small Finance Bank",
@@ -5862,7 +6206,8 @@
     "DISTRICT": "NORTH WEST",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "AUBL0002447": {
     "BANK": "AU Small Finance Bank",
@@ -5879,7 +6224,8 @@
     "DISTRICT": "DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "AUBL0002448": {
     "BANK": "AU Small Finance Bank",
@@ -5896,7 +6242,8 @@
     "DISTRICT": "DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "AUBL0002449": {
     "BANK": "AU Small Finance Bank",
@@ -5913,7 +6260,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002450": {
     "BANK": "AU Small Finance Bank",
@@ -5930,7 +6278,8 @@
     "DISTRICT": "PANCHKULA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "AUBL0002451": {
     "BANK": "AU Small Finance Bank",
@@ -5947,7 +6296,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002452": {
     "BANK": "AU Small Finance Bank",
@@ -5964,7 +6314,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002453": {
     "BANK": "AU Small Finance Bank",
@@ -5981,7 +6332,8 @@
     "DISTRICT": "AMRITSAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "AUBL0002454": {
     "BANK": "AU Small Finance Bank",
@@ -5998,7 +6350,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002455": {
     "BANK": "AU Small Finance Bank",
@@ -6015,7 +6368,8 @@
     "DISTRICT": "NEW DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "AUBL0002456": {
     "BANK": "AU Small Finance Bank",
@@ -6032,7 +6386,8 @@
     "DISTRICT": "NEW DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "AUBL0002457": {
     "BANK": "AU Small Finance Bank",
@@ -6049,7 +6404,8 @@
     "DISTRICT": "SIKAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002458": {
     "BANK": "AU Small Finance Bank",
@@ -6066,7 +6422,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002459": {
     "BANK": "AU Small Finance Bank",
@@ -6083,7 +6440,8 @@
     "DISTRICT": "PIMPARI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002460": {
     "BANK": "AU Small Finance Bank",
@@ -6100,7 +6458,8 @@
     "DISTRICT": "HANUMANGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002461": {
     "BANK": "AU Small Finance Bank",
@@ -6117,7 +6476,8 @@
     "DISTRICT": "SHRI MUKTSAR SAHIB",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "AUBL0002462": {
     "BANK": "AU Small Finance Bank",
@@ -6134,7 +6494,8 @@
     "DISTRICT": "BANGALORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "AUBL0002463": {
     "BANK": "AU Small Finance Bank",
@@ -6151,7 +6512,8 @@
     "DISTRICT": "BANGALORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "AUBL0002464": {
     "BANK": "AU Small Finance Bank",
@@ -6168,7 +6530,8 @@
     "DISTRICT": "SIKAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002465": {
     "BANK": "AU Small Finance Bank",
@@ -6185,7 +6548,8 @@
     "DISTRICT": "NEW DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "AUBL0002467": {
     "BANK": "AU Small Finance Bank",
@@ -6202,7 +6566,8 @@
     "DISTRICT": "FARIDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "AUBL0002468": {
     "BANK": "AU Small Finance Bank",
@@ -6219,7 +6584,8 @@
     "DISTRICT": "RABCHA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002469": {
     "BANK": "AU Small Finance Bank",
@@ -6236,7 +6602,8 @@
     "DISTRICT": "JAMMU",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JK"
   },
   "AUBL0002470": {
     "BANK": "AU Small Finance Bank",
@@ -6253,7 +6620,8 @@
     "DISTRICT": "BHARATPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002471": {
     "BANK": "AU Small Finance Bank",
@@ -6270,7 +6638,8 @@
     "DISTRICT": "KARAULI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002472": {
     "BANK": "AU Small Finance Bank",
@@ -6287,7 +6656,8 @@
     "DISTRICT": "PATHANKOT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "AUBL0002473": {
     "BANK": "AU Small Finance Bank",
@@ -6304,7 +6674,8 @@
     "DISTRICT": "NASHIK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002474": {
     "BANK": "AU Small Finance Bank",
@@ -6321,7 +6692,8 @@
     "DISTRICT": "SIKAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002475": {
     "BANK": "AU Small Finance Bank",
@@ -6338,7 +6710,8 @@
     "DISTRICT": "PALGHAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002476": {
     "BANK": "AU Small Finance Bank",
@@ -6355,7 +6728,8 @@
     "DISTRICT": "RAJKOT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002477": {
     "BANK": "AU Small Finance Bank",
@@ -6372,7 +6746,8 @@
     "DISTRICT": "JODHPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002478": {
     "BANK": "AU Small Finance Bank",
@@ -6389,7 +6764,8 @@
     "DISTRICT": "INDORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002479": {
     "BANK": "AU Small Finance Bank",
@@ -6406,7 +6782,8 @@
     "DISTRICT": "MOHALI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "AUBL0002480": {
     "BANK": "AU Small Finance Bank",
@@ -6423,7 +6800,8 @@
     "DISTRICT": "GHAZIABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "AUBL0002481": {
     "BANK": "AU Small Finance Bank",
@@ -6440,7 +6818,8 @@
     "DISTRICT": "DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "AUBL0002483": {
     "BANK": "AU Small Finance Bank",
@@ -6457,7 +6836,8 @@
     "DISTRICT": "SAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002484": {
     "BANK": "AU Small Finance Bank",
@@ -6474,7 +6854,8 @@
     "DISTRICT": "BHOPAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002485": {
     "BANK": "AU Small Finance Bank",
@@ -6491,7 +6872,8 @@
     "DISTRICT": "GAUTAM BUDH NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "AUBL0002486": {
     "BANK": "AU Small Finance Bank",
@@ -6508,7 +6890,8 @@
     "DISTRICT": "LUCKNOW",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "AUBL0002487": {
     "BANK": "AU Small Finance Bank",
@@ -6525,7 +6908,8 @@
     "DISTRICT": "KANPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "AUBL0002488": {
     "BANK": "AU Small Finance Bank",
@@ -6542,7 +6926,8 @@
     "DISTRICT": "VALSAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002489": {
     "BANK": "AU Small Finance Bank",
@@ -6559,7 +6944,8 @@
     "DISTRICT": "AGRA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "AUBL0002490": {
     "BANK": "AU Small Finance Bank",
@@ -6576,7 +6962,8 @@
     "DISTRICT": "VADODARA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002491": {
     "BANK": "AU Small Finance Bank",
@@ -6593,7 +6980,8 @@
     "DISTRICT": "DHOLPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002492": {
     "BANK": "AU Small Finance Bank",
@@ -6610,7 +6998,8 @@
     "DISTRICT": "BHATINDA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "AUBL0002493": {
     "BANK": "AU Small Finance Bank",
@@ -6627,7 +7016,8 @@
     "DISTRICT": "HYDERABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TG"
   },
   "AUBL0002496": {
     "BANK": "AU Small Finance Bank",
@@ -6644,7 +7034,8 @@
     "DISTRICT": "BHUBANESWAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "AUBL0002501": {
     "BANK": "AU Small Finance Bank",
@@ -6661,7 +7052,8 @@
     "DISTRICT": "KOLKATA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "AUBL0002503": {
     "BANK": "AU Small Finance Bank",
@@ -6678,7 +7070,8 @@
     "DISTRICT": "ALWAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002505": {
     "BANK": "AU Small Finance Bank",
@@ -6695,7 +7088,8 @@
     "DISTRICT": "MANSA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "AUBL0002506": {
     "BANK": "AU Small Finance Bank",
@@ -6712,7 +7106,8 @@
     "DISTRICT": "MANSA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "AUBL0002508": {
     "BANK": "AU Small Finance Bank",
@@ -6729,7 +7124,8 @@
     "DISTRICT": "BARAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002509": {
     "BANK": "AU Small Finance Bank",
@@ -6746,7 +7142,8 @@
     "DISTRICT": "SRI GANGANAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002510": {
     "BANK": "AU Small Finance Bank",
@@ -6763,7 +7160,8 @@
     "DISTRICT": "JHUNJHUNU",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002511": {
     "BANK": "AU Small Finance Bank",
@@ -6780,7 +7178,8 @@
     "DISTRICT": "SIKAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002512": {
     "BANK": "AU Small Finance Bank",
@@ -6797,7 +7196,8 @@
     "DISTRICT": "SIRSA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "AUBL0002513": {
     "BANK": "AU Small Finance Bank",
@@ -6814,7 +7214,8 @@
     "DISTRICT": "KOLKATA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "AUBL0002514": {
     "BANK": "AU Small Finance Bank",
@@ -6831,7 +7232,8 @@
     "DISTRICT": "UDAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002515": {
     "BANK": "AU Small Finance Bank",
@@ -6848,7 +7250,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002516": {
     "BANK": "AU Small Finance Bank",
@@ -6865,7 +7268,8 @@
     "DISTRICT": "GWALIOR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002517": {
     "BANK": "AU Small Finance Bank",
@@ -6882,7 +7286,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002518": {
     "BANK": "AU Small Finance Bank",
@@ -6899,7 +7304,8 @@
     "DISTRICT": "PATIALA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "AUBL0002519": {
     "BANK": "AU Small Finance Bank",
@@ -6916,7 +7322,8 @@
     "DISTRICT": "SURAT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002520": {
     "BANK": "AU Small Finance Bank",
@@ -6933,7 +7340,8 @@
     "DISTRICT": "NAGPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002521": {
     "BANK": "AU Small Finance Bank",
@@ -6950,7 +7358,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002522": {
     "BANK": "AU Small Finance Bank",
@@ -6967,7 +7376,8 @@
     "DISTRICT": "MOHALI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "AUBL0002523": {
     "BANK": "AU Small Finance Bank",
@@ -6984,7 +7394,8 @@
     "DISTRICT": "GURGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "AUBL0002524": {
     "BANK": "AU Small Finance Bank",
@@ -7001,7 +7412,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002526": {
     "BANK": "AU Small Finance Bank",
@@ -7018,7 +7430,8 @@
     "DISTRICT": "PACHKULA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "AUBL0002527": {
     "BANK": "AU Small Finance Bank",
@@ -7035,7 +7448,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002528": {
     "BANK": "AU Small Finance Bank",
@@ -7052,7 +7466,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002529": {
     "BANK": "AU Small Finance Bank",
@@ -7069,7 +7484,8 @@
     "DISTRICT": "SURAT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002530": {
     "BANK": "AU Small Finance Bank",
@@ -7086,7 +7502,8 @@
     "DISTRICT": "GANDHINAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002531": {
     "BANK": "AU Small Finance Bank",
@@ -7103,7 +7520,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002533": {
     "BANK": "AU Small Finance Bank",
@@ -7120,7 +7538,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002534": {
     "BANK": "AU Small Finance Bank",
@@ -7137,7 +7556,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002535": {
     "BANK": "AU Small Finance Bank",
@@ -7154,7 +7574,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002536": {
     "BANK": "AU Small Finance Bank",
@@ -7171,7 +7592,8 @@
     "DISTRICT": "JHAJJAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "AUBL0002537": {
     "BANK": "AU Small Finance Bank",
@@ -7188,7 +7610,8 @@
     "DISTRICT": "INDORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002538": {
     "BANK": "AU Small Finance Bank",
@@ -7205,7 +7628,8 @@
     "DISTRICT": "GURGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "AUBL0002539": {
     "BANK": "AU Small Finance Bank",
@@ -7222,7 +7646,8 @@
     "DISTRICT": "GURGAONMG",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "AUBL0002540": {
     "BANK": "AU Small Finance Bank",
@@ -7239,7 +7664,8 @@
     "DISTRICT": "BHIWANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "AUBL0002541": {
     "BANK": "AU Small Finance Bank",
@@ -7256,7 +7682,8 @@
     "DISTRICT": "JIND, HARYANA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "AUBL0002542": {
     "BANK": "AU Small Finance Bank",
@@ -7273,7 +7700,8 @@
     "DISTRICT": "MAHENDRAGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "AUBL0002543": {
     "BANK": "AU Small Finance Bank",
@@ -7290,7 +7718,8 @@
     "DISTRICT": "CHARKHI DADRI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "AUBL0002544": {
     "BANK": "AU Small Finance Bank",
@@ -7307,7 +7736,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002545": {
     "BANK": "AU Small Finance Bank",
@@ -7324,7 +7754,8 @@
     "DISTRICT": "BAHADURGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "AUBL0002546": {
     "BANK": "AU Small Finance Bank",
@@ -7341,7 +7772,8 @@
     "DISTRICT": "DELHI GK 2",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "AUBL0002547": {
     "BANK": "AU Small Finance Bank",
@@ -7358,7 +7790,8 @@
     "DISTRICT": "DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "AUBL0002548": {
     "BANK": "AU Small Finance Bank",
@@ -7375,7 +7808,8 @@
     "DISTRICT": "GURGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "AUBL0002549": {
     "BANK": "AU Small Finance Bank",
@@ -7392,7 +7826,26 @@
     "DISTRICT": "DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
+  },
+  "AUBL0002550": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002550",
+    "MICR": "302765021",
+    "BRANCH": "MALVIYA NAGAR",
+    "ADDRESS": "P.NO-27,SUNDER NAGAR,OPP.AXIS BANK,GIRDHAR MARG,MALVIYA NAGAR,JAIPUR,RAJASTHAN PINCODE - 302017",
+    "STATE": "RAJASTHAN",
+    "CONTACT": "+919116636162",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "JAIPUR",
+    "CENTRE": "MALVIYA NAGAR",
+    "DISTRICT": "MALVIYA NAGAR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002552": {
     "BANK": "AU Small Finance Bank",
@@ -7409,7 +7862,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002553": {
     "BANK": "AU Small Finance Bank",
@@ -7426,7 +7880,8 @@
     "DISTRICT": "CHANDIGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "AUBL0002554": {
     "BANK": "AU Small Finance Bank",
@@ -7443,7 +7898,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002555": {
     "BANK": "AU Small Finance Bank",
@@ -7460,7 +7916,8 @@
     "DISTRICT": "BARODA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002556": {
     "BANK": "AU Small Finance Bank",
@@ -7477,7 +7934,8 @@
     "DISTRICT": "BANGLORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "AUBL0002557": {
     "BANK": "AU Small Finance Bank",
@@ -7494,7 +7952,8 @@
     "DISTRICT": "FATEHABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "AUBL0002558": {
     "BANK": "AU Small Finance Bank",
@@ -7511,7 +7970,8 @@
     "DISTRICT": "DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "AUBL0002559": {
     "BANK": "AU Small Finance Bank",
@@ -7520,7 +7980,7 @@
     "BRANCH": "GREENPARK DELHI",
     "ADDRESS": "S18GREEN PARKEXT.NEWDELHI 110016",
     "STATE": "DELHI",
-    "CONTACT": "+918130307922",
+    "CONTACT": "+918130088960",
     "UPI": true,
     "RTGS": true,
     "CITY": "DELHI",
@@ -7528,7 +7988,26 @@
     "DISTRICT": "DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
+  },
+  "AUBL0002560": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002560",
+    "MICR": "305765011",
+    "BRANCH": "AJMER - ADARSH NAGAR",
+    "ADDRESS": "PLOT NO.1,2& 3,AMC NO.27/24,OPP.KAPUR GARDEN,NASIRABAD ROAD,ADARSH NAGAR,AJMER,RAJASTHAN",
+    "STATE": "RAJASTHAN",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "AJMER",
+    "CENTRE": "AJMER - ADARSH NAGAR",
+    "DISTRICT": "AJMER - ADARSH NAGAR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002561": {
     "BANK": "AU Small Finance Bank",
@@ -7545,7 +8024,8 @@
     "DISTRICT": "VAJDI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002562": {
     "BANK": "AU Small Finance Bank",
@@ -7562,7 +8042,8 @@
     "DISTRICT": "MOHALI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "AUBL0002563": {
     "BANK": "AU Small Finance Bank",
@@ -7579,7 +8060,8 @@
     "DISTRICT": "WORLI MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002564": {
     "BANK": "AU Small Finance Bank",
@@ -7596,7 +8078,8 @@
     "DISTRICT": "NOIDA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "AUBL0002566": {
     "BANK": "AU Small Finance Bank",
@@ -7613,7 +8096,8 @@
     "DISTRICT": "CHANDIGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "AUBL0002567": {
     "BANK": "AU Small Finance Bank",
@@ -7630,7 +8114,8 @@
     "DISTRICT": "DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "AUBL0002568": {
     "BANK": "AU Small Finance Bank",
@@ -7647,7 +8132,8 @@
     "DISTRICT": "SADARBAZAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "AUBL0002569": {
     "BANK": "AU Small Finance Bank",
@@ -7664,7 +8150,26 @@
     "DISTRICT": "MAKHAVAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
+  },
+  "AUBL0002570": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002570",
+    "MICR": "600765002",
+    "BRANCH": "NUNGAMBAKKAM, CHENNAI",
+    "ADDRESS": "SHOP NO.G -5,GG EMERALD,151,VILLAGE ROAD,VALLUVAR KOTTAM HIGH ROAD,NUNGAMBAKKAM,CHENNAI - 600034",
+    "STATE": "TAMIL NADU",
+    "CONTACT": "+918905111797",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "CHENNAI",
+    "CENTRE": "NUNGAMBAKKAM, CHENNAI",
+    "DISTRICT": "NUNGAMBAKKAM, CHENNAI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "AUBL0002571": {
     "BANK": "AU Small Finance Bank",
@@ -7681,7 +8186,8 @@
     "DISTRICT": "JALANDHAR FOOTBALL CHOWK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "AUBL0002572": {
     "BANK": "AU Small Finance Bank",
@@ -7698,7 +8204,8 @@
     "DISTRICT": "BHOPAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002573": {
     "BANK": "AU Small Finance Bank",
@@ -7715,7 +8222,8 @@
     "DISTRICT": "SHAMSHERPURA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002574": {
     "BANK": "AU Small Finance Bank",
@@ -7732,12 +8240,13 @@
     "DISTRICT": "PALWAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "AUBL0002575": {
     "BANK": "AU Small Finance Bank",
     "IFSC": "AUBL0002575",
-    "MICR": null,
+    "MICR": "462765004",
     "BRANCH": "SECTOR THIRTY TWO, LUDHIANA",
     "ADDRESS": "SCO 38,GROUND FLOOR,SECTOR 32A,CHANDIGARH ROAD,LUDHIANA - 141010",
     "STATE": "PUNJAB",
@@ -7749,7 +8258,8 @@
     "DISTRICT": "LUDHIANA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "AUBL0002576": {
     "BANK": "AU Small Finance Bank",
@@ -7766,7 +8276,8 @@
     "DISTRICT": "ISAND",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002577": {
     "BANK": "AU Small Finance Bank",
@@ -7783,7 +8294,8 @@
     "DISTRICT": "GALUDAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002578": {
     "BANK": "AU Small Finance Bank",
@@ -7800,7 +8312,8 @@
     "DISTRICT": "RAJPURA PIPERAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002579": {
     "BANK": "AU Small Finance Bank",
@@ -7817,7 +8330,8 @@
     "DISTRICT": "DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "AUBL0002580": {
     "BANK": "AU Small Finance Bank",
@@ -7834,7 +8348,8 @@
     "DISTRICT": "DELHI- ASHOK VIHAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "AUBL0002581": {
     "BANK": "AU Small Finance Bank",
@@ -7851,7 +8366,8 @@
     "DISTRICT": "DELHI- WEST PATEL NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "AUBL0002582": {
     "BANK": "AU Small Finance Bank",
@@ -7868,7 +8384,8 @@
     "DISTRICT": "VARANASI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "AUBL0002583": {
     "BANK": "AU Small Finance Bank",
@@ -7885,7 +8402,8 @@
     "DISTRICT": "PALANPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002584": {
     "BANK": "AU Small Finance Bank",
@@ -7902,7 +8420,8 @@
     "DISTRICT": "DHINHDA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002585": {
     "BANK": "AU Small Finance Bank",
@@ -7919,7 +8438,8 @@
     "DISTRICT": "BHAVNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "AUBL0002586": {
     "BANK": "AU Small Finance Bank",
@@ -7936,7 +8456,8 @@
     "DISTRICT": "RATLAM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002588": {
     "BANK": "AU Small Finance Bank",
@@ -7953,7 +8474,62 @@
     "DISTRICT": "LUCKNOW",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
+  },
+  "AUBL0002589": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002589",
+    "MICR": "400765019",
+    "BRANCH": "FORT",
+    "ADDRESS": "105,MGROAD,MISTRYMANSION,FORTMUMBAI-400023",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "MUMBAI",
+    "CENTRE": "FORT",
+    "DISTRICT": "FORT",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
+  "AUBL0002590": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002590",
+    "MICR": "302765022",
+    "BRANCH": "JAIPUR- MANSAROVAR",
+    "ADDRESS": "54/219& 220,HEERA PATH,MADHYAM MARG,MANSAROVAR,JAIPUR,RAJASTHAN",
+    "STATE": "RAJASTHAN",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "JAIPUR",
+    "CENTRE": "JAIPUR- MANSAROVAR",
+    "DISTRICT": "JAIPUR- MANSAROVAR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
+  },
+  "AUBL0002591": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002591",
+    "MICR": "500765003",
+    "BRANCH": "HYDERABAD- HIMAYAT NAGAR",
+    "ADDRESS": "3-5-908/1,2,3,GROUND FLOOR,HIMAYAT NAGAR,HYDERABAD,TELANGANA - 500029",
+    "STATE": "TELANGANA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "TELENGANA",
+    "CENTRE": "HYDERABAD- HIMAYAT NAGAR",
+    "DISTRICT": "HYDERABAD- HIMAYAT NAGAR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-TG"
   },
   "AUBL0002592": {
     "BANK": "AU Small Finance Bank",
@@ -7970,7 +8546,8 @@
     "DISTRICT": "KACHALIYA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "AUBL0002593": {
     "BANK": "AU Small Finance Bank",
@@ -7987,7 +8564,44 @@
     "DISTRICT": "NAJARPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
+  },
+  "AUBL0002594": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002594",
+    "MICR": "335765016",
+    "BRANCH": "ANUPGARH MANDI",
+    "ADDRESS": "MAIN MANDI ANUPGARH,DISTRICT SRI GANGANAGAR,RAJASTHAN - 337501",
+    "STATE": "RAJASTHAN",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "GANGANAGAR",
+    "CENTRE": "ANUPGARH MANDI",
+    "DISTRICT": "ANUPGARH MANDI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
+  },
+  "AUBL0002595": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002595",
+    "MICR": "400765020",
+    "BRANCH": "VILE PARLE - JUHU",
+    "ADDRESS": "Z2VSCMGDFVLMRDMMBM45.",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": "+918905985967",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "MUMBAI",
+    "CENTRE": "VILE PARLE - JUHU",
+    "DISTRICT": "VILE PARLE - JUHU",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0002596": {
     "BANK": "AU Small Finance Bank",
@@ -8004,7 +8618,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0002597": {
     "BANK": "AU Small Finance Bank",
@@ -8021,7 +8636,116 @@
     "DISTRICT": "DHUDHANA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
+  },
+  "AUBL0002598": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002598",
+    "MICR": "110765042",
+    "BRANCH": "SAKET",
+    "ADDRESS": "GROUND FLOOR,E-147,SAKET,NEW DELHI -110017",
+    "STATE": "DELHI",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "NEW DELHI",
+    "CENTRE": "SAKET",
+    "DISTRICT": "SAKET",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
+  },
+  "AUBL0002599": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002599",
+    "MICR": "400765021",
+    "BRANCH": "THANE RAM MURTI ROAD",
+    "ADDRESS": "SHOP NO 1&2,RUBA CHSL,RAM MARUTI ROAD,THANE(WEST),MUMBAI-400602",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "THANE",
+    "CENTRE": "THANE RAM MURTI ROAD",
+    "DISTRICT": "THANE RAM MURTI ROAD",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
+  "AUBL0002600": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002600",
+    "MICR": "700765004",
+    "BRANCH": "SARAT BOSE RD",
+    "ADDRESS": "44/3/1,SARAT BOSE ROAD,KOLKATA - 700020",
+    "STATE": "WEST BENGAL",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "KOLKATA",
+    "CENTRE": "SARAT BOSE RD",
+    "DISTRICT": "SARAT BOSE RD",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
+  },
+  "AUBL0002603": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002603",
+    "MICR": "380765015",
+    "BRANCH": "AHMEDABAD SHAHIBAUG",
+    "ADDRESS": "SHOP NO.1,2& 3,TRINITY PLAZA,NEAR SHANIDEV MANDIR AND OPP.RELIANCE FRESH,AIRPORT ROAD,SHAHIBAUG,AHMEDABAD,GUJARAT",
+    "STATE": "GUJARAT",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "SHAHIBAUG",
+    "CENTRE": "AHMEDABAD SHAHIBAUG",
+    "DISTRICT": "AHMEDABAD SHAHIBAUG",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
+  },
+  "AUBL0002604": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002604",
+    "MICR": "273765002",
+    "BRANCH": "GORAKHPUR",
+    "ADDRESS": "16 B& 17,SHOP NO-2,L N VATIKA BUILDING,LAXMI NIWAS,BANK ROAD,GORAKHPUR,UTTAR PRADESH -273001",
+    "STATE": "UTTAR PRADESH",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "GORAKHPUR",
+    "CENTRE": "GORAKHPUR",
+    "DISTRICT": "GORAKHPUR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
+  },
+  "AUBL0002605": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002605",
+    "MICR": "248765002",
+    "BRANCH": "DEHRADUN",
+    "ADDRESS": "212 / G-FLOOR,RAJPUR ROAD,DEHRADUN,UTTARAKHAND - 248001",
+    "STATE": "UTTARAKHAND",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "DHERADUN",
+    "CENTRE": "DEHRADUN",
+    "DISTRICT": "DEHRADUN",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-UT"
   },
   "AUBL0002606": {
     "BANK": "AU Small Finance Bank",
@@ -8038,7 +8762,602 @@
     "DISTRICT": "RIDHI SIDHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
+  },
+  "AUBL0002607": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002607",
+    "MICR": "800765002",
+    "BRANCH": "PATNA",
+    "ADDRESS": "CHANDI HOUSE,EXHIBITION ROAD,PATNA,BIHAR - 800001",
+    "STATE": "BIHAR",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "PATNA",
+    "CENTRE": "PATNA",
+    "DISTRICT": "PATNA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
+  },
+  "AUBL0002608": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002608",
+    "MICR": "143765003",
+    "BRANCH": "RANJIT AVENUE AMRITSAR",
+    "ADDRESS": "SCO NO.120,GROUND FLOOR DISTRICT SHOPPING CENTRE,RANJIT AVENUE,AMRITSAR,PUNJAB - 143001",
+    "STATE": "PUNJAB",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "AMRITSAR",
+    "CENTRE": "RANJIT AVENUE AMRITSAR",
+    "DISTRICT": "RANJIT AVENUE AMRITSAR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
+  },
+  "AUBL0002609": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002609",
+    "MICR": "400765022",
+    "BRANCH": "THANE POKHARAN",
+    "ADDRESS": "GROUND FLOOR,SHOP NO.3,ASHAR TIARA COMMERCIAL COMPLEX,PHOKHARAN ROAD NO 2,THANE ( W ),MH.- 400610",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "THANE",
+    "CENTRE": "THANE POKHARAN",
+    "DISTRICT": "THANE POKHARAN",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
+  "AUBL0002610": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002610",
+    "MICR": "403765003",
+    "BRANCH": "PANJIM",
+    "ADDRESS": "GROUND FLOOR,SHOP NO 2,3,JOAO DEUS MEMORIAL HALL BUILDING,HALIO,RUA HELIODORO,SALGADO,NEAR BANDHAN BANK,PANJIM,GOA -403001",
+    "STATE": "GOA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "GOA",
+    "CENTRE": "PANJIM",
+    "DISTRICT": "PANJIM",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-GA"
+  },
+  "AUBL0002611": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002611",
+    "MICR": "411765010",
+    "BRANCH": "KOREGAON PARK PUNE",
+    "ADDRESS": "UNIT NUMBER-1,JEWEL SQUARE,GROUND FLOOR,S.NO-479& 480,NEXT TO HOTEL BLUE DIAMOND,KOREGAON PARK,PUNE-411001",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "PUNE",
+    "CENTRE": "KOREGAON PARK PUNE",
+    "DISTRICT": "KOREGAON PARK PUNE",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
+  "AUBL0002612": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002612",
+    "MICR": "500765004",
+    "BRANCH": "S R NAGAR HYDERABAD",
+    "ADDRESS": "GROUND FLOOR,H.NO.25 A,VENGAL RAO NAGAR COLONY,HYDERABAD,TELANGANA",
+    "STATE": "TELANGANA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "HYDERABAD",
+    "CENTRE": "S R NAGAR HYDERABAD",
+    "DISTRICT": "S R NAGAR HYDERABAD",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-TG"
+  },
+  "AUBL0002613": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002613",
+    "MICR": "834765002",
+    "BRANCH": "LALPUR RANCHI",
+    "ADDRESS": "SHOP NO.101,102,1ST FLOOR,H SQUARE,CIRCULAR ROAD,LALPUR,RANCHI,JHARKHAND - 834001",
+    "STATE": "JAMMU AND KASHMIR",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "RANCHI",
+    "CENTRE": "LALPUR RANCHI",
+    "DISTRICT": "LALPUR RANCHI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-JK"
+  },
+  "AUBL0002614": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002614",
+    "MICR": "400765024",
+    "BRANCH": "KALBADEVI",
+    "ADDRESS": "SHOP NO 2 AND 3,CHOTALA BHUVAN CO-OP HOSG SOC.LTD,412/424 KALABHADEVI ROAD,MUMBAI",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "MUMBAI",
+    "CENTRE": "KALBADEVI",
+    "DISTRICT": "KALBADEVI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
+  "AUBL0002615": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002615",
+    "MICR": "110765047",
+    "BRANCH": "SECTOR GURGAON",
+    "ADDRESS": "SCO 28,GROUND FLOOR,SECTOR 14,GURGAON,HARYANA -122001",
+    "STATE": "HARYANA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "GURGAON",
+    "CENTRE": "GURGAON",
+    "DISTRICT": "GURGAON",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
+  },
+  "AUBL0002616": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002616",
+    "MICR": "411765008",
+    "BRANCH": "VIMAN NAGAR",
+    "ADDRESS": "ALFA PREMIO,SHOP NO.6,NEAR DATTA TEMPLE,OPP.KHALSA DAIRY,VIMAN NAGAR,PUNE,MAHARASHTRA - 411014",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "PUNE",
+    "CENTRE": "VIMAN NAGAR",
+    "DISTRICT": "VIMAN NAGAR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
+  "AUBL0002617": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002617",
+    "MICR": "125765053",
+    "BRANCH": "HISAR JINDAL CHOWK",
+    "ADDRESS": "SCF 41,URBAN ESTATE 2,DHS ROAD,HISAR - 125005",
+    "STATE": "HARYANA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "HISAR",
+    "CENTRE": "HISAR JINDAL CHOWK",
+    "DISTRICT": "HISAR JINDAL CHOWK",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
+  },
+  "AUBL0002618": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002618",
+    "MICR": "211765002",
+    "BRANCH": "CIVIL LINES PRAYAGRAJ",
+    "ADDRESS": "GROUND FLOOR,SHOP NO.2& 3,VRIDAVAN TOWER,OPPOSITE J K PALACE,CIVIL LINES,PRAYAGRAJ,UTTAR PRADESH - 211001",
+    "STATE": "UTTAR PRADESH",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "PRAYAGRAJ",
+    "CENTRE": "CIVIL LINES PRAYAGRAJ",
+    "DISTRICT": "CIVIL LINES PRAYAGRAJ",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
+  },
+  "AUBL0002619": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002619",
+    "MICR": "500765005",
+    "BRANCH": "MARATHAHALLI BENGALURU",
+    "ADDRESS": "KRISHNA GRAND COMPLEX,SITE NO.17,MARATHAHALLI,BENGALURU,KARNATAKA",
+    "STATE": "KARNATAKA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "BANGALORE",
+    "CENTRE": "MARATHAHALLI BENGALURU",
+    "DISTRICT": "MARATHAHALLI BENGALURU",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
+  },
+  "AUBL0002620": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002620",
+    "MICR": "600765003",
+    "BRANCH": "MOUNT ROAD CHENNAI",
+    "ADDRESS": "137,R.S.NO.247 2,BLOCK NO.8,TRIPLICANE PART II,MYLAPORE TALUK,ANNA SALAI,CHENNAI,TAMILNADU",
+    "STATE": "TAMIL NADU",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "CHENNAI",
+    "CENTRE": "MOUNT ROAD CHENNAI",
+    "DISTRICT": "MOUNT ROAD CHENNAI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
+  },
+  "AUBL0002621": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002621",
+    "MICR": "530765002",
+    "BRANCH": "DWARAKA NAGAR VISAKHAPATNAM",
+    "ADDRESS": "ESWAR PARADISE,DOOR NO.47-14-4 AND 5,DWARAKA NAGAR MAIN ROAD,VISAKHAPATNAM,ANDHRA PRADESH",
+    "STATE": "ANDHRA PRADESH",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "VISAKHAPATNAM",
+    "CENTRE": "DWARAKA NAGAR VISAKHAPATNAM",
+    "DISTRICT": "DWARAKA NAGAR VISAKHAPATNAM",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
+  },
+  "AUBL0002622": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002622",
+    "MICR": "411765009",
+    "BRANCH": "MAGARPATTA",
+    "ADDRESS": "SHOWROOM NO.3& 4,GROUND FLOOR,NAREN PEARL,MAGARPATTA - MUNDHWA ROAD,HADAPSAR,PUNE,MH - 411028",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "PUNE",
+    "CENTRE": "MAGARPATTA",
+    "DISTRICT": "MAGARPATTA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
+  "AUBL0002623": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002623",
+    "MICR": "380765016",
+    "BRANCH": "DRIVE IN ROAD",
+    "ADDRESS": "SHILP SQUARE,A BLOCK,GROUND FLOOR-1,OPPOSITE HIMALAYA MALL,DRIVE IN ROAD,AHMEDABAD,GUJARAT - 380052",
+    "STATE": "GUJARAT",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "AHMEDABAD",
+    "CENTRE": "DRIVE IN ROAD",
+    "DISTRICT": "DRIVE IN ROAD",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
+  },
+  "AUBL0002625": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002625",
+    "MICR": "700765005",
+    "BRANCH": "BALLYGUNGE KOLKATA",
+    "ADDRESS": "45,JHAWTALA ROAD,FAZLUL HAQ SARANI,POLICE STATION KARAYA,BALLYGUNGE,KOLKATA,WEST BENGAL",
+    "STATE": "WEST BENGAL",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "KOLKATA",
+    "CENTRE": "BALLYGUNGE KOLKATA",
+    "DISTRICT": "BALLYGUNGE KOLKATA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
+  },
+  "AUBL0002626": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002626",
+    "MICR": "327765003",
+    "BRANCH": "TEJPUR",
+    "ADDRESS": "VILLAGE-TEJPUR,TEHSIL BANSWARA,BANSWARA,RAJASTHAN-327001",
+    "STATE": "RAJASTHAN",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "BANSWARA",
+    "CENTRE": "BANSWARA",
+    "DISTRICT": "BANSWARA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
+  },
+  "AUBL0002627": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002627",
+    "MICR": "400765023",
+    "BRANCH": "SEAWOOD",
+    "ADDRESS": "SHOP NO 5/5A A/6 SECTOR 44 LAXMI ICON NERUL/ SEAWOODS,NAVI MUMBAI - 400706",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "NAVI MUMBAI",
+    "CENTRE": "SEAWOOD",
+    "DISTRICT": "SEAWOOD",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
+  "AUBL0002628": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002628",
+    "MICR": "110765045",
+    "BRANCH": "DELHI KAMLA NAGAR",
+    "ADDRESS": "GROUND FLOOR,2/10,SUBZI MANDI,ROOP NAGAR,NEW DELHI-110007",
+    "STATE": "DELHI",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "DELHI",
+    "CENTRE": "DELHI KAMLA NAGAR",
+    "DISTRICT": "DELHI KAMLA NAGAR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
+  },
+  "AUBL0002630": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002630",
+    "MICR": "411765011",
+    "BRANCH": "WAKAD",
+    "ADDRESS": "SHOWROOM NO.7,SOLITAIRE BUSINESS HUB,GROUND FLOOR,KASPATE WASTI,WAKAD,PUNE,MH - 411057",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "PUNE",
+    "CENTRE": "WAKAD",
+    "DISTRICT": "WAKAD",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
+  "AUBL0002632": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002632",
+    "MICR": "110765044",
+    "BRANCH": "DELHI RAJENDER NAGAR",
+    "ADDRESS": "R -846,NEW RAJENDER NAGAR,DELHI -110060",
+    "STATE": "DELHI",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "DELHI",
+    "CENTRE": "DELHI RAJENDER NAGAR",
+    "DISTRICT": "DELHI RAJENDER NAGAR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
+  },
+  "AUBL0002635": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002635",
+    "MICR": "110765043",
+    "BRANCH": "DELHI CONNAUGHT PLACE",
+    "ADDRESS": "SHOP NO.K 16,PLOT NO.2,BLOCK K 2,CONNAUGHT CIRCUS,OUTER CIRCLE,NEW DELHI - 110001",
+    "STATE": "DELHI",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "DELHI",
+    "CENTRE": "DELHI CONNAUGHT PLACE",
+    "DISTRICT": "DELHI CONNAUGHT PLACE",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
+  },
+  "AUBL0002637": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002637",
+    "MICR": "400765025",
+    "BRANCH": "SANTACRUZ",
+    "ADDRESS": "SUNDAR VILLE,SHOP NO A/001& 112 S V ROAD,NEXT TO YES BANK,SANTACRUZ WEST - 400054",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "MUMBAI",
+    "CENTRE": "SANTACRUZ",
+    "DISTRICT": "SANTACRUZ",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
+  "AUBL0002638": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002638",
+    "MICR": "400765026",
+    "BRANCH": "VILE PARLE EAST",
+    "ADDRESS": "SHOP NO -2& 3,50 VINOD KUNJ,MG ROAD,VILE PARLE -E,MUMBAI -400057",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "MUMBAI",
+    "CENTRE": "VILE PARLE EAST",
+    "DISTRICT": "VILE PARLE EAST",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
+  "AUBL0002642": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002642",
+    "MICR": "400765027",
+    "BRANCH": "POWAI HIRANANDANI",
+    "ADDRESS": "NO CG-3,DELPHI BUILDING,GROUND FLOOR,HIRANANDANI -POWAI - 400079",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "MUMBAI",
+    "CENTRE": "POWAI HIRANANDANI",
+    "DISTRICT": "POWAI HIRANANDANI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
+  "AUBL0002644": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002644",
+    "MICR": "110765046",
+    "BRANCH": "DELHI DEFENCE COLONY",
+    "ADDRESS": "A - 281,DEFENCE COLONY,DELHI - 110024",
+    "STATE": "DELHI",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "DELHI",
+    "CENTRE": "DELHI DEFENCE COLONY",
+    "DISTRICT": "DELHI DEFENCE COLONY",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
+  },
+  "AUBL0002645": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002645",
+    "MICR": "110765048",
+    "BRANCH": "DLF PHASE GURGAON",
+    "ADDRESS": "A -2,SHOPPING MALL,ARJUN MARG,DLF PHASE 1,GURGAON - 112002",
+    "STATE": "HARYANA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "GURGAON",
+    "CENTRE": "GURGAON",
+    "DISTRICT": "GURGAON",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
+  },
+  "AUBL0002648": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002648",
+    "MICR": "335765018",
+    "BRANCH": "A ANUPGARH",
+    "ADDRESS": "GRAMPANCHAYAT 27 - A,OPPOSITE WATER WORKS,27-A ANUPGARH,SRIGANGANAGAR,RAJASTHAN - 335701",
+    "STATE": "RAJASTHAN",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "ANUPGARH",
+    "CENTRE": "ANUPGARH",
+    "DISTRICT": "ANUPGARH",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
+  },
+  "AUBL0002649": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002649",
+    "MICR": "110765050",
+    "BRANCH": "NEW FRIENDS COLONY DELHI",
+    "ADDRESS": "GROUND FLOOR,BHAGERIA HOUSE,PLOT NOS.43,COMMUNITY CENTRE,NEW FRIENDS COLONY,NEW DELHI - 110065",
+    "STATE": "DELHI",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "DELHI",
+    "CENTRE": "DELHI",
+    "DISTRICT": "DELHI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
+  },
+  "AUBL0002650": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002650",
+    "MICR": "110765049",
+    "BRANCH": "PRASHANT VIHAR DELHI",
+    "ADDRESS": "C 2/6,PRASHANT VIHAR,DELHI - 110085",
+    "STATE": "DELHI",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "DELHI",
+    "CENTRE": "DELHI",
+    "DISTRICT": "DELHI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
+  },
+  "AUBL0002653": {
+    "BANK": "AU Small Finance Bank",
+    "IFSC": "AUBL0002653",
+    "MICR": "335765019",
+    "BRANCH": "GB B VIJAYANAGAR",
+    "ADDRESS": "SUB PART NO.1,PLOT NO.72,5 GB,JAITSAR,SRI GANGANAGAR,RAJASTHAN - 335702",
+    "STATE": "RAJASTHAN",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "SRI GANGANAGAR",
+    "CENTRE": "SRI GANGANAGAR",
+    "DISTRICT": "SRI GANGANAGAR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0009010": {
     "BANK": "AU Small Finance Bank",
@@ -8055,7 +9374,8 @@
     "DISTRICT": "UDAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0009034": {
     "BANK": "AU Small Finance Bank",
@@ -8072,7 +9392,8 @@
     "DISTRICT": "JODHPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0009116": {
     "BANK": "AU Small Finance Bank",
@@ -8089,7 +9410,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "AUBL0CCARDS": {
     "BANK": "AU Small Finance Bank",
@@ -8106,7 +9428,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "AUBL0REMMIT": {
     "BANK": "AU Small Finance Bank",
@@ -8123,6 +9446,7 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   }
 }

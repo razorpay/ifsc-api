@@ -9,12 +9,13 @@
     "ADDRESS": "ARTH COMPLEX, KESARSINGPURA, ADALAT ROAD, AURANGABAD",
     "CONTACT": "+912402240212",
     "IMPS": true,
-    "CITY": "AURANGABAD",
+    "CITY": "MUMBAI",
     "UPI": false,
-    "MICR": null,
+    "MICR": "431582001",
     "RTGS": true,
     "NEFT": false,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEOB0000002": {
     "BANK": "Deogiri Nagari Sahakari Bank Aurangabad",
@@ -31,7 +32,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEOB0000003": {
     "BANK": "Deogiri Nagari Sahakari Bank Aurangabad",
@@ -48,7 +50,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEOB0000004": {
     "BANK": "Deogiri Nagari Sahakari Bank Aurangabad",
@@ -65,7 +68,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEOB0000005": {
     "BANK": "Deogiri Nagari Sahakari Bank Aurangabad",
@@ -82,7 +86,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEOB0000006": {
     "BANK": "Deogiri Nagari Sahakari Bank Aurangabad",
@@ -99,7 +104,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEOB0000007": {
     "BANK": "Deogiri Nagari Sahakari Bank Aurangabad",
@@ -116,7 +122,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEOB0000008": {
     "BANK": "Deogiri Nagari Sahakari Bank Aurangabad",
@@ -133,7 +140,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEOB0000009": {
     "BANK": "Deogiri Nagari Sahakari Bank Aurangabad",
@@ -150,7 +158,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEOB0000010": {
     "BANK": "Deogiri Nagari Sahakari Bank Aurangabad",
@@ -167,7 +176,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEOB0000011": {
     "BANK": "Deogiri Nagari Sahakari Bank Aurangabad",
@@ -184,12 +194,13 @@
     "DISTRICT": "JALNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEOB0000012": {
     "BANK": "Deogiri Nagari Sahakari Bank Aurangabad",
     "IFSC": "DEOB0000012",
-    "MICR": "431582010",
+    "MICR": "431582011",
     "BRANCH": "SHIVAJINAGAR",
     "ADDRESS": "DISHA SQUARE,OPP.SUT GIRNI,GARKHEDA PARISAR,AURANGABAD",
     "STATE": "MAHARASHTRA",
@@ -201,7 +212,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEOB0000013": {
     "BANK": "Deogiri Nagari Sahakari Bank Aurangabad",
@@ -218,29 +230,31 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEOB0000014": {
     "BANK": "Deogiri Nagari Sahakari Bank Aurangabad",
     "IFSC": "DEOB0000014",
-    "MICR": "431582502",
+    "MICR": "431582010",
     "BRANCH": "SELU",
     "ADDRESS": "NUTAN ROAD,SELU DIST.PARBHANI",
     "STATE": "MAHARASHTRA",
     "CONTACT": "+912402240212",
     "UPI": false,
     "RTGS": true,
-    "CITY": "SELU",
-    "CENTRE": "PARBHANI",
-    "DISTRICT": "PARBHANI",
+    "CITY": "PARBHANI",
+    "CENTRE": "SELU",
+    "DISTRICT": "SELU",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEOB0000015": {
     "BANK": "Deogiri Nagari Sahakari Bank Aurangabad",
     "IFSC": "DEOB0000015",
-    "MICR": "431582011",
+    "MICR": "431582502",
     "BRANCH": "SATARA PARISAR",
     "ADDRESS": "PATIL PLAZA,NEAR MHASKE PETROL PUMP,BEED-BY PASS ROAD,AURANGABAD",
     "STATE": "MAHARASHTRA",
@@ -252,7 +266,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEOB0000016": {
     "BANK": "Deogiri Nagari Sahakari Bank Aurangabad",
@@ -269,7 +284,8 @@
     "DISTRICT": "AHMEDNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEOB0000017": {
     "BANK": "Deogiri Nagari Sahakari Bank Aurangabad",
@@ -286,7 +302,8 @@
     "DISTRICT": "JALGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEOB0000018": {
     "BANK": "Deogiri Nagari Sahakari Bank Aurangabad",
@@ -303,7 +320,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEOB0000019": {
     "BANK": "Deogiri Nagari Sahakari Bank Aurangabad",
@@ -320,7 +338,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEOB0000020": {
     "BANK": "Deogiri Nagari Sahakari Bank Aurangabad",
@@ -337,7 +356,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEOB0000021": {
     "BANK": "Deogiri Nagari Sahakari Bank Aurangabad",
@@ -354,7 +374,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEOB0000022": {
     "BANK": "Deogiri Nagari Sahakari Bank Aurangabad",
@@ -371,7 +392,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEOB0000023": {
     "BANK": "Deogiri Nagari Sahakari Bank Aurangabad",
@@ -388,7 +410,8 @@
     "DISTRICT": "JALGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEOB0000024": {
     "BANK": "Deogiri Nagari Sahakari Bank Aurangabad",
@@ -405,7 +428,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEOB0000025": {
     "BANK": "Deogiri Nagari Sahakari Bank Aurangabad",
@@ -422,7 +446,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEOB0000026": {
     "BANK": "Deogiri Nagari Sahakari Bank Aurangabad",
@@ -439,7 +464,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEOB0000027": {
     "BANK": "Deogiri Nagari Sahakari Bank Aurangabad",
@@ -456,7 +482,8 @@
     "DISTRICT": "JALNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEOB0000028": {
     "BANK": "Deogiri Nagari Sahakari Bank Aurangabad",
@@ -473,7 +500,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEOB0000029": {
     "BANK": "Deogiri Nagari Sahakari Bank Aurangabad",
@@ -490,7 +518,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEOB0000030": {
     "BANK": "Deogiri Nagari Sahakari Bank Aurangabad",
@@ -507,7 +536,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEOB0000031": {
     "BANK": "Deogiri Nagari Sahakari Bank Aurangabad",
@@ -524,7 +554,8 @@
     "DISTRICT": "JALGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEOB0000032": {
     "BANK": "Deogiri Nagari Sahakari Bank Aurangabad",
@@ -541,7 +572,8 @@
     "DISTRICT": "BULDHANA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "DEOB0000099": {
     "BANK": "Deogiri Nagari Sahakari Bank Aurangabad",
@@ -558,6 +590,7 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   }
 }

@@ -9,12 +9,13 @@
     "ADDRESS": "GIRIRAJ APARTMENT, FACTORY LANE, OPP.M.K.HIGH SCHOOL, BORIVALI(WEST),MUMBAI - 400092.",
     "CONTACT": "+919819135103",
     "IMPS": true,
-    "CITY": "GREATER BOMBAY",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": "400804001",
     "RTGS": true,
     "NEFT": false,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "JASB0000002": {
     "BANK": "Janaseva Sahakari Bank (Borivli)",
@@ -31,7 +32,8 @@
     "DISTRICT": "GREATER BOMBAY",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "JASB0000003": {
     "BANK": "Janaseva Sahakari Bank (Borivli)",
@@ -48,7 +50,8 @@
     "DISTRICT": "GREATER BOMBAY",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "JASB0000004": {
     "BANK": "Janaseva Sahakari Bank (Borivli)",
@@ -65,7 +68,8 @@
     "DISTRICT": "GREATER BOMBAY",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "JASB0000005": {
     "BANK": "Janaseva Sahakari Bank (Borivli)",
@@ -82,7 +86,8 @@
     "DISTRICT": "GREATER BOMBAY",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "JASB0000006": {
     "BANK": "Janaseva Sahakari Bank (Borivli)",
@@ -99,7 +104,8 @@
     "DISTRICT": "GREATER BOMBAY",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "JASB0000007": {
     "BANK": "Janaseva Sahakari Bank (Borivli)",
@@ -116,7 +122,8 @@
     "DISTRICT": "GREATER BOMBAY",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "JASB0000008": {
     "BANK": "Janaseva Sahakari Bank (Borivli)",
@@ -133,7 +140,8 @@
     "DISTRICT": "GREATER BOMBAY",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "JASB0000009": {
     "BANK": "Janaseva Sahakari Bank (Borivli)",
@@ -150,7 +158,8 @@
     "DISTRICT": "GREATER BOMBAY",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "JASB0000010": {
     "BANK": "Janaseva Sahakari Bank (Borivli)",
@@ -167,7 +176,8 @@
     "DISTRICT": "GREATER BOMBAY",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "JASB0000011": {
     "BANK": "Janaseva Sahakari Bank (Borivli)",
@@ -184,7 +194,8 @@
     "DISTRICT": "GREATER BOMBAY",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "JASB0000012": {
     "BANK": "Janaseva Sahakari Bank (Borivli)",
@@ -201,7 +212,8 @@
     "DISTRICT": "GREATER BOMBAY",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "JASB0000013": {
     "BANK": "Janaseva Sahakari Bank (Borivli)",
@@ -218,7 +230,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "JASB0000014": {
     "BANK": "Janaseva Sahakari Bank (Borivli)",
@@ -235,7 +248,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "JASB0999999": {
     "BANK": "Janaseva Sahakari Bank (Borivli)",
@@ -252,6 +266,7 @@
     "DISTRICT": "GREATER BOMBAY",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   }
 }

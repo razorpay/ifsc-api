@@ -5,16 +5,35 @@
     "BRANCH": "Utkarsh Small Finance Bank IMPS",
     "CENTRE": "VARANASI",
     "DISTRICT": "VARANASI",
-    "STATE": "UTTAR PRADESH",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "S-24/1-2, 1ST FLOOR, MAHAVIR NAGAR ORDERLY BAZAAR ,VARANASI 221002",
     "CONTACT": "+917522800101",
     "IMPS": true,
-    "CITY": "VARANASI",
+    "CITY": "MUMBAI",
     "UPI": true,
     "MICR": null,
     "RTGS": true,
     "NEFT": false,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
+  "UTKS0000002": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0000002",
+    "MICR": null,
+    "BRANCH": "CPC VARANASI",
+    "ADDRESS": "UTKARSH SMALL FINANCE BANK 2ND FLOOR,UTKARSH TOWER BABATPUR AIRPORT ROAD SEHMALPUR VARANASI UTTAR PRADESH PIN - 221105",
+    "STATE": "UTTAR PRADESH",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "VARANASI",
+    "CENTRE": "VARANASI",
+    "DISTRICT": "VARANASI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001001": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -31,7 +50,8 @@
     "DISTRICT": "VARANASI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001002": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -48,7 +68,8 @@
     "DISTRICT": "VARANASI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001003": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -65,7 +86,8 @@
     "DISTRICT": "VARANASI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001004": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -82,7 +104,8 @@
     "DISTRICT": "VARANASI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001005": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -99,7 +122,8 @@
     "DISTRICT": "VARANASI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001006": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -116,7 +140,8 @@
     "DISTRICT": "JAUNPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001007": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -133,7 +158,8 @@
     "DISTRICT": "JAUNPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001008": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -150,7 +176,8 @@
     "DISTRICT": "ALLAHABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001009": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -167,7 +194,8 @@
     "DISTRICT": "JAUNPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001010": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -184,7 +212,8 @@
     "DISTRICT": "GAZIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001011": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -201,7 +230,8 @@
     "DISTRICT": "ALLAHABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001012": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -218,7 +248,8 @@
     "DISTRICT": "MIRZAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001013": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -235,7 +266,8 @@
     "DISTRICT": "SANT RAVIDAS NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001014": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -252,7 +284,8 @@
     "DISTRICT": "MIRZAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001015": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -269,7 +302,8 @@
     "DISTRICT": "ALLAHABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001016": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -286,7 +320,8 @@
     "DISTRICT": "ALLAHABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001017": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -303,7 +338,8 @@
     "DISTRICT": "GHAZIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001018": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -320,7 +356,8 @@
     "DISTRICT": "MIRZAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001019": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -337,7 +374,8 @@
     "DISTRICT": "JAUNPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001020": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -354,7 +392,8 @@
     "DISTRICT": "SULTANPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001021": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -371,7 +410,8 @@
     "DISTRICT": "GHAZIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001022": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -388,7 +428,8 @@
     "DISTRICT": "VARANASI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001023": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -405,7 +446,8 @@
     "DISTRICT": "MIRZAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001024": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -422,7 +464,8 @@
     "DISTRICT": "SULTANPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001025": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -439,7 +482,8 @@
     "DISTRICT": "GORAKHPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001026": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -456,7 +500,8 @@
     "DISTRICT": "GORAKHPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001027": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -473,7 +518,8 @@
     "DISTRICT": "SANT RAVIDAS NAGAR, BHADOHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001028": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -490,7 +536,8 @@
     "DISTRICT": "ALLAHABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001029": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -507,7 +554,8 @@
     "DISTRICT": "GHAZIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001030": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -524,7 +572,8 @@
     "DISTRICT": "CHANDAULI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001031": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -541,7 +590,8 @@
     "DISTRICT": "CHANDAULI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001032": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -558,7 +608,8 @@
     "DISTRICT": "AZAMGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001033": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -575,7 +626,8 @@
     "DISTRICT": "GORAKHPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001034": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -592,7 +644,8 @@
     "DISTRICT": "GHAZIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001035": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -609,7 +662,8 @@
     "DISTRICT": "JAUNPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001036": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -626,7 +680,8 @@
     "DISTRICT": "SULTANPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001037": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -643,7 +698,8 @@
     "DISTRICT": "MIRZAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001038": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -660,7 +716,8 @@
     "DISTRICT": "ALLAHABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001039": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -677,7 +734,8 @@
     "DISTRICT": "MIRZAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001040": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -694,7 +752,8 @@
     "DISTRICT": "CHANDAULI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001041": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -711,7 +770,8 @@
     "DISTRICT": "HDH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001042": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -728,7 +788,8 @@
     "DISTRICT": "SULTANPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001043": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -745,7 +806,8 @@
     "DISTRICT": "GORAKHPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001044": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -762,7 +824,8 @@
     "DISTRICT": "BHOJPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001045": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -779,7 +842,8 @@
     "DISTRICT": "MIRZAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001046": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -796,7 +860,8 @@
     "DISTRICT": "PATNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001047": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -813,7 +878,8 @@
     "DISTRICT": "BHOJPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001048": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -830,7 +896,8 @@
     "DISTRICT": "AZAMGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001049": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -847,7 +914,8 @@
     "DISTRICT": "JAUNPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001050": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -864,7 +932,8 @@
     "DISTRICT": "AZAMGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001051": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -881,7 +950,8 @@
     "DISTRICT": "DEORIA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001052": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -898,7 +968,8 @@
     "DISTRICT": "PATNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001053": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -915,7 +986,8 @@
     "DISTRICT": "BHOJPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001054": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -932,7 +1004,8 @@
     "DISTRICT": "MIRZAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001055": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -949,7 +1022,8 @@
     "DISTRICT": "DEORIA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001057": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -966,7 +1040,8 @@
     "DISTRICT": "BUXAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001058": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -983,7 +1058,8 @@
     "DISTRICT": "BUXAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001059": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1000,7 +1076,8 @@
     "DISTRICT": "ROHTAS",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001060": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1017,7 +1094,8 @@
     "DISTRICT": "ROHTAS",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001061": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1034,7 +1112,8 @@
     "DISTRICT": "KAIMUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001062": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1051,7 +1130,8 @@
     "DISTRICT": "KAIMOOR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001063": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1068,7 +1148,8 @@
     "DISTRICT": "KAIMUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001064": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1085,7 +1166,8 @@
     "DISTRICT": "KAIMOOR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001065": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1102,7 +1184,8 @@
     "DISTRICT": "BUXAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001066": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1119,7 +1202,8 @@
     "DISTRICT": "KUSHINAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001067": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1136,7 +1220,8 @@
     "DISTRICT": "ALLAHABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001068": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1153,7 +1238,8 @@
     "DISTRICT": "ALLAHABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001069": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1170,7 +1256,8 @@
     "DISTRICT": "BUXAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001070": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1187,7 +1274,8 @@
     "DISTRICT": "ROHTAS",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001071": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1204,7 +1292,8 @@
     "DISTRICT": "SARAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001072": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1221,7 +1310,8 @@
     "DISTRICT": "SARAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001073": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1238,7 +1328,8 @@
     "DISTRICT": "SARAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001074": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1255,7 +1346,8 @@
     "DISTRICT": "ROHTAS",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001075": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1272,7 +1364,8 @@
     "DISTRICT": "KAUSHAMBI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001076": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1289,7 +1382,8 @@
     "DISTRICT": "DEORIA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001077": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1306,7 +1400,8 @@
     "DISTRICT": "GORAKHPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001078": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1323,7 +1418,8 @@
     "DISTRICT": "VARANASI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001079": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1340,7 +1436,8 @@
     "DISTRICT": "SATNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "UTKS0001080": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1357,7 +1454,8 @@
     "DISTRICT": "HARIDWAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UT"
   },
   "UTKS0001081": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1374,7 +1472,8 @@
     "DISTRICT": "MIRZAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001082": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1391,7 +1490,8 @@
     "DISTRICT": "SATNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "UTKS0001084": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1408,7 +1508,8 @@
     "DISTRICT": "HARIDWAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UT"
   },
   "UTKS0001085": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1425,7 +1526,8 @@
     "DISTRICT": "SARAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001086": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1442,7 +1544,8 @@
     "DISTRICT": "SARAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001087": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1459,7 +1562,8 @@
     "DISTRICT": "HARIDWAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UT"
   },
   "UTKS0001088": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1476,7 +1580,8 @@
     "DISTRICT": "REWA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "UTKS0001089": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1493,7 +1598,8 @@
     "DISTRICT": "SARAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001090": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1510,7 +1616,8 @@
     "DISTRICT": "REWA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "UTKS0001091": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1527,7 +1634,8 @@
     "DISTRICT": "DEHRADUN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UT"
   },
   "UTKS0001092": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1544,7 +1652,8 @@
     "DISTRICT": "SARAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001093": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1561,7 +1670,8 @@
     "DISTRICT": "EAST DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "UTKS0001094": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1578,7 +1688,8 @@
     "DISTRICT": "GORAKHPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001095": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1595,7 +1706,8 @@
     "DISTRICT": "ALLAHABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001096": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1612,7 +1724,8 @@
     "DISTRICT": "DEORIA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001097": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1629,7 +1742,8 @@
     "DISTRICT": "DEORIA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001098": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1646,7 +1760,8 @@
     "DISTRICT": "AA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001099": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1663,7 +1778,8 @@
     "DISTRICT": "VARANASI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001100": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1680,7 +1796,8 @@
     "DISTRICT": "SARAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001101": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1697,7 +1814,8 @@
     "DISTRICT": "DEHRA DUN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UT"
   },
   "UTKS0001102": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1714,7 +1832,8 @@
     "DISTRICT": "SATNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "UTKS0001103": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1731,7 +1850,8 @@
     "DISTRICT": "REWA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "UTKS0001104": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1748,7 +1868,8 @@
     "DISTRICT": "SIWAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001105": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1765,7 +1886,8 @@
     "DISTRICT": "SIWAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001106": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1782,7 +1904,8 @@
     "DISTRICT": "ALLAHABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001107": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1799,7 +1922,8 @@
     "DISTRICT": "SIWAN, STATE- BIHAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001108": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1816,7 +1940,8 @@
     "DISTRICT": "EAST DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "UTKS0001109": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1833,7 +1958,8 @@
     "DISTRICT": "VARANASI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001110": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1850,7 +1976,8 @@
     "DISTRICT": "KUSHI NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001111": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1867,7 +1994,8 @@
     "DISTRICT": "SHAHARANPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001112": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1884,7 +2012,8 @@
     "DISTRICT": "SIWAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001113": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1901,7 +2030,8 @@
     "DISTRICT": "SIWAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001114": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1918,7 +2048,8 @@
     "DISTRICT": "KAUSHAMBI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001115": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1935,7 +2066,8 @@
     "DISTRICT": "DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "UTKS0001116": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1952,7 +2084,8 @@
     "DISTRICT": "BALLIA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001117": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1969,7 +2102,8 @@
     "DISTRICT": "SIRMAUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HP"
   },
   "UTKS0001118": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -1986,7 +2120,8 @@
     "DISTRICT": "SIWAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001119": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2003,7 +2138,8 @@
     "DISTRICT": "NORTH DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "UTKS0001120": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2020,7 +2156,8 @@
     "DISTRICT": "WEST DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "UTKS0001121": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2037,7 +2174,8 @@
     "DISTRICT": "WEST DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "UTKS0001122": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2054,7 +2192,8 @@
     "DISTRICT": "BALLIA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001123": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2071,7 +2210,8 @@
     "DISTRICT": "BALLIA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001124": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2088,7 +2228,8 @@
     "DISTRICT": "GOPALGANJ",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001125": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2105,7 +2246,8 @@
     "DISTRICT": "HARIDWAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UT"
   },
   "UTKS0001126": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2122,7 +2264,8 @@
     "DISTRICT": "BALLIA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001127": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2139,7 +2282,8 @@
     "DISTRICT": "GOPALGANJ",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001128": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2156,7 +2300,8 @@
     "DISTRICT": "CHANDAULI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001129": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2173,7 +2318,8 @@
     "DISTRICT": "GOPALGANJ",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001130": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2190,7 +2336,8 @@
     "DISTRICT": "KUSHINAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001131": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2207,7 +2354,8 @@
     "DISTRICT": "DEHRA DUN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UT"
   },
   "UTKS0001132": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2224,7 +2372,8 @@
     "DISTRICT": "SOUTH DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "UTKS0001133": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2241,7 +2390,8 @@
     "DISTRICT": "NAGPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001134": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2258,7 +2408,8 @@
     "DISTRICT": "NAGPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001135": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2275,7 +2426,8 @@
     "DISTRICT": "PURBI CHAMPARAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001136": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2292,7 +2444,8 @@
     "DISTRICT": "KATANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "UTKS0001137": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2309,7 +2462,8 @@
     "DISTRICT": "EAST CHAMPARAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001138": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2326,7 +2480,8 @@
     "DISTRICT": "CHAMPARAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001139": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2343,7 +2498,8 @@
     "DISTRICT": "NARSIMHAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "UTKS0001140": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2360,7 +2516,8 @@
     "DISTRICT": "JABALPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "UTKS0001141": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2377,7 +2534,8 @@
     "DISTRICT": "FARIDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "UTKS0001142": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2394,7 +2552,8 @@
     "DISTRICT": "NORTHWEST DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "UTKS0001143": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2411,7 +2570,8 @@
     "DISTRICT": "NAGPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001144": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2428,7 +2588,8 @@
     "DISTRICT": "NAGPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001145": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2445,7 +2606,8 @@
     "DISTRICT": "MAHARAJGANJ",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001146": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2462,7 +2624,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001147": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2479,7 +2642,8 @@
     "DISTRICT": "NAGPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001148": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2496,7 +2660,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001149": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2513,7 +2678,8 @@
     "DISTRICT": "WEST CHAMPARAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001150": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2530,7 +2696,8 @@
     "DISTRICT": "PURBI CHAMPARAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001151": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2547,7 +2714,8 @@
     "DISTRICT": "KUSHINAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001152": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2564,7 +2732,8 @@
     "DISTRICT": "WEST CHAMPARAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001153": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2581,7 +2750,8 @@
     "DISTRICT": "KUSHINAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001154": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2598,7 +2768,8 @@
     "DISTRICT": "GORAKHPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001155": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2615,7 +2786,8 @@
     "DISTRICT": "JABALPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "UTKS0001156": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2632,7 +2804,8 @@
     "DISTRICT": "NAGPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001157": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2649,7 +2822,8 @@
     "DISTRICT": "SANTKABIR NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001158": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2666,7 +2840,8 @@
     "DISTRICT": "GAYA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001159": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2683,7 +2858,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001160": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2700,7 +2876,8 @@
     "DISTRICT": "WEST CHAMPARAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001161": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2717,7 +2894,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001162": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2734,7 +2912,8 @@
     "DISTRICT": "EAST CHAMPARAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001163": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2751,7 +2930,8 @@
     "DISTRICT": "NAGPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001164": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2768,7 +2948,8 @@
     "DISTRICT": "MUZAFFARPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001165": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2785,7 +2966,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001166": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2802,7 +2984,8 @@
     "DISTRICT": "JABALPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "UTKS0001167": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2819,7 +3002,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001168": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2836,7 +3020,8 @@
     "DISTRICT": "YAVATMAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001169": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2853,7 +3038,8 @@
     "DISTRICT": "KUSHINAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001170": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2870,7 +3056,8 @@
     "DISTRICT": "GAYA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001171": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2887,7 +3074,8 @@
     "DISTRICT": "YAVATMAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001172": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2904,7 +3092,8 @@
     "DISTRICT": "GORAKHPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001173": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2921,7 +3110,8 @@
     "DISTRICT": "NAGPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001174": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2938,7 +3128,8 @@
     "DISTRICT": "GAYA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001175": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2955,7 +3146,8 @@
     "DISTRICT": "MUZAFFARPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001176": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2972,7 +3164,8 @@
     "DISTRICT": "UDHAM SINGH NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UT"
   },
   "UTKS0001177": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -2989,7 +3182,8 @@
     "DISTRICT": "UTTRAKHAND",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UT"
   },
   "UTKS0001178": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3006,7 +3200,8 @@
     "DISTRICT": "MAHARAJGANJ",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001179": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3023,7 +3218,8 @@
     "DISTRICT": "PALWAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "UTKS0001180": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3040,7 +3236,8 @@
     "DISTRICT": "BASTI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001181": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3057,7 +3254,8 @@
     "DISTRICT": "SONIPAT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "UTKS0001182": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3074,7 +3272,8 @@
     "DISTRICT": "JHAJJAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "UTKS0001183": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3091,7 +3290,8 @@
     "DISTRICT": "NAGPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001184": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3108,7 +3308,8 @@
     "DISTRICT": "JABALPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "UTKS0001185": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3125,7 +3326,8 @@
     "DISTRICT": "UDHAM SINGH NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UT"
   },
   "UTKS0001186": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3142,7 +3344,8 @@
     "DISTRICT": "NARSIMHAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "UTKS0001187": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3159,7 +3362,8 @@
     "DISTRICT": "UDHAM SINGH NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UT"
   },
   "UTKS0001188": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3176,7 +3380,8 @@
     "DISTRICT": "WARDHA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001189": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3193,7 +3398,8 @@
     "DISTRICT": "YAVATMAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001190": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3210,7 +3416,8 @@
     "DISTRICT": "WARDHA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001191": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3227,7 +3434,8 @@
     "DISTRICT": "WARDHA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001192": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3244,7 +3452,8 @@
     "DISTRICT": "YAVATMAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001193": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3261,7 +3470,8 @@
     "DISTRICT": "GHAZIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001194": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3278,7 +3488,8 @@
     "DISTRICT": "EAST CHAMPARAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001195": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3295,7 +3506,8 @@
     "DISTRICT": "NAINITAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UT"
   },
   "UTKS0001196": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3312,7 +3524,8 @@
     "DISTRICT": "GAYA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001197": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3329,7 +3542,8 @@
     "DISTRICT": "MUZAFFARPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001198": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3346,7 +3560,8 @@
     "DISTRICT": "MUZAFFARPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001199": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3363,7 +3578,8 @@
     "DISTRICT": "MUZAFFARPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001200": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3380,7 +3596,8 @@
     "DISTRICT": "NARSINGHPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "UTKS0001201": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3397,7 +3614,8 @@
     "DISTRICT": "NAWADA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001202": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3414,7 +3632,8 @@
     "DISTRICT": "GAYA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001203": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3431,7 +3650,8 @@
     "DISTRICT": "PATNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001204": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3448,7 +3668,8 @@
     "DISTRICT": "GAYA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001205": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3465,7 +3686,8 @@
     "DISTRICT": "UDHAM SINGH NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UT"
   },
   "UTKS0001206": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3482,7 +3704,8 @@
     "DISTRICT": "YAMUNA NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "UTKS0001207": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3499,7 +3722,8 @@
     "DISTRICT": "NAWADA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001208": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3516,7 +3740,8 @@
     "DISTRICT": "GAYA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001209": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3533,7 +3758,8 @@
     "DISTRICT": "JABALPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "UTKS0001210": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3550,7 +3776,8 @@
     "DISTRICT": "SIDDHARTHNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001211": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3567,7 +3794,8 @@
     "DISTRICT": "SIDDHARTHNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001212": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3584,7 +3812,8 @@
     "DISTRICT": "KURUKSHETRA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "UTKS0001213": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3601,7 +3830,8 @@
     "DISTRICT": "YAVATMAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001214": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3618,7 +3848,8 @@
     "DISTRICT": "YAVATMAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001215": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3635,7 +3866,8 @@
     "DISTRICT": "BASTI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001216": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3652,7 +3884,8 @@
     "DISTRICT": "PATNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001217": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3669,7 +3902,8 @@
     "DISTRICT": "MUZAFFARPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001218": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3686,7 +3920,8 @@
     "DISTRICT": "AMRAVATI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001219": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3703,7 +3938,8 @@
     "DISTRICT": "AMRAVATI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001220": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3720,7 +3956,8 @@
     "DISTRICT": "AMRAVATI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001221": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3737,7 +3974,8 @@
     "DISTRICT": "AMRAVATI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001222": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3754,7 +3992,8 @@
     "DISTRICT": "WARDHA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001223": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3771,7 +4010,8 @@
     "DISTRICT": "AMRAVATI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001224": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3788,7 +4028,8 @@
     "DISTRICT": "AMRAVATI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001225": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3805,7 +4046,8 @@
     "DISTRICT": "AMBALA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "UTKS0001226": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3822,7 +4064,8 @@
     "DISTRICT": "KURUKSHETRA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "UTKS0001227": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3839,7 +4082,8 @@
     "DISTRICT": "SHAHDOL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "UTKS0001228": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3856,7 +4100,8 @@
     "DISTRICT": "SHAHDOL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "UTKS0001229": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3873,7 +4118,8 @@
     "DISTRICT": "ANUPPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "UTKS0001230": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3890,7 +4136,8 @@
     "DISTRICT": "AMRAVATI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001231": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3907,7 +4154,8 @@
     "DISTRICT": "SAMSTIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001232": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3924,7 +4172,8 @@
     "DISTRICT": "VAISHALI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001233": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3941,7 +4190,8 @@
     "DISTRICT": "PATNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001234": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3958,7 +4208,8 @@
     "DISTRICT": "PATNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001235": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3975,7 +4226,8 @@
     "DISTRICT": "NALANDA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001236": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -3992,7 +4244,8 @@
     "DISTRICT": "AMBALA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "UTKS0001237": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4009,7 +4262,8 @@
     "DISTRICT": "SANT KABIR NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001238": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4026,7 +4280,8 @@
     "DISTRICT": "NAWADA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001239": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4043,7 +4298,8 @@
     "DISTRICT": "NAWADA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001240": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4060,7 +4316,8 @@
     "DISTRICT": "PATNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001241": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4077,7 +4334,8 @@
     "DISTRICT": "AMBALA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "UTKS0001242": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4094,7 +4352,8 @@
     "DISTRICT": "SAMSTIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001243": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4111,7 +4370,8 @@
     "DISTRICT": "AZAMGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001244": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4128,7 +4388,8 @@
     "DISTRICT": "GAYA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001245": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4145,7 +4406,8 @@
     "DISTRICT": "BASTI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001246": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4162,7 +4424,8 @@
     "DISTRICT": "BIHAR SHARIF",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001247": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4179,7 +4442,8 @@
     "DISTRICT": "AMBEDAKAR NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001248": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4196,7 +4460,8 @@
     "DISTRICT": "SHEIKHPURA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001249": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4213,7 +4478,8 @@
     "DISTRICT": "AMBEDAKAR NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001250": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4230,7 +4496,8 @@
     "DISTRICT": "KARNAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "UTKS0001251": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4247,7 +4514,8 @@
     "DISTRICT": "YAMUNANAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "UTKS0001252": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4264,7 +4532,8 @@
     "DISTRICT": "NALANDA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001253": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4281,7 +4550,8 @@
     "DISTRICT": "AMBEDAKAR NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001254": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4298,7 +4568,8 @@
     "DISTRICT": "FAIZABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001255": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4315,7 +4586,8 @@
     "DISTRICT": "BEGUSARAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001256": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4332,7 +4604,8 @@
     "DISTRICT": "BEGUSARAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001257": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4349,7 +4622,8 @@
     "DISTRICT": "BEGUSARAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001258": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4366,7 +4640,8 @@
     "DISTRICT": "KARNAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "UTKS0001259": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4383,7 +4658,8 @@
     "DISTRICT": "KHAGARIA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001260": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4400,7 +4676,8 @@
     "DISTRICT": "WASHIM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001261": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4417,7 +4694,8 @@
     "DISTRICT": "BHAGALPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001262": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4434,7 +4712,8 @@
     "DISTRICT": "SAMASTIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001263": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4451,7 +4730,8 @@
     "DISTRICT": "RANCHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001264": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4468,7 +4748,8 @@
     "DISTRICT": "RANCHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001265": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4485,7 +4766,8 @@
     "DISTRICT": "KHAGARIA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001266": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4502,7 +4784,8 @@
     "DISTRICT": "BEGUSARAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001267": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4519,7 +4802,8 @@
     "DISTRICT": "KAITHAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "UTKS0001268": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4536,7 +4820,8 @@
     "DISTRICT": "BHANDARA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001269": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4553,7 +4838,8 @@
     "DISTRICT": "CHHINDWARA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "UTKS0001270": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4570,7 +4856,8 @@
     "DISTRICT": "RANCHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001271": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4587,7 +4874,8 @@
     "DISTRICT": "CHHINDWARA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "UTKS0001272": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4604,7 +4892,8 @@
     "DISTRICT": "PURBI SINGHBHUM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001273": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4621,7 +4910,8 @@
     "DISTRICT": "KARNAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "UTKS0001274": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4638,7 +4928,8 @@
     "DISTRICT": "YAVATMAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001275": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4655,7 +4946,8 @@
     "DISTRICT": "AMRAVATI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001276": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4672,7 +4964,8 @@
     "DISTRICT": "CHHINDWARA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "UTKS0001277": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4689,7 +4982,8 @@
     "DISTRICT": "CHITRAKUT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001278": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4706,7 +5000,8 @@
     "DISTRICT": "MANDLA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "UTKS0001279": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4723,7 +5018,8 @@
     "DISTRICT": "MANDLA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "UTKS0001280": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4740,7 +5036,8 @@
     "DISTRICT": "SONBHADRA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001281": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4757,7 +5054,8 @@
     "DISTRICT": "BHAGALPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001282": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4774,7 +5072,8 @@
     "DISTRICT": "BHAGALPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001283": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4791,7 +5090,8 @@
     "DISTRICT": "DARBHANGA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001284": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4808,7 +5108,8 @@
     "DISTRICT": "BETUL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "UTKS0001285": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4825,7 +5126,8 @@
     "DISTRICT": "AKOLA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001286": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4842,7 +5144,8 @@
     "DISTRICT": "BETUL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "UTKS0001287": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4859,7 +5162,8 @@
     "DISTRICT": "HAZARIBAGH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001288": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4876,7 +5180,8 @@
     "DISTRICT": "SONBHADRA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001289": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4893,7 +5198,8 @@
     "DISTRICT": "SONBHADRA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001290": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4910,7 +5216,8 @@
     "DISTRICT": "SAMASTIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001291": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4927,7 +5234,8 @@
     "DISTRICT": "CHHINDWARA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "UTKS0001292": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4944,7 +5252,8 @@
     "DISTRICT": "KURUKSHETRA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "UTKS0001293": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4961,7 +5270,8 @@
     "DISTRICT": "PURBI SINGHBHUM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001294": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4978,7 +5288,8 @@
     "DISTRICT": "RAMGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001295": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -4995,7 +5306,8 @@
     "DISTRICT": "RAMGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001296": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5012,7 +5324,8 @@
     "DISTRICT": "CHRIAKOOT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001297": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5029,7 +5342,8 @@
     "DISTRICT": "CHITRAKOOT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001298": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5046,7 +5360,8 @@
     "DISTRICT": "AKOLA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001299": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5063,7 +5378,8 @@
     "DISTRICT": "BANKA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001300": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5080,7 +5396,8 @@
     "DISTRICT": "CHHINDWARA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "UTKS0001301": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5097,7 +5414,8 @@
     "DISTRICT": "SEONI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "UTKS0001302": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5114,7 +5432,8 @@
     "DISTRICT": "YAVATMAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001303": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5131,7 +5450,8 @@
     "DISTRICT": "DARBHANGA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001304": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5148,7 +5468,8 @@
     "DISTRICT": "BANKA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001305": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5165,7 +5486,8 @@
     "DISTRICT": "LAKHISARAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001306": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5182,7 +5504,8 @@
     "DISTRICT": "GIRIDIH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001307": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5199,7 +5522,8 @@
     "DISTRICT": "PASCHIMI SINGHBHUM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001308": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5216,7 +5540,8 @@
     "DISTRICT": "CHHINDWARA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "UTKS0001309": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5233,7 +5558,8 @@
     "DISTRICT": "PRATAPGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001310": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5250,7 +5576,8 @@
     "DISTRICT": "RAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "UTKS0001311": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5267,7 +5594,8 @@
     "DISTRICT": "MUNGER",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001312": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5284,7 +5612,8 @@
     "DISTRICT": "EAST SINGHBHUM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001313": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5301,7 +5630,8 @@
     "DISTRICT": "VAISHALI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001314": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5318,7 +5648,8 @@
     "DISTRICT": "RAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "UTKS0001315": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5335,7 +5666,8 @@
     "DISTRICT": "JAMUI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001316": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5352,7 +5684,8 @@
     "DISTRICT": "SIWAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001317": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5369,7 +5702,8 @@
     "DISTRICT": "RAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "UTKS0001318": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5386,7 +5720,8 @@
     "DISTRICT": "GIRIDIH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001319": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5403,7 +5738,8 @@
     "DISTRICT": "WEST SINGHBHUM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001320": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5420,7 +5756,8 @@
     "DISTRICT": "HAZARIBAGH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001321": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5437,7 +5774,8 @@
     "DISTRICT": "PURNIA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001322": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5454,7 +5792,8 @@
     "DISTRICT": "JAMUI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001323": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5471,7 +5810,8 @@
     "DISTRICT": "KODERMA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001324": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5488,7 +5828,8 @@
     "DISTRICT": "PRATAPGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001325": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5505,7 +5846,8 @@
     "DISTRICT": "KATIHAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001326": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5522,7 +5864,8 @@
     "DISTRICT": "PURNIA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001327": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5539,7 +5882,8 @@
     "DISTRICT": "GRIDIH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001328": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5556,7 +5900,8 @@
     "DISTRICT": "RAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "UTKS0001329": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5573,7 +5918,8 @@
     "DISTRICT": "SONEBHADRA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001330": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5590,7 +5936,8 @@
     "DISTRICT": "MIRZAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001331": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5607,7 +5954,8 @@
     "DISTRICT": "PURBI SINGHBHUM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001332": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5624,7 +5972,8 @@
     "DISTRICT": "MADHEPURA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001333": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5641,7 +5990,8 @@
     "DISTRICT": "WASHIM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001334": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5658,7 +6008,8 @@
     "DISTRICT": "GRIDIH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001335": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5675,7 +6026,8 @@
     "DISTRICT": "BOKARO",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001336": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5692,7 +6044,8 @@
     "DISTRICT": "ARARIA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001337": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5709,7 +6062,8 @@
     "DISTRICT": "KATIHAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001338": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5726,7 +6080,8 @@
     "DISTRICT": "GONDIA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001339": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5743,7 +6098,8 @@
     "DISTRICT": "PANIPAT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "UTKS0001340": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5760,7 +6116,8 @@
     "DISTRICT": "BOKARO",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001341": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5777,7 +6134,8 @@
     "DISTRICT": "JALGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001342": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5794,7 +6152,8 @@
     "DISTRICT": "RAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "UTKS0001343": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5811,7 +6170,8 @@
     "DISTRICT": "JALGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001344": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5828,7 +6188,8 @@
     "DISTRICT": "SITAMADHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001345": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5845,7 +6206,8 @@
     "DISTRICT": "DUMKA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001346": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5862,7 +6224,8 @@
     "DISTRICT": "MADHUBANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001347": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5879,7 +6242,8 @@
     "DISTRICT": "DHAMATARI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "UTKS0001348": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5896,7 +6260,8 @@
     "DISTRICT": "GRIDIH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001349": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5913,7 +6278,8 @@
     "DISTRICT": "MADHUBANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001350": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5930,7 +6296,8 @@
     "DISTRICT": "DHAMTARI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "UTKS0001351": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5947,7 +6314,8 @@
     "DISTRICT": "VARANASI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001352": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5964,7 +6332,8 @@
     "DISTRICT": "ALLAHABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001353": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5981,7 +6350,8 @@
     "DISTRICT": "PATNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001354": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -5998,7 +6368,8 @@
     "DISTRICT": "GORAKHPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001355": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6015,7 +6386,8 @@
     "DISTRICT": "CHHAPRA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001356": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6032,7 +6404,8 @@
     "DISTRICT": "BHOJPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001359": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6049,7 +6422,8 @@
     "DISTRICT": "DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "UTKS0001360": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6066,7 +6440,8 @@
     "DISTRICT": "MUZAFFARPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001361": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6083,7 +6458,8 @@
     "DISTRICT": "GAYA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001362": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6100,7 +6476,8 @@
     "DISTRICT": "DEORIA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UT"
   },
   "UTKS0001363": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6117,7 +6494,8 @@
     "DISTRICT": "JAUNPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001365": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6134,7 +6512,8 @@
     "DISTRICT": "NAGPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001366": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6151,7 +6530,8 @@
     "DISTRICT": "SIWAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001371": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6168,7 +6548,8 @@
     "DISTRICT": "ROORKEE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001372": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6185,7 +6566,8 @@
     "DISTRICT": "RANCHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001374": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6202,7 +6584,8 @@
     "DISTRICT": "FARIDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "UTKS0001375": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6219,7 +6602,8 @@
     "DISTRICT": "VARANASI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001376": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6236,7 +6620,8 @@
     "DISTRICT": "GURUGRAM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "UTKS0001377": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6253,7 +6638,8 @@
     "DISTRICT": "PATNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001378": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6270,7 +6656,8 @@
     "DISTRICT": "GURUGRAM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "UTKS0001379": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6287,7 +6674,8 @@
     "DISTRICT": "NAGPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001380": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6304,7 +6692,8 @@
     "DISTRICT": "PATNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001381": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6321,7 +6710,8 @@
     "DISTRICT": "DUMKA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001382": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6338,7 +6728,8 @@
     "DISTRICT": "DUMKA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001383": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6355,7 +6746,8 @@
     "DISTRICT": "GODDA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001384": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6372,7 +6764,8 @@
     "DISTRICT": "VARANASI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001385": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6389,7 +6782,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001386": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6406,7 +6800,8 @@
     "DISTRICT": "NEW DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "UTKS0001387": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6423,7 +6818,8 @@
     "DISTRICT": "JALGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001390": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6440,7 +6836,8 @@
     "DISTRICT": "SONIPAT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "UTKS0001391": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6457,7 +6854,8 @@
     "DISTRICT": "YAMUNANAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "UTKS0001392": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6474,7 +6872,8 @@
     "DISTRICT": "BASTI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001393": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6491,7 +6890,8 @@
     "DISTRICT": "AMBALA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "UTKS0001395": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6508,7 +6908,8 @@
     "DISTRICT": "DHANBAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001396": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6525,7 +6926,8 @@
     "DISTRICT": "RAMGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001397": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6542,7 +6944,8 @@
     "DISTRICT": "HARIDWAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UT"
   },
   "UTKS0001398": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6559,7 +6962,8 @@
     "DISTRICT": "BOKARO",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001399": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6576,7 +6980,8 @@
     "DISTRICT": "DARBHANGA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001400": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6593,7 +6998,8 @@
     "DISTRICT": "RAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "UTKS0001401": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6610,7 +7016,8 @@
     "DISTRICT": "NEW DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "UTKS0001402": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6627,7 +7034,8 @@
     "DISTRICT": "VAISHALI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001403": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6644,7 +7052,8 @@
     "DISTRICT": "NALANDA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001404": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6661,7 +7070,8 @@
     "DISTRICT": "BALLIA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001405": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6678,7 +7088,8 @@
     "DISTRICT": "KAIMUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001406": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6695,7 +7106,8 @@
     "DISTRICT": "PRATAPGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001407": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6712,7 +7124,8 @@
     "DISTRICT": "JAMSHEDPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001408": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6729,7 +7142,8 @@
     "DISTRICT": "PATNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001410": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6746,7 +7160,8 @@
     "DISTRICT": "UDHAMSINGHNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UT"
   },
   "UTKS0001412": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6763,7 +7178,8 @@
     "DISTRICT": "KANKER",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "UTKS0001413": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6780,7 +7196,8 @@
     "DISTRICT": "GARHWA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001414": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6797,7 +7214,8 @@
     "DISTRICT": "DHANBAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001415": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6814,7 +7232,8 @@
     "DISTRICT": "BALARAMPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "UTKS0001416": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6831,7 +7250,8 @@
     "DISTRICT": "JASHPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "UTKS0001417": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6848,7 +7268,8 @@
     "DISTRICT": "DUMKA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001418": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6865,7 +7286,8 @@
     "DISTRICT": "SARGUJA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "UTKS0001419": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6882,7 +7304,8 @@
     "DISTRICT": "PALAMAU",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001420": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6899,7 +7322,8 @@
     "DISTRICT": "PALAMAU",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001421": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6916,7 +7340,8 @@
     "DISTRICT": "BALARAMPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "UTKS0001422": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6933,7 +7358,8 @@
     "DISTRICT": "PALAMAU",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001423": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6950,7 +7376,8 @@
     "DISTRICT": "GARIYABAND",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "UTKS0001424": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6967,7 +7394,8 @@
     "DISTRICT": "GARHWA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001425": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -6984,7 +7412,8 @@
     "DISTRICT": "GARHWA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001426": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7001,7 +7430,8 @@
     "DISTRICT": "PALAMAU",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001427": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7018,7 +7448,8 @@
     "DISTRICT": "BALRAMPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "UTKS0001428": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7035,7 +7466,8 @@
     "DISTRICT": "SAHEBGANJ",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001429": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7052,7 +7484,8 @@
     "DISTRICT": "SAHEBGANJ",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001430": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7069,7 +7502,8 @@
     "DISTRICT": "SONBHADRA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001431": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7086,7 +7520,8 @@
     "DISTRICT": "GODDA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001432": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7103,7 +7538,8 @@
     "DISTRICT": "PALAMU",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001433": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7120,7 +7556,8 @@
     "DISTRICT": "SONBHADRA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001434": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7137,7 +7574,8 @@
     "DISTRICT": "SITAMARHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001435": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7154,7 +7592,8 @@
     "DISTRICT": "CUTTACK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001436": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7171,7 +7610,8 @@
     "DISTRICT": "CUTTACK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001437": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7188,7 +7628,8 @@
     "DISTRICT": "GANJAM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001438": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7205,7 +7646,8 @@
     "DISTRICT": "GANJAM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001439": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7222,7 +7664,8 @@
     "DISTRICT": "CUTTACK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001440": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7239,7 +7682,8 @@
     "DISTRICT": "MAYURBHANJ",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001441": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7256,7 +7700,8 @@
     "DISTRICT": "ANGUL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001442": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7273,7 +7718,8 @@
     "DISTRICT": "KEONJHAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001443": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7290,7 +7736,8 @@
     "DISTRICT": "MAYURBHAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001444": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7307,7 +7754,8 @@
     "DISTRICT": "MAYURBHANJ",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001445": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7324,7 +7772,8 @@
     "DISTRICT": "MAYURBHANJ",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001446": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7341,7 +7790,8 @@
     "DISTRICT": "KENDUJHAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001447": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7358,7 +7808,8 @@
     "DISTRICT": "ANGUL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001448": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7375,7 +7826,8 @@
     "DISTRICT": "DHENKANAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001449": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7392,7 +7844,8 @@
     "DISTRICT": "DEOGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001450": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7409,7 +7862,8 @@
     "DISTRICT": "NABRANGPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001451": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7426,7 +7880,8 @@
     "DISTRICT": "NUAPADA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001452": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7443,7 +7898,8 @@
     "DISTRICT": "KORAPUT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001453": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7460,7 +7916,8 @@
     "DISTRICT": "NAYAGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001454": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7477,7 +7934,8 @@
     "DISTRICT": "NAYAGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001455": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7494,7 +7952,8 @@
     "DISTRICT": "CUTTACK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001456": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7511,7 +7970,8 @@
     "DISTRICT": "HRH,",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001457": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7528,7 +7988,8 @@
     "DISTRICT": "JAGATSINGHPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001458": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7545,7 +8006,8 @@
     "DISTRICT": "ODAGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001459": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7562,7 +8024,8 @@
     "DISTRICT": "CUTTACK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001460": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7579,7 +8042,8 @@
     "DISTRICT": "NAYAGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001461": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7596,7 +8060,8 @@
     "DISTRICT": "GANJAM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001462": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7613,7 +8078,8 @@
     "DISTRICT": "JAMANKIRA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001463": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7630,7 +8096,8 @@
     "DISTRICT": "RENGALI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001464": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7647,7 +8114,8 @@
     "DISTRICT": "KHAMAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001465": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7664,7 +8132,8 @@
     "DISTRICT": "ADASPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001466": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7681,7 +8150,8 @@
     "DISTRICT": "LANJIGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001467": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7698,7 +8168,8 @@
     "DISTRICT": "SAINTALA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001468": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7715,7 +8186,8 @@
     "DISTRICT": "PATNAGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001469": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7732,7 +8204,8 @@
     "DISTRICT": "SAMBALPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001470": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7749,7 +8222,8 @@
     "DISTRICT": "SAMBALPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001471": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7766,7 +8240,8 @@
     "DISTRICT": "NABRANGAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001472": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7783,7 +8258,8 @@
     "DISTRICT": "BALANGIR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001473": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7800,7 +8276,8 @@
     "DISTRICT": "JM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001474": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7817,7 +8294,8 @@
     "DISTRICT": "KORAPUT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001475": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7834,7 +8312,8 @@
     "DISTRICT": "BOUDH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001476": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7851,7 +8330,8 @@
     "DISTRICT": "AAAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001477": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7868,7 +8348,8 @@
     "DISTRICT": "KALAHANDI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001478": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7885,7 +8366,8 @@
     "DISTRICT": "JM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001479": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7902,7 +8384,8 @@
     "DISTRICT": "AEA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001480": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7914,12 +8397,13 @@
     "CONTACT": null,
     "UPI": true,
     "RTGS": true,
-    "CITY": "BAUDHGARH",
+    "CITY": "OD",
     "CENTRE": "BAUDHGARH",
     "DISTRICT": "BAUDHGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001481": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7936,7 +8420,8 @@
     "DISTRICT": "TITLAGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001482": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7953,7 +8438,8 @@
     "DISTRICT": "AMBIKAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "UTKS0001483": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7970,7 +8456,8 @@
     "DISTRICT": "SIMDEGA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001484": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -7987,7 +8474,8 @@
     "DISTRICT": "NUAPADA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001485": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8004,7 +8492,8 @@
     "DISTRICT": "PHULABANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001486": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8021,7 +8510,8 @@
     "DISTRICT": "LOHARDAGA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001487": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8038,7 +8528,8 @@
     "DISTRICT": "KANDHAMAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001488": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8055,7 +8546,8 @@
     "DISTRICT": "HARBHANGA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001489": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8072,7 +8564,8 @@
     "DISTRICT": "RAIGHAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001490": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8089,7 +8582,8 @@
     "DISTRICT": "KHARIAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001491": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8106,7 +8600,8 @@
     "DISTRICT": "DEORIA,",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001492": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8123,7 +8618,8 @@
     "DISTRICT": "GORAKHPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001493": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8140,7 +8636,8 @@
     "DISTRICT": "SHEIKHPURA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001494": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8157,7 +8654,8 @@
     "DISTRICT": "GORAKHPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001495": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8174,7 +8672,8 @@
     "DISTRICT": "PATNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001496": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8191,7 +8690,8 @@
     "DISTRICT": "MUZAFFARPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001497": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8208,7 +8708,8 @@
     "DISTRICT": "PATNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001498": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8225,7 +8726,8 @@
     "DISTRICT": "CHATRA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001499": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8242,7 +8744,8 @@
     "DISTRICT": "VAISHALI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001500": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8259,7 +8762,8 @@
     "DISTRICT": "EAST CHAMPARAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001501": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8276,7 +8780,8 @@
     "DISTRICT": "LUCKNOW",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001503": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8293,7 +8798,8 @@
     "DISTRICT": "ALMORA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UT"
   },
   "UTKS0001504": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8310,7 +8816,8 @@
     "DISTRICT": "JABALPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "UTKS0001505": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8327,7 +8834,8 @@
     "DISTRICT": "KANPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001506": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8344,7 +8852,8 @@
     "DISTRICT": "BAREILLY",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001507": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8361,7 +8870,8 @@
     "DISTRICT": "MORADABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001508": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8378,7 +8888,8 @@
     "DISTRICT": "PANCHKULA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "UTKS0001509": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8395,7 +8906,8 @@
     "DISTRICT": "BHOPAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "UTKS0001510": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8412,7 +8924,8 @@
     "DISTRICT": "KOLKATA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "UTKS0001511": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8429,7 +8942,8 @@
     "DISTRICT": "BHAGALPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001512": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8446,7 +8960,8 @@
     "DISTRICT": "DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "UTKS0001513": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8463,7 +8978,8 @@
     "DISTRICT": "VARANASI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001514": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8480,7 +8996,8 @@
     "DISTRICT": "GAUTAM BUDDH NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001515": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8497,7 +9014,8 @@
     "DISTRICT": "INDORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "UTKS0001516": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8514,7 +9032,8 @@
     "DISTRICT": "AGRA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001517": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8531,7 +9050,8 @@
     "DISTRICT": "DEHRADUN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UT"
   },
   "UTKS0001518": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8548,7 +9068,8 @@
     "DISTRICT": "MEERUT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001519": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8565,7 +9086,8 @@
     "DISTRICT": "NEW DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "UTKS0001520": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8582,7 +9104,8 @@
     "DISTRICT": "WEST DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "UTKS0001521": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8599,7 +9122,8 @@
     "DISTRICT": "DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "UTKS0001522": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8616,7 +9140,8 @@
     "DISTRICT": "GHAZIABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001523": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8633,7 +9158,8 @@
     "DISTRICT": "UJJAIN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "UTKS0001524": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8650,7 +9176,8 @@
     "DISTRICT": "RANCHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001525": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8667,7 +9194,8 @@
     "DISTRICT": "VAISHALI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001526": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8684,7 +9212,8 @@
     "DISTRICT": "ALIGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001527": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8701,7 +9230,8 @@
     "DISTRICT": "CHANDIGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "UTKS0001528": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8718,7 +9248,8 @@
     "DISTRICT": "GWALIOR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "UTKS0001529": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8735,7 +9266,8 @@
     "DISTRICT": "DURG",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "UTKS0001530": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8752,7 +9284,8 @@
     "DISTRICT": "EAST SINGHBHUM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001531": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8769,7 +9302,8 @@
     "DISTRICT": "GAUTAM BUDDHA NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001532": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8786,7 +9320,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "UTKS0001533": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8803,7 +9338,8 @@
     "DISTRICT": "GURUGRAM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "UTKS0001534": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8820,7 +9356,8 @@
     "DISTRICT": "VADODARA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "UTKS0001535": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8837,7 +9374,8 @@
     "DISTRICT": "LUCKNOW",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001536": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8854,7 +9392,8 @@
     "DISTRICT": "MATHURA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001537": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8871,7 +9410,8 @@
     "DISTRICT": "BHUBANESWAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001538": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8888,7 +9428,8 @@
     "DISTRICT": "PANIPAT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "UTKS0001539": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8905,7 +9446,8 @@
     "DISTRICT": "FAIZABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001540": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8922,7 +9464,8 @@
     "DISTRICT": "SURAT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "UTKS0001541": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8939,7 +9482,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "UTKS0001542": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8956,7 +9500,8 @@
     "DISTRICT": "HYDERABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TG"
   },
   "UTKS0001543": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8973,7 +9518,8 @@
     "DISTRICT": "AZAMGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001544": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -8990,7 +9536,8 @@
     "DISTRICT": "GIRIDIH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001545": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9007,7 +9554,8 @@
     "DISTRICT": "GUWAHATI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-AS"
   },
   "UTKS0001546": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9024,7 +9572,8 @@
     "DISTRICT": "RAEBARELI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001547": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9041,7 +9590,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001548": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9058,7 +9608,8 @@
     "DISTRICT": "KOLKATA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "UTKS0001549": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9075,7 +9626,8 @@
     "DISTRICT": "BILASPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "UTKS0001550": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9092,7 +9644,8 @@
     "DISTRICT": "ROHTAK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "UTKS0001551": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9109,7 +9662,8 @@
     "DISTRICT": "SAHARANPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001552": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9126,7 +9680,8 @@
     "DISTRICT": "KANPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001553": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9143,7 +9698,8 @@
     "DISTRICT": "MIRZAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001554": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9160,7 +9716,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001555": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9177,7 +9734,8 @@
     "DISTRICT": "JHANSI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001556": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9194,7 +9752,8 @@
     "DISTRICT": "NERUL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001557": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9211,7 +9770,8 @@
     "DISTRICT": "DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "UTKS0001558": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9228,7 +9788,8 @@
     "DISTRICT": "DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "UTKS0001559": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9245,7 +9806,8 @@
     "DISTRICT": "PATNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001560": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9262,7 +9824,8 @@
     "DISTRICT": "CHANDIGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CH"
   },
   "UTKS0001561": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9279,7 +9842,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "UTKS0001562": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9296,7 +9860,8 @@
     "DISTRICT": "AMRITSAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "UTKS0001563": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9313,7 +9878,8 @@
     "DISTRICT": "PATIALA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "UTKS0001564": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9330,7 +9896,8 @@
     "DISTRICT": "JODHPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "UTKS0001565": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9347,7 +9914,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "UTKS0001566": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9364,7 +9932,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001567": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9381,7 +9950,8 @@
     "DISTRICT": "EGA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001568": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9398,7 +9968,8 @@
     "DISTRICT": "MUZAFFARNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001569": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9415,7 +9986,8 @@
     "DISTRICT": "MOHALI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "UTKS0001570": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9432,7 +10004,8 @@
     "DISTRICT": "NASHIK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001571": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9449,7 +10022,8 @@
     "DISTRICT": "KARNAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "UTKS0001572": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9466,7 +10040,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001573": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9483,7 +10058,8 @@
     "DISTRICT": "NEW DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "UTKS0001574": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9500,7 +10076,8 @@
     "DISTRICT": "JALANDHAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "UTKS0001575": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9517,7 +10094,8 @@
     "DISTRICT": "DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "UTKS0001576": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9534,7 +10112,8 @@
     "DISTRICT": "HHHPR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001577": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9551,7 +10130,8 @@
     "DISTRICT": "NEWDELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "UTKS0001578": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9568,7 +10148,8 @@
     "DISTRICT": "GURUGRAM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "UTKS0001579": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9585,7 +10166,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001580": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9602,7 +10184,8 @@
     "DISTRICT": "KOLKATA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001581": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9619,7 +10202,8 @@
     "DISTRICT": "AGRA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001582": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9636,7 +10220,8 @@
     "DISTRICT": "BARDHAMAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "UTKS0001583": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9653,7 +10238,8 @@
     "DISTRICT": "ALMORA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UT"
   },
   "UTKS0001584": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9670,7 +10256,8 @@
     "DISTRICT": "KOTDWAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UT"
   },
   "UTKS0001585": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9687,7 +10274,8 @@
     "DISTRICT": "DISPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-AS"
   },
   "UTKS0001586": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9704,7 +10292,8 @@
     "DISTRICT": "INDORE PHOOTI KOTHI ROAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "UTKS0001587": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9721,7 +10310,8 @@
     "DISTRICT": "ROURKELA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001588": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9738,7 +10328,8 @@
     "DISTRICT": "LUDHIANA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "UTKS0001589": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9755,7 +10346,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001590": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9772,7 +10364,8 @@
     "DISTRICT": "BHUBANESWAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001591": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9789,7 +10382,8 @@
     "DISTRICT": "FARIDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "UTKS0001592": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9806,7 +10400,8 @@
     "DISTRICT": "KOLKATA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "UTKS0001593": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9823,7 +10418,8 @@
     "DISTRICT": "KOLHAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001594": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9840,7 +10436,8 @@
     "DISTRICT": "ALMORA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UT"
   },
   "UTKS0001595": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9857,7 +10454,8 @@
     "DISTRICT": "BENGALURU",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "UTKS0001596": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9874,7 +10472,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001597": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9891,7 +10490,8 @@
     "DISTRICT": "THIRUVANANTHAPURAM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KL"
   },
   "UTKS0001598": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9908,7 +10508,8 @@
     "DISTRICT": "KOCHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KL"
   },
   "UTKS0001599": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9925,7 +10526,8 @@
     "DISTRICT": "ALWAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "UTKS0001600": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9942,7 +10544,8 @@
     "DISTRICT": "CUTTACK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001601": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9959,7 +10562,8 @@
     "DISTRICT": "BANGALORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "UTKS0001602": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9976,7 +10580,8 @@
     "DISTRICT": "MADHYAMGRAM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "UTKS0001603": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -9993,7 +10598,8 @@
     "DISTRICT": "KHARGHAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001604": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -10010,7 +10616,8 @@
     "DISTRICT": "BATHINDA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "UTKS0001605": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -10027,7 +10634,8 @@
     "DISTRICT": "SAMBALPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001606": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -10044,7 +10652,8 @@
     "DISTRICT": "BARDHAMAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "UTKS0001607": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -10061,7 +10670,8 @@
     "DISTRICT": "FIROZABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001608": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -10078,7 +10688,8 @@
     "DISTRICT": "SURAT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "UTKS0001609": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -10095,7 +10706,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "UTKS0001610": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -10112,7 +10724,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "UTKS0001611": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -10129,7 +10742,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "UTKS0001612": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -10146,7 +10760,8 @@
     "DISTRICT": "DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "UTKS0001613": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -10163,7 +10778,8 @@
     "DISTRICT": "KOLKATA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "UTKS0001614": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -10180,7 +10796,8 @@
     "DISTRICT": "SILIGURI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "UTKS0001615": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -10197,7 +10814,8 @@
     "DISTRICT": "AURANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001616": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -10214,7 +10832,8 @@
     "DISTRICT": "SANGALI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "UTKS0001617": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -10231,7 +10850,494 @@
     "DISTRICT": "SRI GANGANAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
+  },
+  "UTKS0001618": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001618",
+    "MICR": "110762034",
+    "BRANCH": "VIKAS PURI",
+    "ADDRESS": "G-152 VIKASPURI NEW DELHI-110018",
+    "STATE": "DELHI",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "DELHI",
+    "CENTRE": "NEW DELHI",
+    "DISTRICT": "NEW DELHI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
+  },
+  "UTKS0001619": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001619",
+    "MICR": "580762002",
+    "BRANCH": "HUBLI",
+    "ADDRESS": "UTKARSH SMALL FINANCE BANK SHOP NO.04 MARVEL ARTIZA PB ROAD VIDYA NAGAR HUBLI -580030",
+    "STATE": "KARNATAKA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "HUBLI",
+    "CENTRE": "HUBLI",
+    "DISTRICT": "HUBLI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
+  },
+  "UTKS0001620": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001620",
+    "MICR": "530762002",
+    "BRANCH": "VISAKHAPATNAM",
+    "ADDRESS": "GROUND FLOOR REDNAM PLAZA 2ND LANE DWARAKANAGAR VISHAKHAPATNAM 530016 ANDHRA PRADESH.",
+    "STATE": "ANDHRA PRADESH",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "VISHAKHAPATNAM",
+    "CENTRE": "VISAKHAPATNAM",
+    "DISTRICT": "VISAKHAPATNAM",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
+  },
+  "UTKS0001621": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001621",
+    "MICR": "560762004",
+    "BRANCH": "MALLESWARAM BENGALURU",
+    "ADDRESS": "NO.162 MARGOSA ROAD MALLESHWARAM BANGALURU 560003 KARNATAKA",
+    "STATE": "KARNATAKA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "BANGALURU",
+    "CENTRE": "MALLESWARAM BENGALURU",
+    "DISTRICT": "MALLESWARAM BENGALURU",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
+  },
+  "UTKS0001622": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001622",
+    "MICR": "590762002",
+    "BRANCH": "BELAGAVI BELGAUM",
+    "ADDRESS": "TSMLLFINNCEBNGOUNDFLOO-NO39/39/A1A2CLUBRODNEXTTORBLBNBELGUMPIN-59001",
+    "STATE": "KARNATAKA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "EGU",
+    "CENTRE": "BELAGAVI BELGAUM",
+    "DISTRICT": "BELAGAVI BELGAUM",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
+  },
+  "UTKS0001623": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001623",
+    "MICR": "380762004",
+    "BRANCH": "NIKOL AHMEDABAD",
+    "ADDRESS": "P.&PZRPRBGCAMBPC-20J.",
+    "STATE": "GUJARAT",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "AHMEDABAD",
+    "CENTRE": "NIKOL AHMEDABAD",
+    "DISTRICT": "NIKOL AHMEDABAD",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
+  },
+  "UTKS0001624": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001624",
+    "MICR": "700762008",
+    "BRANCH": "GARIA",
+    "ADDRESS": "410 N.S.C.BOSE ROAD GARIA KOLKATA WEST BENGAL -700047",
+    "STATE": "WEST BENGAL",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "KOLKATA",
+    "CENTRE": "GARIA WEST BENGAL",
+    "DISTRICT": "GARIA WEST BENGAL",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
+  },
+  "UTKS0001625": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001625",
+    "MICR": "110762035",
+    "BRANCH": "DWARKA",
+    "ADDRESS": "226 POCKET-A-2 SECTOR-17 NEW DELHI-110075",
+    "STATE": "DELHI",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "NEW DELHI",
+    "CENTRE": "DWARKA NEW DELHI",
+    "DISTRICT": "DWARKA NEW DELHI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
+  },
+  "UTKS0001626": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001626",
+    "MICR": "400762011",
+    "BRANCH": "MALAD WEST",
+    "ADDRESS": "SLSSHPN.2&340LUDESLNYLEMMLDMUMB-400064MHSHT",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "AA MA",
+    "CENTRE": "MALAD WEST MUMBAI",
+    "DISTRICT": "MALAD WEST MUMBAI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
+  "UTKS0001627": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001627",
+    "MICR": "364762002",
+    "BRANCH": "BHAVNAGAR GUJARAT",
+    "ADDRESS": "UB1UNFRXONXWWRBN34.UJ.",
+    "STATE": "GUJARAT",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "HVG",
+    "CENTRE": "BHAVNAGAR GUJARAT",
+    "DISTRICT": "BHAVNAGAR GUJARAT",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
+  },
+  "UTKS0001628": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001628",
+    "MICR": "641762002",
+    "BRANCH": "RS PURAM COIMBATORE",
+    "ADDRESS": "RUDFLR412DBRADRSPURAMCIMBATRETAMILNADUPI-641002",
+    "STATE": "TAMIL NADU",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "COIMBATORE",
+    "CENTRE": "RS PURAM COIMBATORE TAMIL NADU",
+    "DISTRICT": "RS PURAM COIMBATORE TAMIL NADU",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
+  },
+  "UTKS0001629": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001629",
+    "MICR": "425762002",
+    "BRANCH": "JALGAON",
+    "ADDRESS": "RUDFLRTALREJAECLAVEADARSHNAGARRTORADJALGAMAHARASHTRA452002",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "GON",
+    "CENTRE": "JALGAON MAHARASHTRA",
+    "DISTRICT": "JALGAON MAHARASHTRA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
+  "UTKS0001630": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001630",
+    "MICR": "444762003",
+    "BRANCH": "AKOLA",
+    "ADDRESS": "GROUND FLOOR HOLY CROSS CONVENT ROAD OPP.MARUTI SHOWROOM AKOLA MAHARASHTRA 444005",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "AKOLA",
+    "CENTRE": "AKOLA MAHARASHTRA",
+    "DISTRICT": "AKOLA MAHARASHTRA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
+  "UTKS0001631": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001631",
+    "MICR": "400762012",
+    "BRANCH": "CHARKOP KANDIVALI",
+    "ADDRESS": "SHOP NO.4 CHARKOP FOUR FLIGHT CHSL PLOT NO.241 RDP8 CHARKOP KANDIVALI ( WEST ) MUMBAI-400067",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "MUMBAI",
+    "CENTRE": "CHARKOP KANDIVALI MUMBAI",
+    "DISTRICT": "CHARKOP KANDIVALI MUMBAI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
+  "UTKS0001632": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001632",
+    "MICR": "636762002",
+    "BRANCH": "SALEM",
+    "ADDRESS": "UPPER GROUND FLOOR KANDASWARNA MEGA MALL 26 SHARDA COLLEGE ROAD SALEM TAMIL NADU-636016",
+    "STATE": "TAMIL NADU",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "AE",
+    "CENTRE": "SALEM TAMIL NADU",
+    "DISTRICT": "SALEM TAMIL NADU",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
+  },
+  "UTKS0001633": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001633",
+    "MICR": "226762006",
+    "BRANCH": "JANKIPURAM",
+    "ADDRESS": "UPPER GROUND FLOOR SHOP NO UGF-01 GURU KRIPA BUILDING PLOT NO.CP-3 SECTOR E NEAR ENGINEERING COLLEGE ROAD CHAURAHA SITAPUR ROAD YOJNA JANKIPURAM LUCKNOW UP.226021",
+    "STATE": "UTTAR PRADESH",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "UKO",
+    "CENTRE": "JANKIPURAM LUCKNOW",
+    "DISTRICT": "JANKIPURAM LUCKNOW",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
+  },
+  "UTKS0001634": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001634",
+    "MICR": "360762002",
+    "BRANCH": "RAJKOT",
+    "ADDRESS": "OFFICE NUMBER 5 6 & 14 GROUND FLOOR MAKERS-1 BUILDING OPPOSITE MAHATMA GANDHI MUSEUM RAJKOT -360003 GUJARAT",
+    "STATE": "GUJARAT",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "AKT",
+    "CENTRE": "RAJKOT GUJRAT",
+    "DISTRICT": "RAJKOT GUJRAT",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
+  },
+  "UTKS0001635": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001635",
+    "MICR": "110762036",
+    "BRANCH": "KIRTI NAGAR",
+    "ADDRESS": "RUDFLRD-13KIRTINAGARNEWDELHI-110015",
+    "STATE": "DELHI",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "NEW DELHI",
+    "CENTRE": "KIRTI NAGAR NEW DELHI",
+    "DISTRICT": "KIRTI NAGAR NEW DELHI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
+  },
+  "UTKS0001636": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001636",
+    "MICR": "500762003",
+    "BRANCH": "KUKATPALLY HYDERABAD",
+    "ADDRESS": "I28SDLSIRD2LYYDDI572TLG",
+    "STATE": "TELANGANA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "YEAA",
+    "CENTRE": "KUKATPALLY HYDERABAD",
+    "DISTRICT": "KUKATPALLY HYDERABAD",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-TG"
+  },
+  "UTKS0001637": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001637",
+    "MICR": "110762037",
+    "BRANCH": "SOUTH EX.",
+    "ADDRESS": "-6GROUNDFLOORSOUTHEXTENSIONPART-1NEWELHI-110049",
+    "STATE": "DELHI",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "NEW DELHI",
+    "CENTRE": "SOUTH EX. NEW DELHI",
+    "DISTRICT": "SOUTH EX. NEW DELHI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
+  },
+  "UTKS0001638": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001638",
+    "MICR": "305762002",
+    "BRANCH": "AJMER",
+    "ADDRESS": "UPPER GROUND FLOOR PLOT NO.01 SITUATED AT DHOBI GHAT ANNA SAGAR CIRCULAR ROAD NEAR MASTERS ACADEMY CHRISTIAN GANJ VAISHALI NAGAR DIST - AJMER STATE-RAJASTHAN PIN-30500",
+    "STATE": "RAJASTHAN",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "JE",
+    "CENTRE": "AJMER RAJASTHAN",
+    "DISTRICT": "AJMER RAJASTHAN",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
+  },
+  "UTKS0001639": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001639",
+    "MICR": "400762014",
+    "BRANCH": "SANTACRUZ MUMBAI",
+    "ADDRESS": "GROUND FLOOR SHOP NO.4 ARUN CO-OP HOUSING SOCIETY 7TH ROAD SANTACRUZ EAST MUMBAI 400055",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "UBI",
+    "CENTRE": "SANTACRUZ MUMBAI",
+    "DISTRICT": "SANTACRUZ MUMBAI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
+  "UTKS0001640": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001640",
+    "MICR": "176762152",
+    "BRANCH": "KANGRA",
+    "ADDRESS": "GROUND FLOOR KHASRA NO-113 115 117 118 WARD NO-9 OPPOSITE GOVT.POLYTECHNIC DHARAMSHALA ROAD KANGRA HIMACHAL PRADESH-176001",
+    "STATE": "HIMACHAL PRADESH",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "KANGRA",
+    "CENTRE": "KANGRA HIMACHAL PRADESH",
+    "DISTRICT": "KANGRA HIMACHAL PRADESH",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-HP"
+  },
+  "UTKS0001641": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001641",
+    "MICR": "400762013",
+    "BRANCH": "DADAR WEST MUMBAI",
+    "ADDRESS": "SHOP NO 1 RAMSWARUP PALAI CO-OPERATIVE TOWER BHAVANI SHANKAR CROSS ROAD DADAR WEST MUMBAI 400028",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "MUMBAI",
+    "CENTRE": "DADAR WEST MUMBAI",
+    "DISTRICT": "DADAR WEST MUMBAI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
+  "UTKS0001642": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001642",
+    "MICR": "500762004",
+    "BRANCH": "DILSUKHNAGAR HYDERABAD",
+    "ADDRESS": "HOUSE NO.16-11-579/1 16-11-579/1/A GADDIANNARAM DILSUKNAGAR HYDERABAD 500 060",
+    "STATE": "TELANGANA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "YEAA",
+    "CENTRE": "DILSUKHNAGAR HYDERABAD",
+    "DISTRICT": "DILSUKHNAGAR HYDERABAD",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-TG"
+  },
+  "UTKS0001643": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001643",
+    "MICR": "700762009",
+    "BRANCH": "DUNLOP WEST BENGAL",
+    "ADDRESS": "109/A B.T.ROAD BARANAGAR (M) OPP.ISI MAIN GATE KOLKATA WEST BENGAL-700108",
+    "STATE": "WEST BENGAL",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "OKT",
+    "CENTRE": "KOLKATA",
+    "DISTRICT": "KOLKATA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
+  },
+  "UTKS0001644": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001644",
+    "MICR": "620762002",
+    "BRANCH": "TIRUCHIRAPALLI",
+    "ADDRESS": "BUILDING NO.-143 UPPER GROUND FLOOR LAKSHMI COMPLEX SALAI ROAD TIRUCHIRAPALLI DISTRICT - TIRUCHIRAPALLI STATE-TAMILNADU",
+    "STATE": "TAMIL NADU",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "UHPLL",
+    "CENTRE": "TIRUCHIRAPALLI",
+    "DISTRICT": "TIRUCHIRAPALLI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "UTKS0001801": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -10248,7 +11354,8 @@
     "DISTRICT": "JAMUI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001802": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -10265,7 +11372,8 @@
     "DISTRICT": "MUZAFFARPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001803": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -10282,7 +11390,8 @@
     "DISTRICT": "BALANGIR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001804": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -10299,7 +11408,8 @@
     "DISTRICT": "CHATRA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001805": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -10316,7 +11426,8 @@
     "DISTRICT": "PALAMU",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001806": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -10333,7 +11444,8 @@
     "DISTRICT": "KANDHAMAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001807": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -10350,7 +11462,8 @@
     "DISTRICT": "KALAHANDI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001808": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -10367,7 +11480,8 @@
     "DISTRICT": "GOPALGANJ",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001809": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -10384,7 +11498,8 @@
     "DISTRICT": "ARWAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001810": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -10401,7 +11516,8 @@
     "DISTRICT": "KALAHANDI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001811": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -10418,7 +11534,8 @@
     "DISTRICT": "KALAHANDI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001812": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -10435,7 +11552,8 @@
     "DISTRICT": "BARGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001813": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -10452,7 +11570,8 @@
     "DISTRICT": "PALAMU",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001814": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -10469,7 +11588,8 @@
     "DISTRICT": "ODISHA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001815": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -10486,7 +11606,8 @@
     "DISTRICT": "ODISHA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "UTKS0001816": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -10503,7 +11624,8 @@
     "DISTRICT": "JHARKHAND",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "UTKS0001817": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -10520,7 +11642,26 @@
     "DISTRICT": "PAIKAMAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
+  },
+  "UTKS0001818": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001818",
+    "MICR": "211762013",
+    "BRANCH": "JANGHAI",
+    "ADDRESS": "UTKARSH SMALL FINANCE BANK LTD.NH 26 BABA NAGAR ROAD NEAR RAILWAYCROSSING JANGHAI DISTRICT-PRAYAGRAJ ( ALLAHABAD ) UTTAR PRADESH PINCODE-212401",
+    "STATE": "UTTAR PRADESH",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "PRAYAGRAJ",
+    "CENTRE": "PRAYAGRAJ",
+    "DISTRICT": "PRAYAGRAJ",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001819": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -10537,7 +11678,8 @@
     "DISTRICT": "HARSIDHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "UTKS0001820": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -10554,7 +11696,8 @@
     "DISTRICT": "MAHARAJGANJ",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "UTKS0001821": {
     "BANK": "Utkarsh Small Finance Bank",
@@ -10571,6 +11714,727 @@
     "DISTRICT": "KHORDA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
+  },
+  "UTKS0001822": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001822",
+    "MICR": "274762108",
+    "BRANCH": "KHADDA",
+    "ADDRESS": "UTKARSH SMALL FINANCE BANK LTD.UPPER GROUND FLOOR NEAR STATE BANK OF INDIA KHADDA TEHSIL KHADDA DISTRICT-KUSHINAGAR UTTAR PRADESH PIN-274802",
+    "STATE": "UTTAR PRADESH",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "KUSHINAGAR",
+    "CENTRE": "KHADDA U.P.",
+    "DISTRICT": "KHADDA U.P.",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
+  },
+  "UTKS0001823": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001823",
+    "MICR": "273762254",
+    "BRANCH": "THUTHIBARI",
+    "ADDRESS": "TSMLLFINNCEBNLTD.FISTFLOOABOVEBITUTIBIDISTICT-MJGNJTTE-TTPDESPIN-273305",
+    "STATE": "UTTAR PRADESH",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "GN",
+    "CENTRE": "THUTHIBARI U.P.",
+    "DISTRICT": "THUTHIBARI U.P.",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
+  },
+  "UTKS0001824": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001824",
+    "MICR": "841762210",
+    "BRANCH": "HUSAINGANJ",
+    "ADDRESS": "UTKARSH SMALL FINANCE BANK LTD INFRONT OF M.S HIGH SCHOOL CUM INTER COLLEGE PO/PS-HUSAINGANJ DIST-SIWAN BIHAR PIN-841237",
+    "STATE": "BIHAR",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "IA",
+    "CENTRE": "HUSAINGANJ BIHAR",
+    "DISTRICT": "HUSAINGANJ BIHAR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
+  },
+  "UTKS0001825": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001825",
+    "MICR": "853762002",
+    "BRANCH": "NAUGACHHIYA",
+    "ADDRESS": "UTKARSH SMALL FINANCE BANK LTD.UPPER GROUND FLOOR BASANT LAL COMPLEX PS NAUGACHHIYA DISTRICT BHAGALPUR PIN CODE - 853204 BIHAR",
+    "STATE": "BIHAR",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "HGPR",
+    "CENTRE": "NAUGACHHIYA BIHAR",
+    "DISTRICT": "NAUGACHHIYA BIHAR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
+  },
+  "UTKS0001826": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001826",
+    "MICR": "822762107",
+    "BRANCH": "KHARAUNDHI",
+    "ADDRESS": "UTKARSH SMALL FINANCE BANK LTD UPPER GROUND FLOOR MAUZA CHANDANI KHARAUNDI DIST GARHWA JHARKHAND PIN 822112.",
+    "STATE": "JHARKHAND",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "AHA",
+    "CENTRE": "JHARKHAND",
+    "DISTRICT": "JHARKHAND",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
+  },
+  "UTKS0001827": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001827",
+    "MICR": "332762002",
+    "BRANCH": "SIKAR",
+    "ADDRESS": "GROUND FLOOR AYESHA PLAZA COMMERCIAL PLOT NO-477 A 484 A NEAR BALAJI DHARAKATA JAIPUR ROAD SIKAR DISTRICT-SIKAR RAJASTHAN PINCODE-332001",
+    "STATE": "RAJASTHAN",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "SIKAR",
+    "CENTRE": "SIKAR RAJASTHAN",
+    "DISTRICT": "SIKAR RAJASTHAN",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
+  },
+  "UTKS0001828": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001828",
+    "MICR": "303762002",
+    "BRANCH": "KOTPUTLI",
+    "ADDRESS": "GROUND FLOOR OMKAR PLAZA LAXMI NAGAR MORE N.H 8 KOTPUTLI DISTRICT - JAIPUR RAJASTHAN PINCODE-303108",
+    "STATE": "RAJASTHAN",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "JAIPUR",
+    "CENTRE": "KOTPUTLI JAIPUR",
+    "DISTRICT": "KOTPUTLI JAIPUR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
+  },
+  "UTKS0001829": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001829",
+    "MICR": "822762008",
+    "BRANCH": "MANATU",
+    "ADDRESS": "UTKARSH SMALL FINANCE BANK LTD.DALTONGANJ-GAYA ROAD NEAR DR DILIP KR CLINIC PO/PS-MANATU DISTRICT PALAMU JHARKHAND PIN CODE-822123",
+    "STATE": "JHARKHAND",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "AAU",
+    "CENTRE": "MANATU JHARKHAND",
+    "DISTRICT": "MANATU JHARKHAND",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
+  },
+  "UTKS0001830": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001830",
+    "MICR": "845762105",
+    "BRANCH": "CHAUTARWA",
+    "ADDRESS": "UTKARSH SMALL FINANCE BANK LTD.GROUND FLOOR BEHIND VIVEK DHRAM KANTA CHAUTARWA MAIN ROAD PO-PATILAR PS-CHAUTARWA DISTT.WEST CHAMPARAN PIN-845101",
+    "STATE": "BIHAR",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "HMR",
+    "CENTRE": "CHAUTARWA BIHAR",
+    "DISTRICT": "CHAUTARWA BIHAR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
+  },
+  "UTKS0001831": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001831",
+    "MICR": "845762106",
+    "BRANCH": "RAMNAGAR",
+    "ADDRESS": "UTKARSH SMALL FINANCE BANK LTD.GROUND FLOOR MOTI LAL CHAURASIYA COMPLEX P.O.- HARINAGAR P.S.- RAMNAGAR DISTT.-WEST CHAMPARAN BIHAR PIN-845103",
+    "STATE": "BIHAR",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "HMR",
+    "CENTRE": "RAMNAGAR BIHAR",
+    "DISTRICT": "RAMNAGAR BIHAR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
+  },
+  "UTKS0001832": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001832",
+    "MICR": "816762002",
+    "BRANCH": "PAKURIA",
+    "ADDRESS": "UTKARSH SMALL FINANCE BANK LTD.DUMKA ROAD SIDHU KANU CHOWK NEAR JIO OFFICE PAKURIA DISTRICT - PAKUR JHARKHAND PIN CODE-816117",
+    "STATE": "JHARKHAND",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "AU",
+    "CENTRE": "PAKURIA JHARKHAND",
+    "DISTRICT": "PAKURIA JHARKHAND",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
+  },
+  "UTKS0001833": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001833",
+    "MICR": "321762002",
+    "BRANCH": "BAYANA",
+    "ADDRESS": "UTKARSH SMALL FINANCE BANK LTD UPPER GROUND FLOOR MAHARISHI DAYANAND PLAZA BLOCK NO.6 NEAR AXIS BANK GRAM& TEHSIL-BAYANA DISTRICT - BHARATPUR RAJASTHAN PINCODE-321401",
+    "STATE": "RAJASTHAN",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "HRPR",
+    "CENTRE": "BAYANA RAJASTHAN",
+    "DISTRICT": "BAYANA RAJASTHAN",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
+  },
+  "UTKS0001834": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001834",
+    "MICR": "768762305",
+    "BRANCH": "PADMAPUR",
+    "ADDRESS": "UTKARSH SMALL FINANCE BANK LTD.PASANAR ROAD MAITRI NAGAR IN FRONT OF ICICI BANK PADMAPUR DISTRICT-BARGARH ODISHA-768036",
+    "STATE": "ODISHA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "BARGARH",
+    "CENTRE": "PADMAPUR ODISHA",
+    "DISTRICT": "PADMAPUR ODISHA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
+  },
+  "UTKS0001835": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001835",
+    "MICR": "752762006",
+    "BRANCH": "CHANDANPUR",
+    "ADDRESS": "UTKARSH SMALL FINANCE BANK LTD.IN FRONT OF UCO BANK NEW JAGARNATH RADAK NEAR COMMUNITY HEALTH CENTER CHANDANPUR DISTRICT-PURI ODISHA 752012",
+    "STATE": "ODISHA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "PURI",
+    "CENTRE": "CHANDANPUR ODISHA",
+    "DISTRICT": "CHANDANPUR ODISHA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
+  },
+  "UTKS0001836": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001836",
+    "MICR": "224762303",
+    "BRANCH": "JALALPUR AMBEDKAR NAGAR",
+    "ADDRESS": "TSMLLFINNCEBNPPEGOUNDFLOOMUZFIDPURMGRODJLLPUDIST.-AMBEDNGPPIN-224149",
+    "STATE": "UTTAR PRADESH",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "MEKRNGR",
+    "CENTRE": "JALALPUR U.P.",
+    "DISTRICT": "JALALPUR U.P.",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
+  },
+  "UTKS0001837": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001837",
+    "MICR": "764762302",
+    "BRANCH": "MALKANGIRI",
+    "ADDRESS": "UTKARSH SMALL FINANCE BANK LTD.FIRST FLOOR S.P.OFFICE DNK MAIN ROAD NEAR DCB BANK DISTRICT -MALKANGIRI ODISHA PIN CODE -764045",
+    "STATE": "ODISHA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "MALKANGIRI",
+    "CENTRE": "MALKANGIRI ODISHA",
+    "DISTRICT": "MALKANGIRI ODISHA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
+  },
+  "UTKS0001838": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001838",
+    "MICR": "814762204",
+    "BRANCH": "MEHERMA",
+    "ADDRESS": "UTKARSH SMALL FINANCE BANK LTD.UPPER GROUND FLOOR PIRPATI ROAD NEAR POST OFFICE DHARMDEV COMPLEX MEHERMA DISTRICT - GODDA STATE - JHARKHAND PIN - 814160",
+    "STATE": "JHARKHAND",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "GODDA",
+    "CENTRE": "MEHERMA JHARKHAND",
+    "DISTRICT": "MEHERMA JHARKHAND",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
+  },
+  "UTKS0001839": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001839",
+    "MICR": "304762003",
+    "BRANCH": "NIWAI",
+    "ADDRESS": "UTKARSH SMALL FINANCE BANK LTD.UPPER GROUND FLOOR PLOT NO - 6 DEEN DAYAL NAGAR BLOCK - E JHILAY ROAD NEAR AXIS BANK NIWAI DISTRICT - TONK RAJASTHAN - 304021",
+    "STATE": "RAJASTHAN",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "OK",
+    "CENTRE": "NIWAI RAJASTHAN",
+    "DISTRICT": "NIWAI RAJASTHAN",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
+  },
+  "UTKS0001840": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001840",
+    "MICR": "304762002",
+    "BRANCH": "TONK",
+    "ADDRESS": "UTKARSH SMALL FINANCE BANK LTD.UPPER GROUND FLOOR PLOT NO 13 NEAR HERO SHOW ROOM SAWAI MADHOPUR ROAD TONK DISTRICT - TONK RAJASTHAN PINCODE-304001",
+    "STATE": "RAJASTHAN",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "OK",
+    "CENTRE": "TONK RAJASTHAN",
+    "DISTRICT": "TONK RAJASTHAN",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
+  },
+  "UTKS0001841": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001841",
+    "MICR": "303762003",
+    "BRANCH": "PHULERA",
+    "ADDRESS": "UTKARSH SMALL FINANCE BANK LTD.GROUND FLOOR PLOT NO 23 R NEW COLONY WARD NO.-7 NEW WARD NO.10 PHULERA DISTRICT JAIPUR RAJASTHAN PINCODE-303338",
+    "STATE": "RAJASTHAN",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "APR",
+    "CENTRE": "PHULERA RAJASTHAN",
+    "DISTRICT": "PHULERA RAJASTHAN",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
+  },
+  "UTKS0001842": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001842",
+    "MICR": "768762306",
+    "BRANCH": "BARGARH",
+    "ADDRESS": "TAMAIAEBAIMITED.ATIONALIGHWAYOADPHOLODEVIAPARTMENTPOPBARGARHDISTRICT-BARGARHODISHA768028",
+    "STATE": "ODISHA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "GH",
+    "CENTRE": "BARGARH ODISHA",
+    "DISTRICT": "BARGARH ODISHA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
+  },
+  "UTKS0001843": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001843",
+    "MICR": "273762008",
+    "BRANCH": "KUSMI BAZAR",
+    "ADDRESS": "UTKARSH SMALL FINANCE BANK LTD.UPPER GROUND FLOOR KUSMI BAZAR NAYI BASTI KASYA ROAD TEHSIL - SADAR DIST.- GORAKHPUR UTTAR PRADESH PIN - 273002",
+    "STATE": "UTTAR PRADESH",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "OAHU",
+    "CENTRE": "KUSMI BAZAR UTTAR PRADESH",
+    "DISTRICT": "KUSMI BAZAR UTTAR PRADESH",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
+  },
+  "UTKS0001844": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001844",
+    "MICR": "274762110",
+    "BRANCH": "FAZIL NAGAR",
+    "ADDRESS": "MCBT.GNH-8FFTACBCMZN.-PP-70.",
+    "STATE": "UTTAR PRADESH",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "KUSHINAGAR",
+    "CENTRE": "FAZIL NAGAR U.P.",
+    "DISTRICT": "FAZIL NAGAR U.P.",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
+  },
+  "UTKS0001845": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001845",
+    "MICR": "841762012",
+    "BRANCH": "CHIRAND DORIGANJ",
+    "ADDRESS": "UTKARSH SMALL FINANCE BANK LTD.UPPER GROUND FLOOR INFRONT OF MIDDLE SCHOOL CHIRAND THANA - DORIGANJ DIST.-SARAN BIHAR",
+    "STATE": "BIHAR",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "SARAN BIHAR",
+    "CENTRE": "CHIRAND DORIGANJ",
+    "DISTRICT": "CHIRAND DORIGANJ",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
+  },
+  "UTKS0001846": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001846",
+    "MICR": "332762003",
+    "BRANCH": "NEEM-KA-THANA",
+    "ADDRESS": "UTKARSH SMALL FINANCE BANK GROUND FLOOR COMMERCIAL PLOT NO 11 WARD NO.4 SHAHPURA ROAD NEEM KA THANA DISTRICT SIKAR RAJASTHAN",
+    "STATE": "RAJASTHAN",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "SIKAR RAJASTHAN",
+    "CENTRE": "NEEM-KA-THANA",
+    "DISTRICT": "NEEM-KA-THANA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
+  },
+  "UTKS0001847": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001847",
+    "MICR": "824762008",
+    "BRANCH": "NABINAGAR",
+    "ADDRESS": "UTKARSH SMALL FINANCE BANK LTD.UPPER GROUND FLOOR NEAR PANJAB NATIONAL BANK MAUZA NABI NAGAR DISTRICT AURANGABAD BIHAR",
+    "STATE": "BIHAR",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "AURANGABAD BIHAR",
+    "CENTRE": "MAUZA NABI NAGAR NABINAGAR",
+    "DISTRICT": "MAUZA NABI NAGAR NABINAGAR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
+  },
+  "UTKS0001848": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001848",
+    "MICR": "813762004",
+    "BRANCH": "SANGRAMPUR",
+    "ADDRESS": "UTKARSH SMALL FINANCE BANK LTD.GROUND FLOOR SULTANGANJ - DEOGHAR ROAD NEAR BUS STAND SANGRAMPUR DISTRICT -MUNGER",
+    "STATE": "BIHAR",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "MUNGER BIHAR",
+    "CENTRE": "SANGRAMPUR BIHAR",
+    "DISTRICT": "SANGRAMPUR BIHAR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
+  },
+  "UTKS0001849": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001849",
+    "MICR": "815762008",
+    "BRANCH": "TISRI",
+    "ADDRESS": "UTKARSH SMALL FINANCE BANK LTD.GROUND FLOOR NEARBY GOLDEN FUTURE PUBLIC SCHOOL RAGHAWAN (GAWAN) ROAD TISRI",
+    "STATE": "JHARKHAND",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "GIRIDIH",
+    "CENTRE": "TISRI JHARKHAND",
+    "DISTRICT": "TISRI JHARKHAND",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
+  },
+  "UTKS0001850": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001850",
+    "MICR": "841762106",
+    "BRANCH": "SASAMUSA",
+    "ADDRESS": "UTKARSH SMALL FINANCE BANK LIMITED PRIYA CLINICAL HOME BAGHAUCH ROAD KHAJURI SASAMUSA",
+    "STATE": "BIHAR",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "GOPALGANJ",
+    "CENTRE": "SASAMUSA BIHAR",
+    "DISTRICT": "SASAMUSA BIHAR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
+  },
+  "UTKS0001851": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001851",
+    "MICR": "843762005",
+    "BRANCH": "SAHEBGANJ",
+    "ADDRESS": "TAMAIAEBAIMITED-74MUZAFFARPUROADESHARHOWKAHEBGANJ",
+    "STATE": "BIHAR",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "MUZAFFARPUR BIHAR",
+    "CENTRE": "SAHEBGANJ BIHAR",
+    "DISTRICT": "SAHEBGANJ BIHAR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
+  },
+  "UTKS0001852": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001852",
+    "MICR": "845762010",
+    "BRANCH": "SHAMPUR",
+    "ADDRESS": "UTKARSH SMALL FINANCE BANK LIMITED THANA ROAD SHAMPUR RAILWAY DHALA SHAMPUR",
+    "STATE": "BIHAR",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "CHAMPARAN BIHAR",
+    "CENTRE": "SHAMPUR BIHAR",
+    "DISTRICT": "SHAMPUR BIHAR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
+  },
+  "UTKS0001853": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001853",
+    "MICR": "845762107",
+    "BRANCH": "SANTGHAT-BETTIAH",
+    "ADDRESS": "UTKARSH SMALL FINANCE BANK LIMITED SANTGHAT POST SANTGHAT SANTGHAT",
+    "STATE": "BIHAR",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "WEST CHAMPARAN BIHAR",
+    "CENTRE": "SANTGHAT-BETTIAH BIHAR",
+    "DISTRICT": "SANTGHAT-BETTIAH BIHAR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
+  },
+  "UTKS0001854": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001854",
+    "MICR": "845762108",
+    "BRANCH": "BALTHAR BIHAR",
+    "ADDRESS": "UTKARSH SMALL FINANCE BANK LIMITED BALTHAR POST BHAWARA BALTHAR",
+    "STATE": "BIHAR",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "WEST CHAMPARAN BIHAR",
+    "CENTRE": "BALTHAR BIHAR",
+    "DISTRICT": "BALTHAR BIHAR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
+  },
+  "UTKS0001855": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001855",
+    "MICR": "845762109",
+    "BRANCH": "FATEHPUR WEST CHAMPARAN",
+    "ADDRESS": "UTKARSH SMALL FINANCE BANK LIMITED FATEHPUR POST-JOGAPATTI",
+    "STATE": "BIHAR",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "ETCHAMPARANBIHAR",
+    "CENTRE": "FATEHPUR WEST CHAMPARAN",
+    "DISTRICT": "FATEHPUR WEST CHAMPARAN",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
+  },
+  "UTKS0001856": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001856",
+    "MICR": "845762110",
+    "BRANCH": "NAUTAN BETTIAH",
+    "ADDRESS": "TAMAIAEBAIMITEDAUTAN",
+    "STATE": "BIHAR",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "WEST CHAMPARAN BIHAR",
+    "CENTRE": "NAUTAN BETTIAH",
+    "DISTRICT": "NAUTAN BETTIAH",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
+  },
+  "UTKS0001857": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001857",
+    "MICR": "305762003",
+    "BRANCH": "VIJAINAGAR",
+    "ADDRESS": "UTKARSH SMALL FINANCE BANK LTD.GROUND FLOOR PLOT NO.1 WARD NO.3 BEAWER ROAD TEHSIL-MASUDA ( VIJAINAGAR ) DISTRICT-AJMER RAJASTHAN PINCODE-305624",
+    "STATE": "RAJASTHAN",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "AJMER",
+    "CENTRE": "AJMER",
+    "DISTRICT": "AJMER",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
+  },
+  "UTKS0001858": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001858",
+    "MICR": "841762107",
+    "BRANCH": "PACHDEURI",
+    "ADDRESS": "UTKARSH SMALL FINANCE BANK LTD.JAMUNAHA ROAD INFRONT OF PANI TANKI MAIN MARKET PACHDEURI DISTRICT-GOPALGANJ BIHAR 841437",
+    "STATE": "BIHAR",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "GOPALGANJ",
+    "CENTRE": "GOPALGANJ",
+    "DISTRICT": "GOPALGANJ",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
+  },
+  "UTKS0001859": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001859",
+    "MICR": "273762010",
+    "BRANCH": "NAUSADH",
+    "ADDRESS": "UTKARSH SMALL FINANCE BANK LTD. UPPER GROUND FLOOR VARANASI ROAD NEAR BAGHA BABA PLACE NAUSAD DISTRICT-GORAKHPUR UTTAR PRADESH PIN CODE-273001",
+    "STATE": "UTTAR PRADESH",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "GORAKHPUR",
+    "CENTRE": "GORAKHPUR",
+    "DISTRICT": "GORAKHPUR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
+  },
+  "UTKS0001860": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001860",
+    "MICR": "822762108",
+    "BRANCH": "BISHUNPURA",
+    "ADDRESS": "UTKARSH SMALL FINANCE BANK LTD. GROUND FLOOR RAMNA-MAJIYAANV ROAD NEAR JHARKHAND RAJYA GRAMEEN BANK VILLAGE PO PS BISHUNPURA DISTRICT GARHWA JHARKHAND PIN - 822128",
+    "STATE": "JHARKHAND",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "GARHWA",
+    "CENTRE": "BISHUNPURA",
+    "DISTRICT": "BISHUNPURA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
+  },
+  "UTKS0001861": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001861",
+    "MICR": "276762005",
+    "BRANCH": "JIYANPUR",
+    "ADDRESS": "UTKARSH SMALL FINANCE BANK LTD.GROUND FLOOR VILLAGE-JIYANPUR HASANPATI BILARIYAGANJ ROAD NEAR SABZI MANDI DISTRICT-AZAMGARH UTTAR PRADESH PIN CODE-276140",
+    "STATE": "UTTAR PRADESH",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "AZAMGARH",
+    "CENTRE": "AZAMGARH",
+    "DISTRICT": "AZAMGARH",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   }
 }

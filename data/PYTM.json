@@ -5,16 +5,17 @@
     "BRANCH": "Paytm Payments Bank IMPS",
     "CENTRE": "Gautam Buddh Nagar",
     "DISTRICT": "Gautam Buddh Nagar",
-    "STATE": "UTTAR PRADESH",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "B-121,Sector-5,Noida-201301",
     "CONTACT": "+911133996699",
     "IMPS": true,
-    "CITY": "NOIDA",
+    "CITY": "MUMBAI",
     "UPI": true,
     "MICR": null,
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "PYTM00000SC": {
     "BANK": "Paytm Payments Bank",
@@ -31,7 +32,8 @@
     "DISTRICT": "NOIDA",
     "NEFT": false,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "PYTM0123456": {
     "BANK": "Paytm Payments Bank",
@@ -48,6 +50,7 @@
     "DISTRICT": "Gautam Buddh Nagar",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   }
 }

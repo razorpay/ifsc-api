@@ -14,7 +14,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "TNSC0010000": {
     "BANK": "Coimbatore District Central Co-operative Bank",
@@ -22,16 +23,17 @@
     "BRANCH": "Coimbatore District Central Co-operative Bank IMPS",
     "CENTRE": "COIMBATORE",
     "DISTRICT": "COIMBATORE",
-    "STATE": "TAMIL NADU",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "80,BANK ROAD,COIMBATORE - 641018",
     "CONTACT": "+914222302447",
     "IMPS": true,
-    "CITY": "COIMBATORE",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": "641464002",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "TNSC0010100": {
     "BANK": "Dharmapuri District Central Co-operative Bank",
@@ -39,16 +41,17 @@
     "BRANCH": "Dharmapuri District Central Co-operative Bank IMPS",
     "CENTRE": "DHARMAPURI",
     "DISTRICT": "DHARMAPURI",
-    "STATE": "TAMIL NADU",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "81/10H,NETHAJI BYE-PASS ROAD,DHARMAPURI-636 701",
     "CONTACT": "+914342260051",
     "IMPS": true,
-    "CITY": "DHARMAPURI",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": "636800002",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "TNSC0010200": {
     "BANK": "Kancheepuram Central Co-operative Bank",
@@ -56,16 +59,17 @@
     "BRANCH": "Kancheepuram Central Co-operative Bank IMPS",
     "CENTRE": "KANCHIPURAM",
     "DISTRICT": "KANCHIPURAM",
-    "STATE": "TAMIL NADU",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "15-G,SHEIKPET NORTH STREET,KANCHIPURAM-631 501",
     "CONTACT": "+914427222296",
     "IMPS": true,
-    "CITY": "KANCHIPURAM",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": "600091276",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "TNSC0010300": {
     "BANK": "Kanyakumari District Central Co-operative Bank",
@@ -73,16 +77,17 @@
     "BRANCH": "Kanyakumari District Central Co-operative Bank IMPS",
     "CENTRE": "KANYAKUMARI",
     "DISTRICT": "KANYAKUMARI",
-    "STATE": "TAMIL NADU",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "ALEXANDER PRESS ROAD,NAGERCOIL-629001",
     "CONTACT": "+914652233384",
     "IMPS": true,
-    "CITY": "NAGERCOIL",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": "629800002",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "TNSC0010400": {
     "BANK": "Kumbakonam Central Co-operative Bank",
@@ -90,16 +95,17 @@
     "BRANCH": "Kumbakonam Central Co-operative Bank IMPS",
     "CENTRE": "THANJAVUR",
     "DISTRICT": "THANJAVUR",
-    "STATE": "TAMIL NADU",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "2,T.S.R.BIG STREET,KUMBAKONAM-612 001",
     "CONTACT": "+914352430073",
     "IMPS": true,
-    "CITY": "KUMBAKONAM",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": "612800002",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "TNSC0010500": {
     "BANK": "Chennai Central Co-operative Bank",
@@ -107,16 +113,17 @@
     "BRANCH": "Chennai Central Co-operative Bank IMPS",
     "CENTRE": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "215,PRAKASAM SALAI,CHENNAI - 600 108",
     "CONTACT": "+914423458708",
     "IMPS": true,
-    "CITY": "CHENNAI",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": "600092002",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "TNSC0010600": {
     "BANK": "Madurai District Central Co-operative Bank",
@@ -124,16 +131,17 @@
     "BRANCH": "Madurai District Central Co-operative Bank IMPS",
     "CENTRE": "MADURAI",
     "DISTRICT": "MADURAI",
-    "STATE": "TAMIL NADU",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "187,NORTH VELI STREET,MADURAI - 625 001",
     "CONTACT": "+914522342051",
     "IMPS": true,
-    "CITY": "MADURAI",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": "625306002",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "TNSC0010700": {
     "BANK": "Nilgiris District Central Co-operative Bank",
@@ -141,16 +149,17 @@
     "BRANCH": "Nilgiris District Central Co-operative Bank IMPS",
     "CENTRE": "NILGIRIS",
     "DISTRICT": "NILGIRIS",
-    "STATE": "TAMIL NADU",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "CHARRING CROSS,UDHAGAMANDALAM-643 001",
     "CONTACT": "+914232443978",
     "IMPS": true,
-    "CITY": "UDHAGAMANDALAM",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": "643800002",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "TNSC0010800": {
     "BANK": "Erode District Central Co-operative Bank",
@@ -158,16 +167,17 @@
     "BRANCH": "Erode District Central Co-operative Bank IMPS",
     "CENTRE": "ERODE",
     "DISTRICT": "ERODE",
-    "STATE": "TAMIL NADU",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "BHAVANI MAIN ROAD,ERODE - 638 003",
     "CONTACT": "+914242213401",
     "IMPS": true,
-    "CITY": "ERODE",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": "638572002",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "TNSC0010900": {
     "BANK": "Pudukottai District Central Co-operative Bank",
@@ -175,16 +185,17 @@
     "BRANCH": "Pudukottai District Central Co-operative Bank IMPS",
     "CENTRE": "PUDUKKOTTAI",
     "DISTRICT": "PUDUKKOTTAI",
-    "STATE": "TAMIL NADU",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "834-836,EAST MAIN STREET,PUDUKKOTTAI-622 001",
     "CONTACT": "+914322222389",
     "IMPS": true,
-    "CITY": "PUDUKKOTTAI",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": "622800002",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "TNSC0011000": {
     "BANK": "Ramanathapuram District Central Co-operative Bank",
@@ -192,16 +203,17 @@
     "BRANCH": "Ramanathapuram District Central Co-operative Bank IMPS",
     "CENTRE": "RAMANATHAPURAM",
     "DISTRICT": "RAMANATHAPURAM",
-    "STATE": "TAMIL NADU",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "265-E,VANDIKARA STREET,RAMANATHAPURAM-623 501",
     "CONTACT": "+914567220149",
     "IMPS": true,
-    "CITY": "RAMANATHAPURAM",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": "623800002",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "TNSC0011100": {
     "BANK": "Salem District Central Co-operative Bank",
@@ -209,16 +221,17 @@
     "BRANCH": "Salem District Central Co-operative Bank IMPS",
     "CENTRE": "SALEM",
     "DISTRICT": "SALEM",
-    "STATE": "TAMIL NADU",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "153/65-A,CHERRY ROAD,SALEM - 636 001",
     "CONTACT": "+914272451761",
     "IMPS": true,
-    "CITY": "SALEM",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": "636624002",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "TNSC0011200": {
     "BANK": "Cuddalore District Central Co-operative Bank",
@@ -226,16 +239,17 @@
     "BRANCH": "Cuddalore District Central Co-operative Bank IMPS",
     "CENTRE": "CUDDALORE",
     "DISTRICT": "CUDDALORE",
-    "STATE": "TAMIL NADU",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "BEACH ROAD,CUDDALORE - 607 001",
     "CONTACT": "+914142295911",
     "IMPS": true,
-    "CITY": "CUDDALORE",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": "607816002",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "TNSC0011300": {
     "BANK": "Thanjavur Central Co-operative Bank",
@@ -243,16 +257,17 @@
     "BRANCH": "Thanjavur Central Co-operative Bank IMPS",
     "CENTRE": "THANJAVUR",
     "DISTRICT": "THANJAVUR",
-    "STATE": "TAMIL NADU",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "331,MELA VEETHI,THANJAVUR - 613 009",
     "CONTACT": "+914362223322",
     "IMPS": true,
-    "CITY": "THANJAVUR",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": "613800002",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "TNSC0011400": {
     "BANK": "Tiruchirapalli Dist. Cent Co-operative Bank",
@@ -260,16 +275,17 @@
     "BRANCH": "Tiruchirapalli Dist. Cent Co-operative Bank IMPS",
     "CENTRE": "TIRUCHIRAPALLI",
     "DISTRICT": "TIRUCHIRAPALLI",
-    "STATE": "TAMIL NADU",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "NO.1,FORT STATION ROAD,TEPPAKULAM,TIRUCHIRAPALLI-620002",
     "CONTACT": "+914312702441",
     "IMPS": true,
-    "CITY": "TIRUCHIRAPALLI",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": "620547002",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "TNSC0011500": {
     "BANK": "Tirunelveli District Central Co-operative Bank",
@@ -277,16 +293,17 @@
     "BRANCH": "Tirunelveli District Central Co-operative Bank IMPS",
     "CENTRE": "TIRUNELVELI",
     "DISTRICT": "TIRUNELVELI",
-    "STATE": "TAMIL NADU",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "TRIVANDRUM ROAD,VANNARPET,TIRUNELVELI - 627003",
     "CONTACT": "+914622500281",
     "IMPS": true,
-    "CITY": "TIRUNELVELI",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": "627803002",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "TNSC0011600": {
     "BANK": "Vellore District Central Co-operative Bank",
@@ -294,16 +311,17 @@
     "BRANCH": "Vellore District Central Co-operative Bank IMPS",
     "CENTRE": "VELLORE",
     "DISTRICT": "VELLORE",
-    "STATE": "TAMIL NADU",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "NO.3,OFFICERS LINE,VELLORE - 632 001",
     "CONTACT": "+914162220522",
     "IMPS": true,
-    "CITY": "VELLORE",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": "632800002",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "TNSC0011700": {
     "BANK": "Dindigul Central Co-operative Bank",
@@ -311,16 +329,17 @@
     "BRANCH": "Dindigul Central Co-operative Bank IMPS",
     "CENTRE": "DINDIGUL",
     "DISTRICT": "DINDIGUL",
-    "STATE": "TAMIL NADU",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "COOP.NAGAR,TIRUCHI ROAD,DINDIGUL - 624 005",
     "CONTACT": "+914512433153",
     "IMPS": true,
-    "CITY": "DINDIGUL",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": "625800001",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "TNSC0011800": {
     "BANK": "Virudhunagar District Central Co-operative Bank",
@@ -328,16 +347,17 @@
     "BRANCH": "Virudhunagar District Central Co-operative Bank IMPS",
     "CENTRE": "VIRUDHUNAGAR",
     "DISTRICT": "VIRUDHUNAGAR",
-    "STATE": "TAMIL NADU",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "104/1,MADURAI ROAD,VIRUDHUNAGAR - 626 001",
     "CONTACT": "+914562245815",
     "IMPS": true,
-    "CITY": "VIRUDHUNAGAR",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": "626800002",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "TNSC0011900": {
     "BANK": "Sivagangai District Central Co-operative Bank",
@@ -345,16 +365,17 @@
     "BRANCH": "Sivagangai District Central Co-operative Bank IMPS",
     "CENTRE": "SIVAGANGAI",
     "DISTRICT": "SIVAGANGAI",
-    "STATE": "TAMIL NADU",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "163,GANDHI STREET,SIVAGANGAI - 630 561",
     "CONTACT": "+914575240645",
     "IMPS": true,
-    "CITY": "SIVAGANGAI",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": "630800002",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "TNSC0012000": {
     "BANK": "Thiruvannamalai District Central Co-operative Bank",
@@ -362,16 +383,17 @@
     "BRANCH": "Thiruvannamalai District Central Co-operative Bank IMPS",
     "CENTRE": "TIRUVANNAMALAI",
     "DISTRICT": "TIRUVANNAMALAI",
-    "STATE": "TAMIL NADU",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "9,6TH STREET,GANDHI NAGAR,TIRUVANNAMALAI - 606 601",
     "CONTACT": "+914175224331",
     "IMPS": true,
-    "CITY": "TIRUVANNAMALAI",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": "606800002",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "TNSC0012100": {
     "BANK": "Thoothukudi District Central Co-operative Bank",
@@ -379,16 +401,17 @@
     "BRANCH": "Thoothukudi District Central Co-operative Bank IMPS",
     "CENTRE": "THOOTHUKUDI",
     "DISTRICT": "THOOTHUKUDI",
-    "STATE": "TAMIL NADU",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "109/5D,ETTAYAPURAM ROAD,POLEPETTAI,THOOTHUKUDI-628002",
     "CONTACT": "+914612347604",
     "IMPS": true,
-    "CITY": "THOOTHUKUDI",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": "627805002",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "TNSC0012200": {
     "BANK": "Villupuram District Central Co-operative Bank",
@@ -396,16 +419,17 @@
     "BRANCH": "Villupuram District Central Co-operative Bank IMPS",
     "CENTRE": "VILLUPURAM",
     "DISTRICT": "VILLUPURAM",
-    "STATE": "TAMIL NADU",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "2,HOSPITAL ROAD,VILLUPURAM-605 602",
     "CONTACT": "+914146224803",
     "IMPS": true,
-    "CITY": "VILLUPURAM",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": "605800002",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "TNSC0015000": {
     "BANK": "Tamilnadu Industrial Co-operative Bank",
@@ -413,16 +437,17 @@
     "BRANCH": "Tamilnadu Industrial Co-operative Bank IMPS",
     "CENTRE": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "36,SOUTH CANAL BANK ROAD RAJAANNAMALAIPURAM MANDAVELIPAKKAM CHENNAI - 600028",
     "CONTACT": "+914424951509",
     "IMPS": true,
-    "CITY": "CHENNAI",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": "600411001",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "TNSC0099999": {
     "BANK": "Tamilnadu State Apex Co-operative Bank",
@@ -430,16 +455,17 @@
     "BRANCH": "Tamilnadu State Apex Co-operative Bank IMPS",
     "CENTRE": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "STATE": "TAMIL NADU",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "233,N.S.C BOSE ROAD CHENNAI 600001",
     "CONTACT": "+914425340973",
     "IMPS": true,
-    "CITY": "CHENNAI",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": "600091001",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "TNSC0160101": {
     "BANK": "Pondicherry State Co-operative Bank",
@@ -447,16 +473,17 @@
     "BRANCH": "Pondicherry State Co-operative Bank IMPS",
     "CENTRE": "PUDUCHERRY",
     "DISTRICT": "PUDUCHERRY",
-    "STATE": "PUDUCHERRY",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "204,EAST COAST ROAD,OLANDAIKEERAPALAYAM,MUDALIARPET POST,PUDUCHERRY - 605 004",
     "CONTACT": "+914132285303",
     "IMPS": true,
-    "CITY": "PUDUCHERRY",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": "605632001",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "TNSC0NEFTSC": {
     "BANK": "Tamilnadu State Apex Co-operative Bank",
@@ -473,6 +500,7 @@
     "DISTRICT": "CHENNAI",
     "NEFT": false,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   }
 }

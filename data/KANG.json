@@ -5,16 +5,17 @@
     "BRANCH": "Kangra Co-operative Bank IMPS",
     "CENTRE": "DELHI",
     "DISTRICT": "DELHI",
-    "STATE": "DELHI",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "THE KANGRA COOPERATIVE BANK LTD, KANGRA BHAWAN, 1916, CHUNA MANDI , PAHARGANJ, NEW DELHI -110055",
     "CONTACT": "+919013568412",
     "IMPS": true,
-    "CITY": "DELHI",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": "110304001",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "KANG0000002": {
     "BANK": "Kangra Co-operative Bank",
@@ -31,7 +32,8 @@
     "DISTRICT": "DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "KANG0000003": {
     "BANK": "Kangra Co-operative Bank",
@@ -48,7 +50,8 @@
     "DISTRICT": "DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "KANG0000004": {
     "BANK": "Kangra Co-operative Bank",
@@ -65,7 +68,8 @@
     "DISTRICT": "DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "KANG0000005": {
     "BANK": "Kangra Co-operative Bank",
@@ -82,7 +86,8 @@
     "DISTRICT": "DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "KANG0000006": {
     "BANK": "Kangra Co-operative Bank",
@@ -99,7 +104,8 @@
     "DISTRICT": "DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "KANG0000007": {
     "BANK": "Kangra Co-operative Bank",
@@ -116,7 +122,8 @@
     "DISTRICT": "DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "KANG0000008": {
     "BANK": "Kangra Co-operative Bank",
@@ -133,7 +140,8 @@
     "DISTRICT": "DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "KANG0000009": {
     "BANK": "Kangra Co-operative Bank",
@@ -150,7 +158,8 @@
     "DISTRICT": "DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "KANG0000010": {
     "BANK": "Kangra Co-operative Bank",
@@ -167,7 +176,8 @@
     "DISTRICT": "NEW DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "KANG0000011": {
     "BANK": "Kangra Co-operative Bank",
@@ -184,7 +194,8 @@
     "DISTRICT": "CENTRAL DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "KANG0000012": {
     "BANK": "Kangra Co-operative Bank",
@@ -201,6 +212,7 @@
     "DISTRICT": "DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   }
 }

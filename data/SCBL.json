@@ -14,7 +14,8 @@
     "MICR": "400036010",
     "RTGS": true,
     "NEFT": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "SCBL0036002": {
     "BANK": "Standard Chartered Bank",
@@ -31,7 +32,8 @@
     "DISTRICT": "KOLKATA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "SCBL0036003": {
     "BANK": "Standard Chartered Bank",
@@ -48,7 +50,8 @@
     "DISTRICT": "KOLKATA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "SCBL0036004": {
     "BANK": "Standard Chartered Bank",
@@ -65,7 +68,8 @@
     "DISTRICT": "KOLKATA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "SCBL0036005": {
     "BANK": "Standard Chartered Bank",
@@ -82,7 +86,8 @@
     "DISTRICT": "KOLKATA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "SCBL0036006": {
     "BANK": "Standard Chartered Bank",
@@ -99,7 +104,8 @@
     "DISTRICT": "KOLKATA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "SCBL0036007": {
     "BANK": "Standard Chartered Bank",
@@ -116,7 +122,8 @@
     "DISTRICT": "KOLKATA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "SCBL0036008": {
     "BANK": "Standard Chartered Bank",
@@ -133,7 +140,8 @@
     "DISTRICT": "KOLKATA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "SCBL0036009": {
     "BANK": "Standard Chartered Bank",
@@ -150,7 +158,8 @@
     "DISTRICT": "KOLKATA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "SCBL0036010": {
     "BANK": "Standard Chartered Bank",
@@ -167,7 +176,8 @@
     "DISTRICT": "KOLKATA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "SCBL0036011": {
     "BANK": "Standard Chartered Bank",
@@ -184,7 +194,8 @@
     "DISTRICT": "KOLKATA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "SCBL0036012": {
     "BANK": "Standard Chartered Bank",
@@ -201,7 +212,8 @@
     "DISTRICT": "KOLKATA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "SCBL0036013": {
     "BANK": "Standard Chartered Bank",
@@ -218,7 +230,8 @@
     "DISTRICT": "KOLKATA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "SCBL0036014": {
     "BANK": "Standard Chartered Bank",
@@ -235,7 +248,8 @@
     "DISTRICT": "KOLKATA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "SCBL0036015": {
     "BANK": "Standard Chartered Bank",
@@ -252,7 +266,8 @@
     "DISTRICT": "KOLKATA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "SCBL0036016": {
     "BANK": "Standard Chartered Bank",
@@ -269,7 +284,8 @@
     "DISTRICT": "KAMRUP",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-AS"
   },
   "SCBL0036017": {
     "BANK": "Standard Chartered Bank",
@@ -286,24 +302,26 @@
     "DISTRICT": "PATNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "SCBL0036018": {
     "BANK": "Standard Chartered Bank",
     "IFSC": "SCBL0036018",
     "MICR": "751036002",
     "BRANCH": "BHUBANESWAR",
-    "ADDRESS": "PLOT#3",
+    "ADDRESS": "GROUND FLOOR, SHOP NO. B/2, BMC BHAWANI COMMERCIAL COMPLEX, BHUBANESHWAR 751007, ODISHA",
     "STATE": "ODISHA",
     "CONTACT": "+916742539485",
     "UPI": true,
     "RTGS": true,
-    "CITY": "BHUBANESWAR",
-    "CENTRE": "KHURDA",
-    "DISTRICT": "KHURDA",
+    "CITY": "KHURDA",
+    "CENTRE": "BHUBANESWAR",
+    "DISTRICT": "BHUBANESWAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "SCBL0036019": {
     "BANK": "Standard Chartered Bank",
@@ -320,7 +338,8 @@
     "DISTRICT": "DARJEELING",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "SCBL0036020": {
     "BANK": "Standard Chartered Bank",
@@ -337,7 +356,8 @@
     "DISTRICT": "NEW DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "SCBL0036021": {
     "BANK": "Standard Chartered Bank",
@@ -354,7 +374,8 @@
     "DISTRICT": "NEW DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "SCBL0036022": {
     "BANK": "Standard Chartered Bank",
@@ -371,7 +392,8 @@
     "DISTRICT": "KANPUR NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "SCBL0036023": {
     "BANK": "Standard Chartered Bank",
@@ -388,7 +410,8 @@
     "DISTRICT": "NEW DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "SCBL0036024": {
     "BANK": "Standard Chartered Bank",
@@ -405,7 +428,8 @@
     "DISTRICT": "GAUTAM BODDA NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "SCBL0036025": {
     "BANK": "Standard Chartered Bank",
@@ -422,7 +446,8 @@
     "DISTRICT": "GURGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "SCBL0036026": {
     "BANK": "Standard Chartered Bank",
@@ -439,7 +464,8 @@
     "DISTRICT": "NEW DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "SCBL0036027": {
     "BANK": "Standard Chartered Bank",
@@ -456,7 +482,8 @@
     "DISTRICT": "NEW DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "SCBL0036028": {
     "BANK": "Standard Chartered Bank",
@@ -473,7 +500,8 @@
     "DISTRICT": "NEW DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "SCBL0036029": {
     "BANK": "Standard Chartered Bank",
@@ -490,7 +518,8 @@
     "DISTRICT": "NEW DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "SCBL0036030": {
     "BANK": "Standard Chartered Bank",
@@ -507,7 +536,8 @@
     "DISTRICT": "NEW DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "SCBL0036031": {
     "BANK": "Standard Chartered Bank",
@@ -524,7 +554,8 @@
     "DISTRICT": "NEW DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "SCBL0036032": {
     "BANK": "Standard Chartered Bank",
@@ -541,7 +572,8 @@
     "DISTRICT": "NEW DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "SCBL0036033": {
     "BANK": "Standard Chartered Bank",
@@ -558,7 +590,8 @@
     "DISTRICT": "NEW DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "SCBL0036034": {
     "BANK": "Standard Chartered Bank",
@@ -575,7 +608,8 @@
     "DISTRICT": "NEW DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "SCBL0036035": {
     "BANK": "Standard Chartered Bank",
@@ -592,7 +626,8 @@
     "DISTRICT": "CHANDIGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CH"
   },
   "SCBL0036036": {
     "BANK": "Standard Chartered Bank",
@@ -609,7 +644,8 @@
     "DISTRICT": "LUCKNOW",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "SCBL0036037": {
     "BANK": "Standard Chartered Bank",
@@ -626,7 +662,8 @@
     "DISTRICT": "LUDHIANA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "SCBL0036038": {
     "BANK": "Standard Chartered Bank",
@@ -643,7 +680,8 @@
     "DISTRICT": "AMRITSAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "SCBL0036039": {
     "BANK": "Standard Chartered Bank",
@@ -660,7 +698,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "SCBL0036040": {
     "BANK": "Standard Chartered Bank",
@@ -677,7 +716,8 @@
     "DISTRICT": "JALANDHAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "SCBL0036041": {
     "BANK": "Standard Chartered Bank",
@@ -694,7 +734,8 @@
     "DISTRICT": "GURGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "SCBL0036042": {
     "BANK": "Standard Chartered Bank",
@@ -711,7 +752,8 @@
     "DISTRICT": "NEW DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "SCBL0036043": {
     "BANK": "Standard Chartered Bank",
@@ -728,7 +770,8 @@
     "DISTRICT": "NEW DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "SCBL0036044": {
     "BANK": "Standard Chartered Bank",
@@ -745,7 +788,8 @@
     "DISTRICT": "ALLAHABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "SCBL0036045": {
     "BANK": "Standard Chartered Bank",
@@ -762,7 +806,8 @@
     "DISTRICT": "NEW DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "SCBL0036046": {
     "BANK": "Standard Chartered Bank",
@@ -779,7 +824,8 @@
     "DISTRICT": "GREATER BOMBAY",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "SCBL0036047": {
     "BANK": "Standard Chartered Bank",
@@ -796,7 +842,8 @@
     "DISTRICT": "GREATER BOMBAY",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "SCBL0036048": {
     "BANK": "Standard Chartered Bank",
@@ -813,7 +860,8 @@
     "DISTRICT": "GREATER BOMBAY",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "SCBL0036049": {
     "BANK": "Standard Chartered Bank",
@@ -830,7 +878,8 @@
     "DISTRICT": "GREATER BOMBAY",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "SCBL0036050": {
     "BANK": "Standard Chartered Bank",
@@ -847,7 +896,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "SCBL0036051": {
     "BANK": "Standard Chartered Bank",
@@ -864,7 +914,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "SCBL0036052": {
     "BANK": "Standard Chartered Bank",
@@ -881,7 +932,8 @@
     "DISTRICT": "GREATER BOMBAY",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "SCBL0036053": {
     "BANK": "Standard Chartered Bank",
@@ -898,7 +950,8 @@
     "DISTRICT": "GREATER BOMBAY",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "SCBL0036054": {
     "BANK": "Standard Chartered Bank",
@@ -915,7 +968,8 @@
     "DISTRICT": "HOWRAH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "SCBL0036055": {
     "BANK": "Standard Chartered Bank",
@@ -932,7 +986,8 @@
     "DISTRICT": "GREATER BOMBAY",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "SCBL0036056": {
     "BANK": "Standard Chartered Bank",
@@ -949,7 +1004,8 @@
     "DISTRICT": "GREATER BOMBAY",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "SCBL0036057": {
     "BANK": "Standard Chartered Bank",
@@ -966,7 +1022,8 @@
     "DISTRICT": "GREATER BOMBAY",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "SCBL0036058": {
     "BANK": "Standard Chartered Bank",
@@ -983,7 +1040,8 @@
     "DISTRICT": "GREATER BOMBAY",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "SCBL0036059": {
     "BANK": "Standard Chartered Bank",
@@ -1000,7 +1058,8 @@
     "DISTRICT": "GREATER BOMBAY",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "SCBL0036060": {
     "BANK": "Standard Chartered Bank",
@@ -1017,7 +1076,8 @@
     "DISTRICT": "GREATER BOMBAY",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "SCBL0036061": {
     "BANK": "Standard Chartered Bank",
@@ -1034,7 +1094,8 @@
     "DISTRICT": "BHOPAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "SCBL0036062": {
     "BANK": "Standard Chartered Bank",
@@ -1051,7 +1112,8 @@
     "DISTRICT": "VADODARA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "SCBL0036063": {
     "BANK": "Standard Chartered Bank",
@@ -1068,7 +1130,8 @@
     "DISTRICT": "SURAT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "SCBL0036064": {
     "BANK": "Standard Chartered Bank",
@@ -1085,7 +1148,8 @@
     "DISTRICT": "RAJKOT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "SCBL0036065": {
     "BANK": "Standard Chartered Bank",
@@ -1102,7 +1166,8 @@
     "DISTRICT": "NAGPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "SCBL0036066": {
     "BANK": "Standard Chartered Bank",
@@ -1119,7 +1184,8 @@
     "DISTRICT": "GREATER BOMBAY",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "SCBL0036067": {
     "BANK": "Standard Chartered Bank",
@@ -1136,7 +1202,8 @@
     "DISTRICT": "GREATER BOMBAY",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "SCBL0036068": {
     "BANK": "Standard Chartered Bank",
@@ -1153,7 +1220,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "SCBL0036069": {
     "BANK": "Standard Chartered Bank",
@@ -1170,7 +1238,8 @@
     "DISTRICT": "INDORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "SCBL0036070": {
     "BANK": "Standard Chartered Bank",
@@ -1187,7 +1256,8 @@
     "DISTRICT": "GREATER BOMBAY",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "SCBL0036071": {
     "BANK": "Standard Chartered Bank",
@@ -1204,7 +1274,8 @@
     "DISTRICT": "JALGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "SCBL0036072": {
     "BANK": "Standard Chartered Bank",
@@ -1221,7 +1292,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "SCBL0036073": {
     "BANK": "Standard Chartered Bank",
@@ -1238,7 +1310,8 @@
     "DISTRICT": "BANGALORE URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "SCBL0036074": {
     "BANK": "Standard Chartered Bank",
@@ -1255,7 +1328,8 @@
     "DISTRICT": "BANGALORE URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "SCBL0036075": {
     "BANK": "Standard Chartered Bank",
@@ -1272,7 +1346,8 @@
     "DISTRICT": "HYDERABAD URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
   },
   "SCBL0036076": {
     "BANK": "Standard Chartered Bank",
@@ -1289,7 +1364,8 @@
     "DISTRICT": "ERNAKULAM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KL"
   },
   "SCBL0036077": {
     "BANK": "Standard Chartered Bank",
@@ -1306,7 +1382,8 @@
     "DISTRICT": "COIMBOTORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "SCBL0036078": {
     "BANK": "Standard Chartered Bank",
@@ -1323,7 +1400,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "SCBL0036079": {
     "BANK": "Standard Chartered Bank",
@@ -1340,7 +1418,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "SCBL0036080": {
     "BANK": "Standard Chartered Bank",
@@ -1357,7 +1436,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "SCBL0036081": {
     "BANK": "Standard Chartered Bank",
@@ -1374,7 +1454,8 @@
     "DISTRICT": "HYDERABAD URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
   },
   "SCBL0036082": {
     "BANK": "Standard Chartered Bank",
@@ -1391,7 +1472,8 @@
     "DISTRICT": "ERNAKULAM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KL"
   },
   "SCBL0036083": {
     "BANK": "Standard Chartered Bank",
@@ -1408,7 +1490,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "SCBL0036084": {
     "BANK": "Standard Chartered Bank",
@@ -1425,7 +1508,8 @@
     "DISTRICT": "GREATER BOMBAY",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "SCBL0036085": {
     "BANK": "Standard Chartered Bank",
@@ -1442,7 +1526,8 @@
     "DISTRICT": "GREATER BOMBAY",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "SCBL0036086": {
     "BANK": "Standard Chartered Bank",
@@ -1459,7 +1544,8 @@
     "DISTRICT": "NEW DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "SCBL0036087": {
     "BANK": "Standard Chartered Bank",
@@ -1476,7 +1562,8 @@
     "DISTRICT": "KOLKATA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "SCBL0036088": {
     "BANK": "Standard Chartered Bank",
@@ -1493,7 +1580,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "SCBL0036089": {
     "BANK": "Standard Chartered Bank",
@@ -1510,7 +1598,8 @@
     "DISTRICT": "BANGALORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "SCBL0036090": {
     "BANK": "Standard Chartered Bank",
@@ -1527,7 +1616,8 @@
     "DISTRICT": "HYDERABAD URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
   },
   "SCBL0036091": {
     "BANK": "Standard Chartered Bank",
@@ -1544,7 +1634,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "SCBL0036092": {
     "BANK": "Standard Chartered Bank",
@@ -1561,7 +1652,8 @@
     "DISTRICT": "MATHURA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "SCBL0036093": {
     "BANK": "Standard Chartered Bank",
@@ -1578,7 +1670,8 @@
     "DISTRICT": "CUDDAPAH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
   },
   "SCBL0036094": {
     "BANK": "Standard Chartered Bank",
@@ -1595,7 +1688,8 @@
     "DISTRICT": "DEHRADUN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UT"
   },
   "SCBL0036095": {
     "BANK": "Standard Chartered Bank",
@@ -1612,7 +1706,8 @@
     "DISTRICT": "SAHARANPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "SCBL0036096": {
     "BANK": "Standard Chartered Bank",
@@ -1629,7 +1724,8 @@
     "DISTRICT": "UDAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "SCBL0036097": {
     "BANK": "Standard Chartered Bank",
@@ -1646,7 +1742,8 @@
     "DISTRICT": "JODHAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "SCBL0036098": {
     "BANK": "Standard Chartered Bank",
@@ -1663,7 +1760,8 @@
     "DISTRICT": "CHHINDWARA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "SCBL0036099": {
     "BANK": "Standard Chartered Bank",
@@ -1680,7 +1778,8 @@
     "DISTRICT": "TRIVANDRUM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KL"
   },
   "SCBL0036100": {
     "BANK": "Standard Chartered Bank",
@@ -1697,7 +1796,8 @@
     "DISTRICT": "AGRA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "SCBL0036101": {
     "BANK": "Standard Chartered Bank",
@@ -1714,7 +1814,8 @@
     "DISTRICT": "BAREILLY",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "SCBL0036102": {
     "BANK": "Standard Chartered Bank",
@@ -1731,7 +1832,8 @@
     "DISTRICT": "BANGALORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "SCBL0036103": {
     "BANK": "Standard Chartered Bank",
@@ -1748,7 +1850,8 @@
     "DISTRICT": "GURGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "SCBL0036104": {
     "BANK": "Standard Chartered Bank",
@@ -1765,7 +1868,8 @@
     "DISTRICT": "NOIDA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "SCBL0036105": {
     "BANK": "Standard Chartered Bank",
@@ -1782,7 +1886,8 @@
     "DISTRICT": "BANGALORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "SCBL0036106": {
     "BANK": "Standard Chartered Bank",
@@ -1799,7 +1904,8 @@
     "DISTRICT": "BANGALORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "SCBL0036107": {
     "BANK": "Standard Chartered Bank",
@@ -1816,6 +1922,7 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   }
 }

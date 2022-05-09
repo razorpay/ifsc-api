@@ -14,7 +14,8 @@
     "MICR": null,
     "RTGS": true,
     "NEFT": false,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0010201": {
     "BANK": "IDFC FIRST Bank",
@@ -31,7 +32,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0010202": {
     "BANK": "IDFC FIRST Bank",
@@ -48,7 +50,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0010204": {
     "BANK": "IDFC FIRST Bank",
@@ -65,7 +68,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0010205": {
     "BANK": "IDFC FIRST Bank",
@@ -82,7 +86,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0010206": {
     "BANK": "IDFC FIRST Bank",
@@ -99,7 +104,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0010207": {
     "BANK": "IDFC FIRST Bank",
@@ -116,7 +122,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0010208": {
     "BANK": "IDFC FIRST Bank",
@@ -133,7 +140,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0010209": {
     "BANK": "IDFC FIRST Bank",
@@ -150,7 +158,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0010213": {
     "BANK": "IDFC FIRST Bank",
@@ -167,7 +176,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0010216": {
     "BANK": "IDFC FIRST Bank",
@@ -184,7 +194,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0010217": {
     "BANK": "IDFC FIRST Bank",
@@ -201,7 +212,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0010218": {
     "BANK": "IDFC FIRST Bank",
@@ -218,7 +230,8 @@
     "DISTRICT": "MUMBAI SUBURBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0010219": {
     "BANK": "IDFC FIRST Bank",
@@ -235,7 +248,8 @@
     "DISTRICT": "NEW DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "IDFB0010221": {
     "BANK": "IDFC FIRST Bank",
@@ -252,7 +266,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0010224": {
     "BANK": "IDFC FIRST Bank",
@@ -269,7 +284,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0010225": {
     "BANK": "IDFC FIRST Bank",
@@ -286,7 +302,26 @@
     "DISTRICT": "MUMBAI",
     "RTGS": false,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
+  "IDFB0010228": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0010228",
+    "MICR": null,
+    "BRANCH": "CASH PROCESSING CENTRE-INDORE",
+    "ADDRESS": "GROUND FLOOR, PLOT NO. 4, PROFESSOR COLONY, WARD 65, ZONE 12, BHAWARKUAN, INDORE(MP)-452001, TOLL FREE NO-18004194332",
+    "STATE": "MADHYA PRADESH",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "INDORE",
+    "CENTRE": "INDORE",
+    "DISTRICT": "INDORE",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0020101": {
     "BANK": "IDFC FIRST Bank",
@@ -303,7 +338,8 @@
     "DISTRICT": "NEW DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "IDFB0020102": {
     "BANK": "IDFC FIRST Bank",
@@ -320,7 +356,8 @@
     "DISTRICT": "NEW DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "IDFB0020105": {
     "BANK": "IDFC FIRST Bank",
@@ -337,7 +374,8 @@
     "DISTRICT": "DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "IDFB0020106": {
     "BANK": "IDFC FIRST Bank",
@@ -354,7 +392,8 @@
     "DISTRICT": "SOUTH WEST",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "IDFB0020107": {
     "BANK": "IDFC FIRST Bank",
@@ -371,7 +410,8 @@
     "DISTRICT": "SOUTH EAST DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "IDFB0020108": {
     "BANK": "IDFC FIRST Bank",
@@ -388,7 +428,8 @@
     "DISTRICT": "WEST DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "IDFB0020109": {
     "BANK": "IDFC FIRST Bank",
@@ -405,7 +446,8 @@
     "DISTRICT": "CENTRAL DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "IDFB0020111": {
     "BANK": "IDFC FIRST Bank",
@@ -422,7 +464,8 @@
     "DISTRICT": "SOUTH DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "IDFB0020112": {
     "BANK": "IDFC FIRST Bank",
@@ -439,7 +482,8 @@
     "DISTRICT": "SOUTH DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "IDFB0020123": {
     "BANK": "IDFC FIRST Bank",
@@ -456,7 +500,8 @@
     "DISTRICT": "CENTRAL DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "IDFB0020124": {
     "BANK": "IDFC FIRST Bank",
@@ -473,7 +518,8 @@
     "DISTRICT": "GAUTAM BUDDHA NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "IDFB0020125": {
     "BANK": "IDFC FIRST Bank",
@@ -490,7 +536,8 @@
     "DISTRICT": "SOUTH DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "IDFB0020126": {
     "BANK": "IDFC FIRST Bank",
@@ -507,7 +554,8 @@
     "DISTRICT": "WEST DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "IDFB0020127": {
     "BANK": "IDFC FIRST Bank",
@@ -524,7 +572,8 @@
     "DISTRICT": "NORTH-WEST DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "IDFB0020128": {
     "BANK": "IDFC FIRST Bank",
@@ -541,7 +590,8 @@
     "DISTRICT": "WEST DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "IDFB0020129": {
     "BANK": "IDFC FIRST Bank",
@@ -558,7 +608,8 @@
     "DISTRICT": "GURGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "IDFB0020131": {
     "BANK": "IDFC FIRST Bank",
@@ -575,7 +626,8 @@
     "DISTRICT": "GURGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "IDFB0020132": {
     "BANK": "IDFC FIRST Bank",
@@ -592,7 +644,8 @@
     "DISTRICT": "GURGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "IDFB0020133": {
     "BANK": "IDFC FIRST Bank",
@@ -609,7 +662,8 @@
     "DISTRICT": "GURGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "IDFB0020134": {
     "BANK": "IDFC FIRST Bank",
@@ -626,7 +680,8 @@
     "DISTRICT": "SOUTH-WEST DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "IDFB0020135": {
     "BANK": "IDFC FIRST Bank",
@@ -643,7 +698,8 @@
     "DISTRICT": "NORTH-WEST DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "IDFB0020136": {
     "BANK": "IDFC FIRST Bank",
@@ -660,7 +716,8 @@
     "DISTRICT": "WEST DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "IDFB0020137": {
     "BANK": "IDFC FIRST Bank",
@@ -677,7 +734,8 @@
     "DISTRICT": "SOUTH EAST",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "IDFB0020138": {
     "BANK": "IDFC FIRST Bank",
@@ -694,7 +752,8 @@
     "DISTRICT": "NEW DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "IDFB0020139": {
     "BANK": "IDFC FIRST Bank",
@@ -711,7 +770,8 @@
     "DISTRICT": "SOUTH DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "IDFB0020141": {
     "BANK": "IDFC FIRST Bank",
@@ -728,7 +788,8 @@
     "DISTRICT": "GAUTAM BUDDHA NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "IDFB0020142": {
     "BANK": "IDFC FIRST Bank",
@@ -745,7 +806,8 @@
     "DISTRICT": "SOUTH DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "IDFB0020143": {
     "BANK": "IDFC FIRST Bank",
@@ -762,7 +824,8 @@
     "DISTRICT": "NORTH - WEST DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "IDFB0020144": {
     "BANK": "IDFC FIRST Bank",
@@ -779,7 +842,8 @@
     "DISTRICT": "GURGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "IDFB0020145": {
     "BANK": "IDFC FIRST Bank",
@@ -796,7 +860,8 @@
     "DISTRICT": "GAUTAM BUDDHA NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "IDFB0020146": {
     "BANK": "IDFC FIRST Bank",
@@ -813,7 +878,8 @@
     "DISTRICT": "GHAZIABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "IDFB0020148": {
     "BANK": "IDFC FIRST Bank",
@@ -830,7 +896,8 @@
     "DISTRICT": "NEW DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "IDFB0020149": {
     "BANK": "IDFC FIRST Bank",
@@ -847,7 +914,8 @@
     "DISTRICT": "WEST DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "IDFB0020151": {
     "BANK": "IDFC FIRST Bank",
@@ -864,7 +932,8 @@
     "DISTRICT": "GAUTAM BUDDHA NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "IDFB0020152": {
     "BANK": "IDFC FIRST Bank",
@@ -881,7 +950,8 @@
     "DISTRICT": "GAUTAM BUDDH NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "IDFB0020153": {
     "BANK": "IDFC FIRST Bank",
@@ -898,7 +968,8 @@
     "DISTRICT": "GAUTAM BUDDH NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "IDFB0020154": {
     "BANK": "IDFC FIRST Bank",
@@ -915,7 +986,8 @@
     "DISTRICT": "GAUTAM BUDDH NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "IDFB0020155": {
     "BANK": "IDFC FIRST Bank",
@@ -932,7 +1004,8 @@
     "DISTRICT": "GAUTAM BUDDH NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "IDFB0020158": {
     "BANK": "IDFC FIRST Bank",
@@ -949,7 +1022,8 @@
     "DISTRICT": "GAUTAM BUDH NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "IDFB0020194": {
     "BANK": "IDFC FIRST Bank",
@@ -966,7 +1040,8 @@
     "DISTRICT": "NORTH WEST├╜",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "IDFB0020195": {
     "BANK": "IDFC FIRST Bank",
@@ -983,7 +1058,8 @@
     "DISTRICT": "WEST DISTRICT├╜",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "IDFB0020197": {
     "BANK": "IDFC FIRST Bank",
@@ -1000,7 +1076,8 @@
     "DISTRICT": "SOUTH DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "IDFB0020209": {
     "BANK": "IDFC FIRST Bank",
@@ -1017,7 +1094,8 @@
     "DISTRICT": "WEST DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "IDFB0020219": {
     "BANK": "IDFC FIRST Bank",
@@ -1034,7 +1112,8 @@
     "DISTRICT": "DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "IDFB0020221": {
     "BANK": "IDFC FIRST Bank",
@@ -1051,7 +1130,8 @@
     "DISTRICT": "DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "IDFB0020224": {
     "BANK": "IDFC FIRST Bank",
@@ -1068,7 +1148,8 @@
     "DISTRICT": "CENTRAL DELHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "IDFB0021001": {
     "BANK": "IDFC FIRST Bank",
@@ -1085,7 +1166,8 @@
     "DISTRICT": "GURGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "IDFB0021002": {
     "BANK": "IDFC FIRST Bank",
@@ -1102,7 +1184,8 @@
     "DISTRICT": "GURGAON(M CORP. OG)",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "IDFB0021003": {
     "BANK": "IDFC FIRST Bank",
@@ -1119,7 +1202,8 @@
     "DISTRICT": "GURGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "IDFB0021005": {
     "BANK": "IDFC FIRST Bank",
@@ -1136,7 +1220,8 @@
     "DISTRICT": "GURGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "IDFB0021006": {
     "BANK": "IDFC FIRST Bank",
@@ -1153,7 +1238,8 @@
     "DISTRICT": "GURGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "IDFB0021007": {
     "BANK": "IDFC FIRST Bank",
@@ -1170,7 +1256,8 @@
     "DISTRICT": "GURGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "IDFB0021008": {
     "BANK": "IDFC FIRST Bank",
@@ -1187,7 +1274,8 @@
     "DISTRICT": "GURGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "IDFB0021009": {
     "BANK": "IDFC FIRST Bank",
@@ -1204,7 +1292,8 @@
     "DISTRICT": "GURGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "IDFB0021011": {
     "BANK": "IDFC FIRST Bank",
@@ -1221,7 +1310,8 @@
     "DISTRICT": "GURGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "IDFB0021012": {
     "BANK": "IDFC FIRST Bank",
@@ -1238,7 +1328,8 @@
     "DISTRICT": "GURGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "IDFB0021013": {
     "BANK": "IDFC FIRST Bank",
@@ -1255,7 +1346,8 @@
     "DISTRICT": "GURGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "IDFB0021014": {
     "BANK": "IDFC FIRST Bank",
@@ -1272,7 +1364,8 @@
     "DISTRICT": "GURGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "IDFB0021015": {
     "BANK": "IDFC FIRST Bank",
@@ -1289,7 +1382,8 @@
     "DISTRICT": "GURGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "IDFB0021019": {
     "BANK": "IDFC FIRST Bank",
@@ -1306,7 +1400,8 @@
     "DISTRICT": "GURGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "IDFB0021021": {
     "BANK": "IDFC FIRST Bank",
@@ -1323,7 +1418,8 @@
     "DISTRICT": "AMRITSAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "IDFB0021024": {
     "BANK": "IDFC FIRST Bank",
@@ -1340,7 +1436,8 @@
     "DISTRICT": "AMRITSAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "IDFB0021041": {
     "BANK": "IDFC FIRST Bank",
@@ -1357,7 +1454,8 @@
     "DISTRICT": "GAUTAM BUDDHA NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "IDFB0021061": {
     "BANK": "IDFC FIRST Bank",
@@ -1374,7 +1472,8 @@
     "DISTRICT": "SIRSA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "IDFB0021071": {
     "BANK": "IDFC FIRST Bank",
@@ -1391,7 +1490,8 @@
     "DISTRICT": "FATEHABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "IDFB0021072": {
     "BANK": "IDFC FIRST Bank",
@@ -1408,7 +1508,8 @@
     "DISTRICT": "FATEHABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "IDFB0021091": {
     "BANK": "IDFC FIRST Bank",
@@ -1425,7 +1526,8 @@
     "DISTRICT": "KAITHAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "IDFB0021171": {
     "BANK": "IDFC FIRST Bank",
@@ -1442,7 +1544,8 @@
     "DISTRICT": "LUDHIANA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "IDFB0021174": {
     "BANK": "IDFC FIRST Bank",
@@ -1459,7 +1562,8 @@
     "DISTRICT": "LUDHIANA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "IDFB0021175": {
     "BANK": "IDFC FIRST Bank",
@@ -1476,7 +1580,8 @@
     "DISTRICT": "LUDHIANA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "IDFB0021191": {
     "BANK": "IDFC FIRST Bank",
@@ -1493,7 +1598,8 @@
     "DISTRICT": "JALANDHAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "IDFB0021194": {
     "BANK": "IDFC FIRST Bank",
@@ -1510,7 +1616,8 @@
     "DISTRICT": "JALANDHAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "IDFB0021211": {
     "BANK": "IDFC FIRST Bank",
@@ -1527,7 +1634,8 @@
     "DISTRICT": "CHANDIGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CH"
   },
   "IDFB0021214": {
     "BANK": "IDFC FIRST Bank",
@@ -1544,7 +1652,8 @@
     "DISTRICT": "CHANDIGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CH"
   },
   "IDFB0021215": {
     "BANK": "IDFC FIRST Bank",
@@ -1561,7 +1670,8 @@
     "DISTRICT": "CHANDIGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CH"
   },
   "IDFB0021216": {
     "BANK": "IDFC FIRST Bank",
@@ -1578,7 +1688,8 @@
     "DISTRICT": "CHANDIGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CH"
   },
   "IDFB0021217": {
     "BANK": "IDFC FIRST Bank",
@@ -1595,7 +1706,8 @@
     "DISTRICT": "CHANDIGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CH"
   },
   "IDFB0021218": {
     "BANK": "IDFC FIRST Bank",
@@ -1612,7 +1724,8 @@
     "DISTRICT": "CHANDIGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CH"
   },
   "IDFB0021231": {
     "BANK": "IDFC FIRST Bank",
@@ -1629,7 +1742,8 @@
     "DISTRICT": "DEHRADUN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UT"
   },
   "IDFB0021233": {
     "BANK": "IDFC FIRST Bank",
@@ -1646,7 +1760,8 @@
     "DISTRICT": "DEHRADUN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UT"
   },
   "IDFB0021251": {
     "BANK": "IDFC FIRST Bank",
@@ -1663,7 +1778,8 @@
     "DISTRICT": "LUCKNOW",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "IDFB0021252": {
     "BANK": "IDFC FIRST Bank",
@@ -1680,7 +1796,8 @@
     "DISTRICT": "LUCKNOW",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "IDFB0021254": {
     "BANK": "IDFC FIRST Bank",
@@ -1697,7 +1814,8 @@
     "DISTRICT": "LUCKNOW├╜",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "IDFB0021255": {
     "BANK": "IDFC FIRST Bank",
@@ -1714,7 +1832,8 @@
     "DISTRICT": "LUCKNOW",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "IDFB0021256": {
     "BANK": "IDFC FIRST Bank",
@@ -1731,7 +1850,8 @@
     "DISTRICT": "GAUTAM BUDH NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "IDFB0021263": {
     "BANK": "IDFC FIRST Bank",
@@ -1748,7 +1868,8 @@
     "DISTRICT": "LUCKNOW",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "IDFB0021271": {
     "BANK": "IDFC FIRST Bank",
@@ -1765,7 +1886,8 @@
     "DISTRICT": "KANPUR NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "IDFB0021273": {
     "BANK": "IDFC FIRST Bank",
@@ -1782,7 +1904,8 @@
     "DISTRICT": "KANPUR NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "IDFB0021291": {
     "BANK": "IDFC FIRST Bank",
@@ -1799,7 +1922,8 @@
     "DISTRICT": "AGRA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "IDFB0021293": {
     "BANK": "IDFC FIRST Bank",
@@ -1816,7 +1940,8 @@
     "DISTRICT": "AGRA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "IDFB0021311": {
     "BANK": "IDFC FIRST Bank",
@@ -1833,7 +1958,8 @@
     "DISTRICT": "FARIDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "IDFB0021313": {
     "BANK": "IDFC FIRST Bank",
@@ -1850,7 +1976,8 @@
     "DISTRICT": "FARIDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "IDFB0021314": {
     "BANK": "IDFC FIRST Bank",
@@ -1867,7 +1994,8 @@
     "DISTRICT": "FARIDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "IDFB0021331": {
     "BANK": "IDFC FIRST Bank",
@@ -1884,7 +2012,8 @@
     "DISTRICT": "GAUTAM BUDH NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "IDFB0021351": {
     "BANK": "IDFC FIRST Bank",
@@ -1901,7 +2030,8 @@
     "DISTRICT": "PANCHKULA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "IDFB0021352": {
     "BANK": "IDFC FIRST Bank",
@@ -1918,7 +2048,8 @@
     "DISTRICT": "PANCHKULA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "IDFB0021371": {
     "BANK": "IDFC FIRST Bank",
@@ -1935,7 +2066,8 @@
     "DISTRICT": "SAHIBZADA AJIT SINGH NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "IDFB0021373": {
     "BANK": "IDFC FIRST Bank",
@@ -1952,7 +2084,8 @@
     "DISTRICT": "SAHIBZADA AJIT SINGH NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "IDFB0021374": {
     "BANK": "IDFC FIRST Bank",
@@ -1969,7 +2102,8 @@
     "DISTRICT": "SAHIBZADA AJIT SINGH NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "IDFB0021392": {
     "BANK": "IDFC FIRST Bank",
@@ -1986,7 +2120,44 @@
     "DISTRICT": "AMBALA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
+  },
+  "IDFB0021394": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0021394",
+    "MICR": "133751003",
+    "BRANCH": "AMBALA SADAR BRANCH",
+    "ADDRESS": "GROUND FLOOR, HOUSE NO. 465/B1, MUNICIPAL HOUSE NO. 1307/465, BLOCK NO. 7, PREM NAGAR, PATTI SUBA AKBARPUR, AMBALA CITY, AMBALA, HARYANA-134003, TOLL FREE NO-18004194332",
+    "STATE": "HARYANA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "AMBALA",
+    "CENTRE": "AMBALA SADAR",
+    "DISTRICT": "AMBALA SADAR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
+  },
+  "IDFB0021395": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0021395",
+    "MICR": "134751002",
+    "BRANCH": "NARAINGARH BRANCH",
+    "ADDRESS": "GROUND AND FIRST FLOOR,WARD NO.11,VILLAGE RAIPUR VIRAN,TEHSIL NARAINGARH,DIST.AMBALA,HARYANA-123106,TOLL FREE NO-18004194332",
+    "STATE": "HARYANA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "AMBALA",
+    "CENTRE": "NARAINGARH",
+    "DISTRICT": "NARAINGARH",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "IDFB0021412": {
     "BANK": "IDFC FIRST Bank",
@@ -2003,7 +2174,8 @@
     "DISTRICT": "GHAZIABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "IDFB0021413": {
     "BANK": "IDFC FIRST Bank",
@@ -2020,7 +2192,8 @@
     "DISTRICT": "GHAZIABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "IDFB0021414": {
     "BANK": "IDFC FIRST Bank",
@@ -2037,7 +2210,8 @@
     "DISTRICT": "GHAZIABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "IDFB0021416": {
     "BANK": "IDFC FIRST Bank",
@@ -2054,7 +2228,26 @@
     "DISTRICT": "GHAZIABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
+  },
+  "IDFB0021433": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0021433",
+    "MICR": "135751002",
+    "BRANCH": "JAGADHRI BRANCH",
+    "ADDRESS": "GROUND FLOOR,OLD COURT  ROAD,NEW BASTI,TEHSIL JAGADHRI,DISTRICT YAMUNANAGAR,HARYANA - 135003,TOLL FREE NO- 18004194332",
+    "STATE": "HARYANA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "YAMUNANAGAR",
+    "CENTRE": "JAGADHRI",
+    "DISTRICT": "JAGADHRI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "IDFB0021452": {
     "BANK": "IDFC FIRST Bank",
@@ -2071,7 +2264,8 @@
     "DISTRICT": "PATIALA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "IDFB0021472": {
     "BANK": "IDFC FIRST Bank",
@@ -2088,7 +2282,26 @@
     "DISTRICT": "KARNAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
+  },
+  "IDFB0021473": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0021473",
+    "MICR": "132751202",
+    "BRANCH": "GHARAUNDA BRANCH",
+    "ADDRESS": "GROUND FLOOR, KHEWAT NO. 264, KITE 3, WARD NO. 4, G.T.ROAD, GHARAUNDA, DIST KARNAL, HARYANA- 132144, TOLL FREE NO. -1800419332",
+    "STATE": "HARYANA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "KARNAL",
+    "CENTRE": "GHARAUNDA",
+    "DISTRICT": "GHARAUNDA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "IDFB0021502": {
     "BANK": "IDFC FIRST Bank",
@@ -2105,7 +2318,8 @@
     "DISTRICT": "JAMMU",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JK"
   },
   "IDFB0021503": {
     "BANK": "IDFC FIRST Bank",
@@ -2122,7 +2336,8 @@
     "DISTRICT": "JAMMU",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JK"
   },
   "IDFB0021521": {
     "BANK": "IDFC FIRST Bank",
@@ -2139,7 +2354,8 @@
     "DISTRICT": "MEERUT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "IDFB0021522": {
     "BANK": "IDFC FIRST Bank",
@@ -2156,7 +2372,8 @@
     "DISTRICT": "MEERUT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "IDFB0021541": {
     "BANK": "IDFC FIRST Bank",
@@ -2173,7 +2390,8 @@
     "DISTRICT": "PRAYAGRAJ",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "IDFB0021561": {
     "BANK": "IDFC FIRST Bank",
@@ -2190,7 +2408,8 @@
     "DISTRICT": "GORAKHPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "IDFB0021581": {
     "BANK": "IDFC FIRST Bank",
@@ -2207,7 +2426,8 @@
     "DISTRICT": "ROHTAK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "IDFB0021601": {
     "BANK": "IDFC FIRST Bank",
@@ -2224,7 +2444,8 @@
     "DISTRICT": "HISAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "IDFB0021603": {
     "BANK": "IDFC FIRST Bank",
@@ -2241,7 +2462,8 @@
     "DISTRICT": "HISAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "IDFB0021621": {
     "BANK": "IDFC FIRST Bank",
@@ -2258,7 +2480,44 @@
     "DISTRICT": "PANIPAT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
+  },
+  "IDFB0021624": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0021624",
+    "MICR": "132751152",
+    "BRANCH": "SAMALAKHA BRANCH",
+    "ADDRESS": "GROUND FLOOR, KHEWAT NO. 1015, KHASRA NO. 19/30(2-12) & 8/39, SAMALKHA DIST, PANIPAT- 132101, TOLL FREE NO. 18004194332",
+    "STATE": "HARYANA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "PANIPAT",
+    "CENTRE": "SAMALAKHA",
+    "DISTRICT": "SAMALAKHA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
+  },
+  "IDFB0021634": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0021634",
+    "MICR": "136751002",
+    "BRANCH": "THANESAR BRANCH",
+    "ADDRESS": "GROUND AND FIRST FLOOR, WARD NO.11, PIPLI ROAD, VILLAGE RATGAL, TEHSIL-THANESAR, KURUKSHETRA, HARYANA-136118, TOLL FREE NO-18004194332",
+    "STATE": "HARYANA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "KURUKSHETRA",
+    "CENTRE": "THANESAR",
+    "DISTRICT": "THANESAR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "IDFB0021692": {
     "BANK": "IDFC FIRST Bank",
@@ -2275,7 +2534,8 @@
     "DISTRICT": "SAHARANPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "IDFB0021711": {
     "BANK": "IDFC FIRST Bank",
@@ -2292,7 +2552,8 @@
     "DISTRICT": "KAPURTHALA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "IDFB0021731": {
     "BANK": "IDFC FIRST Bank",
@@ -2309,7 +2570,170 @@
     "DISTRICT": "SHIMLA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-HP"
+  },
+  "IDFB0021943": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0021943",
+    "MICR": "123751002",
+    "BRANCH": "DHARUHERA BRANCH",
+    "ADDRESS": "GROUND FLOOR, 56/1,SOHNA ROAD,VILLAGE DHARUHERA,TEHSIL DHARUHERA,DISTT.REWARI,HARYANA-123106,TOLL FREE NO-18004194332",
+    "STATE": "HARYANA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "REWARI",
+    "CENTRE": "DHARUHERA",
+    "DISTRICT": "DHARUHERA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
+  },
+  "IDFB0022011": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0022011",
+    "MICR": "224751002",
+    "BRANCH": "AYODHYA BRANCH",
+    "ADDRESS": "GROUND AND 1ST FLOOR,H.NO.8/2/3,HANUMANGAJ,JHARKHANDI,FAIZABAD,AYODHYA,UTTAR PRADESH-224001,TOLL FREE NO-18004194332",
+    "STATE": "UTTAR PRADESH",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "AYODHYA",
+    "CENTRE": "AYODHYA",
+    "DISTRICT": "AYODHYA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
+  },
+  "IDFB0022021": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0022021",
+    "MICR": "123751052",
+    "BRANCH": "NARNAUL BRANCH",
+    "ADDRESS": "GROUND FLOOR, KHATAUNI NO. 1599, KHASRA-2004, PRABHAT COMPLEX, NEAR VIJAY HOSPITAL, DIST. MAHENDRAGARH NARNAUL, HARYANA-123001, TOLLFREE NO-18004194332",
+    "STATE": "HARYANA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "MAHENDRAGARH",
+    "CENTRE": "NARNAUL",
+    "DISTRICT": "NARNAUL",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
+  },
+  "IDFB0022031": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0022031",
+    "MICR": "124751052",
+    "BRANCH": "JHAJJAR BRANCH",
+    "ADDRESS": "UPPER GROUND FLOOR, PROPERTY NO.3,WARD NO.1, OPP. RAJOTIA HOSPITAL, ROHTAK ROAD, TEHSIL & ZILA JHAJJAR, HARYANA-124103, TOLL FREE NO. 18004194332",
+    "STATE": "HARYANA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "JHAJJAR",
+    "CENTRE": "JHAJJAR",
+    "DISTRICT": "JHAJJAR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
+  },
+  "IDFB0022041": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0022041",
+    "MICR": "123751152",
+    "BRANCH": "CHARKHI DADRI BRANCH",
+    "ADDRESS": "GROUND FLOOR,KHEWAT NO.1149,KHATONI-1226,LOHARU ROAD,CHARKHI DADRI,HARYANA-127306,TOLL FREE NO. 18004194332",
+    "STATE": "HARYANA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "CHARKI DADRI",
+    "CENTRE": "CHARKHI DADRI",
+    "DISTRICT": "CHARKHI DADRI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
+  },
+  "IDFB0022051": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0022051",
+    "MICR": "225751502",
+    "BRANCH": "BARABANKI BRANCH",
+    "ADDRESS": "UPPER GROUND FLOOR, KHASRA NO.39 MIN, OBRI, PARGANA , LUCKNOW ROAD, TEHSIL NAWABGANJ, DISTRICT BARABANKI, UTTAR PRADESH- 225001, TOLL FREE NO. 18004194332",
+    "STATE": "UTTAR PRADESH",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "BARA BANKI",
+    "CENTRE": "BARABANKI",
+    "DISTRICT": "BARABANKI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
+  },
+  "IDFB0022091": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0022091",
+    "MICR": "230751102",
+    "BRANCH": "BELA PRATAPGARH BRANCH",
+    "ADDRESS": "UPPER GROUND FLOOR, PROPERTY NO. 39/1, BHADRI HOUSE, HOSPITAL ROAD, VILLAGE BEHLALGHAT (ANDAR), PARGANA & TEHSIL SADAR, DISTT. PRATAPGARH, UTTAR PRADESH - 230001, TOLL FREE NO. 18004194332",
+    "STATE": "UTTAR PRADESH",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "PRATAPGARH",
+    "CENTRE": "BELA PRATAPGARH",
+    "DISTRICT": "BELA PRATAPGARH",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
+  },
+  "IDFB0022101": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0022101",
+    "MICR": "221751102",
+    "BRANCH": "BHADOHI BRANCH",
+    "ADDRESS": "UGF &FF, H.NO.231, CHAK DIWANGAN, STATION ROAD,PARGANA BHADOHI, TEHSIL AND ZILLA BHADOHI, VARANASI , UTTAR PRADESH-221401, TOLLFREE NO- 18004194332",
+    "STATE": "UTTAR PRADESH",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "SANT RAVIDAS NAGAR",
+    "CENTRE": "BHADOHI",
+    "DISTRICT": "BHADOHI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
+  },
+  "IDFB0022111": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0022111",
+    "MICR": "262751702",
+    "BRANCH": "LAKHIMPUR BRANCH",
+    "ADDRESS": "GROUND & 1ST FLOOR, GATA NO.1361, VILLAGE RAJAPUR, TEHSIL LAKHIMPUR, PARGANA & ZILA KHERI, UP-262701, TOLL FREE NO.- 18004194332",
+    "STATE": "UTTAR PRADESH",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "KHERI",
+    "CENTRE": "LAKHIMPUR",
+    "DISTRICT": "LAKHIMPUR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "IDFB0040101": {
     "BANK": "IDFC FIRST Bank",
@@ -2326,7 +2750,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0040102": {
     "BANK": "IDFC FIRST Bank",
@@ -2343,7 +2768,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0040103": {
     "BANK": "IDFC FIRST Bank",
@@ -2360,7 +2786,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0040104": {
     "BANK": "IDFC FIRST Bank",
@@ -2377,7 +2804,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0040105": {
     "BANK": "IDFC FIRST Bank",
@@ -2394,7 +2822,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0040106": {
     "BANK": "IDFC FIRST Bank",
@@ -2411,7 +2840,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0040107": {
     "BANK": "IDFC FIRST Bank",
@@ -2428,7 +2858,8 @@
     "DISTRICT": "MUMBAI SUBURBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0040108": {
     "BANK": "IDFC FIRST Bank",
@@ -2445,7 +2876,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0040109": {
     "BANK": "IDFC FIRST Bank",
@@ -2462,7 +2894,8 @@
     "DISTRICT": "MUMBAI SUBURBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0040111": {
     "BANK": "IDFC FIRST Bank",
@@ -2479,7 +2912,8 @@
     "DISTRICT": "MUMBAI SUBURBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0040112": {
     "BANK": "IDFC FIRST Bank",
@@ -2496,7 +2930,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0040113": {
     "BANK": "IDFC FIRST Bank",
@@ -2513,7 +2948,8 @@
     "DISTRICT": "MUMBAI SUBURBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0040114": {
     "BANK": "IDFC FIRST Bank",
@@ -2530,7 +2966,8 @@
     "DISTRICT": "MUMBAI SUBURBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0040115": {
     "BANK": "IDFC FIRST Bank",
@@ -2547,7 +2984,8 @@
     "DISTRICT": "MUMBAI SUBURBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0040132": {
     "BANK": "IDFC FIRST Bank",
@@ -2564,7 +3002,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0040133": {
     "BANK": "IDFC FIRST Bank",
@@ -2581,7 +3020,8 @@
     "DISTRICT": "MUMBAI SUBURBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0040134": {
     "BANK": "IDFC FIRST Bank",
@@ -2598,7 +3038,8 @@
     "DISTRICT": "RAIGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0040135": {
     "BANK": "IDFC FIRST Bank",
@@ -2615,7 +3056,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0040136": {
     "BANK": "IDFC FIRST Bank",
@@ -2632,7 +3074,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0040137": {
     "BANK": "IDFC FIRST Bank",
@@ -2649,7 +3092,8 @@
     "DISTRICT": "MUMBAI SUBURBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0040138": {
     "BANK": "IDFC FIRST Bank",
@@ -2666,7 +3110,8 @@
     "DISTRICT": "MUMBAI SUBURBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0040139": {
     "BANK": "IDFC FIRST Bank",
@@ -2683,7 +3128,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0040141": {
     "BANK": "IDFC FIRST Bank",
@@ -2700,7 +3146,8 @@
     "DISTRICT": "MUMBAI SUBURBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0040142": {
     "BANK": "IDFC FIRST Bank",
@@ -2717,7 +3164,8 @@
     "DISTRICT": "RAIGAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0040143": {
     "BANK": "IDFC FIRST Bank",
@@ -2734,7 +3182,8 @@
     "DISTRICT": "RAIGAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0040144": {
     "BANK": "IDFC FIRST Bank",
@@ -2751,7 +3200,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0040146": {
     "BANK": "IDFC FIRST Bank",
@@ -2768,7 +3218,8 @@
     "DISTRICT": "MUMBAI SUBURBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0040151": {
     "BANK": "IDFC FIRST Bank",
@@ -2785,7 +3236,8 @@
     "DISTRICT": "MUMBAI SUBURBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0040152": {
     "BANK": "IDFC FIRST Bank",
@@ -2802,7 +3254,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0040153": {
     "BANK": "IDFC FIRST Bank",
@@ -2819,7 +3272,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0040154": {
     "BANK": "IDFC FIRST Bank",
@@ -2836,7 +3290,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0040155": {
     "BANK": "IDFC FIRST Bank",
@@ -2853,7 +3308,8 @@
     "DISTRICT": "MUMBAI SUBURBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0040156": {
     "BANK": "IDFC FIRST Bank",
@@ -2870,7 +3326,8 @@
     "DISTRICT": "MUMBAI SUBURBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0040158": {
     "BANK": "IDFC FIRST Bank",
@@ -2887,7 +3344,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0040159": {
     "BANK": "IDFC FIRST Bank",
@@ -2904,7 +3362,8 @@
     "DISTRICT": "MUMBAI SUBURBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0040162": {
     "BANK": "IDFC FIRST Bank",
@@ -2921,7 +3380,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0040163": {
     "BANK": "IDFC FIRST Bank",
@@ -2938,7 +3398,8 @@
     "DISTRICT": "MUMBAI SUBURBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0040171": {
     "BANK": "IDFC FIRST Bank",
@@ -2955,7 +3416,8 @@
     "DISTRICT": "MUMBAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0040172": {
     "BANK": "IDFC FIRST Bank",
@@ -2972,7 +3434,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0040173": {
     "BANK": "IDFC FIRST Bank",
@@ -2989,7 +3452,8 @@
     "DISTRICT": "THANE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0040301": {
     "BANK": "IDFC FIRST Bank",
@@ -3006,7 +3470,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0040302": {
     "BANK": "IDFC FIRST Bank",
@@ -3023,7 +3488,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0040303": {
     "BANK": "IDFC FIRST Bank",
@@ -3040,7 +3506,8 @@
     "DISTRICT": "AHMEDABAD(M CORP.)",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0040308": {
     "BANK": "IDFC FIRST Bank",
@@ -3057,7 +3524,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0040309": {
     "BANK": "IDFC FIRST Bank",
@@ -3074,7 +3542,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0040311": {
     "BANK": "IDFC FIRST Bank",
@@ -3091,7 +3560,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0040312": {
     "BANK": "IDFC FIRST Bank",
@@ -3108,7 +3578,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0040313": {
     "BANK": "IDFC FIRST Bank",
@@ -3125,7 +3596,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0040314": {
     "BANK": "IDFC FIRST Bank",
@@ -3142,7 +3614,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0040315": {
     "BANK": "IDFC FIRST Bank",
@@ -3159,7 +3632,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0040316": {
     "BANK": "IDFC FIRST Bank",
@@ -3176,7 +3650,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0040317": {
     "BANK": "IDFC FIRST Bank",
@@ -3193,7 +3668,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0040318": {
     "BANK": "IDFC FIRST Bank",
@@ -3210,7 +3686,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0040319": {
     "BANK": "IDFC FIRST Bank",
@@ -3227,7 +3704,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0040321": {
     "BANK": "IDFC FIRST Bank",
@@ -3244,7 +3722,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0040322": {
     "BANK": "IDFC FIRST Bank",
@@ -3261,7 +3740,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0040323": {
     "BANK": "IDFC FIRST Bank",
@@ -3278,7 +3758,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0040324": {
     "BANK": "IDFC FIRST Bank",
@@ -3295,7 +3776,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0040327": {
     "BANK": "IDFC FIRST Bank",
@@ -3312,7 +3794,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0040332": {
     "BANK": "IDFC FIRST Bank",
@@ -3329,7 +3812,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0040333": {
     "BANK": "IDFC FIRST Bank",
@@ -3346,7 +3830,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0040334": {
     "BANK": "IDFC FIRST Bank",
@@ -3363,7 +3848,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0040335": {
     "BANK": "IDFC FIRST Bank",
@@ -3380,7 +3866,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0040351": {
     "BANK": "IDFC FIRST Bank",
@@ -3397,7 +3884,8 @@
     "DISTRICT": "ANAND",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0040352": {
     "BANK": "IDFC FIRST Bank",
@@ -3414,7 +3902,8 @@
     "DISTRICT": "ANAND",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0040371": {
     "BANK": "IDFC FIRST Bank",
@@ -3431,24 +3920,26 @@
     "DISTRICT": "HIMMMATNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0040372": {
     "BANK": "IDFC FIRST Bank",
     "IFSC": "IDFB0040372",
     "MICR": "383751031",
     "BRANCH": "IDAR BRANCH",
-    "ADDRESS": "First Floor, Unit No 1 2 3 4 AND 5, Shree Preet Complex, Nagar Road, Idar (City) Gujarat 383430, Toll Free No 1800 419 8332",
+    "ADDRESS": "GROUND FLOOR, G3&G4 AKSHAR AVENUE, AMBAJI HIGHWAY ROAD, DIST. SABARKANTHA, IDAR, GUJARAT 383430",
     "STATE": "GUJARAT",
     "CONTACT": null,
     "UPI": true,
     "RTGS": true,
-    "CITY": "IDAR",
-    "CENTRE": "SABAR KANTHA",
-    "DISTRICT": "SABAR KANTHA",
+    "CITY": "SABAR KANTHA",
+    "CENTRE": "IDAR",
+    "DISTRICT": "IDAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0040374": {
     "BANK": "IDFC FIRST Bank",
@@ -3465,7 +3956,8 @@
     "DISTRICT": "SABAR KANTHA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0040375": {
     "BANK": "IDFC FIRST Bank",
@@ -3482,7 +3974,8 @@
     "DISTRICT": "MEHSANA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0040401": {
     "BANK": "IDFC FIRST Bank",
@@ -3499,7 +3992,8 @@
     "DISTRICT": "MEHSANA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0040421": {
     "BANK": "IDFC FIRST Bank",
@@ -3516,7 +4010,8 @@
     "DISTRICT": "PALANPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0040443": {
     "BANK": "IDFC FIRST Bank",
@@ -3533,7 +4028,8 @@
     "DISTRICT": "LALPAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0041101": {
     "BANK": "IDFC FIRST Bank",
@@ -3550,7 +4046,8 @@
     "DISTRICT": "SONKHEDA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041102": {
     "BANK": "IDFC FIRST Bank",
@@ -3567,7 +4064,8 @@
     "DISTRICT": "PIPARIYA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041103": {
     "BANK": "IDFC FIRST Bank",
@@ -3584,7 +4082,8 @@
     "DISTRICT": "BANKHEDI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041105": {
     "BANK": "IDFC FIRST Bank",
@@ -3601,7 +4100,8 @@
     "DISTRICT": "SEONI MALWA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041106": {
     "BANK": "IDFC FIRST Bank",
@@ -3618,7 +4118,8 @@
     "DISTRICT": "PAGDHAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041107": {
     "BANK": "IDFC FIRST Bank",
@@ -3635,7 +4136,8 @@
     "DISTRICT": "HOSHANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041109": {
     "BANK": "IDFC FIRST Bank",
@@ -3652,7 +4154,8 @@
     "DISTRICT": "HOSHANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041111": {
     "BANK": "IDFC FIRST Bank",
@@ -3669,14 +4172,15 @@
     "DISTRICT": "TIMURNI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041112": {
     "BANK": "IDFC FIRST Bank",
     "IFSC": "IDFB0041112",
     "MICR": "461751001",
-    "BRANCH": "HOSHANGABAD BRANCH",
-    "ADDRESS": "GROUND FLOOR ANAND NAGAR MEENAKSHI ROAD HOSHANGABAD MADHYA PRADESH461001, Toll Free No 1800 419 8332",
+    "BRANCH": "NARMADAPURAM BRANCH",
+    "ADDRESS": "GROUND FLOOR, ANAND NAGAR, MEENAKSHI ROAD, NARMADAPURAM, NARMADAPURAM, 461001",
     "STATE": "MADHYA PRADESH",
     "CONTACT": null,
     "UPI": true,
@@ -3686,7 +4190,8 @@
     "DISTRICT": "HOSHANGABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041113": {
     "BANK": "IDFC FIRST Bank",
@@ -3703,7 +4208,8 @@
     "DISTRICT": "MEHGWAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041171": {
     "BANK": "IDFC FIRST Bank",
@@ -3720,7 +4226,8 @@
     "DISTRICT": "KHATEGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041181": {
     "BANK": "IDFC FIRST Bank",
@@ -3737,7 +4244,8 @@
     "DISTRICT": "DHAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041201": {
     "BANK": "IDFC FIRST Bank",
@@ -3754,7 +4262,8 @@
     "DISTRICT": "UDA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041202": {
     "BANK": "IDFC FIRST Bank",
@@ -3771,7 +4280,8 @@
     "DISTRICT": "TAJPURA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041203": {
     "BANK": "IDFC FIRST Bank",
@@ -3788,7 +4298,8 @@
     "DISTRICT": "HARDA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041204": {
     "BANK": "IDFC FIRST Bank",
@@ -3805,7 +4316,8 @@
     "DISTRICT": "KHIRKIAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041221": {
     "BANK": "IDFC FIRST Bank",
@@ -3822,7 +4334,8 @@
     "DISTRICT": "DHAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041222": {
     "BANK": "IDFC FIRST Bank",
@@ -3839,7 +4352,8 @@
     "DISTRICT": "DHAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041223": {
     "BANK": "IDFC FIRST Bank",
@@ -3856,14 +4370,15 @@
     "DISTRICT": "DHAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041224": {
     "BANK": "IDFC FIRST Bank",
     "IFSC": "IDFB0041224",
     "MICR": "454751502",
     "BRANCH": "DEHRIYA SARAI BRANCH",
-    "ADDRESS": "SURVEY NO 58 MAHU NEEMACH ROAD PATEL NAGAR COLONY VILLAGE DEHARIYA SARAI, Toll Free No 1800 419 8332",
+    "ADDRESS": "GROUND FLOOR, WARD NO.4, MAIN ROAD, P.H NO. 55, GHATABILLOD, DEHRIYA SARAI, DIST DHAR, MADHYA PRADESH - 454773",
     "STATE": "MADHYA PRADESH",
     "CONTACT": null,
     "UPI": true,
@@ -3873,7 +4388,8 @@
     "DISTRICT": "DHAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041225": {
     "BANK": "IDFC FIRST Bank",
@@ -3890,7 +4406,8 @@
     "DISTRICT": "DHAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041241": {
     "BANK": "IDFC FIRST Bank",
@@ -3907,7 +4424,8 @@
     "DISTRICT": "SANWER",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041261": {
     "BANK": "IDFC FIRST Bank",
@@ -3924,7 +4442,8 @@
     "DISTRICT": "INDORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041262": {
     "BANK": "IDFC FIRST Bank",
@@ -3941,7 +4460,8 @@
     "DISTRICT": "INDORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041263": {
     "BANK": "IDFC FIRST Bank",
@@ -3958,7 +4478,8 @@
     "DISTRICT": "INDORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041264": {
     "BANK": "IDFC FIRST Bank",
@@ -3975,7 +4496,8 @@
     "DISTRICT": "INDORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041268": {
     "BANK": "IDFC FIRST Bank",
@@ -3992,7 +4514,8 @@
     "DISTRICT": "INDORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041269": {
     "BANK": "IDFC FIRST Bank",
@@ -4009,7 +4532,8 @@
     "DISTRICT": "INDORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041281": {
     "BANK": "IDFC FIRST Bank",
@@ -4026,7 +4550,8 @@
     "DISTRICT": "MANDSAUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041301": {
     "BANK": "IDFC FIRST Bank",
@@ -4043,7 +4568,8 @@
     "DISTRICT": "KHANDWA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041302": {
     "BANK": "IDFC FIRST Bank",
@@ -4060,7 +4586,8 @@
     "DISTRICT": "KHANDWA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041303": {
     "BANK": "IDFC FIRST Bank",
@@ -4077,7 +4604,8 @@
     "DISTRICT": "KHANDWA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041321": {
     "BANK": "IDFC FIRST Bank",
@@ -4094,7 +4622,8 @@
     "DISTRICT": "KHARGONE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041322": {
     "BANK": "IDFC FIRST Bank",
@@ -4111,7 +4640,8 @@
     "DISTRICT": "KHARGONE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041323": {
     "BANK": "IDFC FIRST Bank",
@@ -4128,7 +4658,8 @@
     "DISTRICT": "KHARGONE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041324": {
     "BANK": "IDFC FIRST Bank",
@@ -4145,14 +4676,15 @@
     "DISTRICT": "KHARGONE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041325": {
     "BANK": "IDFC FIRST Bank",
     "IFSC": "IDFB0041325",
     "MICR": "451751001",
     "BRANCH": "KHARGONE",
-    "ADDRESS": "SHOP NO. C-14 RADHA VALLABH MKT KHARGONE, DISTT. KHARGONE, MADHYA PRADESH - 451224, Toll Free No 1800 419 8332",
+    "ADDRESS": "GROUND FLOOR, P.H.NO.05,NAGAR PALIKA SIMA KHARGONE , NAGAR KHARGONE,DISTRICT KHARGONE, MADHYA PRADESH 451001",
     "STATE": "MADHYA PRADESH",
     "CONTACT": null,
     "UPI": true,
@@ -4162,7 +4694,8 @@
     "DISTRICT": "KHARGONE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041351": {
     "BANK": "IDFC FIRST Bank",
@@ -4179,7 +4712,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0041352": {
     "BANK": "IDFC FIRST Bank",
@@ -4196,7 +4730,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0041353": {
     "BANK": "IDFC FIRST Bank",
@@ -4213,7 +4748,8 @@
     "DISTRICT": "PUNE(CB)",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0041354": {
     "BANK": "IDFC FIRST Bank",
@@ -4230,7 +4766,8 @@
     "DISTRICT": "PUNE (M CORP.)",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0041355": {
     "BANK": "IDFC FIRST Bank",
@@ -4247,7 +4784,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0041356": {
     "BANK": "IDFC FIRST Bank",
@@ -4264,7 +4802,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0041357": {
     "BANK": "IDFC FIRST Bank",
@@ -4281,7 +4820,8 @@
     "DISTRICT": "PUNE (M.CORP.)",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0041358": {
     "BANK": "IDFC FIRST Bank",
@@ -4298,7 +4838,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0041359": {
     "BANK": "IDFC FIRST Bank",
@@ -4315,7 +4856,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0041369": {
     "BANK": "IDFC FIRST Bank",
@@ -4332,7 +4874,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0041371": {
     "BANK": "IDFC FIRST Bank",
@@ -4349,7 +4892,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0041372": {
     "BANK": "IDFC FIRST Bank",
@@ -4366,7 +4910,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0041373": {
     "BANK": "IDFC FIRST Bank",
@@ -4383,7 +4928,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0041374": {
     "BANK": "IDFC FIRST Bank",
@@ -4400,7 +4946,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0041375": {
     "BANK": "IDFC FIRST Bank",
@@ -4417,7 +4964,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0041376": {
     "BANK": "IDFC FIRST Bank",
@@ -4434,7 +4982,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0041379": {
     "BANK": "IDFC FIRST Bank",
@@ -4451,7 +5000,8 @@
     "DISTRICT": "PUNE├╜",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0041381": {
     "BANK": "IDFC FIRST Bank",
@@ -4468,7 +5018,8 @@
     "DISTRICT": "BHOPAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041382": {
     "BANK": "IDFC FIRST Bank",
@@ -4485,7 +5036,8 @@
     "DISTRICT": "BHOPAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041386": {
     "BANK": "IDFC FIRST Bank",
@@ -4502,7 +5054,8 @@
     "DISTRICT": "BHOPAL├╜",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041411": {
     "BANK": "IDFC FIRST Bank",
@@ -4519,7 +5072,8 @@
     "DISTRICT": "RAJGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041413": {
     "BANK": "IDFC FIRST Bank",
@@ -4536,7 +5090,8 @@
     "DISTRICT": "RAJGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0041431": {
     "BANK": "IDFC FIRST Bank",
@@ -4553,7 +5108,8 @@
     "DISTRICT": "PUNE├╜",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0041433": {
     "BANK": "IDFC FIRST Bank",
@@ -4570,7 +5126,8 @@
     "DISTRICT": "PUNE├╜",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0041434": {
     "BANK": "IDFC FIRST Bank",
@@ -4587,7 +5144,8 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0041438": {
     "BANK": "IDFC FIRST Bank",
@@ -4604,7 +5162,26 @@
     "DISTRICT": "PUNE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
+  "IDFB0041447": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0041447",
+    "MICR": "412751002",
+    "BRANCH": "SHIRUR BRANCH",
+    "ADDRESS": "GROUND FLOOR, UNITS NO. 3,4,9,10,13,14,17&18, SHAH COMPLEX, PANCHAYAT SAMITI, TALUKA SHIRUR, DIST.PUNE, MAHARASHTRA-412210, TOLL FREE NO-18004194332",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "PUNE",
+    "CENTRE": "SHIRUR",
+    "DISTRICT": "SHIRUR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0042101": {
     "BANK": "IDFC FIRST Bank",
@@ -4621,7 +5198,8 @@
     "DISTRICT": "MANDIDEEP",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0042121": {
     "BANK": "IDFC FIRST Bank",
@@ -4638,7 +5216,8 @@
     "DISTRICT": "UGARIYAWAS",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0042122": {
     "BANK": "IDFC FIRST Bank",
@@ -4655,7 +5234,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0042123": {
     "BANK": "IDFC FIRST Bank",
@@ -4672,7 +5252,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0042124": {
     "BANK": "IDFC FIRST Bank",
@@ -4689,7 +5270,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0042125": {
     "BANK": "IDFC FIRST Bank",
@@ -4706,7 +5288,8 @@
     "DISTRICT": "SHAHPURA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0042126": {
     "BANK": "IDFC FIRST Bank",
@@ -4723,7 +5306,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0042127": {
     "BANK": "IDFC FIRST Bank",
@@ -4740,7 +5324,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0042128": {
     "BANK": "IDFC FIRST Bank",
@@ -4757,7 +5342,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0042129": {
     "BANK": "IDFC FIRST Bank",
@@ -4774,7 +5360,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0042135": {
     "BANK": "IDFC FIRST Bank",
@@ -4791,7 +5378,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0042136": {
     "BANK": "IDFC FIRST Bank",
@@ -4808,7 +5396,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0042141": {
     "BANK": "IDFC FIRST Bank",
@@ -4825,7 +5414,8 @@
     "DISTRICT": "UJJAIN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0042142": {
     "BANK": "IDFC FIRST Bank",
@@ -4842,7 +5432,8 @@
     "DISTRICT": "RATLAM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0042161": {
     "BANK": "IDFC FIRST Bank",
@@ -4859,7 +5450,8 @@
     "DISTRICT": "KHEDA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0042162": {
     "BANK": "IDFC FIRST Bank",
@@ -4876,7 +5468,8 @@
     "DISTRICT": "KHEDA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0042181": {
     "BANK": "IDFC FIRST Bank",
@@ -4893,7 +5486,8 @@
     "DISTRICT": "AJMER",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0042182": {
     "BANK": "IDFC FIRST Bank",
@@ -4910,7 +5504,8 @@
     "DISTRICT": "AJMER",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0042184": {
     "BANK": "IDFC FIRST Bank",
@@ -4927,7 +5522,8 @@
     "DISTRICT": "AJMER",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0042185": {
     "BANK": "IDFC FIRST Bank",
@@ -4944,7 +5540,8 @@
     "DISTRICT": "AJMER",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0042201": {
     "BANK": "IDFC FIRST Bank",
@@ -4961,7 +5558,8 @@
     "DISTRICT": "RATLAM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0042221": {
     "BANK": "IDFC FIRST Bank",
@@ -4978,7 +5576,8 @@
     "DISTRICT": "SIKAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0042222": {
     "BANK": "IDFC FIRST Bank",
@@ -4995,7 +5594,8 @@
     "DISTRICT": "SHRIMADHOPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0042223": {
     "BANK": "IDFC FIRST Bank",
@@ -5012,7 +5612,8 @@
     "DISTRICT": "NAGAUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0042224": {
     "BANK": "IDFC FIRST Bank",
@@ -5029,7 +5630,8 @@
     "DISTRICT": "SIKAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0042225": {
     "BANK": "IDFC FIRST Bank",
@@ -5046,7 +5648,8 @@
     "DISTRICT": "SIKAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0042241": {
     "BANK": "IDFC FIRST Bank",
@@ -5063,7 +5666,8 @@
     "DISTRICT": "PANCH MAHALS",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0042242": {
     "BANK": "IDFC FIRST Bank",
@@ -5080,7 +5684,8 @@
     "DISTRICT": "PANCHMAHAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0042261": {
     "BANK": "IDFC FIRST Bank",
@@ -5097,7 +5702,8 @@
     "DISTRICT": "SURAT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0042262": {
     "BANK": "IDFC FIRST Bank",
@@ -5114,24 +5720,26 @@
     "DISTRICT": "SURAT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0042267": {
     "BANK": "IDFC FIRST Bank",
     "IFSC": "IDFB0042267",
     "MICR": "395751004",
     "BRANCH": "KAMREJ BRANCH",
-    "ADDRESS": "MAHAVEER SHOPPING COMPLEX, NEAR DISTRICT COOPERATIVE BANK, KAMREJ KADODARA ROAD, KAMREJ-394180 SURAT, TOLL FREE NUMBER 18004194332",
+    "ADDRESS": "GROUND FLOOR, JYOTI PARK SOCIETY , PLOT NO.43,NAVAGAM, KAMREJ CROSS ROAD, KAMREJ , SURAT - 394185",
     "STATE": "GUJARAT",
     "CONTACT": null,
     "UPI": true,
     "RTGS": true,
-    "CITY": "KAMREJ",
-    "CENTRE": "SURAT",
-    "DISTRICT": "SURAT",
+    "CITY": "SURAT",
+    "CENTRE": "KAMREJ",
+    "DISTRICT": "KAMREJ",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0042268": {
     "BANK": "IDFC FIRST Bank",
@@ -5148,7 +5756,8 @@
     "DISTRICT": "SURAT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0042269": {
     "BANK": "IDFC FIRST Bank",
@@ -5165,7 +5774,8 @@
     "DISTRICT": "SURAT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0042271": {
     "BANK": "IDFC FIRST Bank",
@@ -5182,7 +5792,8 @@
     "DISTRICT": "SURAT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0042276": {
     "BANK": "IDFC FIRST Bank",
@@ -5199,7 +5810,8 @@
     "DISTRICT": "SURAT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0042281": {
     "BANK": "IDFC FIRST Bank",
@@ -5216,7 +5828,8 @@
     "DISTRICT": "NASHIK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0042283": {
     "BANK": "IDFC FIRST Bank",
@@ -5233,7 +5846,8 @@
     "DISTRICT": "NASHIK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0042284": {
     "BANK": "IDFC FIRST Bank",
@@ -5250,7 +5864,8 @@
     "DISTRICT": "NASHIK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0042301": {
     "BANK": "IDFC FIRST Bank",
@@ -5267,7 +5882,8 @@
     "DISTRICT": "JHUNJHUNU",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0042302": {
     "BANK": "IDFC FIRST Bank",
@@ -5284,7 +5900,8 @@
     "DISTRICT": "JHUNJHUNU",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0042321": {
     "BANK": "IDFC FIRST Bank",
@@ -5301,7 +5918,8 @@
     "DISTRICT": "BHILWARA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0042341": {
     "BANK": "IDFC FIRST Bank",
@@ -5318,7 +5936,8 @@
     "DISTRICT": "GANDHINAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0042342": {
     "BANK": "IDFC FIRST Bank",
@@ -5335,7 +5954,8 @@
     "DISTRICT": "KALOL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0042343": {
     "BANK": "IDFC FIRST Bank",
@@ -5352,7 +5972,8 @@
     "DISTRICT": "GANDHINAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0042344": {
     "BANK": "IDFC FIRST Bank",
@@ -5369,7 +5990,8 @@
     "DISTRICT": "GANDHINAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0042361": {
     "BANK": "IDFC FIRST Bank",
@@ -5386,7 +6008,8 @@
     "DISTRICT": "PATAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0042381": {
     "BANK": "IDFC FIRST Bank",
@@ -5403,7 +6026,8 @@
     "DISTRICT": "VADODARA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0042382": {
     "BANK": "IDFC FIRST Bank",
@@ -5420,7 +6044,8 @@
     "DISTRICT": "VADODARA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0042383": {
     "BANK": "IDFC FIRST Bank",
@@ -5437,7 +6062,8 @@
     "DISTRICT": "VADODARA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0042385": {
     "BANK": "IDFC FIRST Bank",
@@ -5454,7 +6080,8 @@
     "DISTRICT": "VADODARA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0042386": {
     "BANK": "IDFC FIRST Bank",
@@ -5471,7 +6098,8 @@
     "DISTRICT": "VADODARA├╜",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0042387": {
     "BANK": "IDFC FIRST Bank",
@@ -5488,7 +6116,8 @@
     "DISTRICT": "VADODARA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0042401": {
     "BANK": "IDFC FIRST Bank",
@@ -5505,7 +6134,8 @@
     "DISTRICT": "NORTH GOA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GA"
   },
   "IDFB0042402": {
     "BANK": "IDFC FIRST Bank",
@@ -5522,7 +6152,8 @@
     "DISTRICT": "SOUTH GOA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GA"
   },
   "IDFB0042403": {
     "BANK": "IDFC FIRST Bank",
@@ -5539,7 +6170,8 @@
     "DISTRICT": "NORTH GOA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GA"
   },
   "IDFB0042405": {
     "BANK": "IDFC FIRST Bank",
@@ -5556,7 +6188,8 @@
     "DISTRICT": "NORTH GOA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GA"
   },
   "IDFB0042421": {
     "BANK": "IDFC FIRST Bank",
@@ -5573,7 +6206,8 @@
     "DISTRICT": "RAJKOT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0042425": {
     "BANK": "IDFC FIRST Bank",
@@ -5590,7 +6224,8 @@
     "DISTRICT": "RAJKOT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0042427": {
     "BANK": "IDFC FIRST Bank",
@@ -5607,7 +6242,8 @@
     "DISTRICT": "RAJKOT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0042429": {
     "BANK": "IDFC FIRST Bank",
@@ -5624,7 +6260,8 @@
     "DISTRICT": "RAJKOT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0042441": {
     "BANK": "IDFC FIRST Bank",
@@ -5641,7 +6278,8 @@
     "DISTRICT": "VALSAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0042443": {
     "BANK": "IDFC FIRST Bank",
@@ -5658,7 +6296,8 @@
     "DISTRICT": "KILLA PARDI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0042461": {
     "BANK": "IDFC FIRST Bank",
@@ -5675,7 +6314,8 @@
     "DISTRICT": "BHARUCH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0042481": {
     "BANK": "IDFC FIRST Bank",
@@ -5692,7 +6332,8 @@
     "DISTRICT": "JODHPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0042483": {
     "BANK": "IDFC FIRST Bank",
@@ -5709,7 +6350,8 @@
     "DISTRICT": "JODHPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0042484": {
     "BANK": "IDFC FIRST Bank",
@@ -5726,7 +6368,8 @@
     "DISTRICT": "JODHPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0042501": {
     "BANK": "IDFC FIRST Bank",
@@ -5743,7 +6386,8 @@
     "DISTRICT": "NAGPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0042503": {
     "BANK": "IDFC FIRST Bank",
@@ -5760,7 +6404,8 @@
     "DISTRICT": "NAGPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0042523": {
     "BANK": "IDFC FIRST Bank",
@@ -5777,7 +6422,8 @@
     "DISTRICT": "KOLHAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0042542": {
     "BANK": "IDFC FIRST Bank",
@@ -5794,7 +6440,8 @@
     "DISTRICT": "KOTA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0042562": {
     "BANK": "IDFC FIRST Bank",
@@ -5811,7 +6458,8 @@
     "DISTRICT": "UDAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0042563": {
     "BANK": "IDFC FIRST Bank",
@@ -5828,7 +6476,8 @@
     "DISTRICT": "UDAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0042564": {
     "BANK": "IDFC FIRST Bank",
@@ -5845,7 +6494,8 @@
     "DISTRICT": "UDAIPUR├╜",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0042622": {
     "BANK": "IDFC FIRST Bank",
@@ -5862,7 +6512,26 @@
     "DISTRICT": "BHAVNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
+  },
+  "IDFB0042624": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0042624",
+    "MICR": "364751091",
+    "BRANCH": "MAHUVA BRANCH",
+    "ADDRESS": "GROUND FLOOR AND SECOND FLOOR, PLOT NO. 1/C-3, STATION ROAD, REGIONAL DIST-MAHUVA, DIST-BHAVNAGAR, GUJARAT-364290, TOLL FREE NO-18004194332",
+    "STATE": "GUJARAT",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "BHAVNAGAR",
+    "CENTRE": "MAHUVA",
+    "DISTRICT": "MAHUVA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0042642": {
     "BANK": "IDFC FIRST Bank",
@@ -5879,7 +6548,8 @@
     "DISTRICT": "JAMNAGAR├╜",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0042662": {
     "BANK": "IDFC FIRST Bank",
@@ -5896,7 +6566,26 @@
     "DISTRICT": "SANGLI├╜",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
+  "IDFB0042665": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0042665",
+    "MICR": "416751152",
+    "BRANCH": "TASGAON BRANCH",
+    "ADDRESS": "GROUND & PART 1ST FLOOR,WARD NO.3,1804,GURUWAR PETH,TAL.TASGAON,DIST-SANGLI,MAHARASHTRA-416312,TOLL FREE NO. 18004194332",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "SANGLI",
+    "CENTRE": "TASGAON",
+    "DISTRICT": "TASGAON",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0042701": {
     "BANK": "IDFC FIRST Bank",
@@ -5913,7 +6602,8 @@
     "DISTRICT": "BARWANI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0042721": {
     "BANK": "IDFC FIRST Bank",
@@ -5930,7 +6620,8 @@
     "DISTRICT": "SHAJAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0042741": {
     "BANK": "IDFC FIRST Bank",
@@ -5947,7 +6638,8 @@
     "DISTRICT": "AGAR MALWA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0042761": {
     "BANK": "IDFC FIRST Bank",
@@ -5964,7 +6656,8 @@
     "DISTRICT": "ARAVALLI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0042781": {
     "BANK": "IDFC FIRST Bank",
@@ -5981,7 +6674,8 @@
     "DISTRICT": "RAJSAMAND",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0042801": {
     "BANK": "IDFC FIRST Bank",
@@ -5998,7 +6692,8 @@
     "DISTRICT": "PANCHMAHAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0042821": {
     "BANK": "IDFC FIRST Bank",
@@ -6015,7 +6710,8 @@
     "DISTRICT": "CHITTORGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0042841": {
     "BANK": "IDFC FIRST Bank",
@@ -6032,7 +6728,8 @@
     "DISTRICT": "TAPI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0042861": {
     "BANK": "IDFC FIRST Bank",
@@ -6049,7 +6746,8 @@
     "DISTRICT": "CHHINDWARA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0042881": {
     "BANK": "IDFC FIRST Bank",
@@ -6066,7 +6764,8 @@
     "DISTRICT": "MAHASAMUND",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "IDFB0042882": {
     "BANK": "IDFC FIRST Bank",
@@ -6083,7 +6782,8 @@
     "DISTRICT": "MAHASAMUND",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "IDFB0042923": {
     "BANK": "IDFC FIRST Bank",
@@ -6100,7 +6800,62 @@
     "DISTRICT": "SOLAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
+  "IDFB0042925": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0042925",
+    "MICR": "413751451",
+    "BRANCH": "AKLUJ BRANCH",
+    "ADDRESS": "GROUND FLOOR, 895/A/2B, VILLAGE-AKLUJ, TALUKA-MALSHIRAS, DIST-SOLAPUR, MAHARASHTRA-413101, TOLLFREE NO- 18004194332",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "SOLAPUR",
+    "CENTRE": "AKLUJ",
+    "DISTRICT": "AKLUJ",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
+  "IDFB0042926": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0042926",
+    "MICR": "413751151",
+    "BRANCH": "PANDHARPUR BRANCH",
+    "ADDRESS": "GROUND FLOOR AND FRIST FLOOR, 4026 27/B/2, LAXMI ROAD, MAHAVIR NAGAR , VILLAGE PANDHARPUR, TALUKA PANDHARPUR, DIST SOLAPUR, MAHARASHTRA-413304, TOLLFREE NO- 18004194332",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "SOLAPUR",
+    "CENTRE": "PANDHARPUR",
+    "DISTRICT": "PANDHARPUR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
+  "IDFB0042946": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0042946",
+    "MICR": "482751001",
+    "BRANCH": "KARMETA BRANCH",
+    "ADDRESS": "GROUND FLOOR, SHANKAR NAGAR, KATANGI ROAD, KHASRA NO. 242/1, WARD-73, KARMETA, JABALPUR- 482002, TOLLFREE N0. 18004194332",
+    "STATE": "MADHYA PRADESH",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "JABALPUR",
+    "CENTRE": "KARMETA",
+    "DISTRICT": "KARMETA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0042963": {
     "BANK": "IDFC FIRST Bank",
@@ -6117,7 +6872,8 @@
     "DISTRICT": "AHMADNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0042964": {
     "BANK": "IDFC FIRST Bank",
@@ -6134,7 +6890,8 @@
     "DISTRICT": "AHMEDNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0042965": {
     "BANK": "IDFC FIRST Bank",
@@ -6151,7 +6908,8 @@
     "DISTRICT": "AHMEDNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0042966": {
     "BANK": "IDFC FIRST Bank",
@@ -6168,7 +6926,8 @@
     "DISTRICT": "AHMEDNAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0042983": {
     "BANK": "IDFC FIRST Bank",
@@ -6185,7 +6944,8 @@
     "DISTRICT": "ALWAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0043001": {
     "BANK": "IDFC FIRST Bank",
@@ -6202,7 +6962,8 @@
     "DISTRICT": "CHURU",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0043021": {
     "BANK": "IDFC FIRST Bank",
@@ -6219,7 +6980,8 @@
     "DISTRICT": "BETUL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0043101": {
     "BANK": "IDFC FIRST Bank",
@@ -6236,7 +6998,8 @@
     "DISTRICT": "PALI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0043102": {
     "BANK": "IDFC FIRST Bank",
@@ -6253,7 +7016,8 @@
     "DISTRICT": "PALI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0043103": {
     "BANK": "IDFC FIRST Bank",
@@ -6270,7 +7034,8 @@
     "DISTRICT": "SUMERPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0043104": {
     "BANK": "IDFC FIRST Bank",
@@ -6287,7 +7052,8 @@
     "DISTRICT": "PALI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0043121": {
     "BANK": "IDFC FIRST Bank",
@@ -6304,7 +7070,8 @@
     "DISTRICT": "NEEMUCH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0043141": {
     "BANK": "IDFC FIRST Bank",
@@ -6321,7 +7088,8 @@
     "DISTRICT": "BURHANPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0043161": {
     "BANK": "IDFC FIRST Bank",
@@ -6338,7 +7106,8 @@
     "DISTRICT": "SEHORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0043162": {
     "BANK": "IDFC FIRST Bank",
@@ -6355,7 +7124,8 @@
     "DISTRICT": "SEHORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0043181": {
     "BANK": "IDFC FIRST Bank",
@@ -6372,7 +7142,8 @@
     "DISTRICT": "NAVSARI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0043221": {
     "BANK": "IDFC FIRST Bank",
@@ -6389,7 +7160,8 @@
     "DISTRICT": "JALORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0043241": {
     "BANK": "IDFC FIRST Bank",
@@ -6406,7 +7178,8 @@
     "DISTRICT": "BARMER",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0043261": {
     "BANK": "IDFC FIRST Bank",
@@ -6423,7 +7196,8 @@
     "DISTRICT": "CHHOTAUDEPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0043291": {
     "BANK": "IDFC FIRST Bank",
@@ -6440,7 +7214,8 @@
     "DISTRICT": "NARMADA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0043311": {
     "BANK": "IDFC FIRST Bank",
@@ -6457,7 +7232,8 @@
     "DISTRICT": "NAGPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0043312": {
     "BANK": "IDFC FIRST Bank",
@@ -6474,7 +7250,8 @@
     "DISTRICT": "NAGPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0043351": {
     "BANK": "IDFC FIRST Bank",
@@ -6491,7 +7268,8 @@
     "DISTRICT": "UJJAIN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "IDFB0043371": {
     "BANK": "IDFC FIRST Bank",
@@ -6508,7 +7286,8 @@
     "DISTRICT": "SURENDRANAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "IDFB0043411": {
     "BANK": "IDFC FIRST Bank",
@@ -6525,7 +7304,8 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0043417": {
     "BANK": "IDFC FIRST Bank",
@@ -6542,7 +7322,26 @@
     "DISTRICT": "JAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
+  },
+  "IDFB0043418": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0043418",
+    "MICR": "303751004",
+    "BRANCH": "BASSI BRANCH",
+    "ADDRESS": "GROUND & FIRST FLOOR,SHOP NO.2,SHOP NO.3,KALYAN SAGAR LAWN COMPLEX,VILLAGE BASSI,TEHSIL BASSI,DIST.JAIPUR,RAJASTHAN-303301,TOLL FREE NO. 18004194332",
+    "STATE": "RAJASTHAN",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "JAIPUR",
+    "CENTRE": "BASSI",
+    "DISTRICT": "BASSI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0043431": {
     "BANK": "IDFC FIRST Bank",
@@ -6559,7 +7358,8 @@
     "DISTRICT": "BARAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0043433": {
     "BANK": "IDFC FIRST Bank",
@@ -6576,7 +7376,8 @@
     "DISTRICT": "BARAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "IDFB0043451": {
     "BANK": "IDFC FIRST Bank",
@@ -6593,7 +7394,188 @@
     "DISTRICT": "JHALAWAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
+  },
+  "IDFB0043471": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0043471",
+    "MICR": "323751002",
+    "BRANCH": "BUNDI BRANCH",
+    "ADDRESS": "GROUND FLOOR, PATTANO. 34&44, DHAN MANDI ROAD, LANKA GATE, GURUNANAK COLONY, BUNDI, RAJASTHAN- 323001, TOLLFREE NO.- 18004194332",
+    "STATE": "RAJASTHAN",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "BUNDI",
+    "CENTRE": "BUNDI",
+    "DISTRICT": "BUNDI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
+  },
+  "IDFB0043542": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0043542",
+    "MICR": "425751152",
+    "BRANCH": "AMALNER BRANCH",
+    "ADDRESS": "GROUND FLOOR, SIDDHAKALA HOSPITAL, G.NO. 181/3, JOSHIPURA DHULE ROAD, TALUKA AMALNER, DIST. JALGAON, MAHARASHTRA-425401, TOLL FREE NO-18004194332",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": "00",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "JALGAON",
+    "CENTRE": "AMALNER",
+    "DISTRICT": "AMALNER",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
+  "IDFB0043544": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0043544",
+    "MICR": "424751202",
+    "BRANCH": "CHALISGAON BRANCH",
+    "ADDRESS": "GROUND FLOOR, PLOT NO.295, MAHATMA JYOTIBA PHULE COOPERATIVE HOUSING SOCIETY, TAL. CHALISGAON, DIST. JALGAON, MAHARASHTRA-424101, TOLL FREE NO.- 18004194332",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "JALGAON",
+    "CENTRE": "CHALISGAON",
+    "DISTRICT": "CHALISGAON",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
+  "IDFB0043572": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0043572",
+    "MICR": "415751151",
+    "BRANCH": "PHALTAN BRANCH",
+    "ADDRESS": "GROUND FLOOR, G1&G2, 1ST FLOOR-F1, SHREE SAI PLAZA, LAXMINAGAR, RING ROAD, DIST-SATARA, TAL-PHALTAN, MAHARASHTRA-415523, TOLL FREE NO-18004194332",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "SATARA",
+    "CENTRE": "PHALTAN",
+    "DISTRICT": "PHALTAN",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
+  "IDFB0043612": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0043612",
+    "MICR": "483751001",
+    "BRANCH": "KATNI BRANCH",
+    "ADDRESS": "GROUND FLOOR,H N 216,SHANTI NAGAR,94-HEMUKALANI WARD,MUNICIPAL CORPORATION AREA,KATNI,MADHYAPRADESH-483504,TOLL FREE NO-18004194332",
+    "STATE": "MADHYA PRADESH",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "KATNI",
+    "CENTRE": "KATNI",
+    "DISTRICT": "KATNI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
+  },
+  "IDFB0043652": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0043652",
+    "MICR": "362751002",
+    "BRANCH": "DOLATPARA BRANCH",
+    "ADDRESS": "GROUND AND FIRST FLOOR, PLOT NO.1, SURVEY NO.51/1, OPP. SAKKARBAUG, DOLATPARA, TAL . DIST JUNAGADH  GUJARAT - 362001, TOLL FREE NO 18004194332",
+    "STATE": "GUJARAT",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "JUNAGADH",
+    "CENTRE": "DOLATPARA",
+    "DISTRICT": "DOLATPARA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
+  },
+  "IDFB0043661": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0043661",
+    "MICR": "364751051",
+    "BRANCH": "BOTAD BRANCH",
+    "ADDRESS": "GROUND, 1ST 2ND AND 3RD FLOOR, CITY SURVEY NO. 5093 PAIKI OF SHEET NO. 87, STATION ROAD, CHATRI CHOWK, TALUKA BOTAD, DISTRICT BHAVNAGAR, GUJARAT-364710, TOLL FREE NO-18004194332",
+    "STATE": "GUJARAT",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "BOTAD",
+    "CENTRE": "BOTAD",
+    "DISTRICT": "BOTAD",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
+  },
+  "IDFB0043681": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0043681",
+    "MICR": "425751052",
+    "BRANCH": "SHIRPUR BRANCH",
+    "ADDRESS": "GROUND FLOOR, PLOT NO. 17, KHODAL VILLA, KRANTIVEER DADUSINGH CO-OP HOUSING SOCIETY LIMITED, VILLAGE- SHIRPUR BUDRUK, TALUKA-DISTRICT DHULE - 425405, TOLL FREE NO. -18004194332.",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "DHULE",
+    "CENTRE": "SHIRPUR",
+    "DISTRICT": "SHIRPUR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
+  "IDFB0043711": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0043711",
+    "MICR": "413751127",
+    "BRANCH": "OSMANABAD BRANCH",
+    "ADDRESS": "GROUND FLOOR & 1ST FLOOR, PLOT NO.9, CTS. 7843, TAL. OSMANABAD, DIST. OSMANABAD, SAMBHAJI NAGAR, OSMANABAD-413501, TOLL FREE NO-18004194332",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "OSMANABAD",
+    "CENTRE": "OSMANABAD",
+    "DISTRICT": "OSMANABAD",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
+  "IDFB0043821": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0043821",
+    "MICR": "431751152",
+    "BRANCH": "AMBAJOGAI BRANCH",
+    "ADDRESS": "GROUND FLOOR,9-1231/1,PLOT NO.37,38,39,40, PARALI ROAD,SANTOSH PALACE,AMBEDKAR CHOWK,VILLAGE AMBAJOGAI,TALUKA-AMBAJOGAI,MAHARASHTRA-431517,TOLL FREE NO.18004194332",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "BEED",
+    "CENTRE": "AMBAJOGAI",
+    "DISTRICT": "AMBAJOGAI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDFB0060101": {
     "BANK": "IDFC FIRST Bank",
@@ -6610,7 +7592,8 @@
     "DISTRICT": "KOLKATA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "IDFB0060102": {
     "BANK": "IDFC FIRST Bank",
@@ -6627,7 +7610,8 @@
     "DISTRICT": "NORTH TWENTY FOUR PARGANAS",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "IDFB0060103": {
     "BANK": "IDFC FIRST Bank",
@@ -6644,7 +7628,8 @@
     "DISTRICT": "KOLKATA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "IDFB0060109": {
     "BANK": "IDFC FIRST Bank",
@@ -6661,7 +7646,8 @@
     "DISTRICT": "SOUTH 24 PARGANAS",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "IDFB0060111": {
     "BANK": "IDFC FIRST Bank",
@@ -6678,7 +7664,8 @@
     "DISTRICT": "KOLKATA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "IDFB0060113": {
     "BANK": "IDFC FIRST Bank",
@@ -6695,7 +7682,8 @@
     "DISTRICT": "NORTH 24 PARGANAS",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "IDFB0060114": {
     "BANK": "IDFC FIRST Bank",
@@ -6712,7 +7700,8 @@
     "DISTRICT": "NORTH 24 PARGANAS",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "IDFB0060115": {
     "BANK": "IDFC FIRST Bank",
@@ -6729,7 +7718,8 @@
     "DISTRICT": "KOLKATA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "IDFB0060117": {
     "BANK": "IDFC FIRST Bank",
@@ -6746,7 +7736,8 @@
     "DISTRICT": "KOLKATA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "IDFB0060119": {
     "BANK": "IDFC FIRST Bank",
@@ -6763,7 +7754,8 @@
     "DISTRICT": "KOLKATA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "IDFB0060132": {
     "BANK": "IDFC FIRST Bank",
@@ -6780,7 +7772,8 @@
     "DISTRICT": "KOLKATA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "IDFB0060134": {
     "BANK": "IDFC FIRST Bank",
@@ -6797,7 +7790,8 @@
     "DISTRICT": "KOLKATA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "IDFB0060138": {
     "BANK": "IDFC FIRST Bank",
@@ -6814,7 +7808,8 @@
     "DISTRICT": "HAORA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "IDFB0060201": {
     "BANK": "IDFC FIRST Bank",
@@ -6831,7 +7826,8 @@
     "DISTRICT": "EAST KHASI HILLS",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-ML"
   },
   "IDFB0060221": {
     "BANK": "IDFC FIRST Bank",
@@ -6848,7 +7844,8 @@
     "DISTRICT": "WEST TRIPURA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TR"
   },
   "IDFB0060241": {
     "BANK": "IDFC FIRST Bank",
@@ -6865,7 +7862,8 @@
     "DISTRICT": "KHORDHA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "IDFB0060261": {
     "BANK": "IDFC FIRST Bank",
@@ -6882,7 +7880,8 @@
     "DISTRICT": "KAMRUP METROPOLITAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-AS"
   },
   "IDFB0060281": {
     "BANK": "IDFC FIRST Bank",
@@ -6899,7 +7898,8 @@
     "DISTRICT": "PATNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "IDFB0060282": {
     "BANK": "IDFC FIRST Bank",
@@ -6916,7 +7916,8 @@
     "DISTRICT": "PATNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "IDFB0060283": {
     "BANK": "IDFC FIRST Bank",
@@ -6933,7 +7934,8 @@
     "DISTRICT": "PATNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "IDFB0060284": {
     "BANK": "IDFC FIRST Bank",
@@ -6950,7 +7952,8 @@
     "DISTRICT": "PATNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "IDFB0060301": {
     "BANK": "IDFC FIRST Bank",
@@ -6967,7 +7970,8 @@
     "DISTRICT": "RAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "IDFB0060303": {
     "BANK": "IDFC FIRST Bank",
@@ -6984,7 +7988,8 @@
     "DISTRICT": "RAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "IDFB0060304": {
     "BANK": "IDFC FIRST Bank",
@@ -7001,7 +8006,8 @@
     "DISTRICT": "RAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "IDFB0060305": {
     "BANK": "IDFC FIRST Bank",
@@ -7018,7 +8024,8 @@
     "DISTRICT": "RAIPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "IDFB0060321": {
     "BANK": "IDFC FIRST Bank",
@@ -7035,7 +8042,8 @@
     "DISTRICT": "VARANASI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "IDFB0060322": {
     "BANK": "IDFC FIRST Bank",
@@ -7052,7 +8060,8 @@
     "DISTRICT": "VARANASI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "IDFB0060341": {
     "BANK": "IDFC FIRST Bank",
@@ -7069,7 +8078,8 @@
     "DISTRICT": "RANCHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "IDFB0060344": {
     "BANK": "IDFC FIRST Bank",
@@ -7086,7 +8096,8 @@
     "DISTRICT": "RANCHI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "IDFB0060363": {
     "BANK": "IDFC FIRST Bank",
@@ -7103,7 +8114,8 @@
     "DISTRICT": "CUTTACK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "IDFB0060364": {
     "BANK": "IDFC FIRST Bank",
@@ -7120,7 +8132,8 @@
     "DISTRICT": "BILASPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "IDFB0060365": {
     "BANK": "IDFC FIRST Bank",
@@ -7137,7 +8150,8 @@
     "DISTRICT": "RATANPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": null
   },
   "IDFB0060366": {
     "BANK": "IDFC FIRST Bank",
@@ -7154,7 +8168,8 @@
     "DISTRICT": "CUTTACK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "IDFB0060367": {
     "BANK": "IDFC FIRST Bank",
@@ -7171,7 +8186,8 @@
     "DISTRICT": "BILASPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "IDFB0060402": {
     "BANK": "IDFC FIRST Bank",
@@ -7188,7 +8204,8 @@
     "DISTRICT": "PURBI SINGHBHUM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "IDFB0060461": {
     "BANK": "IDFC FIRST Bank",
@@ -7205,7 +8222,26 @@
     "DISTRICT": "BALODABAZAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
+  },
+  "IDFB0060462": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0060462",
+    "MICR": "493751202",
+    "BRANCH": "BALODA BAZAR BRANCH",
+    "ADDRESS": "GROUND FLOOR, P.H.NO. 15, AMBEDKAR CHOWK, BALODA BAZAR, BHATAPARA, CHHATTISGARH-493332, TOLL FREE NO-18004194332",
+    "STATE": "CHHATTISGARH",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "BALODA BAZAR",
+    "CENTRE": "BALODA BAZAR",
+    "DISTRICT": "BALODA BAZAR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "IDFB0060481": {
     "BANK": "IDFC FIRST Bank",
@@ -7222,7 +8258,8 @@
     "DISTRICT": "DHAMTARI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "IDFB0060501": {
     "BANK": "IDFC FIRST Bank",
@@ -7239,7 +8276,8 @@
     "DISTRICT": "RAIGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "IDFB0060502": {
     "BANK": "IDFC FIRST Bank",
@@ -7256,7 +8294,26 @@
     "DISTRICT": "RAIGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
+  },
+  "IDFB0060504": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0060504",
+    "MICR": "496751003",
+    "BRANCH": "SARANGARH BRANCH",
+    "ADDRESS": "GROUND AND FIRST FLOOR, KHATA NO. 263,264,265,266,267/2,  P.H.NO. 28, RAIGARH ROAD, TEHSIL SARANGARH, CHHATTISGARH-496445, TOLL FREE NO-18004194332",
+    "STATE": "CHHATTISGARH",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "RAIGARH",
+    "CENTRE": "SARANGARH",
+    "DISTRICT": "SARANGARH",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "IDFB0060521": {
     "BANK": "IDFC FIRST Bank",
@@ -7273,7 +8330,8 @@
     "DISTRICT": "JANJGIR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "IDFB0060522": {
     "BANK": "IDFC FIRST Bank",
@@ -7290,7 +8348,8 @@
     "DISTRICT": "JANJGIR CHAMPA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "IDFB0060541": {
     "BANK": "IDFC FIRST Bank",
@@ -7307,7 +8366,8 @@
     "DISTRICT": "RAJNANDGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "IDFB0060561": {
     "BANK": "IDFC FIRST Bank",
@@ -7324,7 +8384,8 @@
     "DISTRICT": "DURG",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "IDFB0060562": {
     "BANK": "IDFC FIRST Bank",
@@ -7341,7 +8402,8 @@
     "DISTRICT": "DURG├╜",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "IDFB0060581": {
     "BANK": "IDFC FIRST Bank",
@@ -7358,7 +8420,8 @@
     "DISTRICT": "GARIYABAND",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "IDFB0060603": {
     "BANK": "IDFC FIRST Bank",
@@ -7375,7 +8438,8 @@
     "DISTRICT": "KORBA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "IDFB0060621": {
     "BANK": "IDFC FIRST Bank",
@@ -7392,7 +8456,8 @@
     "DISTRICT": "KHORDHA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "IDFB0060641": {
     "BANK": "IDFC FIRST Bank",
@@ -7409,7 +8474,8 @@
     "DISTRICT": "NAYAGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "IDFB0060661": {
     "BANK": "IDFC FIRST Bank",
@@ -7426,7 +8492,8 @@
     "DISTRICT": "PURI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "IDFB0060681": {
     "BANK": "IDFC FIRST Bank",
@@ -7443,7 +8510,8 @@
     "DISTRICT": "JAJPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "IDFB0060701": {
     "BANK": "IDFC FIRST Bank",
@@ -7460,7 +8528,8 @@
     "DISTRICT": "DHENKANAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "IDFB0060721": {
     "BANK": "IDFC FIRST Bank",
@@ -7477,7 +8546,8 @@
     "DISTRICT": "KEONJHAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "IDFB0060741": {
     "BANK": "IDFC FIRST Bank",
@@ -7494,7 +8564,8 @@
     "DISTRICT": "GANJAM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "IDFB0060742": {
     "BANK": "IDFC FIRST Bank",
@@ -7511,7 +8582,8 @@
     "DISTRICT": "GANJAM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "IDFB0060761": {
     "BANK": "IDFC FIRST Bank",
@@ -7528,7 +8600,8 @@
     "DISTRICT": "JASHPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "IDFB0060762": {
     "BANK": "IDFC FIRST Bank",
@@ -7545,7 +8618,8 @@
     "DISTRICT": "JASHPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "IDFB0060781": {
     "BANK": "IDFC FIRST Bank",
@@ -7562,7 +8636,26 @@
     "DISTRICT": "BHADRAK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
+  },
+  "IDFB0060802": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0060802",
+    "MICR": "759751102",
+    "BRANCH": "TURANGA BRANCH",
+    "ADDRESS": "GROUND FLOOR, PLOT NO. 4676, KHATA NO. 929/4523, AT/PO-HULURISINGHA, PS/DIST-ANGUL, ODISHA-759132, TOLL FREE NO-18004194332",
+    "STATE": "ODISHA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "ANGUL",
+    "CENTRE": "TURANGA",
+    "DISTRICT": "TURANGA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "IDFB0060821": {
     "BANK": "IDFC FIRST Bank",
@@ -7579,7 +8672,8 @@
     "DISTRICT": "BALOD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "IDFB0060841": {
     "BANK": "IDFC FIRST Bank",
@@ -7596,7 +8690,8 @@
     "DISTRICT": "KORIYA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "IDFB0060861": {
     "BANK": "IDFC FIRST Bank",
@@ -7613,7 +8708,8 @@
     "DISTRICT": "DIMAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-NL"
   },
   "IDFB0060881": {
     "BANK": "IDFC FIRST Bank",
@@ -7630,7 +8726,26 @@
     "DISTRICT": "BALESHWAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
+  },
+  "IDFB0060902": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0060902",
+    "MICR": "495751003",
+    "BRANCH": "SEEPAT ROAD BRANCH",
+    "ADDRESS": "GROUND AND MEZZANNINE FLOOR,WARD NO42,DR. SHYAMA PRASAD MUKERJEE NAGAR,SARKANDA THANA,SEEPAT ROAD, DIST.BILASPUR,BILASPUR,CHHATISGARH-495006, TOLL FREE NO.-18004194332",
+    "STATE": "CHHATTISGARH",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "BILASPUR",
+    "CENTRE": "SEEPAT ROAD",
+    "DISTRICT": "SEEPAT ROAD",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "IDFB0060921": {
     "BANK": "IDFC FIRST Bank",
@@ -7647,7 +8762,8 @@
     "DISTRICT": "JAGATSINGHPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "IDFB0060961": {
     "BANK": "IDFC FIRST Bank",
@@ -7664,7 +8780,26 @@
     "DISTRICT": "BARGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
+  },
+  "IDFB0061023": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0061023",
+    "MICR": "768751002",
+    "BRANCH": "HIRAKUD ROAD BRANCH",
+    "ADDRESS": "GROUND & FIRST FLOOR, UNIT NO.13(BAREIPALI), HARJIT PALACE, SAMBALPUR, ODISHA-768006, TOLLFREE NO- 18004194332",
+    "STATE": "ODISHA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "SAMBALPUR",
+    "CENTRE": "HIRAKUD ROAD",
+    "DISTRICT": "HIRAKUD ROAD",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "IDFB0061041": {
     "BANK": "IDFC FIRST Bank",
@@ -7681,7 +8816,8 @@
     "DISTRICT": "JHARSUGUDA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "IDFB0061061": {
     "BANK": "IDFC FIRST Bank",
@@ -7698,7 +8834,8 @@
     "DISTRICT": "SURGUJA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "IDFB0061081": {
     "BANK": "IDFC FIRST Bank",
@@ -7715,7 +8852,8 @@
     "DISTRICT": "SURAJPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "IDFB0061111": {
     "BANK": "IDFC FIRST Bank",
@@ -7732,7 +8870,8 @@
     "DISTRICT": "MAYURBHANJ",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "IDFB0061121": {
     "BANK": "IDFC FIRST Bank",
@@ -7749,7 +8888,8 @@
     "DISTRICT": "KENDRAPARA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "IDFB0061151": {
     "BANK": "IDFC FIRST Bank",
@@ -7766,7 +8906,8 @@
     "DISTRICT": "NORTH 24 PARGANAS",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "IDFB0061161": {
     "BANK": "IDFC FIRST Bank",
@@ -7783,7 +8924,26 @@
     "DISTRICT": "SUNDARGARH",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
+  },
+  "IDFB0061251": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0061251",
+    "MICR": "767751002",
+    "BRANCH": "BALANGIR BRANCH",
+    "ADDRESS": "GROUND FLOOR, DAMAYANTI HEIGHTS, COLLEGE SQUARE, RAJENDRA COLLEGE, FRONT OF BLOCK OFFICE N0.1, BALANGIR, ODISHA- 767001, TOLLFREE NO.-18004194332",
+    "STATE": "ODISHA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "BALANGIR",
+    "CENTRE": "BALANGIR",
+    "DISTRICT": "BALANGIR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "IDFB0061261": {
     "BANK": "IDFC FIRST Bank",
@@ -7800,7 +8960,8 @@
     "DISTRICT": "BHAWANIPATNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
   },
   "IDFB0080101": {
     "BANK": "IDFC FIRST Bank",
@@ -7817,7 +8978,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDFB0080102": {
     "BANK": "IDFC FIRST Bank",
@@ -7834,7 +8996,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDFB0080103": {
     "BANK": "IDFC FIRST Bank",
@@ -7851,7 +9014,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDFB0080104": {
     "BANK": "IDFC FIRST Bank",
@@ -7868,7 +9032,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDFB0080105": {
     "BANK": "IDFC FIRST Bank",
@@ -7885,7 +9050,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDFB0080106": {
     "BANK": "IDFC FIRST Bank",
@@ -7902,7 +9068,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDFB0080107": {
     "BANK": "IDFC FIRST Bank",
@@ -7919,7 +9086,8 @@
     "DISTRICT": "KANCHIPURAM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDFB0080108": {
     "BANK": "IDFC FIRST Bank",
@@ -7936,7 +9104,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDFB0080119": {
     "BANK": "IDFC FIRST Bank",
@@ -7953,7 +9122,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDFB0080121": {
     "BANK": "IDFC FIRST Bank",
@@ -7970,7 +9140,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDFB0080122": {
     "BANK": "IDFC FIRST Bank",
@@ -7987,7 +9158,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDFB0080123": {
     "BANK": "IDFC FIRST Bank",
@@ -8004,7 +9176,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDFB0080124": {
     "BANK": "IDFC FIRST Bank",
@@ -8021,7 +9194,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDFB0080125": {
     "BANK": "IDFC FIRST Bank",
@@ -8038,7 +9212,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDFB0080126": {
     "BANK": "IDFC FIRST Bank",
@@ -8055,7 +9230,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDFB0080127": {
     "BANK": "IDFC FIRST Bank",
@@ -8072,7 +9248,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDFB0080128": {
     "BANK": "IDFC FIRST Bank",
@@ -8089,7 +9266,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDFB0080131": {
     "BANK": "IDFC FIRST Bank",
@@ -8106,7 +9284,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDFB0080132": {
     "BANK": "IDFC FIRST Bank",
@@ -8123,7 +9302,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDFB0080133": {
     "BANK": "IDFC FIRST Bank",
@@ -8140,7 +9320,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDFB0080134": {
     "BANK": "IDFC FIRST Bank",
@@ -8157,14 +9338,15 @@
     "DISTRICT": "PUDUCHERRY",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-PY"
   },
   "IDFB0080135": {
     "BANK": "IDFC FIRST Bank",
     "IFSC": "IDFB0080135",
     "MICR": "600751017",
     "BRANCH": "VALASARAVAKKAM BRANCH",
-    "ADDRESS": "GROUND FLOOR, 37,SURVEY NO. 189 OF NO. 79,ARCOT ROAD, VALASARAVAKKAM,CHENNAI, TAMIL NADU - 600087, TOLL FREE NO. 18004194332",
+    "ADDRESS": "7-GA, GROUND FLOOR, JAMALS LAMECH GARDENS, ARCOT ROAD, LAMEK STREET, JANAKI NAGAR ALWARTHIRUNAGAR, VALASARAVAKKAM, CHENNAI-600087. TOLL FREE NO-18004194332",
     "STATE": "TAMIL NADU",
     "CONTACT": null,
     "UPI": true,
@@ -8174,7 +9356,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDFB0080137": {
     "BANK": "IDFC FIRST Bank",
@@ -8191,7 +9374,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDFB0080138": {
     "BANK": "IDFC FIRST Bank",
@@ -8208,7 +9392,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDFB0080142": {
     "BANK": "IDFC FIRST Bank",
@@ -8225,7 +9410,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDFB0080144": {
     "BANK": "IDFC FIRST Bank",
@@ -8242,7 +9428,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDFB0080147": {
     "BANK": "IDFC FIRST Bank",
@@ -8259,7 +9446,8 @@
     "DISTRICT": "CHENNAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDFB0080151": {
     "BANK": "IDFC FIRST Bank",
@@ -8276,7 +9464,8 @@
     "DISTRICT": "BANGALORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080152": {
     "BANK": "IDFC FIRST Bank",
@@ -8293,7 +9482,8 @@
     "DISTRICT": "BANGALORE URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080153": {
     "BANK": "IDFC FIRST Bank",
@@ -8310,7 +9500,8 @@
     "DISTRICT": "BANGALORE URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080154": {
     "BANK": "IDFC FIRST Bank",
@@ -8327,7 +9518,8 @@
     "DISTRICT": "BANGALORE URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080155": {
     "BANK": "IDFC FIRST Bank",
@@ -8344,7 +9536,8 @@
     "DISTRICT": "BANGALORE URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080156": {
     "BANK": "IDFC FIRST Bank",
@@ -8361,7 +9554,8 @@
     "DISTRICT": "BANGALORE URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080157": {
     "BANK": "IDFC FIRST Bank",
@@ -8378,7 +9572,8 @@
     "DISTRICT": "BANGALORE URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080158": {
     "BANK": "IDFC FIRST Bank",
@@ -8395,7 +9590,8 @@
     "DISTRICT": "BANGALORE URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080167": {
     "BANK": "IDFC FIRST Bank",
@@ -8412,7 +9608,8 @@
     "DISTRICT": "BANGALORE URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080168": {
     "BANK": "IDFC FIRST Bank",
@@ -8429,7 +9626,8 @@
     "DISTRICT": "BANGALORE URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080169": {
     "BANK": "IDFC FIRST Bank",
@@ -8446,7 +9644,8 @@
     "DISTRICT": "BANGALORE URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080171": {
     "BANK": "IDFC FIRST Bank",
@@ -8463,7 +9662,8 @@
     "DISTRICT": "BANGALORE URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080172": {
     "BANK": "IDFC FIRST Bank",
@@ -8480,7 +9680,8 @@
     "DISTRICT": "BANGALORE URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080173": {
     "BANK": "IDFC FIRST Bank",
@@ -8497,7 +9698,8 @@
     "DISTRICT": "BANGALORE URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080174": {
     "BANK": "IDFC FIRST Bank",
@@ -8514,7 +9716,8 @@
     "DISTRICT": "BANGALORE URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080175": {
     "BANK": "IDFC FIRST Bank",
@@ -8531,7 +9734,8 @@
     "DISTRICT": "BANGALORE URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080176": {
     "BANK": "IDFC FIRST Bank",
@@ -8548,7 +9752,8 @@
     "DISTRICT": "BANGALORE URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080177": {
     "BANK": "IDFC FIRST Bank",
@@ -8565,7 +9770,8 @@
     "DISTRICT": "BANGALORE URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080178": {
     "BANK": "IDFC FIRST Bank",
@@ -8582,7 +9788,8 @@
     "DISTRICT": "BANGALORE URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080179": {
     "BANK": "IDFC FIRST Bank",
@@ -8599,7 +9806,8 @@
     "DISTRICT": "BANGALORE URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080181": {
     "BANK": "IDFC FIRST Bank",
@@ -8616,7 +9824,8 @@
     "DISTRICT": "BANGALORE URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080182": {
     "BANK": "IDFC FIRST Bank",
@@ -8633,7 +9842,8 @@
     "DISTRICT": "BANGALORE URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080183": {
     "BANK": "IDFC FIRST Bank",
@@ -8650,7 +9860,8 @@
     "DISTRICT": "BANGALORE URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080184": {
     "BANK": "IDFC FIRST Bank",
@@ -8667,7 +9878,8 @@
     "DISTRICT": "BANGALORE URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080185": {
     "BANK": "IDFC FIRST Bank",
@@ -8684,7 +9896,8 @@
     "DISTRICT": "BANGALORE URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080186": {
     "BANK": "IDFC FIRST Bank",
@@ -8701,7 +9914,8 @@
     "DISTRICT": "BANGALORE URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080187": {
     "BANK": "IDFC FIRST Bank",
@@ -8718,7 +9932,8 @@
     "DISTRICT": "BANGALORE URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080188": {
     "BANK": "IDFC FIRST Bank",
@@ -8735,7 +9950,8 @@
     "DISTRICT": "BANGALORE URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080189": {
     "BANK": "IDFC FIRST Bank",
@@ -8752,7 +9968,8 @@
     "DISTRICT": "BANGALORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080191": {
     "BANK": "IDFC FIRST Bank",
@@ -8769,7 +9986,8 @@
     "DISTRICT": "BANGALORE URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080192": {
     "BANK": "IDFC FIRST Bank",
@@ -8786,7 +10004,8 @@
     "DISTRICT": "BANGALORE URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080195": {
     "BANK": "IDFC FIRST Bank",
@@ -8803,7 +10022,8 @@
     "DISTRICT": "BANGALORE URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080201": {
     "BANK": "IDFC FIRST Bank",
@@ -8820,7 +10040,8 @@
     "DISTRICT": "HYDERABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TG"
   },
   "IDFB0080202": {
     "BANK": "IDFC FIRST Bank",
@@ -8837,7 +10058,8 @@
     "DISTRICT": "HYDERABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TG"
   },
   "IDFB0080203": {
     "BANK": "IDFC FIRST Bank",
@@ -8854,7 +10076,8 @@
     "DISTRICT": "HYDERABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TG"
   },
   "IDFB0080204": {
     "BANK": "IDFC FIRST Bank",
@@ -8871,7 +10094,8 @@
     "DISTRICT": "HYDERABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TG"
   },
   "IDFB0080205": {
     "BANK": "IDFC FIRST Bank",
@@ -8888,7 +10112,8 @@
     "DISTRICT": "RANGAREDDI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TG"
   },
   "IDFB0080215": {
     "BANK": "IDFC FIRST Bank",
@@ -8905,7 +10130,8 @@
     "DISTRICT": "HYDERABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TG"
   },
   "IDFB0080218": {
     "BANK": "IDFC FIRST Bank",
@@ -8922,7 +10148,8 @@
     "DISTRICT": "HYDERABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TG"
   },
   "IDFB0080219": {
     "BANK": "IDFC FIRST Bank",
@@ -8939,7 +10166,8 @@
     "DISTRICT": "HYDERABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TG"
   },
   "IDFB0080221": {
     "BANK": "IDFC FIRST Bank",
@@ -8956,7 +10184,8 @@
     "DISTRICT": "HYDERABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TG"
   },
   "IDFB0080222": {
     "BANK": "IDFC FIRST Bank",
@@ -8973,7 +10202,8 @@
     "DISTRICT": "RANGAREDDY",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TG"
   },
   "IDFB0080224": {
     "BANK": "IDFC FIRST Bank",
@@ -8990,7 +10220,8 @@
     "DISTRICT": "HYDERABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TG"
   },
   "IDFB0080225": {
     "BANK": "IDFC FIRST Bank",
@@ -9007,7 +10238,8 @@
     "DISTRICT": "HYDERABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TG"
   },
   "IDFB0080228": {
     "BANK": "IDFC FIRST Bank",
@@ -9024,7 +10256,8 @@
     "DISTRICT": "RANGAREDDY",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TG"
   },
   "IDFB0080229": {
     "BANK": "IDFC FIRST Bank",
@@ -9041,7 +10274,8 @@
     "DISTRICT": "RANGAREDDY",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TG"
   },
   "IDFB0080231": {
     "BANK": "IDFC FIRST Bank",
@@ -9058,7 +10292,8 @@
     "DISTRICT": "HYDERABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TG"
   },
   "IDFB0080251": {
     "BANK": "IDFC FIRST Bank",
@@ -9075,24 +10310,26 @@
     "DISTRICT": "BELGAUM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080252": {
     "BANK": "IDFC FIRST Bank",
     "IFSC": "IDFB0080252",
     "MICR": "591751502",
-    "BRANCH": "GOKAK  BRANCH",
-    "ADDRESS": "3195-B/ 3/1D, HOSPET GALLI, ANAND TALKIES ROAD, GOKAK, DIST-BELAGAVI, KARNATAKA-591307, Toll Free No 1800 419 8332",
+    "BRANCH": "GOKAK BRANCH",
+    "ADDRESS": "GROUND FLOOR & FIRST FLOOR, ASSESSMENT NO.2982, PID NO.26-2-9-41, BAFNA CHOWK, RAVIWARPETH , GOKAK, KARNATAKA - 591307",
     "STATE": "KARNATAKA",
     "CONTACT": null,
     "UPI": true,
     "RTGS": true,
-    "CITY": "GOKAK",
-    "CENTRE": "BELGAUM",
-    "DISTRICT": "BELGAUM",
+    "CITY": "BELGAUM",
+    "CENTRE": "GOKAK",
+    "DISTRICT": "GOKAK",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080253": {
     "BANK": "IDFC FIRST Bank",
@@ -9109,7 +10346,8 @@
     "DISTRICT": "BELGAUM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080254": {
     "BANK": "IDFC FIRST Bank",
@@ -9126,7 +10364,8 @@
     "DISTRICT": "BELGAUM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080255": {
     "BANK": "IDFC FIRST Bank",
@@ -9143,13 +10382,14 @@
     "DISTRICT": "BELGAUM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080256": {
     "BANK": "IDFC FIRST Bank",
     "IFSC": "IDFB0080256",
     "MICR": "590751002",
-    "BRANCH": "BELGAUM BRANCH",
+    "BRANCH": "BELAGAVI BRANCH",
     "ADDRESS": "FIRST FLOOR, AADISHAKTI TOWERS, CTS NO.5650,SURVEY NO.236/2, KHANPUR ROAD, GOAVES,KARNATAKA STATE, 590003, Toll Free No 1800 419 8332",
     "STATE": "KARNATAKA",
     "CONTACT": null,
@@ -9160,7 +10400,8 @@
     "DISTRICT": "BELGAUM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080257": {
     "BANK": "IDFC FIRST Bank",
@@ -9177,41 +10418,44 @@
     "DISTRICT": "BELGAUM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080258": {
     "BANK": "IDFC FIRST Bank",
     "IFSC": "IDFB0080258",
     "MICR": "590751003",
-    "BRANCH": "BAILHONGAL BRANSH",
+    "BRANCH": "BAILAHONGAL BRANCH",
     "ADDRESS": "GROUND FLOOR,SHRI VEERABHADRESHWARA COMPLEX,10TH WARD,MYLARA BYPASS ROAD,HUVINA HADAGALI (TOWN),BELLARY DISTRICT 583219 KARNATAKA STATE,TOLL FREE NO 1800 419 8332",
     "STATE": "KARNATAKA",
     "CONTACT": null,
     "UPI": true,
     "RTGS": true,
-    "CITY": "BAILHONGAL",
-    "CENTRE": "BELGAUM",
-    "DISTRICT": "BELGAUM",
+    "CITY": "BELGAUM",
+    "CENTRE": "BAILHONGAL",
+    "DISTRICT": "BAILHONGAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080281": {
     "BANK": "IDFC FIRST Bank",
     "IFSC": "IDFB0080281",
     "MICR": "580751002",
-    "BRANCH": "HUBBALLI  BRANCH",
-    "ADDRESS": "GROUND FLOOR, H. NO.95, N PRIDE, PINTO ROAD, DESAI CROSS, DHARWAD DISTRICT, HUBBALLI, KARNATAKA- 580020, Toll Free No 1800 419 8332",
+    "BRANCH": "HUBBALLI BRANCH",
+    "ADDRESS": "GROUND FLOOR,PLOT NO. 26, CTS NO. 441/A, 5 A, CHALLAMARAD BUILDING , VIVEKANAND HOSPITAL ROAD, DESHPANDE NAGAR, HUBBALLI, KARNATAKA - 580029, TOLL FREE NO-18004194332",
     "STATE": "KARNATAKA",
     "CONTACT": null,
     "UPI": true,
     "RTGS": true,
-    "CITY": "HUBBALLI",
-    "CENTRE": "DHARWAD",
-    "DISTRICT": "DHARWAD",
+    "CITY": "DHARWAD",
+    "CENTRE": "HUBBALLI",
+    "DISTRICT": "HUBBALLI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080282": {
     "BANK": "IDFC FIRST Bank",
@@ -9228,7 +10472,8 @@
     "DISTRICT": "DHRWAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080283": {
     "BANK": "IDFC FIRST Bank",
@@ -9245,14 +10490,15 @@
     "DISTRICT": "DHARWAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080301": {
     "BANK": "IDFC FIRST Bank",
     "IFSC": "IDFB0080301",
     "MICR": "581751052",
     "BRANCH": "HAVERI BRANCH",
-    "ADDRESS": "GROUND FLOOR, VIDYANAGAR, A BLOCK, 3RD CROSS, HAVERI, PB ROAD, HAVERI - 581110, KARNATAKA STATE, Toll Free No 1800 419 8332",
+    "ADDRESS": "GROUND & FIRST FLOOR, CTS NO. 3336/6B, HANAGAL ROAD , HAVERI , KARNATAKA - 581110",
     "STATE": "KARNATAKA",
     "CONTACT": null,
     "UPI": true,
@@ -9262,7 +10508,8 @@
     "DISTRICT": "HAVERI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080302": {
     "BANK": "IDFC FIRST Bank",
@@ -9279,7 +10526,8 @@
     "DISTRICT": "HAVERI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080303": {
     "BANK": "IDFC FIRST Bank",
@@ -9296,24 +10544,26 @@
     "DISTRICT": "SHIGGAON",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080304": {
     "BANK": "IDFC FIRST Bank",
     "IFSC": "IDFB0080304",
     "MICR": "581751102",
     "BRANCH": "RANEBENNUR BRANCH",
-    "ADDRESS": "DEVI HEIGHTS, GROUND FLOOR, OPP KEB, PB ROAD, RANEBENNUR, HAVERI DISTRICT, KARNATAKA STATE, Toll Free No 1800 419 8332",
+    "ADDRESS": "GROUND FLOOR, PLOT NO.11, CMC NO. 550/893A, WARD NO. VIIB , UMASHANKAR NAGAR,HAVERI DIST, RANEBENNUR, KARNATAKA- 581115, TOLL FREE NO-18004194332",
     "STATE": "KARNATAKA",
     "CONTACT": null,
     "UPI": true,
     "RTGS": true,
-    "CITY": "RANEBENNUR",
-    "CENTRE": "HAVERI",
-    "DISTRICT": "HAVERI",
+    "CITY": "HAVERI",
+    "CENTRE": "RANEBENNUR",
+    "DISTRICT": "RANEBENNUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080331": {
     "BANK": "IDFC FIRST Bank",
@@ -9330,7 +10580,8 @@
     "DISTRICT": "BAGALKOTE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080332": {
     "BANK": "IDFC FIRST Bank",
@@ -9347,7 +10598,8 @@
     "DISTRICT": "BAGALKOTE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080333": {
     "BANK": "IDFC FIRST Bank",
@@ -9364,7 +10616,8 @@
     "DISTRICT": "BAGALKOTE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080334": {
     "BANK": "IDFC FIRST Bank",
@@ -9381,7 +10634,8 @@
     "DISTRICT": "BAGALKOT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080335": {
     "BANK": "IDFC FIRST Bank",
@@ -9398,7 +10652,8 @@
     "DISTRICT": "BAGALKOT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080336": {
     "BANK": "IDFC FIRST Bank",
@@ -9415,7 +10670,8 @@
     "DISTRICT": "BAGALKOTE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080351": {
     "BANK": "IDFC FIRST Bank",
@@ -9432,7 +10688,8 @@
     "DISTRICT": "KOPPAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080352": {
     "BANK": "IDFC FIRST Bank",
@@ -9449,7 +10706,8 @@
     "DISTRICT": "KOPPAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080353": {
     "BANK": "IDFC FIRST Bank",
@@ -9466,7 +10724,8 @@
     "DISTRICT": "KUSHTAGI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080354": {
     "BANK": "IDFC FIRST Bank",
@@ -9483,7 +10742,8 @@
     "DISTRICT": "KOPAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080381": {
     "BANK": "IDFC FIRST Bank",
@@ -9500,7 +10760,8 @@
     "DISTRICT": "GUNTUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
   },
   "IDFB0080384": {
     "BANK": "IDFC FIRST Bank",
@@ -9517,7 +10778,8 @@
     "DISTRICT": "GUNTUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
   },
   "IDFB0080385": {
     "BANK": "IDFC FIRST Bank",
@@ -9534,7 +10796,8 @@
     "DISTRICT": "GUNTUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
   },
   "IDFB0080386": {
     "BANK": "IDFC FIRST Bank",
@@ -9551,7 +10814,8 @@
     "DISTRICT": "GUNTUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
   },
   "IDFB0080387": {
     "BANK": "IDFC FIRST Bank",
@@ -9568,7 +10832,8 @@
     "DISTRICT": "GUNTUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
   },
   "IDFB0080391": {
     "BANK": "IDFC FIRST Bank",
@@ -9585,7 +10850,8 @@
     "DISTRICT": "KRISHNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
   },
   "IDFB0080392": {
     "BANK": "IDFC FIRST Bank",
@@ -9602,7 +10868,8 @@
     "DISTRICT": "VISHAKHAPATNAM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
   },
   "IDFB0080395": {
     "BANK": "IDFC FIRST Bank",
@@ -9619,7 +10886,8 @@
     "DISTRICT": "KRISHNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
   },
   "IDFB0080396": {
     "BANK": "IDFC FIRST Bank",
@@ -9636,7 +10904,8 @@
     "DISTRICT": "KRISHNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
   },
   "IDFB0080399": {
     "BANK": "IDFC FIRST Bank",
@@ -9653,7 +10922,8 @@
     "DISTRICT": "KRISHNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
   },
   "IDFB0080401": {
     "BANK": "IDFC FIRST Bank",
@@ -9670,7 +10940,8 @@
     "DISTRICT": "EAST GODAVARI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
   },
   "IDFB0080408": {
     "BANK": "IDFC FIRST Bank",
@@ -9687,7 +10958,8 @@
     "DISTRICT": "WEST GODAVARI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
   },
   "IDFB0080411": {
     "BANK": "IDFC FIRST Bank",
@@ -9704,7 +10976,8 @@
     "DISTRICT": "VISHAKAPATNAM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
   },
   "IDFB0080412": {
     "BANK": "IDFC FIRST Bank",
@@ -9721,7 +10994,26 @@
     "DISTRICT": "KRISHNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
+  },
+  "IDFB0080418": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0080418",
+    "MICR": "531751002",
+    "BRANCH": "ANAKAPALLI BRANCH",
+    "ADDRESS": "GROUND AND PART 1ST FLOOR, D.NO.10-16-29, WARD-10, BLOCK 16, GNT ROAD, NEAR SARVEPALLI COLLEGE, ANAKAPALLI TOWN, VISHAKAPATNAM, ANDHRA PRADESH-531002, TOLL FREE NO-18004194332",
+    "STATE": "ANDHRA PRADESH",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "VISAKHAPATNAM",
+    "CENTRE": "ANAKAPALLI",
+    "DISTRICT": "ANAKAPALLI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
   },
   "IDFB0080431": {
     "BANK": "IDFC FIRST Bank",
@@ -9738,24 +11030,26 @@
     "DISTRICT": "DAVANGERE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080432": {
     "BANK": "IDFC FIRST Bank",
     "IFSC": "IDFB0080432",
     "MICR": "577751003",
     "BRANCH": "CHANNAGIRI BRANCH",
-    "ADDRESS": "Ground Floor, 1836/2-1766/2, Muddenahali Kagathur Road, Rajathdri Complex, Channagiri, Davangere District, Karnataka - 577213, Toll Free No 1800 419 8332",
+    "ADDRESS": "GROUND AND FIRST FLOOR, PROPERTY NO 14-6-53B, NH 13, CHITRADURGA MAIN ROAD, KASBA HOBLI, CHANNAGIRI VILLAGE, TALUK CHANNAGIRI, DAVANGERE KARNATAKA - 577213",
     "STATE": "KARNATAKA",
     "CONTACT": null,
     "UPI": true,
     "RTGS": true,
-    "CITY": "CHANNAGIRI",
-    "CENTRE": "DAVANGERE",
-    "DISTRICT": "DAVANGERE",
+    "CITY": "DAVANGERE",
+    "CENTRE": "CHANNAGIRI",
+    "DISTRICT": "CHANNAGIRI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080433": {
     "BANK": "IDFC FIRST Bank",
@@ -9772,7 +11066,8 @@
     "DISTRICT": "DAVANGERE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080451": {
     "BANK": "IDFC FIRST Bank",
@@ -9789,14 +11084,15 @@
     "DISTRICT": "TIRUCHIRAPPALLI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDFB0080471": {
     "BANK": "IDFC FIRST Bank",
     "IFSC": "IDFB0080471",
     "MICR": "577751202",
-    "BRANCH": "SHIMOGA BRANCH",
-    "ADDRESS": "GROUND FLOOR,KHATA NO 1233-27-1547 & 1237-736-1546,BESIDES SURYA COMFORTS,3RD PARALLEL ROAD,DURGIGUDI,SHIMOGA 577201",
+    "BRANCH": "SHIVAMOGGA BRANCH",
+    "ADDRESS": "GROUND FLOOR, KHATHA NO. 3598, ASSESSMENT NO. 314, WARD NO. 5, NEHRU ROAD, DURGIGUDI EXTENSION , SHIMOGA- 577201, TOLL FREE NO-18004194332",
     "STATE": "KARNATAKA",
     "CONTACT": "+917625016871",
     "UPI": true,
@@ -9806,7 +11102,8 @@
     "DISTRICT": "SHIMOGA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080472": {
     "BANK": "IDFC FIRST Bank",
@@ -9823,7 +11120,8 @@
     "DISTRICT": "SHIMOGA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080473": {
     "BANK": "IDFC FIRST Bank",
@@ -9840,7 +11138,8 @@
     "DISTRICT": "SHIMOGA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080491": {
     "BANK": "IDFC FIRST Bank",
@@ -9857,7 +11156,8 @@
     "DISTRICT": "BELLARY",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080492": {
     "BANK": "IDFC FIRST Bank",
@@ -9874,7 +11174,8 @@
     "DISTRICT": "BELLARY",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080511": {
     "BANK": "IDFC FIRST Bank",
@@ -9891,7 +11192,8 @@
     "DISTRICT": "ERNAKULAM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080514": {
     "BANK": "IDFC FIRST Bank",
@@ -9908,7 +11210,8 @@
     "DISTRICT": "ERNAKULAM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KL"
   },
   "IDFB0080531": {
     "BANK": "IDFC FIRST Bank",
@@ -9925,7 +11228,8 @@
     "DISTRICT": "COIMBATORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDFB0080534": {
     "BANK": "IDFC FIRST Bank",
@@ -9942,7 +11246,8 @@
     "DISTRICT": "TIRUPPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDFB0080536": {
     "BANK": "IDFC FIRST Bank",
@@ -9959,7 +11264,8 @@
     "DISTRICT": "COIMBATORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDFB0080537": {
     "BANK": "IDFC FIRST Bank",
@@ -9976,7 +11282,8 @@
     "DISTRICT": "COIMBATORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDFB0080551": {
     "BANK": "IDFC FIRST Bank",
@@ -9993,7 +11300,8 @@
     "DISTRICT": "MADURAI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDFB0080571": {
     "BANK": "IDFC FIRST Bank",
@@ -10010,7 +11318,8 @@
     "DISTRICT": "MYSORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080591": {
     "BANK": "IDFC FIRST Bank",
@@ -10027,7 +11336,8 @@
     "DISTRICT": "SALEM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDFB0080611": {
     "BANK": "IDFC FIRST Bank",
@@ -10044,7 +11354,8 @@
     "DISTRICT": "MANGALURU",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080653": {
     "BANK": "IDFC FIRST Bank",
@@ -10061,7 +11372,8 @@
     "DISTRICT": "VELLORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDFB0080693": {
     "BANK": "IDFC FIRST Bank",
@@ -10078,7 +11390,8 @@
     "DISTRICT": "THIRUVANANTHAPURAM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KL"
   },
   "IDFB0080732": {
     "BANK": "IDFC FIRST Bank",
@@ -10095,7 +11408,8 @@
     "DISTRICT": "THRISSUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KL"
   },
   "IDFB0080792": {
     "BANK": "IDFC FIRST Bank",
@@ -10112,7 +11426,8 @@
     "DISTRICT": "ERODE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDFB0080811": {
     "BANK": "IDFC FIRST Bank",
@@ -10129,7 +11444,8 @@
     "DISTRICT": "BELGAUM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080831": {
     "BANK": "IDFC FIRST Bank",
@@ -10146,7 +11462,8 @@
     "DISTRICT": "BIJAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080851": {
     "BANK": "IDFC FIRST Bank",
@@ -10163,7 +11480,8 @@
     "DISTRICT": "GADAG",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080852": {
     "BANK": "IDFC FIRST Bank",
@@ -10180,7 +11498,8 @@
     "DISTRICT": "GADAG",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080872": {
     "BANK": "IDFC FIRST Bank",
@@ -10197,7 +11516,8 @@
     "DISTRICT": "WARANGAL",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TG"
   },
   "IDFB0080893": {
     "BANK": "IDFC FIRST Bank",
@@ -10214,7 +11534,8 @@
     "DISTRICT": "SRI POTTI SRIRAMULU NELLORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
   },
   "IDFB0080895": {
     "BANK": "IDFC FIRST Bank",
@@ -10231,7 +11552,8 @@
     "DISTRICT": "SRI POTTI SRIRAMULU NELLORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
   },
   "IDFB0080911": {
     "BANK": "IDFC FIRST Bank",
@@ -10248,7 +11570,8 @@
     "DISTRICT": "KANCHEEPURAM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDFB0080931": {
     "BANK": "IDFC FIRST Bank",
@@ -10265,7 +11588,8 @@
     "DISTRICT": "KOZHIKODE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KL"
   },
   "IDFB0080951": {
     "BANK": "IDFC FIRST Bank",
@@ -10282,7 +11606,8 @@
     "DISTRICT": "CHIKMAGALUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080952": {
     "BANK": "IDFC FIRST Bank",
@@ -10299,7 +11624,8 @@
     "DISTRICT": "CHIKMAGALUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080953": {
     "BANK": "IDFC FIRST Bank",
@@ -10316,7 +11642,8 @@
     "DISTRICT": "CHIKKAMAGALURU",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080971": {
     "BANK": "IDFC FIRST Bank",
@@ -10333,7 +11660,26 @@
     "DISTRICT": "UTTARA KANNAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
+  },
+  "IDFB0080972": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0080972",
+    "MICR": "581751202",
+    "BRANCH": "KARWAR BRANCH",
+    "ADDRESS": "GROUND FLOOR ,SHOP NO. 899/G/3,MENZIES GRANDE,SHOP NO.7,8, BLOCK-2,MULLA STOP,KAJUBAG MAIN ROAD,BAAD CIRCLE,KARWAR CITY ,DISTRICT - UTTARA KANNADA ,KARNATAKA - 581301,TOLL FREE NO.18004194332",
+    "STATE": "KARNATAKA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "UTTAR KANNAD",
+    "CENTRE": "KARWAR",
+    "DISTRICT": "KARWAR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080991": {
     "BANK": "IDFC FIRST Bank",
@@ -10350,7 +11696,8 @@
     "DISTRICT": "CHITRADURGA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080992": {
     "BANK": "IDFC FIRST Bank",
@@ -10367,7 +11714,8 @@
     "DISTRICT": "CHITRADURGA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0080993": {
     "BANK": "IDFC FIRST Bank",
@@ -10384,7 +11732,8 @@
     "DISTRICT": "CHITRADURGA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0081011": {
     "BANK": "IDFC FIRST Bank",
@@ -10401,7 +11750,8 @@
     "DISTRICT": "KRISHNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
   },
   "IDFB0081012": {
     "BANK": "IDFC FIRST Bank",
@@ -10418,7 +11768,8 @@
     "DISTRICT": "KRISHNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
   },
   "IDFB0081015": {
     "BANK": "IDFC FIRST Bank",
@@ -10435,7 +11786,8 @@
     "DISTRICT": "KRISHNA",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
   },
   "IDFB0081017": {
     "BANK": "IDFC FIRST Bank",
@@ -10452,7 +11804,8 @@
     "DISTRICT": "SRI POTTI SRIRAMULU NELLORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
   },
   "IDFB0081031": {
     "BANK": "IDFC FIRST Bank",
@@ -10469,7 +11822,8 @@
     "DISTRICT": "WEST GODAVARI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
   },
   "IDFB0081033": {
     "BANK": "IDFC FIRST Bank",
@@ -10486,7 +11840,8 @@
     "DISTRICT": "WEST GODHAVARI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
   },
   "IDFB0081036": {
     "BANK": "IDFC FIRST Bank",
@@ -10503,7 +11858,8 @@
     "DISTRICT": "EAST GODAVARI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
   },
   "IDFB0081039": {
     "BANK": "IDFC FIRST Bank",
@@ -10520,7 +11876,62 @@
     "DISTRICT": "EAST GODAVARI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
+  },
+  "IDFB0081042": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0081042",
+    "MICR": "534751005",
+    "BRANCH": "NARASAPURAM BRANCH",
+    "ADDRESS": "1ST FLOOR, DOOR NO. 5-4-23, DR. KRISHNAIAH COMPLEX, STEAMER ROAD, NEXT TO JANAKI HOSPITAL, NARASARAPURAM, WEST GODAVARI DISTRICT ,ANDHRA PRADESH- 534275, TOLL FREE NO. - 18004194332",
+    "STATE": "ANDHRA PRADESH",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "WEST GODHAVARI",
+    "CENTRE": "NARASAPURAM",
+    "DISTRICT": "NARASAPURAM",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
+  },
+  "IDFB0081043": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0081043",
+    "MICR": "533751004",
+    "BRANCH": "AMALAPURUM BRANCH",
+    "ADDRESS": "1ST &2ND FLOOR, DOOR NO.4-2-60/4, VADDIGUDEM ROAD, OPP. MUNICIPAL PARK, EAST GODAVARI, AMALAPURAM, EAST GODAVARI, ANDHRA PRADESH-533201, TOLL FREE NO. - 18004194332",
+    "STATE": "ANDHRA PRADESH",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "EAST GODAVARI",
+    "CENTRE": "AMALAPURUM",
+    "DISTRICT": "AMALAPURUM",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
+  },
+  "IDFB0081044": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0081044",
+    "MICR": "533751005",
+    "BRANCH": "TUNI BRANCH",
+    "ADDRESS": "GROUND & 1ST FLOOR,D NO. 6-7-1, CHANNAKANTARAO COMPLEX, BALAJI ROAD, TUNI, EAST GODAVARI DISTRICT, ANDHRA PRADESH-533401, TOLL FREE NO-18004194332",
+    "STATE": " ANDHRA PRADESH ",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "EAST GODAVARI",
+    "CENTRE": "TUNI",
+    "DISTRICT": "TUNI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": null
   },
   "IDFB0081061": {
     "BANK": "IDFC FIRST Bank",
@@ -10537,7 +11948,8 @@
     "DISTRICT": "PRAKASAM",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
   },
   "IDFB0081081": {
     "BANK": "IDFC FIRST Bank",
@@ -10554,7 +11966,8 @@
     "DISTRICT": "BELLARY",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0081101": {
     "BANK": "IDFC FIRST Bank",
@@ -10571,7 +11984,8 @@
     "DISTRICT": "BANGALORE URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0081103": {
     "BANK": "IDFC FIRST Bank",
@@ -10588,7 +12002,8 @@
     "DISTRICT": "BANGALORE URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0081105": {
     "BANK": "IDFC FIRST Bank",
@@ -10605,7 +12020,8 @@
     "DISTRICT": "BANGALORE URBAN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDFB0081106": {
     "BANK": "IDFC FIRST Bank",
@@ -10622,6 +12038,115 @@
     "DISTRICT": "BANGALORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
+  },
+  "IDFB0081611": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0081611",
+    "MICR": "508751002",
+    "BRANCH": "SURYAPET BRANCH",
+    "ADDRESS": "GROUND FLOOR,DNO. 1-2-270/57,WARD NO. 1,BLOCK NO.2,M G ROAD,BESIDE NEO HOSPITAL,DIST SURYAPET,TELANGANA- 508213,TOLL FREE NO. 18004194332",
+    "STATE": "TELANGANA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "SURYAPET",
+    "CENTRE": "SURYAPET",
+    "DISTRICT": "SURYAPET",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-TG"
+  },
+  "IDFB0081622": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0081622",
+    "MICR": "506751003",
+    "BRANCH": "JANGAON BRANCH",
+    "ADDRESS": "UPPER GROUND AND 1ST FLOOR, HYD 3/1, WARD NO.2, BALAJI NAGAR, TOWN & DISTRICT JANGAON, TELANGANA- 506167, TOLL FREE NO. -18004194332",
+    "STATE": "TELANGANA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "JANGAON",
+    "CENTRE": "JANGAON",
+    "DISTRICT": "JANGAON",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-TG"
+  },
+  "IDFB0081651": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0081651",
+    "MICR": "505751003",
+    "BRANCH": "JAGTIAL BRANCH",
+    "ADDRESS": "UPPER GROUND & FRIST FLOOR, D.NO 3-6-93, BLOCK NO.6, NIZAMABAD MAIN ROAD, SIVAR VANINAGAR, JAGTIAL MANDAL & DISTRICT, STATE- TELENGANA-505327, TOLLFREE N0- 18004194332",
+    "STATE": "TELANGANA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "JAGTIAL",
+    "CENTRE": "JAGTIAL",
+    "DISTRICT": "JAGTIAL",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-TG"
+  },
+  "IDFB0081661": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0081661",
+    "MICR": "504751002",
+    "BRANCH": "MANCHERIAL BRANCH",
+    "ADDRESS": "UPPER GROUND & 2ND FLOOR, D.NO. 10-86/1, BLOCK-10, BEHIND SRINIVAS TALKIES, MUNICIPALITY ROAD, MANCHERIAL, TELENGANA- 504208. 18004194332.",
+    "STATE": "TELANGANA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "MANCHERIAL",
+    "CENTRE": "MANCHERIAL",
+    "DISTRICT": "MANCHERIAL",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-TG"
+  },
+  "IDFB0081671": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0081671",
+    "MICR": "505751002",
+    "BRANCH": "PEDDAPALLI BRANCH",
+    "ADDRESS": "GROUND AND FIRST FLOOR, DOOR NO. 4-1-89&90, BLOCK-1, AMARA NAGAR, MASJID ROAD, PEDDAPALLI, TELANGANA - 505172, TOLL FREE NO. - 18004194332",
+    "STATE": "TELANGANA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "PEDDAPALLI",
+    "CENTRE": "PEDDAPALLI",
+    "DISTRICT": "PEDDAPALLI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-TG"
+  },
+  "IDFB0081702": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB0081702",
+    "MICR": "584751002",
+    "BRANCH": "LINGSUGUR BRANCH",
+    "ADDRESS": "GROUND FLOOR, FLAT NO.52, M.D.R COMPLEX, KALBURGI ROAD,VILLAGE-KARADAKAL SHIVARA, TALUKA-LINGSUGUR, DISTRICT-RAICHUR, KARNATAKA-584122, TOLLFREE NO. 18004194332",
+    "STATE": "KARNATAKA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "RAICHUR",
+    "CENTRE": "LINGSUGUR",
+    "DISTRICT": "LINGSUGUR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   }
 }

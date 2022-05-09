@@ -1,20 +1,21 @@
 {
   "VCOB0000001": {
-    "BANK": "The Vijay Co-operative Bank",
+    "BANK": "Vijay Co-operative Bank",
     "IFSC": "VCOB0000001",
-    "MICR": "380132099",
-    "BRANCH": "RTGS-HO",
-    "ADDRESS": "NOBLES BUILDING,OPP.NEHRU BRIDGE,ASHRAM ROAD",
-    "STATE": "GUJARAT",
-    "CONTACT": "+917926587688",
-    "UPI": false,
-    "RTGS": true,
-    "CITY": "AHMEDABAD",
+    "BRANCH": "Vijay Co-operative Bank IMPS",
     "CENTRE": "AHMEDABAD",
     "DISTRICT": "AHMEDABAD",
-    "NEFT": true,
+    "STATE": "MAHARASHTRA",
+    "ADDRESS": "NOBLES BUILDING,OPP.NEHRU BRIDGE,ASHRAM ROAD",
+    "CONTACT": "+917926587688",
     "IMPS": true,
-    "SWIFT": null
+    "CITY": "MUMBAI",
+    "UPI": true,
+    "MICR": "380132099",
+    "RTGS": true,
+    "NEFT": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "VCOB0000002": {
     "BANK": "The Vijay Co-operative Bank",
@@ -31,7 +32,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "VCOB0000003": {
     "BANK": "The Vijay Co-operative Bank",
@@ -48,7 +50,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "VCOB0000004": {
     "BANK": "The Vijay Co-operative Bank",
@@ -65,7 +68,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "VCOB0000005": {
     "BANK": "The Vijay Co-operative Bank",
@@ -82,7 +86,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "VCOB0000006": {
     "BANK": "The Vijay Co-operative Bank",
@@ -99,7 +104,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "VCOB0000008": {
     "BANK": "The Vijay Co-operative Bank",
@@ -116,7 +122,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "VCOB0000009": {
     "BANK": "The Vijay Co-operative Bank",
@@ -133,7 +140,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "VCOB0000010": {
     "BANK": "The Vijay Co-operative Bank",
@@ -150,7 +158,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "VCOB0000011": {
     "BANK": "The Vijay Co-operative Bank",
@@ -167,7 +176,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "VCOB0000012": {
     "BANK": "The Vijay Co-operative Bank",
@@ -184,7 +194,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "VCOB0000013": {
     "BANK": "The Vijay Co-operative Bank",
@@ -201,7 +212,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "VCOB0000014": {
     "BANK": "The Vijay Co-operative Bank",
@@ -218,7 +230,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "VCOB0000015": {
     "BANK": "The Vijay Co-operative Bank",
@@ -235,7 +248,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "VCOB0000016": {
     "BANK": "The Vijay Co-operative Bank",
@@ -252,7 +266,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "VCOB0000017": {
     "BANK": "The Vijay Co-operative Bank",
@@ -269,7 +284,8 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "VCOB0000018": {
     "BANK": "The Vijay Co-operative Bank",
@@ -286,6 +302,7 @@
     "DISTRICT": "AHMEDABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   }
 }

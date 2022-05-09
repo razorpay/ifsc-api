@@ -1,23 +1,24 @@
 {
   "SMCB0000001": {
-    "BANK": "Shivalik Mercantile Co-operative Bank",
+    "BANK": "Shivalik Small Finance Bank",
     "IFSC": "SMCB0000001",
-    "BRANCH": "Shivalik Mercantile Co-operative Bank IMPS",
+    "BRANCH": "Shivalik Small Finance Bank IMPS",
     "CENTRE": "SAHARANPUR",
     "DISTRICT": "SAHARANPUR",
-    "STATE": "UTTAR PRADESH",
+    "STATE": "MAHARASHTRA",
     "ADDRESS": "KAKIKAT NAGAR, SAHARANPUR 247001",
     "CONTACT": "+911322726125",
     "IMPS": true,
-    "CITY": "SAHARANPUR",
-    "UPI": true,
+    "CITY": "MUMBAI",
+    "UPI": false,
     "MICR": null,
     "RTGS": true,
     "NEFT": false,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "SMCB0001000": {
-    "BANK": "Shivalik Mercantile Co-operative Bank",
+    "BANK": "Shivalik Small Finance Bank",
     "IFSC": "SMCB0001000",
     "MICR": null,
     "BRANCH": "HEAD OFFICE",
@@ -31,10 +32,11 @@
     "DISTRICT": "SAHARANPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "SMCB0001001": {
-    "BANK": "Shivalik Mercantile Co-operative Bank",
+    "BANK": "Shivalik Small Finance Bank",
     "IFSC": "SMCB0001001",
     "MICR": "247721002",
     "BRANCH": "ANSARI ROAD",
@@ -48,10 +50,11 @@
     "DISTRICT": "SAHARANPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "SMCB0001002": {
-    "BANK": "Shivalik Mercantile Co-operative Bank",
+    "BANK": "Shivalik Small Finance Bank",
     "IFSC": "SMCB0001002",
     "MICR": "247721602",
     "BRANCH": "GANGOH",
@@ -65,10 +68,11 @@
     "DISTRICT": "SAHARANPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "SMCB0001003": {
-    "BANK": "Shivalik Mercantile Co-operative Bank",
+    "BANK": "Shivalik Small Finance Bank",
     "IFSC": "SMCB0001003",
     "MICR": "247721003",
     "BRANCH": "HAKIKAT NAGAR",
@@ -82,10 +86,11 @@
     "DISTRICT": "SAHARANPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "SMCB0001004": {
-    "BANK": "Shivalik Mercantile Co-operative Bank",
+    "BANK": "Shivalik Small Finance Bank",
     "IFSC": "SMCB0001004",
     "MICR": "247721202",
     "BRANCH": "DEOBAND",
@@ -99,10 +104,11 @@
     "DISTRICT": "SAHARANPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "SMCB0001005": {
-    "BANK": "Shivalik Mercantile Co-operative Bank",
+    "BANK": "Shivalik Small Finance Bank",
     "IFSC": "SMCB0001005",
     "MICR": "247721051",
     "BRANCH": "AMBEHTA",
@@ -116,10 +122,11 @@
     "DISTRICT": "SAHARANPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "SMCB0001006": {
-    "BANK": "Shivalik Mercantile Co-operative Bank",
+    "BANK": "Shivalik Small Finance Bank",
     "IFSC": "SMCB0001006",
     "MICR": "454721001",
     "BRANCH": "DHAR",
@@ -133,10 +140,11 @@
     "DISTRICT": "DHAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "SMCB0001007": {
-    "BANK": "Shivalik Mercantile Co-operative Bank",
+    "BANK": "Shivalik Small Finance Bank",
     "IFSC": "SMCB0001007",
     "MICR": "110721002",
     "BRANCH": "NOIDA SECTOR TWENTY SEVEN",
@@ -150,10 +158,11 @@
     "DISTRICT": "GAUTAM BUDH NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "SMCB0001008": {
-    "BANK": "Shivalik Mercantile Co-operative Bank",
+    "BANK": "Shivalik Small Finance Bank",
     "IFSC": "SMCB0001008",
     "MICR": "250721002",
     "BRANCH": "MEERUT",
@@ -167,10 +176,11 @@
     "DISTRICT": "MEERUT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "SMCB0001009": {
-    "BANK": "Shivalik Mercantile Co-operative Bank",
+    "BANK": "Shivalik Small Finance Bank",
     "IFSC": "SMCB0001009",
     "MICR": "247721004",
     "BRANCH": "CHILKANA ROAD",
@@ -184,10 +194,11 @@
     "DISTRICT": "SAHARANPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "SMCB0001010": {
-    "BANK": "Shivalik Mercantile Co-operative Bank",
+    "BANK": "Shivalik Small Finance Bank",
     "IFSC": "SMCB0001010",
     "MICR": "452721001",
     "BRANCH": "INDORE",
@@ -201,10 +212,11 @@
     "DISTRICT": "INDORE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "SMCB0001011": {
-    "BANK": "Shivalik Mercantile Co-operative Bank",
+    "BANK": "Shivalik Small Finance Bank",
     "IFSC": "SMCB0001011",
     "MICR": "247721054",
     "BRANCH": "NAGAL",
@@ -218,10 +230,11 @@
     "DISTRICT": "SAHARANPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "SMCB0001012": {
-    "BANK": "Shivalik Mercantile Co-operative Bank",
+    "BANK": "Shivalik Small Finance Bank",
     "IFSC": "SMCB0001012",
     "MICR": "247721053",
     "BRANCH": "SARSAWA",
@@ -235,10 +248,11 @@
     "DISTRICT": "SAHARANPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "SMCB0001013": {
-    "BANK": "Shivalik Mercantile Co-operative Bank",
+    "BANK": "Shivalik Small Finance Bank",
     "IFSC": "SMCB0001013",
     "MICR": "247721651",
     "BRANCH": "NANAUTA",
@@ -252,10 +266,11 @@
     "DISTRICT": "SAHARANPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "SMCB0001014": {
-    "BANK": "Shivalik Mercantile Co-operative Bank",
+    "BANK": "Shivalik Small Finance Bank",
     "IFSC": "SMCB0001014",
     "MICR": "247721052",
     "BRANCH": "RAMPUR MANIHARAN",
@@ -269,10 +284,11 @@
     "DISTRICT": "SAHARANPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "SMCB0001015": {
-    "BANK": "Shivalik Mercantile Co-operative Bank",
+    "BANK": "Shivalik Small Finance Bank",
     "IFSC": "SMCB0001015",
     "MICR": "110721003",
     "BRANCH": "GHAZIABAD G T RD",
@@ -286,10 +302,11 @@
     "DISTRICT": "GHAZIABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "SMCB0001016": {
-    "BANK": "Shivalik Mercantile Co-operative Bank",
+    "BANK": "Shivalik Small Finance Bank",
     "IFSC": "SMCB0001016",
     "MICR": "110721005",
     "BRANCH": "NOIDA SECTOR ONE THITYFIVE",
@@ -303,10 +320,11 @@
     "DISTRICT": "GAUTAM BUDH NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "SMCB0001017": {
-    "BANK": "Shivalik Mercantile Co-operative Bank",
+    "BANK": "Shivalik Small Finance Bank",
     "IFSC": "SMCB0001017",
     "MICR": "247721005",
     "BRANCH": "SHARDA NAGAR",
@@ -320,10 +338,11 @@
     "DISTRICT": "SAHARANPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "SMCB0001018": {
-    "BANK": "Shivalik Mercantile Co-operative Bank",
+    "BANK": "Shivalik Small Finance Bank",
     "IFSC": "SMCB0001018",
     "MICR": "251721002",
     "BRANCH": "MUZAFFAR NAGAR",
@@ -337,10 +356,11 @@
     "DISTRICT": "MUZAFFAR NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "SMCB0001019": {
-    "BANK": "Shivalik Mercantile Co-operative Bank",
+    "BANK": "Shivalik Small Finance Bank",
     "IFSC": "SMCB0001019",
     "MICR": "110721004",
     "BRANCH": "INDIRAPURAM GBD",
@@ -354,10 +374,11 @@
     "DISTRICT": "GHAZIABAD",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "SMCB0001020": {
-    "BANK": "Shivalik Mercantile Co-operative Bank",
+    "BANK": "Shivalik Small Finance Bank",
     "IFSC": "SMCB0001020",
     "MICR": "251721102",
     "BRANCH": "KHATAULI",
@@ -371,10 +392,11 @@
     "DISTRICT": "MUZAFFAR NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "SMCB0001021": {
-    "BANK": "Shivalik Mercantile Co-operative Bank",
+    "BANK": "Shivalik Small Finance Bank",
     "IFSC": "SMCB0001021",
     "MICR": "247721006",
     "BRANCH": "MADHO NAGAR",
@@ -388,10 +410,11 @@
     "DISTRICT": "SAHARANPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "SMCB0001022": {
-    "BANK": "Shivalik Mercantile Co-operative Bank",
+    "BANK": "Shivalik Small Finance Bank",
     "IFSC": "SMCB0001022",
     "MICR": "451721001",
     "BRANCH": "KHARGONE",
@@ -405,10 +428,11 @@
     "DISTRICT": "KHARGONE",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "SMCB0001023": {
-    "BANK": "Shivalik Mercantile Co-operative Bank",
+    "BANK": "Shivalik Small Finance Bank",
     "IFSC": "SMCB0001023",
     "MICR": "226721003",
     "BRANCH": "ALAMBAGH",
@@ -422,10 +446,11 @@
     "DISTRICT": "LUCKNOW",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "SMCB0001024": {
-    "BANK": "Shivalik Mercantile Co-operative Bank",
+    "BANK": "Shivalik Small Finance Bank",
     "IFSC": "SMCB0001024",
     "MICR": "226721002",
     "BRANCH": "VIKAS NAGAR",
@@ -439,10 +464,11 @@
     "DISTRICT": "LUCKNOW",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "SMCB0001025": {
-    "BANK": "Shivalik Mercantile Co-operative Bank",
+    "BANK": "Shivalik Small Finance Bank",
     "IFSC": "SMCB0001025",
     "MICR": "245721002",
     "BRANCH": "HAPUR",
@@ -456,10 +482,11 @@
     "DISTRICT": "HAPUR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "SMCB0001026": {
-    "BANK": "Shivalik Mercantile Co-operative Bank",
+    "BANK": "Shivalik Small Finance Bank",
     "IFSC": "SMCB0001026",
     "MICR": "247721302",
     "BRANCH": "SHAMLI",
@@ -473,10 +500,11 @@
     "DISTRICT": "SHAMLI",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "SMCB0001027": {
-    "BANK": "Shivalik Mercantile Co-operative Bank",
+    "BANK": "Shivalik Small Finance Bank",
     "IFSC": "SMCB0001027",
     "MICR": "110721006",
     "BRANCH": "NOIDA SECTOR FORTY FIVE",
@@ -490,10 +518,11 @@
     "DISTRICT": "GAUTAM BUDH NAGAR",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "SMCB0001028": {
-    "BANK": "Shivalik Mercantile Co-operative Bank",
+    "BANK": "Shivalik Small Finance Bank",
     "IFSC": "SMCB0001028",
     "MICR": "250721202",
     "BRANCH": "MAWANA",
@@ -507,10 +536,11 @@
     "DISTRICT": "MEERUT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "SMCB0001029": {
-    "BANK": "Shivalik Mercantile Co-operative Bank",
+    "BANK": "Shivalik Small Finance Bank",
     "IFSC": "SMCB0001029",
     "MICR": "455721001",
     "BRANCH": "DEWAS",
@@ -524,10 +554,11 @@
     "DISTRICT": "DEWAS",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "SMCB0001030": {
-    "BANK": "Shivalik Mercantile Co-operative Bank",
+    "BANK": "Shivalik Small Finance Bank",
     "IFSC": "SMCB0001030",
     "MICR": "456721001",
     "BRANCH": "UJJAIN",
@@ -541,10 +572,11 @@
     "DISTRICT": "UJJAIN",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "SMCB0001031": {
-    "BANK": "Shivalik Mercantile Co-operative Bank",
+    "BANK": "Shivalik Small Finance Bank",
     "IFSC": "SMCB0001031",
     "MICR": "250721102",
     "BRANCH": "SARDHANA",
@@ -558,6 +590,7 @@
     "DISTRICT": "MEERUT",
     "NEFT": true,
     "IMPS": true,
-    "SWIFT": null
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   }
 }

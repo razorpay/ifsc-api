@@ -15,6 +15,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-TR",
     "imps": false
   },
   "RBIS0AHPA01": {
@@ -33,6 +34,26 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-GJ",
+    "imps": false
+  },
+  "RBIS0AZPA01": {
+    "BANK": "Reserve Bank of India",
+    "IFSC": "RBIS0AZPA01",
+    "MICR": null,
+    "BRANCH": "RBI, AIZAWL",
+    "ADDRESS": "f. Kapsanga Building, 3rd Floor, Opp Assam Rifles Gate, Dawrpui",
+    "STATE": "MIZORAM",
+    "CONTACT": "+913892329333",
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "AIZAWL",
+    "CENTRE": "AIZAWL",
+    "DISTRICT": "AIZAWL",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MZ",
     "imps": false
   },
   "RBIS0BBPA01": {
@@ -51,6 +72,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-OR",
     "imps": false
   },
   "RBIS0BGPA01": {
@@ -69,6 +91,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-KA",
     "imps": false
   },
   "RBIS0BLPA01": {
@@ -87,6 +110,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-MP",
     "imps": false
   },
   "RBIS0CBICER": {
@@ -105,6 +129,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-MH",
     "imps": false
   },
   "RBIS0CGDAEP": {
@@ -123,6 +148,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-DL",
     "imps": false
   },
   "RBIS0CGPA01": {
@@ -141,6 +167,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-CH",
     "imps": false
   },
   "RBIS0CNPA01": {
@@ -159,6 +186,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-TN",
     "imps": false
   },
   "RBIS0COD001": {
@@ -177,6 +205,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-MH",
     "imps": false
   },
   "RBIS0DNPA01": {
@@ -195,6 +224,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-UT",
     "imps": false
   },
   "RBIS0GOAPEP": {
@@ -213,6 +243,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-TG",
     "imps": false
   },
   "RBIS0GOAPER": {
@@ -231,6 +262,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-TG",
     "imps": false
   },
   "RBIS0GOASEP": {
@@ -249,6 +281,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-AS",
     "imps": false
   },
   "RBIS0GOBHEP": {
@@ -267,6 +300,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-BR",
     "imps": false
   },
   "RBIS0GOCGEP": {
@@ -285,6 +319,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-CT",
     "imps": false
   },
   "RBIS0GOGJEP": {
@@ -303,6 +338,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-GJ",
     "imps": false
   },
   "RBIS0GOHREP": {
@@ -321,6 +357,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-HR",
     "imps": false
   },
   "RBIS0GOJHEP": {
@@ -339,6 +376,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-JH",
     "imps": false
   },
   "RBIS0GOJHER": {
@@ -357,6 +395,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-JH",
     "imps": false
   },
   "RBIS0GOJKEP": {
@@ -375,6 +414,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-JK",
     "imps": false
   },
   "RBIS0GOKAEP": {
@@ -393,6 +433,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-KA",
     "imps": false
   },
   "RBIS0GOKAER": {
@@ -411,6 +452,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-KA",
     "imps": false
   },
   "RBIS0GOKLEP": {
@@ -429,6 +471,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-KL",
     "imps": false
   },
   "RBIS0GOMHEP": {
@@ -447,6 +490,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-MH",
     "imps": false
   },
   "RBIS0GOMNEP": {
@@ -465,6 +509,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-AS",
     "imps": false
   },
   "RBIS0GOMZEP": {
@@ -483,6 +528,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-AS",
     "imps": false
   },
   "RBIS0GOODEP": {
@@ -501,6 +547,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-OR",
     "imps": false
   },
   "RBIS0GOPCEP": {
@@ -519,6 +566,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-TN",
     "imps": false
   },
   "RBIS0GOPNEP": {
@@ -537,6 +585,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-CH",
     "imps": false
   },
   "RBIS0GORJEP": {
@@ -555,6 +604,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-RJ",
     "imps": false
   },
   "RBIS0GOTGEP": {
@@ -573,6 +623,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-AP",
     "imps": false
   },
   "RBIS0GOTNEP": {
@@ -591,6 +642,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-TN",
     "imps": false
   },
   "RBIS0GOUKEP": {
@@ -609,6 +661,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-UT",
     "imps": false
   },
   "RBIS0GOUPEP": {
@@ -627,6 +680,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-UP",
     "imps": false
   },
   "RBIS0GOWBEP": {
@@ -645,6 +699,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-WB",
     "imps": false
   },
   "RBIS0GSTPMT": {
@@ -663,6 +718,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-MH",
     "imps": false
   },
   "RBIS0GTPA01": {
@@ -681,6 +737,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-SK",
     "imps": false
   },
   "RBIS0GWPA01": {
@@ -699,6 +756,26 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-AS",
+    "imps": false
+  },
+  "RBIS0IMPA01": {
+    "BANK": "Reserve Bank of India",
+    "IFSC": "RBIS0IMPA01",
+    "MICR": null,
+    "BRANCH": "RBI, IMPHAL",
+    "ADDRESS": "Opp. Manipur Legislative Assembly, Lilashing, Khongnangkhong",
+    "STATE": "MANIPUR",
+    "CONTACT": "+913852411565",
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "IMPHAL",
+    "CENTRE": "IMPHAL",
+    "DISTRICT": "IMPHAL",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MN",
     "imps": false
   },
   "RBIS0JMPA01": {
@@ -717,6 +794,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-JK",
     "imps": false
   },
   "RBIS0JPPA01": {
@@ -735,6 +813,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-RJ",
     "imps": false
   },
   "RBIS0KCPA01": {
@@ -753,6 +832,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-KL",
     "imps": false
   },
   "RBIS0KLPA01": {
@@ -771,6 +851,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-WB",
     "imps": false
   },
   "RBIS0KNPA01": {
@@ -789,6 +870,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-UP",
     "imps": false
   },
   "RBIS0LKPA01": {
@@ -807,6 +889,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-UP",
     "imps": false
   },
   "RBIS0MBPA04": {
@@ -825,6 +908,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-MH",
     "imps": false
   },
   "RBIS0NDPA01": {
@@ -843,6 +927,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-DL",
     "imps": false
   },
   "RBIS0NEFTHY": {
@@ -861,6 +946,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-AP",
     "imps": false
   },
   "RBIS0NGPA01": {
@@ -879,6 +965,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-MH",
     "imps": false
   },
   "RBIS0NMPA01": {
@@ -897,6 +984,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-MH",
     "imps": false
   },
   "RBIS0PFMS01": {
@@ -915,6 +1003,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-DL",
     "imps": false
   },
   "RBIS0PJPA01": {
@@ -933,6 +1022,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-GA",
     "imps": false
   },
   "RBIS0PTPA01": {
@@ -951,6 +1041,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-BR",
     "imps": false
   },
   "RBIS0PUPA01": {
@@ -969,6 +1060,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-MH",
     "imps": false
   },
   "RBIS0RBIPI0": {
@@ -981,12 +1073,13 @@
     "ADDRESS": "MAIN BUILDING, S B S MARG, MUMBAI-400001",
     "CONTACT": null,
     "IMPS": true,
-    "CITY": "MAHARASHTRA",
+    "CITY": "MUMBAI",
     "UPI": false,
     "MICR": null,
     "RTGS": true,
     "NEFT": false,
     "SWIFT": null,
+    "ISO3166": "IN-MH",
     "imps": false
   },
   "RBIS0RNPA01": {
@@ -1005,6 +1098,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-JH",
     "imps": false
   },
   "RBIS0RPPA01": {
@@ -1023,6 +1117,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-CT",
     "imps": false
   },
   "RBIS0SAMADN": {
@@ -1041,6 +1136,7 @@
     "RTGS": false,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-KA",
     "imps": false
   },
   "RBIS0SCPA01": {
@@ -1059,6 +1155,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-TN",
     "imps": false
   },
   "RBIS0SLPA01": {
@@ -1077,6 +1174,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-ML",
     "imps": false
   },
   "RBIS0SMPA01": {
@@ -1095,6 +1193,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-HP",
     "imps": false
   },
   "RBIS0THPA01": {
@@ -1113,6 +1212,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
+    "ISO3166": "IN-KL",
     "imps": false
   }
 }
