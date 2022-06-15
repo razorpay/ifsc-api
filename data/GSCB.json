@@ -13284,9 +13284,9 @@
     "ISO3166": "IN-MH"
   },
   "GSCB0KDT001": {
-    "BANK": "Kodinar Taluka Co-operative Banking Union K",
+    "BANK": "Kodinar Taluka Co-operative Banking Union",
     "IFSC": "GSCB0KDT001",
-    "BRANCH": "Kodinar Taluka Co-operative Banking Union K IMPS",
+    "BRANCH": "Kodinar Taluka Co-operative Banking Union IMPS",
     "CENTRE": "KODINAR",
     "DISTRICT": "KODINAR",
     "STATE": "MAHARASHTRA",
@@ -25611,7 +25611,8 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
-    "ISO3166": "IN-GJ"
+    "ISO3166": "IN-GJ",
+    "upi": true
   },
   "GSCB0USMB01": {
     "BANK": "Gujarat State Co-operative Bank",
@@ -26655,7 +26656,8 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
-    "ISO3166": "IN-GJ"
+    "ISO3166": "IN-GJ",
+    "upi": true
   },
   "GSCB0UTNSBL": {
     "BANK": "Gujarat State Co-operative Bank",
