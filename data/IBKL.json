@@ -50310,9 +50310,9 @@
     "ISO3166": "IN-MH"
   },
   "IBKL0463KDC": {
-    "BANK": "Kolhapur Dist.central Co-operative Bank Kolhapur",
+    "BANK": "Kolhapur District Central Co-operative Bank",
     "IFSC": "IBKL0463KDC",
-    "BRANCH": "Kolhapur Dist.central Co-operative Bank Kolhapur IMPS",
+    "BRANCH": "Kolhapur District Central Co-operative Bank IMPS",
     "CENTRE": "KOLHAPUR",
     "DISTRICT": "KOLHAPUR",
     "STATE": "MAHARASHTRA",
@@ -56841,7 +56841,8 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
-    "ISO3166": "IN-MH"
+    "ISO3166": "IN-MH",
+    "upi": true
   },
   "IBKL0729SUC": {
     "BANK": "Sonepat Urban Co-operative Bank",

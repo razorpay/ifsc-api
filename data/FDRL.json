@@ -935,6 +935,24 @@
     "SWIFT": null,
     "ISO3166": "IN-MH"
   },
+  "FDRL0000IPO": {
+    "BANK": "Federal Bank",
+    "IFSC": "FDRL0000IPO",
+    "BRANCH": "BUSINESS SOLUTIONS-WHOLESALE BANKING",
+    "ADDRESS": "BUSINESS SOLUTIONS - WHOLESALE BANKING,FIFTH FLOOR,C WING,LAXMI TOWERS,BKC MUMBAI,MAHARASHTRA,INDIA-400051",
+    "STATE": "MAHARASHTRA",
+    "MICR": null,
+    "CONTACT": "+919820190238",
+    "UPI": true,
+    "NEFT": true,
+    "CITY": "MUMBAI",
+    "CENTRE": "MUMBAI",
+    "DISTRICT": "MUMBAI",
+    "RTGS": false,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
   "FDRL0000TSY": {
     "BANK": "Federal Bank",
     "IFSC": "FDRL0000TSY",
@@ -23135,7 +23153,7 @@
     "MICR": "520049622",
     "BRANCH": "GOSALA",
     "ADDRESS": "DOOR NO 3-31,GROUND FLOOR, OPPOSITE CHANDRA THEATRE, GOSALA, KRISHNA DISTRICT, ANDHRA PRADESH 521151",
-    "STATE": " ANDHRA PRADESH ",
+    "STATE": "ANDHRA PRADESH",
     "CONTACT": "+918977945460",
     "UPI": true,
     "RTGS": true,
@@ -23145,7 +23163,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
-    "ISO3166": null
+    "ISO3166": "IN-AP"
   },
   "FDRL0002264": {
     "BANK": "Federal Bank",
