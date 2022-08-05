@@ -1,4 +1,4 @@
-FROM ruby:alpine3.13 as rdbbuilder
+FROM ruby:alpine3.16 as rdbbuilder
 
 WORKDIR /app
 ENV BUNDLE_GEMFILE=Gemfile.build
@@ -15,7 +15,7 @@ RUN echo "** installing deps **" && \
     echo "** running build script **" && \
     bundle exec ruby init.rb
 
-FROM ruby:alpine3.13
+FROM ruby:alpine3.16
 
 WORKDIR /app
 # Being explicit here, not needed
@@ -34,8 +34,6 @@ RUN echo "** installing deps **" && \
     bundle install && \
     echo "** removing eventmachine-build deps **" && \
     apk del .eventmachine-builddeps
-
-LABEL maintainer="Team Razorpay <contact@razorpay.com>"
 
 COPY --from=rdbbuilder /app/dump.rdb /app/
 # This is not clean because we can't run a COPY . anymore
