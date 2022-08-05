@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'sinatra'
 require 'redis'
 require 'thin'
@@ -17,9 +19,7 @@ class IFSCPlus < Razorpay::IFSC::IFSC
       regular_code = code[0..3].upcase
 
       custom_sublet_data.each do |prefix, value|
-        if (prefix == code[0..prefix.length - 1]) && (value.length == 4)
-          return value
-        end
+        return value if (prefix == code[0..prefix.length - 1]) && (value.length == 4)
       end
       sublet_code || regular_code
     end
@@ -35,11 +35,11 @@ configure do
     config.x_frame_options = 'DENY'
     config.csp = {
       img_src: %w[https://cdn.razorpay.com https://razorpay.com https://www.google-analytics.com https://stats.g.doubleclick.net],
-      default_src: %w['self' https://razorpay.com],
-      script_src: %w['self' https://www.google-analytics.com],
-      object_src: %w['none'],
-      font_src: %w['self' https://fonts.gstatic.com],
-      style_src: %w['self' 'unsafe-inline' https://fonts.googleapis.com]
+      default_src: %w[self https://razorpay.com],
+      script_src: %w[self https://www.google-analytics.com],
+      object_src: %w[none],
+      font_src: %w[self https://fonts.gstatic.com],
+      style_src: %w[self unsafe-inline https://fonts.googleapis.com]
     }
   end
 
@@ -76,11 +76,13 @@ helpers do
 
   def maybestr(str)
     return nil if str.empty?
+
     str
   end
 
   def ifsc_data(code)
     return nil unless code
+
     code = code.upcase
     data = settings.redis.hgetall code
 
@@ -111,17 +113,16 @@ get '/metrics' do
 end
 
 get '/:code' do
-  begin
-    data = ifsc_data(params['code'])
-    headers(
-      'Access-Control-Allow-Origin' => '*'
-    )
-    return json data if data
-    status 404
-    json 'Not Found'
-  rescue StandardError => e
-    puts e
-    status 404
-    json 'Not Found'
-  end
+  data = ifsc_data(params['code'])
+  headers(
+    'Access-Control-Allow-Origin' => '*'
+  )
+  return json data if data
+
+  status 404
+  json 'Not Found'
+rescue StandardError => e
+  puts e
+  status 404
+  json 'Not Found'
 end
