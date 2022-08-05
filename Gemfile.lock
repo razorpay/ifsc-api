@@ -16,11 +16,14 @@ GEM
     multi_xml (0.6.0)
     mustermann (2.0.2)
       ruby2_keywords (~> 0.0.1)
+    power_assert (2.0.1)
     prometheus-client (4.0.0)
     rack (2.2.4)
     rack-protection (2.2.2)
       rack
     rack-ssl-enforcer (0.2.9)
+    rack-test (2.0.2)
+      rack (>= 1.3)
     redis (4.7.1)
     rexml (3.2.5)
     ruby2_keywords (0.0.5)
@@ -30,6 +33,8 @@ GEM
       rack (~> 2.2)
       rack-protection (= 2.2.2)
       tilt (~> 2.0)
+    test-unit (3.5.3)
+      power_assert
     thin (1.8.1)
       daemons (~> 1.0, >= 1.0.9)
       eventmachine (~> 1.0, >= 1.0.4)
@@ -44,9 +49,11 @@ DEPENDENCIES
   kramdown
   prometheus-client
   rack-ssl-enforcer
+  rack-test (~> 2.0)
   redis
   secure_headers
   sinatra
+  test-unit (~> 3.5)
   thin
 
 BUNDLED WITH

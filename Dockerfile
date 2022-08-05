@@ -31,6 +31,7 @@ RUN echo "** installing deps **" && \
     echo "** updating bundler **" && \
     gem update bundler && \
     echo "** installing ruby gems **" && \
+    bundle config set --local without 'testing' && \
     bundle install && \
     echo "** removing eventmachine-build deps **" && \
     apk del .eventmachine-builddeps
