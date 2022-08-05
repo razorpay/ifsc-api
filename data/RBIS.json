@@ -113,6 +113,25 @@
     "ISO3166": "IN-MP",
     "imps": false
   },
+  "RBIS0CBDTER": {
+    "BANK": "Reserve Bank of India",
+    "IFSC": "RBIS0CBDTER",
+    "MICR": null,
+    "BRANCH": "MUMBAI REGIONAL OFFICE",
+    "ADDRESS": "POST BAG NO.901, MAIN BUILDING, SHAHID BHAGAT SINGH MARG, MUMBAI - 400001",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": "+912222603327",
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "MUMBAI",
+    "CENTRE": "MUMBAI",
+    "DISTRICT": "MUMBAI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH",
+    "imps": false
+  },
   "RBIS0CBICER": {
     "BANK": "Reserve Bank of India",
     "IFSC": "RBIS0CBICER",
