@@ -6,7 +6,6 @@ require 'thin'
 require 'json'
 require 'ifsc'
 require './metrics'
-require 'sinatra/json'
 require 'secure_headers'
 
 class IFSCPlus < Razorpay::IFSC::IFSC
@@ -35,11 +34,11 @@ configure do
     config.x_frame_options = 'DENY'
     config.csp = {
       img_src: %w[https://cdn.razorpay.com https://razorpay.com https://www.google-analytics.com https://stats.g.doubleclick.net],
-      default_src: %w[self https://razorpay.com],
-      script_src: %w[self https://www.google-analytics.com],
-      object_src: %w[none],
-      font_src: %w[self https://fonts.gstatic.com],
-      style_src: %w[self unsafe-inline https://fonts.googleapis.com]
+      default_src: %w['self' https://razorpay.com],
+      script_src: %w['self' https://www.google-analytics.com],
+      object_src: %w['none'],
+      font_src: %w['self' https://fonts.gstatic.com],
+      style_src: %w['self' 'unsafe-inline' https://fonts.googleapis.com]
     }
   end
 
@@ -115,14 +114,15 @@ end
 get '/:code' do
   data = ifsc_data(params['code'])
   headers(
-    'Access-Control-Allow-Origin' => '*'
+    'Access-Control-Allow-Origin' => '*',
+    'Content-Type' => 'application/json'
   )
-  return json data if data
+  return data.to_json if data
 
   status 404
-  json 'Not Found'
+  'Not Found'.to_json
 rescue StandardError => e
   puts e
   status 404
-  json 'Not Found'
+  'Not Found'.to_json
 end
