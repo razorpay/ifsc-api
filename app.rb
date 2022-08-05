@@ -74,6 +74,11 @@ helpers do
     end
   end
 
+  def maybestr(str)
+    return nil if str.empty?
+    str
+  end
+
   def ifsc_data(code)
     return nil unless code
     code = code.upcase
@@ -86,6 +91,8 @@ helpers do
       data['NEFT'] = strtobool data['NEFT']
       data['IMPS'] = strtobool data['IMPS']
       data['UPI'] = strtobool data['UPI']
+      data['MICR'] = maybestr data['MICR']
+      data['SWIFT'] = maybestr data['SWIFT']
       settings.metrics.increment code
     else
       data = nil
