@@ -1,10 +1,11 @@
+# frozen_string_literal: true
+
 require 'sinatra'
 require 'redis'
 require 'thin'
 require 'json'
 require 'ifsc'
 require './metrics'
-require 'sinatra/json'
 require 'secure_headers'
 
 class IFSCPlus < Razorpay::IFSC::IFSC
@@ -17,9 +18,7 @@ class IFSCPlus < Razorpay::IFSC::IFSC
       regular_code = code[0..3].upcase
 
       custom_sublet_data.each do |prefix, value|
-        if (prefix == code[0..prefix.length - 1]) && (value.length == 4)
-          return value
-        end
+        return value if (prefix == code[0..prefix.length - 1]) && (value.length == 4)
       end
       sublet_code || regular_code
     end
@@ -74,8 +73,15 @@ helpers do
     end
   end
 
+  def maybestr(str)
+    return nil if str.empty?
+
+    str
+  end
+
   def ifsc_data(code)
     return nil unless code
+
     code = code.upcase
     data = settings.redis.hgetall code
 
@@ -86,6 +92,8 @@ helpers do
       data['NEFT'] = strtobool data['NEFT']
       data['IMPS'] = strtobool data['IMPS']
       data['UPI'] = strtobool data['UPI']
+      data['MICR'] = maybestr data['MICR']
+      data['SWIFT'] = maybestr data['SWIFT']
       settings.metrics.increment code
     else
       data = nil
@@ -104,17 +112,17 @@ get '/metrics' do
 end
 
 get '/:code' do
-  begin
-    data = ifsc_data(params['code'])
-    headers(
-      'Access-Control-Allow-Origin' => '*'
-    )
-    return json data if data
-    status 404
-    json 'Not Found'
-  rescue StandardError => e
-    puts e
-    status 404
-    json 'Not Found'
-  end
+  data = ifsc_data(params['code'])
+  headers(
+    'Access-Control-Allow-Origin' => '*',
+    'Content-Type' => 'application/json'
+  )
+  return data.to_json if data
+
+  status 404
+  'Not Found'.to_json
+rescue StandardError => e
+  puts e
+  status 404
+  'Not Found'.to_json
 end
