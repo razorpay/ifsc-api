@@ -18714,7 +18714,7 @@
     "CITY": "INDORE",
     "CENTRE": "SAWER",
     "DISTRICT": "SAWER",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-MP"
@@ -77880,7 +77880,7 @@
     "CITY": "ANANTAPUR",
     "CENTRE": "ANANTAPUR",
     "DISTRICT": "ANANTAPUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-AP"
@@ -78096,7 +78096,7 @@
     "CITY": "JAIPUR",
     "CENTRE": "JAIPUR",
     "DISTRICT": "JAIPUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-RJ"
@@ -83339,6 +83339,24 @@
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-TN"
   },
+  "HDFC0005025": {
+    "BANK": "HDFC Bank",
+    "IFSC": "HDFC0005025",
+    "BRANCH": "CHODAVARAM",
+    "ADDRESS": "GR FLR SURVEY NO 73 1 73 2 73 3 GANDHI GRAM PANCHAYAT CHODAVARAM MANDAL VISHAKAPATNAM CHODAVARAM ANDHRA PRADESH 531036",
+    "STATE": "ANDHRA PRADESH",
+    "MICR": null,
+    "CONTACT": "+9118002026161",
+    "UPI": true,
+    "NEFT": true,
+    "CITY": "VISHAKHAPATNAM",
+    "CENTRE": "CHODAVARAM",
+    "DISTRICT": "CHODAVARAM",
+    "RTGS": false,
+    "IMPS": true,
+    "SWIFT": "HDFCINBB",
+    "ISO3166": "IN-AP"
+  },
   "HDFC0005026": {
     "BANK": "HDFC Bank",
     "IFSC": "HDFC0005026",
@@ -85188,7 +85206,7 @@
     "CITY": "AJMER",
     "CENTRE": "AJMER",
     "DISTRICT": "AJMER",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-RJ"
@@ -85584,7 +85602,7 @@
     "CITY": "YADADRI",
     "CENTRE": "YADAGIRIGUTTA",
     "DISTRICT": "YADAGIRIGUTTA",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-TG"
@@ -89796,7 +89814,7 @@
     "CITY": "HOSHIARPUR",
     "CENTRE": "NASRALA",
     "DISTRICT": "NASRALA",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-PB"
@@ -93252,7 +93270,7 @@
     "CITY": "KHAMMAM",
     "CENTRE": "KHAMMAM",
     "DISTRICT": "KHAMMAM",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-TG"
@@ -94404,7 +94422,7 @@
     "CITY": "BHADRADRI KOTHAGUDEM",
     "CENTRE": "MANUGUR",
     "DISTRICT": "MANUGUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-TG"
@@ -94998,7 +95016,7 @@
     "CITY": "AJMER",
     "CENTRE": "KISHANGARH",
     "DISTRICT": "KISHANGARH",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-RJ"
@@ -98706,7 +98724,7 @@
     "CITY": "JAIPUR",
     "CENTRE": "JAIPUR",
     "DISTRICT": "JAIPUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-RJ"
@@ -99678,7 +99696,7 @@
     "CITY": "JAIPUR",
     "CENTRE": "SHASTRI NAGAR",
     "DISTRICT": "SHASTRI NAGAR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-RJ"
@@ -100848,7 +100866,7 @@
     "CITY": "RAIPUR",
     "CENTRE": "RAIPUR",
     "DISTRICT": "RAIPUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-CT"
@@ -100866,7 +100884,7 @@
     "CITY": "RANGAREDDY",
     "CENTRE": "HYDERABAD",
     "DISTRICT": "HYDERABAD",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-TG"
@@ -101104,6 +101122,24 @@
     "IMPS": true,
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-MP"
+  },
+  "HDFC0007609": {
+    "BANK": "HDFC Bank",
+    "IFSC": "HDFC0007609",
+    "BRANCH": "PHILLAUR II",
+    "ADDRESS": "GROUND FLOOR B 8 48 TALWAN ROAD PHILLAUR PUNJAB 144410",
+    "STATE": "PUNJAB",
+    "MICR": null,
+    "CONTACT": "+9118002026161",
+    "UPI": true,
+    "NEFT": true,
+    "CITY": "JALANDHAR",
+    "CENTRE": "PHILLAUR",
+    "DISTRICT": "PHILLAUR",
+    "RTGS": false,
+    "IMPS": true,
+    "SWIFT": "HDFCINBB",
+    "ISO3166": "IN-PB"
   },
   "HDFC0007610": {
     "BANK": "HDFC Bank",
@@ -101892,7 +101928,7 @@
     "CITY": "BIKANER",
     "CENTRE": "NAPASAR",
     "DISTRICT": "NAPASAR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-RJ"
@@ -102072,7 +102108,7 @@
     "CITY": "CHITTOOR",
     "CENTRE": "MANGALAM",
     "DISTRICT": "MANGALAM",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-AP"
@@ -102270,7 +102306,7 @@
     "CITY": "RANGAREDDY",
     "CENTRE": "HYDERABAD",
     "DISTRICT": "HYDERABAD",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-TG"
@@ -102792,7 +102828,7 @@
     "CITY": "MAHBUBNAGAR",
     "CENTRE": "MAHBUBNAGAR",
     "DISTRICT": "MAHBUBNAGAR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-TG"
@@ -103044,7 +103080,7 @@
     "CITY": "BAREILLY",
     "CENTRE": "MAINPURI",
     "DISTRICT": "MAINPURI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-UP"
@@ -103062,7 +103098,7 @@
     "CITY": "HYDERABAD",
     "CENTRE": "HYDERABAD",
     "DISTRICT": "HYDERABAD",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-TG"
@@ -103206,7 +103242,7 @@
     "CITY": "AHMADABAD",
     "CENTRE": "AHMADABAD",
     "DISTRICT": "AHMADABAD",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-GJ"
@@ -103224,7 +103260,7 @@
     "CITY": "NAGARKURNOOL",
     "CENTRE": "ACHAMPET",
     "DISTRICT": "ACHAMPET",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-TG"
@@ -103242,7 +103278,7 @@
     "CITY": "RANGAREDDY",
     "CENTRE": "HYDERABAD",
     "DISTRICT": "HYDERABAD",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-TG"
@@ -104412,7 +104448,7 @@
     "CITY": "JAIPUR",
     "CENTRE": "JAIPUR",
     "DISTRICT": "JAIPUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-RJ"
@@ -104448,7 +104484,7 @@
     "CITY": "RAJKOT",
     "CENTRE": "RAJKOT",
     "DISTRICT": "RAJKOT",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-GJ"
@@ -104466,7 +104502,7 @@
     "CITY": "AJMER",
     "CENTRE": "AJMER",
     "DISTRICT": "AJMER",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-RJ"
@@ -104578,6 +104614,24 @@
     "IMPS": true,
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-AP"
+  },
+  "HDFC0008280": {
+    "BANK": "HDFC Bank",
+    "IFSC": "HDFC0008280",
+    "BRANCH": "JHOJHU KALAN",
+    "ADDRESS": "KHEWAT NO 372 KHATONI NO 423 KH NO 450 2 1 VILLAGE JHOJHU KALAN CHARKHI DADRI HARYANA 124105",
+    "STATE": "HARYANA",
+    "MICR": null,
+    "CONTACT": "+9118002026161",
+    "UPI": true,
+    "NEFT": true,
+    "CITY": "BHIWANI",
+    "CENTRE": "CHARKHI DADRI",
+    "DISTRICT": "CHARKHI DADRI",
+    "RTGS": false,
+    "IMPS": true,
+    "SWIFT": "HDFCINBB",
+    "ISO3166": "IN-HR"
   },
   "HDFC0008281": {
     "BANK": "HDFC Bank",
@@ -104795,6 +104849,42 @@
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-CH"
   },
+  "HDFC0008306": {
+    "BANK": "HDFC Bank",
+    "IFSC": "HDFC0008306",
+    "BRANCH": "CHARKHI DADRI II",
+    "ADDRESS": "GROUND FLOOR SAINI PURA MAIN OLD JHAJJAR ROAD CHARKHI DADRI HARYANA 127306",
+    "STATE": "HARYANA",
+    "MICR": null,
+    "CONTACT": "+9118002026161",
+    "UPI": true,
+    "NEFT": true,
+    "CITY": "BHIWANI",
+    "CENTRE": "CHARKHI DADRI",
+    "DISTRICT": "CHARKHI DADRI",
+    "RTGS": false,
+    "IMPS": true,
+    "SWIFT": "HDFCINBB",
+    "ISO3166": "IN-HR"
+  },
+  "HDFC0008308": {
+    "BANK": "HDFC Bank",
+    "IFSC": "HDFC0008308",
+    "BRANCH": "SARSWATI NAGAR SAWRA",
+    "ADDRESS": "RAPTA BUILDING SARSWATI NAGAR SAWRA TESHIL JUBBAL SARSWATI NAGAR HIMACHAL PRADESH 171206",
+    "STATE": "HIMACHAL PRADESH",
+    "MICR": null,
+    "CONTACT": "+9118002026161",
+    "UPI": true,
+    "NEFT": true,
+    "CITY": "SHIMLA",
+    "CENTRE": "SARSWATI NAGAR",
+    "DISTRICT": "SARSWATI NAGAR",
+    "RTGS": false,
+    "IMPS": true,
+    "SWIFT": "HDFCINBB",
+    "ISO3166": "IN-HP"
+  },
   "HDFC0008311": {
     "BANK": "HDFC Bank",
     "IFSC": "HDFC0008311",
@@ -104898,7 +104988,7 @@
     "CITY": "AJMER",
     "CENTRE": "AJMER",
     "DISTRICT": "AJMER",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-RJ"
@@ -119577,17 +119667,17 @@
     "BANK": "Raigad Sahakari Bank",
     "IFSC": "HDFC0C0RSBL",
     "BRANCH": "Raigad Sahakari Bank IMPS",
-    "CENTRE": "MUMBAI",
-    "DISTRICT": "MUMBAI",
+    "CENTRE": "NA",
+    "DISTRICT": "NA",
     "STATE": "MAHARASHTRA",
-    "ADDRESS": "3/4 , RAIGAD SADAN , ATUL COOP HOUSING SOCIETY , ABHYUDAYA NAGAR , KALACHOWKI , MUMBAI - 33",
-    "CONTACT": "+912224704334",
+    "ADDRESS": "NA",
+    "CONTACT": null,
     "IMPS": true,
     "CITY": "MUMBAI",
-    "UPI": true,
-    "MICR": null,
-    "NEFT": true,
+    "UPI": false,
+    "NEFT": false,
     "RTGS": false,
+    "MICR": null,
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-MH"
   },
@@ -120828,7 +120918,7 @@
     "CITY": "KOLKATA",
     "CENTRE": "NETAJI SUBHAS ROAD",
     "DISTRICT": "NETAJI SUBHAS ROAD",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-WB"
@@ -125094,7 +125184,7 @@
     "CITY": "PUNE",
     "CENTRE": "MANCHAR",
     "DISTRICT": "MANCHAR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-MH"
@@ -126858,7 +126948,7 @@
     "CITY": "AHMEDNAGAR",
     "CENTRE": "KOPARGAON",
     "DISTRICT": "KOPARGAON",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-MH"
@@ -126876,7 +126966,7 @@
     "CITY": "AHMEDNAGAR",
     "CENTRE": "KOPARGAON",
     "DISTRICT": "KOPARGAON",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-MH"
@@ -126894,7 +126984,7 @@
     "CITY": "AHMEDNAGAR",
     "CENTRE": "KOPARGAON",
     "DISTRICT": "KOPARGAON",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-MH"
@@ -126912,7 +127002,7 @@
     "CITY": "AHMEDNAGAR",
     "CENTRE": "KOPARGAON",
     "DISTRICT": "KOPARGAON",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-MH"
@@ -126930,7 +127020,7 @@
     "CITY": "NASHIK",
     "CENTRE": "KOPARGAON",
     "DISTRICT": "KOPARGAON",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-MH"
@@ -126948,7 +127038,7 @@
     "CITY": "AURANGABAD",
     "CENTRE": "KOPARGAON",
     "DISTRICT": "KOPARGAON",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-MH"
@@ -126966,7 +127056,7 @@
     "CITY": "AURANGABAD",
     "CENTRE": "KOPARGAON",
     "DISTRICT": "KOPARGAON",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-MH"
@@ -126984,7 +127074,7 @@
     "CITY": "AHMEDNAGAR",
     "CENTRE": "KOPARGAON",
     "DISTRICT": "KOPARGAON",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": "HDFCINBB",
     "ISO3166": "IN-MH"

@@ -12684,7 +12684,7 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-GJ"
@@ -13296,7 +13296,7 @@
     "CITY": "THAWAR",
     "CENTRE": "THAWAR",
     "DISTRICT": "THAWAR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-GJ"
@@ -22296,7 +22296,7 @@
     "CITY": "KOLKATA",
     "CENTRE": "KOLKATA",
     "DISTRICT": "KOLKATA",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-WB"
