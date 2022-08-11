@@ -20159,24 +20159,6 @@
     "SWIFT": null,
     "ISO3166": "IN-GJ"
   },
-  "YESB0001143": {
-    "BANK": "Yes Bank",
-    "IFSC": "YESB0001143",
-    "BRANCH": "DIU _x0013_ UNION TERRITORY",
-    "ADDRESS": "GR. FLOOR, SHOP NO. 1, 2, 3 & 4, ZAMPA BAHAR , OPP. SPORTS COMPLEX, DIU - 362520",
-    "STATE": "DADRA AND NAGAR HAVELI AND DAMAN AND DIU",
-    "MICR": null,
-    "CONTACT": "+9102218001200",
-    "UPI": true,
-    "NEFT": true,
-    "CITY": "DIU",
-    "CENTRE": "DIU",
-    "DISTRICT": "DIU",
-    "RTGS": false,
-    "IMPS": true,
-    "SWIFT": null,
-    "ISO3166": "IN-DH"
-  },
   "YESB0001144": {
     "BANK": "Yes Bank",
     "IFSC": "YESB0001144",
@@ -25644,7 +25626,7 @@
     "CITY": "INDORE",
     "CENTRE": "INDORE",
     "DISTRICT": "INDORE",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-MP"
@@ -25662,7 +25644,7 @@
     "CITY": "INDORE",
     "CENTRE": "INDORE",
     "DISTRICT": "INDORE",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-MP"
@@ -25680,7 +25662,7 @@
     "CITY": "INDORE",
     "CENTRE": "INDORE",
     "DISTRICT": "INDORE",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-MP"
@@ -25698,7 +25680,7 @@
     "CITY": "INDORE",
     "CENTRE": "INDORE",
     "DISTRICT": "INDORE",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-MP"
@@ -46313,6 +46295,24 @@
     "SWIFT": null,
     "ISO3166": "IN-MH"
   },
+  "YESB0PPCBL1": {
+    "BANK": "Yes Bank",
+    "IFSC": "YESB0PPCBL1",
+    "BRANCH": "THE PACHORA PEOPLES COOP BANK LTD",
+    "ADDRESS": "HEAD OFFICE-STATION ROAD,PACHORA-424201",
+    "STATE": "MAHARASHTRA",
+    "MICR": null,
+    "CONTACT": "+912596240094",
+    "UPI": true,
+    "NEFT": true,
+    "CITY": "JALGAON",
+    "CENTRE": "PACHORA",
+    "DISTRICT": "PACHORA",
+    "RTGS": false,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
   "YESB0PRAVRA": {
     "BANK": "Yes Bank",
     "IFSC": "YESB0PRAVRA",
@@ -48148,24 +48148,6 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-GJ"
-  },
-  "YESB0RCBL01": {
-    "BANK": "Yes Bank",
-    "IFSC": "YESB0RCBL01",
-    "BRANCH": "RAMGARHIA COOPERATIVE BANK LTD",
-    "ADDRESS": "1/4, DESH BANDHU GUPTA ROAD, PAHARGANJ, NEW DELHI - 110055",
-    "STATE": "DELHI",
-    "MICR": null,
-    "CONTACT": "+919811940358",
-    "UPI": true,
-    "NEFT": true,
-    "CITY": "DELHI",
-    "CENTRE": "DELHI",
-    "DISTRICT": "DELHI",
-    "RTGS": false,
-    "IMPS": true,
-    "SWIFT": null,
-    "ISO3166": "IN-DL"
   },
   "YESB0RCUB01": {
     "BANK": "Ravi Commercial Urban Co-operative Bank",
