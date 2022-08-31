@@ -1,6 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    connection_pool (2.2.5)
     daemons (1.4.1)
     eventmachine (1.2.7)
     httparty (0.20.0)
@@ -24,7 +25,10 @@ GEM
     rack-ssl-enforcer (0.2.9)
     rack-test (2.0.2)
       rack (>= 1.3)
-    redis (4.7.1)
+    redis (5.0.2)
+      redis-client (~> 0.7)
+    redis-client (0.7.1)
+      connection_pool
     rexml (3.2.5)
     ruby2_keywords (0.0.5)
     secure_headers (6.4.0)
