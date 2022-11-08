@@ -54,7 +54,7 @@ class IFSCPlus < Razorpay::IFSC::IFSC
         limit = [[Integer(limit),1].max(),100].min()
       end
       
-      # minimum and default offset is 0
+      # default and minimum offset is 0
       # maximum offset is size of filtered_df
       if offset.nil?
         offset = 0
