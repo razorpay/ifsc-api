@@ -26,4 +26,10 @@ class TestApp < Test::Unit::TestCase
     assert h['X-XSS-Protection'] == '1; mode=block'
     assert_equal data, JSON.parse(File.read 'test/HDFC0CAGSBK.json')
   end
+
+  def test_search_response
+    get '/search?limit=1&offset=0'
+    data = JSON.parse last_response.body
+    assert_equal data, JSON.parse(File.read 'test/search.json')
+  end
 end
