@@ -7,6 +7,10 @@ require 'json'
 require 'ifsc'
 require './metrics'
 require 'secure_headers'
+require 'daru'
+
+#load the dataframe on server start
+$df = Daru::DataFrame.from_csv("data/IFSC.csv")
 
 class IFSCPlus < Razorpay::IFSC::IFSC
   # Returns a 4 character known code for a bank
@@ -21,6 +25,51 @@ class IFSCPlus < Razorpay::IFSC::IFSC
         return value if (prefix == code[0..prefix.length - 1]) && (value.length == 4)
       end
       sublet_code || regular_code
+    end
+
+    # Gets details of banks given the bank name,
+    # city and state
+    def filter_banks(state = nil, city = nil, bank = nil, limit = nil, offset = nil)
+
+      filtered_df = $df
+
+      unless state.nil?
+        filtered_df = filtered_df.where(filtered_df["STATE"].eq(state))
+      end
+
+      unless city.nil?
+        filtered_df = filtered_df.where(filtered_df["CITY"].eq(city))
+      end
+
+      unless bank.nil?
+        filtered_df = filtered_df.where(filtered_df["BANK"].eq(bank))
+      end
+
+      # default limit is 10
+      # minimum limit is 1
+      # maximum limit is 100
+      if limit.nil?
+        limit = 10
+      else
+        limit = [[Integer(limit),1].max(),100].min()
+      end
+      
+      # minimum and default offset is 0
+      # maximum offset is size of filtered_df
+      if offset.nil?
+        offset = 0
+      else
+        offset = [[Integer(offset),0].max(),filtered_df.size].min()
+      end
+
+      paginated_df = filtered_df.row[offset..offset+limit-1]
+
+      result = Hash.new
+      result["data"] = JSON.parse(paginated_df.to_json)
+      result["hasNext"] = limit + offset < filtered_df.size
+      result["count"] = filtered_df.size
+
+      return result
     end
   end
 end
@@ -105,6 +154,17 @@ end
 get '/' do
   readme = File.read 'README.md'
   erb :index, locals: { text: markdown(readme) }
+end
+
+get '/search' do
+  content_type :json
+  data = IFSCPlus.filter_banks(params['state'], params['city'], params['bank'], params['limit'], params['offset'])
+  return data.to_json
+# to prevent any errors from non integer limit and offset when converted from string 
+rescue ArgumentError => e
+    puts e
+    status 400
+    'Invalid integer for limit or offset'.to_json
 end
 
 get '/metrics' do

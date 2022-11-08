@@ -8,6 +8,7 @@ gem 'redis'
 gem 'secure_headers'
 gem 'sinatra'
 gem 'thin'
+gem 'daru'
 
 gem "rack-test", "~> 2.0", :group => :testing
 
