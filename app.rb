@@ -10,7 +10,7 @@ require 'secure_headers'
 require 'daru'
 
 #load the dataframe on server start
-$df = Daru::DataFrame.from_csv("data/IFSC.csv")
+$df = Daru::DataFrame.from_csv("./data/IFSC.csv")
 
 class IFSCPlus < Razorpay::IFSC::IFSC
   # Returns a 4 character known code for a bank
