@@ -22,7 +22,7 @@ WORKDIR /app
 ENV BUNDLE_GEMFILE=Gemfile
 
 # Just copy enough to install dependencies and maintain cache
-COPY Gemfile Gemfile.lock /app/
+COPY Gemfile Gemfile.lock data/IFSC.csv /app/
 
 RUN echo "** installing deps **" && \
     apk --no-cache add dumb-init redis libstdc++ && \
