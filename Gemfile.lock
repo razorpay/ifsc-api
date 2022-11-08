@@ -54,7 +54,7 @@ DEPENDENCIES
   daru
   ifsc
   kramdown
-  matrix
+  matrix (~> 0.4.2)
   prometheus-client
   rack-ssl-enforcer
   rack-test (~> 2.0)
