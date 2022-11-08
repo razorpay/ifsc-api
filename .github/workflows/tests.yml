@@ -32,6 +32,6 @@ jobs:
           # Wait for it to come up
           sleep 10
           docker logs $container_name
-          curl -I http://localhost:3000
-          curl -v http://localhost:3000/HDFC0CAGSBK
+          curl -I https://localhost:3000
+          curl -v https://localhost:3000/HDFC0CAGSBK
           docker stop $container_name && docker rm $container_name && docker rmi ifsc-api
