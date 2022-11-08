@@ -13,3 +13,5 @@ gem 'daru'
 gem "rack-test", "~> 2.0", :group => :testing
 
 gem "test-unit", "~> 3.5", :group => :testing
+
+gem "matrix", "~> 0.4.2"

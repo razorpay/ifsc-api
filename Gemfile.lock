@@ -13,6 +13,7 @@ GEM
       httparty (~> 0.16)
     kramdown (2.4.0)
       rexml
+    matrix (0.4.2)
     mime-types (3.4.1)
       mime-types-data (~> 3.2015)
     mime-types-data (3.2022.0105)
@@ -53,6 +54,7 @@ DEPENDENCIES
   daru
   ifsc
   kramdown
+  matrix
   prometheus-client
   rack-ssl-enforcer
   rack-test (~> 2.0)
