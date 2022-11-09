@@ -69,9 +69,7 @@ class IFSCPlus < Razorpay::IFSC::IFSC
         paginated_df = filtered_df.row[offset..offset+limit-1]
       end
 
-      result = Hash.new
-      result["data"] = paginated_df.to_a[0]
-      puts paginated_df.to_a
+      result = {"data" => paginated_df.to_a[0]}
       result["hasNext"] = limit + offset < filtered_df.size
       result["count"] = filtered_df.size
 
