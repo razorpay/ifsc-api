@@ -162,7 +162,8 @@ end
 
 get '/search' do
   content_type :json
-  return IFSCPlus.filter_banks(params['state'], params['city'], params['bank'], params['limit'], params['offset']).to_json
+  data = IFSCPlus.filter_banks(params['state'], params['city'], params['bank'], params['limit'], params['offset'])
+  return JSON.generate(data)
 # to prevent any errors from non integer limit and offset when converted from string 
 rescue ArgumentError => e
     puts e
