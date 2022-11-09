@@ -8,6 +8,40 @@ Current API Root is <https://ifsc.razorpay.com/>
 
 The API documentation is maintained at https://github.com/razorpay/ifsc/wiki/API.
 
+### Search API
+|Route|Method|Response|
+|-----|------|--------|
+|/search|GET|JSON|
+#### Query parameters
+1. **state**: Filter used for querying by state
+2. **city**: Filter used for querying by city
+3. **bank**: Filter used for querying by bank name
+3. **limit**: The number of items to return
+4. **offset**: The offset from which to return data for pagination
+
+A sample response for `/search?limit=1&offset=0&bank=Delhi Nagrik Sehkari Bank`:
+
+```json
+{
+	"BRANCH": "Delhi Nagrik Sehkari Bank IMPS",
+	"CENTRE": "DELHI",
+	"DISTRICT": "DELHI",
+	"STATE": "MAHARASHTRA",
+	"ADDRESS": "720, NEAR GHANTAGHAR, SUBZI MANDI, DELHI - 110007",
+	"CONTACT": "+919560344685",
+	"IMPS": true,
+	"CITY": "MUMBAI",
+	"UPI": true,
+	"MICR": "110196002",
+	"RTGS": true,
+	"NEFT": true,
+	"SWIFT": "",
+	"ISO3166": "IN-MH",
+	"BANK": "Delhi Nagrik Sehkari Bank",
+	"BANKCODE": "DENS",
+	"IFSC": "YESB0DNB002"
+}
+``` 
 ### Running the Docker Image
 
 You can pull the image from `razorpay/ifsc:latest`
