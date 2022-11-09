@@ -30,8 +30,8 @@ jobs:
           docker build -t ifsc-api .
           container_name=$(docker run --publish 3000:3000 --detach ifsc-api .)
           # Wait for it to come up
-          sleep 10
+          sleep 100
           docker logs $container_name
-          wget http://localhost:3000
+          curl -I http://localhost:3000
           curl -v http://localhost:3000/HDFC0CAGSBK
           docker stop $container_name && docker rm $container_name && docker rmi ifsc-api
