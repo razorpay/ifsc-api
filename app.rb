@@ -62,10 +62,16 @@ class IFSCPlus < Razorpay::IFSC::IFSC
         offset = [[Integer(offset),0].max(),filtered_df.size].min()
       end
 
-      paginated_df = filtered_df.row[offset..offset+limit-1]
+      if offset == offset+limit-1
+        # queries like row[0..0] returns a Daru::Vector not a Daru::DataFrame
+        paginated_df = filtered_df.row[offset..offset+limit].first(1)
+      else
+        paginated_df = filtered_df.row[offset..offset+limit-1]
+      end
 
       result = Hash.new
-      result["data"] = JSON.parse(paginated_df.to_json)
+      result["data"] = paginated_df.to_a[0]
+      puts paginated_df.to_a
       result["hasNext"] = limit + offset < filtered_df.size
       result["count"] = filtered_df.size
 
