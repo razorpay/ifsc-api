@@ -121,6 +121,7 @@ get '/:code' do
 
   status 404
   'Not Found'.to_json
+  
 rescue StandardError => e
   puts e
   status 404
