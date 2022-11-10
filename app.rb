@@ -62,7 +62,9 @@ class IFSCPlus < Razorpay::IFSC::IFSC
         offset = [[Integer(offset),0].max(),filtered_df.size].min()
       end
 
-      if offset == offset+limit-1
+      if filtered_df.size == 1
+        paginated_df = filtered_df
+      elsif offset == offset+limit-1
         # queries like row[0..0] returns a Daru::Vector not a Daru::DataFrame
         paginated_df = filtered_df.row[offset..offset+limit].first(1)
       else
