@@ -28,7 +28,7 @@ class TestApp < Test::Unit::TestCase
   end
 
   def test_search_response
-    get '/search?state=MAHARASHTRA&city=MUMBAI&offset=0&bank=Abhyudaya Co-operative Bank&limit=100&branch=Abhyudaya Co-operative Bank IMPS'
+    get '/search?city=MUMBAI&offset=0&bank=Abhyudaya Co-operative Bank&limit=100&branch=Abhyudaya Co-operative Bank IMPS&state=IN-MH'
     data = JSON.parse last_response.body
     assert_equal data, JSON.parse(File.read 'test/search.json')
   end
