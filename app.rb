@@ -29,7 +29,7 @@ class IFSCPlus < Razorpay::IFSC::IFSC
 
     # Gets details of banks given the bank name,
     # city and state
-    def filter_banks(state = nil, city = nil, bank = nil, limit = nil, offset = nil)
+    def filter_banks(state = nil, city = nil, bank = nil, branch = nil, limit = nil, offset = nil)
 
       filtered_df = $df
 
@@ -43,6 +43,10 @@ class IFSCPlus < Razorpay::IFSC::IFSC
 
       unless bank.nil?
         filtered_df = filtered_df.where(filtered_df["BANK"].eq(bank))
+      end
+
+      unless branch.nil?
+        filtered_df = filtered_df.where(filtered_df["BRANCH"].eq(branch))
       end
 
       # default limit is 10
@@ -164,7 +168,7 @@ end
 
 get '/search' do
   content_type :json
-  data = IFSCPlus.filter_banks(params['state'], params['city'], params['bank'], params['limit'], params['offset'])
+  data = IFSCPlus.filter_banks(params['state'], params['city'], params['bank'], params['branch'], params['limit'], params['offset'])
   return JSON.generate(data)
 # to prevent any errors from non integer limit and offset when converted from string 
 rescue ArgumentError => e
