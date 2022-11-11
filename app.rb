@@ -34,7 +34,7 @@ class IFSCPlus < Razorpay::IFSC::IFSC
       filtered_df = $df
 
       unless state.nil?
-        filtered_df = filtered_df.where(filtered_df["STATE"].eq(state))
+        filtered_df = filtered_df.where(filtered_df["ISO3166"].eq(state))
       end
 
       unless city.nil?
