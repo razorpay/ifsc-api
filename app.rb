@@ -9,8 +9,6 @@ require './metrics'
 require 'secure_headers'
 require 'daru'
 
-#load the dataframe on server start
-$df = Daru::DataFrame.from_csv("IFSC.csv")
 
 class IFSCPlus < Razorpay::IFSC::IFSC
   # Returns a 4 character known code for a bank
@@ -114,30 +112,32 @@ configure do
   set :metrics, Metrics.new
 end
 
+
+def bank_details(branch)
+  bank_code = IFSCPlus.get_bank_code(branch)
+
+  [IFSCPlus.bank_name_for(branch), bank_code]
+end
+
+def strtobool(str)
+  case str
+  when 'true'
+    true
+  when 'false'
+    false
+  else
+    false
+  end
+end
+
+def maybestr(str)
+  return nil if str.nil?
+  return nil if str.empty?
+
+  str
+end
+
 helpers do
-  def bank_details(branch)
-    bank_code = IFSCPlus.get_bank_code(branch)
-
-    [IFSCPlus.bank_name_for(branch), bank_code]
-  end
-
-  def strtobool(str)
-    case str
-    when 'true'
-      true
-    when 'false'
-      false
-    else
-      false
-    end
-  end
-
-  def maybestr(str)
-    return nil if str.empty?
-
-    str
-  end
-
   def ifsc_data(code)
     return nil unless code
 
@@ -160,6 +160,60 @@ helpers do
     data
   end
 end
+
+
+def load_df()
+
+  redis = Redis.new
+  keys = redis.keys("*")
+
+  arr_keys = ["BANK", "IFSC", "BRANCH", "CENTRE", "DISTRICT", "STATE", "ADDRESS", "CONTACT", "IMPS", "RTGS", "CITY", "ISO3166", "NEFT", "MICR", "UPI", "SWIFT", "BANKCODE"]
+
+  dataframe_args = Hash.new
+
+  arr_keys.each do |key|
+    dataframe_args[key] = []
+  end
+
+  keys.each_with_index do |ifsc, index|
+    
+    if ifsc.match(/^[A-Z]{4}0[A-Z0-9]{6}$/)
+
+        lib_bank_details = bank_details(ifsc)
+
+        detail = redis.hgetall(ifsc)
+        dataframe_args["BANK"].append(lib_bank_details[0])
+        dataframe_args["BANKCODE"].append(lib_bank_details[1])
+        dataframe_args["IMPS"].append(strtobool(detail["IMPS"]))
+        dataframe_args["NEFT"].append(strtobool(detail["NEFT"]))
+        dataframe_args["ADDRESS"].append(detail["ADDRESS"])
+        dataframe_args["SWIFT"].append(maybestr(detail["SWIFT"]))
+        dataframe_args["ISO3166"].append(detail["ISO3166"])
+        dataframe_args["UPI"].append(strtobool(detail["UPI"]))
+        dataframe_args["STATE"].append(detail["STATE"])
+        dataframe_args["MICR"].append(maybestr(detail["MICR"]))
+        dataframe_args["CONTACT"].append(detail["CONTACT"])
+        dataframe_args["CITY"].append(detail["CITY"])
+        dataframe_args["BRANCH"].append(detail["BRANCH"])
+        dataframe_args["DISTRICT"].append(detail["DISTRICT"])
+        dataframe_args["RTGS"].append(strtobool(detail["RTGS"]))
+        dataframe_args["CENTRE"].append(detail["CENTRE"])
+        dataframe_args["IFSC"].append(ifsc)
+
+    end
+
+    if (index + 1) % 1000 == 0
+        puts "Processed #{index + 1} entries"
+    end
+    
+  end
+
+  $df = Daru::DataFrame.new(dataframe_args)
+
+end
+
+load_df()
+
 
 get '/' do
   readme = File.read 'README.md'
