@@ -182,6 +182,7 @@ def load_df()
         lib_bank_details = bank_details(ifsc)
 
         detail = redis.hgetall(ifsc)
+        
         dataframe_args["BANK"].append(lib_bank_details[0])
         dataframe_args["BANKCODE"].append(lib_bank_details[1])
         dataframe_args["IMPS"].append(strtobool(detail["IMPS"]))
