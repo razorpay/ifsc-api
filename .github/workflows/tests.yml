@@ -30,7 +30,7 @@ jobs:
           docker build -t ifsc-api .
           container_name=$(docker run --publish 3000:3000 --detach ifsc-api .)
           # Wait for it to come up. Parsing the CSV can take time and hence need to wait till the server is up to prevent empty response error.
-          sleep 200
+          sleep 300
           docker logs $container_name
           curl -I http://localhost:3000
           curl -v http://localhost:3000/HDFC0CAGSBK
