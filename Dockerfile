@@ -40,7 +40,7 @@ COPY --from=rdbbuilder /app/dump.rdb /app/
 # This is not clean because we can't run a COPY . anymore
 # Since that would copy the data directory
 # We can't add data to dockerignore, since it is used in first stage
-COPY README.md app.rb metrics.rb config.ru entrypoint.sh IFSC.csv /app/
+COPY README.md app.rb metrics.rb config.ru entrypoint.sh /app/
 COPY public /app/public/
 COPY views /app/views/
 
