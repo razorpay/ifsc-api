@@ -165,6 +165,10 @@ end
 def load_df()
 
   redis = Redis.new
+
+  # Need to wait before sending a command to the redis server
+  sleep(10)
+
   keys = redis.keys("*")
 
   arr_keys = ["BANK", "IFSC", "BRANCH", "CENTRE", "DISTRICT", "STATE", "ADDRESS", "CONTACT", "IMPS", "RTGS", "CITY", "ISO3166", "NEFT", "MICR", "UPI", "SWIFT", "BANKCODE"]
