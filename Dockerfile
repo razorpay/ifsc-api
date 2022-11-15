@@ -28,6 +28,8 @@ RUN echo "** installing deps **" && \
     apk --no-cache add dumb-init redis libstdc++ && \
     echo "** installing eventmachine-build-deps **" && \
     apk --no-cache add --virtual .eventmachine-builddeps g++ make && \
+    echo "** install healthcheck deps **" && \
+    apk --no-cache add curl && \
     echo "** updating bundler **" && \
     gem update bundler && \
     echo "** installing ruby gems **" && \
@@ -45,4 +47,7 @@ COPY public /app/public/
 COPY views /app/views/
 
 EXPOSE 3000
+
+HEALTHCHECK --start-period=200s CMD curl -I http://localhost:3000 || exit 1
+
 ENTRYPOINT ["/app/entrypoint.sh"]
