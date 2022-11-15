@@ -48,6 +48,13 @@ COPY views /app/views/
 
 EXPOSE 3000
 
+ENTRYPOINT ["/app/entrypoint.sh"]
+
+# Create a group and user
+RUN addgroup -S appgroup && adduser -S appuser -G appgroup
+
+# Tell docker that all future commands should run as the appuser user
+USER appuser
+
 HEALTHCHECK --start-period=200s CMD curl -I http://localhost:3000 || exit 1
 
-ENTRYPOINT ["/app/entrypoint.sh"]
