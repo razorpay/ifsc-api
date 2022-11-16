@@ -13,13 +13,13 @@ The API documentation is maintained at https://github.com/razorpay/ifsc/wiki/API
 |-----|------|--------|
 |/search|GET|JSON|
 #### Query parameters
-1. **state**: Filter used for querying by state
+1. **state**: Filter used for querying by state. Uses the ISO3166 code
 2. **city**: Filter used for querying by city
-3. **bank**: Filter used for querying by bank name
+3. **bankcode**: Filter used for querying by bank code
 3. **limit**: The number of items to return
 4. **offset**: The offset from which to return data for pagination
 
-A sample response for `/search?limit=1&offset=0&bank=Delhi Nagrik Sehkari Bank`:
+A sample response for `/search?limit=1&offset=0&bankcode=DENS`:
 
 ```json
 {
