@@ -111,6 +111,13 @@ get '/metrics' do
   settings.metrics.format
 end
 
+options '/:code' do
+  response.headers["Access-Control-Allow-Origin"] = "*"
+  response.headers["Access-Control-Allow-Methods"] = "GET"
+
+  halt 200
+end
+
 get '/:code' do
   data = ifsc_data(params['code'])
   headers(
