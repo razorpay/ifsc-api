@@ -42,6 +42,15 @@ A sample response for `/search?limit=1&offset=0&bankcode=DENS`:
 	"IFSC": "YESB0DNB002"
 }
 ``` 
+
+|Route|Method|Response|
+|-----|------|--------|
+|/city|GET|JSON|
+#### Query parameters
+1. **state**: Filter used for querying by state. Uses the ISO3166 code
+2. **bankcode**: Filter used for querying by bank code  
+  
+Returns the cities result set given state and bankcode
 ### Running the Docker Image
 
 You can pull the image from `razorpay/ifsc:latest`

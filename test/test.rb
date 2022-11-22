@@ -32,4 +32,10 @@ class TestApp < Test::Unit::TestCase
     data = JSON.parse last_response.body
     assert_equal data, JSON.parse(File.read 'test/search.json')
   end
+
+  def test_cities_response
+    get '/city?bankcode=INDB&state=IN-KA'
+    data = JSON.parse last_response.body
+    assert_equal data.sort, JSON.parse(File.read 'test/cities.json').sort
+  end
 end
