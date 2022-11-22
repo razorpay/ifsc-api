@@ -30,12 +30,12 @@ class TestApp < Test::Unit::TestCase
   def test_search_response
     get '/search?city=BANGALORE&offset=0&bankcode=HDFC&limit=100&branch=THE AGS EMPLOYEES COOP BANK LTD&state=IN-KA'
     data = JSON.parse last_response.body
-    assert_equal data.sort, JSON.parse(File.read 'test/search.json').sort
+    assert_equal data, JSON.parse(File.read 'test/search.json')
   end
 
   def test_cities_response
     get '/city?bankcode=INDB&state=IN-KA'
     data = JSON.parse last_response.body
-    assert_equal data, JSON.parse(File.read 'test/cities.json')
+    assert_equal data.sort, JSON.parse(File.read 'test/cities.json').sort
   end
 end
