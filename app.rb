@@ -260,7 +260,7 @@ get '/city' do
 
   data = IFSCPlus.get_cities(params['state'],params['bankcode'])
 
-  return data.to_json
+  return JSON.generate(data)
 end
 
 get '/:code' do
