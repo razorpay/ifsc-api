@@ -79,6 +79,17 @@ class IFSCPlus < Razorpay::IFSC::IFSC
 
       return result
     end
+
+    def get_cities(state, bankcode)
+      filtered_df = $df.where($df["ISO3166"].eq(state) & $df["BANKCODE"].eq(bankcode))
+
+      if filtered_df.size == 0
+        return []
+      end
+
+      return filtered_df["CITY"].uniq.to_a
+
+    end
   end
 end
 
@@ -238,6 +249,18 @@ end
 
 get '/metrics' do
   settings.metrics.format
+end
+
+get '/city' do
+  content_type :json
+
+  if params['state'].nil? or params['bankcode'].nil?
+    status 400
+  end
+
+  data = IFSCPlus.get_cities(params['state'],params['bankcode'])
+
+  return data.to_json
 end
 
 get '/:code' do
