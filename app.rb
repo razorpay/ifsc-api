@@ -239,6 +239,7 @@ end
 get '/search' do
   content_type :json
   data = IFSCPlus.filter_banks(params['state'], params['city'], params['bankcode'], params['branch'], params['limit'], params['offset'])
+  puts("search route hit")
   return JSON.generate(data)
 # to prevent any errors from non integer limit and offset when converted from string 
 rescue ArgumentError => e
@@ -253,7 +254,7 @@ end
 
 get '/city' do
   content_type :json
-
+  puts("city route hit")
   if params['state'].nil? or params['bankcode'].nil?
     status 400
   end
