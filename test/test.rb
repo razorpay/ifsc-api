@@ -34,8 +34,8 @@ class TestApp < Test::Unit::TestCase
   end
 
   def test_cities_response
-    get '/city?bankcode=INDB&state=IN-KA'
+    get '/city?state=IN-KA&district=BANGLORE&bankcode=AUBL'
     data = JSON.parse last_response.body
-    assert_equal data.sort, JSON.parse(File.read 'test/cities.json').sort
+    assert_equal data["branch"].sort, JSON.parse(File.read 'test/cities.json')["branch"].sort
   end
 end
