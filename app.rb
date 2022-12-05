@@ -80,19 +80,27 @@ class IFSCPlus < Razorpay::IFSC::IFSC
       return result
     end
 
-    def get_cities(state, bankcode, district = nil)
-      filtered_df = $df.where($df["ISO3166"].eq(state) & $df["BANKCODE"].eq(bankcode))
-      unless district.nil?
-        filtered_df = filtered_df.where(filtered_df["DISTRICT"].eq(district))
-      end
+    def get_states(bankcode)
+      filtered_df = $df.where($df["BANKCODE"].eq(bankcode))
 
-      result = {"branch" => filtered_df["BRANCH"].uniq.to_a}
-      unless district.nil?
-        return result
-      end
-      result["city"] = filtered_df["CITY"].uniq.to_a
+      result = {"state" => filtered_df["STATE"].uniq.to_a}
+      return result
+    end
+
+    def get_districts(state, bankcode)
+      filtered_df = $df.where($df["ISO3166"].eq(state) & $df["BANKCODE"].eq(bankcode))
+
+      result = {"district" => filtered_df["DISTRICT"].uniq.to_a}
       return result
 
+    end
+
+
+    def get_branches(bankcode, state, district)
+      filtered_df = $df.where($df["BANKCODE"].eq(bankcode) & $df["ISO3166"].eq(state) & $df["DISTRICT"].eq(district))
+
+      result = {"branch" => filtered_df["BRANCH"].uniq.to_a}
+      return result
     end
   end
 end
@@ -255,16 +263,23 @@ get '/metrics' do
   settings.metrics.format
 end
 
-get '/city' do
+get '/results' do
   content_type :json
 
-  if params['state'].nil? or params['bankcode'].nil?
+  if params['bankcode'] != nil && params['state'].nil? && params['district'].nil?
+    data = IFSCPlus.get_states(params['bankcode'])
+    return JSON.generate(data)
+
+  elsif params['bankcode'] != nil && params['state'] != nil && params['district'].nil?
+    data = IFSCPlus.get_districts(params['state'],params['bankcode'])
+    return JSON.generate(data)
+  
+  elsif params['bankcode'] != nil && params['state'] != nil && params['district'] != nil
+    data = IFSCPlus.get_branches(params['bankcode'], params['state'], params['district'])
+    return JSON.generate(data)
+  else
     status 400
   end
-
-  data = IFSCPlus.get_cities(params['state'],params['bankcode'], params['district'])
-
-  return JSON.generate(data)
 end
 
 get '/:code' do
