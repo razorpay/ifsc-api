@@ -83,14 +83,14 @@ class IFSCPlus < Razorpay::IFSC::IFSC
     def get_states(bankcode)
       filtered_df = $df.where($df["BANKCODE"].eq(bankcode))
 
-      result = {"state" => filtered_df["STATE"].uniq.to_a}
+      result = {"states" => filtered_df["STATE"].uniq.to_a}
       return result
     end
 
     def get_districts(state, bankcode)
       filtered_df = $df.where($df["ISO3166"].eq(state) & $df["BANKCODE"].eq(bankcode))
 
-      result = {"district" => filtered_df["DISTRICT"].uniq.to_a}
+      result = {"districts" => filtered_df["DISTRICT"].uniq.to_a}
       return result
 
     end
@@ -99,7 +99,7 @@ class IFSCPlus < Razorpay::IFSC::IFSC
     def get_branches(bankcode, state, district)
       filtered_df = $df.where($df["BANKCODE"].eq(bankcode) & $df["ISO3166"].eq(state) & $df["DISTRICT"].eq(district))
 
-      result = {"branch" => filtered_df["BRANCH"].uniq.to_a}
+      result = {"branches" => filtered_df["BRANCH"].uniq.to_a}
       return result
     end
   end
@@ -263,7 +263,7 @@ get '/metrics' do
   settings.metrics.format
 end
 
-get '/results' do
+get '/places' do
   content_type :json
 
   if params['bankcode'] != nil && params['state'].nil? && params['district'].nil?

@@ -34,20 +34,20 @@ class TestApp < Test::Unit::TestCase
   end
 
   def test_states_response
-    get '/results?bankcode=AUBL'
+    get '/places?bankcode=AUBL'
     data = JSON.parse last_response.body
-    assert_equal data["state"].sort, JSON.parse(File.read 'test/states.json')["state"].sort
+    assert_equal data["states"].sort, JSON.parse(File.read 'test/states.json')["states"].sort
   end
 
   def test_districts_response
-    get '/results?state=IN-KA&bankcode=AUBL'
+    get '/places?state=IN-KA&bankcode=AUBL'
     data = JSON.parse last_response.body
-    assert_equal data["district"].sort, JSON.parse(File.read 'test/districts.json')["district"].sort
+    assert_equal data["districts"].sort, JSON.parse(File.read 'test/districts.json')["districts"].sort
   end
 
   def test_branches_response
-    get '/results?state=IN-KA&district=BANGLORE&bankcode=AUBL'
+    get '/places?state=IN-KA&district=BANGLORE&bankcode=AUBL'
     data = JSON.parse last_response.body
-    assert_equal data["branch"].sort, JSON.parse(File.read 'test/branches.json')["branch"].sort
+    assert_equal data["branches"].sort, JSON.parse(File.read 'test/branches.json')["branches"].sort
   end
 end
