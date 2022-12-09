@@ -24,7 +24,7 @@
     "BRANCH": "GURUGRAM",
     "ADDRESS": "2ND FLOOR,BLOCK A,BUILDING 8,DLF CYBER CITY,DLF PHASE II GURGAON 122002",
     "STATE": "HARYANA",
-    "CONTACT": null,
+    "CONTACT": "+911244112645",
     "UPI": false,
     "RTGS": true,
     "CITY": "GURUGRAM",
@@ -34,6 +34,24 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-HR"
+  },
+  "EBIL0000003": {
+    "BANK": "Emirates NBD Bank",
+    "IFSC": "EBIL0000003",
+    "MICR": null,
+    "BRANCH": "CHENNAI",
+    "ADDRESS": "GROUND FLOOR, PRESTIGE ZACKRIA METROPOLITAN, BLOCK 1, ANNA SALAI, EGMORE, CHENNAI, TAMILNADU 600002",
+    "STATE": "TAMIL NADU",
+    "CONTACT": "+914445268464",
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "CHENNAI",
+    "CENTRE": "CHENNAI",
+    "DISTRICT": "CHENNAI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "EBIL00000SC": {
     "BANK": "Emirates NBD Bank",
