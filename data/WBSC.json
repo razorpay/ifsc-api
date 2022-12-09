@@ -773,6 +773,24 @@
     "SWIFT": null,
     "ISO3166": "IN-WB"
   },
+  "WBSC000MOBI": {
+    "BANK": "West Bengal State Co-operative Bank",
+    "IFSC": "WBSC000MOBI",
+    "MICR": null,
+    "BRANCH": "MOBILE BANKING",
+    "ADDRESS": "24 A WATERLOO STREET KOLKATA 700069",
+    "STATE": "WEST BENGAL",
+    "CONTACT": "+913322488491",
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "KOLKATA",
+    "CENTRE": "KOLKATA",
+    "DISTRICT": "KOLKATA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
+  },
   "WBSC000RTGS": {
     "BANK": "West Bengal State Co-operative Bank",
     "IFSC": "WBSC000RTGS",
