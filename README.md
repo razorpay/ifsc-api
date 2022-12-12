@@ -45,12 +45,98 @@ A sample response for `/search?limit=1&offset=0&bankcode=DENS`:
 
 |Route|Method|Response|
 |-----|------|--------|
-|/city|GET|JSON|
+|/places|GET|JSON|
 #### Query parameters
-1. **state**: Filter used for querying by state. Uses the ISO3166 code
-2. **bankcode**: Filter used for querying by bank code  
+1. **bankcode**: Filter used for querying by bank code
+2. **state**: Filter used for querying by state. Uses the ISO3166 code  
+3. **district**: Filter used for querying by district 
   
-Returns the cities result set given state and bankcode
+- When only `bankcode` is given then it returns the states in which the bank is present.
+- When `bankcode` and `state` are given then it returns the districts in which the bank is present.
+- When `bankcode`, `state` and `district` are given, then it returns the branches of the bank.
+- Any other combination of query parameters returns an error.
+
+A sample response for `/places?bankcode=AUBL`
+```json
+{
+    "states": [
+        "UTTAR PRADESH",
+        "RAJASTHAN",
+        "KARNATAKA",
+        "GUJARAT",
+        "PUNJAB",
+        "MADHYA PRADESH",
+        "DELHI",
+        "MAHARASHTRA",
+        "TAMIL NADU",
+        "HARYANA",
+        "WEST BENGAL",
+        "TELANGANA",
+        "ODISHA",
+        "JAMMU AND KASHMIR",
+        "KERALA",
+        "CHHATTISGARH",
+        "GOA",
+        "ANDHRA PRADESH",
+        "UTTARAKHAND",
+        "BIHAR",
+        "HIMACHAL PRADESH",
+        "ASSAM"
+    ]
+}
+```
+A sample response for `/places?state=IN-MP&bankcode=AUBL`
+```json
+{
+    "districts": [
+        "RATLAM",
+        "TIKAMGARH",
+        "VIDISHA",
+        "INDORE",
+        "MANDSAUR",
+        "NEEMUCH",
+        "KHARGONE",
+        "DHUDHANA",
+        "SEHORE",
+        "DHAR",
+        "SAGAR",
+        "CHHINDWARA",
+        "KATNI",
+        "DEWAS",
+        "WEST NIMAR",
+        "JABALPUR",
+        "BHOPAL",
+        "HOSHANGABAD",
+        "EAST NIMAR",
+        "SHAJAPUR",
+        "GWALIOR",
+        "BARWANI",
+        "NAJARPUR",
+        "BETUL",
+        "AGAR-MALWA",
+        "RAJGARH",
+        "CHATTARPUR",
+        "RAISEN",
+        "EA",
+        "MANDLA",
+        "KACHALIYA",
+        "UJJAIN",
+        "SATNA"
+    ]
+}
+```
+A sample response for `/places?state=IN-MP&bankcode=AUBL&district=INDORE`
+```json
+{
+    "branches": [
+        "INDORE JAWAHAR MARG",
+        "Barlai Jagir",
+        "Bhanwar Kuan Road Indore",
+        "AB Road Indore",
+        "MG ROAD INDORE"
+    ]
+}
+```
 ### Running the Docker Image
 
 You can pull the image from `razorpay/ifsc:latest`
