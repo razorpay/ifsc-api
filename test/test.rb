@@ -46,7 +46,7 @@ class TestApp < Test::Unit::TestCase
   end
 
   def test_branches_response
-    get '/places?state=IN-KA&district=BANGLORE&bankcode=AUBL'
+    get '/places?state=IN-KA&district=BANGALORE&bankcode=AUBL'
     data = JSON.parse last_response.body
     assert_equal data["branches"].sort, JSON.parse(File.read 'test/branches.json')["branches"].sort
   end
