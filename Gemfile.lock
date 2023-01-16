@@ -2,6 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     backports (3.23.0)
+    connection_pool (2.3.0)
     daemons (1.4.1)
     daru (0.3)
       packable (~> 1.3.13)
@@ -30,7 +31,10 @@ GEM
     rack-ssl-enforcer (0.2.9)
     rack-test (2.0.2)
       rack (>= 1.3)
-    redis (4.7.1)
+    redis (5.0.6)
+      redis-client (>= 0.9.0)
+    redis-client (0.12.1)
+      connection_pool
     rexml (3.2.5)
     ruby2_keywords (0.0.5)
     secure_headers (6.5.0)
