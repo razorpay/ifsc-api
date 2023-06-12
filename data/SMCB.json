@@ -628,5 +628,41 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-UT"
+  },
+  "SMCB0001034": {
+    "BANK": "Shivalik Small Finance Bank",
+    "IFSC": "SMCB0001034",
+    "MICR": "247721603",
+    "BRANCH": "ROORKEE",
+    "ADDRESS": "GROUND FLOOR,NEAR RUCHI DENTAL CLINIC,MALVIYA TOWER,MALVIYA CHOWK,GANESHPUR,ROORKEE",
+    "STATE": "UTTARAKHAND",
+    "CONTACT": "+919634190508",
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "ROORKEE",
+    "CENTRE": "ROORKEE",
+    "DISTRICT": "ROORKEE",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-UT"
+  },
+  "SMCB0001035": {
+    "BANK": "Shivalik Small Finance Bank",
+    "IFSC": "SMCB0001035",
+    "MICR": "110721007",
+    "BRANCH": "GANDHI NAGAR",
+    "ADDRESS": "GROUND FLOOR-830,MAIN ROAD,GANDHI NAGAR,EAST DELHI",
+    "STATE": "DELHI",
+    "CONTACT": "+919958500463",
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "DELHI",
+    "CENTRE": "DELHI",
+    "DISTRICT": "DELHI",
+    "NEFT": false,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   }
 }

@@ -816,6 +816,25 @@
     "ISO3166": "IN-TN",
     "imps": false
   },
+  "RBIS0GOTREP": {
+    "BANK": "Reserve Bank of India",
+    "IFSC": "RBIS0GOTREP",
+    "MICR": null,
+    "BRANCH": "AGARTALA REGIONAL OFFICE",
+    "ADDRESS": "RESERVE BANK OF INDIA, 2ND FLOOR, JACKSON GATE BUILDING, LENIN SARANI, AGARATALA, TRIPURA - 799001",
+    "STATE": "WEST BENGAL",
+    "CONTACT": null,
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "WEST TRIPURA",
+    "CENTRE": "AGARATALA",
+    "DISTRICT": "AGARATALA",
+    "NEFT": false,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-WB",
+    "imps": false
+  },
   "RBIS0GOUKEP": {
     "BANK": "Reserve Bank of India",
     "IFSC": "RBIS0GOUKEP",
