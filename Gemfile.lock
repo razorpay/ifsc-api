@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    backports (3.23.0)
+    backports (3.24.1)
     daemons (1.4.1)
     daru (0.3)
       packable (~> 1.3.13)
@@ -9,44 +9,44 @@ GEM
     httparty (0.21.0)
       mini_mime (>= 1.0.0)
       multi_xml (>= 0.5.2)
-    ifsc (2.0.12)
+    ifsc (2.0.13)
       httparty (~> 0.16)
     kramdown (2.4.0)
       rexml
     matrix (0.4.2)
     mini_mime (1.1.2)
     multi_xml (0.6.0)
-    mustermann (2.0.2)
+    mustermann (3.0.0)
       ruby2_keywords (~> 0.0.1)
-    packable (1.3.15)
+    packable (1.3.17)
       backports
-    power_assert (2.0.2)
-    prometheus-client (4.0.0)
-    rack (2.2.4)
-    rack-protection (2.2.2)
+    power_assert (2.0.3)
+    prometheus-client (4.1.0)
+    rack (2.2.7)
+    rack-protection (3.0.6)
       rack
     rack-ssl-enforcer (0.2.9)
-    rack-test (2.0.2)
+    rack-test (2.1.0)
       rack (>= 1.3)
     redis (4.7.1)
     rexml (3.2.5)
     ruby2_keywords (0.0.5)
     secure_headers (6.5.0)
-    sinatra (2.2.2)
-      mustermann (~> 2.0)
-      rack (~> 2.2)
-      rack-protection (= 2.2.2)
+    sinatra (3.0.6)
+      mustermann (~> 3.0)
+      rack (~> 2.2, >= 2.2.4)
+      rack-protection (= 3.0.6)
       tilt (~> 2.0)
-    test-unit (3.5.5)
+    test-unit (3.6.0)
       power_assert
-    thin (1.8.1)
+    thin (1.8.2)
       daemons (~> 1.0, >= 1.0.9)
       eventmachine (~> 1.0, >= 1.0.4)
       rack (>= 1, < 3)
-    tilt (2.0.11)
+    tilt (2.2.0)
 
 PLATFORMS
-  ruby
+  x86_64-darwin-21
 
 DEPENDENCIES
   daru
