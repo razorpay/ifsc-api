@@ -12293,6 +12293,24 @@
     "SWIFT": null,
     "ISO3166": "IN-DL"
   },
+  "UTKS0001699": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001699",
+    "MICR": "403762003",
+    "BRANCH": "MAPUSA GOA",
+    "ADDRESS": "RUDFLRSHPN.S/2MUICIPALTAXBEARIGN.13/76/F2MAPUSATRADECETREMRDMAPUSAA403507",
+    "STATE": "GOA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "O",
+    "CENTRE": "GOA",
+    "DISTRICT": "GOA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-GA"
+  },
   "UTKS0001801": {
     "BANK": "Utkarsh Small Finance Bank",
     "IFSC": "UTKS0001801",
@@ -14795,6 +14813,24 @@
     "SWIFT": null,
     "ISO3166": "IN-BR"
   },
+  "UTKS0001943": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001943",
+    "MICR": "835762302",
+    "BRANCH": "BERO",
+    "ADDRESS": "RUDFLRJAMTLIRADNEARHLICVETPUBLICSCHLBERRACHIJHARKHADPICDE-835202",
+    "STATE": "JHARKHAND",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "ACI",
+    "CENTRE": "RANCHI",
+    "DISTRICT": "RANCHI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
+  },
   "UTKS0001944": {
     "BANK": "Utkarsh Small Finance Bank",
     "IFSC": "UTKS0001944",
@@ -14830,5 +14866,23 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-BR"
+  },
+  "UTKS0001948": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001948",
+    "MICR": "484762051",
+    "BRANCH": "UMARIA",
+    "ADDRESS": "RUDFLRSAHPURARADNEARSBITRAIIGCETERSIGLTLAUMARIAMADHYAPRADESHPICDE-484661",
+    "STATE": "MADHYA PRADESH",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "BANDHAVGARH",
+    "CENTRE": "BANDHAVGARH",
+    "DISTRICT": "BANDHAVGARH",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   }
 }
