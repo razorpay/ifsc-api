@@ -660,9 +660,27 @@
     "CITY": "DELHI",
     "CENTRE": "DELHI",
     "DISTRICT": "DELHI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-DL"
+  },
+  "SMCB0001036": {
+    "BANK": "Shivalik Small Finance Bank",
+    "IFSC": "SMCB0001036",
+    "MICR": "135721002",
+    "BRANCH": "YAMUNA NAGAR",
+    "ADDRESS": "BHATIA TOWER,UPPER GROUND FLOOR-392,WEST BHATIA NAGAR,MODEL TOWN,YAMUNA NAGAR",
+    "STATE": "HARYANA",
+    "CONTACT": "+919650786498",
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "YAMUNA NAGAR",
+    "CENTRE": "YAMUNA NAGAR",
+    "DISTRICT": "YAMUNA NAGAR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   }
 }
