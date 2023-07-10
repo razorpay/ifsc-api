@@ -9,7 +9,7 @@ GEM
     httparty (0.21.0)
       mini_mime (>= 1.0.0)
       multi_xml (>= 0.5.2)
-    ifsc (2.0.14)
+    ifsc (2.0.15)
       httparty (~> 0.16)
     kramdown (2.4.0)
       rexml
