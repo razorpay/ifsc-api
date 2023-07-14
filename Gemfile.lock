@@ -9,7 +9,7 @@ GEM
     httparty (0.21.0)
       mini_mime (>= 1.0.0)
       multi_xml (>= 0.5.2)
-    ifsc (2.0.14)
+    ifsc (2.0.16)
       httparty (~> 0.16)
     kramdown (2.4.0)
       rexml
@@ -18,7 +18,7 @@ GEM
     multi_xml (0.6.0)
     mustermann (3.0.0)
       ruby2_keywords (~> 0.0.1)
-    packable (1.3.17)
+    packable (1.3.18)
       backports
     power_assert (2.0.3)
     prometheus-client (4.1.0)
