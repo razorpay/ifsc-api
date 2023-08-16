@@ -246,6 +246,25 @@
     "ISO3166": "IN-MH",
     "imps": false
   },
+  "RBIS0CSSP01": {
+    "BANK": "Reserve Bank of India",
+    "IFSC": "RBIS0CSSP01",
+    "MICR": null,
+    "BRANCH": "MUMBAI",
+    "ADDRESS": "RESERVE BANK OF INDIA MUMBAI REGIONAL OFFICE,SHAHID BHAGAT SINGH ROAD, KALA GHODA,FORT,MUMBAI,MAHARASHTRA,400001",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": "+912222603329",
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "MUMBAI",
+    "CENTRE": "MUMBAI",
+    "DISTRICT": "MUMBAI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH",
+    "imps": false
+  },
   "RBIS0DNPA01": {
     "BANK": "Reserve Bank of India",
     "IFSC": "RBIS0DNPA01",
