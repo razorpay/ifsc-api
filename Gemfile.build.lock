@@ -1,11 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    connection_pool (2.4.1)
-    redis (5.0.7)
-      redis-client (>= 0.9.0)
-    redis-client (0.15.0)
-      connection_pool
+    redis (4.1.3)
 
 PLATFORMS
   ruby
