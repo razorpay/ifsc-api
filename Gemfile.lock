@@ -1,7 +1,6 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    connection_pool (2.4.1)
     daemons (1.4.1)
     daru (0.3)
       packable (~> 1.3.13)
@@ -9,7 +8,7 @@ GEM
     httparty (0.21.0)
       mini_mime (>= 1.0.0)
       multi_xml (>= 0.5.2)
-    ifsc (2.0.17)
+    ifsc (2.0.18)
       httparty (~> 0.16)
     kramdown (2.4.0)
       rexml
