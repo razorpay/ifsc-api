@@ -1097,6 +1097,24 @@
     "SWIFT": null,
     "ISO3166": "IN-MH"
   },
+  "UNBA0000083": {
+    "BANK": null,
+    "IFSC": "UNBA0000083",
+    "MICR": null,
+    "BRANCH": "CENTRAL PLAZA KALINA",
+    "ADDRESS": "UNIT G-3, GROUND FLOOR, CENTRAL PLAZA, 166, CST ROAD,KALINA, MUMBAI -400098",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": "+919869164022",
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "MUMBAI",
+    "CENTRE": "MUMBAI",
+    "DISTRICT": "MUMBAI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
   "UNBA0000102": {
     "BANK": null,
     "IFSC": "UNBA0000102",
@@ -2446,6 +2464,24 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-HR"
+  },
+  "UNBA0000702": {
+    "BANK": null,
+    "IFSC": "UNBA0000702",
+    "MICR": null,
+    "BRANCH": "CR AVENUE",
+    "ADDRESS": "GROUND FLOOR, ROOM NO 5,CHANDANI CHOWK METRO STATION,35 CR AVENUE, KOKATA-700012",
+    "STATE": "WEST BENGAL",
+    "CONTACT": "+919830111547",
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "KOLKATA",
+    "CENTRE": "KOLKATA",
+    "DISTRICT": "KOLKATA",
+    "NEFT": false,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "UNBA0000802": {
     "BANK": null,

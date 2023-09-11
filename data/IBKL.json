@@ -2673,7 +2673,7 @@
     "CONTACT": "+919366486828",
     "UPI": true,
     "RTGS": true,
-    "CITY": "EAST GARO HILL",
+    "CITY": "EAST KHASI HILLS",
     "CENTRE": "SHILLONG",
     "DISTRICT": "SHILLONG",
     "NEFT": true,
@@ -36700,6 +36700,24 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-MP"
+  },
+  "IBKL0002218": {
+    "BANK": "IDBI",
+    "IFSC": "IBKL0002218",
+    "MICR": "508259004",
+    "BRANCH": "SURYAPET",
+    "ADDRESS": "H NO 1 2 270 56 A GROUND FLOOR M G ROAD SY NO 263 WARD NO 1 BLOCK NO 2 MANASA NAGAR SURYAPET SURYAPET DIST TELANGANA PIN 508213",
+    "STATE": "TELANGANA",
+    "CONTACT": "+919182044505",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "SURYAPET",
+    "CENTRE": "SURYAPET",
+    "DISTRICT": "SURYAPET",
+    "NEFT": false,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-TG"
   },
   "IBKL0002219": {
     "BANK": "IDBI",
