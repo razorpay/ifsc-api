@@ -3473,6 +3473,24 @@
     "SWIFT": null,
     "ISO3166": "IN-JH"
   },
+  "IDIB000A228": {
+    "BANK": "Indian Bank",
+    "IFSC": "IDIB000A228",
+    "MICR": "520019022",
+    "BRANCH": "AJITH SINGH NAGAR",
+    "ADDRESS": "43-107/1-29 ANDHRAPRABHA COLONY, AJITH SINGH NAGAR, VIJAYAWADA PIN 520015",
+    "STATE": "ANDHRA PRADESH",
+    "CONTACT": "+919855291824",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "NTR DISTRICT",
+    "CENTRE": "VIJAYAWADA",
+    "DISTRICT": "VIJAYAWADA",
+    "NEFT": false,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
+  },
   "IDIB000A501": {
     "BANK": "Indian Bank",
     "IFSC": "IDIB000A501",
@@ -10061,6 +10079,24 @@
     "SWIFT": null,
     "ISO3166": "IN-TN"
   },
+  "IDIB000B214": {
+    "BANK": "Indian Bank",
+    "IFSC": "IDIB000B214",
+    "MICR": "570019012",
+    "BRANCH": "BOGADI",
+    "ADDRESS": "INDIAN BANK, BOGADI BARNCH, NO 759, APPA CORNER, 9TH CROSS, 2ND STAGE, BOGADI, MYSURU",
+    "STATE": "KARNATAKA",
+    "CONTACT": "+919035105692",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "MYSURU",
+    "CENTRE": "MYSURU",
+    "DISTRICT": "MYSURU",
+    "NEFT": false,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
+  },
   "IDIB000B215": {
     "BANK": "Indian Bank",
     "IFSC": "IDIB000B215",
@@ -10132,6 +10168,24 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-GJ"
+  },
+  "IDIB000B219": {
+    "BANK": "Indian Bank",
+    "IFSC": "IDIB000B219",
+    "MICR": "431019302",
+    "BRANCH": "BEED",
+    "ADDRESS": "SANAP COMPLEX PLOT NO 1-5-954,GROUND FLOOR D P ROAD",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": "+919422244558",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "BEED",
+    "CENTRE": "BEED",
+    "DISTRICT": "BEED",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDIB000B501": {
     "BANK": "Indian Bank",
@@ -23798,7 +23852,7 @@
   "IDIB000D115": {
     "BANK": "Indian Bank",
     "IFSC": "IDIB000D115",
-    "MICR": "131019004",
+    "MICR": "110019270",
     "BRANCH": "DARIYAPUR GOHANA",
     "ADDRESS": "PLOT NO-2, GAYATRI MANDIR WALI GALI, PANIPAT CHUNGI, GOHANA",
     "STATE": "HARYANA",
@@ -23808,10 +23862,28 @@
     "CITY": "SONIPAT",
     "CENTRE": "GOHANA",
     "DISTRICT": "GOHANA",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-HR"
+  },
+  "IDIB000D116": {
+    "BANK": "Indian Bank",
+    "IFSC": "IDIB000D116",
+    "MICR": "791019501",
+    "BRANCH": "DOIMUKH",
+    "ADDRESS": "INDIAN BANK DOIMUKH BRANCH DOIMUKH ROAD CONA DOIMUKH DIST PAPUMPARE ARUNACHAL PRADESH",
+    "STATE": "ARUNACHAL PRADESH",
+    "CONTACT": "+919774628588",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "PAPUMPARE",
+    "CENTRE": "DOIMUKH",
+    "DISTRICT": "DOIMUKH",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-AR"
   },
   "IDIB000D501": {
     "BANK": "Indian Bank",
@@ -34756,6 +34828,24 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-KA"
+  },
+  "IDIB000H067": {
+    "BANK": "Indian Bank",
+    "IFSC": "IDIB000H067",
+    "MICR": "788019302",
+    "BRANCH": "HALFLONG",
+    "ADDRESS": "NEAR SUPER MARKET HALFLONG DIST DIMA HASAO",
+    "STATE": "ASSAM",
+    "CONTACT": "+918730050051",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "DIMA HASAO",
+    "CENTRE": "HALFLONG",
+    "DISTRICT": "HALFLONG",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-AS"
   },
   "IDIB000H501": {
     "BANK": "Indian Bank",
@@ -47122,6 +47212,24 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-KL"
+  },
+  "IDIB000K358": {
+    "BANK": "Indian Bank",
+    "IFSC": "IDIB000K358",
+    "MICR": "416019451",
+    "BRANCH": "KUDAL",
+    "ADDRESS": "SHOP NO 19,30,31,ASHIRVAD AVENUE,NEAR POST OFFICE,OPP. GOVT RURAL HOSPITAL KUDAL SAWANTWADI ROAD,DIST-SINDHUDURG,PIN-416520",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": "+918446333988",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "SINDHUDURG",
+    "CENTRE": "KUDAL",
+    "DISTRICT": "KUDAL",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDIB000K501": {
     "BANK": "Indian Bank",
@@ -60983,6 +61091,24 @@
     "SWIFT": null,
     "ISO3166": "IN-GJ"
   },
+  "IDIB000M402": {
+    "BANK": "Indian Bank",
+    "IFSC": "IDIB000M402",
+    "MICR": "141019204",
+    "BRANCH": "MANDIALI KALAN",
+    "ADDRESS": "VILLAGE MANDIALA KALAN, POST BIJA, TEHSIL KHANNA",
+    "STATE": "PUNJAB",
+    "CONTACT": "+917347002544",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "LUDHIANA",
+    "CENTRE": "LUDHIANA",
+    "DISTRICT": "LUDHIANA",
+    "NEFT": false,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
+  },
   "IDIB000M403": {
     "BANK": "Indian Bank",
     "IFSC": "IDIB000M403",
@@ -61032,7 +61158,7 @@
     "CITY": "UDAIPUR",
     "CENTRE": "UDAIPUR",
     "DISTRICT": "UDAIPUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-RJ"
@@ -76013,6 +76139,24 @@
     "SWIFT": null,
     "ISO3166": "IN-KL"
   },
+  "IDIB000P284": {
+    "BANK": "Indian Bank",
+    "IFSC": "IDIB000P284",
+    "MICR": "414019502",
+    "BRANCH": "PALWE KHURD",
+    "ADDRESS": "C.O HSSAIN BABU BHAI TAMBOLI,GROUND FLOOR,PALWE KHURD,TAHSEEL-PARNER,DIST-AHMED NAGAR PIN-414301",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": "+919284729214",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "AHMEDNAGAR",
+    "CENTRE": "PALWEKHURD",
+    "DISTRICT": "PALWEKHURD",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
   "IDIB000P501": {
     "BANK": "Indian Bank",
     "IFSC": "IDIB000P501",
@@ -88829,6 +88973,24 @@
     "SWIFT": null,
     "ISO3166": "IN-KL"
   },
+  "IDIB000S331": {
+    "BANK": "Indian Bank",
+    "IFSC": "IDIB000S331",
+    "MICR": "752019014",
+    "BRANCH": "SAMANGA",
+    "ADDRESS": "PLOT NO 193/651 MOUZA-KHARIPADA,NEAR SAMANGA PANCHAYAT OFFICE PS-PURI SADAR DIST PURI ODISHA PIN-752002",
+    "STATE": "ODISHA",
+    "CONTACT": "+917008632598",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "PURI",
+    "CENTRE": "BHUBANESWAR",
+    "DISTRICT": "BHUBANESWAR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
+  },
   "IDIB000S501": {
     "BANK": "Indian Bank",
     "IFSC": "IDIB000S501",
@@ -97541,6 +97703,24 @@
     "SWIFT": null,
     "ISO3166": "IN-UP"
   },
+  "IDIB000T209": {
+    "BANK": "Indian Bank",
+    "IFSC": "IDIB000T209",
+    "MICR": "695019025",
+    "BRANCH": "TECHNOCITY",
+    "ADDRESS": "GROUND FLOOR PUTHENVEEDU THONNAKKAL VILLAGE MANGALPURAM THIRUVANATHAPURAM THONNAKKAL",
+    "STATE": "KERALA",
+    "CONTACT": "+919446001609",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "THIRUVANANTHAPURAM",
+    "CENTRE": "THIRUVANANTHAPURAM",
+    "DISTRICT": "THIRUVANANTHAPURAM",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-KL"
+  },
   "IDIB000T503": {
     "BANK": "Indian Bank",
     "IFSC": "IDIB000T503",
@@ -103422,7 +103602,7 @@
     "CITY": "TUTICORIN",
     "CENTRE": "TUTIKORIN",
     "DISTRICT": "TUTIKORIN",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-TN"
@@ -103462,6 +103642,24 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-RJ"
+  },
+  "IDIB000V175": {
+    "BANK": "Indian Bank",
+    "IFSC": "IDIB000V175",
+    "MICR": "606019047",
+    "BRANCH": "VILAMBAR",
+    "ADDRESS": "S NO 205/23B AYYASAMY UDAYAR COMPLEX VILAMBAR VILLAGE",
+    "STATE": "TAMIL NADU",
+    "CONTACT": "+919677952493",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "KALLAKURUCHI",
+    "CENTRE": "KALLAKURICHI",
+    "DISTRICT": "KALLAKURICHI",
+    "NEFT": false,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDIB000V501": {
     "BANK": "Indian Bank",

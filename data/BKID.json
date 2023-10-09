@@ -6713,6 +6713,24 @@
     "SWIFT": null,
     "ISO3166": "IN-MH"
   },
+  "BKID0000784": {
+    "BANK": "Bank of India",
+    "IFSC": "BKID0000784",
+    "MICR": null,
+    "BRANCH": "SHINGORNI",
+    "ADDRESS": "AT SHINGORNI POST KATPHAL, TALUKA MALSHIRAS, DIST SOLAPUR,PIN 413306",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": "+918149321626",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "SOLAPUR",
+    "CENTRE": "SOLAPUR",
+    "DISTRICT": "SOLAPUR",
+    "NEFT": false,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
   "BKID0000800": {
     "BANK": "Bank of India",
     "IFSC": "BKID0000800",
@@ -40229,6 +40247,24 @@
     "SWIFT": null,
     "ISO3166": "IN-OR"
   },
+  "BKID0005177": {
+    "BANK": "Bank of India",
+    "IFSC": "BKID0005177",
+    "MICR": null,
+    "BRANCH": "NONOIPARA T.E",
+    "ADDRESS": "BANK OF INDIA,NONOIPARA T E BRANCH, NONOIPARA ROAD, NO 1 GARUAJHAR, PO GARUAJHAR, DISTRICT UDALGURI ASSAM 784523",
+    "STATE": "ASSAM",
+    "CONTACT": "+918348712829",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "UDALGURI",
+    "CENTRE": "NO.I GARUAJHAR",
+    "DISTRICT": "NO.I GARUAJHAR",
+    "NEFT": false,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-AS"
+  },
   "BKID0005191": {
     "BANK": "Bank of India",
     "IFSC": "BKID0005191",
@@ -70050,7 +70086,7 @@
     "CITY": "JODHPUR",
     "CENTRE": "POKARAN",
     "DISTRICT": "POKARAN",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-RJ"
@@ -70068,7 +70104,7 @@
     "CITY": "JODHPUR",
     "CENTRE": "BHOPALGARH",
     "DISTRICT": "BHOPALGARH",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-RJ"
@@ -70086,7 +70122,7 @@
     "CITY": "JODHPUR",
     "CENTRE": "OSIAN",
     "DISTRICT": "OSIAN",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-RJ"

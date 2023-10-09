@@ -27575,6 +27575,24 @@
     "SWIFT": null,
     "ISO3166": "IN-CT"
   },
+  "INDB0001780": {
+    "BANK": "Indusind Bank",
+    "IFSC": "INDB0001780",
+    "MICR": "110234191",
+    "BRANCH": "SEC NOIDA",
+    "ADDRESS": "GROUND FLOOR & FIRST FLOOR SECTOR NOIDA",
+    "STATE": "UTTAR PRADESH",
+    "CONTACT": "+911204992919",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "GAUTAM BUDDHA NAGAR",
+    "CENTRE": "GAUTAM BUDDHA NAGAR",
+    "DISTRICT": "GAUTAM BUDDHA NAGAR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
+  },
   "INDB0001781": {
     "BANK": "Indusind Bank",
     "IFSC": "INDB0001781",
@@ -34505,6 +34523,24 @@
     "SWIFT": null,
     "ISO3166": "IN-MH"
   },
+  "INDB0002174": {
+    "BANK": "Indusind Bank",
+    "IFSC": "INDB0002174",
+    "MICR": "390234020",
+    "BRANCH": "AKSHAR CHOWK VADODARA",
+    "ADDRESS": "GROUND FLOOR VADODARA GUJARAT",
+    "STATE": "GUJARAT",
+    "CONTACT": "+912652990516",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "VADODARA",
+    "CENTRE": "VADODARA",
+    "DISTRICT": "VADODARA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
+  },
   "INDB0002175": {
     "BANK": "Indusind Bank",
     "IFSC": "INDB0002175",
@@ -34716,7 +34752,7 @@
     "CITY": "HYDERABAD",
     "CENTRE": "HYDERABAD",
     "DISTRICT": "HYDERABAD",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-TG"
@@ -34860,7 +34896,7 @@
     "CITY": "SOUTH GOA",
     "CENTRE": "SOUTH GOA",
     "DISTRICT": "SOUTH GOA",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-GA"
@@ -34882,6 +34918,24 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-AP"
+  },
+  "INDB0002199": {
+    "BANK": "Indusind Bank",
+    "IFSC": "INDB0002199",
+    "MICR": "160234046",
+    "BRANCH": "MOHALI",
+    "ADDRESS": "GROUND FLOOR BASEMENT CONNAUGHT PLAZA TDI CITY SECTOR MOHALI 140501 PUNJAB",
+    "STATE": "PUNJAB",
+    "CONTACT": "+917400027742",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "MOHALI",
+    "CENTRE": "MOHALI",
+    "DISTRICT": "MOHALI",
+    "NEFT": false,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "INDB0002200": {
     "BANK": "Indusind Bank",
@@ -35166,7 +35220,7 @@
     "CITY": "NORTH GOA",
     "CENTRE": "NORTH GOA",
     "DISTRICT": "NORTH GOA",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-GA"
@@ -35184,7 +35238,7 @@
     "CITY": "SOUTH GOA",
     "CENTRE": "SOUTH GOA",
     "DISTRICT": "SOUTH GOA",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-GA"
@@ -35202,7 +35256,7 @@
     "CITY": "BANGALORE",
     "CENTRE": "BANGALORE",
     "DISTRICT": "BANGALORE",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-KA"
@@ -35238,10 +35292,28 @@
     "CITY": "BANGALORE",
     "CENTRE": "BANGALORE",
     "DISTRICT": "BANGALORE",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-KA"
+  },
+  "INDB0002227": {
+    "BANK": "Indusind Bank",
+    "IFSC": "INDB0002227",
+    "MICR": "302234030",
+    "BRANCH": "GANDHI PATH JAIPUR",
+    "ADDRESS": "GROUND FLOOR CHITRAKOOT YOJNA GANDHIPATH JAIPUR 302021 RAJASTHAN",
+    "STATE": "RAJASTHAN",
+    "CONTACT": "+911412992688",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "JAIPUR",
+    "CENTRE": "JAIPUR",
+    "DISTRICT": "JAIPUR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "INDB0002228": {
     "BANK": "Indusind Bank",
@@ -35256,7 +35328,7 @@
     "CITY": "HOSHIARPUR",
     "CENTRE": "HOSHIARPUR",
     "DISTRICT": "HOSHIARPUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-PB"
@@ -35364,7 +35436,7 @@
     "CITY": "BICHOLIM",
     "CENTRE": "BICHOLIM",
     "DISTRICT": "BICHOLIM",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-GA"
@@ -35382,7 +35454,7 @@
     "CITY": "SUNDARGARH",
     "CENTRE": "SUNDARGARH",
     "DISTRICT": "SUNDARGARH",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-OR"
@@ -35400,7 +35472,7 @@
     "CITY": "PATNA",
     "CENTRE": "PATNA",
     "DISTRICT": "PATNA",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-BR"
@@ -35440,6 +35512,24 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-TN"
+  },
+  "INDB0002245": {
+    "BANK": "Indusind Bank",
+    "IFSC": "INDB0002245",
+    "MICR": "175234103",
+    "BRANCH": "SUNDARNAGAR",
+    "ADDRESS": "GROUND FLOOR ROSHAN HOTEL OPP SBI BHOJPUR SUNDERNAGAR DIST MANDI HP",
+    "STATE": "HIMACHAL PRADESH",
+    "CONTACT": "+911907299494",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "MANDI",
+    "CENTRE": "MANDI",
+    "DISTRICT": "MANDI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-HP"
   },
   "INDB0005001": {
     "BANK": "Indusind Bank",

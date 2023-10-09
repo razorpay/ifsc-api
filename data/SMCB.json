@@ -714,9 +714,27 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-GJ"
+  },
+  "SMCB0001039": {
+    "BANK": "Shivalik Small Finance Bank",
+    "IFSC": "SMCB0001039",
+    "MICR": "500721002",
+    "BRANCH": "Hyderabad",
+    "ADDRESS": "PLOT NO. 8/A,ROAD NO.2/5 & 2 JUBILEE HILLS, NEAR MORE SUPERMARKET, HYDERABAD-500033",
+    "STATE": "TELANGANA",
+    "CONTACT": "+919560011518",
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "HYDERABAD",
+    "CENTRE": "HYDERABAD",
+    "DISTRICT": "HYDERABAD",
+    "NEFT": false,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-TG"
   }
 }

@@ -9714,7 +9714,7 @@
     "CITY": "CHENNAI",
     "CENTRE": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-TN"
@@ -9732,7 +9732,7 @@
     "CITY": "RAMANATHAPURAM",
     "CENTRE": "RAMANATHAPURAM",
     "DISTRICT": "RAMANATHAPURAM",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-TN"
@@ -9859,6 +9859,24 @@
     "CENTRE": "CHENNAI",
     "DISTRICT": "CHENNAI",
     "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
+  },
+  "TMBL0000979": {
+    "BANK": "Tamilnad Mercantile Bank",
+    "IFSC": "TMBL0000979",
+    "MICR": null,
+    "BRANCH": "BANCASSURANCE CELL",
+    "ADDRESS": "196 A AND B ETTAYAPURAM ROAD THOOTHUKUDI 628002",
+    "STATE": "TAMIL NADU",
+    "CONTACT": "+919524147264",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "THOOTHUKUDI",
+    "CENTRE": "THOOTHUKUDI",
+    "DISTRICT": "THOOTHUKUDI",
+    "NEFT": false,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-TN"

@@ -23286,7 +23286,7 @@
     "CITY": "JAMSHEDPUR",
     "CENTRE": "JAMSHEDPUR",
     "DISTRICT": "JAMSHEDPUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-JH"
@@ -23970,7 +23970,7 @@
     "CITY": "DELHI",
     "CENTRE": "DELHI",
     "DISTRICT": "DELHI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-DL"
@@ -24042,7 +24042,7 @@
     "CITY": "CHHATRAPATI SAMBHAJI NAGAR",
     "CENTRE": "CHHATRAPATI SAMBHAJI NAGAR",
     "DISTRICT": "CHHATRAPATI SAMBHAJI NAGAR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-MH"
@@ -24060,7 +24060,7 @@
     "CITY": "NASHIK",
     "CENTRE": "NASHIK",
     "DISTRICT": "NASHIK",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-MH"
@@ -26999,6 +26999,42 @@
     "SWIFT": null,
     "ISO3166": "IN-MH"
   },
+  "YESB0ASSB14": {
+    "BANK": "Yes Bank",
+    "IFSC": "YESB0ASSB14",
+    "MICR": "444806103",
+    "BRANCH": "THE AMRAVATI ZILLA PARISHAD SHIKSHAK SAHKARI BANK LTD",
+    "ADDRESS": "PUSHKARNA NAGAR,NEAR KHATUSHYAMA MARBLE,INFRONT OF HDFC ATM DHAMANGAON RLY DIST AMRAVATI PINCODE 444709",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": "+917222297934",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "AMRAVATI",
+    "CENTRE": "DHAMANGAON RLY",
+    "DISTRICT": "DHAMANGAON RLY",
+    "NEFT": false,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
+  "YESB0ASSB15": {
+    "BANK": "Yes Bank",
+    "IFSC": "YESB0ASSB15",
+    "MICR": "445806002",
+    "BRANCH": "THE AMRAVATI ZILLA PARISHAD SHIKSHAK SAHKARI BANK LTD",
+    "ADDRESS": "TIRUMAL TOWER,GALA N0 2,NEAR SAI SHRADDHA HOSPITAL,ARNI RO AD,YAVATMAL DIST  YAVATMAL PINCODE 445001",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": "+917232298585",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "YAVATMAL",
+    "CENTRE": "YAVATMAL",
+    "DISTRICT": "YAVATMAL",
+    "NEFT": false,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
   "YESB0AUB001": {
     "BANK": "Akola Urban Co-operative Bank",
     "IFSC": "YESB0AUB001",
@@ -29838,7 +29874,7 @@
     "CITY": "VIDISHA",
     "CENTRE": "BASODA",
     "DISTRICT": "BASODA",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-MP"
@@ -40188,7 +40224,7 @@
     "CITY": "HYDERABAD",
     "CENTRE": "HYDERABAD",
     "DISTRICT": "HYDERABAD",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-TG"
