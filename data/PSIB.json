@@ -28367,6 +28367,24 @@
     "SWIFT": null,
     "ISO3166": "IN-GA"
   },
+  "PSIB0021607": {
+    "BANK": "Punjab & Sind Bank",
+    "IFSC": "PSIB0021607",
+    "MICR": "380023009",
+    "BRANCH": "CHANDKHEDA AHMEDABAD",
+    "ADDRESS": "SHOP NO 2 TO 5 GROUND FLOOR KALASH CHANDKHEDA AHMEDABAD 382424 GUJARAT",
+    "STATE": "GUJARAT",
+    "CONTACT": "+918889555419",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "AHMEDABAD",
+    "CENTRE": "AHMEDABAD",
+    "DISTRICT": "AHMEDABAD",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
+  },
   "PSIB0021608": {
     "BANK": "Punjab & Sind Bank",
     "IFSC": "PSIB0021608",
@@ -28384,5 +28402,23 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-AS"
+  },
+  "PSIB0021612": {
+    "BANK": "Punjab & Sind Bank",
+    "IFSC": "PSIB0021612",
+    "MICR": null,
+    "BRANCH": "CO LENDING",
+    "ADDRESS": "STAFF TRAINING CENTRE SECTOR 3 ROHINI NEW DELHI",
+    "STATE": "DELHI",
+    "CONTACT": "+911141435969",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "NORTH WEST DELHI",
+    "CENTRE": "NEW DELHI",
+    "DISTRICT": "NEW DELHI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   }
 }

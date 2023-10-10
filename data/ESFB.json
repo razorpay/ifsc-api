@@ -53,6 +53,24 @@
     "SWIFT": null,
     "ISO3166": "IN-TN"
   },
+  "ESFB0000EMI": {
+    "BANK": "Equitas Small Finance Bank",
+    "IFSC": "ESFB0000EMI",
+    "MICR": null,
+    "BRANCH": "ESFB LOAN DEPT",
+    "ADDRESS": "PHASE 2,TH FLOOR,SPENCER PLAZA,N 769 ANNA SALAI,CHENNAI 600002",
+    "STATE": "TAMIL NADU",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "CHENNAI",
+    "CENTRE": "CHENNAI",
+    "DISTRICT": "CHENNAI",
+    "NEFT": false,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
+  },
   "ESFB0001001": {
     "BANK": "Equitas Small Finance Bank",
     "IFSC": "ESFB0001001",
@@ -7392,7 +7410,7 @@
     "CITY": "BANGLORE",
     "CENTRE": "BANGLORE",
     "DISTRICT": "BANGLORE",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-KA"
