@@ -34,5 +34,23 @@
     "NEFT": false,
     "SWIFT": null,
     "ISO3166": "IN-MH"
+  },
+  "BCEY0NEFTSC": {
+    "BANK": "Bank of Ceylon",
+    "IFSC": "BCEY0NEFTSC",
+    "BRANCH": "CHENNAI",
+    "ADDRESS": "CHENNAI",
+    "STATE": "TAMIL NADU",
+    "MICR": null,
+    "CONTACT": null,
+    "UPI": false,
+    "NEFT": true,
+    "CITY": "CHENNAI",
+    "CENTRE": "CHENNAI",
+    "DISTRICT": "CHENNAI",
+    "RTGS": false,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   }
 }

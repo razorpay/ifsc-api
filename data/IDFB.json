@@ -17,6 +17,24 @@
     "SWIFT": null,
     "ISO3166": "IN-MH"
   },
+  "IDFB00000SC": {
+    "BANK": "IDFC FIRST Bank",
+    "IFSC": "IDFB00000SC",
+    "BRANCH": "SERVICE CENTRE",
+    "ADDRESS": "4th Floor, Naman Chambers, C 32, G Block, Bandra Kurla Complex, Bandra East,Mumbai 400051",
+    "STATE": "MAHARASHTRA",
+    "MICR": null,
+    "CONTACT": "+912242222000",
+    "UPI": true,
+    "NEFT": true,
+    "CITY": "MUMBAI",
+    "CENTRE": "MUMBAI",
+    "DISTRICT": "MUMBAI",
+    "RTGS": false,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
   "IDFB0010201": {
     "BANK": "IDFC FIRST Bank",
     "IFSC": "IDFB0010201",
@@ -1362,7 +1380,7 @@
     "CITY": "WEST DELHI",
     "CENTRE": "DELHI",
     "DISTRICT": "DELHI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-DL"
@@ -1776,7 +1794,7 @@
     "CITY": "AMRITSAR",
     "CENTRE": "AMRITSAR",
     "DISTRICT": "AMRITSAR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-PB"
@@ -1794,7 +1812,7 @@
     "CITY": "GURUGRAM",
     "CENTRE": "GURGAON",
     "DISTRICT": "GURGAON",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-HR"
@@ -2514,7 +2532,7 @@
     "CITY": "FARIDABAD",
     "CENTRE": "FARIDABAD",
     "DISTRICT": "FARIDABAD",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-HR"
@@ -2820,7 +2838,7 @@
     "CITY": "GHAZIABAD",
     "CENTRE": "GHAZIABAD",
     "DISTRICT": "GHAZIABAD",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-UP"
@@ -2856,7 +2874,7 @@
     "CITY": "GHAZIABAD",
     "CENTRE": "GHAZIABAD",
     "DISTRICT": "GHAZIABAD",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-UP"
@@ -4566,7 +4584,7 @@
     "CITY": "MUMBAI",
     "CENTRE": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-MH"
@@ -5160,7 +5178,7 @@
     "CITY": "AHMEDABAD",
     "CENTRE": "AHMEDABAD",
     "DISTRICT": "AHMEDABAD",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-GJ"
@@ -5178,7 +5196,7 @@
     "CITY": "AHMEDABAD",
     "CENTRE": "AHMEDABAD",
     "DISTRICT": "AHMEDABAD",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-GJ"
@@ -5430,7 +5448,7 @@
     "CITY": "MUMBAI",
     "CENTRE": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-MH"
@@ -6096,7 +6114,7 @@
     "CITY": "INDORE",
     "CENTRE": "INDORE",
     "DISTRICT": "INDORE",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-MP"
@@ -6654,7 +6672,7 @@
     "CITY": "BHOPAL",
     "CENTRE": "BHOPAL",
     "DISTRICT": "BHOPAL",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-MP"
@@ -7536,7 +7554,7 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-GJ"
@@ -9228,7 +9246,7 @@
     "CITY": "PALGHAR",
     "CENTRE": "VIRAR",
     "DISTRICT": "VIRAR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-MH"
@@ -9264,7 +9282,7 @@
     "CITY": "JAIPUR",
     "CENTRE": "JAIPUR",
     "DISTRICT": "JAIPUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-RJ"
@@ -9678,7 +9696,7 @@
     "CITY": "JALNA (M CL)",
     "CENTRE": "JALNA",
     "DISTRICT": "JALNA",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-MH"
@@ -9750,7 +9768,7 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-GJ"
@@ -9768,7 +9786,7 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-GJ"
@@ -10686,7 +10704,7 @@
     "CITY": "PASCHIM",
     "CENTRE": "ASANSOL",
     "DISTRICT": "ASANSOL",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-WB"
@@ -13188,7 +13206,7 @@
     "CITY": "RANGAREDDI",
     "CENTRE": "HYDERABAD",
     "DISTRICT": "HYDERABAD",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-TG"
@@ -13944,7 +13962,7 @@
     "CITY": "VISAKHAPATNAM",
     "CENTRE": "VIZAG",
     "DISTRICT": "VIZAG",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-AP"
@@ -14376,7 +14394,7 @@
     "CITY": "ERNAKULAM",
     "CENTRE": "ERNAKULAM",
     "DISTRICT": "ERNAKULAM",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-KL"
@@ -14448,7 +14466,7 @@
     "CITY": "THRISSUR",
     "CENTRE": "THRISSUR",
     "DISTRICT": "THRISSUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-KL"
@@ -14466,7 +14484,7 @@
     "CITY": "CHITTOOR",
     "CENTRE": "TIRUPATI",
     "DISTRICT": "TIRUPATI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-AP"
@@ -14664,7 +14682,7 @@
     "CITY": "KANNUR",
     "CENTRE": "KANNUR",
     "DISTRICT": "KANNUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-KL"
@@ -15420,7 +15438,7 @@
     "CITY": "CHENNAI",
     "CENTRE": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-TN"
@@ -15708,7 +15726,7 @@
     "CITY": "MEDCHAL- MALKAJGIRI",
     "CENTRE": "HYDERABAD",
     "DISTRICT": "HYDERABAD",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-TG"

@@ -71,6 +71,24 @@
     "SWIFT": null,
     "ISO3166": "IN-KL"
   },
+  "ESMF00000SC": {
+    "BANK": "Esaf Small Finance Bank",
+    "IFSC": "ESMF00000SC",
+    "BRANCH": "NEFT SERVICE CENTER",
+    "ADDRESS": "HEPZIBAH COMPLEX, SECOND FLOOR NO X/101/M4, MANNUTHY P.O, THRISSUR , KERALA 680651",
+    "STATE": "KERALA",
+    "MICR": null,
+    "CONTACT": "+918046443723",
+    "UPI": false,
+    "NEFT": true,
+    "CITY": "THRISSUR",
+    "CENTRE": "MANNUTHY",
+    "DISTRICT": "MANNUTHY",
+    "RTGS": false,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-KL"
+  },
   "ESMF0001101": {
     "BANK": "Esaf Small Finance Bank",
     "IFSC": "ESMF0001101",
@@ -11550,7 +11568,7 @@
     "CITY": "KHARGONE",
     "CENTRE": "WEST NIMAR",
     "DISTRICT": "WEST NIMAR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-MP"

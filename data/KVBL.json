@@ -2749,7 +2749,7 @@
     "UPI": true,
     "MICR": "600053056",
     "RTGS": true,
-    "NEFT": false,
+    "NEFT": true,
     "SWIFT": null,
     "ISO3166": "IN-MH"
   },
@@ -12666,7 +12666,7 @@
     "CITY": "DHARMAPURI",
     "CENTRE": "PALACODE",
     "DISTRICT": "PALACODE",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-TN"
@@ -17022,7 +17022,7 @@
     "CITY": "ANAKAPALLE",
     "CENTRE": "ATCHUTAPURAM",
     "DISTRICT": "ATCHUTAPURAM",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-AP"

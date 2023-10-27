@@ -16,5 +16,23 @@
     "NEFT": true,
     "SWIFT": null,
     "ISO3166": "IN-MH"
+  },
+  "RABO00000SC": {
+    "BANK": "Rabobank International",
+    "IFSC": "RABO00000SC",
+    "BRANCH": "MUMBAI",
+    "ADDRESS": "LEVEL 20, TOWER A, PENINSULA BUSINESS PARK,SENAPATI BAPAT MARG,LOWER PAREL,MUMBAI 400 013.",
+    "STATE": "MAHARASHTRA",
+    "MICR": null,
+    "CONTACT": "+912222015566",
+    "UPI": false,
+    "NEFT": true,
+    "CITY": "MUMBAI",
+    "CENTRE": "MUMBAI",
+    "DISTRICT": "MUMBAI",
+    "RTGS": false,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   }
 }

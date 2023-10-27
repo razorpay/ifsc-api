@@ -13,7 +13,7 @@
     "UPI": true,
     "MICR": null,
     "RTGS": true,
-    "NEFT": false,
+    "NEFT": true,
     "SWIFT": null,
     "ISO3166": "IN-MH"
   },
@@ -12522,7 +12522,7 @@
     "CITY": "SAKET",
     "CENTRE": "SAKET DELHI",
     "DISTRICT": "SAKET DELHI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-DL"
@@ -12563,6 +12563,24 @@
     "SWIFT": null,
     "ISO3166": "IN-KA"
   },
+  "UTKS0001713": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001713",
+    "MICR": "500762005",
+    "BRANCH": "SINDHI COLONY SECUNDERABAD",
+    "ADDRESS": "GROUND FLOOR PLOT NO 24 H.NO.1-8-303/25 PG ROAD SINDHI COLONY SECUNDERABAD TELANGANA PINCODE - 500003",
+    "STATE": "TELANGANA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "SECUNDERABAD",
+    "CENTRE": "SINDHI COLONY SECUNDERABAD",
+    "DISTRICT": "SINDHI COLONY SECUNDERABAD",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-TG"
+  },
   "UTKS0001714": {
     "BANK": "Utkarsh Small Finance Bank",
     "IFSC": "UTKS0001714",
@@ -12576,7 +12594,7 @@
     "CITY": "ZIRAKPUR",
     "CENTRE": "ZIRAKPUR PUNJAB",
     "DISTRICT": "ZIRAKPUR PUNJAB",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-PB"
@@ -12612,7 +12630,7 @@
     "CITY": "KORBA",
     "CENTRE": "KORBA CHHATTISGARH",
     "DISTRICT": "KORBA CHHATTISGARH",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-CT"
@@ -12630,7 +12648,7 @@
     "CITY": "KANPUR",
     "CENTRE": "KESHAVPURAM KANPUR",
     "DISTRICT": "KESHAVPURAM KANPUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-UP"
@@ -12648,7 +12666,7 @@
     "CITY": "SOUTHCITYII GURUGRAM",
     "CENTRE": "SOUTH CITY II GURUGRAM",
     "DISTRICT": "SOUTH CITY II GURUGRAM",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-HR"
@@ -15510,7 +15528,7 @@
     "CITY": "SOHELA",
     "CENTRE": "SOHELA ODISHA",
     "DISTRICT": "SOHELA ODISHA",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-OR"
@@ -15762,9 +15780,27 @@
     "CITY": "HMR",
     "CENTRE": "MATHURA BIHAR",
     "DISTRICT": "MATHURA BIHAR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-BR"
+  },
+  "UTKS0001976": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001976",
+    "MICR": "136762153",
+    "BRANCH": "CHEEKA",
+    "ADDRESS": "UTKARSH SMALL FINANCE BANK LTD.GROUND FLOOR WARD NO.9 HANUMAN COLONY GULHA ROAD CHEEKA KAITHAL HARYANA.PIN-136034",
+    "STATE": "HARYANA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "ATA",
+    "CENTRE": "CHEEKA HARYANA",
+    "DISTRICT": "CHEEKA HARYANA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   }
 }

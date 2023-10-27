@@ -30203,6 +30203,24 @@
     "SWIFT": null,
     "ISO3166": "IN-CT"
   },
+  "UCBA0001831": {
+    "BANK": "UCO Bank",
+    "IFSC": "UCBA0001831",
+    "BRANCH": "TREASURY BRANCH",
+    "ADDRESS": "1ST FLOOR, MAFATLAL CENTRE, NARIMAN POINT, MUMBAI 400 021",
+    "STATE": "MAHARASHTRA",
+    "MICR": null,
+    "CONTACT": "+912266547306",
+    "UPI": true,
+    "NEFT": true,
+    "CITY": "MUMBAI",
+    "CENTRE": "MUMBAI",
+    "DISTRICT": "MUMBAI",
+    "RTGS": false,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
   "UCBA0001832": {
     "BANK": "UCO Bank",
     "IFSC": "UCBA0001832",
@@ -57918,7 +57936,7 @@
     "CITY": "PARGANAS N",
     "CENTRE": "KOLKATA",
     "DISTRICT": "KOLKATA",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-WB"

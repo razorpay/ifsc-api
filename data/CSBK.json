@@ -14016,7 +14016,7 @@
     "CITY": "HAVERI",
     "CENTRE": "RANEBENNUR",
     "DISTRICT": "RANEBENNUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-KA"
@@ -14160,7 +14160,7 @@
     "CITY": "GADAG",
     "CENTRE": "GADAG",
     "DISTRICT": "GADAG",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-KA"
@@ -14196,7 +14196,7 @@
     "CITY": "TIRUPATHI",
     "CENTRE": "TIRUPATI",
     "DISTRICT": "TIRUPATI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-AP"
@@ -14250,7 +14250,7 @@
     "CITY": "GURUGRAM",
     "CENTRE": "GURUGRAM RAILWAY ROAD",
     "DISTRICT": "GURUGRAM RAILWAY ROAD",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-HR"
@@ -14268,7 +14268,7 @@
     "CITY": "EAST GODAVARI",
     "CENTRE": "KHANDAVALLI",
     "DISTRICT": "KHANDAVALLI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-AP"
@@ -14322,7 +14322,7 @@
     "CITY": "BENGALURU URBAN",
     "CENTRE": "KALYAN NAGAR BANGALORE",
     "DISTRICT": "KALYAN NAGAR BANGALORE",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-KA"
@@ -14646,7 +14646,7 @@
     "CITY": "RAICHUR",
     "CENTRE": "RAICHUR",
     "DISTRICT": "RAICHUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-KA"
@@ -14686,5 +14686,23 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-GJ"
+  },
+  "CSBK000NEFT": {
+    "BANK": "Catholic Syrian Bank",
+    "IFSC": "CSBK000NEFT",
+    "BRANCH": "RTGS CENTRE",
+    "ADDRESS": "MARKET ROAD, ERNAKULAM, KOCHI - 682011, ERNAKULAM, KERALA",
+    "STATE": "KERALA",
+    "MICR": null,
+    "CONTACT": "+914846460167",
+    "UPI": true,
+    "NEFT": true,
+    "CITY": "ERNAKULAM",
+    "CENTRE": "KOCHI",
+    "DISTRICT": "KOCHI",
+    "RTGS": false,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-KL"
   }
 }

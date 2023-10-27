@@ -737,6 +737,24 @@
     "SWIFT": null,
     "ISO3166": "IN-MH"
   },
+  "CITI0NEFT00": {
+    "BANK": "CITI Bank",
+    "IFSC": "CITI0NEFT00",
+    "BRANCH": "MUMBAI",
+    "ADDRESS": "BOMBAY MUTUAL BUILDING, FORT, MUMBAI-400001",
+    "STATE": "MAHARASHTRA",
+    "MICR": null,
+    "CONTACT": "+912240005706",
+    "UPI": true,
+    "NEFT": true,
+    "CITY": "MUMBAI",
+    "CENTRE": "MUMBAI",
+    "DISTRICT": "MUMBAI",
+    "RTGS": false,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
   "CITI0RTGSMI": {
     "BANK": "CITI Bank",
     "IFSC": "CITI0RTGSMI",

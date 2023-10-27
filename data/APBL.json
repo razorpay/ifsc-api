@@ -305,6 +305,24 @@
     "SWIFT": null,
     "ISO3166": "IN-AP"
   },
+  "APBL00000SC": {
+    "BANK": "Andhra Pradesh State Co-operative Bank",
+    "IFSC": "APBL00000SC",
+    "BRANCH": "SERVICE CENTER",
+    "ADDRESS": "THE ANDHRA PRADESH STATE CO OPERATIVE BANK LTD. HEAD OFFICE, DOOR NO 27-29-28, NTR SAHAKARA BHAVAN, GOVERNORPET, VIJAYAWADA - 520002, ANDHRA PRADESH",
+    "STATE": "ANDHRA PRADESH",
+    "MICR": null,
+    "CONTACT": null,
+    "UPI": true,
+    "NEFT": true,
+    "CITY": "KRISHNA",
+    "CENTRE": "VIJAYAWADA",
+    "DISTRICT": "VIJAYAWADA",
+    "RTGS": false,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
+  },
   "APBL0000106": {
     "BANK": "Andhra Pradesh State Co-operative Bank",
     "IFSC": "APBL0000106",
@@ -6119,6 +6137,24 @@
     "SWIFT": null,
     "ISO3166": "IN-AP"
   },
+  "APBL0009022": {
+    "BANK": "Andhra Pradesh State Co-operative Bank",
+    "IFSC": "APBL0009022",
+    "MICR": null,
+    "BRANCH": "SRI POTTI SRI RAMULU NELLORE DISTRICT COOPERATIVE CETNRAL BANK LTD NELLORE",
+    "ADDRESS": "KALUVOYA BRANCH OPPOSITE TO BSNL OFFICE MAIN ROAD, KALUVOYA, SPSR NELLORE",
+    "STATE": "ANDHRA PRADESH",
+    "CONTACT": "+919951530042",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "SPSR NELLORE",
+    "CENTRE": "SPSR NELLORE",
+    "DISTRICT": "SPSR NELLORE",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
+  },
   "APBL0010000": {
     "BANK": "Andhra Pradesh State Co-operative Bank",
     "IFSC": "APBL0010000",
@@ -6834,7 +6870,7 @@
     "CITY": "CHITTOOR",
     "CENTRE": "PENUMUR",
     "DISTRICT": "PENUMUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-AP"
@@ -6852,7 +6888,7 @@
     "CITY": "CHITTOOR",
     "CENTRE": "RAMAKUPPAM",
     "DISTRICT": "RAMAKUPPAM",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-AP"

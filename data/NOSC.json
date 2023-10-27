@@ -34,5 +34,23 @@
     "NEFT": true,
     "SWIFT": null,
     "ISO3166": "IN-MH"
+  },
+  "NOSC000NEFT": {
+    "BANK": "Bank of Nova Scotia",
+    "IFSC": "NOSC000NEFT",
+    "BRANCH": "MUMBAI",
+    "ADDRESS": "POINT , MUMBAI - 21",
+    "STATE": "MAHARASHTRA",
+    "MICR": null,
+    "CONTACT": "+912266364000",
+    "UPI": false,
+    "NEFT": true,
+    "CITY": "MAHARASHTRA",
+    "CENTRE": "MUMBAI",
+    "DISTRICT": "MUMBAI",
+    "RTGS": false,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   }
 }

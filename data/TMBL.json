@@ -3577,7 +3577,7 @@
     "UPI": true,
     "MICR": null,
     "RTGS": true,
-    "NEFT": false,
+    "NEFT": true,
     "SWIFT": null,
     "ISO3166": "IN-MH"
   },
@@ -9737,6 +9737,24 @@
     "SWIFT": null,
     "ISO3166": "IN-TN"
   },
+  "TMBL0000543": {
+    "BANK": "Tamilnad Mercantile Bank",
+    "IFSC": "TMBL0000543",
+    "MICR": "621060003",
+    "BRANCH": "VIRALIMALAI",
+    "ADDRESS": "GF SF NO 266 3 SANATHI STREET,VIRALIMALAI 621316",
+    "STATE": "TAMIL NADU",
+    "CONTACT": "+919150038120",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "PUDUKKOTTAI",
+    "CENTRE": "VIRALIMALAI",
+    "DISTRICT": "VIRALIMALAI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
+  },
   "TMBL0000900": {
     "BANK": "Tamilnad Mercantile Bank",
     "IFSC": "TMBL0000900",
@@ -9876,7 +9894,7 @@
     "CITY": "THOOTHUKUDI",
     "CENTRE": "THOOTHUKUDI",
     "DISTRICT": "THOOTHUKUDI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-TN"

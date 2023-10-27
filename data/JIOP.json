@@ -16,5 +16,23 @@
     "NEFT": true,
     "SWIFT": null,
     "ISO3166": "IN-MH"
+  },
+  "JIOP0SC9999": {
+    "BANK": "Jio Payments Bank",
+    "IFSC": "JIOP0SC9999",
+    "BRANCH": "NEFT SERVICE CENTRE",
+    "ADDRESS": "RELIANCE CORPORATE PARK,THANE BELAPUR ROAD,GHANSOLI,NAVI MUMBAI,MAHARASHTRA, INDIA - 400701",
+    "STATE": "MAHARASHTRA",
+    "MICR": null,
+    "CONTACT": null,
+    "UPI": true,
+    "NEFT": true,
+    "CITY": "MUMBAI",
+    "CENTRE": "NAVI MUMBAI",
+    "DISTRICT": "NAVI MUMBAI",
+    "RTGS": false,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   }
 }

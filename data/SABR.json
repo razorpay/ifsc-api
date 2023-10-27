@@ -30,9 +30,27 @@
     "CITY": "MUMBAI SUBURBAN",
     "CENTRE": "MUMBAI",
     "DISTRICT": "MUMBAI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-MH"
+  },
+  "SABR00000SC": {
+    "BANK": "SBER Bank",
+    "IFSC": "SABR00000SC",
+    "BRANCH": "SBERBANK BRANCH IN  INDIA",
+    "ADDRESS": "UGF, GOPAL DAS BHAWAN, 28 BARAKHAMBA ROAD, N DELHI",
+    "STATE": "DELHI",
+    "MICR": null,
+    "CONTACT": "+911140048888",
+    "UPI": false,
+    "NEFT": true,
+    "CITY": "DELHI",
+    "CENTRE": "NEW DELHI",
+    "DISTRICT": "NEW DELHI",
+    "RTGS": false,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   }
 }
