@@ -16181,6 +16181,24 @@
     "SWIFT": null,
     "ISO3166": "IN-DL"
   },
+  "PSIB0000941": {
+    "BANK": "Punjab & Sind Bank",
+    "IFSC": "PSIB0000941",
+    "BRANCH": "SERVICE BRANCH MUMBAI",
+    "ADDRESS": "518 BY 20 JAMBULWADI,KALBADEVI,MUMBAI 400002",
+    "STATE": "MAHARASHTRA",
+    "MICR": null,
+    "CONTACT": "+912222059421",
+    "UPI": true,
+    "NEFT": true,
+    "CITY": "MUMBAI",
+    "CENTRE": "MUMBAI",
+    "DISTRICT": "MUMBAI",
+    "RTGS": false,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
   "PSIB0000947": {
     "BANK": "Punjab & Sind Bank",
     "IFSC": "PSIB0000947",
@@ -28366,6 +28384,24 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-GA"
+  },
+  "PSIB0021606": {
+    "BANK": "Punjab & Sind Bank",
+    "IFSC": "PSIB0021606",
+    "MICR": "380023008",
+    "BRANCH": "VATVA AHMEDABAD",
+    "ADDRESS": "SHOP NO 9 KRISH ARCADE NR SOHAM SANIDHYA B H RAGHAV INDUSTRIAL ESTATE S P RING ROAD RAMOL AHMEDABAD",
+    "STATE": "GUJARAT",
+    "CONTACT": "+917976769208",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "AHMEDABAD",
+    "CENTRE": "AHMEDABAD",
+    "DISTRICT": "AHMEDABAD",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "PSIB0021607": {
     "BANK": "Punjab & Sind Bank",

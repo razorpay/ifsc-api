@@ -1,4 +1,22 @@
 {
+  "CHAS0000001": {
+    "BANK": "JP Morgan Chase Bank NA",
+    "IFSC": "CHAS0000001",
+    "BRANCH": "CHAS",
+    "ADDRESS": "J.P. MORGAN TOWER, OFF. C.S.T. ROAD, KALINA, SANTACRUZ-EAST, MUMBAI - 400098 INDIA",
+    "STATE": "MAHARASHTRA",
+    "MICR": null,
+    "CONTACT": "+912261573836",
+    "UPI": false,
+    "NEFT": true,
+    "CITY": "GREATER BOMBAY",
+    "CENTRE": "MUMBAI",
+    "DISTRICT": "MUMBAI",
+    "RTGS": false,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
   "CHAS0INBX01": {
     "BANK": "JP Morgan Chase Bank NA",
     "IFSC": "CHAS0INBX01",

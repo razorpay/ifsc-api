@@ -1120,6 +1120,25 @@
     "ISO3166": "IN-MH",
     "imps": false
   },
+  "RBIS0MBSC04": {
+    "BANK": "Reserve Bank of India",
+    "IFSC": "RBIS0MBSC04",
+    "BRANCH": "PAD MUMBAI",
+    "ADDRESS": "PAD ,GROUND FLOOR,MAIN BUILDING ,FORT MUMBAI- 400001",
+    "STATE": "MAHARASHTRA",
+    "MICR": null,
+    "CONTACT": null,
+    "UPI": false,
+    "NEFT": true,
+    "CITY": "MUMBAI",
+    "CENTRE": "MUMBAI",
+    "DISTRICT": "MUMBAI",
+    "RTGS": false,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH",
+    "imps": false
+  },
   "RBIS0NDPA01": {
     "BANK": "Reserve Bank of India",
     "IFSC": "RBIS0NDPA01",

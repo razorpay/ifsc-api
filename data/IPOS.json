@@ -52,5 +52,23 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-DL"
+  },
+  "IPOS0NEFTSC": {
+    "BANK": "India Post Payments Bank",
+    "IFSC": "IPOS0NEFTSC",
+    "BRANCH": "SERVICE CENTRE",
+    "ADDRESS": "POST OFFICE ,SPEED POST CENTRE BUILDING,MARKET ROAD,NEW DELHI,CENTRAL DELHI,DELHI 110001,INDIA",
+    "STATE": "DELHI",
+    "MICR": null,
+    "CONTACT": "+911123362148",
+    "UPI": false,
+    "NEFT": true,
+    "CITY": "DELHI",
+    "CENTRE": "DELHI",
+    "DISTRICT": "DELHI",
+    "RTGS": false,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   }
 }

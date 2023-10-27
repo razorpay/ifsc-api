@@ -570,7 +570,7 @@
     "CITY": "SURAT",
     "CENTRE": "SURAT",
     "DISTRICT": "SURAT",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-GJ"
@@ -589,7 +589,7 @@
     "UPI": true,
     "MICR": null,
     "RTGS": true,
-    "NEFT": false,
+    "NEFT": true,
     "SWIFT": null,
     "ISO3166": "IN-MH"
   }
