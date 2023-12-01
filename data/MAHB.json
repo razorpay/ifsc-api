@@ -40577,7 +40577,7 @@
     "MICR": "494014101",
     "BRANCH": "KANKER",
     "ADDRESS": "ALBELA PARA, NEAR PG COLLEGE, KANKER, CHHATTISGARH-494334",
-    "STATE": "CHANDIGARH",
+    "STATE": "CHHATTISGARH",
     "CONTACT": "+919109240311",
     "UPI": true,
     "RTGS": true,
@@ -40587,7 +40587,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
-    "ISO3166": "IN-CH"
+    "ISO3166": "IN-CT"
   },
   "MAHB0002348": {
     "BANK": "Bank of Maharashtra",
@@ -41062,8 +41062,8 @@
     "IFSC": "MAHB0002374",
     "MICR": "490014004",
     "BRANCH": "BHILAI CHARODA",
-    "ADDRESS": "GE ROAD, BAJRANG PARA, BHILAI-3, DIST -DURG-490021",
-    "STATE": "CHANDIGARH",
+    "ADDRESS": "G.E.ROAD, BAJRANG PARA, BHILAI-3, DIST -DURG-490021",
+    "STATE": "CHHATTISGARH",
     "CONTACT": "+919109123940",
     "UPI": true,
     "RTGS": true,
@@ -41073,7 +41073,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
-    "ISO3166": "IN-CH"
+    "ISO3166": "IN-CT"
   },
   "MAHB0002375": {
     "BANK": "Bank of Maharashtra",
@@ -41459,7 +41459,7 @@
     "MICR": "497014101",
     "BRANCH": "SURAJPUR",
     "ADDRESS": "NAWAPARA,NH-43,MAIN ROAD, SURAJPUR, DIST-SURAJPUR-497229",
-    "STATE": "CHANDIGARH",
+    "STATE": "CHHATTISGARH",
     "CONTACT": "+919109123945",
     "UPI": true,
     "RTGS": true,
@@ -41469,7 +41469,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
-    "ISO3166": "IN-CH"
+    "ISO3166": "IN-CT"
   },
   "MAHB0002397": {
     "BANK": "Bank of Maharashtra",
@@ -41477,7 +41477,7 @@
     "MICR": "497014051",
     "BRANCH": "BAIKUNTHPUR",
     "ADDRESS": "BELOW HOTEL AAWAS, MAIN ROAD, BAIKUNTHPUR, DIST-KORIYA-497335",
-    "STATE": "CHANDIGARH",
+    "STATE": "CHHATTISGARH",
     "CONTACT": "+919109123944",
     "UPI": true,
     "RTGS": true,
@@ -41487,15 +41487,15 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
-    "ISO3166": "IN-CH"
+    "ISO3166": "IN-CT"
   },
   "MAHB0002398": {
     "BANK": "Bank of Maharashtra",
     "IFSC": "MAHB0002398",
     "MICR": "491014251",
     "BRANCH": "BALOD",
-    "ADDRESS": "UNNATI PLAZA, OPP POST OFFICE, CIVIL LINES BALOD",
-    "STATE": "CHANDIGARH",
+    "ADDRESS": "UNNATI PLAZA, OPP. POST OFFICE, CIVIL LINES BALOD",
+    "STATE": "CHHATTISGARH",
     "CONTACT": "+919109123943",
     "UPI": true,
     "RTGS": true,
@@ -41505,7 +41505,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
-    "ISO3166": "IN-CH"
+    "ISO3166": "IN-CT"
   },
   "MAHB0002399": {
     "BANK": "Bank of Maharashtra",
@@ -41513,7 +41513,7 @@
     "MICR": "495014301",
     "BRANCH": "TRANSPORT NAGAR KORBA",
     "ADDRESS": "INDIRA COMMERCIAL COMPLEX, STADIUM ROAD, TP NAGAR,KORBA-495677",
-    "STATE": "CHANDIGARH",
+    "STATE": "CHHATTISGARH",
     "CONTACT": "+919109123941",
     "UPI": true,
     "RTGS": true,
@@ -41523,7 +41523,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
-    "ISO3166": "IN-CH"
+    "ISO3166": "IN-CT"
   },
   "MAHB0002400": {
     "BANK": "Bank of Maharashtra",
@@ -41531,7 +41531,7 @@
     "MICR": "492014008",
     "BRANCH": "SHYAM NAGAR",
     "ADDRESS": "IN FRONT OF GURUNANAK HALL, SHYAM NAGAR RAIPUR-492001",
-    "STATE": "CHANDIGARH",
+    "STATE": "CHHATTISGARH",
     "CONTACT": "+919109123942",
     "UPI": true,
     "RTGS": true,
@@ -41541,7 +41541,7 @@
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
-    "ISO3166": "IN-CH"
+    "ISO3166": "IN-CT"
   },
   "MAHB0002401": {
     "BANK": "Bank of Maharashtra",
@@ -43379,6 +43379,24 @@
     "SWIFT": null,
     "ISO3166": "IN-CT"
   },
+  "MAHB0002503": {
+    "BANK": "Bank of Maharashtra",
+    "IFSC": "MAHB0002503",
+    "MICR": "212014004",
+    "BRANCH": "MANJHANPUR",
+    "ADDRESS": "SIRATHU ROAD, CHAK NAGAR- II, MANJHANPUR, DISTRICT-KAUSHAMBI, UTTAR PRADESH-212207",
+    "STATE": "UTTAR PRADESH",
+    "CONTACT": "+917565802503",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "KAUSHAMBI",
+    "CENTRE": "KAUSHAMBI",
+    "DISTRICT": "KAUSHAMBI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
+  },
   "MAHB0002504": {
     "BANK": "Bank of Maharashtra",
     "IFSC": "MAHB0002504",
@@ -43414,6 +43432,60 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-MH"
+  },
+  "MAHB0002506": {
+    "BANK": "Bank of Maharashtra",
+    "IFSC": "MAHB0002506",
+    "MICR": "110014091",
+    "BRANCH": "NOIDA SECTOR ONE HUNDRED TWENTY TWO",
+    "ADDRESS": "PK -137, SECTOR-122, NOIDA, DISTRICT-GAUTAM BUDDHA NAGAR, UTTAR PRADESH-201316",
+    "STATE": "UTTAR PRADESH",
+    "CONTACT": "+919355887167",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "GAUTAM BUDDHA NAGAR",
+    "CENTRE": "NOIDA",
+    "DISTRICT": "NOIDA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
+  },
+  "MAHB0002507": {
+    "BANK": "Bank of Maharashtra",
+    "IFSC": "MAHB0002507",
+    "MICR": "788014202",
+    "BRANCH": "HAILAKANDI",
+    "ADDRESS": "WARD NO 4, SIB-BARI ROAD, HAILAKANDI, DISTRICT-HAILAKANDI, ASSAM-788151",
+    "STATE": "ASSAM",
+    "CONTACT": "+917099009490",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "HAILAKANDI",
+    "CENTRE": "HAILAKANDI",
+    "DISTRICT": "HAILAKANDI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-AS"
+  },
+  "MAHB0002508": {
+    "BANK": "Bank of Maharashtra",
+    "IFSC": "MAHB0002508",
+    "MICR": "788014102",
+    "BRANCH": "KARIMGANJ",
+    "ADDRESS": "TARUNIMA BUILDING, MAIN ROAD, KARIMGANJ, DISTRICT-KARIMGANJ, ASSAM-788710",
+    "STATE": "ASSAM",
+    "CONTACT": "+917099008190",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "KARIMGANJ",
+    "CENTRE": "KARIMGANJ",
+    "DISTRICT": "KARIMGANJ",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-AS"
   },
   "MAHB0003007": {
     "BANK": "Bank of Maharashtra",

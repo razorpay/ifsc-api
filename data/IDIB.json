@@ -19587,7 +19587,7 @@
     "BANK": "Indian Bank",
     "IFSC": "IDIB000C213",
     "MICR": "500019083",
-    "BRANCH": "CHANDANAGAR",
+    "BRANCH": "CHANDA NAGAR",
     "ADDRESS": "PLOT NO 2-11-10/P TARANAGAR,CHANDANAGAR,SHERILINGAMPALLI MANDAL RANGAREDDY DISTRICT HYERABAD PIN 500019",
     "STATE": "TELANGANA",
     "CONTACT": "+917981954109",
@@ -23885,6 +23885,24 @@
     "SWIFT": null,
     "ISO3166": "IN-AR"
   },
+  "IDIB000D117": {
+    "BANK": "Indian Bank",
+    "IFSC": "IDIB000D117",
+    "MICR": "518019018",
+    "BRANCH": "DHONE",
+    "ADDRESS": "H-NO 9-12-15-2,K V S COLONY REVENUE WARD NO 9,KANDUKURU COMPLEX,BESIDE LIC BUILDING ,MAIN ROAD",
+    "STATE": "ANDHRA PRADESH",
+    "CONTACT": "+918516220013",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "NANDYAL",
+    "CENTRE": "DHONE",
+    "DISTRICT": "DHONE",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
+  },
   "IDIB000D501": {
     "BANK": "Indian Bank",
     "IFSC": "IDIB000D501",
@@ -28114,6 +28132,24 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-KL"
+  },
+  "IDIB000E049": {
+    "BANK": "Indian Bank",
+    "IFSC": "IDIB000E049",
+    "MICR": "560019666",
+    "BRANCH": "ELECTRONIC CITY PHASE TWO",
+    "ADDRESS": "110 & 112, GROUND FLOOR, VIJAY ICON APARTMENT, ANANTH NAGAR ROAD, ELECTRONIC CITY PAHSE 2, BANGALORE 560100",
+    "STATE": "KARNATAKA",
+    "CONTACT": "+919632021298",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "BANGALORE",
+    "CENTRE": "BANGALORE",
+    "DISTRICT": "BANGALORE",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDIB000E501": {
     "BANK": "Indian Bank",
@@ -60947,6 +60983,24 @@
     "SWIFT": null,
     "ISO3166": "IN-KL"
   },
+  "IDIB000M392": {
+    "BANK": "Indian Bank",
+    "IFSC": "IDIB000M392",
+    "MICR": "302019035",
+    "BRANCH": "MANGYAWAS",
+    "ADDRESS": "G-115E, F, SUMER NAGAR,EXTEN-G, MANGYAWAS,TEHSIL-SANGANER, JAIPUR-302020",
+    "STATE": "RAJASTHAN",
+    "CONTACT": "+919555469513",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "JAIPUR",
+    "CENTRE": "JAIPUR",
+    "DISTRICT": "JAIPUR",
+    "NEFT": false,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
+  },
   "IDIB000M393": {
     "BANK": "Indian Bank",
     "IFSC": "IDIB000M393",
@@ -61162,6 +61216,24 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-GJ"
+  },
+  "IDIB000M406": {
+    "BANK": "Indian Bank",
+    "IFSC": "IDIB000M406",
+    "MICR": "601019002",
+    "BRANCH": "MEYYUR",
+    "ADDRESS": "INDIAN BANK, MANNADI STREET, MEYYUR, TIRUVALLUR DISTRICT, PIN-601103",
+    "STATE": "TAMIL NADU",
+    "CONTACT": "+919444783712",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "TIRUVALLUR",
+    "CENTRE": "MEYYUR",
+    "DISTRICT": "MEYYUR",
+    "NEFT": false,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDIB000M407": {
     "BANK": "Indian Bank",
