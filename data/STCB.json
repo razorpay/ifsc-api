@@ -52,5 +52,23 @@
     "NEFT": true,
     "SWIFT": null,
     "ISO3166": "IN-MH"
+  },
+  "STCB00CCPT1": {
+    "BANK": "SBM Bank",
+    "IFSC": "STCB00CCPT1",
+    "MICR": null,
+    "BRANCH": "CENTRALISED COLLECTION AND PAYMENTS TEAM",
+    "ADDRESS": "SBM BANK INDIA LTD,SBM BANK,1ST FLOOR RAHEJA CENTRE,FREE PRESS JOURNAL MARG,NARIMAN POINT MUMBAI-400021",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "MUMBAI",
+    "CENTRE": "MUMBAI",
+    "DISTRICT": "MUMBAI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   }
 }
