@@ -14975,24 +14975,6 @@
     "SWIFT": null,
     "ISO3166": "IN-KL"
   },
-  "SIBL0000882": {
-    "BANK": "South Indian Bank",
-    "IFSC": "SIBL0000882",
-    "BRANCH": "ST FRANSCILIAN SOCIETY H S S EC",
-    "ADDRESS": "SFS SCHOOL BUILDING,SHANTI NAGAR, NORTH LALAGUDA,LALAPET,RANGA REDDY,TELANGANA",
-    "STATE": "TELANGANA",
-    "MICR": null,
-    "CONTACT": "+914842365657",
-    "UPI": true,
-    "NEFT": true,
-    "CITY": "RANGAREDDY",
-    "CENTRE": "MALKAJGIRI",
-    "DISTRICT": "MALKAJGIRI",
-    "RTGS": false,
-    "IMPS": true,
-    "SWIFT": null,
-    "ISO3166": "IN-TG"
-  },
   "SIBL0000883": {
     "BANK": "South Indian Bank",
     "IFSC": "SIBL0000883",
@@ -15551,24 +15533,6 @@
     "SWIFT": null,
     "ISO3166": "IN-KL"
   },
-  "SIBL0000928": {
-    "BANK": "South Indian Bank",
-    "IFSC": "SIBL0000928",
-    "BRANCH": "ST.GREGORIUS SENIOR SECONDARY SCHOOL",
-    "ADDRESS": "WARD NO 2,OLD HOSPITAL BLOCK, ST. GREGORIUS SENIOR SECONDARY SCHOOL,KAIPATTOOR",
-    "STATE": "KERALA",
-    "MICR": null,
-    "CONTACT": "+914842365657",
-    "UPI": true,
-    "NEFT": true,
-    "CITY": "PATHANAMTHITTA",
-    "CENTRE": "PATHANAMTHITTA",
-    "DISTRICT": "PATHANAMTHITTA",
-    "RTGS": false,
-    "IMPS": true,
-    "SWIFT": null,
-    "ISO3166": "IN-KL"
-  },
   "SIBL0000930": {
     "BANK": "South Indian Bank",
     "IFSC": "SIBL0000930",
@@ -15640,24 +15604,6 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-KL"
-  },
-  "SIBL0000935": {
-    "BANK": "South Indian Bank",
-    "IFSC": "SIBL0000935",
-    "BRANCH": "MARY MATHA ENGLISH MEDIUM SCHOOL,THULLUR",
-    "ADDRESS": "DOOR NO 2-18,MARY MATHA ENGLISH MEDIUM HIGH SCHOOL,THULLUR MAIN ROAD,THULLUR,GUNTUR",
-    "STATE": "ANDHRA PRADESH",
-    "MICR": null,
-    "CONTACT": "+914842365657",
-    "UPI": true,
-    "NEFT": true,
-    "CITY": "GUNTUR",
-    "CENTRE": "THULLUR",
-    "DISTRICT": "THULLUR",
-    "RTGS": false,
-    "IMPS": true,
-    "SWIFT": null,
-    "ISO3166": "IN-AP"
   },
   "SIBL0000937": {
     "BANK": "South Indian Bank",
@@ -15799,24 +15745,6 @@
     "CENTRE": "KASARAGUD",
     "DISTRICT": "KASARAGUD",
     "NEFT": true,
-    "IMPS": true,
-    "SWIFT": null,
-    "ISO3166": "IN-KL"
-  },
-  "SIBL0000948": {
-    "BANK": "South Indian Bank",
-    "IFSC": "SIBL0000948",
-    "BRANCH": "DCSMAT GROUP OF INSTITUTIONS EC",
-    "ADDRESS": "DOOR NO 35, WARD NO 1, DCSMAT, DC COUNTY, PULLIKKANAM,VAGAMAN. PIN CODE 685503 KERALA",
-    "STATE": "KERALA",
-    "MICR": null,
-    "CONTACT": "+914842365657",
-    "UPI": true,
-    "NEFT": true,
-    "CITY": "IDUKKI",
-    "CENTRE": "IDUKKI",
-    "DISTRICT": "IDUKKI",
-    "RTGS": false,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-KL"
@@ -16055,24 +15983,6 @@
     "SWIFT": null,
     "ISO3166": "IN-KA"
   },
-  "SIBL0000965": {
-    "BANK": "South Indian Bank",
-    "IFSC": "SIBL0000965",
-    "BRANCH": "ST.JOHNS MEDICAL COLLEGE AND HOSPITAL",
-    "ADDRESS": "1ST FLOOR, UTILITY BUILDING,JOHN NAGAR ,ST. JOHNS MEDICAL COLLEGE AND HOSPITAL, KORMANGALA",
-    "STATE": "KARNATAKA",
-    "MICR": null,
-    "CONTACT": "+914842365657",
-    "UPI": true,
-    "NEFT": true,
-    "CITY": "BANGALORE",
-    "CENTRE": "BANGALORE URBAN",
-    "DISTRICT": "BANGALORE URBAN",
-    "RTGS": false,
-    "IMPS": true,
-    "SWIFT": null,
-    "ISO3166": "IN-KA"
-  },
   "SIBL0000966": {
     "BANK": "South Indian Bank",
     "IFSC": "SIBL0000966",
@@ -16144,24 +16054,6 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-KL"
-  },
-  "SIBL0000970": {
-    "BANK": "South Indian Bank",
-    "IFSC": "SIBL0000970",
-    "BRANCH": "ASIAN CHRISTIAN ACADEMY",
-    "ADDRESS": "ASIAN CHRISTIAN HIGH SCHOOL,HOSUR MALUR HIGHWAY,GEEMANGALAM,KRISHNAGIRI",
-    "STATE": "TAMIL NADU",
-    "MICR": null,
-    "CONTACT": "+914842365657",
-    "UPI": true,
-    "NEFT": true,
-    "CITY": "KRISHNAGIRI",
-    "CENTRE": "KRISHNAGIRI",
-    "DISTRICT": "KRISHNAGIRI",
-    "RTGS": false,
-    "IMPS": true,
-    "SWIFT": null,
-    "ISO3166": "IN-TN"
   },
   "SIBL0000972": {
     "BANK": "South Indian Bank",
@@ -17400,7 +17292,7 @@
     "CITY": "EAST GODAVARI",
     "CENTRE": "KOVVUR",
     "DISTRICT": "KOVVUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-AP"
