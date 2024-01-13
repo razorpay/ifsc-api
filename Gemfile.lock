@@ -1,6 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    base64 (0.2.0)
     connection_pool (2.4.1)
     daemons (1.4.1)
     daru (0.3)
@@ -23,6 +24,7 @@ GEM
     prometheus-client (4.2.2)
     rack (2.2.8)
     rack-protection (3.2.0)
+      base64 (>= 0.1.0)
       rack (~> 2.2, >= 2.2.4)
     rack-ssl-enforcer (0.2.9)
     rack-test (2.1.0)
