@@ -60996,7 +60996,7 @@
     "CITY": "JAIPUR",
     "CENTRE": "JAIPUR",
     "DISTRICT": "JAIPUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-RJ"
@@ -61217,6 +61217,24 @@
     "SWIFT": null,
     "ISO3166": "IN-GJ"
   },
+  "IDIB000M405": {
+    "BANK": "Indian Bank",
+    "IFSC": "IDIB000M405",
+    "MICR": "560019015",
+    "BRANCH": "MARATHAHALLI",
+    "ADDRESS": "43,2ND CROSS,ASHWATH NAGAR,NEAR MARATHAHALLI BRIDGE,BENGALURU-560037",
+    "STATE": "KARNATAKA",
+    "CONTACT": "+918861305763",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "BENGALURU URBAN",
+    "CENTRE": "BENGALURU",
+    "DISTRICT": "BENGALURU",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
+  },
   "IDIB000M406": {
     "BANK": "Indian Bank",
     "IFSC": "IDIB000M406",
@@ -61230,7 +61248,7 @@
     "CITY": "TIRUVALLUR",
     "CENTRE": "MEYYUR",
     "DISTRICT": "MEYYUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-TN"
@@ -68884,6 +68902,24 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-KA"
+  },
+  "IDIB000N186": {
+    "BANK": "Indian Bank",
+    "IFSC": "IDIB000N186",
+    "MICR": "635019596",
+    "BRANCH": "NAYAKANERI",
+    "ADDRESS": "SUB PRIMARY HEALTH CENTER,NAYAKANERI VILLAGE & POST,MADHANUR BLOCK,AMBUR TALUK,TIRUPATTUR",
+    "STATE": "TAMIL NADU",
+    "CONTACT": "+919360946390",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "TIRUPATTUR",
+    "CENTRE": "TIRUPATTUR",
+    "DISTRICT": "TIRUPATTUR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDIB000N501": {
     "BANK": "Indian Bank",
@@ -81449,6 +81485,24 @@
     "SWIFT": null,
     "ISO3166": "IN-JH"
   },
+  "IDIB000R252": {
+    "BANK": "Indian Bank",
+    "IFSC": "IDIB000R252",
+    "MICR": "803019011",
+    "BRANCH": "RAJGIR",
+    "ADDRESS": "HOTEL DIAMOND INN, RAJGIR, NALANDA, BIHAR 803116",
+    "STATE": "BIHAR",
+    "CONTACT": "+919503988076",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "NALANDA",
+    "CENTRE": "RAJGIR",
+    "DISTRICT": "RAJGIR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
+  },
   "IDIB000R501": {
     "BANK": "Indian Bank",
     "IFSC": "IDIB000R501",
@@ -89063,6 +89117,24 @@
     "SWIFT": null,
     "ISO3166": "IN-WB"
   },
+  "IDIB000S325": {
+    "BANK": "Indian Bank",
+    "IFSC": "IDIB000S325",
+    "MICR": "803019010",
+    "BRANCH": "SOHSARAI",
+    "ADDRESS": "CHUNNI BHAWAN, PATELNAGAR, SOHSARAI, NALANDA 803118",
+    "STATE": "BIHAR",
+    "CONTACT": "+918299512029",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "NALANDA",
+    "CENTRE": "SOHSARAI",
+    "DISTRICT": "SOHSARAI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
+  },
   "IDIB000S326": {
     "BANK": "Indian Bank",
     "IFSC": "IDIB000S326",
@@ -89080,6 +89152,24 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-KL"
+  },
+  "IDIB000S328": {
+    "BANK": "Indian Bank",
+    "IFSC": "IDIB000S328",
+    "MICR": "560019009",
+    "BRANCH": "SARJAPUR ROAD",
+    "ADDRESS": "SITE NO 9, OLD KATHA NO. 108/3/2/9, NEW BBMP KHATA NO. 508/9, KAIKONDRAHALLI VILLAGE, BENGALURU 562125",
+    "STATE": "KARNATAKA",
+    "CONTACT": "+919025642919",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "BENGALURU URBAN",
+    "CENTRE": "BENGALURU",
+    "DISTRICT": "BENGALURU",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "IDIB000S329": {
     "BANK": "Indian Bank",
