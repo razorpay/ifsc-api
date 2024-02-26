@@ -12761,6 +12761,24 @@
     "SWIFT": null,
     "ISO3166": "IN-DL"
   },
+  "UTKS0001724": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001724",
+    "MICR": "400762023",
+    "BRANCH": "VILE PARLE MUMBAI",
+    "ADDRESS": "RUDFLRSUJEEVASCIETYMAHATRDVILEPARLEEASTMUMBAI-400057",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "ATMUMBAI",
+    "CENTRE": "EAST MUMBAI",
+    "DISTRICT": "EAST MUMBAI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
   "UTKS0001801": {
     "BANK": "Utkarsh Small Finance Bank",
     "IFSC": "UTKS0001801",
@@ -15928,5 +15946,41 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-HR"
+  },
+  "UTKS0001977": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001977",
+    "MICR": "445762004",
+    "BRANCH": "GHATANJI",
+    "ADDRESS": "UTKARSH SMALL FINANCE BANK LTD.GROUND FLOOR WANI TO YAVATMAL ROAD NEAR NEW BUS STAND NEHRU NAGAR DISTRICT-YAVATMAL MAHARASHTRA-445301",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "YAVATMAL",
+    "CENTRE": "YAVATMAL",
+    "DISTRICT": "YAVATMAL",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
+  "UTKS0001978": {
+    "BANK": "Utkarsh Small Finance Bank",
+    "IFSC": "UTKS0001978",
+    "MICR": "140762002",
+    "BRANCH": "RAJPURA",
+    "ADDRESS": "UTKARSH SMALL FINANCE BANK LTD GROUND FLOOR HOUSE NO 1172 SHOP NO 3 GANDHI COLONY KASTURBA ROAD RAJPURA PATIALA PUNJAB140401",
+    "STATE": "PUNJAB",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "PATIALA",
+    "CENTRE": "PATIALA",
+    "DISTRICT": "PATIALA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   }
 }
