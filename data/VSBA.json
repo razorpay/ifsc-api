@@ -12,7 +12,7 @@
     "CITY": "VIJAYANAGAR",
     "CENTRE": "HOSAPETE",
     "DISTRICT": "HOSAPETE",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-KA"
@@ -30,7 +30,7 @@
     "CITY": "RAICHUR",
     "CENTRE": "SINDHANUR",
     "DISTRICT": "SINDHANUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-KA"
@@ -48,7 +48,7 @@
     "CITY": "DHARWAD",
     "CENTRE": "HUBBALLI",
     "DISTRICT": "HUBBALLI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-KA"
@@ -66,7 +66,7 @@
     "CITY": "KOPPAL",
     "CENTRE": "GANGAVATHI",
     "DISTRICT": "GANGAVATHI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-KA"
@@ -84,7 +84,7 @@
     "CITY": "BALLARI",
     "CENTRE": "BALLARI",
     "DISTRICT": "BALLARI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-KA"
@@ -102,7 +102,7 @@
     "CITY": "VIJAYANAGAR",
     "CENTRE": "KOTTUR",
     "DISTRICT": "KOTTUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-KA"
@@ -120,7 +120,7 @@
     "CITY": "BALLARI",
     "CENTRE": "TORANAGALLU",
     "DISTRICT": "TORANAGALLU",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-KA"
@@ -138,7 +138,7 @@
     "CITY": "BIDAR",
     "CENTRE": "BIDAR",
     "DISTRICT": "BIDAR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-KA"
@@ -156,7 +156,7 @@
     "CITY": "VIJAYANAGAR",
     "CENTRE": "HAGARIBOMMANAHALLI",
     "DISTRICT": "HAGARIBOMMANAHALLI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-KA"
@@ -174,7 +174,7 @@
     "CITY": "VIJAYANAGAR",
     "CENTRE": "HARAPANAHALLI",
     "DISTRICT": "HARAPANAHALLI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-KA"
@@ -192,7 +192,7 @@
     "CITY": "RAICHUR",
     "CENTRE": "LINGASUGURU",
     "DISTRICT": "LINGASUGURU",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-KA"
@@ -210,7 +210,7 @@
     "CITY": "RAICHUR",
     "CENTRE": "RAICHUR",
     "DISTRICT": "RAICHUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-KA"
@@ -228,7 +228,7 @@
     "CITY": "GADAG",
     "CENTRE": "GAJENDRAGADA",
     "DISTRICT": "GAJENDRAGADA",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-KA"
@@ -246,7 +246,25 @@
     "CITY": "KOPPAL",
     "CENTRE": "KOPPAL",
     "DISTRICT": "KOPPAL",
-    "NEFT": false,
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
+  },
+  "VSBA0000015": {
+    "BANK": null,
+    "IFSC": "VSBA0000015",
+    "MICR": "583856002",
+    "BRANCH": "DAVANAGERE",
+    "ADDRESS": "BINNY COMPANY ROAD,MANDI PETE,DAVANAGERE-577001",
+    "STATE": "KARNATAKA",
+    "CONTACT": "+918192200449",
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "DAVANAGERE",
+    "CENTRE": "DAVANAGERE",
+    "DISTRICT": "DAVANAGERE",
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-KA"
@@ -264,7 +282,7 @@
     "CITY": "VIJAYANAGAR",
     "CENTRE": "HOSAPETE",
     "DISTRICT": "HOSAPETE",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-KA"
