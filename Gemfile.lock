@@ -13,7 +13,7 @@ GEM
       csv
       mini_mime (>= 1.0.0)
       multi_xml (>= 0.5.2)
-    ifsc (2.0.26)
+    ifsc (2.0.27)
       httparty (~> 0.16)
     kramdown (2.4.0)
       rexml
@@ -33,8 +33,8 @@ GEM
     rack-test (2.1.0)
       rack (>= 1.3)
     redis (4.7.1)
-    rexml (3.2.8)
-      strscan (>= 3.0.9)
+    rexml (3.3.0)
+      strscan
     ruby2_keywords (0.0.5)
     secure_headers (6.5.0)
     sinatra (3.2.0)

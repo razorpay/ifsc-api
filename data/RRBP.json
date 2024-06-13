@@ -844,5 +844,41 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-MH"
+  },
+  "RRBP0000048": {
+    "BANK": "Rajarambapu Sahakari Bank",
+    "IFSC": "RRBP0000048",
+    "MICR": "416584007",
+    "BRANCH": "TASGAON",
+    "ADDRESS": "CS NO 2580,2581/A,2581/B,GURUWAR PETH, CHHATRAPATI SHIVAJI CHOWK, MAIN ROAD, TASGAON, TALUKA TASGAON, DISTRICT-SANGLI, PIN CODE 416312, MAHARASHTRA.",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": "+919561000806",
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "SANGLI",
+    "CENTRE": "TASGAON",
+    "DISTRICT": "TASGAON",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
+  "RRBP0000049": {
+    "BANK": "Rajarambapu Sahakari Bank",
+    "IFSC": "RRBP0000049",
+    "MICR": "415584003",
+    "BRANCH": "SAIDAPUR",
+    "ADDRESS": "PLOT NO.63,MILKAT NO.2973/24, GULMOHAR HEIGHTS,GROUND FLOOR, SHOP NO.2 SAIDAPUR,TALUKA-KARAD DISTRICT-SATARA, PINCODE-415124 MAHARASHTRA.",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": "+919561000789",
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "SATARA",
+    "CENTRE": "SAIDAPUR",
+    "DISTRICT": "SAIDAPUR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   }
 }
