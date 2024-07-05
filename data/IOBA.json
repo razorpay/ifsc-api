@@ -60029,6 +60029,24 @@
     "SWIFT": null,
     "ISO3166": "IN-BR"
   },
+  "IOBA0003825": {
+    "BANK": "Indian Overseas Bank",
+    "IFSC": "IOBA0003825",
+    "MICR": "798020002",
+    "BRANCH": "CHANGLANGSHU",
+    "ADDRESS": "COUNCIL HALL,CHANGLANGSHU VILLAGE,TOBU PO,MON,NAGALAND-798603",
+    "STATE": "NAGALAND",
+    "CONTACT": "+913614084994",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "MON",
+    "CENTRE": "MON",
+    "DISTRICT": "MON",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-NL"
+  },
   "IOBA0003826": {
     "BANK": "Indian Overseas Bank",
     "IFSC": "IOBA0003826",
@@ -60137,6 +60155,24 @@
     "SWIFT": null,
     "ISO3166": "IN-JH"
   },
+  "IOBA0003833": {
+    "BANK": "Indian Overseas Bank",
+    "IFSC": "IOBA0003833",
+    "MICR": null,
+    "BRANCH": "NABARANGPUR",
+    "ADDRESS": "AT CHAMARIAGUDA ROAD, BACK SIDE OF ICICI BANK, NABARANGPUR, PIN-764059",
+    "STATE": "ODISHA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "NABARANGPUR",
+    "CENTRE": "NABARANGPUR",
+    "DISTRICT": "NABARANGPUR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-OR"
+  },
   "IOBA0003834": {
     "BANK": "Indian Overseas Bank",
     "IFSC": "IOBA0003834",
@@ -60190,6 +60226,24 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-TN"
+  },
+  "IOBA0003838": {
+    "BANK": "Indian Overseas Bank",
+    "IFSC": "IOBA0003838",
+    "MICR": null,
+    "BRANCH": "REGIONAL OFFICE TIRUPATI",
+    "ADDRESS": "DOOR NO 19 8 154 1ST FLOOR , SAI KRUPA SSR COMPLEX RAYALASEEMA NAGAR, AIR BYEPASS ROAD, TIRUPATI",
+    "STATE": "ANDHRA PRADESH",
+    "CONTACT": "+918772221462",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "TIRUPATI",
+    "CENTRE": "TIRUPATI",
+    "DISTRICT": "TIRUPATI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
   },
   "IOBA0003839": {
     "BANK": "Indian Overseas Bank",
@@ -60320,7 +60374,7 @@
   "IOBA0003846": {
     "BANK": "Indian Overseas Bank",
     "IFSC": "IOBA0003846",
-    "MICR": null,
+    "MICR": "271020003",
     "BRANCH": "BALRAMPUR",
     "ADDRESS": "GROUND FLOOR,400 CIVIL LINES BAHRAICH ROAD BALRAMPUR, DIST-BALRAMPUR ,UP",
     "STATE": "UTTAR PRADESH",
@@ -60338,7 +60392,7 @@
   "IOBA0003847": {
     "BANK": "Indian Overseas Bank",
     "IFSC": "IOBA0003847",
-    "MICR": null,
+    "MICR": "284020004",
     "BRANCH": "LALITPUR",
     "ADDRESS": "INFRONT OF RAMLEELA MAIDAN, NARSINGH MANDIR TALABPURA, LALITPUR ,UP",
     "STATE": "UTTAR PRADESH",
@@ -60356,7 +60410,7 @@
   "IOBA0003848": {
     "BANK": "Indian Overseas Bank",
     "IFSC": "IOBA0003848",
-    "MICR": null,
+    "MICR": "226020035",
     "BRANCH": "SUGAMAU",
     "ADDRESS": "KIRAN COMPLEX SUGAMAU ROAD, NEAR MANAS CITY INDRA NAGAR, LUCKNOW ,UP",
     "STATE": "UTTAR PRADESH",
@@ -60370,6 +60424,24 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-UP"
+  },
+  "IOBA0003856": {
+    "BANK": "Indian Overseas Bank",
+    "IFSC": "IOBA0003856",
+    "MICR": null,
+    "BRANCH": "JARIPATKA",
+    "ADDRESS": "PLOT NO 45/F HEMU KALANI SQUARE NEAR HANUMAN MANDIR, JARIPATKA, NAGPUR 440014 MAHARASHTRA",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": "+918983237141",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "NAGPUR",
+    "CENTRE": "NAGPUR",
+    "DISTRICT": "NAGPUR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IOBA0006522": {
     "BANK": "Indian Overseas Bank",
@@ -60550,5 +60622,23 @@
     "NEFT": true,
     "SWIFT": null,
     "ISO3166": "IN-MH"
+  },
+  "IOBA0VAN004": {
+    "BANK": "Indian Overseas Bank",
+    "IFSC": "IOBA0VAN004",
+    "MICR": null,
+    "BRANCH": "INDIAN OVERSEAS BANK",
+    "ADDRESS": "763,ANNASALAI,DBD,CENTRAL OFFICE",
+    "STATE": "TAMIL NADU",
+    "CONTACT": "+914428889340",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "CHENNAI",
+    "CENTRE": "CHENNAI",
+    "DISTRICT": "CHENNAI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   }
 }
