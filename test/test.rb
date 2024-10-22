@@ -23,6 +23,7 @@ class TestApp < Test::Unit::TestCase
     assert last_response.ok?
     assert h['Access-Control-Allow-Origin'] == '*'
     assert h['Content-Type'] == 'application/json'
+    assert h['X-XSS-Protection'] == '1; mode=block'
     assert_equal data, JSON.parse(File.read 'test/HDFC0CAGSBK.json')
   end
 
