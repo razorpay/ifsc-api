@@ -38165,17 +38165,17 @@
     "MICR": "273234004",
     "BRANCH": "TARAMANDAL GORAKHPUR",
     "ADDRESS": "GROUND FLOOR TARAMANDAL ROAD RUSTAMPUR GORAKHPUR UTTAR PRADESH 273016",
-    "STATE": "UTTAR PRADESH",
+    "STATE": "MADHYA PRADESH",
     "CONTACT": "+915512990025",
     "UPI": true,
     "RTGS": true,
-    "CITY": "GORAKHPUR",
+    "CITY": "RATLAM",
     "CENTRE": "GORAKHPUR",
     "DISTRICT": "GORAKHPUR",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
-    "ISO3166": "IN-UP"
+    "ISO3166": "IN-MP"
   },
   "INDB0002367": {
     "BANK": "Indusind Bank",
@@ -38285,6 +38285,24 @@
     "SWIFT": null,
     "ISO3166": "IN-OR"
   },
+  "INDB0002373": {
+    "BANK": "Indusind Bank",
+    "IFSC": "INDB0002373",
+    "MICR": "386234007",
+    "BRANCH": "ABRAMA ROAD VALSAD",
+    "ADDRESS": "PRAMUKH SANIDHYA ABRAMA ROAD",
+    "STATE": "GUJARAT",
+    "CONTACT": "+912632226800",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "VALSAD",
+    "CENTRE": "VALSAD",
+    "DISTRICT": "VALSAD",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
+  },
   "INDB0002374": {
     "BANK": "Indusind Bank",
     "IFSC": "INDB0002374",
@@ -38302,6 +38320,24 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-RJ"
+  },
+  "INDB0002376": {
+    "BANK": "Indusind Bank",
+    "IFSC": "INDB0002376",
+    "MICR": "503234002",
+    "BRANCH": "NIZAMABAD",
+    "ADDRESS": "KANTESHWAR OLD HOUSING BOARD COLONY",
+    "STATE": "TELANGANA",
+    "CONTACT": "+918462293664",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "NIZAMABAD",
+    "CENTRE": "NIZAMABAD",
+    "DISTRICT": "NIZAMABAD",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-TG"
   },
   "INDB0005001": {
     "BANK": "Indusind Bank",
