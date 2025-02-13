@@ -322,6 +322,25 @@
     "ISO3166": "IN-TG",
     "imps": false
   },
+  "RBIS0GOAREP": {
+    "BANK": "Reserve Bank of India",
+    "IFSC": "RBIS0GOAREP",
+    "MICR": null,
+    "BRANCH": "GUWAHATI REGIONAL OFFICE",
+    "ADDRESS": "RESERVE BANK OF INDIA, PAN BAZAAR, STATION ROAD GUWAHATI ASSAM - 781001",
+    "STATE": "ARUNACHAL PRADESH",
+    "CONTACT": "+913612734266",
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "GUWAHATI",
+    "CENTRE": "GUWAHATI",
+    "DISTRICT": "GUWAHATI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-AR",
+    "imps": false
+  },
   "RBIS0GOASEP": {
     "BANK": "Reserve Bank of India",
     "IFSC": "RBIS0GOASEP",
