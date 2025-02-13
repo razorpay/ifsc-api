@@ -12,7 +12,7 @@
     "CITY": "GAUTAM BUDDHA NAGAR",
     "CENTRE": "NOIDA",
     "DISTRICT": "NOIDA",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-UP"
@@ -35,12 +35,12 @@
     "SWIFT": null,
     "ISO3166": "IN-UP"
   },
-  "NHBA0001001": {
+  "NHBA00UP001": {
     "BANK": null,
-    "IFSC": "NHBA0001001",
+    "IFSC": "NHBA00UP001",
     "MICR": null,
     "BRANCH": "NOIDA BRANCH",
-    "ADDRESS": "UNIT 108, TOWER-C, ADVANT NAVIS BUSINESS PARK, NOIDA-GREATER NOIDA EXPY, SECTOR-142, NOIDA, UTTAR PRADESH - 201305",
+    "ADDRESS": "UNIT 108, TOWER-C, ADVANT NAVIS BUSINESS PARK, NOIDA-GREATER NOIDA EXPY, SECTOR-142, NOIDA, UTTAR PRADESH -201305",
     "STATE": "UTTAR PRADESH",
     "CONTACT": "+911206982811",
     "UPI": false,
@@ -48,7 +48,7 @@
     "CITY": "GAUTAM BUDDHA NAGAR",
     "CENTRE": "NOIDA",
     "DISTRICT": "NOIDA",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-UP"
