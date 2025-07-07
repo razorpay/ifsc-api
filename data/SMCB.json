@@ -17,6 +17,24 @@
     "SWIFT": null,
     "ISO3166": "IN-MH"
   },
+  "SMCB0000CMS": {
+    "BANK": "Shivalik Small Finance Bank",
+    "IFSC": "SMCB0000CMS",
+    "MICR": null,
+    "BRANCH": "DATA CENTRE, NOIDA",
+    "ADDRESS": "PLOT NO.9, SECTOR 125,NOIDA, UTTAR PRADESH, 201303",
+    "STATE": "UTTAR PRADESH",
+    "CONTACT": "+919837063043",
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "NOIDA",
+    "CENTRE": "NOIDA",
+    "DISTRICT": "NOIDA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
+  },
   "SMCB0001000": {
     "BANK": "Shivalik Small Finance Bank",
     "IFSC": "SMCB0001000",
@@ -808,5 +826,41 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-KA"
+  },
+  "SMCB0001044": {
+    "BANK": "Shivalik Small Finance Bank",
+    "IFSC": "SMCB0001044",
+    "MICR": "250721003",
+    "BRANCH": "MEERUT DELHI ROAD",
+    "ADDRESS": "OLD FRUIT MANDI,DELHI CHUNGI ROAD,OPP CENTRAL METRO STATION,MEERUT 250002",
+    "STATE": "UTTAR PRADESH",
+    "CONTACT": "+919837393973",
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "MEERUT",
+    "CENTRE": "MEERUT",
+    "DISTRICT": "MEERUT",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
+  },
+  "SMCB0001045": {
+    "BANK": "Shivalik Small Finance Bank",
+    "IFSC": "SMCB0001045",
+    "MICR": "132721002",
+    "BRANCH": "KARNAL",
+    "ADDRESS": "SHOP NO 29-30-31-32 GF SUPER MALL PLOT NO S M -1 SECTOR 12 KARNAL PIN CODE 132001",
+    "STATE": "HARYANA",
+    "CONTACT": "+919667871941",
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "KARNAL",
+    "CENTRE": "KARNAL",
+    "DISTRICT": "KARNAL",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   }
 }

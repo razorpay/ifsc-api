@@ -1,0 +1,38 @@
+{
+  "PHNP0000001": {
+    "BANK": null,
+    "IFSC": "PHNP0000001",
+    "MICR": null,
+    "BRANCH": "RTGS-HO",
+    "ADDRESS": "5TH FLOOR,81/1,SALARPURIA SOFTZONE,BELLANDUR,BANGALORE,KARNATAKA",
+    "STATE": "KARNATAKA",
+    "CONTACT": null,
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "BANGALORE",
+    "CENTRE": "BANGALORE",
+    "DISTRICT": "BANGALORE",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
+  },
+  "PHNP0123456": {
+    "BANK": null,
+    "IFSC": "PHNP0123456",
+    "MICR": null,
+    "BRANCH": "BELLANDUR",
+    "ADDRESS": "5TH FLOOR,81/1,SALARPURIA SOFTZONE,BELLANDUR,BANGALORE,KARNATAKA",
+    "STATE": "KARNATAKA",
+    "CONTACT": null,
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "BANGALORE",
+    "CENTRE": "BANGALORE",
+    "DISTRICT": "BANGALORE",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
+  }
+}
