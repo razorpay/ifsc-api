@@ -1,0 +1,38 @@
+{
+  "CCIL0NEFT01": {
+    "BANK": null,
+    "IFSC": "CCIL0NEFT01",
+    "MICR": null,
+    "BRANCH": "MUMBAI",
+    "ADDRESS": "CCIL BHAVAN,S K BOLE ROAD,DADAR WEST,MUMBAI-400028",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": "+912261546482",
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "MUMBAI",
+    "CENTRE": "MUMBAI",
+    "DISTRICT": "MUMBAI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
+  "CCIL0PI0001": {
+    "BANK": null,
+    "IFSC": "CCIL0PI0001",
+    "MICR": null,
+    "BRANCH": "RTGS-HO",
+    "ADDRESS": "THE CLEARING CORPORATION OF INDIA LTD.CCIL BHAVAN, F.P.NO 822,COLLEGE LANE, OFF. S. K. BOLE ROAD,DADAR (W), MUMBAI-400028",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": null,
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "MUMBAI",
+    "CENTRE": "MUMBAI",
+    "DISTRICT": "MUMBAI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  }
+}
