@@ -1,60 +1,84 @@
-FROM ruby:alpine3.16 as rdbbuilder
+FROM --platform=linux/amd64 ruby:3.1-alpine3.18 AS rdbbuilder
 
+# Set the working directory
 WORKDIR /app
-ENV BUNDLE_GEMFILE=Gemfile.build
 
+# Configure Bundler to install gems locally and add the gem bin path
+# to the container's main PATH environment variable.
+ENV BUNDLE_PATH="vendor/bundle" \
+    BUNDLE_BIN="vendor/bundle/bin" \
+    BUNDLE_GEMFILE="Gemfile.build"
+ENV PATH="/app/vendor/bundle/bin:$PATH"
+
+# Copy build-specific files
 COPY Gemfile.build* init.rb /app/
 COPY data /app/data/
 
-RUN echo "** installing deps **" && \
+# Layer 1: Install OS dependencies and the correct Bundler version.
+RUN echo "** Builder: Installing OS and Bundler dependencies... **" && \
     apk --no-cache add redis && \
-    echo "** installing ruby gems **" && \
-    bundle install && \
-    echo "** starting redis-server **" && \
-    redis-server --daemonize yes && \
-    echo "** running build script **" && \
-    bundle exec ruby init.rb
+    gem install bundler -v 2.4.10
 
-FROM ruby:alpine3.16
+# Layer 2: Install the application's gems.
+RUN echo "** Builder: Installing gems... **" && \
+    bundle install --jobs=$(nproc) --retry 3
+
+# Layer 3: Run the database seeding script.
+RUN echo "** Builder: Starting redis-server in the background... **" && \
+    redis-server & REDIS_PID=$! && \
+    echo "** Builder: Waiting for Redis to be ready... **" && \
+    while ! redis-cli ping > /dev/null 2>&1; do sleep 1; done && \
+    echo "** Builder: Redis is ready. Running build script... **" && \
+    ruby init.rb && \
+    echo "** Builder: Build script finished. Shutting down Redis... **" && \
+    redis-cli shutdown && \
+    wait $REDIS_PID && \
+    echo "** Builder: Redis shut down. Stage complete. **"
+
+
+# ---- Final Stage ----
+# This stage builds the final, lean runtime image for the application.
+# It will be built for all target platforms (amd64, arm64).
+FROM ruby:3.1-alpine3.18
 
 WORKDIR /app
-# Being explicit here, not needed
-ENV BUNDLE_GEMFILE=Gemfile
 
-# Just copy enough to install dependencies and maintain cache
+# Apply the same robust PATH configuration to the final image.
+ENV BUNDLE_PATH="vendor/bundle" \
+    BUNDLE_BIN="vendor/bundle/bin" \
+    BUNDLE_GEMFILE="Gemfile"
+ENV PATH="/app/vendor/bundle/bin:$PATH"
+
+# Install only the necessary runtime dependencies.
+RUN echo "** Final: Installing OS dependencies... **" && \
+    apk --no-cache add dumb-init redis libstdc++ curl
+
 COPY Gemfile Gemfile.lock /app/
 
-RUN echo "** installing deps **" && \
-    apk --no-cache add dumb-init redis libstdc++ && \
-    echo "** installing eventmachine-build-deps **" && \
-    apk --no-cache add --virtual .eventmachine-builddeps g++ make && \
-    echo "** install healthcheck deps **" && \
-    apk --no-cache add curl && \
-    echo "** updating bundler **" && \
-    gem update bundler && \
-    echo "** installing ruby gems **" && \
+# Install production gems.
+RUN echo "** Final: Installing gems... **" && \
+    apk --no-cache add --virtual .build-deps g++ make && \
+    gem install bundler -v 2.4.10 && \
     bundle config set --local without 'testing' && \
-    bundle install && \
-    echo "** removing eventmachine-build deps **" && \
-    apk del .eventmachine-builddeps
+    bundle install --jobs=$(nproc) --retry 3 && \
+    apk del .build-deps && \
+    echo "** Final: Gem installation complete. **"
 
-COPY --from=rdbbuilder /app/dump.rdb /app/
-# This is not clean because we can't run a COPY . anymore
-# Since that would copy the data directory
-# We can't add data to dockerignore, since it is used in first stage
-COPY README.md app.rb metrics.rb config.ru entrypoint.sh /app/
-COPY public /app/public/
-COPY views /app/views/
+# Create a non-root user for security best practices.
+RUN addgroup -S appgroup && adduser -S appuser -G appgroup && \
+    mkdir -p /data && \
+    chown -R appuser:appgroup /data
+
+USER appuser
+
+# Copy the pre-built Redis database from the amd64-only builder stage.
+# This works for all target platforms.
+COPY --from=rdbbuilder --chown=appuser:appgroup /app/dump.rdb /data/
+COPY --chown=appuser:appgroup . .
 
 EXPOSE 3000
 
+HEALTHCHECK --interval=30s --timeout=10s --start-period=60s --retries=3 \
+  CMD curl -f http://localhost:3000 || exit 1
+
 ENTRYPOINT ["/app/entrypoint.sh"]
-
-# Create a group and user
-RUN addgroup -S appgroup && adduser -S appuser -G appgroup
-
-# Tell docker that all future commands should run as the appuser user
-USER appuser
-
-HEALTHCHECK --start-period=200s CMD curl -I http://localhost:3000 || exit 1
-
