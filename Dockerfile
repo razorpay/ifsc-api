@@ -1,7 +1,4 @@
-# ---- Builder Stage ----
-# This stage is now self-contained and manages its own temporary Redis instance.
-# This is the most reliable approach as it has no external dependencies.
-FROM ruby:3.1-alpine3.18 AS rdbbuilder
+FROM --platform=linux/amd64 ruby:3.1-alpine3.18 AS rdbbuilder
 
 # Set the working directory
 WORKDIR /app
@@ -17,27 +14,21 @@ ENV PATH="/app/vendor/bundle/bin:$PATH"
 COPY Gemfile.build* init.rb /app/
 COPY data /app/data/
 
-# The build process is now split into multiple RUN layers.
-# This creates a more stable and predictable environment for each step.
-
 # Layer 1: Install OS dependencies and the correct Bundler version.
 RUN echo "** Builder: Installing OS and Bundler dependencies... **" && \
     apk --no-cache add redis && \
     gem install bundler -v 2.4.10
 
-# Layer 2: Install the application's gems. This creates a clean layer with all gems present.
+# Layer 2: Install the application's gems.
 RUN echo "** Builder: Installing gems... **" && \
     bundle install --jobs=$(nproc) --retry 3
 
-# Layer 3: Run the database seeding script. This layer runs on top of the previous
-# one, where the gems are guaranteed to be installed and in the correct PATH.
+# Layer 3: Run the database seeding script.
 RUN echo "** Builder: Starting redis-server in the background... **" && \
     redis-server & REDIS_PID=$! && \
     echo "** Builder: Waiting for Redis to be ready... **" && \
     while ! redis-cli ping > /dev/null 2>&1; do sleep 1; done && \
     echo "** Builder: Redis is ready. Running build script... **" && \
-    # ** THE FIX **: Call the script directly with 'ruby'. The script will now
-    # set up its own Bundler environment, bypassing the problematic 'bundle exec'.
     ruby init.rb && \
     echo "** Builder: Build script finished. Shutting down Redis... **" && \
     redis-cli shutdown && \
@@ -47,12 +38,12 @@ RUN echo "** Builder: Starting redis-server in the background... **" && \
 
 # ---- Final Stage ----
 # This stage builds the final, lean runtime image for the application.
+# It will be built for all target platforms (amd64, arm64).
 FROM ruby:3.1-alpine3.18
 
 WORKDIR /app
 
 # Apply the same robust PATH configuration to the final image.
-# This ensures the entrypoint script can find all the necessary executables.
 ENV BUNDLE_PATH="vendor/bundle" \
     BUNDLE_BIN="vendor/bundle/bin" \
     BUNDLE_GEMFILE="Gemfile"
@@ -80,6 +71,8 @@ RUN addgroup -S appgroup && adduser -S appuser -G appgroup && \
 
 USER appuser
 
+# Copy the pre-built Redis database from the amd64-only builder stage.
+# This works for all target platforms.
 COPY --from=rdbbuilder --chown=appuser:appgroup /app/dump.rdb /data/
 COPY --chown=appuser:appgroup . .
 
