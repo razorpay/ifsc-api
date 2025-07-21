@@ -4,12 +4,10 @@ require 'json'
 require 'redis'
 require 'benchmark'
 
-# Fetches the Redis hostname from the environment variable passed by the CI pipeline.
-# It defaults to '127.0.0.1' if the variable is not set, so it still works locally.
-redis_host = ENV.fetch('REDIS_HOST', '127.0.0.1')
-
-puts "[+] Connecting to Redis at #{redis_host}"
-redis = Redis.new(host: redis_host)
+# This connects to Redis on localhost:6379, which is the correct
+# address for both the self-contained builder stage and the final
+# running container (which also starts its own local Redis).
+redis = Redis.new
 
 def log(msg)
   puts "[+] (#{Time.now.strftime('%r')}) #{msg}"
@@ -32,6 +30,7 @@ Benchmark.bm(18) do |bm|
     end
   end
   bm.report('Dump:') do
+    # This command saves the in-memory data to the dump.rdb file.
     redis.save
   end
 end
