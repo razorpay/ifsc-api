@@ -66,6 +66,9 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: ${{ steps.vars.outputs.tags }}
+          # This is the fix: Allow the build to access the host network
+          # where the Redis service is running.
+          network: host
           # Pass the Redis service hostname to the Dockerfile as a build argument.
           build-args: |
             REDIS_HOST=redis
