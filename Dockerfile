@@ -9,19 +9,23 @@ ENV BUNDLE_GEMFILE=Gemfile.build
 COPY Gemfile.build* init.rb /app/
 COPY data /app/data/
 
-# The RUN command now includes a step to shut down Redis after the build script runs.
+# The RUN command now runs redis-server as a background job and explicitly waits for it to finish.
 RUN echo "** Builder: Installing dependencies... **" && \
     apk --no-cache add redis && \
     echo "** Builder: Installing gems... **" && \
     bundle install && \
-    echo "** Builder: Starting redis-server... **" && \
-    redis-server --daemonize yes && \
+    echo "** Builder: Starting redis-server in the background... **" && \
+    # Start redis-server as a background process and capture its PID
+    redis-server & REDIS_PID=$! && \
     echo "** Builder: Waiting for Redis to be ready... **" && \
+    # Wait for the server to start accepting connections
     while ! redis-cli ping > /dev/null 2>&1; do sleep 1; done && \
     echo "** Builder: Redis is ready. Running build script... **" && \
     bundle exec ruby init.rb && \
     echo "** Builder: Build script finished. Shutting down Redis... **" && \
     redis-cli shutdown && \
+    # Explicitly wait for the redis-server process to stop
+    wait $REDIS_PID && \
     echo "** Builder: Redis shut down. Stage complete. **"
 
 
