@@ -1,4 +1,7 @@
-FROM ruby:alpine3.16 as rdbbuilder
+# ---- Builder Stage ----
+# Pre-builds the Redis database file (dump.rdb)
+# Using a more recent, specific version of the ruby:alpine image
+FROM ruby:3.1-alpine3.18 as rdbbuilder
 
 WORKDIR /app
 ENV BUNDLE_GEMFILE=Gemfile.build
@@ -6,55 +9,68 @@ ENV BUNDLE_GEMFILE=Gemfile.build
 COPY Gemfile.build* init.rb /app/
 COPY data /app/data/
 
-RUN echo "** installing deps **" && \
+# This RUN command is mostly the same, but with improved logging
+RUN echo "** Builder: Installing dependencies... **" && \
     apk --no-cache add redis && \
-    echo "** installing ruby gems **" && \
+    echo "** Builder: Installing gems... **" && \
     bundle install && \
-    echo "** starting redis-server **" && \
+    echo "** Builder: Starting redis-server... **" && \
     redis-server --daemonize yes && \
-    echo "** running build script **" && \
-    bundle exec ruby init.rb
+    echo "** Builder: Waiting for Redis to be ready... **" && \
+    while ! redis-cli ping > /dev/null 2>&1; do sleep 1; done && \
+    echo "** Builder: Redis is ready. Running build script... **" && \
+    bundle exec ruby init.rb && \
+    echo "** Builder: Build script finished. **"
 
-FROM ruby:alpine3.16
+
+# ---- Final Stage ----
+# Creates the final, lean image for the application
+FROM ruby:3.1-alpine3.18
 
 WORKDIR /app
-# Being explicit here, not needed
 ENV BUNDLE_GEMFILE=Gemfile
 
-# Just copy enough to install dependencies and maintain cache
+# Install runtime dependencies
+# dumb-init: A proper init system for containers
+# redis: To run the redis-server
+# libstdc++: Common C++ library dependency for some gems
+# curl: For the healthcheck
+RUN echo "** Final: Installing OS dependencies... **" && \
+    apk --no-cache add dumb-init redis libstdc++ curl
+
+# Copy only Gemfiles to leverage Docker layer caching
 COPY Gemfile Gemfile.lock /app/
 
-RUN echo "** installing deps **" && \
-    apk --no-cache add dumb-init redis libstdc++ && \
-    echo "** installing eventmachine-build-deps **" && \
-    apk --no-cache add --virtual .eventmachine-builddeps g++ make && \
-    echo "** install healthcheck deps **" && \
-    apk --no-cache add curl && \
-    echo "** updating bundler **" && \
+# Install gems, cleaning up build dependencies afterwards
+RUN echo "** Final: Installing gems... **" && \
+    apk --no-cache add --virtual .build-deps g++ make && \
     gem update bundler && \
-    echo "** installing ruby gems **" && \
     bundle config set --local without 'testing' && \
-    bundle install && \
-    echo "** removing eventmachine-build deps **" && \
-    apk del .eventmachine-builddeps
+    bundle install --jobs=$(nproc) --retry 3 && \
+    apk del .build-deps && \
+    echo "** Final: Gem installation complete. **"
 
-COPY --from=rdbbuilder /app/dump.rdb /app/
-# This is not clean because we can't run a COPY . anymore
-# Since that would copy the data directory
-# We can't add data to dockerignore, since it is used in first stage
-COPY README.md app.rb metrics.rb config.ru entrypoint.sh /app/
-COPY public /app/public/
-COPY views /app/views/
+# Create a non-root user and a data directory for it to own
+# This prevents permission errors for Redis
+RUN addgroup -S appgroup && adduser -S appuser -G appgroup && \
+    mkdir -p /data && \
+    chown -R appuser:appgroup /data
+
+# Switch to the non-root user for security
+USER appuser
+
+# Copy the pre-built database from the builder stage into the user-owned data directory
+COPY --from=rdbbuilder --chown=appuser:appgroup /app/dump.rdb /data/
+
+# Copy the rest of the application files
+# .dockerignore prevents the 'data' directory from being copied here
+COPY --chown=appuser:appgroup . .
 
 EXPOSE 3000
 
+# This healthcheck waits for the app to be ready before marking the container as healthy
+HEALTHCHECK --interval=30s --timeout=10s --start-period=60s --retries=3 \
+  CMD curl -f http://localhost:3000 || exit 1
+
+# Use the entrypoint script to start services
 ENTRYPOINT ["/app/entrypoint.sh"]
-
-# Create a group and user
-RUN addgroup -S appgroup && adduser -S appuser -G appgroup
-
-# Tell docker that all future commands should run as the appuser user
-USER appuser
-
-HEALTHCHECK --start-period=200s CMD curl -I http://localhost:3000 || exit 1
-
