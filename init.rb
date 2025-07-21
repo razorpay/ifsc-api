@@ -1,12 +1,16 @@
 # frozen_string_literal: true
 
+# ** THE FIX **: This line loads the Bundler environment directly within the script.
+# It finds the Gemfile and makes all the gems available to this Ruby process.
+# This makes `bundle exec` unnecessary and bypasses the shell environment issues.
+require 'bundler/setup'
+
 require 'json'
 require 'redis'
 require 'benchmark'
 
 # This connects to Redis on localhost:6379, which is the correct
-# address for both the self-contained builder stage and the final
-# running container (which also starts its own local Redis).
+# address for the self-contained builder stage.
 redis = Redis.new
 
 def log(msg)
