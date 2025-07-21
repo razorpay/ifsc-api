@@ -13,10 +13,10 @@ ENV REDIS_HOST=$REDIS_HOST
 COPY Gemfile.build* init.rb /app/
 COPY data /app/data/
 
-# We now explicitly update bundler before installing gems to prevent version conflicts.
-# The rest of the command assumes it can connect to the host specified by REDIS_HOST.
-RUN echo "** Builder: Updating bundler... **" && \
-    gem update bundler && \
+# We now install the specific version of bundler required by the lockfile.
+# This avoids version conflicts with the base image's Ruby version.
+RUN echo "** Builder: Installing correct bundler version... **" && \
+    gem install bundler -v 2.4.10 && \
     echo "** Builder: Installing gems... **" && \
     bundle install --jobs=$(nproc) --retry 3 && \
     echo "** Builder: Running build script against Redis service at ${REDIS_HOST}... **" && \
@@ -36,10 +36,10 @@ RUN echo "** Final: Installing OS dependencies... **" && \
 
 COPY Gemfile Gemfile.lock /app/
 
-# We also update bundler in the final stage for consistency and to prevent runtime issues.
+# We also install the specific bundler version in the final stage for consistency.
 RUN echo "** Final: Installing gems... **" && \
     apk --no-cache add --virtual .build-deps g++ make && \
-    gem update bundler && \
+    gem install bundler -v 2.4.10 && \
     bundle config set --local without 'testing' && \
     bundle install --jobs=$(nproc) --retry 3 && \
     apk del .build-deps && \

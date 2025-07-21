@@ -4,7 +4,12 @@ require 'json'
 require 'redis'
 require 'benchmark'
 
-redis = Redis.new
+# Fetches the Redis hostname from the environment variable passed by the CI pipeline.
+# It defaults to '127.0.0.1' if the variable is not set, so it still works locally.
+redis_host = ENV.fetch('REDIS_HOST', '127.0.0.1')
+
+puts "[+] Connecting to Redis at #{redis_host}"
+redis = Redis.new(host: redis_host)
 
 def log(msg)
   puts "[+] (#{Time.now.strftime('%r')}) #{msg}"
