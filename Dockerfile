@@ -9,7 +9,7 @@ ENV BUNDLE_GEMFILE=Gemfile.build
 COPY Gemfile.build* init.rb /app/
 COPY data /app/data/
 
-# This RUN command is mostly the same, but with improved logging
+# The RUN command now includes a step to shut down Redis after the build script runs.
 RUN echo "** Builder: Installing dependencies... **" && \
     apk --no-cache add redis && \
     echo "** Builder: Installing gems... **" && \
@@ -20,7 +20,9 @@ RUN echo "** Builder: Installing dependencies... **" && \
     while ! redis-cli ping > /dev/null 2>&1; do sleep 1; done && \
     echo "** Builder: Redis is ready. Running build script... **" && \
     bundle exec ruby init.rb && \
-    echo "** Builder: Build script finished. **"
+    echo "** Builder: Build script finished. Shutting down Redis... **" && \
+    redis-cli shutdown && \
+    echo "** Builder: Redis shut down. Stage complete. **"
 
 
 # ---- Final Stage ----
