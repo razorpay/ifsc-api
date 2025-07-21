@@ -16,6 +16,9 @@ RUN echo "** Builder: Installing OS and Bundler dependencies... **" && \
     apk --no-cache add redis && \
     # Install the specific version of Bundler required by the lockfile to prevent version conflicts.
     gem install bundler -v 2.4.10 && \
+    # ** THE FIX **: Configure bundler to install gems into a local vendor directory.
+    # This makes the gem location explicit and solves pathing issues within Docker.
+    bundle config set --local path 'vendor/bundle' && \
     echo "** Builder: Installing gems... **" && \
     bundle install --jobs=$(nproc) --retry 3 && \
     echo "** Builder: Starting redis-server in the background... **" && \
@@ -53,6 +56,8 @@ COPY Gemfile Gemfile.lock /app/
 RUN echo "** Final: Installing gems... **" && \
     apk --no-cache add --virtual .build-deps g++ make && \
     gem install bundler -v 2.4.10 && \
+    # ** THE FIX **: Also configure the final stage to use the local vendor directory.
+    bundle config set --local path 'vendor/bundle' && \
     bundle config set --local without 'testing' && \
     bundle install --jobs=$(nproc) --retry 3 && \
     # Clean up the build dependencies to keep the final image small.
