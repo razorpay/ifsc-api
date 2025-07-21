@@ -17,13 +17,14 @@ ENV PATH="/app/vendor/bundle/bin:$PATH"
 COPY Gemfile.build* init.rb /app/
 COPY data /app/data/
 
-# This RUN command is now simpler because the PATH is set globally.
 RUN echo "** Builder: Installing OS and Bundler dependencies... **" && \
     apk --no-cache add redis && \
-    gem install bundler -v 2.4.10 && \
-    echo "** Builder: Installing gems... **" && \
-    bundle install --jobs=$(nproc) --retry 3 && \
-    echo "** Builder: Starting redis-server in the background... **" && \
+    gem install bundler -v 2.4.10
+
+RUN echo "** Builder: Installing gems... **" && \
+    bundle install --jobs=$(nproc) --retry 3
+
+RUN echo "** Builder: Starting redis-server in the background... **" && \
     redis-server & REDIS_PID=$! && \
     echo "** Builder: Waiting for Redis to be ready... **" && \
     while ! redis-cli ping > /dev/null 2>&1; do sleep 1; done && \
