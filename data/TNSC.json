@@ -431,6 +431,24 @@
     "SWIFT": null,
     "ISO3166": "IN-MH"
   },
+  "TNSC0012300": {
+    "BANK": "Tamilnadu State Apex Co-operative Bank",
+    "IFSC": "TNSC0012300",
+    "MICR": null,
+    "BRANCH": "NAMAKKAL DISTRICT CENTRAL CO-OPERATIVE BANK LTD",
+    "ADDRESS": "NO.19A, KANDAR HOSTEL CROSS STREET, MOHANUR ROAD, NAMAKKAL - 637 001.",
+    "STATE": "TAMIL NADU",
+    "CONTACT": "+914286220283",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "NAMAKKAL",
+    "CENTRE": "NAMAKKAL",
+    "DISTRICT": "NAMAKKAL",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
+  },
   "TNSC0015000": {
     "BANK": "Tamilnadu Industrial Co-operative Bank",
     "IFSC": "TNSC0015000",
@@ -484,6 +502,24 @@
     "NEFT": true,
     "SWIFT": null,
     "ISO3166": "IN-MH"
+  },
+  "TNSC0160102": {
+    "BANK": "Tamilnadu State Apex Co-operative Bank",
+    "IFSC": "TNSC0160102",
+    "MICR": "605019252",
+    "BRANCH": "PUDUCHERRY CO-OPERATIVE URBAN BANK LTD",
+    "ADDRESS": "H.O. 197, J N STREET, PUDUCHERRY - 605 001.",
+    "STATE": "PUDUCHERRY",
+    "CONTACT": "+914132222293",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "PUDUCHERRY",
+    "CENTRE": "PUDUCHERRY",
+    "DISTRICT": "PUDUCHERRY",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-PY"
   },
   "TNSC0NEFTSC": {
     "BANK": "Tamilnadu State Apex Co-operative Bank",
