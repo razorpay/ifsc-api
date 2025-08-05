@@ -1,0 +1,38 @@
+{
+  "PPNT0000001": {
+    "BANK": null,
+    "IFSC": "PPNT0000001",
+    "MICR": null,
+    "BRANCH": "RTGS-HO",
+    "ADDRESS": "A-203, Supreme  Business Park, Hiranandani Gardens",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": "+912240508888",
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "Mumbai Suburban",
+    "CENTRE": "Mumbai",
+    "DISTRICT": "Mumbai",
+    "NEFT": false,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
+  "PPNT0NEFT00": {
+    "BANK": null,
+    "IFSC": "PPNT0NEFT00",
+    "MICR": null,
+    "BRANCH": "POWAI",
+    "ADDRESS": "A-203,SUPREME BUSINESS PARK,HIRANANDANI GARDENS",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": "+912240508888",
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "MUMBAI SUBURBAN",
+    "CENTRE": "MUMBAI",
+    "DISTRICT": "MUMBAI",
+    "NEFT": false,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  }
+}
