@@ -10380,7 +10380,7 @@
     "CITY": "JALORE",
     "CENTRE": "UDAIPUR",
     "DISTRICT": "UDAIPUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-RJ"
@@ -10398,7 +10398,7 @@
     "CITY": "RANCHI",
     "CENTRE": "BUNDU",
     "DISTRICT": "BUNDU",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-JH"
@@ -24276,7 +24276,7 @@
     "CITY": "AHMEDABAD",
     "CENTRE": "DHANDUKA",
     "DISTRICT": "DHANDUKA",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-GJ"
@@ -24294,7 +24294,7 @@
     "CITY": "AHMEDABAD",
     "CENTRE": "DHOLKA",
     "DISTRICT": "DHOLKA",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-GJ"
@@ -37704,7 +37704,7 @@
     "CITY": "SABARKANTA",
     "CENTRE": "IDAR",
     "DISTRICT": "IDAR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-GJ"
@@ -48018,7 +48018,7 @@
     "CITY": "ANNAMAYYA",
     "CENTRE": "KALAKADA",
     "DISTRICT": "KALAKADA",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-AP"
@@ -48041,6 +48041,24 @@
     "SWIFT": null,
     "ISO3166": "IN-RJ"
   },
+  "IDIB000K369": {
+    "BANK": "Indian Bank",
+    "IFSC": "IDIB000K369",
+    "MICR": "825019007",
+    "BRANCH": "KODERMA",
+    "ADDRESS": "AT -V STAR BUILDING, VILL-DUDHIMATI, WARD NO-6, PO-KODERMA , PS-KODERMA,PIN-825410 JHARKHAND",
+    "STATE": "JHARKHAND",
+    "CONTACT": "+918789198137",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "KODERMA",
+    "CENTRE": "KODERMA",
+    "DISTRICT": "KODERMA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
+  },
   "IDIB000K370": {
     "BANK": "Indian Bank",
     "IFSC": "IDIB000K370",
@@ -48054,10 +48072,28 @@
     "CITY": "TIRUVANNAMALAI",
     "CENTRE": "TIRUVANNAMALAI",
     "DISTRICT": "TIRUVANNAMALAI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-TN"
+  },
+  "IDIB000K371": {
+    "BANK": "Indian Bank",
+    "IFSC": "IDIB000K371",
+    "MICR": "491019886",
+    "BRANCH": "KHAIRAGARH",
+    "ADDRESS": "OPP GOVT GUEST HOUSE,KAWARDHA STATE HIGHWAY,KHAIRAGARH",
+    "STATE": "CHHATTISGARH",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "KHAIRAGARH",
+    "CENTRE": "KHAIRAGARH",
+    "DISTRICT": "KHAIRAGARH",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "IDIB000K373": {
     "BANK": "Indian Bank",
@@ -62562,7 +62598,7 @@
     "CITY": "EAST KHASI HILLS",
     "CENTRE": "SHILLONG",
     "DISTRICT": "SHILLONG",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-ML"
@@ -62584,6 +62620,24 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-KL"
+  },
+  "IDIB000M442": {
+    "BANK": "Indian Bank",
+    "IFSC": "IDIB000M442",
+    "MICR": "495019014",
+    "BRANCH": "MUNGELI",
+    "ADDRESS": "INDIAN BANK GOURAV PATH ROAD INFORNT OF KRISHI UPAJ MANDI MUNGELI DIST-MUNGELI STATE CHATTISGARH PINCODE-495334",
+    "STATE": "CHHATTISGARH",
+    "CONTACT": "+919708840981",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "MUNGELI",
+    "CENTRE": "MUNGELI",
+    "DISTRICT": "MUNGELI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   },
   "IDIB000M443": {
     "BANK": "Indian Bank",
@@ -77880,7 +77934,25 @@
     "CITY": "TIRUVANNAMALAI",
     "CENTRE": "TIRUVANNAMALAI",
     "DISTRICT": "TIRUVANNAMALAI",
-    "NEFT": false,
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
+  },
+  "IDIB000P295": {
+    "BANK": "Indian Bank",
+    "IFSC": "IDIB000P295",
+    "MICR": "631019002",
+    "BRANCH": "PANAPAKKAM",
+    "ADDRESS": "22 SUBRAMANI STREET,PANAPAKKAM",
+    "STATE": "TAMIL NADU",
+    "CONTACT": "+918829598880",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "RANIPET",
+    "CENTRE": "RANIPET",
+    "DISTRICT": "RANIPET",
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-TN"
@@ -83122,6 +83194,24 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-JH"
+  },
+  "IDIB000R372": {
+    "BANK": "Indian Bank",
+    "IFSC": "IDIB000R372",
+    "MICR": null,
+    "BRANCH": "ROHA",
+    "ADDRESS": "TRINITY TOWERS,SURVEY NO-16/2/3,17/1,GROUND FLOOR,OPPOSITE INDIAN OIL PETROL PUMP,NET TO SUDARSHAN COLONY,VILLAGE-ROTH KHURD,TALUKA-ROHA,DISTRICT-RAIGAD-402116,MAHARASHTRA",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "RAIGAD",
+    "CENTRE": "ROHA",
+    "DISTRICT": "ROHA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   },
   "IDIB000R501": {
     "BANK": "Indian Bank",
@@ -90989,6 +91079,24 @@
     "SWIFT": null,
     "ISO3166": "IN-UP"
   },
+  "IDIB000S342": {
+    "BANK": "Indian Bank",
+    "IFSC": "IDIB000S342",
+    "MICR": "395019018",
+    "BRANCH": "SPECIALISED MSME BRANCH SURAT",
+    "ADDRESS": "INDIAN BANK BUSINESS AVALON HUB,BH S D JAIN SCHOOL,BIG BAZAR KANE,VESU,SURAT,GUJARAT-395007",
+    "STATE": "GUJARAT",
+    "CONTACT": "+919769613265",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "SURAT",
+    "CENTRE": "SURAT",
+    "DISTRICT": "SURAT",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
+  },
   "IDIB000S343": {
     "BANK": "Indian Bank",
     "IFSC": "IDIB000S343",
@@ -91074,7 +91182,7 @@
     "CITY": "DUNGARPUR",
     "CENTRE": "UDAIPUR",
     "DISTRICT": "UDAIPUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-RJ"
@@ -91092,10 +91200,28 @@
     "CITY": "UDAIPUR",
     "CENTRE": "UDAIPUR",
     "DISTRICT": "UDAIPUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-RJ"
+  },
+  "IDIB000S350": {
+    "BANK": "Indian Bank",
+    "IFSC": "IDIB000S350",
+    "MICR": "140019009",
+    "BRANCH": "SECTOR ONE ZERO FIVE MOHALI",
+    "ADDRESS": "COM BG28 EMAAR CENTRAL PLAZA SECTOR 105 MOHALI",
+    "STATE": "PUNJAB",
+    "CONTACT": "+917206666464",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "SASNAGAR",
+    "CENTRE": "MOHALI",
+    "DISTRICT": "MOHALI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
   },
   "IDIB000S353": {
     "BANK": "Indian Bank",
@@ -91128,7 +91254,7 @@
     "CITY": "HYDERABAD",
     "CENTRE": "HYDERABAD",
     "DISTRICT": "HYDERABAD",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-TG"
@@ -91146,7 +91272,7 @@
     "CITY": "CHENNAI",
     "CENTRE": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-TN"
@@ -91164,7 +91290,7 @@
     "CITY": "MAHASAMUND",
     "CENTRE": "SARAIPALI",
     "DISTRICT": "SARAIPALI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-CT"
@@ -91182,7 +91308,7 @@
     "CITY": "TIRUVANNAMALAI",
     "CENTRE": "TIRUVANNAMALAI",
     "DISTRICT": "TIRUVANNAMALAI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-TN"
@@ -106086,7 +106212,7 @@
     "CITY": "AHMEDABAD",
     "CENTRE": "VIRAMGAM",
     "DISTRICT": "VIRAMGAM",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-GJ"
@@ -106104,7 +106230,7 @@
     "CITY": "CHENNAI",
     "CENTRE": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-TN"

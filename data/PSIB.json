@@ -12725,6 +12725,24 @@
     "SWIFT": null,
     "ISO3166": "IN-DL"
   },
+  "PSIB0000718": {
+    "BANK": "Punjab & Sind Bank",
+    "IFSC": "PSIB0000718",
+    "MICR": null,
+    "BRANCH": "ASSET RECOVERY BRANCH, MUMBAI",
+    "ADDRESS": "AMRAPALI SHOPPING CENTRE, V MEHTA MERG, JVPD,JUHU,MUMBAI-400049",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": "+912226128977",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "MUMBAI SUBURBAN",
+    "CENTRE": "MUMBAI",
+    "DISTRICT": "MUMBAI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
   "PSIB0000719": {
     "BANK": "Punjab & Sind Bank",
     "IFSC": "PSIB0000719",
@@ -16896,10 +16914,28 @@
     "CITY": "PATNA",
     "CENTRE": "PATNA",
     "DISTRICT": "PATNA",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-BR"
+  },
+  "PSIB0008034": {
+    "BANK": "Punjab & Sind Bank",
+    "IFSC": "PSIB0008034",
+    "MICR": null,
+    "BRANCH": "ZO VARANASI",
+    "ADDRESS": "LAHURABIR VARANASI",
+    "STATE": "UTTAR PRADESH",
+    "CONTACT": "+919855863537",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "VARANASI",
+    "CENTRE": "VARANASI",
+    "DISTRICT": "VARANASI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "PSIB0009001": {
     "BANK": "Punjab & Sind Bank",
@@ -30958,5 +30994,23 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-WB"
+  },
+  "PSIB0021685": {
+    "BANK": "Punjab & Sind Bank",
+    "IFSC": "PSIB0021685",
+    "MICR": "497023002",
+    "BRANCH": "AMBIKAPUR",
+    "ADDRESS": "ANAMIKA COMPLEX,BESIDE TRIPATHI ENTERPRISES,CHANDANI CHOWK,RING ROAD,AMBIKAPUR,DIST SURGUJA,C.G.",
+    "STATE": "CHHATTISGARH",
+    "CONTACT": "+918370076418",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "SURGUJA",
+    "CENTRE": "AMBIKAPUR",
+    "DISTRICT": "AMBIKAPUR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
   }
 }
