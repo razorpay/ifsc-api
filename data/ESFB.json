@@ -8616,7 +8616,7 @@
     "CITY": "BANGALORE",
     "CENTRE": "BANGALORE",
     "DISTRICT": "BANGALORE",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-KA"
@@ -16608,7 +16608,7 @@
     "CITY": "LUDHIANA",
     "CENTRE": "LUDHIANA",
     "DISTRICT": "LUDHIANA",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-PB"
@@ -18035,6 +18035,24 @@
     "SWIFT": null,
     "ISO3166": "IN-RJ"
   },
+  "ESFB0016080": {
+    "BANK": "Equitas Small Finance Bank",
+    "IFSC": "ESFB0016080",
+    "MICR": "302756008",
+    "BRANCH": "MANSAROVAR",
+    "ADDRESS": "SPACE-7, GROUND FLOOR, 7/C 2A CORNER, NEAR SUVIRA HOSPITAL, SHIPRA PATH, MANSAROVAR-302020, JAIPUR RAJASTHAN",
+    "STATE": "RAJASTHAN",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "JAIPUR",
+    "CENTRE": "JAIPUR",
+    "DISTRICT": "JAIPUR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
+  },
   "ESFB0017001": {
     "BANK": "Equitas Small Finance Bank",
     "IFSC": "ESFB0017001",
@@ -18696,7 +18714,7 @@
     "CITY": "SOUTH DELHI DISTRICT , NEW DELHI",
     "CENTRE": "NEW DELHI",
     "DISTRICT": "NEW DELHI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-DL"

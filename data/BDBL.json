@@ -31710,7 +31710,7 @@
     "CITY": "SOLAPUR",
     "CENTRE": "PANDHARPUR",
     "DISTRICT": "PANDHARPUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-MH"
@@ -31728,10 +31728,28 @@
     "CITY": "THANE",
     "CENTRE": "THANE",
     "DISTRICT": "THANE",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-MH"
+  },
+  "BDBL0010065": {
+    "BANK": "Bandhan Bank",
+    "IFSC": "BDBL0010065",
+    "MICR": "712750003",
+    "BRANCH": "MOSHAT",
+    "ADDRESS": "VILL MOSHAT,PO MOSHAT, DISTRICT HUGLI, STATE WEST BENGAL, PIN 712701",
+    "STATE": "WEST BENGAL",
+    "CONTACT": "+913340456456",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "HOOGLY",
+    "CENTRE": "DANKUNI",
+    "DISTRICT": "DANKUNI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
   },
   "BDBL0040001": {
     "BANK": "Bandhan Bank",
