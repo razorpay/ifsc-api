@@ -15,3 +15,4 @@ gem "rack-test", "~> 2.0", :group => :testing
 gem "test-unit", "~> 3.5", :group => :testing
 
 gem "matrix", "~> 0.4.2"
+gem "multi_xml", "~> 0.6.0"
