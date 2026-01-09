@@ -1037,7 +1037,7 @@
     "IMPS": true,
     "CITY": "MUMBAI",
     "UPI": true,
-    "MICR": "110184001",
+    "MICR": null,
     "RTGS": true,
     "NEFT": true,
     "SWIFT": null,
@@ -2126,7 +2126,7 @@
   "NTBL0LUC079": {
     "BANK": "Nainital Bank",
     "IFSC": "NTBL0LUC079",
-    "MICR": "226184007",
+    "MICR": "226184006",
     "BRANCH": "GOMTI NAGAR  LUCKNOW",
     "ADDRESS": "BHATIA PLAZA, 1/8 VIRAM KHANDPTARAKAR PURAM CROSSING GOMTI NAGAR  LUCKNOW (U.P)",
     "STATE": "UTTAR PRADESH",
