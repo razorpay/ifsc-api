@@ -2,7 +2,7 @@
   "KVBL0001101": {
     "BANK": "Karur Vysya Bank",
     "IFSC": "KVBL0001101",
-    "MICR": "639053006",
+    "MICR": null,
     "BRANCH": "CENTRAL OFFICE",
     "ADDRESS": "POST BOX NO 21 ERODE ROAD",
     "STATE": "TAMIL NADU",
@@ -1874,7 +1874,7 @@
   "KVBL0001209": {
     "BANK": "Karur Vysya Bank",
     "IFSC": "KVBL0001209",
-    "MICR": "632053002",
+    "MICR": null,
     "BRANCH": "VIRINCHIPURAM",
     "ADDRESS": "758-41-3, BIG STREET, VIRINCHIPURAM",
     "STATE": "TAMIL NADU",
@@ -2594,7 +2594,7 @@
   "KVBL0001251": {
     "BANK": "Karur Vysya Bank",
     "IFSC": "KVBL0001251",
-    "MICR": "636053030",
+    "MICR": null,
     "BRANCH": "SALEM DIVISIONAL OFFICE",
     "ADDRESS": "I FLOOR 45-46, CAR STREET",
     "STATE": "TAMIL NADU",
@@ -4268,7 +4268,7 @@
   "KVBL0001349": {
     "BANK": "Karur Vysya Bank",
     "IFSC": "KVBL0001349",
-    "MICR": "560053012",
+    "MICR": null,
     "BRANCH": "HOSKOTE E C",
     "ADDRESS": "M V J MEDICAL COLLEGE AND HOSPITAL DANDUPALYA,N H-4,30TH KM MILESTONE KOLATHUR P O, HOSKOTE",
     "STATE": "KARNATAKA",
@@ -5528,7 +5528,7 @@
   "KVBL0001454": {
     "BANK": "Karur Vysya Bank",
     "IFSC": "KVBL0001454",
-    "MICR": "500053010",
+    "MICR": null,
     "BRANCH": "KVB DRS",
     "ADDRESS": "01-04,I  FLOOR,UNIT-3,BLOCK-I CYBER PEARL, HI-TECH CITY, MADHAPUR,",
     "STATE": "TELANGANA",
@@ -10604,7 +10604,7 @@
   "KVBL0001818": {
     "BANK": "Karur Vysya Bank",
     "IFSC": "KVBL0001818",
-    "MICR": "626053502",
+    "MICR": null,
     "BRANCH": "KALASALINGAM UNIVERSITY - EC",
     "ADDRESS": "KALASALINGAM UNIVERSITY ANAND NAGAR KRISHNANKOIL",
     "STATE": "TAMIL NADU",
@@ -14309,6 +14309,24 @@
     "SWIFT": null,
     "ISO3166": "IN-MH"
   },
+  "KVBL0002140": {
+    "BANK": "Karur Vysya Bank",
+    "IFSC": "KVBL0002140",
+    "MICR": null,
+    "BRANCH": "PUNE-SAHAKAR NAGAR",
+    "ADDRESS": "ARCO SKYLIFE,CTS 3923.SURVEY NO.46 OPP. UTSAV HOTEL,CITY PRIDE ROAD,SAHAKAR NAGAR,PARVATI,PUNE 411009",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": "+9120422222779",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "PUNE",
+    "CENTRE": "PUNE",
+    "DISTRICT": "PUNE",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
   "KVBL0002201": {
     "BANK": "Karur Vysya Bank",
     "IFSC": "KVBL0002201",
@@ -15248,7 +15266,7 @@
   "KVBL0004107": {
     "BANK": "Karur Vysya Bank",
     "IFSC": "KVBL0004107",
-    "MICR": "110053020",
+    "MICR": null,
     "BRANCH": "NEW DELHI - DO",
     "ADDRESS": "3RD FLOOR,NO.6, PUSA ROAD OPPOSITE TO METRO PILLAR NO.80 KAROLBAGH",
     "STATE": "DELHI",

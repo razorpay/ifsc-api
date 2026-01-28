@@ -479,7 +479,7 @@
     "IMPS": true,
     "CITY": "MUMBAI",
     "UPI": true,
-    "MICR": "600091001",
+    "MICR": null,
     "RTGS": true,
     "NEFT": true,
     "SWIFT": null,
@@ -524,7 +524,7 @@
   "TNSC0NEFTSC": {
     "BANK": "Tamilnadu State Apex Co-operative Bank",
     "IFSC": "TNSC0NEFTSC",
-    "MICR": "600091001",
+    "MICR": null,
     "BRANCH": "NEFT SERVICE CENTRE",
     "ADDRESS": "OLD NO  233, NEW NO 4 N.S.C BOSE ROAD CHENNAI 600001",
     "STATE": "TAMIL NADU",
