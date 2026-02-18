@@ -10,18 +10,21 @@ ENV BUNDLE_PATH="vendor/bundle" \
     BUNDLE_GEMFILE="Gemfile.build"
 ENV PATH="/app/vendor/bundle/bin:$PATH"
 
-# Copy build-specific files
-COPY Gemfile.build* init.rb /app/
-COPY data /app/data/
-
 # Layer 1: Install OS dependencies and the correct Bundler version.
-RUN echo "** Builder: Installing OS and Bundler dependencies... **" && \
-    apk --no-cache add redis && \
+RUN apk --no-cache add redis && \
     gem install bundler -v 2.4.10
 
+# Copy dependency files only (cached unless Gemfile.build changes)
+COPY Gemfile.build* /app/
+
 # Layer 2: Install the application's gems.
-RUN echo "** Builder: Installing gems... **" && \
-    bundle install --jobs=$(nproc) --retry 3
+RUN bundle install --jobs=$(nproc) --retry 3
+
+## Don't change the above lines since these lines are cached with cache image
+
+# Copy build script and data files (cache-busting boundary)
+COPY init.rb /app/
+COPY data /app/data/
 
 # Layer 3: Run the database seeding script.
 RUN echo "** Builder: Starting redis-server in the background... **" && \
