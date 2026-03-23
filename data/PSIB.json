@@ -31697,6 +31697,24 @@
     "SWIFT": null,
     "ISO3166": "IN-TG"
   },
+  "PSIB0021725": {
+    "BANK": "Punjab & Sind Bank",
+    "IFSC": "PSIB0021725",
+    "MICR": "497023003",
+    "BRANCH": "SURAJPUR",
+    "ADDRESS": "BHAIYATHAN ROAD, SURAJPUR, CHHATTISGARH - 497229",
+    "STATE": "CHHATTISGARH",
+    "CONTACT": "+917701029973",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "SURAJPUR",
+    "CENTRE": "SURAJPUR",
+    "DISTRICT": "SURAJPUR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
+  },
   "PSIB0021729": {
     "BANK": "Punjab & Sind Bank",
     "IFSC": "PSIB0021729",
@@ -31894,5 +31912,41 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-UP"
+  },
+  "PSIB0021769": {
+    "BANK": "Punjab & Sind Bank",
+    "IFSC": "PSIB0021769",
+    "MICR": "422023003",
+    "BRANCH": "GOVIND NAGAR NASIK",
+    "ADDRESS": "GROUND AND MEZZANINE FLOOR AT SHOP NO. 04, SHREE TIRUMAL MAGNIZANT 100 FT. RING ROAD FRONT, GOVIND NAGAR, NASIK- 422009",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": "+917054060300",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "NASIK",
+    "CENTRE": "NASIK",
+    "DISTRICT": "NASIK",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  },
+  "PSIB0021770": {
+    "BANK": "Punjab & Sind Bank",
+    "IFSC": "PSIB0021770",
+    "MICR": null,
+    "BRANCH": "BILASPUR",
+    "ADDRESS": "PLOT NO. 38, NEAR IPH SUB DIVISION, BILASPUR",
+    "STATE": "HIMACHAL PRADESH",
+    "CONTACT": "+919039071173",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "BILASPUR",
+    "CENTRE": "BILASPUR",
+    "DISTRICT": "BILASPUR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-HP"
   }
 }
