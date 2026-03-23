@@ -10475,6 +10475,24 @@
     "SWIFT": null,
     "ISO3166": "IN-DL"
   },
+  "IDIB000B232": {
+    "BANK": "Indian Bank",
+    "IFSC": "IDIB000B232",
+    "MICR": "342019011",
+    "BRANCH": "BASNI",
+    "ADDRESS": "RAMCHANDRA TOWER  SHOBHAWATON KI DHANI CIRCLE AIIMS ROAD JODHPUR",
+    "STATE": "RAJASTHAN",
+    "CONTACT": "+919408698946",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "JODHPUR",
+    "CENTRE": "JODHPUR",
+    "DISTRICT": "JODHPUR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
+  },
   "IDIB000B501": {
     "BANK": "Indian Bank",
     "IFSC": "IDIB000B501",
@@ -28878,7 +28896,7 @@
     "BRANCH": "FOCAL POINT",
     "ADDRESS": "SCF 12 & 13, INDUSTRIAL FOCAL POINT, JALANDHAR",
     "STATE": "PUNJAB",
-    "CONTACT": "+918699255192",
+    "CONTACT": null,
     "UPI": true,
     "RTGS": true,
     "CITY": "JALANDHAR",
@@ -72790,6 +72808,24 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-BR"
+  },
+  "IDIB000O033": {
+    "BANK": "Indian Bank",
+    "IFSC": "IDIB000O033",
+    "MICR": "631019003",
+    "BRANCH": "ORIKKAI",
+    "ADDRESS": "PLOT NO8, 371 ANNAI SATHIYA NAGAR, MILITARY ROAD, ORIKKAI, KANCHEEPURAM -631502",
+    "STATE": "TAMIL NADU",
+    "CONTACT": "+9144",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "KANCHEEPURAM",
+    "CENTRE": "ORIKKAI",
+    "DISTRICT": "ORIKKAI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDIB000O501": {
     "BANK": "Indian Bank",
