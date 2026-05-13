@@ -16940,17 +16940,17 @@
   "PSIB0009001": {
     "BANK": "Punjab & Sind Bank",
     "IFSC": "PSIB0009001",
+    "MICR": null,
     "BRANCH": "ACCOUNT AND AUDIT DEPARTMENT",
     "ADDRESS": "1ST FLOOR NBCC OFFICE COMPLEX BLOCK 3 PLATE B NEW DELHI",
     "STATE": "DELHI",
-    "MICR": null,
     "CONTACT": "+911140175169",
     "UPI": true,
-    "NEFT": true,
+    "RTGS": true,
     "CITY": "NEW DELHI",
     "CENTRE": "NEW DELHI",
     "DISTRICT": "NEW DELHI",
-    "RTGS": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-DL"
@@ -17746,6 +17746,24 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-UP"
+  },
+  "PSIB0009095": {
+    "BANK": "Punjab & Sind Bank",
+    "IFSC": "PSIB0009095",
+    "BRANCH": "STAFF TRAINING COLLEGE CHANDIGARH",
+    "ADDRESS": "CENTRE OF EXCELLENCE, PUNJAB AND SIND BANK, 3RD FLOOR, SCO 84-91, BANK SQUARE, SECTOR 17B, CHANDIGARH",
+    "STATE": "CHANDIGARH",
+    "MICR": null,
+    "CONTACT": "+911725058962",
+    "UPI": true,
+    "NEFT": true,
+    "CITY": "CHANDIGARH",
+    "CENTRE": "CHANDIGARH",
+    "DISTRICT": "CHANDIGARH",
+    "RTGS": false,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-CH"
   },
   "PSIB000A001": {
     "BANK": "Punjab & Sind Bank",
@@ -31049,6 +31067,24 @@
     "SWIFT": null,
     "ISO3166": "IN-OR"
   },
+  "PSIB0021681": {
+    "BANK": "Punjab & Sind Bank",
+    "IFSC": "PSIB0021681",
+    "MICR": "122023004",
+    "BRANCH": "PATAUDI",
+    "ADDRESS": "6/238/1 WARD NO 6, HAILY MANDI ROAD, PATAUDI",
+    "STATE": "HARYANA",
+    "CONTACT": "+919896784484",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "GURUGRAM",
+    "CENTRE": "PATAUDI",
+    "DISTRICT": "PATAUDI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
+  },
   "PSIB0021682": {
     "BANK": "Punjab & Sind Bank",
     "IFSC": "PSIB0021682",
@@ -31733,6 +31769,24 @@
     "SWIFT": null,
     "ISO3166": "IN-MP"
   },
+  "PSIB0021730": {
+    "BANK": "Punjab & Sind Bank",
+    "IFSC": "PSIB0021730",
+    "MICR": null,
+    "BRANCH": "SIDHI",
+    "ADDRESS": "OPPOSITE RAJENDRA MOTORS, NEAR NEW BUS STAND, SIDHI M.P - 486661",
+    "STATE": "MADHYA PRADESH",
+    "CONTACT": "+917701029972",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "SIDHI",
+    "CENTRE": "SIDHI",
+    "DISTRICT": "SIDHI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
+  },
   "PSIB0021732": {
     "BANK": "Punjab & Sind Bank",
     "IFSC": "PSIB0021732",
@@ -31913,6 +31967,24 @@
     "SWIFT": null,
     "ISO3166": "IN-UP"
   },
+  "PSIB0021750": {
+    "BANK": "Punjab & Sind Bank",
+    "IFSC": "PSIB0021750",
+    "MICR": null,
+    "BRANCH": "NOIDA SECTOR- LXXV",
+    "ADDRESS": "SHOP NO. 7, 8 & 10, GROUND FLOOR IVY COUNTY, PLOT NO. - GH-15, SECTOR-75, NOIDA, GAUTAM BUDDH NAGAR, UTTAR PRADESH- 201301",
+    "STATE": "UTTAR PRADESH",
+    "CONTACT": "+919045307080",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "GAUTAM BUDDH NAGAR",
+    "CENTRE": "GAUTAM BUDDH NAGAR",
+    "DISTRICT": "GAUTAM BUDDH NAGAR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
+  },
   "PSIB0021769": {
     "BANK": "Punjab & Sind Bank",
     "IFSC": "PSIB0021769",
@@ -31948,5 +32020,23 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-HP"
+  },
+  "PSIB0021782": {
+    "BANK": "Punjab & Sind Bank",
+    "IFSC": "PSIB0021782",
+    "MICR": "411023006",
+    "BRANCH": "WAKAD",
+    "ADDRESS": "SHOP NO. 6,7,8,9,11 AND 12 GRAVI BUILDCON, O WING 57, AVENUE, WAKAD, PUNE-411057",
+    "STATE": "MAHARASHTRA",
+    "CONTACT": "+919584718145",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "PUNE",
+    "CENTRE": "PUNE",
+    "DISTRICT": "PUNE",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
   }
 }

@@ -916,5 +916,41 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-UT"
+  },
+  "KNSB0010050": {
+    "BANK": "Kurla Nagarik Sahakari Bank",
+    "IFSC": "KNSB0010050",
+    "MICR": "246846002",
+    "BRANCH": "NANAKMATTA",
+    "ADDRESS": "GURUDWARA ROAD NANAKMATTA",
+    "STATE": "UTTARAKHAND",
+    "CONTACT": "+9154948297311",
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "UDHAM SINGH NAGAR",
+    "CENTRE": "NANAKMATTA",
+    "DISTRICT": "NANAKMATTA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-UT"
+  },
+  "KNSB0010051": {
+    "BANK": "Kurla Nagarik Sahakari Bank",
+    "IFSC": "KNSB0010051",
+    "MICR": "246846003",
+    "BRANCH": "LOHAGHAT",
+    "ADDRESS": "DAK BUNGLOW ROAD LOHAGHAT",
+    "STATE": "UTTARAKHAND",
+    "CONTACT": "+915965297004",
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "CHAMPAWAT",
+    "CENTRE": "LOHAGHAT",
+    "DISTRICT": "LOHAGHAT",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-UT"
   }
 }
