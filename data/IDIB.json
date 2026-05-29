@@ -39599,6 +39599,24 @@
     "SWIFT": null,
     "ISO3166": "IN-CT"
   },
+  "IDIB000J075": {
+    "BANK": "Indian Bank",
+    "IFSC": "IDIB000J075",
+    "MICR": "815019886",
+    "BRANCH": "JAMUA",
+    "ADDRESS": "INDIAN BANK JAMUA BRANCH,THANA ROAD JAMUA, GIRIDIH, JHARKHAND, PIN - 815318",
+    "STATE": "TAMIL NADU",
+    "CONTACT": "+919199905315",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "GIRIDIH",
+    "CENTRE": "JAMUA",
+    "DISTRICT": "JAMUA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
+  },
   "IDIB000J501": {
     "BANK": "Indian Bank",
     "IFSC": "IDIB000J501",
@@ -49866,7 +49884,7 @@
     "BRANCH": "KARKALA",
     "ADDRESS": "DURBAR BUILDING SALMAR KARKALA KARKALA  PIN 574104",
     "STATE": "KARNATAKA",
-    "CONTACT": "+919986997177",
+    "CONTACT": "null",
     "UPI": true,
     "RTGS": true,
     "CITY": "UDUPI",
@@ -62602,6 +62620,24 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-TG"
+  },
+  "IDIB000M444": {
+    "BANK": "Indian Bank",
+    "IFSC": "IDIB000M444",
+    "MICR": "612019018",
+    "BRANCH": "MICROSATE KUMBAKONAM",
+    "ADDRESS": "111, GANDHI ADIGAL SALAI, KUMBAKONAM, THANJAVUR - 612001",
+    "STATE": "TAMIL NADU",
+    "CONTACT": "+914352433255",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "THANJAVUR",
+    "CENTRE": "KUMBAKONAM",
+    "DISTRICT": "KUMBAKONAM",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "IDIB000M445": {
     "BANK": "Indian Bank",
