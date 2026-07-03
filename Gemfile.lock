@@ -41,7 +41,7 @@ GEM
       tilt (~> 2.0)
     test-unit (3.6.7)
       power_assert
-    puma (1.8.2)
+    thin (1.8.2)
       daemons (~> 1.0, >= 1.0.9)
       eventmachine (~> 1.0, >= 1.0.4)
       rack (>= 1, < 3)
@@ -67,7 +67,7 @@ DEPENDENCIES
   secure_headers
   sinatra
   test-unit (~> 3.5)
-  puma
+  thin
 
 BUNDLED WITH
    2.4.10
