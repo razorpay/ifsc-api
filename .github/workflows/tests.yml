@@ -1,9 +1,5 @@
 on: push
 name: Tests
-
-permissions:
-  contents: read
-
 jobs:
   ruby-tests:
     runs-on: ubuntu-latest
@@ -14,7 +10,8 @@ jobs:
     name: Ruby Tests
     steps:
     - uses: actions/checkout@v3
-    - name: Start PMG (SafeDep)
+    - name: Setup PMG proxy
+      id: pmg-setup
       uses: safedep/pmg@v1
       with:
         server-mode: true
@@ -31,14 +28,20 @@ jobs:
         bundle exec ruby test/test.rb
     - name: Enforce PMG policy
       if: always()
-      run: pmg proxy stop --fail-on-violation
+      run: |
+        if [ "${{ steps.pmg-setup.outcome }}" = "success" ]; then
+          pmg proxy stop --fail-on-violation
+        else
+          pmg proxy stop || true
+        fi
   docker-tests:
     name: Docker Tests
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
         uses: actions/checkout@v3
-      - name: Start PMG (SafeDep)
+      - name: Setup PMG proxy
+        id: pmg-setup
         uses: safedep/pmg@v1
         with:
           server-mode: true
@@ -56,4 +59,9 @@ jobs:
           docker stop $container_name && docker rm $container_name && docker rmi ifsc-api
       - name: Enforce PMG policy
         if: always()
-        run: pmg proxy stop --fail-on-violation
+        run: |
+          if [ "${{ steps.pmg-setup.outcome }}" = "success" ]; then
+            pmg proxy stop --fail-on-violation
+          else
+            pmg proxy stop || true
+          fi
