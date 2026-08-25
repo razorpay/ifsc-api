@@ -6,6 +6,9 @@ on:
   pull_request:
     branches: ["master"]
 
+permissions:
+  contents: read
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -14,6 +17,13 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
+      - name: Start PMG (SafeDep)
+        uses: safedep/pmg@v1
+        with:
+          server-mode: true
+          api-key: ${{ secrets.PMG_PUBLIC_REPOS_TOKEN }}
+          tenant-id: ${{ secrets.PMG_TENANT_ID }}
 
       - name: Set up QEMU
         uses: docker/setup-qemu-action@v3
@@ -61,3 +71,7 @@ jobs:
             VERSION=${{ github.ref_name }}
             COMMIT=${{ steps.build_info.outputs.trigger_sha }}
             BUILD_DATE=${{ steps.build_info.outputs.build_date }}
+
+      - name: Enforce PMG policy
+        if: always()
+        run: pmg proxy stop --fail-on-violation
