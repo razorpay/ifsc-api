@@ -2861,6 +2861,24 @@
     "SWIFT": null,
     "ISO3166": "IN-CT"
   },
+  "CRGB0000453": {
+    "BANK": "Chhattisgarh Rajya Gramin Bank",
+    "IFSC": "CRGB0000453",
+    "MICR": null,
+    "BRANCH": "MALHAR",
+    "ADDRESS": "MALHAR, BESIDE SBI, JONDHARA MASTURI MAIN ROAD, TAHSIL-MASTURI DIST. BILASPUR , CHHATTISGARH, 495551",
+    "STATE": "CHHATTISGARH",
+    "CONTACT": "+916232032591",
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "BILASPUR",
+    "CENTRE": "MALHAR",
+    "DISTRICT": "MALHAR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
+  },
   "CRGB0000501": {
     "BANK": "Chhattisgarh Rajya Gramin Bank",
     "IFSC": "CRGB0000501",
@@ -8886,7 +8904,7 @@
     "CITY": "MANENDRAGARH CHIRMIRI BHARATPUR",
     "CENTRE": "MADISARAI",
     "DISTRICT": "MADISARAI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-CT"

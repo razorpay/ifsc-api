@@ -24335,6 +24335,24 @@
     "SWIFT": null,
     "ISO3166": "IN-WB"
   },
+  "BARB0DALLIR": {
+    "BANK": "Bank of Baroda",
+    "IFSC": "BARB0DALLIR",
+    "MICR": null,
+    "BRANCH": "DALLI RAJHARA",
+    "ADDRESS": "NEAR PUSHPA HOSPITAL MAIN ROAD DALLI RAJHARA TEHSIL DONDI DISTRICT BALOD CHATTISGARH 491228",
+    "STATE": "CHHATTISGARH",
+    "CONTACT": "+910221800223344",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "BALOD",
+    "CENTRE": "DALLI RAJHARA",
+    "DISTRICT": "DALLI RAJHARA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-CT"
+  },
   "BARB0DALMAU": {
     "BANK": "Bank of Baroda",
     "IFSC": "BARB0DALMAU",
@@ -70001,6 +70019,24 @@
     "SWIFT": null,
     "ISO3166": "IN-MP"
   },
+  "BARB0HAMBRA": {
+    "BANK": "Bank of Baroda",
+    "IFSC": "BARB0HAMBRA",
+    "MICR": null,
+    "BRANCH": "HAMBRAN ROAD LUDHIANA",
+    "ADDRESS": "S C O NO 15 16 MAIN HAMBRAN ROAD NEAR PETROL PUMP DISTRICT LUDHIANA PUNJAB 141004",
+    "STATE": "PUNJAB",
+    "CONTACT": "+910221800223344",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "LUDHIANA",
+    "CENTRE": "LUDHIANA",
+    "DISTRICT": "LUDHIANA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
+  },
   "BARB0HAMIRP": {
     "BANK": "Bank of Baroda",
     "IFSC": "BARB0HAMIRP",
@@ -74194,6 +74230,24 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-OR"
+  },
+  "BARB0JAGANP": {
+    "BANK": "Bank of Baroda",
+    "IFSC": "BARB0JAGANP",
+    "MICR": null,
+    "BRANCH": "JAGANPURA",
+    "ADDRESS": "SURVEY PLOT NO 530 NEAR SHIV MANDIR MORE PO NEW JAGANPURA DISTRICT PATNA BIHAR 800027",
+    "STATE": "BIHAR",
+    "CONTACT": "+910221800223344",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "PATNA",
+    "CENTRE": "PATNA",
+    "DISTRICT": "PATNA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-BR"
   },
   "BARB0JAGATP": {
     "BANK": "Bank of Baroda",
@@ -82330,6 +82384,24 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-KL"
+  },
+  "BARB0KBRPRK": {
+    "BANK": "Bank of Baroda",
+    "IFSC": "BARB0KBRPRK",
+    "MICR": null,
+    "BRANCH": "KBR NATIONAL PARK",
+    "ADDRESS": "NO 8 2 269/10 UNIT NO 103 TRENT SET TOWERS ROAD NO 2 PO BANJARA HILLS DISTRICT HYDERABAD TELANGANA 500034",
+    "STATE": "TELANGANA",
+    "CONTACT": "+910221800223344",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "HYDERABAD",
+    "CENTRE": "HYDERABAD",
+    "DISTRICT": "HYDERABAD",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-TG"
   },
   "BARB0KCMMOR": {
     "BANK": "Bank of Baroda",
@@ -99971,6 +100043,24 @@
     "SWIFT": null,
     "ISO3166": "IN-PB"
   },
+  "BARB0MULLAP": {
+    "BANK": "Bank of Baroda",
+    "IFSC": "BARB0MULLAP",
+    "MICR": null,
+    "BRANCH": "MULLANPUR",
+    "ADDRESS": "BUILDING NO 2059 GT ROAD ADJ CHRISTIAN HOSPITAL MULLANPUR DISTRICT LUDHIANA PUNJAB 141101",
+    "STATE": "PUNJAB",
+    "CONTACT": "+910221800223344",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "LUDHIANA",
+    "CENTRE": "LUDHIANA",
+    "DISTRICT": "LUDHIANA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-PB"
+  },
   "BARB0MULTAI": {
     "BANK": "Bank of Baroda",
     "IFSC": "BARB0MULTAI",
@@ -103728,7 +103818,7 @@
     "CITY": "JAIPUR",
     "CENTRE": "JAIPUR",
     "DISTRICT": "JAIPUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-RJ"
@@ -103764,7 +103854,7 @@
     "CITY": "IDUKKI",
     "CENTRE": "KALKOONTHAL",
     "DISTRICT": "KALKOONTHAL",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-KL"
@@ -107620,6 +107710,24 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-UP"
+  },
+  "BARB0PANCHO": {
+    "BANK": "Bank of Baroda",
+    "IFSC": "BARB0PANCHO",
+    "MICR": null,
+    "BRANCH": "PANCHOT CIRCLE",
+    "ADDRESS": "SHIVGANGA COMPLEX PANCHOT CIRCLE PANCHOT DISTRICT MEHSANA GUJARAT 384002",
+    "STATE": "GUJARAT",
+    "CONTACT": "+910221800223344",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "MEHSANA",
+    "CENTRE": "MEHSANA",
+    "DISTRICT": "MEHSANA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "BARB0PANCHR": {
     "BANK": "Bank of Baroda",
@@ -129041,6 +129149,24 @@
     "SWIFT": null,
     "ISO3166": "IN-TN"
   },
+  "BARB0SIWANK": {
+    "BANK": "Bank of Baroda",
+    "IFSC": "BARB0SIWANK",
+    "MICR": null,
+    "BRANCH": "SIWAN",
+    "ADDRESS": "MAIN KAITHAL PATIALA ROAD SIWAN DISTRICT KAITHAL HARYANA 136033",
+    "STATE": "HARYANA",
+    "CONTACT": "+910221800223344",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "KAITHAL",
+    "CENTRE": "SIWAN",
+    "DISTRICT": "SIWAN",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
+  },
   "BARB0SIWANX": {
     "BANK": "Bank of Baroda",
     "IFSC": "BARB0SIWANX",
@@ -129162,7 +129288,7 @@
     "CITY": "BHARUCH",
     "CENTRE": "ANKLESVAR",
     "DISTRICT": "ANKLESVAR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-GJ"
@@ -129203,6 +129329,24 @@
     "SWIFT": null,
     "ISO3166": "IN-TN"
   },
+  "BARB0SMEERN": {
+    "BANK": "Bank of Baroda",
+    "IFSC": "BARB0SMEERN",
+    "MICR": null,
+    "BRANCH": "SME BRANCH ERNAKULAM",
+    "ADDRESS": "BARODA ASHRAYA MAHAKAVI G ROAD KARIKKAMURI DISTRICT ERNAKULAM KERALA 682011",
+    "STATE": "KERALA",
+    "CONTACT": "+910221800223344",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "ERNAKULAM",
+    "CENTRE": "KOCHI",
+    "DISTRICT": "KOCHI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-KL"
+  },
   "BARB0SMEGUW": {
     "BANK": "Bank of Baroda",
     "IFSC": "BARB0SMEGUW",
@@ -129216,10 +129360,28 @@
     "CITY": "KAMRUP METROPOLITAN",
     "CENTRE": "GUWAHATI",
     "DISTRICT": "GUWAHATI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-AS"
+  },
+  "BARB0SMEHUB": {
+    "BANK": "Bank of Baroda",
+    "IFSC": "BARB0SMEHUB",
+    "MICR": null,
+    "BRANCH": "SME BRANCH HUBBALLI",
+    "ADDRESS": "BELLAD TOWERS GOKUL ROAD BANNIGIDA STOP HUBBALLI DISTRICT DHARWAD KARNATAKA 580030",
+    "STATE": "KARNATAKA",
+    "CONTACT": "+910221800223344",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "DHARWAD",
+    "CENTRE": "HUBLI DHARWAD",
+    "DISTRICT": "HUBLI DHARWAD",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-KA"
   },
   "BARB0SMEIND": {
     "BANK": "Bank of Baroda",
@@ -129234,7 +129396,7 @@
     "CITY": "INDORE",
     "CENTRE": "INDORE",
     "DISTRICT": "INDORE",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-MP"
@@ -129252,7 +129414,7 @@
     "CITY": "JODHPUR",
     "CENTRE": "JODHPUR",
     "DISTRICT": "JODHPUR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-RJ"
@@ -129324,7 +129486,7 @@
     "CITY": "LUCKNOW",
     "CENTRE": "LUCKNOW",
     "DISTRICT": "LUCKNOW",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-UP"
@@ -129342,7 +129504,7 @@
     "CITY": "LUDHIANA",
     "CENTRE": "LUDHIANA",
     "DISTRICT": "LUDHIANA",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-PB"
@@ -129360,7 +129522,7 @@
     "CITY": "MEERUT",
     "CENTRE": "MEERUT",
     "DISTRICT": "MEERUT",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-UP"
@@ -129382,6 +129544,24 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-GJ"
+  },
+  "BARB0SMEPAN": {
+    "BANK": "Bank of Baroda",
+    "IFSC": "BARB0SMEPAN",
+    "MICR": null,
+    "BRANCH": "SME BRANCH PANIPAT",
+    "ADDRESS": "GT ROAD PANIPAT BRANCH ADJACENT TO KISHORE CINEMA DISTRICT PANIPAT HARYANA 132 103",
+    "STATE": "HARYANA",
+    "CONTACT": "+910221800223344",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "PANIPAT",
+    "CENTRE": "PANIPAT",
+    "DISTRICT": "PANIPAT",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "BARB0SMEPAT": {
     "BANK": "Bank of Baroda",
@@ -129468,7 +129648,7 @@
     "CITY": "THANE",
     "CENTRE": "THANE",
     "DISTRICT": "THANE",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-MH"
@@ -129486,7 +129666,7 @@
     "CITY": "VALSAD",
     "CENTRE": "VAPI",
     "DISTRICT": "VAPI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-GJ"
@@ -129504,7 +129684,7 @@
     "CITY": "VARANASI",
     "CENTRE": "VARANASI",
     "DISTRICT": "VARANASI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-UP"

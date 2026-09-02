@@ -11879,6 +11879,24 @@
     "SWIFT": null,
     "ISO3166": "IN-WB"
   },
+  "PUNB0017030": {
+    "BANK": "Punjab National Bank",
+    "IFSC": "PUNB0017030",
+    "MICR": null,
+    "BRANCH": "SECTOR ONE HUNRED THIRTEEN GURUGRAM",
+    "ADDRESS": "SCO 10 M3M MARKET SECTOR 113",
+    "STATE": "HARYANA",
+    "CONTACT": "23765326",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "GURUGRAM",
+    "CENTRE": "GURUG",
+    "DISTRICT": "GURUG",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
+  },
   "PUNB0017100": {
     "BANK": "Punjab National Bank",
     "IFSC": "PUNB0017100",
@@ -11932,6 +11950,24 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-WB"
+  },
+  "PUNB0017130": {
+    "BANK": "Punjab National Bank",
+    "IFSC": "PUNB0017130",
+    "MICR": null,
+    "BRANCH": "SEC ONE HUNRED FORTY TWO NOIDA",
+    "ADDRESS": "PINNACLE TOWER PLOT NO142",
+    "STATE": "UTTAR PRADESH",
+    "CONTACT": "23765326",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "GAUTAM BUDDHA NAGAR",
+    "CENTRE": "NOIDA",
+    "DISTRICT": "NOIDA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-UP"
   },
   "PUNB0017200": {
     "BANK": "Punjab National Bank",
@@ -12130,6 +12166,24 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-WB"
+  },
+  "PUNB0017430": {
+    "BANK": "Punjab National Bank",
+    "IFSC": "PUNB0017430",
+    "MICR": null,
+    "BRANCH": "SECTOR SEVENTY NINE FARIDABAD",
+    "ADDRESS": "SCO 87 OMAXE WORLD",
+    "STATE": "HARYANA",
+    "CONTACT": "23765326",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "FARIDABAD",
+    "CENTRE": "FARID",
+    "DISTRICT": "FARID",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "PUNB0017500": {
     "BANK": "Punjab National Bank",
@@ -13350,7 +13404,7 @@
     "CITY": "GANDHI NAGAR",
     "CENTRE": "GANDHI NAGAR",
     "DISTRICT": "GANDHI NAGAR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-GJ"
@@ -14633,6 +14687,24 @@
     "SWIFT": null,
     "ISO3166": "IN-WB"
   },
+  "PUNB0020930": {
+    "BANK": "Punjab National Bank",
+    "IFSC": "PUNB0020930",
+    "MICR": null,
+    "BRANCH": "LAMBHVEL ROADANAND",
+    "ADDRESS": "SHOP NUMBER G3 AND G4 LAKSH 511",
+    "STATE": "GUJARAT",
+    "CONTACT": "23765326",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "ANAND",
+    "CENTRE": "ANAND",
+    "DISTRICT": "ANAND",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
+  },
   "PUNB0021000": {
     "BANK": "Punjab National Bank",
     "IFSC": "PUNB0021000",
@@ -14686,6 +14758,24 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-WB"
+  },
+  "PUNB0021030": {
+    "BANK": "Punjab National Bank",
+    "IFSC": "PUNB0021030",
+    "MICR": null,
+    "BRANCH": "BAIHAR",
+    "ADDRESS": "PUNJAB NATIONAL BANK LAMTA ROAD",
+    "STATE": "MADHYA PRADESH",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "BAIHA",
+    "CENTRE": "BAIHA",
+    "DISTRICT": "BAIHA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MP"
   },
   "PUNB0021100": {
     "BANK": "Punjab National Bank",
@@ -15528,7 +15618,7 @@
     "CITY": "BEDIYA",
     "CENTRE": "BEDIYA",
     "DISTRICT": "BEDIYA",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-MP"
@@ -16433,6 +16523,24 @@
     "SWIFT": null,
     "ISO3166": "IN-WB"
   },
+  "PUNB0023530": {
+    "BANK": "Punjab National Bank",
+    "IFSC": "PUNB0023530",
+    "MICR": null,
+    "BRANCH": "RADHAKISHA",
+    "ADDRESS": "RADHAKISHANPURA DIST SIKAR",
+    "STATE": "RAJASTHAN",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "SIKAR",
+    "CENTRE": "SIKAR",
+    "DISTRICT": "SIKAR",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
+  },
   "PUNB0023610": {
     "BANK": "Punjab National Bank",
     "IFSC": "PUNB0023610",
@@ -16464,6 +16572,24 @@
     "CITY": "SOUTH DINAJPUR",
     "CENTRE": "MALDA",
     "DISTRICT": "MALDA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
+  },
+  "PUNB0023630": {
+    "BANK": "Punjab National Bank",
+    "IFSC": "PUNB0023630",
+    "MICR": null,
+    "BRANCH": "DUBRAJPUR",
+    "ADDRESS": "PNB DUBRAJPUR PODDAR BANDH MORE",
+    "STATE": "WEST BENGAL",
+    "CONTACT": "23765326",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "BIRBHUM",
+    "CENTRE": "BIRBH",
+    "DISTRICT": "BIRBH",
     "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
@@ -17112,7 +17238,7 @@
     "CITY": "CHENNAI",
     "CENTRE": "CHENNAI",
     "DISTRICT": "CHENNAI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-TN"
@@ -17184,7 +17310,7 @@
     "CITY": "PAKKE",
     "CENTRE": "PAKKE",
     "DISTRICT": "PAKKE",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-AR"
@@ -17310,7 +17436,7 @@
     "CITY": "ABOH",
     "CENTRE": "ABOH",
     "DISTRICT": "ABOH",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-PB"
@@ -17382,7 +17508,7 @@
     "CITY": "BAISI",
     "CENTRE": "BAISI",
     "DISTRICT": "BAISI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-BR"
@@ -17454,7 +17580,7 @@
     "CITY": "KATIHAR",
     "CENTRE": "KATIHAR",
     "DISTRICT": "KATIHAR",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-BR"
@@ -17580,7 +17706,7 @@
     "CITY": "KOVILPATTI",
     "CENTRE": "KOVILPATTI",
     "DISTRICT": "KOVILPATTI",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-TN"
@@ -17652,7 +17778,7 @@
     "CITY": "SRIGA",
     "CENTRE": "SRIGA",
     "DISTRICT": "SRIGA",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-RJ"
@@ -17711,6 +17837,24 @@
     "SWIFT": null,
     "ISO3166": "IN-MN"
   },
+  "PUNB0025430": {
+    "BANK": "Punjab National Bank",
+    "IFSC": "PUNB0025430",
+    "MICR": null,
+    "BRANCH": "DHARMA",
+    "ADDRESS": "PLOT NO 73",
+    "STATE": "WEST BENGAL",
+    "CONTACT": "23765326",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "MIDNA",
+    "CENTRE": "MIDNA",
+    "DISTRICT": "MIDNA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-WB"
+  },
   "PUNB0025500": {
     "BANK": "Punjab National Bank",
     "IFSC": "PUNB0025500",
@@ -17764,6 +17908,24 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-MN"
+  },
+  "PUNB0025530": {
+    "BANK": "Punjab National Bank",
+    "IFSC": "PUNB0025530",
+    "MICR": null,
+    "BRANCH": "GOLA",
+    "ADDRESS": "R1 COMPLEX MAIN ROAD GOLARAJRAPP CHOWK DISTT RAMGARH",
+    "STATE": "JHARKHAND",
+    "CONTACT": "+911123718172",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "RAMGARH",
+    "CENTRE": "RAMGARH",
+    "DISTRICT": "RAMGARH",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-JH"
   },
   "PUNB0025600": {
     "BANK": "Punjab National Bank",
@@ -17819,6 +17981,24 @@
     "SWIFT": null,
     "ISO3166": "IN-MN"
   },
+  "PUNB0025630": {
+    "BANK": "Punjab National Bank",
+    "IFSC": "PUNB0025630",
+    "MICR": null,
+    "BRANCH": "BALUMATH LATEHAR",
+    "ADDRESS": "227 BALUMATH LATEHAR",
+    "STATE": "RAJASTHAN",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "SIKAR",
+    "CENTRE": "LATEH",
+    "DISTRICT": "LATEH",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
+  },
   "PUNB0025700": {
     "BANK": "Punjab National Bank",
     "IFSC": "PUNB0025700",
@@ -17872,6 +18052,24 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-MN"
+  },
+  "PUNB0025730": {
+    "BANK": "Punjab National Bank",
+    "IFSC": "PUNB0025730",
+    "MICR": null,
+    "BRANCH": "MODERN INTERNATIONAL SCHOOL",
+    "ADDRESS": "MODERN INTERNATIONAL SCHOOL PHASE 1",
+    "STATE": "HARYANA",
+    "CONTACT": "23765326",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "SOUTH WEST DELHI",
+    "CENTRE": "NEWDL",
+    "DISTRICT": "NEWDL",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
   },
   "PUNB0025800": {
     "BANK": "Punjab National Bank",
@@ -17940,7 +18138,7 @@
     "CITY": "PRAYA",
     "CENTRE": "PRAYA",
     "DISTRICT": "PRAYA",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-UP"
@@ -17999,6 +18197,24 @@
     "SWIFT": null,
     "ISO3166": "IN-TR"
   },
+  "PUNB0025930": {
+    "BANK": "Punjab National Bank",
+    "IFSC": "PUNB0025930",
+    "MICR": null,
+    "BRANCH": "PARAMATHI VELUR",
+    "ADDRESS": "PNB PARAMATHI VELUR NO 83 1",
+    "STATE": "TAMIL NADU",
+    "CONTACT": "23765326",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "NAMKKAL",
+    "CENTRE": "PARAV",
+    "DISTRICT": "PARAV",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
+  },
   "PUNB0026000": {
     "BANK": "Punjab National Bank",
     "IFSC": "PUNB0026000",
@@ -18052,6 +18268,24 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-TR"
+  },
+  "PUNB0026030": {
+    "BANK": "Punjab National Bank",
+    "IFSC": "PUNB0026030",
+    "MICR": null,
+    "BRANCH": "NAMBIYUR",
+    "ADDRESS": "PNB NAMBIYUR NO 514",
+    "STATE": "TAMIL NADU",
+    "CONTACT": "23765326",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "NAMBI",
+    "CENTRE": "NAMBI",
+    "DISTRICT": "NAMBI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "PUNB0026100": {
     "BANK": "Punjab National Bank",
@@ -18120,7 +18354,7 @@
     "CITY": "KARUM",
     "CENTRE": "KARUM",
     "DISTRICT": "KARUM",
-    "NEFT": false,
+    "NEFT": true,
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-TN"
@@ -18178,6 +18412,24 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-TR"
+  },
+  "PUNB0026230": {
+    "BANK": "Punjab National Bank",
+    "IFSC": "PUNB0026230",
+    "MICR": null,
+    "BRANCH": "NAMBIYUR",
+    "ADDRESS": "KOVAI MAIN ROAD",
+    "STATE": "TAMIL NADU",
+    "CONTACT": null,
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "GURUG",
+    "CENTRE": "NAMBI",
+    "DISTRICT": "NAMBI",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
   },
   "PUNB0026300": {
     "BANK": "Punjab National Bank",
@@ -18287,6 +18539,24 @@
     "SWIFT": null,
     "ISO3166": "IN-TR"
   },
+  "PUNB0026430": {
+    "BANK": "Punjab National Bank",
+    "IFSC": "PUNB0026430",
+    "MICR": null,
+    "BRANCH": "ZUZUVADI",
+    "ADDRESS": "NO 5 13 1 OPP BEGAPALLI BUS STOP",
+    "STATE": "TAMIL NADU",
+    "CONTACT": "23765326",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "ZUZUV",
+    "CENTRE": "ZUZUV",
+    "DISTRICT": "ZUZUV",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-TN"
+  },
   "PUNB0026500": {
     "BANK": "Punjab National Bank",
     "IFSC": "PUNB0026500",
@@ -18340,6 +18610,24 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-TR"
+  },
+  "PUNB0026530": {
+    "BANK": "Punjab National Bank",
+    "IFSC": "PUNB0026530",
+    "MICR": null,
+    "BRANCH": "DEESA PALANPUR HIGHWAY DEESA",
+    "ADDRESS": "GF SHOP NO 16B 17A 18A 18B 19A 19B",
+    "STATE": "GUJARAT",
+    "CONTACT": "23765326",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "BANASKANTHA",
+    "CENTRE": "DEESA",
+    "DISTRICT": "DEESA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
   },
   "PUNB0026600": {
     "BANK": "Punjab National Bank",
@@ -18395,6 +18683,24 @@
     "SWIFT": null,
     "ISO3166": "IN-UP"
   },
+  "PUNB0026630": {
+    "BANK": "Punjab National Bank",
+    "IFSC": "PUNB0026630",
+    "MICR": null,
+    "BRANCH": "HAYATHNAGAR",
+    "ADDRESS": "PNB HAYATHNAGAR PLOT NO 13",
+    "STATE": "TELANGANA",
+    "CONTACT": "23765326",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "RANGA REDDY",
+    "CENTRE": "HYDER",
+    "DISTRICT": "HYDER",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-TG"
+  },
   "PUNB0026700": {
     "BANK": "Punjab National Bank",
     "IFSC": "PUNB0026700",
@@ -18448,6 +18754,24 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-UP"
+  },
+  "PUNB0026730": {
+    "BANK": "Punjab National Bank",
+    "IFSC": "PUNB0026730",
+    "MICR": null,
+    "BRANCH": "CHILAKALURIPET",
+    "ADDRESS": "1ST FLOOR SRI GOWRI SANKARTOWER DOOR NO16 307",
+    "STATE": "ANDHRA PRADESH",
+    "CONTACT": "23765326",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "PALNADU",
+    "CENTRE": "CHILA",
+    "DISTRICT": "CHILA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-AP"
   },
   "PUNB0026800": {
     "BANK": "Punjab National Bank",
@@ -18557,6 +18881,24 @@
     "SWIFT": null,
     "ISO3166": "IN-UP"
   },
+  "PUNB0026930": {
+    "BANK": "Punjab National Bank",
+    "IFSC": "PUNB0026930",
+    "MICR": null,
+    "BRANCH": "GURUGRAM",
+    "ADDRESS": "SHOP NO G 57 AND G58",
+    "STATE": "HARYANA",
+    "CONTACT": "23765326",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "GURUG",
+    "CENTRE": "GURUG",
+    "DISTRICT": "GURUG",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
+  },
   "PUNB0027000": {
     "BANK": "Punjab National Bank",
     "IFSC": "PUNB0027000",
@@ -18610,6 +18952,24 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-UP"
+  },
+  "PUNB0027030": {
+    "BANK": "Punjab National Bank",
+    "IFSC": "PUNB0027030",
+    "MICR": null,
+    "BRANCH": "HO MID CORPORATE CREDIT DIVISI",
+    "ADDRESS": "PNB HO MID CORPORATE CREDIT DIVISION",
+    "STATE": "DELHI",
+    "CONTACT": "23765326",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "ND",
+    "CENTRE": "ND",
+    "DISTRICT": "ND",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-DL"
   },
   "PUNB0027100": {
     "BANK": "Punjab National Bank",
@@ -18773,6 +19133,24 @@
     "SWIFT": null,
     "ISO3166": "IN-UP"
   },
+  "PUNB0027330": {
+    "BANK": "Punjab National Bank",
+    "IFSC": "PUNB0027330",
+    "MICR": null,
+    "BRANCH": "NAGARKURNOOL",
+    "ADDRESS": "PNB NAGARKURNOOL HNO 1410",
+    "STATE": "TELANGANA",
+    "CONTACT": "23765326",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "NAGARKURNOOL",
+    "CENTRE": "NAGAK",
+    "DISTRICT": "NAGAK",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-TG"
+  },
   "PUNB0027400": {
     "BANK": "Punjab National Bank",
     "IFSC": "PUNB0027400",
@@ -18827,6 +19205,24 @@
     "SWIFT": null,
     "ISO3166": "IN-DL"
   },
+  "PUNB0027430": {
+    "BANK": "Punjab National Bank",
+    "IFSC": "PUNB0027430",
+    "MICR": null,
+    "BRANCH": "LAKHTAR",
+    "ADDRESS": "SHOP NO 10 11 AND 17 MARUTI COMPLEX",
+    "STATE": "GUJARAT",
+    "CONTACT": "23765326",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "SURENDRANAGAR",
+    "CENTRE": "SUREN",
+    "DISTRICT": "SUREN",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-GJ"
+  },
   "PUNB0027500": {
     "BANK": "Punjab National Bank",
     "IFSC": "PUNB0027500",
@@ -18880,6 +19276,24 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-DL"
+  },
+  "PUNB0027530": {
+    "BANK": "Punjab National Bank",
+    "IFSC": "PUNB0027530",
+    "MICR": null,
+    "BRANCH": "BHUVANAGIRI",
+    "ADDRESS": "PNB BHUVANAGIRI",
+    "STATE": "TELANGANA",
+    "CONTACT": "23765326",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "YADADRI BHUVANAGIRI",
+    "CENTRE": "BHUVA",
+    "DISTRICT": "BHUVA",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-TG"
   },
   "PUNB0027600": {
     "BANK": "Punjab National Bank",
@@ -178450,6 +178864,24 @@
     "IMPS": true,
     "SWIFT": null,
     "ISO3166": "IN-MP"
+  },
+  "PUNB0645200": {
+    "BANK": "Punjab National Bank",
+    "IFSC": "PUNB0645200",
+    "MICR": null,
+    "BRANCH": "B MID CORPORATE CENTER",
+    "ADDRESS": "NEAR MILAN TRAVELS SADUL GANJ BIKANER",
+    "STATE": "RAJASTHAN",
+    "CONTACT": "+911123718172",
+    "UPI": true,
+    "RTGS": true,
+    "CITY": "BIKANER",
+    "CENTRE": "BIKANER",
+    "DISTRICT": "BIKANER",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-RJ"
   },
   "PUNB0645300": {
     "BANK": "Punjab National Bank",
