@@ -1,0 +1,30 @@
+service: ifsc-api  # required, canonical slug — immutable once registered
+displayName: "IFSC API"  # required, human-readable name — README title and GitHub repo description ":bank: Standalone API for IFSC codes"; IFSC (Indian Financial System Code) is the bank-branch identifier, and "IFSC API" is the product name used at ifsc.razorpay.com
+description: "Ruby API server behind the public ifsc.razorpay.com that serves IFSC and bank-branch lookup, /search and /places endpoints from the razorpay/ifsc reference dataset, for Razorpay's own services and for external developers."  # required, one-sentence description of what the service does — README ("API server that serves Razorpay's IFSC API. Current API Root is https://ifsc.razorpay.com/"), its /search and /places route tables, the Ruby app.rb/config.ru/init.rb entrypoints with Redis, and the GitHub repo description
+type: service  # required, one of: service | worker | cron | library | pipeline — a Rack/Ruby HTTP server (app.rb, config.ru, entrypoint.sh, views/, public/) with a Dockerfile published as the razorpay/ifsc image on Docker Hub and served at ifsc.razorpay.com; #tech_ifsc threads describe deploying ifsc-api per release (latest 2.0.62, Sept 2026)
+tier: T2  # required, one of: T0 | T1 | T2 | T3 — Payments Reliability sheet Priority P2 → T2; kept. It is a public read-only reference-data API: the api monolith gets IFSC data from the razorpay/ifsc Composer package rather than from this server (confirmed in #tech_ifsc), so an outage here affects external consumers of ifsc.razorpay.com, not payment processing
+lifecycle: live  # optional, one of: incubating | live | deprecated | retired (default: live)
+aliases: ["ifsc"]  # other names this service is known by — it ships as the Docker Hub image razorpay/ifsc and is referred to simply as "IFSC" in #tech_ifsc; recorded to keep it distinct from razorpay/ifsc, which is the dataset + client-package repo this server renders
+
+domain: tech-infra/platform-core  # required, two-level domain/subgroup slug — the Payments Reliability sheet has no BU for this slug and the repo has no .github/repo_owners.json (the sibling razorpay/ifsc CODEOWNERS names only two individuals, @gyanesh-m and @captn3m0, no team); derived from what the code does — a standalone shared reference-data API consumed org-wide and publicly, coordinated in #tech_ifsc, so family tech-infra and the existing platform-core area for shared platform services
+
+owner:
+  team:  # required, owning team slug — TO FILL: this repo has no CODEOWNERS file, .github/repo_owners.json carries no team slug, and the GitHub repository-teams API is not readable with the current token; ask the POD lead for the owning GitHub team
+  pm:  # product manager — TO FILL. Not derived on purpose: mapping the org tree to a PM is unreliable because PMs own products across org boundaries. Ask the POD lead.
+
+links:
+  repo: "https://github.com/razorpay/ifsc-api"  # canonical GitHub repo URL
+  alerts_repo:  # this service's alert rules in razorpay/alert-rules — TO FILL: no matching ruleset found; add one in razorpay/alert-rules, then link the file here
+  slos:  # SLO definitions — TO FILL: no slo.yaml at this repo root and no sloth ruleset for it under razorpay/alert-rules/slo/prod (the two places SLOs are defined today); add one there and link it here
+  slack_channel: "#tech_ifsc"  # primary Slack channel for this service — 125 members, channel purpose is literally "<https://ifsc.razorpay.com>"; a message search confirms ifsc-api releases and deployments are coordinated there ("Deploy ifsc-api", "we need to raise one more pr for ifsc-api … and deploy")
+  zenduty_policy:  # Zenduty policy/service name used for paging — TO FILL: the service-to-policy mapping is not in DevRev or alert-rules for this service; it lives in the external Zenduty policies sheet
+  oncall_handle:  # Slack/PagerDuty oncall handle or usergroup — TO FILL: not set on the DevRev runnable
+  runbook:  # link to the incident runbook — TO FILL: no runbook directory for this service in razorpay/rzp-oncall-agent; add one or link the Google Doc / alpha.razorpay.com page
+  api_docs: "https://github.com/razorpay/ifsc/wiki/API"  # API documentation — named in this repo's README ("The API documentation is maintained at https://github.com/razorpay/ifsc/wiki/API"); the prefill was empty because there is no swagger/openapi file in the repo tree
+  dashboard:  # primary dashboard — TO FILL: no Grafana dashboard on any cell names ifsc, the service has no ruleset in razorpay/alert-rules (so no vajra_link), and it does not appear in the Netra deployment inventory for cde-green/prod-white. The repo does expose a metrics.rb, so a Prometheus board is buildable — onboard it to Baseline Observability and link it here
+  logs_and_traces: "https://razorpay-prod.app.coralogix.in/#/query-new/archive-logs"  # org-standard prod Coralogix — filter subsystem "ifsc-api"
+  strategy_okr:  # TO FILL: link the FY strategy doc for the owning group.
+  risk_assessment:  # TO FILL: no .agents/skills/risk-assessment in this repo; add the per-repo risk-assessment skill
+  regions:  # per-region links — TO FILL: no prod region deployment found for this service in spinacode or alert-rules; add a block per geography once it ships
+
+dependencies: []  # optional, declared service dependencies — TO FILL: shape: - service: <slug> for internal deps, - vendor: <name> for external (gateways, banks)
