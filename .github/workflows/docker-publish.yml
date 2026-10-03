@@ -18,15 +18,6 @@ jobs:
       - name: Set up QEMU
         uses: docker/setup-qemu-action@v3
 
-      - name: Set up Docker Buildx
-        uses: docker/setup-buildx-action@v3
-
-      - name: Login to Docker Hub
-        uses: docker/login-action@v3
-        with:
-          username: ${{ secrets.PUBLIC_DOCKER_USERNAME }}
-          password: ${{ secrets.PUBLIC_DOCKER_PASSWORD }}
-
       - name: Get Build Info
         id: build_info
         run: |
@@ -42,21 +33,28 @@ jobs:
         run: |
           if [[ "${GITHUB_REF}" == refs/tags/* ]]; then
             IMAGE_TAG="${GITHUB_REF#refs/tags/}"
-            echo "tags=razorpay/ifsc:${IMAGE_TAG},razorpay/ifsc:latest" >> $GITHUB_OUTPUT
+            echo "custom_tag<<EOF" >> $GITHUB_OUTPUT
+            echo "${IMAGE_TAG}" >> $GITHUB_OUTPUT
+            echo "latest" >> $GITHUB_OUTPUT
+            echo "EOF" >> $GITHUB_OUTPUT
           else
             # Use the trigger SHA instead of the merge commit SHA
             IMAGE_TAG="${{ steps.build_info.outputs.trigger_sha }}"
-            echo "tags=razorpay/ifsc:${IMAGE_TAG}" >> $GITHUB_OUTPUT
+            echo "custom_tag=${IMAGE_TAG}" >> $GITHUB_OUTPUT
           fi
 
       - name: Build & Push
-        uses: docker/build-push-action@v6
+        uses: razorpay/actions/docker-image-build-push@master
         with:
+          username: ${{ secrets.HARBOR_DOCKER_USERNAME }}
+          password: ${{ secrets.HARBOR_DOCKER_PASSWORD }}
+          registry: c.rzp.io
+          repository: ${{ github.event.repository.name }}
           context: .
-          platforms: linux/amd64,linux/arm64
+          enable-login: true
           push: true
-          tags: ${{ steps.vars.outputs.tags }}
-          # No special network configuration or REDIS_HOST arguments are needed.
+          platforms: linux/amd64,linux/arm64
+          custom-tag: ${{ steps.vars.outputs.custom_tag }}
           build-args: |
             VERSION=${{ github.ref_name }}
             COMMIT=${{ steps.build_info.outputs.trigger_sha }}
