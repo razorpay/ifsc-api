@@ -1,4 +1,4 @@
-FROM --platform=linux/amd64 ruby:3.1-alpine3.18 AS rdbbuilder
+FROM --platform=linux/amd64 ruby:3.3.14-alpine3.24 AS rdbbuilder
 
 # Set the working directory
 WORKDIR /app
@@ -42,7 +42,7 @@ RUN echo "** Builder: Starting redis-server in the background... **" && \
 # ---- Final Stage ----
 # This stage builds the final, lean runtime image for the application.
 # It will be built for all target platforms (amd64, arm64).
-FROM ruby:3.1-alpine3.18
+FROM ruby:3.3.14-alpine3.24
 
 WORKDIR /app
 
